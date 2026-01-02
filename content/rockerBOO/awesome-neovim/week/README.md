@@ -18,6 +18,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
+*   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 *   [dybdeskarphet/gruvbox-minimal.nvim (⭐7)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 
 ### Note Taking / Cursorline
@@ -70,7 +71,6 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Competitive Programming
 
-*   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
 *   [letieu/jira.nvim (⭐107)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
@@ -1200,10 +1200,6 @@ Collections of awesome neovim plugins.
 *   [igorlfs/nvim-dap-view (⭐570)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
-
-### Colorscheme / Assembly
-
-*   [m15a/nvim-srcerite (⭐7)](https://github.com/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 
 ### Utility / Cursorline
 

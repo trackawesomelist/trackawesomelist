@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [nishu-murmu/cursor-inline (⭐2)](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 
+### Colorscheme / Assembly
+
+*   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+
 ### Note Taking / Cursorline
 
 *   [stikypiston/studytools.nvim (⭐3)](https://github.com/stikypiston/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
@@ -57,10 +61,6 @@ Collections of awesome neovim plugins.
 ### Note Taking / Cursorline
 
 *   [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
-
-### Workflow / Competitive Programming
-
-*   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
 
 ## [Dec 25, 2025](/content/2025/12/25/README.md)
 
@@ -1399,12 +1399,6 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [mluders/comfy-line-numbers.nvim (⭐105)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
-
-## [Jan 21, 2025](/content/2025/01/21/README.md)
-
-### Colorscheme / Assembly
-
-*   [m15a/nvim-srcerite (⭐7)](https://github.com/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 
 ## [Jan 19, 2025](/content/2025/01/19/README.md)
 

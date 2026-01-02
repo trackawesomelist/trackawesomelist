@@ -1,42 +1,63 @@
 # Awesome List Updates on Jan 02, 2026
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Reactive programming
+
+*   NEW (2025) · [live-cells (⭐3)](https://github.com/alex-gutev/live-cells-cl/) -  A reactive programming library for Lisp. BSD\_3Clause.
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### HTTP Clients and tools
+
+*   [Rack::Cors (⭐3.3k)](https://github.com/cyu/rack-cors) - Cross-Origin Resource Sharing (CORS) middleware for Rack applications.
+
+### ORM/ODM Extensions
+
+*   Tagging
+    *   [Acts As Taggable On (⭐5k)](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
+
+## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
     (C++, GPL 3, [GitHub (⭐691)](https://github.com/Yixin-Hu/TetWild))
 
-## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [4. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### UI / Paid Books
 
 *   [EstreUI.js (⭐2)](https://github.com/SoliEstre/EstreUI.js) - Mobile-first SPA+PWA framework designed for native-like experience with ES11 and jQuery.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
 *   [nishu-murmu/cursor-inline (⭐2)](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 
+### Colorscheme / Assembly
+
+*   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+
 ### Note Taking / Cursorline
 
 *   [stikypiston/studytools.nvim (⭐3)](https://github.com/stikypiston/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [doppler (⭐0)](https://github.com/lsdcapital/zsh-doppler) - Displays your current [Doppler](https://doppler.com) project and configuration in your shell prompt from environment variables.
 *   [mkcd (⭐3)](https://github.com/azizoid/zsh-mkcd) - Provides a `mkcd` command, the canonical `mkdir` && `cd` helper.
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 

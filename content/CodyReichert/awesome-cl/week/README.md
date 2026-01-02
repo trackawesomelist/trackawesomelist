@@ -27,6 +27,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [Moonli](https://gitlab.com/digikar/moonli) - a Julia/Python-ish syntax layer that transpiles to Common Lisp.
     *   *experimental*. New as of 2025.
 
+### Reactive programming
+
+*   NEW (2025) · [live-cells (⭐3)](https://github.com/alex-gutev/live-cells-cl/) -  A reactive programming library for Lisp. BSD\_3Clause.
+
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-recycling-taskmaster (⭐6)](https://github.com/y2q-actionman/hunchentoot-recycling-taskmaster) - a taskmaster implementation for Hunchentoot, aiming to improve connection establishment efficiency through thread-pooling and flexible thread count adjustment. BSD\_2Clause.

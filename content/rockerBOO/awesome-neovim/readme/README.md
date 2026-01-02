@@ -805,7 +805,7 @@ then it is not supported:
 *   [diegoulloao/neofusion.nvim (⭐226)](https://github.com/diegoulloao/neofusion.nvim) - ***`[TS][LSP][Lua]`*** A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 *   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - ***`[TS][LSP][L/D][Lua]`*** A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 *   [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - ***`[TS][LSP][Lua]`*** A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
-*   [m15a/nvim-srcerite (⭐7)](https://github.com/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+*   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 *   [neko-night/nvim (⭐60)](https://github.com/neko-night/nvim) - ***`[TS][LSP][L/D][Lua]`*** A buffet of colorschemes for every taste and mood.
 *   [ptdewey/monalisa-nvim (⭐9)](https://github.com/ptdewey/monalisa-nvim) - ***`[TS][LSP][Lua]`*** A dark and colorful Mona Lisa inspired colorscheme.
 *   [ntk148v/slack.nvim (⭐5)](https://github.com/ntk148v/slack.nvim) - ***`[TS][L/D][Lua]`*** A ported Slack colorscheme.
@@ -1766,12 +1766,6 @@ then it is not supported:
 <!--lint enable double-link -->
 
 ## Workflow
-
-<!-- lint disable double-link -->
-
-*   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
-
-<!-- lint enable double-link -->
 
 *   [letieu/jira.nvim (⭐107)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 *   [m4xshen/hardtime.nvim (⭐3.6k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.

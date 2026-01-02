@@ -1,25 +1,36 @@
 # Awesome List Updates on Jan 05 - Jan 11, 2026
 
-28 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [1. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+
+### HTTP Clients and tools
+
+*   [Rack::Cors (⭐3.3k)](https://github.com/cyu/rack-cors) - Cross-Origin Resource Sharing (CORS) middleware for Rack applications.
+
+### ORM/ODM Extensions
+
+*   Tagging
+    *   [Acts As Taggable On (⭐5k)](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
+
+## [2. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
     (C++, GPL 3, [GitHub (⭐691)](https://github.com/Yixin-Hu/TetWild))
 
-## [2. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [3. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### UI / Paid Books
 
 *   [EstreUI.js (⭐2)](https://github.com/SoliEstre/EstreUI.js) - Mobile-first SPA+PWA framework designed for native-like experience with ES11 and jQuery.
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -27,13 +38,13 @@
 *   [flow-cli (⭐0)](https://github.com/Data-Wise/flow-cli) - ADHD-friendly ZSH workflow tools. Start working in 10 seconds with `work`, track wins for dopamine with `win`, stay oriented with `dash`. Includes smart dispatchers for git, R, Quarto, and Claude Code.
 *   [mkcd (⭐3)](https://github.com/azizoid/zsh-mkcd) - Provides a `mkcd` command, the canonical `mkdir` && `cd` helper.
 
-## [4. Awesome Cern](/content/CERN/awesome-cern/week/README.md)
+## [5. Awesome Cern](/content/CERN/awesome-cern/week/README.md)
 
 ### Physics/mathematics analysis/simulation / Event Management
 
 *   [GeoModel](https://geomodel.web.cern.ch): GeoModel - A Detector Description Toolkit for HEP experiments.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -94,7 +105,7 @@
 *   [Apache Avro (⭐3.2k) (⭐3.2k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [YAML (⭐436) (⭐436)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -104,7 +115,7 @@
 
 *   [SlingSite](https://slingsite.github.io) - Create all the optimized versions of your images and videos. For Free. In bulk. For each image, you get the following formats: AVIF, WEBP and JPG in the three selected resolutions (desktop, tablet, mobile) For videos, you get: WebM (codec VP9), MP4 (codec HEVC aka H.265) and MP4 (codec AVC aka H.264) plus the cover image with the first frame.
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
@@ -116,7 +127,7 @@
 *   [vivsim (⭐28)](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
 *   [MBIRJAX (⭐19)](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -145,25 +156,25 @@
 *   [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
 *   [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Enhancing Robot Program Synthesis Through Environmental Context](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0c1e94af650f5c74b1f3da467c2308c2-Abstract-Conference.html) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17630134586050451683)]. Program synthesis aims to automatically generate an executable program that conforms to the given specification. Recent advancements have demonstrated that deep neural methodologies and large-scale pretrained language models are highly proficient in capturing program semantics. For robot programming, prior works have facilitated program synthesis by incorporating global environments. However, the assumption of acquiring a comprehensive understanding of the entire environment is often excessively challenging to achieve. This work presents a framework that learns to synthesize a program by rectifying potentially erroneous code segments, with the aid of partially observed environments. To tackle the issue of inadequate attention to partial observations, the authors propose to first learn an environment embedding space that can implicitly evaluate the impacts of each program token based on the precondition. Furthermore, by employing a graph structure, the model can aggregate both environmental and syntactic information flow and furnish smooth program rectification guidance. Extensive experimental evaluations and ablation studies on the partially observed VizDoom domain authenticate that the method offers superior generalization capability across various tasks and greater robustness when encountering noises.
 
-## [10. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Backup
 
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / GitHub
 
 *   [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### MCP servers
 
@@ -184,23 +195,27 @@
 *   [Moonli](https://gitlab.com/digikar/moonli) - a Julia/Python-ish syntax layer that transpiles to Common Lisp.
     *   *experimental*. New as of 2025.
 
+### Reactive programming
+
+*   NEW (2025) · [live-cells (⭐3)](https://github.com/alex-gutev/live-cells-cl/) -  A reactive programming library for Lisp. BSD\_3Clause.
+
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-recycling-taskmaster (⭐6)](https://github.com/y2q-actionman/hunchentoot-recycling-taskmaster) - a taskmaster implementation for Hunchentoot, aiming to improve connection establishment efficiency through thread-pooling and flexible thread count adjustment. BSD\_2Clause.
 
-## [13. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [14. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [AgnosticUI (⭐748)](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 
-## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [15. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [Tenuo (⭐2)](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [16. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -210,13 +225,13 @@
 
 *   [anvil (⭐97)](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
-## [16. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [17. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
-## [17. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [18. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Game dev
 
@@ -267,13 +282,13 @@
 *   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
     // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
 *   [LargeModGames/spotatui (⭐151)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
-## [19. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [20. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Community Resources
 
@@ -369,13 +384,13 @@
 *   [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) - Easier TLS certificate management for brokers.
 *   [mqttsa (⭐51)](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [@nabaraj/vue-pagination (⭐0)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
@@ -385,13 +400,13 @@
 
 *   [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
-## [22. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [23. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -406,31 +421,31 @@
 
 *   [MicroQuickJS (⭐4.7k)](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
 
-## [24. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [25. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
 
-## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [26. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
 
-## [26. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [Django LiveView (⭐139)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 
-## [27. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [28. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [swissnatcoll](https://swissnatcoll.ch/) - Swiss Natural History Collections portal providing open access to specimen data from natural history collections preserved in Switzerland.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -442,6 +457,7 @@
 
 ### Colorscheme / Assembly
 
+*   [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - ***`[TS][Lua]`*** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 *   [dybdeskarphet/gruvbox-minimal.nvim (⭐7)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 
 ### Note Taking / Cursorline
