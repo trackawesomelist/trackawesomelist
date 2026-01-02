@@ -8,6 +8,11 @@
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
+### MOOC's
+
+*   [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
+*   [Programmieren für Germanist\*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
+
 ### General Machine Learning Packages / Deep Learning architectures
 
 *   [jSciPy (⭐5)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
@@ -15,6 +20,20 @@
 ### Books / Visualization Tools
 
 *   [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
+*   [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
+
+### Mailing lists / Book Deals (Affiliated)
+
+*   [Working Group - Research Software Engineering in the Digital Humanities](https://www.listserv.dfn.de/sympa/info/ag-dhrse). This is the mailing list for the Research Software Engineering in the Digital Humanities (DH-RSE) working group.
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Jan Oliver Rüdiger](https://notesjor.de/) - ML, DL and Data Science - with a focus on text-/data-mining
+
+### Datasets / Book Deals (Affiliated)
+
+*   [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
+*   [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

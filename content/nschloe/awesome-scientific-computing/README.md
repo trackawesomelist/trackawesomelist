@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/nschloe/awesome-scientific-computing/week/README.md) / [Overview](/content/nschloe/awesome-scientific-computing/readme/README.md) ]
 
+## [Jan 02, 2026](/content/2026/01/02/README.md)
+
+### Meshing / Triangular and tetrahedral meshing
+
+*   [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
+    (C++, GPL 3, [GitHub (⭐691)](https://github.com/Yixin-Hu/TetWild))
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Multi-purpose toolkits
@@ -23,7 +30,7 @@
 *   [NetCDF](https://www.unidata.ucar.edu/software/netcdf) - Software libraries and data formats for array-oriented scientific data.
     (C/C++/Fortran/Java/Python, [custom open-source
     license](https://www.unidata.ucar.edu/software/netcdf/licensing),
-    [GitHub (⭐570)](https://github.com/Unidata/netcdf-c/))
+    [GitHub (⭐573)](https://github.com/Unidata/netcdf-c/))
 *   [XDMF](https://xdmf.org/) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 
@@ -32,7 +39,7 @@
 ### Data formats / Mesh tools
 
 *   [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
-    (C/Fortran, BSD, [GitHub (⭐844)](https://github.com/HDFGroup/hdf5))
+    (C/Fortran, BSD, [GitHub (⭐867)](https://github.com/HDFGroup/hdf5))
 
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
@@ -45,29 +52,29 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
-    (Python, MIT, [GitHub (⭐3.4k)](https://github.com/mikedh/trimesh))
+    (Python, MIT, [GitHub (⭐3.5k)](https://github.com/mikedh/trimesh))
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygalmesh (⭐655)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+*   [pygalmesh (⭐660)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
     (Python, GPL 3, GitHub)
-*   [dmsh (⭐219)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+*   [dmsh (⭐220)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
     (Python, proprietary, GitHub)
 
 ### Meshing / Mesh tools
 
-*   [optimesh (⭐618)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
+*   [optimesh (⭐619)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
     (Python, proprietary, GitHub)
 *   [meshplex (⭐108)](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
     (Python, proprietary, GitHub)
 
 ### Other libraries and tools / Mesh tools
 
-*   [quadpy (⭐787)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
+*   [quadpy (⭐786)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
     (Python, proprietary, GitHub)
-*   [accupy (⭐106)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
+*   [accupy (⭐107)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
     (Python, GPL 3, GitHub)
 *   [orthopy (⭐187)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
     (Python, proprietary, GitHub)
@@ -76,7 +83,7 @@
 
 ### Visualization / Mesh tools
 
-*   [morphologica (⭐310)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+*   [morphologica (⭐311)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -90,7 +97,7 @@
 ### Visualization / Mesh tools
 
 *   [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
-    (C++, BSD, [GitHub (⭐3.9k)](https://github.com/f3d-app/f3d))
+    (C++, BSD, [GitHub (⭐4k)](https://github.com/f3d-app/f3d))
 
 ### Community / Mesh tools
 
@@ -102,7 +109,7 @@
 ### Finite Elements
 
 *   [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
-    (C++, BSD-3-Clause, [GitHub (⭐2k)](https://github.com/mfem/mfem))
+    (C++, BSD-3-Clause, [GitHub (⭐2.1k)](https://github.com/mfem/mfem))
 
 ## [Jan 14, 2022](/content/2022/01/14/README.md)
 
@@ -114,7 +121,7 @@
 
 ### Other libraries and tools / Mesh tools
 
-*   [HPDDM (⭐150)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
+*   [HPDDM (⭐152)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
     (C++, LGPL 3, GitHub)
 
 ## [Dec 15, 2021](/content/2021/12/15/README.md)
@@ -123,13 +130,13 @@
 
 *   [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
     (C, *nonfree software*)
-*   [SeismicMesh (⭐137)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
+*   [SeismicMesh (⭐139)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
     (Python and C++, GPL 3, GitHub)
 
 ### Meshing / Quadrilateral and hexahedral meshing
 
 *   [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
-    (C++, BSD, [GitHub (⭐782)](https://github.com/hjwdzh/QuadriFlow))
+    (C++, BSD, [GitHub (⭐794)](https://github.com/hjwdzh/QuadriFlow))
 
 ### Meshing / Mesh tools
 
@@ -140,13 +147,13 @@
 *   [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
     (C++, MIT with Employer Disclaimer, [GitHub (⭐1.4k)](https://github.com/pmp-library/pmp-library/))
 *   [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
-    (C, LGPL 3, [GitHub (⭐437)](https://github.com/MmgTools/mmg))
+    (C, LGPL 3, [GitHub (⭐444)](https://github.com/MmgTools/mmg))
 
 ## [Oct 28, 2021](/content/2021/10/28/README.md)
 
 ### Other libraries and tools / Mesh tools
 
-*   [PyDMD (⭐109)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
+*   [PyDMD (⭐111)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
     (Python, MIT, GitHub)
 
 ## [May 28, 2021](/content/2021/05/28/README.md)
@@ -159,19 +166,19 @@
 ### Other libraries and tools / Mesh tools
 
 *   [shenfun](https://shenfun.readthedocs.io/en/latest/) - High-performance Python library for the spectral Galerkin method.
-    (Python, BSD-2, [GitHub (⭐222)](https://github.com/spectralDNS/shenfun))
+    (Python, BSD-2, [GitHub (⭐223)](https://github.com/spectralDNS/shenfun))
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 
 ### Finite Elements
 
-*   [scikit-fem (⭐595)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+*   [scikit-fem (⭐604)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
     (Python, BSD/GPL, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
-    (C++/Python, BSD, [GitHub (⭐457)](https://github.com/topology-tool-kit/ttk))
+    (C++/Python, BSD, [GitHub (⭐462)](https://github.com/topology-tool-kit/ttk))
 
 ## [Apr 20, 2021](/content/2021/04/20/README.md)
 
@@ -185,7 +192,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐510)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐515)](https://github.com/esa/pygmo2))
 
 ## [Mar 18, 2021](/content/2021/03/18/README.md)
 
@@ -198,26 +205,26 @@
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
-    (Python, GPL 3, [GitHub (⭐622)](https://github.com/DedalusProject/dedalus))
+    (Python, GPL 3, [GitHub (⭐638)](https://github.com/DedalusProject/dedalus))
 
 ## [Feb 04, 2021](/content/2021/02/04/README.md)
 
 ### Data formats / Mesh tools
 
 *   [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
-    (Python, MIT, [GitHub (⭐1.8k)](https://github.com/zarr-developers/zarr-python))
+    (Python, MIT, [GitHub (⭐1.9k)](https://github.com/zarr-developers/zarr-python))
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
-    (Python, Apache 2.0, [GitHub (⭐928)](https://github.com/dswah/pyGAM))
+    (Python, Apache 2.0, [GitHub (⭐940)](https://github.com/dswah/pyGAM))
 
 ## [Oct 27, 2020](/content/2020/10/27/README.md)
 
 ### Visualization / Mesh tools
 
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
-    (Python, BSD, [GitHub (⭐529)](https://github.com/yt-project/yt))
+    (Python, BSD, [GitHub (⭐534)](https://github.com/yt-project/yt))
 
 ## [Oct 17, 2020](/content/2020/10/17/README.md)
 
@@ -230,7 +237,7 @@
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygmsh (⭐934)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
+*   [pygmsh (⭐938)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
     (Python, GPL 3, GitHub)
 
 ### Visualization / Mesh tools
@@ -250,7 +257,7 @@
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
-    (C, 2-clause BSD, [GitHub (⭐238)](https://github.com/CEED/libCEED))
+    (C, 2-clause BSD, [GitHub (⭐241)](https://github.com/CEED/libCEED))
 
 ## [Feb 25, 2020](/content/2020/02/25/README.md)
 
@@ -261,10 +268,8 @@
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
-    (C++, GPL 3, [GitHub (⭐686)](https://github.com/Yixin-Hu/TetWild))
 *   [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
-    (C++, MPL 2, [GitHub (⭐512)](https://github.com/wildmeshing/fTetWild))
+    (C++, MPL 2, [GitHub (⭐526)](https://github.com/wildmeshing/fTetWild))
 
 ### Other libraries and tools / Mesh tools
 
@@ -288,7 +293,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐252)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐255)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -324,21 +329,21 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
-    (C, Apache 2.0/MIT, [GitHub (⭐794)](https://github.com/hypre-space/hypre))
+    (C, Apache 2.0/MIT, [GitHub (⭐802)](https://github.com/hypre-space/hypre))
 
 ## [Jun 03, 2019](/content/2019/06/03/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
-    (Python, 2-clause BSD, [GitHub (⭐333)](https://github.com/pymor/pymor/))
+    (Python, 2-clause BSD, [GitHub (⭐338)](https://github.com/pymor/pymor/))
 
 ## [May 31, 2019](/content/2019/05/31/README.md)
 
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐7.1k)](https://github.com/OpenMathLib/OpenBLAS))
+    (C and Assembly, BSD, [GitHub (⭐7.2k)](https://github.com/OpenMathLib/OpenBLAS))
 *   [BLIS (⭐2.6k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
@@ -352,19 +357,19 @@
 ### Basic linear algebra
 
 *   [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
-    (C++, BSD, [GitHub (⭐525)](https://github.com/ginkgo-project/ginkgo))
+    (C++, BSD, [GitHub (⭐546)](https://github.com/ginkgo-project/ginkgo))
 
 ### Other libraries and tools / Mesh tools
 
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-    (MATLAB, BSD, [GitHub (⭐647)](https://github.com/chebfun/chebfun))
+    (MATLAB, BSD, [GitHub (⭐656)](https://github.com/chebfun/chebfun))
 
 ## [Mar 21, 2019](/content/2019/03/21/README.md)
 
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐817)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐820)](https://github.com/sfepy/sfepy))
 
 ### Community / Mesh tools
 
@@ -402,22 +407,22 @@
 ### Finite Elements
 
 *   [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
-    (C++, LGPL 2.1, [GitHub (⭐717)](https://github.com/libMesh/libmesh))
+    (C++, LGPL 2.1, [GitHub (⭐724)](https://github.com/libMesh/libmesh))
 *   [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
     (C++, LGPL 2.1, [GitHub (⭐1.6k)](https://github.com/dealii/dealii))
 *   [Netgen/NGSolve](https://ngsolve.org) - High performance multiphysics finite element software.
-    (C++, LGPL 2.1, [GitHub (⭐359)](https://github.com/NGSolve/netgen))
+    (C++, LGPL 2.1, [GitHub (⭐364)](https://github.com/NGSolve/netgen))
 *   [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
-    (Python, LGPL 3, [GitHub (⭐614)](https://github.com/firedrakeproject/firedrake))
+    (Python, LGPL 3, [GitHub (⭐622)](https://github.com/firedrakeproject/firedrake))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
     (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 *   [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
-    (Python, MIT, [GitHub (⭐565)](https://github.com/inducer/meshpy))
+    (Python, MIT, [GitHub (⭐571)](https://github.com/inducer/meshpy))
 *   [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
-    (C++, mixed LGPL/GPL, [GitHub (⭐5.6k)](https://github.com/CGAL/cgal))
+    (C++, mixed LGPL/GPL, [GitHub (⭐5.7k)](https://github.com/CGAL/cgal))
 *   [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
     (C++, AGPLv3)
 
@@ -426,7 +431,7 @@
 *   [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
     (C, mostly BSD, [GitHub (⭐317)](https://github.com/xiaoyeli/superlu))
 *   [PyAMG](https://pyamg.readthedocs.io/en/latest/) - Algebraic Multigrid Solvers in Python.
-    (Python, MIT, [GitHub (⭐628)](https://github.com/pyamg/pyamg))
+    (Python, MIT, [GitHub (⭐631)](https://github.com/pyamg/pyamg))
 
 ### Other libraries and tools / Mesh tools
 
@@ -434,7 +439,7 @@
     (C, GPL2, [GitHub (⭐3k)](https://github.com/FFTW/fftw3))
 *   [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
     (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
-    [GitHub (⭐799)](https://github.com/qhull/qhull/))
+    [GitHub (⭐801)](https://github.com/qhull/qhull/))
 *   [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
     (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 *   [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
@@ -442,4 +447,4 @@
 *   [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
     (Python, [custom open-source
     license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
-    [GitHub (⭐577)](https://github.com/usnistgov/fipy))
+    [GitHub (⭐583)](https://github.com/usnistgov/fipy))
