@@ -1,25 +1,59 @@
 # Awesome List Updates on Jan 03, 2026
 
-5 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / DSL Program Synthesis
+
+*   [On the Effectiveness of Large Language Models in Domain-Specific Code Generation](https://dl.acm.org/doi/full/10.1145/3697012) - ***ACM Transactions on Software Engineering and Methodology***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=9022735489715766344)]. Large language models (LLMs) such as ChatGPT have shown remarkable capabilities in code generation. Despite significant achievements, they rely on enormous training data to acquire a broad spectrum of open-domain knowledge. Besides, their evaluation revolves around open-domain benchmarks like HumanEval, which primarily consist of programming contests. Therefore, it is hard to fully characterize the intricacies and challenges associated with particular domains (e.g., Web, game, and math). This work conducts an in-depth study of the LLMs in domain-specific code generation. The results demonstrate that LLMs exhibit sub-optimal performance in generating domain-specific code, due to their limited proficiency in utilizing domain-specific libraries. The authors further observe that incorporating API knowledge as prompts can empower LLMs to generate more professional code. Based on these findings, the authors further investigate how to effectively incorporate API knowledge into the code generation process. The authors experiment with three strategies for incorporating domain knowledge, namely, external knowledge inquirer, chain-of-thought prompting, and chain-of-thought fine-tuning. The authors refer to these strategies as a new code generation approach called DomCoder. Experimental results show that all strategies of DomCoder improve the effectiveness of domain-specific code generation under certain settings.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Development tools / Static analysis
+
+*   [cargo-coupling (⭐56)](https://github.com/nwiizo/cargo-coupling) - A Rust coupling analysis tool using Vlad Khononov's "Balancing Coupling in Software Design" framework
+
+### Libraries / Artificial Intelligence
+
+*   [Cortex Memory (⭐58)](https://github.com/sopaco/cortex-mem) - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
+
+## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### Services / React
+
+*   [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
+
+## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+
+### Design
+
+*   [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [git-to-jj (⭐8)](https://github.com/elithrar/zsh-git-to-jj) - Helps you progressively learn [Jujutsu (⭐24k)](https://github.com/jj-vcs/jj) (aka `jj`) porcelain as you use `git` commands.
+
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / API Testing
 
 *   [Vedika API](https://vedika.io/) - Vedic astrology API with free sandbox environment for testing. Includes Postman collection, 108+ endpoints, and AI-powered chatbot API for integration testing.
 
-## [2. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Preprocess / Clinical Trial
 
 *   [FlashDeconv (⭐3)](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution. Processes 1M spots in \~3 minutes.
 *   [Squidpy](https://squidpy.readthedocs.io/) - Spatial single cell analysis library in Python.
 
-## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
@@ -165,13 +199,13 @@
 *   [WesternFriend (⭐60)](https://github.com/WesternFriend/westernfriend.org) - community website with directory, ecommerce, and online subscription
 *   [Wagtail user guide (⭐33)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Rev-dep (⭐35)](https://github.com/jayu/rev-dep) — Dependency analysis and optimization toolkit for modern JavaScript and TypeScript projects. Trace imports, identify circular dependencies, find unused code, clean node modules.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 

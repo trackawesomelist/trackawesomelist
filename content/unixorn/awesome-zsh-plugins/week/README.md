@@ -12,6 +12,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [doppler (⭐0)](https://github.com/lsdcapital/zsh-doppler) - Displays your current [Doppler](https://doppler.com) project and configuration in your shell prompt from environment variables.
 *   [flow-cli (⭐0)](https://github.com/Data-Wise/flow-cli) - ADHD-friendly ZSH workflow tools. Start working in 10 seconds with `work`, track wins for dopamine with `win`, stay oriented with `dash`. Includes smart dispatchers for git, R, Quarto, and Claude Code.
+*   [git-to-jj (⭐8)](https://github.com/elithrar/zsh-git-to-jj) - Helps you progressively learn [Jujutsu (⭐24k)](https://github.com/jj-vcs/jj) (aka `jj`) porcelain as you use `git` commands.
 *   [mkcd (⭐3)](https://github.com/azizoid/zsh-mkcd) - Provides a `mkcd` command, the canonical `mkdir` && `cd` helper.
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
@@ -47,8 +48,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-cmd (⭐1)](https://github.com/shanemcd/ai-cmd) - Generate shell commands from natural language using LLMs via [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [Ollama](https://ollama.ai/).
 *   [ai-cmd (⭐34)](https://github.com/kylesnowschwartz/zsh-ai-cmd) - Natural language to shell commands with ghost text preview. Requires `curl`, [`jq`](https://stedolan.github.io/jq/) and an Anthropic API key.
+*   [ai-cmd (⭐1)](https://github.com/shanemcd/ai-cmd) - Generate shell commands from natural language using LLMs via [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [Ollama](https://ollama.ai/).
 *   [claude-code-shell (⭐13)](https://github.com/ArielTM/zsh-claude-code-shell) - Translates natural language comments into shell commands using [Claude Code](https://claude.ai/claude-code).
 *   [nota (⭐1)](https://github.com/0x61nas/nota.zsh) - Simple plugin to manage a list of notes.
 *   [pump (⭐0)](https://github.com/fab1o/pump-zsh) - provides a configurable set of aliases, functions, and themes to supercharge your terminal workflow. Requires [jq](https://stedolan.github.io/jq/), [gum (⭐22k)](https://github.com/charmbracelet/gum), [glow (⭐22k)](https://github.com/charmbracelet/glow) and the [GitHub CLI](https://cli.github.com/).

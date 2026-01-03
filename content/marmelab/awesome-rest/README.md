@@ -6,6 +6,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 [ Daily / [Weekly](/content/marmelab/awesome-rest/week/README.md) / [Overview](/content/marmelab/awesome-rest/readme/README.md) ]
 
+## [Jan 03, 2026](/content/2026/01/03/README.md)
+
+### Design
+
+*   [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
+
 ## [Jul 29, 2025](/content/2025/07/29/README.md)
 
 ### Documentation / Symfony2
@@ -18,7 +24,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Miscellaneous / Symfony2
 
-*   [shadcn-admin-kit (⭐106)](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
+*   [shadcn-admin-kit (⭐698)](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
 
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 
@@ -34,7 +40,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## [Aug 23, 2024](/content/2024/08/23/README.md)
 
-### Public REST APIs To Use In Tests / Symfony2
+### Mocking / Symfony2
 
 *   [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
 
@@ -85,12 +91,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### .NET Clients
 
 *   [RestSharp (⭐9.8k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
-*   [Refit (⭐9.2k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Refit (⭐9.3k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 *   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 *   [RestEase (⭐1.1k)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-*   [Tiny.RestClient (⭐209)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐210)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 *   [RestLess (⭐112)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
-*   [Apizr (⭐159)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr (⭐171)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### Node.js
 
@@ -124,12 +130,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Public REST APIs To Use In Tests / Symfony2
 
-*   [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
-*   [Public APIS (⭐358k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
-*   [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
-*   [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
+*   [Public APIS (⭐389k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 *   [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-*   [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
+*   [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
 ### Documentation / Symfony2
 
@@ -140,7 +143,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying / Symfony2
 
-*   [RestQA (⭐90)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [RestQA (⭐93)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -168,35 +171,35 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### PowerShell / Symfony2
 
-*   [Pode (⭐974)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐1k)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
 ### Guidelines
 
-*   [Adidas REST API Guidelines (⭐393)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
+*   [Adidas REST API Guidelines (⭐397)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
 *   [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.
-*   [Cisco REST API Guide (⭐117)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
+*   [Cisco REST API Guide (⭐119)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 *   [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
-*   [Haufe API Style Guide (⭐239)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
+*   [Haufe API Style Guide (⭐242)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
 *   [Microsoft REST API Guidelines (⭐23k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-*   [Restful API Guidelines by Zalando (⭐3k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+*   [Restful API Guidelines by Zalando (⭐3.1k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ### Generators
 
-*   [openapi-generator (⭐24k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐26k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [Jul 27, 2022](/content/2022/07/27/README.md)
 
 ### SaaS Tools / Symfony2
 
-*   [Nango (⭐5.5k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐6.3k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐2.6k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐2.9k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 
@@ -226,7 +229,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### API Gateway / Symfony2
 
-*   [WSO2 API Management (⭐909)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
+*   [WSO2 API Management (⭐952)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 
 ## [Aug 09, 2020](/content/2020/08/09/README.md)
 
@@ -238,7 +241,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐6.6k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.7k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [Aug 17, 2019](/content/2019/08/17/README.md)
 
@@ -256,13 +259,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐248)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [Apr 21, 2019](/content/2019/04/21/README.md)
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐88k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐94k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [Mar 24, 2019](/content/2019/03/24/README.md)
 
@@ -292,13 +295,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [HTTP Prompt (⭐9.1k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 
 ## [Oct 02, 2018](/content/2018/10/02/README.md)
 
 ### Querying / Symfony2
 
-*   [Insomnia (⭐37k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐38k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [Sep 10, 2018](/content/2018/09/10/README.md)
 
@@ -310,7 +313,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9.7k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.8k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ## [Jun 30, 2018](/content/2018/06/30/README.md)
 
@@ -322,7 +325,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐4.4k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐4.5k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 
@@ -348,8 +351,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐41k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐10k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Kong (⭐42k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐11k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2.1k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ## [Nov 20, 2017](/content/2017/11/20/README.md)
@@ -362,7 +365,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Java / Symfony2
 
-*   [Dropwizard (⭐8.5k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
+*   [Dropwizard (⭐8.6k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
 ## [Oct 27, 2017](/content/2017/10/27/README.md)
 
@@ -374,13 +377,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Miscellaneous / Symfony2
 
-*   [swagger-codegen (⭐17k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
+*   [swagger-codegen (⭐18k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
 ## [Apr 21, 2017](/content/2017/04/21/README.md)
 
 ### Node.js
 
-*   [Expressa (⭐445)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐449)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ## [Apr 19, 2017](/content/2017/04/19/README.md)
 
@@ -392,13 +395,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐398)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐416)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [Oct 26, 2016](/content/2016/10/26/README.md)
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐7.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [Sep 13, 2016](/content/2016/09/13/README.md)
 
@@ -422,13 +425,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐489)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐490)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [Aug 17, 2016](/content/2016/08/17/README.md)
 
 ### PHP
 
-*   [Fusio (⭐2k)](https://github.com/apioo/fusio) - Open source API management platform.
+*   [Fusio (⭐2.1k)](https://github.com/apioo/fusio) - Open source API management platform.
 
 ## [Aug 05, 2016](/content/2016/08/05/README.md)
 
@@ -478,7 +481,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Haskell / Symfony2
 
-*   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+*   [Rest for Haskell (⭐386)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
 ## [Nov 26, 2015](/content/2015/11/26/README.md)
 
@@ -495,17 +498,17 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### PHP / Symfony2
 
-*   [API Platform (⭐9k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+*   [API Platform (⭐9.1k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 
 ### Querying / Symfony2
 
-*   [httpie (⭐36k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [httpie (⭐37k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
 ## [Oct 31, 2015](/content/2015/10/31/README.md)
 
 ### Querying / Symfony2
 
-*   [Http-console (⭐1.4k)](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
+*   [Http-console (⭐1.5k)](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 
 ## [Oct 30, 2015](/content/2015/10/30/README.md)
 
@@ -517,14 +520,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### JavaScript Clients
 
-*   [traverson (⭐456)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐460)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [Jul 21, 2015](/content/2015/07/21/README.md)
-
-### Design
-
-*   [Architectural Styles and
-    the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
 
 ### PHP Clients
 
@@ -539,7 +537,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐956)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐957)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Directly On Top Of A RMDB
 
@@ -557,7 +555,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Negotiation (⭐1.4k)](https://github.com/willdurand/Negotiation) - Content negotiation library.
 *   [Drest (⭐87)](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
-*   [HAL (⭐202)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
+*   [HAL (⭐201)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 *   [Apigility (⭐442)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 *   [phprest (⭐305)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 *   [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
@@ -565,10 +563,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### PHP / Symfony2
 
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
-*   [stanlemon/rest-bundle (⭐122)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
-*   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
+*   [stanlemon/rest-bundle (⭐121)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [BazingaHateoasBundle (⭐296)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
-*   [Symfony REST Edition (⭐633)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+*   [Symfony REST Edition (⭐632)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 *   [DunglasApiBundle (⭐2.5k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
 
@@ -579,26 +576,25 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Go / Symfony2
 
 *   [go-json-rest (⭐3.5k)](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
-*   [sleepy (⭐672)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
+*   [sleepy (⭐670)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 *   [restit (⭐55)](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
-*   [go-relax (⭐153)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
+*   [go-relax (⭐154)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 *   [go-rest (⭐128)](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
-*   [Goat (⭐155)](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 *   [Resoursea (⭐35)](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 
 ### Java / Symfony2
 
-*   [RestExpress (⭐936)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+*   [RestExpress (⭐940)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 
 ### Querying / Symfony2
 
 *   [resty (⭐2.7k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-*   [jq (⭐32k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+*   [jq (⭐33k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 
 ### Mocking / Symfony2
 
-*   [FakeRest (⭐449)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
-*   [json-server (⭐75k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+*   [FakeRest (⭐451)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
+*   [json-server (⭐76k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 
 ### SaaS Tools / Symfony2
 
@@ -612,7 +608,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Go / Symfony2
 
-*   [gocrud (⭐304)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐305)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [May 11, 2015](/content/2015/05/11/README.md)
 

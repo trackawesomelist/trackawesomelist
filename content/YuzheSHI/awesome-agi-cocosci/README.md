@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 03, 2026](/content/2026/01/03/README.md)
+
+### Domain Specific Language / DSL Program Synthesis
+
+*   [On the Effectiveness of Large Language Models in Domain-Specific Code Generation](https://dl.acm.org/doi/full/10.1145/3697012) - ***ACM Transactions on Software Engineering and Methodology***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=9022735489715766344)]. Large language models (LLMs) such as ChatGPT have shown remarkable capabilities in code generation. Despite significant achievements, they rely on enormous training data to acquire a broad spectrum of open-domain knowledge. Besides, their evaluation revolves around open-domain benchmarks like HumanEval, which primarily consist of programming contests. Therefore, it is hard to fully characterize the intricacies and challenges associated with particular domains (e.g., Web, game, and math). This work conducts an in-depth study of the LLMs in domain-specific code generation. The results demonstrate that LLMs exhibit sub-optimal performance in generating domain-specific code, due to their limited proficiency in utilizing domain-specific libraries. The authors further observe that incorporating API knowledge as prompts can empower LLMs to generate more professional code. Based on these findings, the authors further investigate how to effectively incorporate API knowledge into the code generation process. The authors experiment with three strategies for incorporating domain knowledge, namely, external knowledge inquirer, chain-of-thought prompting, and chain-of-thought fine-tuning. The authors refer to these strategies as a new code generation approach called DomCoder. Experimental results show that all strategies of DomCoder improve the effectiveness of domain-specific code generation under certain settings.
+
 ## [Dec 31, 2025](/content/2025/12/31/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
