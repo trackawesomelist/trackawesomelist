@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
+
+### Tools / Starforged
+
+*   [SectorCrucible](https://lucatabone.com/sector-crucible/) - Starforged universe procedural generator
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Hacks and homebrew / Starforged
@@ -428,7 +434,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Starforged
 
-*   [isscrolls (⭐26)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐27)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 
 ### Hacks and homebrew / Starforged
 
@@ -481,8 +487,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Starforged
 
-*   [DataForged (⭐207)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐141)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐208)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐142)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 

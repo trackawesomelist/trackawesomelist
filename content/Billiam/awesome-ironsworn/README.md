@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Jan 04, 2026](/content/2026/01/04/README.md)
+
+### Tools / Starforged
+
+*   [SectorCrucible](https://lucatabone.com/sector-crucible/) - Starforged universe procedural generator
+
 ## [Dec 12, 2025](/content/2025/12/12/README.md)
 
 ### Hacks and homebrew / Starforged
@@ -443,7 +449,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Starforged
 
-*   [isscrolls (⭐26)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐27)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 
 ## [Sep 13, 2021](/content/2021/09/13/README.md)
 
@@ -512,8 +518,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Starforged
 
-*   [DataForged (⭐207)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐141)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐208)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐142)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 
 ### Hacks and homebrew / Starforged
 
