@@ -6,6 +6,16 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
+
+### Browsers
+
+*   [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/imputnet/helium/)
+
+### Security
+
+*   [cppcryptfs (⭐883)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
 ### Audio
@@ -102,7 +112,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Command Line Tools
 
 *   [gallery-dl (⭐16k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [yt-dlp (⭐138k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐140k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### File Management
 
@@ -140,7 +150,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Browsers
 
-*   [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/brave/brave-browser)
+*   [Brave](https://brave.com) - Privacy focused browser with built-in adblock. [![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/brave/brave-browser)
 *   [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://hg.mozilla.org/mozilla-central)
 *   [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://gitlab.torproject.org/tpo/core/tor)
 
@@ -369,7 +379,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Terminal
 
-*   [Alacritty (⭐61k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Alacritty (⭐62k)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Text Editors
@@ -634,7 +644,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
 *   [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
 *   [PartitionGuru ｜ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
-*   [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair.
+*   [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Developer Utilities
 

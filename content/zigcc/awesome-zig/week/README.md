@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
+
+### GUI / Zigged Project
+
+*   [kotsutsumi/zylix (⭐7)](https://github.com/kotsutsumi/zylix) : Zig powered cross-platform UI framework with Virtual DOM.
+
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
 ### Tools / Text Editors
@@ -32,11 +38,11 @@ A collection of awesome projects in Zig.
 
 ### Command Line and Argument Parser / Linker
 
-*   [CogitatorTech/chilli (⭐41)](https://github.com/CogitatorTech/chilli): Chilli 🌶️ is a minimalistic CLI framework for Zig.
+*   [CogitatorTech/chilli (⭐43)](https://github.com/CogitatorTech/chilli): Chilli 🌶️ is a minimalistic CLI framework for Zig.
 
 ### Compilers and Interpreters / Linker
 
-*   [Element 0 (⭐17)](https://github.com/Element0Lang/element-0): A small embeddable Lisp dialect written in Zig.
+*   [Element 0 (⭐23)](https://github.com/Element0Lang/element-0): A small embeddable Lisp dialect written in Zig.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -46,7 +52,7 @@ A collection of awesome projects in Zig.
 
 ### Web Framework / Zigged Project
 
-*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
+*   [nurulhudaapon/zx (⭐98)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
 
 ### GUI / Zigged Project
 
@@ -61,7 +67,7 @@ A collection of awesome projects in Zig.
 ### Game Field / Zigged Project
 
 *   [captkirk88/zevy-raylib (⭐2)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
-*   [captkirk88/zevy-ecs (⭐8)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
+*   [captkirk88/zevy-ecs (⭐10)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
 
 ### Misc / Zigged Project
 
@@ -1101,7 +1107,7 @@ A collection of awesome projects in Zig.
     *   [clebert/llama2.zig (⭐48)](https://github.com/clebert/llama2.zig) : Inference Llama 2 in pure Zig.
     *   [renerocksai/gpt4all.zig (⭐97)](https://github.com/renerocksai/gpt4all.zig) : ZIG build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMa.
     *   [EugenHotaj/zig\_gpt2 (⭐39)](https://github.com/EugenHotaj/zig_gpt2) : Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT (⭐51k)](https://github.com/karpathy/nanoGPT).
-    *   [CogitatorTech/zigformer (⭐34)](https://github.com/CogitatorTech/zigformer): ZigFormer is an transformer-based LLM implemented in pure Zig
+    *   [CogitatorTech/zigformer (⭐41)](https://github.com/CogitatorTech/zigformer): ZigFormer is an transformer-based LLM implemented in pure Zig
 
 ### Database / Zigged Project
 
