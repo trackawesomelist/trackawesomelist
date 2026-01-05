@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jan 05, 2026](/content/2026/01/05/README.md)
+
+### Compilers and Interpreters / Linker
+
+*   [Fun (⭐2)](https://github.com/omdxp/fun) : Fun is a statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
+
 ## [Jan 04, 2026](/content/2026/01/04/README.md)
 
 ### GUI / Zigged Project
