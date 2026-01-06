@@ -6,6 +6,16 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### PubSub / React
+
+*   [graphql-ably-pubsub (⭐7)](https://github.com/ably-labs/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
+
+### Tools - Security / React
+
+*   [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+
 ## [Jan 03, 2026](/content/2026/01/03/README.md)
 
 ### Services / React
@@ -37,7 +47,6 @@ Awesome list of GraphQL
 
 ### Go / React
 
-*   [vibeGraphql](https://github.com/Raezil/vibeGraphql) - vibeGraphQL is a minimalistic GraphQL library for Go that supports queries, mutations, and subscriptions with a clean and intuitive API. It was vibe coded using ChatGPT o3 model.
 *   [Thunder (⭐117)](https://github.com/Raezil/Thunder) - A scalable microservices framework powered by Go, gRPC-Gateway, Prisma, and Kubernetes. It exposes REST, gRPC and Graphql
 *   [grpc-graphql-gateway (⭐419)](https://github.com/ysugimoto/grpc-graphql-gateway) - A protoc plugin that generates graphql execution code from Protocol Buffers.
     <a name="go-example" />
@@ -670,10 +679,6 @@ Awesome list of GraphQL
 *   [graphql-bookshelf (⭐184)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 *   [join-monster (⭐2.7k)](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 
-### PubSub / React
-
-*   [graphql-ably-pubsub](https://www.npmjs.com/package/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
-
 ### Custom Scalars / React
 
 *   [graphql-scalars (⭐1.9k)](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
@@ -1011,7 +1016,6 @@ Awesome list of GraphQL
 *   [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 *   [js-graphql-intellij-plugin (⭐894)](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 *   [vim-graphql (⭐509)](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
-*   [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation.
 *   [graphql-autocomplete (⭐47)](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 
 ### Databases / React

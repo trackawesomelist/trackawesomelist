@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### Asset Management
+
+*   [CakeVite plugin (⭐0)](https://github.com/josbeir/cakephp-vite) - A fully-featured [Vite](https://vite.dev/) plugin (spiritual successor of [brandcom/cakephp-vite (⭐22)](https://github.com/brandcom/cakephp-vite)).
+
 ## [Jan 05, 2026](/content/2026/01/05/README.md)
 
 ### AI Tools
@@ -121,12 +127,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### ORM / Database / Datamapping
 
 *   [CakeUid (⭐0)](https://github.com/josbeir/cakephp-uid) - A collection of UID field types for your Tables (UUIDV4, UUIDV6, UUIDV7, ULID).
-
-## [Jun 11, 2025](/content/2025/06/11/README.md)
-
-### Asset Management
-
-*   [ViteHelper plugin (⭐22)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
 
 ## [May 19, 2025](/content/2025/05/19/README.md)
 

@@ -1,18 +1,23 @@
 # Track Awesome Chatgpt Prompts Updates Daily
 
-This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 139K · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 141K · 🏷️ ChatGPT
 
 [ Daily / [Weekly](/content/f/awesome-chatgpt-prompts/week/README.md) / [Overview](/content/f/awesome-chatgpt-prompts/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### Want to deploy your own private prompt library for your team? / Manual Setup
+
+*   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
+*   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
+
 ## [Dec 13, 2025](/content/2025/12/13/README.md)
 
-### Want to deploy your own private prompt library for your team? / Private Clone Setup (Recommended for Teams)
+### Want to deploy your own private prompt library for your team? / Manual Setup
 
 *   **Branding** — Set your organization name, logo, and description
 *   **Theme** — Choose colors, border radius, and UI style
-*   **Authentication** — Configure GitHub, Google, Azure AD, or email/password login
-*   **Features** — Enable/disable private prompts, categories, tags, AI search
 *   **Languages** — Select supported locales
 *   **Sponsors** — Optionally add your own sponsor logos (prompts.chat sponsors are disabled)

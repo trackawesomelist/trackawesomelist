@@ -6,6 +6,13 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
+
+### Email Search / Email Check / GitHub
+
+*   [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
+*   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Domain and IP Research / GitHub
@@ -295,7 +302,6 @@
 *   [Paste.Quest](https://pastequest.com/) - Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.
 *   [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 *   [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
-*   [Tiny Paste](https://tinypaste.in/) - Simple Pastebin. Login option available!
 *   [TutPaste](https://tutpaste.com/) - Welcome to our fast and free online paste tool. Paste and share your text or code snippets with anyone, anywhere, no registration required.
 *   [vaultbin](https://vaultb.in/) - Vaultbin is a blazingly fast and secure alternative to Pastebin and Hastebin.
 *   [Write.as](https://write.as/) - Type words, put them on the internet.

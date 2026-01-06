@@ -388,7 +388,6 @@ Thanks to our main contributors
 *   [Spacebin](https://spaceb.in/) - Spacebin is a modern Pastebin server implemented in Go and is capable of serving notes, novels, code, or any other form of text.
 *   [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
 *   [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
-*   [Tiny Paste](https://tinypaste.in/) - Simple Pastebin. Login option available!
 *   [TutPaste](https://tutpaste.com/) - Welcome to our fast and free online paste tool. Paste and share your text or code snippets with anyone, anywhere, no registration required.
 *   [vaultbin](https://vaultb.in/) - Vaultbin is a blazingly fast and secure alternative to Pastebin and Hastebin.
 *   [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
@@ -720,6 +719,7 @@ Thanks to our main contributors
 ## [↑](#-table-of-contents) Email Search / Email Check
 
 *   [Blackbird (⭐5.2k)](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
+*   [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 *   [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
@@ -732,6 +732,7 @@ Thanks to our main contributors
 *   [Holehe (⭐9.9k)](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 *   [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 *   [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
+*   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 *   [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 *   [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability

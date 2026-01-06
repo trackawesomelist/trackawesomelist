@@ -1,12 +1,24 @@
 # Awesome Chatgpt Prompts Overview
 
-This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 139K · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 141K · 🏷️ ChatGPT
 
 [ [Daily](/content/f/awesome-chatgpt-prompts/README.md) / [Weekly](/content/f/awesome-chatgpt-prompts/week/README.md) / Overview ]
 
 ---
+
+## ⚠️ Where are all the prompts gone?
+
+> **No worries! They're still here.** The README became too large to maintain, so prompts now live in [PROMPTS.md](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/PROMPTS.md). Your contributions to [prompts.chat](https://prompts.chat) automatically sync there. Still free, still open source.
+>
+> 🌐 **[View All Prompts on prompts.chat](https://prompts.chat/prompts)**
+>
+> 📖 **[View All Prompts on GitHub (PROMPTS.md)](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/PROMPTS.md)**
+>
+> 🔍 **[View All Prompts synced on GitHub (prompts.csv) (⭐141k)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
+>
+> 📊 **[View All Prompts synced on Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
 
 <p align="center">
   <img width="558" height="148" alt="Screenshot 2025-12-12 at 02 40 52" src="https://github.com/user-attachments/assets/8de2ba4c-5e89-4aae-aecb-32b188fb1bfb" />
@@ -14,15 +26,47 @@ This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be
   <small>a.k.a. Awesome ChatGPT Prompts</small>
 </p>
 
+<p align="center">
+  <a href="#cli">
+    <img src="https://img.shields.io/badge/Run_in_Terminal-npx_prompts.chat-black?style=for-the-badge&logo=npm&logoColor=white" alt="npx prompts.chat">
+  </a>
+</p>
+
 <h2 align="center">Sponsors</h3>
 
 <div align="center">
-
-  <a href="https://clemta.com" align="center" target="_blank">
-    <img height="50" alt="Clemta logo" src="https://clemta.com/wp-content/uploads/2023/03/logo-clemta-com-1.png.webp">
-  </a>
-  <br>
-  <sub>With Clemta, you can run your company from the comfort of your home.</sub>
+  <a href="https://clemta.com/?utm_source=prompts.chat" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta-dark.webp">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta.webp">
+      <img align="center" height="40" alt="Clemta logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta.webp">
+    </picture>
+  </a><br><br>
+  <a href="https://wiro.ai/?utm_source=prompts.chat" align="center">
+    <img align="center" height="40" alt="Wiro logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/wiro.png">
+  </a><br><br>
+  <a href="https://wind.surf/prompts-chat" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition.svg">
+      <img align="center" height="40" alt="Cognition logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition.svg">
+    </picture>
+  </a><br><br>
+  <a href="https://mitte.ai/?utm_source=prompts.chat" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte.svg">
+      <img align="center" height="40" alt="MitteAI logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte.svg">
+    </picture>
+  </a><br><br>
+  <a href="https://warp.dev/?utm_source=prompts.chat" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp.svg">
+      <img align="center" height="40" alt="Warp logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp.svg">
+    </picture>
+  </a><br><br>
+  <sub>prompts.chat is built with Windsurf and Devin by Cognition</sub>
 <hr>
   <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&amp;tier_id=529895">Be my sponsor and your logo will be here!</a></sub>
 </div>
@@ -30,6 +74,7 @@ This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools be
 ***
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/f/awesome-chatgpt-prompts)
 
 Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
 
@@ -39,19 +84,18 @@ In this repository, you will find a variety of [prompts](https://github.com/f/aw
 
 Check out our [Self-Hosting Guide](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/SELF-HOSTING.md) for instructions on setting up your own instance with **customizable branding, themes, and authentication**.
 
-### Quickstart
+### Quick Start (Recommended)
+
+Create a new prompts.chat instance with a single command:
 
 ```bash
-git clone https://github.com/f/awesome-chatgpt-prompts.git
-cd awesome-chatgpt-prompts
-npm install
-npm run db:push
-npm run dev
+npx prompts.chat new my-prompt-library
+cd my-prompt-library
 ```
 
-### Private Clone Setup (Recommended for Teams)
+This will clone a clean copy, install dependencies, and launch the interactive setup wizard.
 
-For private deployments, use our **interactive setup wizard** to configure your instance with custom branding, disable sponsorship sections, and set up authentication:
+### Manual Setup
 
 ```bash
 git clone https://github.com/f/awesome-chatgpt-prompts.git
@@ -64,8 +108,8 @@ The setup wizard will guide you through:
 
 *   **Branding** — Set your organization name, logo, and description
 *   **Theme** — Choose colors, border radius, and UI style
-*   **Authentication** — Configure GitHub, Google, Azure AD, or email/password login
-*   **Features** — Enable/disable private prompts, categories, tags, AI search
+*   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
+*   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
 *   **Languages** — Select supported locales
 *   **Sponsors** — Optionally add your own sponsor logos (prompts.chat sponsors are disabled)
 
@@ -122,7 +166,7 @@ Images from Text"**.
 
 # Prompts
 
-🔍 **[View All Prompts on GitHub (prompts.csv)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
+🔍 **[View All Prompts on GitHub (prompts.csv) (⭐141k)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
 
 📊 **[View All Prompts as Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
 

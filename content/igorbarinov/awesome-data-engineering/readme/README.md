@@ -187,7 +187,7 @@ A curated list of data engineering tools for software developers
 *   [Apache Samza](https://samza.apache.org) - A distributed stream processing framework.
 *   [Apache NiFi](https://nifi.apache.org/) - An easy to use, powerful, and reliable system to process and distribute data.
 *   [Apache Hudi](https://hudi.apache.org/) - An open source framework for managing storage for real time processing, one of the most interesting feature is the Upsert.
-*   [CocoIndex (⭐3.8k)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
+*   [CocoIndex (⭐5.6k)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
 *   [VoltDB](https://voltdb.com/) - An ACID-compliant RDBMS which uses a [shared nothing architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture).
 *   [PipelineDB (⭐2.7k)](https://github.com/pipelinedb/pipelinedb) - The Streaming SQL Database.
 *   [Spring Cloud Dataflow](https://cloud.spring.io/spring-cloud-dataflow/) - Streaming and tasks execution between Spring Boot apps.
@@ -197,7 +197,7 @@ A curated list of data engineering tools for software developers
 *   [Kuiper (⭐1.7k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 *   [Zilla (⭐672)](https://github.com/aklivity/zilla) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 *   [SwimOS](https://github.com/swimos/swim-rust) - A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.
-*   [Pathway (⭐51k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+*   [Pathway (⭐56k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 
 ## Batch Processing
 
@@ -325,7 +325,7 @@ A curated list of data engineering tools for software developers
 
 *   [Data Profiler (⭐1.5k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐451)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐459)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## Testing
 
@@ -336,6 +336,7 @@ A curated list of data engineering tools for software developers
 *   [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 *   [Spark Playground](https://www.sparkplayground.com/) - Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
+*   [Snowflake Emulator (⭐4)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 
 ## Community
 

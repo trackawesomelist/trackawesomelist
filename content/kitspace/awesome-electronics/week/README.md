@@ -2,9 +2,15 @@
 
 A curated list of awesome resources for Electronic Engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 6.9K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 7.1K · 🏷️ Hardware
 
 [ [Daily](/content/kitspace/awesome-electronics/README.md) / Weekly / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
+
+## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
+
+### Videos / Help
+
+*   [Analog Circuit Design](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) - Analog Circuit Design by Prof. Ali Hajimiri, Caltech.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -61,7 +67,7 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 *   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 *   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐70)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐73)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ### Paid EDA Packages / Installable
 
@@ -123,7 +129,7 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [KiBot (⭐659)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+*   [KiBot (⭐672)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 
 ### CAD Specific / Altium
 
@@ -165,7 +171,7 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐283)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐285)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -181,19 +187,19 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐655)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐674)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐486)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐495)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐337)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [Awesome Lattice FPGAs (⭐347)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
 *   [TM90/awesome-hwd-tools (⭐85)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
@@ -234,9 +240,9 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐795)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐799)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐347)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐352)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### PCB Batching Services / Altium
 
@@ -277,11 +283,11 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐379)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐651)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐374)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐403)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐916)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐382)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐664)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐380)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐409)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐930)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
@@ -323,7 +329,7 @@ A curated list of awesome resources for Electronic Engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐4.2k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐4.3k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Altium
 

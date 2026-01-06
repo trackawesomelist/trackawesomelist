@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 359 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 378 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -41,14 +41,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## PlayCanvas Products
 
-*   [PlayCanvas Engine (⭐13k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+*   [PlayCanvas Engine (⭐14k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
-*   [PlayCanvas React (⭐417)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐76)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas React (⭐429)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐83)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 *   [Texture Tool (⭐8)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐729)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [PCUI (⭐737)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
@@ -81,14 +81,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
 *   [Kinematic Character Controller (⭐5)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
-*   [playcanvas-ar (⭐246)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐247)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 *   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-rest-api-tools (⭐28)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 *   [playcanvas-spine (⭐50)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐67)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐45)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.4k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.5k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 *   [tween.js (⭐10k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
@@ -270,6 +270,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 *   [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
 *   [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
+*   [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 
 ## AR/VR/XR
 
@@ -294,5 +295,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐359)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐378)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

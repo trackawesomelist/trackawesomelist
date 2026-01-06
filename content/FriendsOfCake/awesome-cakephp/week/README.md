@@ -12,6 +12,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 *   [Crustum/OpenRouter plugin (⭐0)](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
 
+### Asset Management
+
+*   [CakeVite plugin (⭐0)](https://github.com/josbeir/cakephp-vite) - A fully-featured [Vite](https://vite.dev/) plugin (spiritual successor of [brandcom/cakephp-vite (⭐22)](https://github.com/brandcom/cakephp-vite)).
+
 ### Miscellaneous
 
 *   [AttributeRegistry plugin (⭐2)](https://github.com/josbeir/cakephp-attribute-registry) - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
@@ -112,12 +116,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### ORM / Database / Datamapping
 
 *   [CakeUid (⭐0)](https://github.com/josbeir/cakephp-uid) - A collection of UID field types for your Tables (UUIDV4, UUIDV6, UUIDV7, ULID).
-
-## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
-
-### Asset Management
-
-*   [ViteHelper plugin (⭐22)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 

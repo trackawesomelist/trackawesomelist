@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State of the Practice](https://dl.acm.org/doi/full/10.1145/3638243) - ***ACM Transactions on Software Engineering and Methodology***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=16602627179061103486)]. Domain experts are increasingly employing machine learning to solve their domain-specific problems. This article presents to software engineering researchers the six key challenges that a domain expert faces in addressing their problem with a computational workflow, and the underlying executable implementation. These challenges arise out of the proposed conceptual framework which presents the “route” of transformations that a domain expert may choose to take while developing their solution.
+
 ## [Jan 03, 2026](/content/2026/01/03/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis

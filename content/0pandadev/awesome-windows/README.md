@@ -6,6 +6,27 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### Application Launchers
+
+*   [Raycast](https://www.raycast.com/) - A highly extensible, keyboard-driven productivity launcher and command palette designed for efficiency
+
+### Game Stores
+
+*   [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hydralauncher/hydra)
+
+### Graphics
+
+*   [Affinity](https://www.affinity.studio/photo-editing-software) - Unified creative suite for photo editing, vector design, and desktop publishing
+
+### Note-taking
+
+*   [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/anyproto)
+*   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/logseq/logseq)
+*   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
+*   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
+
 ## [Jan 04, 2026](/content/2026/01/04/README.md)
 
 ### Browsers
@@ -107,10 +128,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ## [May 06, 2025](/content/2025/05/06/README.md)
 
-### Browsers
-
-*   [Floorp](https://floorp.app/) - A Browser built for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/floorp-Projects/floorp/)
-
 ### IDEs
 
 *   [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/spyder-ide/spyder)
@@ -177,7 +194,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/JosefNemec/Playnite/)
 
-### Productivity
+### Note-taking
 
 *   [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/laurent22/joplin)
 
@@ -438,7 +455,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Browsers
 
-*   [Arc](https://arc.net) - Organizes tabs vertically for improved productivity.
 *   [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zen-browser/desktop) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### System Utilities
@@ -697,6 +713,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
 
+### Note-taking
+
+*   [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
+
 ### Office Suites
 
 *   [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
@@ -717,7 +737,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 *   [MultiCommander](https://multicommander.com/) - Professional file manager.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
-*   [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
 *   [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/abstractspoon/ToDoList)
 *   [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
@@ -840,6 +859,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
 
+### Note-taking
+
+*   [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
+
 ### Office Suites
 
 *   [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
@@ -850,7 +873,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 *   [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
-*   [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 
 ### Proxy and VPN Tools
 

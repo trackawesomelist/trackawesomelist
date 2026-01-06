@@ -6,6 +6,12 @@ A curated list of data engineering tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-data-engineering/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
+
+### Testing / Data Profiler
+
+*   [Snowflake Emulator (⭐4)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Testing / Data Profiler
@@ -21,13 +27,13 @@ A curated list of data engineering tools for software developers
 ### Profiling / Data Profiler
 
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐451)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐459)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
 
 ### Stream Processing
 
-*   [Pathway (⭐51k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+*   [Pathway (⭐56k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 
 ### Testing / Data Profiler
 
@@ -101,7 +107,7 @@ A curated list of data engineering tools for software developers
 
 ### Stream Processing
 
-*   [CocoIndex (⭐3.8k)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
+*   [CocoIndex (⭐5.6k)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
 
 ### Batch Processing
 

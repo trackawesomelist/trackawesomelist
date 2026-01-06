@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for Electronic Engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 6.9K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 7.1K · 🏷️ Hardware
 
 [ [Daily](/content/kitspace/awesome-electronics/README.md) / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / Overview ]
 
@@ -81,7 +81,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Documentation
 
-*   [Inkscape Electric Symbols (⭐486)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐495)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 *   [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 *   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 *   [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
@@ -104,7 +104,7 @@ This list is for websites, services, software, tools and more: everything that y
 *   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 *   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐70)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐73)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 *   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ### Verilog HDL Simulators
@@ -150,15 +150,15 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐795)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐799)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 *   [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
 *   [Keyboard PCB Guide (⭐4.7k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 *   [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-*   [Footprint Collection (⭐347)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
-*   [InteractiveHtmlBom (⭐4.2k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
-*   [KiBot (⭐659)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+*   [Footprint Collection (⭐352)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [InteractiveHtmlBom (⭐4.3k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [KiBot (⭐672)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 
 ### Eagle
 
@@ -267,6 +267,7 @@ This list is for websites, services, software, tools and more: everything that y
 *   [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 *   [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
+*   [Analog Circuit Design](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) - Analog Circuit Design by Prof. Ali Hajimiri, Caltech.
 
 ## Subscription Kit Services
 
@@ -280,17 +281,17 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐379)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐382)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
 *   [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
-*   [intajay/open-electronics (⭐651)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐374)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐403)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐916)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [intajay/open-electronics (⭐664)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐380)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐409)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐930)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
-*   [Awesome Lattice FPGAs (⭐337)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [Awesome Lattice FPGAs (⭐347)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
 *   [TM90/awesome-hwd-tools (⭐85)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
-*   [delftopenhardware/awesome-open-hardware (⭐655)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
-*   [upb-lea/awesome-open-source-power-electronics (⭐283)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [delftopenhardware/awesome-open-hardware (⭐674)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [upb-lea/awesome-open-source-power-electronics (⭐285)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## Arabic Section
 

@@ -6,6 +6,16 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ Daily / [Weekly](/content/mxschmitt/awesome-playwright/week/README.md) / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### Language Support
+
+*   [playwright-rust (⭐15)](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
+
+### Showcases
+
+*   [playwright-examples (⭐100)](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
+
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
 ### Integrations
@@ -16,8 +26,8 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Integrations
 
-*   [@axe-core/Playwright (⭐680)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
-*   [@guidepup/Playwright (⭐70)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
+*   [@axe-core/Playwright (⭐684)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+*   [@guidepup/Playwright (⭐71)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 *   [@appetize/Playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
 
 ### Language Support
@@ -26,33 +36,29 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [@global-cache/Playwright (⭐19)](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
+*   [@global-cache/Playwright (⭐21)](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 
 ### Reporters
 
-*   [qase (⭐56)](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).
+*   [qase (⭐55)](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).
 *   [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
-*   [playwright-ctrf-json-reporter (⭐88)](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
-
-### Showcases
-
-*   [playwright-examples](https://github.com/microosft/playwright-examples) - Various testing scenarios with Playwright.
+*   [playwright-ctrf-json-reporter (⭐91)](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
 
 ## [Mar 12, 2025](/content/2025/03/12/README.md)
 
 ### Integrations
 
-*   [Playwright Angular Schematic (⭐18)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+*   [Playwright Angular Schematic (⭐19)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
 ### Utils
 
-*   [@bgotink/playwright-coverage (⭐46)](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
+*   [@bgotink/playwright-coverage (⭐48)](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
 ### Integrations
 
-*   [Playwright CRX (⭐520)](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
+*   [Playwright CRX (⭐547)](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 
 ## [Feb 05, 2025](/content/2025/02/05/README.md)
 
@@ -76,7 +82,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [playwright-network-cache (⭐81)](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
+*   [playwright-network-cache (⭐88)](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 
 ## [Aug 14, 2024](/content/2024/08/14/README.md)
 
@@ -106,7 +112,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [POMWright (⭐47)](https://github.com/DyHex/POMWright) - TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
+*   [POMWright (⭐48)](https://github.com/DyHex/POMWright) - TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
 ## [Jan 10, 2024](/content/2024/01/10/README.md)
 
@@ -118,7 +124,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Integrations
 
-*   [Chromium for Serverless platforms (⭐1.4k)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
+*   [Chromium for Serverless platforms (⭐1.5k)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 *   [artillery-engine-playwright (⭐8.8k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 *   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 
@@ -152,7 +158,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Integrations
 
-*   [playwright-bdd (⭐558)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
+*   [playwright-bdd (⭐573)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -182,25 +188,25 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [playwright-test-coverage (⭐94)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
+*   [playwright-test-coverage (⭐95)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 
 ### Reporters
 
-*   [playwright-xray (⭐46)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
+*   [playwright-xray (⭐47)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
 
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
 ### Language Support
 
-*   [playwright-go (⭐3k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
+*   [playwright-go (⭐3.1k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
 ### Reporters
 
 *   [playwright-tesults-reporter (⭐3)](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
-*   [monocart-reporter (⭐279)](https://github.com/cenfun/monocart-reporter) - A Playwright test reporter, shows suites/cases/steps in html grid.
-*   [allure-playwright (⭐267)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+*   [monocart-reporter (⭐284)](https://github.com/cenfun/monocart-reporter) - A Playwright test reporter, shows suites/cases/steps in html grid.
+*   [allure-playwright (⭐268)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 
 ## [Jun 19, 2022](/content/2022/06/19/README.md)
 
@@ -219,13 +225,13 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Integrations
 
-*   [cucumber-playwright (⭐420)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
+*   [cucumber-playwright (⭐422)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 
 ## [Mar 14, 2022](/content/2022/03/14/README.md)
 
 ### Integrations
 
-*   [playwright-pytest (⭐523)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
+*   [playwright-pytest (⭐524)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 
 ## [Jul 13, 2021](/content/2021/07/13/README.md)
 
@@ -235,15 +241,14 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [eslint-plugin-playwright (⭐350)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [eslint-plugin-playwright (⭐358)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [Apr 11, 2021](/content/2021/04/11/README.md)
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐444)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐450)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐24)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐406)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [Mar 17, 2021](/content/2021/03/17/README.md)
 
@@ -262,17 +267,17 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Utils
 
-*   [Moon (⭐257)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐262)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [Apr 10, 2020](/content/2020/04/10/README.md)
 
 ### Showcases
 
-*   [VS Code (⭐179k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [VS Code (⭐180k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐107k)](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.
-*   [Elastic APM JS agent (⭐290)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐328)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
-*   [xterm.js (⭐19k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
+*   [Elastic APM JS agent (⭐292)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐331)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [xterm.js (⭐20k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [Mar 09, 2020](/content/2020/03/09/README.md)
 

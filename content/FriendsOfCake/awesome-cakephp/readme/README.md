@@ -100,7 +100,7 @@ Additional lists you might find useful:
 
 *   [AssetCompress plugin (⭐370)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 *   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
-*   [ViteHelper plugin (⭐22)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
+*   [CakeVite plugin (⭐0)](https://github.com/josbeir/cakephp-vite) - A fully-featured [Vite](https://vite.dev/) plugin (spiritual successor of [brandcom/cakephp-vite (⭐22)](https://github.com/brandcom/cakephp-vite)).
 
 ## Auditing / Logging
 
