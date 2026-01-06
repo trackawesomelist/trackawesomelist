@@ -8,6 +8,10 @@ Everything that makes working with databases easier
 
 ## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
 
+### IDE
+
+*   [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
+
 ### Backup / Samples
 
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.

@@ -12,6 +12,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Raycast](https://www.raycast.com/) - A highly extensible, keyboard-driven productivity launcher and command palette designed for efficiency
 
+### Audio
+
+*   [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.
+*   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering.
+
 ### Game Stores
 
 *   [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hydralauncher/hydra)
@@ -19,6 +24,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Graphics
 
 *   [Affinity](https://www.affinity.studio/photo-editing-software) - Unified creative suite for photo editing, vector design, and desktop publishing
+
+### IDEs
+
+*   [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
 
 ### Note-taking
 
@@ -46,10 +55,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Databases Clients
 
 *   [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/pgadmin-org/pgadmin4)
-
-### IDEs
-
-*   [Rust Rover](https://www.jetbrains.com/rust/) - A powerful IDE for Rust development.
 
 ### Networking
 
@@ -318,18 +323,8 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### IDEs
 
-*   [CLion](https://www.jetbrains.com/clion/) - Debugs and profiles C/C++ code with memory analysis.
 *   [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [DataGrip](https://www.jetbrains.com/datagrip/) - Manages multiple databases with query optimization.
-*   [DataSpell](https://www.jetbrains.com/dataspell/) - Handles Jupyter notebooks and data visualization.
-*   [GoLand](https://www.jetbrains.com/go/) - Specializes in Go debugging and testing.
-*   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Focuses on Java enterprise development. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/JetBrains/intellij-community)
 *   [PearAI](https://trypear.ai/) - Open source AI code editor with curated integrations of multiple AI tools. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/peardocs/pearai) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [PhpStorm](https://www.jetbrains.com/phpstorm/) - Integrates PHP frameworks and debugging tools.
-*   [PyCharm](https://www.jetbrains.com/pycharm) - Provides scientific tools for Python development. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/JetBrains/intellij-community/tree/master/python)
-*   [Rider](https://www.jetbrains.com/rider/) - Debugs Unity games and .NET applications.
-*   [RubyMine](https://www.jetbrains.com/ruby/) - Tests and profiles Ruby applications.
-*   [WebStorm](https://www.jetbrains.com/webstorm/) - Debugs client-side and Node.js applications.
 *   [Windsurf](https://codeium.com/windsurf) - Agentic IDE with AI flows, multi-file editing and deep contextual awareness.
 
 ### Password Managers

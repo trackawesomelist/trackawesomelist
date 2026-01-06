@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Jan 06, 2026](/content/2026/01/06/README.md)
+
+### IDE
+
+*   [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
+
 ## [Jan 05, 2026](/content/2026/01/05/README.md)
 
 ### Backup / Samples

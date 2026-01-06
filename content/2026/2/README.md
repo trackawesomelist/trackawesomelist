@@ -1,16 +1,27 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2026
 
-24 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+
+### Productivity / Task Management
+
+*   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,804`
+
+## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Application Launchers
 
 *   [Raycast](https://www.raycast.com/) - A highly extensible, keyboard-driven productivity launcher and command palette designed for efficiency
+
+### Audio
+
+*   [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.
+*   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering.
 
 ### Game Stores
 
@@ -20,6 +31,10 @@
 
 *   [Affinity](https://www.affinity.studio/photo-editing-software) - Unified creative suite for photo editing, vector design, and desktop publishing
 
+### IDEs
+
+*   [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
+
 ### Note-taking
 
 *   [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/anyproto)
@@ -27,27 +42,27 @@
 *   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 *   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 
-## [2. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
+## [3. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
 
 ### Want to deploy your own private prompt library for your team? / Manual Setup
 
 *   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
 *   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State of the Practice](https://dl.acm.org/doi/full/10.1145/3638243) - ***ACM Transactions on Software Engineering and Methodology***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=16602627179061103486)]. Domain experts are increasingly employing machine learning to solve their domain-specific problems. This article presents to software engineering researchers the six key challenges that a domain expert faces in addressing their problem with a computational workflow, and the underlying executable implementation. These challenges arise out of the proposed conceptual framework which presents the “route” of transformations that a domain expert may choose to take while developing their solution.
 
-## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Email Search / Email Check / GitHub
 
 *   [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
 *   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 
-## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
@@ -57,7 +72,7 @@
 
 *   [playwright-examples (⭐100)](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 
-## [6. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
@@ -72,7 +87,7 @@
 
 *   [Smart Farming Thingsboard (⭐5)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
@@ -84,7 +99,7 @@
 
 *   [Remix by Via](https://ridewithvia.com/solutions/remix) - A webapp that lets transit agencies easily plan routes.
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PubSub / React
 
@@ -94,19 +109,19 @@
 
 *   [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
-## [9. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [10. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Videos / Help
 
 *   [Analog Circuit Design](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) - Analog Circuit Design by Prof. Ali Hajimiri, Caltech.
 
-## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 
-## [11. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
@@ -168,13 +183,13 @@
     *   [Vim LOVE Docs (⭐58)](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
 *   [Love2D WebIDE](https://love.ivie.codes/) - Completely web based IDE for writing Love2D games.
 
-## [12. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [Snowflake Emulator (⭐4)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 
-## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Import / Export
 
@@ -185,44 +200,97 @@
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 
-## [14. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [15. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+
+### Learning Resources
+
+*   [Awesome Zig wiki (⭐1.9k)](https://github.com/zigcc/awesome-zig/wiki)- Other interesting materials about Zig.
+
+### Tools / Text Editors
+
+*   [zed-extensions/Zig (⭐50)](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
 
 ### Compilers and Interpreters / Linker
 
-*   [Fun (⭐2)](https://github.com/omdxp/fun) : Fun is a statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
+*   [Fun (⭐2)](https://github.com/omdxp/fun) - Fun is a statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
 
-## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+### FFI Bindings / Zigged Project
+
+*   [FFmpeg (⭐271)](https://github.com/andrewrk/ffmpeg)- FFmpeg with the build system replaced by Zig
+
+### Scientific Computation / Linear Algebra
+
+*   [ziglibs/zlm (⭐256)](https://github.com/ziglibs/zlm) - Zig linear mathematics.
+*   [omaraaa/VecFns (⭐28)](https://github.com/omaraaa/VecFns) - Automatic Vector Math Functions In Zig.
+*   [Laremere/alg (⭐32)](https://github.com/Laremere/alg) - Algebra for Zig.
+*   [BanchouBoo/algae (⭐7)](https://github.com/BanchouBoo/algae) - Zig math library focused on game development.
+*   [JungerBoyo/zmath (⭐2)](https://github.com/JungerBoyo/zmath) - simple linear algebra library written in Zig.
+*   [pblischak/zprob (⭐17)](https://github.com/pblischak/zprob) - A Zig Library for Probability Distributions.
+
+### Machine Learning / Machine Learning Framework
+
+*   [ggml-zig (⭐15)](https://github.com/codingonion/ggml-zig) - [ggml: Tensor library for machine learning (⭐14k)](https://github.com/ggerganov/ggml) written in Zig.
+*   [rockcarry/ffcnn (⭐83)](https://github.com/rockcarry/ffcnn) - ffcnn is a cnn neural network inference framework, written in 600 lines C language.
+*   [xboot/libonnx (⭐642)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [kraiskil/onnx2c (⭐344)](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler. Onnx2c is a [ONNX](https://onnx.ai/) to C compiler. It will read an ONNX file, and generate C code to be included in your project. Onnx2c's target is "Tiny ML", meaning running the inference on microcontrollers.
+*   [candrewlee14/zgml (⭐10)](https://github.com/candrewlee14/zgml) - Tensor library for machine learning, inspired by ggml.
+*   [maihd/zten (⭐7)](https://github.com/maihd/zten) - Tensor library for Zig, based on ggml.
+*   [andrewCodeDev/ZEIN (⭐58)](https://github.com/andrewCodeDev/ZEIN) - Zig-based implementation of tensors.
+*   [recursiveGecko/onnxruntime.zig (⭐28)](https://github.com/recursiveGecko/onnxruntime.zig) - Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
+*   [Gonzih/onnx-worker.zig (⭐4)](https://github.com/Gonzih/onnx-worker.zig) - onnx-worker.zig
+*   [zml](https://github.com/zml/zml.git) - zml is a machine learning framework
+*   [Zigrad (⭐168)](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
+*   [SilasMarvin/dnns from scratch in Zig (⭐79)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - a very simple implementation of deep neural networks written in the Zig programming language. <https://silasmarvin.dev/dnns-from-scratch-in-zig>
+
+### Machine Learning / Large Language Model
+
+*   [llama.cpp (⭐92k)](https://github.com/ggerganov/llama.cpp) - Inference of [LLaMA (⭐59k)](https://github.com/facebookresearch/llama) model in pure C/C++.
+*   [cgbur/LLaMa2.zig (⭐203)](https://github.com/cgbur/llama2.zig) - Inference LLaMA 2 in one file of pure Zig.
+*   [clebert/LLaMa2.zig (⭐48)](https://github.com/clebert/llama2.zig) - Inference LLaMA 2 in pure Zig.
+*   [renerocksai/gpt4all.zig (⭐97)](https://github.com/renerocksai/gpt4all.zig) - Zig build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMa.
+*   [EugenHotaj/zig\_gpt2 (⭐39)](https://github.com/EugenHotaj/zig_gpt2) - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT (⭐51k)](https://github.com/karpathy/nanoGPT).
+*   [CogitatorTech/zigformer (⭐41)](https://github.com/CogitatorTech/zigformer)- ZigFormer is an transformer-based LLM implemented in pure Zig
+
+### Graphics Library / Large Language Model
+
+*   [MasterQ32/Zig-OpenGL (⭐120)](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the OpenGL registry.
+
+## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
 *   [Infographic (⭐2.8k)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
 *   [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
 
-## [17. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### SCTE-35
 
 *   [threefive (⭐13)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / YAML
 
 *   [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
 
-## [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [20. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### IDE
+
+*   [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
 
 ### Backup / Samples
 
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [pg\_probackup (⭐770)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 
-## [20. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -232,13 +300,13 @@
 
 *   [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
 
-## [21. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / Alternative Data
 
 *   [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
-## [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -248,13 +316,13 @@
 
 *   [Learn LangChain (JS) (⭐3)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
 
-## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
 *   [s3m (⭐47)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
-## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### AI Tools
 

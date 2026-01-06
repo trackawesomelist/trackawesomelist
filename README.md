@@ -171,11 +171,73 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
 *   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
 
-#### [13. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+
+##### IDE
+
+*   [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
+
+#### [14. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Learning Resources
+
+*   [Awesome Zig wiki (⭐1.9k)](https://github.com/zigcc/awesome-zig/wiki)- Other interesting materials about Zig.
+
+##### Tools / Text Editors
+
+*   [zed-extensions/Zig (⭐50)](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
+
+##### FFI Bindings / Zigged Project
+
+*   [FFmpeg (⭐271)](https://github.com/andrewrk/ffmpeg)- FFmpeg with the build system replaced by Zig
+
+##### Scientific Computation / Linear Algebra
+
+*   [ziglibs/zlm (⭐256)](https://github.com/ziglibs/zlm) - Zig linear mathematics.
+*   [omaraaa/VecFns (⭐28)](https://github.com/omaraaa/VecFns) - Automatic Vector Math Functions In Zig.
+*   [Laremere/alg (⭐32)](https://github.com/Laremere/alg) - Algebra for Zig.
+*   [BanchouBoo/algae (⭐7)](https://github.com/BanchouBoo/algae) - Zig math library focused on game development.
+*   [JungerBoyo/zmath (⭐2)](https://github.com/JungerBoyo/zmath) - simple linear algebra library written in Zig.
+*   [pblischak/zprob (⭐17)](https://github.com/pblischak/zprob) - A Zig Library for Probability Distributions.
+
+##### Machine Learning / Machine Learning Framework
+
+*   [ggml-zig (⭐15)](https://github.com/codingonion/ggml-zig) - [ggml: Tensor library for machine learning (⭐14k)](https://github.com/ggerganov/ggml) written in Zig.
+*   [rockcarry/ffcnn (⭐83)](https://github.com/rockcarry/ffcnn) - ffcnn is a cnn neural network inference framework, written in 600 lines C language.
+*   [xboot/libonnx (⭐642)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [kraiskil/onnx2c (⭐344)](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler. Onnx2c is a [ONNX](https://onnx.ai/) to C compiler. It will read an ONNX file, and generate C code to be included in your project. Onnx2c's target is "Tiny ML", meaning running the inference on microcontrollers.
+*   [candrewlee14/zgml (⭐10)](https://github.com/candrewlee14/zgml) - Tensor library for machine learning, inspired by ggml.
+*   [maihd/zten (⭐7)](https://github.com/maihd/zten) - Tensor library for Zig, based on ggml.
+*   [andrewCodeDev/ZEIN (⭐58)](https://github.com/andrewCodeDev/ZEIN) - Zig-based implementation of tensors.
+*   [recursiveGecko/onnxruntime.zig (⭐28)](https://github.com/recursiveGecko/onnxruntime.zig) - Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
+*   [Gonzih/onnx-worker.zig (⭐4)](https://github.com/Gonzih/onnx-worker.zig) - onnx-worker.zig
+*   [zml](https://github.com/zml/zml.git) - zml is a machine learning framework
+*   [Zigrad (⭐168)](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
+*   [SilasMarvin/dnns from scratch in Zig (⭐79)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - a very simple implementation of deep neural networks written in the Zig programming language. <https://silasmarvin.dev/dnns-from-scratch-in-zig>
+
+##### Machine Learning / Large Language Model
+
+*   [llama.cpp (⭐92k)](https://github.com/ggerganov/llama.cpp) - Inference of [LLaMA (⭐59k)](https://github.com/facebookresearch/llama) model in pure C/C++.
+*   [cgbur/LLaMa2.zig (⭐203)](https://github.com/cgbur/llama2.zig) - Inference LLaMA 2 in one file of pure Zig.
+*   [clebert/LLaMa2.zig (⭐48)](https://github.com/clebert/llama2.zig) - Inference LLaMA 2 in pure Zig.
+*   [renerocksai/gpt4all.zig (⭐97)](https://github.com/renerocksai/gpt4all.zig) - Zig build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMa.
+*   [EugenHotaj/zig\_gpt2 (⭐39)](https://github.com/EugenHotaj/zig_gpt2) - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT (⭐51k)](https://github.com/karpathy/nanoGPT).
+*   [CogitatorTech/zigformer (⭐41)](https://github.com/CogitatorTech/zigformer)- ZigFormer is an transformer-based LLM implemented in pure Zig
+
+##### Graphics Library / Large Language Model
+
+*   [MasterQ32/Zig-OpenGL (⭐120)](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the OpenGL registry.
+
+#### [15. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Application Launchers
 
 *   [Raycast](https://www.raycast.com/) - A highly extensible, keyboard-driven productivity launcher and command palette designed for efficiency
+
+##### Audio
+
+*   [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.
+*   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering.
 
 ##### Game Stores
 
@@ -185,12 +247,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Affinity](https://www.affinity.studio/photo-editing-software) - Unified creative suite for photo editing, vector design, and desktop publishing
 
+##### IDEs
+
+*   [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
+
 ##### Note-taking
 
 *   [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/anyproto)
 *   [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/logseq/logseq)
 *   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 *   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
+
+#### [16. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Productivity / Task Management
+
+*   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,804`
 
 ### [Jan 05, 2026](/content/2026/01/05/README.md)
 
@@ -228,44 +300,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
 
-#### [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
-
-##### Backup / Samples
-
-*   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
-*   [pg\_probackup (⭐770)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
-
-#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / YAML
 
 *   [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
 
-#### [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+#### [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ##### SCTE-35
 
 *   [threefive (⭐13)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
 
-#### [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### PaaS
 
 *   [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
 
-#### [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### Data Visualization / Runner
 
 *   [Infographic (⭐2.8k)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
-#### [10. Awesome Zig](/content/zigcc/awesome-zig/README.md)
-
-##### Compilers and Interpreters / Linker
-
-*   [Fun (⭐2)](https://github.com/omdxp/fun) : Fun is a statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
-
-#### [11. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Polars plugins / Import / Export
 
@@ -276,7 +335,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 
-#### [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+#### [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ##### AI Tools
 
@@ -289,6 +348,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Queue
 
 *   [Crustum/Temporal plugin (⭐0)](https://github.com/crustum/cakephp-temporal) - Workflow orchestration plugin for durable execution, reliable background jobs, and long-running processes with automatic retries.
+
+#### [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+
+##### Backup / Samples
+
+*   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [pg\_probackup (⭐770)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
+
+#### [12. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Compilers and Interpreters / Linker
+
+*   [Fun (⭐2)](https://github.com/omdxp/fun) - Fun is a statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
 
 ### [Jan 04, 2026](/content/2026/01/04/README.md)
 
@@ -379,9 +451,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 #### [8. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
-##### GUI / Zigged Project
+##### GUI / Large Language Model
 
-*   [kotsutsumi/zylix (⭐7)](https://github.com/kotsutsumi/zylix) : Zig powered cross-platform UI framework with Virtual DOM.
+*   [kotsutsumi/zylix (⭐7)](https://github.com/kotsutsumi/zylix) - Zig powered cross-platform UI framework with Virtual DOM.
 
 #### [9. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -425,8 +497,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 24. [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 7.1K 📝 01&#x2F;06 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
 25. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 25&#x2F;11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 26. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 25&#x2F;11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-27. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 25&#x2F;12&#x2F;29 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-28. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;05 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+27. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;06 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+28. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 25&#x2F;12&#x2F;29 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 29. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 25&#x2F;12&#x2F;09 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 30. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4.7K 📝 01&#x2F;05 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 31. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 4.2K 📝 01&#x2F;06 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -442,8 +514,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 41. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 46K 📝 25&#x2F;12&#x2F;08 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 42. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source ⭐ 2.6K 📝 01&#x2F;04 ](https://github.com/ramnes/awesome-mongodb)) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 43. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.9K 📝 01&#x2F;02 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-44. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 3.4K 📝 25&#x2F;12&#x2F;31 ](https://github.com/web-padawan/awesome-web-components)) - A curated list of awesome Web Components resources.
-45. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K 📝 01&#x2F;05 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
+44. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K 📝 01&#x2F;06 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
+45. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 3.4K 📝 25&#x2F;12&#x2F;31 ](https://github.com/web-padawan/awesome-web-components)) - A curated list of awesome Web Components resources.
 46. [Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md) - ([Source ⭐ 1.6K 📝 01&#x2F;06 ](https://github.com/brycejohnston/awesome-agriculture)) - Open source technology for agriculture, farming, and gardening
 47. [Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md) - ([Source ⭐ 1.6K 📝 01&#x2F;06 ](https://github.com/MobilityData/awesome-transit)) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 48. [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source ⭐ 2.2K 📝 01&#x2F;03 ](https://github.com/TheJambo/awesome-testing)) - A curated list of testing resources
@@ -595,7 +667,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Cassandra](/content/Anant/awesome-cassandra/README.md) - ([Source ⭐ 201, 📝 21&#x2F;11&#x2F;29 ](https://github.com/Anant/awesome-cassandra)) - A curated list of the best resources in the Cassandra community.
 - [Awesome Couchdb](/content/quangv/awesome-couchdb/README.md) - ([Source ⭐ 159, 📝 23&#x2F;05&#x2F;09 ](https://github.com/quangv/awesome-couchdb)) - CouchDB - curated meta resources & best practices list
 - [Awesome Db](/content/numetriclabz/awesome-db/README.md) - ([Source ⭐ 1K, 📝 15&#x2F;11&#x2F;04 ](https://github.com/numetriclabz/awesome-db)) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K, 📝 01&#x2F;05 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+- [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K, 📝 01&#x2F;06 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
 - [Awesome Hbase](/content/rayokota/awesome-hbase/README.md) - ([Source ⭐ 157, 📝 22&#x2F;06&#x2F;04 ](https://github.com/rayokota/awesome-hbase)) - A curated list of awesome HBase projects and resources.
 - [Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md) - ([Source ⭐ 761, 📝 21&#x2F;11&#x2F;12 ](https://github.com/mark-rushakoff/awesome-influxdb)) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 - [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source ⭐ 2.6K, 📝 01&#x2F;04 ](https://github.com/ramnes/awesome-mongodb)) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -1067,7 +1139,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 395, 📝 25&#x2F;07&#x2F;14 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
 - [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 97K, 📝 25&#x2F;12&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 7, 📝 25&#x2F;12&#x2F;28 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
+- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 7, 📝 01&#x2F;06 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4.6K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 64K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED
@@ -1161,7 +1233,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K, 📝 23&#x2F;09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 25&#x2F;11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
-- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 01&#x2F;05 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
+- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 01&#x2F;06 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.4K, 📝 25&#x2F;12&#x2F;21 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects
 - [Js Must Watch](/content/bolshchikov/js-must-watch/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;01&#x2F;20 ](https://github.com/bolshchikov/js-must-watch)) - Must-watch videos about javascript
 - [Jstips](/content/loverajoel/jstips/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/loverajoel/jstips)) - This is about useful JS tips!
