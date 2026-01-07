@@ -489,9 +489,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   **goast** :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-*   [gochecknoglobals (⭐123)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
+*   [gochecknoglobals (⭐125)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
-*   [goconst (⭐313)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+*   [goconst (⭐312)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
 *   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
 
@@ -536,7 +536,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
-*   [prealloc (⭐659)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐660)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
 *   [Reviewdog (⭐8.9k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 
@@ -1764,7 +1764,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   **Docker Label Inspector** :warning: — Lint and validate Dockerfile labels.
 
-*   [Dockle (⭐3.2k)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+*   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 
 *   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
@@ -1851,7 +1851,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
 
-*   [Dockle (⭐3.2k)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+*   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 
 <a name="embedded" />
 <h2>Embedded</h2>
@@ -2119,7 +2119,7 @@ but with the following improvements:
 *   [detect-secrets (⭐4.4k)](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
     It does this by running periodic diff outputs against heuristically crafted regex statements,  to identify whether any new secret has been committed. This way, it avoids the overhead of digging  through all git history, as well as the need to scan the entire repository every time.
 
-*   [Dockle (⭐3.2k)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+*   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 
 *   **Enlightn** :warning: — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
 

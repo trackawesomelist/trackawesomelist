@@ -1108,8 +1108,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Domain
 
+*   [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
-*   [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

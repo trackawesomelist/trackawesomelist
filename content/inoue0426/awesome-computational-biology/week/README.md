@@ -6,6 +6,18 @@ Awesome list of computational biology.
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
+
+### Preprocess / Clinical Trial
+
+*   [ChatSpatial (⭐4)](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language.
+
+### Drug Response Prediction / Foundation models
+
+*   [scFoundation (⭐382)](https://github.com/biomap-research/scFoundation) - A large-scale pretrained foundation model for single-cell gene expression data, enabling multiple downstream analysis tasks.
+*   [scGPT (⭐1.4k)](https://github.com/bowang-lab/scGPT) - A transformer-based foundation model pretrained on millions of single-cell profiles to support various single-cell analysis tasks.
+*   [BulkFormer (⭐37)](https://github.com/KangBoming/BulkFormer) - A foundation model pretrained on large-scale bulk RNA-seq data to learn general transcriptomic representations for downstream analysis tasks.
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Preprocess / Clinical Trial

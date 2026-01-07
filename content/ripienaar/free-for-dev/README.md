@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [RunMyJob](https://runmyjob.io) - Run GitHub Actions and GitLab CI pipelines smarter with real-time scaling Spike Instances. Free tier includes 400 vCPU-minutes, 800 GB-minutes, and 10 concurrent jobs with high-performance runners (12 vCPU and 32 GB RAM per job).
 
+### Domain
+
+*   [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
+
 ## [Jan 05, 2026](/content/2026/01/05/README.md)
 
 ### PaaS
@@ -1060,10 +1064,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### BaaS
 
 *   [bismuth.cloud](https://www.bismuth.cloud/) — Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.
-
-### Domain
-
-*   [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
 ### Design and UI
 

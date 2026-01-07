@@ -317,6 +317,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-terracurl (⭐157)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 *   [terraform-provider-uname (⭐4)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 *   [terraform-provider-value (⭐17)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
+*   [terraform-provider-multipass (⭐3)](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
 
 ## Testing
 

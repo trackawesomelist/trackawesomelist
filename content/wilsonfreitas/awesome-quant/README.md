@@ -6,6 +6,17 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ Daily / [Weekly](/content/wilsonfreitas/awesome-quant/week/README.md) / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Jan 07, 2026](/content/2026/01/07/README.md)
+
+### Julia / FrameWorks
+
+*   [CcyConv.jl (⭐25)](https://github.com/bhftbootcamp/CcyConv.jl) - Currency conversion library for Julia
+*   [OnlinePortfolioAnalytics.jl (⭐12)](https://github.com/femtotrader/OnlinePortfolioAnalytics.jl) - A Julia quantitative portfolio analytics (risk / performance) via online algorithms.
+
+### CPP / Data Visualization
+
+*   [OrderMatchingEngine (⭐85)](https://github.com/PIYUSH-KUMAR1809/order-matching-engine) - A production-grade, lock-free, high-frequency trading matching engine achieving 150M+ orders/sec.
+
 ## [Jan 04, 2026](/content/2026/01/04/README.md)
 
 ### Python / Trading & Backtesting
@@ -34,13 +45,11 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Julia / FrameWorks
 
-*   [CcyConv (⭐25)](https://github.com/bhftbootcamp/CcyConv.jl) - Currency conversion library for Julia
 *   [CryptoExchangeAPIs.jl (⭐29)](https://github.com/bhftbootcamp/CryptoExchangeAPIs.jl) - A Julia library for cryptocurrency exchange APIs
 *   [Fastback.jl (⭐17)](https://github.com/rbeeli/Fastback.jl) - Blazing fast Julia backtester.
 *   [LightweightCharts.jl (⭐48)](https://github.com/bhftbootcamp/LightweightCharts.jl) - Julia wrapper for Lightweight Charts™ by TradingView.
 *   [TechnicalIndicatorCharts.jl (⭐6)](https://github.com/g-gundam/TechnicalIndicatorCharts.jl) - Visualize OnlineTechnicalIndicators.jl using LightweightCharts.jl.
 *   [OnlineTechnicalIndicators.jl (⭐27)](https://github.com/femtotrader/OnlineTechnicalIndicators.jl) - Julia Technical Analysis Indicators via online algorithms.
-*   [OnlineTechnicalIndicators (⭐12)](https://github.com/femtotrader/OnlinePortfolioAnalytics.jl) - A Julia quantitative portfolio analytics (risk / performance) via online algorithms.
 *   [OnlineResamplers.jl (⭐2)](https://github.com/femtotrader/OnlineResamplers.jl) - High-performance Julia package for real-time resampling of financial market data.
 *   [RiskPerf.jl (⭐14)](https://github.com/rbeeli/RiskPerf.jl) - Quantitative risk and performance analysis package for financial time series powered by the Julia language.
 *   [TimeArrays.jl (⭐38)](https://github.com/bhftbootcamp/TimeArrays.jl) - Time series handling for Julia

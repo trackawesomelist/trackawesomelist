@@ -12,6 +12,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [nis2shield/infrastructure (⭐1)](https://github.com/nis2shield/infrastructure) - Terraform modules for automated NIS2 compliance and secure infrastructure deployment.
 
+### Providers / Community providers
+
+*   [terraform-provider-multipass (⭐3)](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
 ### Official Resources

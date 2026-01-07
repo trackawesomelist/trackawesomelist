@@ -434,7 +434,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ## Julia
 
-*   [CcyConv (⭐25)](https://github.com/bhftbootcamp/CcyConv.jl) - Currency conversion library for Julia
+*   [CcyConv.jl (⭐25)](https://github.com/bhftbootcamp/CcyConv.jl) - Currency conversion library for Julia
 *   [CryptoExchangeAPIs.jl (⭐29)](https://github.com/bhftbootcamp/CryptoExchangeAPIs.jl) - A Julia library for cryptocurrency exchange APIs
 *   [Fastback.jl (⭐17)](https://github.com/rbeeli/Fastback.jl) - Blazing fast Julia backtester.
 *   [Lucky.jl (⭐25)](https://github.com/oliviermilla/Lucky.jl) - Modular, asynchronous trading engine in pure Julia.
@@ -451,7 +451,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [MarketTechnicals.jl (⭐131)](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series on top of TimeSeries.
 *   [MarketData.jl (⭐160)](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
 *   [OnlineTechnicalIndicators.jl (⭐27)](https://github.com/femtotrader/OnlineTechnicalIndicators.jl) - Julia Technical Analysis Indicators via online algorithms.
-*   [OnlineTechnicalIndicators (⭐12)](https://github.com/femtotrader/OnlinePortfolioAnalytics.jl) - A Julia quantitative portfolio analytics (risk / performance) via online algorithms.
+*   [OnlinePortfolioAnalytics.jl (⭐12)](https://github.com/femtotrader/OnlinePortfolioAnalytics.jl) - A Julia quantitative portfolio analytics (risk / performance) via online algorithms.
 *   [OnlineResamplers.jl (⭐2)](https://github.com/femtotrader/OnlineResamplers.jl) - High-performance Julia package for real-time resampling of financial market data.
 *   [RiskPerf.jl (⭐14)](https://github.com/rbeeli/RiskPerf.jl) - Quantitative risk and performance analysis package for financial time series powered by the Julia language.
 *   [TimeFrames.jl (⭐4)](https://github.com/femtotrader/TimeFrames.jl) - A Julia library that defines TimeFrame (essentially for resampling TimeSeries).
@@ -517,6 +517,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [XAD (⭐402)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
 *   [TradeFrame (⭐630)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐630)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
 *   [Hikyuu (⭐2.9k)](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.
+*   [OrderMatchingEngine (⭐85)](https://github.com/PIYUSH-KUMAR1809/order-matching-engine) - A production-grade, lock-free, high-frequency trading matching engine achieving 150M+ orders/sec.
 
 ## Frameworks
 

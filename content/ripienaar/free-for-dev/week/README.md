@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
 
+### Domain
+
+*   [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Web Hosting
@@ -885,10 +889,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### BaaS
 
 *   [bismuth.cloud](https://www.bismuth.cloud/) — Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.
-
-### Domain
-
-*   [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
 ### Design and UI
 

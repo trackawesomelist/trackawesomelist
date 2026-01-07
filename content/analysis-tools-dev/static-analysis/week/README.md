@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
+
+### Other / [Other](#other-1)
+
+*   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -107,7 +113,6 @@
 *   [pip-audit (⭐1.2k)](https://github.com/pypa/pip-audit) — Tool for scanning Python packages for known vulnerabilities. Developed by the Python Packaging Authority (PyPA) and supported by Trail of Bits and Google. Scans Python environments and requirements files to identify vulnerable packages and suggests remediation. Supports GitHub Actions, pre-commit hooks, and multiple vulnerability service integrations.
 *   [Safety](https://safetycli.com/) — Python dependency vulnerability scanner designed to enhance software supply chain security by detecting packages with known vulnerabilities. Checks Python dependencies against a database of known security vulnerabilities and provides detailed reports. Supports CI/CD integration and multiple output formats.
 *   [Malcat](https://malcat.fr/) :copyright: — Hexadecimal editor and disassembler for malware analysis and binary file inspection. Supports over 50 file formats and multiple CPU architectures (x86/x64, MIPS, .NET, Python, VB p-code). Features rapid analysis, embedded file extraction, Yara signature scanning, anomaly detection, and Python scripting. Designed for malware analysts, SOC operators, incident responders, and CTF players.
-*   [Dockle (⭐3.2k)](https://github.com/goodwithtech/dockle) — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
 *   [Grype (⭐11k)](https://github.com/anchore/grype) — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
 *   [PullRequest](https://www.hackerone.com/product/code) :copyright: — Code review as a service with built-in static analysis.  Increase velocity and reduce technical debt through quality code review by expert engineers backed by best-in-class automation.
 *   **ChkTeX** :warning: — A linter for LaTex which catches some typographic errors LaTeX oversees.
@@ -901,8 +906,8 @@
 *   [go-consistent (⭐360)](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
 *   [go-critic (⭐2k)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 *   [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
-*   [gochecknoglobals (⭐123)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
-*   [goconst (⭐313)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+*   [gochecknoglobals (⭐125)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
+*   [goconst (⭐312)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 *   [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 *   [gofumpt (⭐3.8k)](https://github.com/mvdan/gofumpt) — Enforce a stricter format than `gofmt`, while being backwards-compatible.  That is, `gofumpt` is happy with a subset of the formats that `gofmt` is happy with.
     The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
@@ -919,7 +924,7 @@
 *   [misspell (⭐1.4k)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
 *   [nakedret (⭐131)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 *   [nargs (⭐86)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
-*   [prealloc (⭐659)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐660)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 *   [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
