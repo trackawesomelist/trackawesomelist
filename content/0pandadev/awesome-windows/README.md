@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Jan 07, 2026](/content/2026/01/07/README.md)
+
+### System Utilities
+
+*   [CrunchyCleaner (⭐2)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
+
 ## [Jan 06, 2026](/content/2026/01/06/README.md)
 
 ### Application Launchers

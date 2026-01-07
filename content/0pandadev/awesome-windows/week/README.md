@@ -36,6 +36,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 *   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 
+### System Utilities
+
+*   [CrunchyCleaner (⭐2)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
+
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
 ### Browsers

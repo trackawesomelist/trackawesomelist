@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 07, 2026](/content/2026/01/07/README.md)
+
+### Media / Cursorline
+
+*   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
+
+### Motion / GitLab
+
+*   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
+
 ## [Jan 05, 2026](/content/2026/01/05/README.md)
 
 ### Programming Languages Support / YAML
@@ -92,7 +102,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Assembly
 
-*   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+*   [dimtion/guttermarks.nvim (⭐43)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
 
 ### Colorscheme / Assembly
 
@@ -106,7 +116,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
+*   [ajatdarojat45/commitmate.nvim (⭐5)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
 ## [Dec 21, 2025](/content/2025/12/21/README.md)
 

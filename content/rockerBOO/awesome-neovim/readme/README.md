@@ -518,7 +518,7 @@ Collections of awesome neovim plugins.
 *   [y3owk1n/warp.nvim (⭐13)](https://github.com/y3owk1n/warp.nvim) - Simple harpoon alternative that focuses on marking & navigating between files.
 *   [walkersumida/fusen.nvim (⭐30)](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 *   [markgandolfo/dartboard.nvim (⭐15)](https://github.com/markgandolfo/dartboard.nvim) - Mark files and quickly access them, inspired by Harpoon and Lasso.
-*   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+*   [dimtion/guttermarks.nvim (⭐43)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
 
 <!--lint disable double-link -->
 
@@ -977,6 +977,7 @@ then it is not supported:
 
 ## Media
 
+*   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
 *   [melMass/echo.nvim (⭐13)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 *   [edluffy/hologram.nvim (⭐1.4k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
@@ -1362,7 +1363,7 @@ then it is not supported:
 *   [wsdjeg/git.nvim (⭐7)](https://github.com/wsdjeg/git.nvim) - An asynchronous Git command wrapper plugin, using `:Git` command instead of `:!git`.
 *   [Mauritz8/gitstatus.nvim (⭐9)](https://github.com/Mauritz8/gitstatus.nvim) - Interactive Git status window with support for staging, unstaging, and committing files.
 *   [esmuellert/vscode-diff.nvim (⭐829)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
-*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
+*   [ajatdarojat45/commitmate.nvim (⭐5)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
 ### GitHub
 
@@ -1409,6 +1410,7 @@ then it is not supported:
 *   [chrisgrieser/nvim-spider (⭐822)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 *   [backdround/neowords.nvim (⭐60)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 *   [backdround/improved-ft.nvim (⭐44)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+*   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 *   [Mr-LLLLL/treesitter-outer (⭐9)](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 *   [Aaronik/Treewalker.nvim (⭐578)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 *   [timseriakov/spamguard.nvim (⭐11)](https://github.com/timseriakov/spamguard.nvim) - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.

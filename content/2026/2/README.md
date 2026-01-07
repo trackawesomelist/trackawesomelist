@@ -1,18 +1,58 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2026
 
-25 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [QuillSQL (⭐160)](https://github.com/feichai0017/QuillSQL) - An educational Rust relational database (RDBMS) inspired by CMU 15445
+
+### Applications / Security tools
+
+*   [SystemVll/TAuth (⭐137)](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
+
+## [2. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+
+### Platforms / Localization and translation platforms
+
+*   [LRM (⭐33)](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
+
+## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+
+### Experiments
+
+*   *   [Multitrack Audio Visualizer (⭐0)](https://github.com/geoffmyers/multitrack-audio-visualizer) - A real-time audio/music visualizer that displays multi-track waveforms with customizable colors and can export high-quality MP4/H.265 videos.
+*   [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
+*   [osci-render (⭐600)](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Community Modules / Miscellaneous
+
+*   [nis2shield/infrastructure (⭐1)](https://github.com/nis2shield/infrastructure) - Terraform modules for automated NIS2 compliance and secure infrastructure deployment.
+
+## [5. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### :tada: New
+
+*   [Conductor (⭐1.3k)](http://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
+
+### Documentation & Examples
+
+*   [Gemini CLI Tips by Addy Osmani (⭐2.1k)](https://github.com/addyosmani/gemini-cli-tips) - \~30 pro-tips for effectively using Gemini CLI for agentic coding.
+
+## [6. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Productivity / Task Management
 
 *   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,804`
 
-## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [7. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Application Launchers
 
@@ -42,27 +82,31 @@
 *   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 *   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 
-## [3. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
+### System Utilities
+
+*   [CrunchyCleaner (⭐2)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
+
+## [8. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
 
 ### Want to deploy your own private prompt library for your team? / Manual Setup
 
 *   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
 *   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
 
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State of the Practice](https://dl.acm.org/doi/full/10.1145/3638243) - ***ACM Transactions on Software Engineering and Methodology***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=16602627179061103486)]. Domain experts are increasingly employing machine learning to solve their domain-specific problems. This article presents to software engineering researchers the six key challenges that a domain expert faces in addressing their problem with a computational workflow, and the underlying executable implementation. These challenges arise out of the proposed conceptual framework which presents the “route” of transformations that a domain expert may choose to take while developing their solution.
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Email Search / Email Check / GitHub
 
 *   [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
 *   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 
-## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [11. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
@@ -72,7 +116,7 @@
 
 *   [playwright-examples (⭐100)](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 
-## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [12. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
@@ -87,7 +131,7 @@
 
 *   [Smart Farming Thingsboard (⭐5)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
@@ -99,7 +143,7 @@
 
 *   [Remix by Via](https://ridewithvia.com/solutions/remix) - A webapp that lets transit agencies easily plan routes.
 
-## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [14. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PubSub / React
 
@@ -109,19 +153,19 @@
 
 *   [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
-## [10. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [15. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Videos / Help
 
 *   [Analog Circuit Design](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) - Analog Circuit Design by Prof. Ali Hajimiri, Caltech.
 
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [16. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 
-## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [17. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
@@ -183,13 +227,13 @@
     *   [Vim LOVE Docs (⭐58)](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
 *   [Love2D WebIDE](https://love.ivie.codes/) - Completely web based IDE for writing Love2D games.
 
-## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [18. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [Snowflake Emulator (⭐4)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Import / Export
 
@@ -200,7 +244,7 @@
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 
-## [15. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [20. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Learning Resources
 
@@ -255,31 +299,43 @@
 
 *   [MasterQ32/Zig-OpenGL (⭐120)](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the OpenGL registry.
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
 *   [Infographic (⭐2.8k)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### CI and CD
+
+*   [RunMyJob](https://runmyjob.io) - Run GitHub Actions and GitLab CI pipelines smarter with real-time scaling Spike Instances. Free tier includes 400 vCPU-minutes, 800 GB-minutes, and 10 concurrent jobs with high-performance runners (12 vCPU and 32 GB RAM per job).
 
 ### PaaS
 
 *   [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
 
-## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [23. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### SCTE-35
 
 *   [threefive (⭐13)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / YAML
 
 *   [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
 
-## [20. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+### Media / Cursorline
+
+*   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
+
+### Motion / GitLab
+
+*   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
+
+## [25. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -290,7 +346,7 @@
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [pg\_probackup (⭐770)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 
-## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -300,13 +356,13 @@
 
 *   [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
 
-## [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [27. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / Alternative Data
 
 *   [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
-## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [28. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -316,13 +372,13 @@
 
 *   [Learn LangChain (JS) (⭐3)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
 
-## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [29. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
 *   [s3m (⭐47)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
-## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [30. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### AI Tools
 
