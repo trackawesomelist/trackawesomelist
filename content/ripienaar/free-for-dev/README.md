@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 08, 2026](/content/2026/01/08/README.md)
+
+### Testing
+
+*   [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
+
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
 
 ### CI and CD

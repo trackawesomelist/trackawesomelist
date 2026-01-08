@@ -70,7 +70,7 @@ When one aims for a ready-to-run LaTeX environment without installing, Docker im
 
 *   [reitzig/texlive-docker (⭐29)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
 *   [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
-*   [dante-ev/docker-texlive (⭐113)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
+*   [dante-ev/docker-texlive (⭐114)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 
 ## Engines
 
@@ -129,11 +129,11 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 *   [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss]
     *   [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
-    *   [LaTeX Live Preview (⭐850)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
+    *   [LaTeX Live Preview (⭐852)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
     *   [vimtex (⭐6.1k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
 
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [TeXiFy-IDEA (⭐970)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+    *   [TeXiFy-IDEA (⭐973)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 *   [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
     *   [LaTeX Workshop (⭐12k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
@@ -148,6 +148,7 @@ Online editors that allow you to edit documents collaboratively.
 *   [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 *   [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
 *   [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
+*   [Modern LaTeX Editor (⭐5)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 *   [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 *   [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
 *   [WebLaTeX (⭐1.4k)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
@@ -165,20 +166,20 @@ Online editors that allow you to edit documents collaboratively.
 *   [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 *   [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac] ![windows] ![linux]
-*   [betterbib (⭐832)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
-*   [OneCite (⭐44)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
+*   [betterbib (⭐833)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
+*   [OneCite (⭐45)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
 
 ## Build Tools
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐413)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+*   [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo (⭐415)](https://github.com/islandoftex/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 *   [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
 
 *   [xu-cheng/latex-action (⭐1.3k)](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents
-*   [dante-ev/latex-action (⭐192)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
+*   [dante-ev/latex-action (⭐193)](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
 
 ## Misc. Tools
 
@@ -263,9 +264,9 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Templates
 
 *   [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-*   [Ultimate Beamer Theme List (⭐1.6k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+*   [Ultimate Beamer Theme List (⭐1.7k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 *   [LaTeX Beamer Theme Overview (⭐44)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
-*   [TeXtured (⭐241)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
+*   [TeXtured (⭐246)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
 ## Symbols
 

@@ -6,6 +6,13 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Jan 08, 2026](/content/2026/01/08/README.md)
+
+### Local AI
+
+*   [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
+*   [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ollama/ollama)
+
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
 
 ### System Utilities
@@ -710,6 +717,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://krita.org/en/download/krita-desktop/)
 *   [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
+### Local AI
+
+*   [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/janhq/jan)
+
 ### Networking
 
 *   [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
@@ -734,7 +745,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Productivity
 
 *   [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
-*   [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/janhq/jan)
 *   [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 *   [MultiCommander](https://multicommander.com/) - Professional file manager.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.

@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [RunMyJob](https://runmyjob.io) - Run GitHub Actions and GitLab CI pipelines smarter with real-time scaling Spike Instances. Free tier includes 400 vCPU-minutes, 800 GB-minutes, and 10 concurrent jobs with high-performance runners (12 vCPU and 32 GB RAM per job).
 
+### Testing
+
+*   [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
+
 ### PaaS
 
 *   [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month

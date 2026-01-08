@@ -29,6 +29,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
 
+### Local AI
+
+*   [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
+*   [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ollama/ollama)
+
 ### Note-taking
 
 *   [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/anyproto)
@@ -708,6 +713,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
 
+### Local AI
+
+*   [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/janhq/jan)
+
 ### Networking
 
 *   [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
@@ -739,7 +748,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 *   [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 *   [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
-*   [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/janhq/jan)
 *   [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 *   [MultiCommander](https://multicommander.com/) - Professional file manager.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
