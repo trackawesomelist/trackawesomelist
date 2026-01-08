@@ -53,6 +53,286 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 *   [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ollama/ollama)
 
+#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Programming Languages Support / Web Development
+
+*   [cjodo/convert.nvim (⭐54)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
+
+##### Colorscheme / Assembly
+
+*   [serhez/teide.nvim (⭐96)](https://github.com/serhez/teide.nvim) - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
+
+##### Git / Quickfix
+
+*   [Enigama/remarks.nvim (⭐7)](https://github.com/Enigama/remarks.nvim) - Personal developer notes attached to Git commits.
+*   [Salanoid/gitlogdiff.nvim (⭐9)](https://github.com/Salanoid/gitlogdiff.nvim) - Diff between multiple git commits, similar to JetBrains's git log.
+
+#### [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+##### [Capgo plugins](https://capgo.app/) / Core & Updates
+
+*   [Updater (⭐669)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor apps.
+*   [Live Reload (⭐3)](https://github.com/Cap-go/capacitor-live-reload) - Live reload Capacitor apps from a remote Vite dev server.
+
+##### [Capgo plugins](https://capgo.app/) / Device & Sensors
+
+*   [Accelerometer (⭐3)](https://github.com/Cap-go/capacitor-accelerometer) - Read device accelerometer measurements.
+*   [Barometer (⭐4)](https://github.com/Cap-go/capacitor-barometer) - Access device barometer readings.
+*   [Brightness (⭐4)](https://github.com/Cap-go/capacitor-brightness) - Control screen brightness on iOS and Android.
+*   [Compass (⭐4)](https://github.com/Cap-go/capacitor-compass) - Native compass heading plugin.
+*   [Light Sensor (⭐4)](https://github.com/Cap-go/capacitor-light-sensor) - Access the device light sensor (Android only).
+*   [Mute (⭐9)](https://github.com/Cap-go/capacitor-mute) - Detect if the mute switch is enabled/disabled on a device.
+*   [Pedometer (⭐4)](https://github.com/Cap-go/capacitor-pedometer) - Access pedometer data including steps, distance, pace, cadence, and floors.
+*   [Shake (⭐15)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
+*   [Volume Buttons (⭐3)](https://github.com/Cap-go/capacitor-volume-buttons) - Listen to volume button presses.
+*   [SIM (⭐4)](https://github.com/Cap-go/capacitor-sim) - Get information from device's sim cards.
+
+##### [Capgo plugins](https://capgo.app/) / Camera & Media
+
+*   [Camera Preview (⭐33)](https://github.com/Cap-go/capacitor-camera-preview) - Camera preview.
+*   [Document Scanner (⭐12)](https://github.com/Cap-go/capacitor-document-scanner) - Scan documents on iOS and Android.
+*   [Audio Recorder (⭐4)](https://github.com/Cap-go/capacitor-audio-recorder) - Record audio on iOS, Android, and Web.
+*   [Native Audio (⭐61)](https://github.com/Cap-go/capacitor-native-audio) - A native plugin for native audio engine.
+*   [Audio Session (⭐4)](https://github.com/Cap-go/capacitor-audiosession) - Get notified about audio interrupts & route changes on iOS.
+*   [Screen Recorder (⭐17)](https://github.com/Cap-go/capacitor-screen-recorder) - Record device's screen.
+*   [Video Player (⭐3)](https://github.com/Cap-go/capacitor-video-player) - Play video in native player.
+*   [Video Thumbnails (⭐4)](https://github.com/Cap-go/capacitor-video-thumbnails) - Generate video thumbnails from local or remote video files.
+*   [Photo Library (⭐4)](https://github.com/Cap-go/capacitor-photo-library) - Display photo gallery as web page or native screen.
+*   [FFmpeg (⭐3)](https://github.com/Cap-go/capacitor-ffmpeg) - Exposes the FFmpeg API to Capacitor.
+*   [IVS Player (⭐5)](https://github.com/Cap-go/capacitor-ivs-player) - IVS player for capacitor app.
+*   [JW Player (⭐4)](https://github.com/Cap-go/capacitor-jw-player) - Play videos from jwplayer.com.
+*   [Mux Player (⭐4)](https://github.com/Cap-go/capacitor-mux-player) - Native Mux Player SDK to play video on iOS and Android.
+*   [YouTube Player (⭐3)](https://github.com/Cap-go/capacitor-youtube-player) - Embed YouTube player controls in Capacitor apps.
+*   [Media Session (⭐3)](https://github.com/Cap-go/capacitor-media-session) - Expose media session controls of the device.
+
+##### [Capgo plugins](https://capgo.app/) / Storage & Files
+
+*   [Data Storage SQLite (⭐97)](https://github.com/Cap-go/capacitor-data-storage-sqlite) - SQLite Storage of key/value strings pair.
+*   [Fast SQL (⭐7)](https://github.com/Cap-go/capacitor-fast-sql) - High-performance native SQLite plugin with custom protocol for efficient sync operations.
+*   [File (⭐4)](https://github.com/Cap-go/capacitor-file) - File system operations, compatible with Cordova File plugin API.
+*   [File Picker (⭐4)](https://github.com/Cap-go/capacitor-file-picker) - Pick files, images, videos, and directories.
+*   [File Compressor (⭐4)](https://github.com/Cap-go/capacitor-file-compressor) - Efficient image compression supporting PNG, JPEG, and WebP formats.
+*   [Downloader (⭐4)](https://github.com/Cap-go/capacitor-downloader) - Download file in background or foreground.
+*   [Uploader (⭐18)](https://github.com/Cap-go/capacitor-uploader) - Upload file natively.
+*   [Zip (⭐3)](https://github.com/Cap-go/capacitor-zip) - Zipping and unzipping files on iOS, Android, and Web.
+
+##### [Capgo plugins](https://capgo.app/) / Location & Navigation
+
+*   [Background Geolocation (⭐10)](https://github.com/Cap-go/capacitor-background-geolocation) - Receive accurate geolocation updates even while the app is in the background.
+*   [Native Geocoder (⭐34)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [Launch Navigator (⭐4)](https://github.com/Cap-go/capacitor-launch-navigator) - Launch native route navigation apps for Android and iOS.
+
+##### [Capgo plugins](https://capgo.app/) / Authentication & Security
+
+*   [Native Biometric (⭐66)](https://github.com/Cap-go/capacitor-native-biometric) - Access native biometric APIs for Android and iOS.
+*   [Social Login (⭐166)](https://github.com/Cap-go/capacitor-social-login) - All social logins in one plugin.
+*   [Autofill Save Password (⭐8)](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
+*   [Persistent Account (⭐5)](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
+*   [Is Root (⭐6)](https://github.com/Cap-go/capacitor-is-root) - Jailbreak/Root Detection Plugin.
+*   [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) - iOS App Tracking Transparency framework integration.
+
+##### [Capgo plugins](https://capgo.app/) / UI & Display
+
+*   [In App Browser (⭐112)](https://github.com/Cap-go/capacitor-inappbrowser) - In app browser.
+*   [Navigation Bar (⭐20)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for Android Lollipop and higher.
+*   [Home Indicator (⭐3)](https://github.com/Cap-go/capacitor-home-indicator) - Hide and show home button indicator in Capacitor app.
+*   [Screen Orientation (⭐3)](https://github.com/Cap-go/capacitor-screen-orientation) - Screen orientation with support for bypassing orientation lock.
+*   [Flash (⭐18)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+*   [Keep Awake (⭐4)](https://github.com/Cap-go/capacitor-keep-awake) - Prevent the device screen from dimming or sleeping.
+*   [Text Interaction (⭐3)](https://github.com/Cap-go/capacitor-textinteraction) - Toggle text interaction in Capacitor based iOS apps.
+*   [Transitions (⭐1)](https://github.com/Cap-go/capacitor-transitions) - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
+*   [Printer (⭐5)](https://github.com/Cap-go/capacitor-printer) - Print documents, HTML, PDFs, images and web views.
+*   [PDF Generator (⭐3)](https://github.com/Cap-go/capacitor-pdf-generator) - Generate PDF files from HTML strings or URLs.
+
+##### [Capgo plugins](https://capgo.app/) / Purchases & Payments
+
+*   [Native Purchases (⭐29)](https://github.com/Cap-go/capacitor-native-purchases) - In-app Subscriptions Made Easy.
+*   [Pay (⭐4)](https://github.com/Cap-go/capacitor-pay) - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
+
+##### [Capgo plugins](https://capgo.app/) / Communication & Messaging
+
+*   [Crisp (⭐11)](https://github.com/Cap-go/capacitor-crisp) - Crisp native SDK for capacitor.
+*   [NFC (⭐8)](https://github.com/Cap-go/capacitor-nfc) - Native NFC tag discovery, reading and writing for iOS and Android.
+*   [Bluetooth Low Energy (⭐4)](https://github.com/Cap-go/capacitor-bluetooth-low-energy) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
+*   [WiFi (⭐5)](https://github.com/Cap-go/capacitor-wifi) - Manage WiFi connectivity for your Capacitor app.
+*   [iBeacon (⭐4)](https://github.com/Cap-go/capacitor-ibeacon) - iBeacon proximity detection and beacon region monitoring.
+*   [Speech Recognition (⭐7)](https://github.com/Cap-go/capacitor-speech-recognition) - Comprehensive on-device speech recognition with live partial results.
+*   [Speech Synthesis (⭐4)](https://github.com/Cap-go/capacitor-speech-synthesis) - Synthesize speech from text with full control over language, voice, pitch, rate, and volume.
+
+##### [Capgo plugins](https://capgo.app/) / Video Calling & Real-time
+
+*   [Stream Call (⭐8)](https://github.com/Cap-go/capacitor-streamcall) - Uses the getstream.io SDK to implement calling in Capacitor.
+*   [RealtimeKit (⭐5)](https://github.com/Cap-go/capacitor-realtimekit) - Cloudflare Calls integration for Capacitor apps with built-in UI for meetings.
+*   [Twilio Voice (⭐4)](https://github.com/Cap-go/capacitor-twilio-voice) - Integrates the Twilio Voice SDK into Capacitor.
+
+##### [Capgo plugins](https://capgo.app/) / Analytics & Tracking
+
+*   [AdMob (⭐3)](https://github.com/Cap-go/capacitor-admob) - Bridge AdMob SDKs for iOS and Android.
+*   [GTM (⭐5)](https://github.com/Cap-go/capacitor-gtm) - Google Tag Manager plugin for Capacitor.
+*   [App Insights (⭐3)](https://github.com/Cap-go/capacitor-appinsights) - A wrapper around the Apptopia App Insights SDK.
+
+##### [Capgo plugins](https://capgo.app/) / Contacts & Health
+
+*   [Contacts (⭐3)](https://github.com/Cap-go/capacitor-contacts) - Work with device contacts using Capacitor APIs.
+*   [Health (⭐8)](https://github.com/Cap-go/capacitor-health) - Interact with data from Apple HealthKit and Health Connect.
+
+##### [Capgo plugins](https://capgo.app/) / App Store & Market
+
+*   [Native Market (⭐9)](https://github.com/Cap-go/capacitor-native-market) - A native market plugin for linking to Google Play or App Store.
+*   [In App Review (⭐4)](https://github.com/Cap-go/capacitor-in-app-review) - Prompt users to submit app store ratings and reviews without leaving your app.
+
+##### [Capgo plugins](https://capgo.app/) / Android Specific
+
+*   [Usage Stats Manager (⭐4)](https://github.com/Cap-go/capacitor-android-usagestatsmanager) - Exposes the Android's UsageStatsManager SDK.
+*   [Android Age Signals (⭐4)](https://github.com/Cap-go/capacitor-android-age-signals) - Exposes Google Play Age Signals to your app.
+*   [Android Inline Install (⭐3)](https://github.com/Cap-go/capacitor-android-inline-install) - Trigger Android inline install feature.
+*   [Android Kiosk (⭐5)](https://github.com/Cap-go/capacitor-android-kiosk) - Lock device into kiosk mode with launcher functionality.
+*   [Intent Launcher (⭐6)](https://github.com/Cap-go/capacitor-intent-launcher) - Launch Android intents and open system settings screens on Android and iOS.
+
+##### [Capgo plugins](https://capgo.app/) / Platform Integrations
+
+*   [Supabase (⭐1)](https://github.com/Cap-go/capacitor-supabase) - Native Supabase SDK integration - Auth, Database, and JWT access.
+*   [WeChat (⭐6)](https://github.com/Cap-go/capacitor-wechat) - WeChat SDK - authentication, sharing, payments, and mini-programs.
+*   [Watch (⭐6)](https://github.com/Cap-go/capacitor-watch) - Apple Watch communication with bidirectional messaging support.
+*   [Share Target (⭐4)](https://github.com/Cap-go/capacitor-share-target) - Receive shared content from other apps.
+
+##### [Capgo plugins](https://capgo.app/) / Firebase
+
+*   [Analytics (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase Analytics for Capacitor.
+*   [App (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) - Firebase App for Capacitor.
+*   [App Check (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) - Firebase App Check for Capacitor.
+*   [Authentication (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) - Firebase Authentication for Capacitor.
+*   [Crashlytics (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics for Capacitor.
+*   [Firestore (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) - Firebase Cloud Firestore for Capacitor.
+*   [Functions (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/functions/README.md) - Firebase Cloud Functions for Capacitor.
+*   [Messaging (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/messaging/README.md) - Firebase Cloud Messaging (FCM) for Capacitor.
+*   [Performance (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/performance/README.md) - Firebase Performance Monitoring for Capacitor.
+*   [Remote Config (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/remote-config/README.md) - Firebase Remote Config for Capacitor.
+*   [Storage (⭐4)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/storage/README.md) - Firebase Cloud Storage for Capacitor.
+
+##### [Capgo plugins](https://capgo.app/) / Utilities
+
+*   [Alarm (⭐4)](https://github.com/Cap-go/capacitor-alarm) - Manage native alarms.
+*   [Env (⭐3)](https://github.com/Cap-go/capacitor-env) - Set Env var in Capacitor config and read them at runtime.
+*   [WebView Guardian (⭐4)](https://github.com/Cap-go/capacitor-webview-guardian) - Detect when the WebView was killed in the background and relaunch it on foreground.
+*   [LLM (⭐11)](https://github.com/Cap-go/capacitor-llm) - Adds support for LLM locally run for Capacitor.
+
+##### [Capgo plugins](https://capgo.app/) / Specialized Hardware
+
+*   [Ricoh360 Camera (⭐3)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) - SDK for the Ricoh360 cameras.
+
+#### [8. Awesome Python](/content/vinta/awesome-python/README.md)
+
+##### Admin Panels
+
+*   [django-unfold (⭐3.1k)](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience.
+*   [func-to-web (⭐345)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
+
+##### ASGI Servers
+
+*   [granian (⭐4.9k)](https://github.com/emmett-framework/granian) - Granian is a Rust HTTP server for Python applications built on top of Hyper and Tokio,supporting WSGI/ASGI/RSGI.
+
+##### Audio
+
+*   Audio
+    *   [audioFlux (⭐3.2k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+    *   [audioread (⭐536)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [dejavu (⭐6.7k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [kapre (⭐938)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    *   [librosa (⭐8.1k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐2.3k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
+    *   [pyaudioanalysis (⭐6.2k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
+    *   [pydub (⭐9.7k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    *   [timeside (⭐397)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+
+##### Command-line Tools
+
+*   Productivity Tools
+    *   [cookiecutter (⭐25k)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
+    *   [copier (⭐3k)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
+    *   [doitlive (⭐3.6k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
+    *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+    *   [invoke (⭐4.7k)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+    *   [pathpicker (⭐5.2k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
+    *   [thefuck (⭐95k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    *   [tmuxp (⭐4.4k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐40k)](https://github.com/tmux/tmux) session manager.
+    *   [try (⭐750)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+
+##### Data Analysis
+
+*   [pathway (⭐56k)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+*   [polars (⭐37k)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
+
+##### Data Visualization
+
+*   [UltraPlot (⭐247)](https://github.com/ultraplot/UltraPlot) - Matplotlib wrapper for publication-ready scientific figures with minimal code. Includes advanced subplot management, panel layouts, and batteries-included geoscience plotting.
+
+##### Database
+
+*   [DuckDB](https://duckdb.org/) - An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
+
+##### Database Drivers
+
+*   Other Relational Databases
+    *   [clickhouse-driver (⭐1.3k)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
+    *   [pymssql (⭐877)](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
+
+##### Deep Learning
+
+*   [jax (⭐34k)](https://github.com/google/jax) - a library for high-performance numerical computing with automatic differentiation and JIT compilation.
+
+##### Distribution
+
+*   [Nuitka (⭐14k)](https://github.com/Nuitka/Nuitka) - Compiles Python programs into high-performance standalone executables (cross-platform, supports all Python versions).
+
+##### File Manipulation
+
+*   [watchfiles (⭐2.4k)](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
+
+##### GUI Development
+
+*   [NiceGui (⭐15k)](https://github.com/zauberzeug/nicegui) - It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases. You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.
+
+##### GraphQL
+
+*   [strawberry-django (⭐483)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
+
+##### HTML Manipulation
+
+*   [JustHTML (⭐1k)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
+
+##### Interactive Interpreter
+
+*   [marimo (⭐18k)](https://github.com/marimo-team/marimo) - Transform data and train models, feels like a next-gen notebook, stored as Git-friendly Python.
+
+##### Machine Learning
+
+*   [PraisonAI (⭐5.5k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+
+##### ORM
+
+*   NoSQL Databases
+    *   [mongoengine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
+    *   [PynamoDB (⭐2.6k)](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
+
+##### Testing
+
+*   Fake Data
+    *   [faker (⭐19k)](https://github.com/joke2k/faker) - A Python package that generates fake data.
+    *   [mimesis (⭐4.7k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
+
+##### Web Frameworks
+
+*   Asynchronous
+    *   [microdot (⭐2.1k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+    *   [tornado (⭐22k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
+
+##### Podcasts
+
+*   [PyPodcats](https://pypodcats.live)
+
 ### [Jan 07, 2026](/content/2026/01/07/README.md)
 
 
@@ -144,17 +424,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OrderMatchingEngine (⭐85)](https://github.com/PIYUSH-KUMAR1809/order-matching-engine) - A production-grade, lock-free, high-frequency trading matching engine achieving 150M+ orders/sec.
 
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Media / Cursorline
-
-*   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
-
-##### Motion / GitLab
-
-*   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
-
-#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### CI and CD
 
@@ -164,11 +434,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
 
-#### [12. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [11. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### System Utilities
 
 *   [CrunchyCleaner (⭐2)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
+
+#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Media / Cursorline
+
+*   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
+
+##### Motion / GitLab
+
+*   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 
 ### [Jan 06, 2026](/content/2026/01/06/README.md)
 
@@ -379,13 +659,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [MasterQ32/Zig-OpenGL (⭐120)](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the OpenGL registry.
 
-#### [15. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Productivity / Task Management
-
-*   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,825`
-
-#### [16. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [15. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Application Launchers
 
@@ -415,47 +689,53 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 *   [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 
+#### [16. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Productivity / Task Management
+
+*   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,845`
+
 ---
 
 - Next: [Jan 05, 2026](&#x2F;content&#x2F;2026&#x2F;01&#x2F;05&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 117K 📝 01&#x2F;08 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-2. [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 141K 📝 01&#x2F;06 ](https://github.com/f/awesome-chatgpt-prompts)) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 265K 📝 25&#x2F;12&#x2F;28 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-4. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K 📝 01&#x2F;07 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
-5. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 71K 📝 01&#x2F;03 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
-6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 97K 📝 25&#x2F;12&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-7. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 69K 📝 25&#x2F;12&#x2F;31 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-8. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K 📝 25&#x2F;12&#x2F;30 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-9. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K 📝 01&#x2F;05 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-10. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 24K 📝 01&#x2F;07 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-11. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 20K 📝 01&#x2F;08 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-12. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 24K 📝 01&#x2F;06 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 01&#x2F;07 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-14. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 28K 📝 01&#x2F;02 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-15. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 01&#x2F;05 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 01&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-17. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 01&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 17K 📝 01&#x2F;03 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-19. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 16K 📝 01&#x2F;04 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-20. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 12K 📝 01&#x2F;05 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-21. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K 📝 25&#x2F;12&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-22. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K 📝 01&#x2F;02 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-23. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 9.1K 📝 01&#x2F;05 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-24. [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source ⭐ 8.1K 📝 01&#x2F;06 ](https://github.com/igorbarinov/awesome-data-engineering)) - A curated list of data engineering tools for software developers
-25. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 6.3K 📝 01&#x2F;07 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-26. [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 7.1K 📝 01&#x2F;06 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
-27. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 25&#x2F;11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-28. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 25&#x2F;11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-29. [Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;07 ](https://github.com/willianjusten/awesome-audio-visualization)) - A curated list about Audio Visualization.
-30. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;06 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
-31. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 25&#x2F;12&#x2F;29 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-32. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 25&#x2F;12&#x2F;09 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
-33. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4.7K 📝 01&#x2F;05 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-34. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 4.2K 📝 01&#x2F;06 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-35. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 271K 📝 25&#x2F;11&#x2F;24 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+1. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 277K 📝 01&#x2F;08 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+2. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 117K 📝 01&#x2F;08 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+3. [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 141K 📝 01&#x2F;06 ](https://github.com/f/awesome-chatgpt-prompts)) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 265K 📝 25&#x2F;12&#x2F;28 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K 📝 01&#x2F;07 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 71K 📝 01&#x2F;03 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
+7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 97K 📝 25&#x2F;12&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 69K 📝 25&#x2F;12&#x2F;31 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+9. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K 📝 25&#x2F;12&#x2F;30 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+10. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K 📝 01&#x2F;05 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+11. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 24K 📝 01&#x2F;07 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 01&#x2F;08 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 20K 📝 01&#x2F;08 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+14. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 24K 📝 01&#x2F;06 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
+15. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 28K 📝 01&#x2F;02 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+16. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 01&#x2F;05 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+17. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 01&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+18. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 01&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+19. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 17K 📝 01&#x2F;03 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+20. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 16K 📝 01&#x2F;04 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+21. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 12K 📝 01&#x2F;05 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+22. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K 📝 25&#x2F;12&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+23. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K 📝 01&#x2F;02 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+24. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 9.1K 📝 01&#x2F;05 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+25. [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source ⭐ 8.1K 📝 01&#x2F;06 ](https://github.com/igorbarinov/awesome-data-engineering)) - A curated list of data engineering tools for software developers
+26. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 6.3K 📝 01&#x2F;07 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+27. [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 7.1K 📝 01&#x2F;06 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
+28. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 25&#x2F;11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
+29. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 25&#x2F;11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+30. [Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;07 ](https://github.com/willianjusten/awesome-audio-visualization)) - A curated list about Audio Visualization.
+31. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.9K 📝 01&#x2F;06 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+32. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 25&#x2F;12&#x2F;29 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
+33. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 25&#x2F;12&#x2F;09 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
+34. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4.7K 📝 01&#x2F;05 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+35. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 4.2K 📝 01&#x2F;06 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 36. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 32K 📝 25&#x2F;12&#x2F;15 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 37. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 25K 📝 25&#x2F;12&#x2F;18 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 38. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 9.2K 📝 25&#x2F;12&#x2F;28 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
@@ -687,7 +967,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K, 📝 01&#x2F;07 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K, 📝 01&#x2F;08 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 24&#x2F;01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -1060,7 +1340,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md) - ([Source ⭐ 294, 📝 25&#x2F;11&#x2F;24 ](https://github.com/Esri/awesome-arcgis-developers)) - A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services
 - [Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md) - ([Source ⭐ 426, 📝 24&#x2F;09&#x2F;23 ](https://github.com/PandaFoss/Awesome-Arch)) - :sunglasses: A complete list of Arch-based projects
 - [Awesome Aws](/content/donnemartin/awesome-aws/README.md) - ([Source ⭐ 12K, 📝 23&#x2F;05&#x2F;29 ](https://github.com/donnemartin/awesome-aws)) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 589, 📝 25&#x2F;11&#x2F;24 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins. Made by Capgo
+- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 589, 📝 01&#x2F;08 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins. Made by Capgo
 - [Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md) - ([Source ⭐ 169, 📝 25&#x2F;11&#x2F;24 ](https://github.com/capawesome-team/awesome-capacitorjs)) - ⚡️ A curated list of awesome things related to Capacitor.
 - [Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md) - ([Source ⭐ 404, 📝 23&#x2F;05&#x2F;26 ](https://github.com/irazasyed/awesome-cloudflare)) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [Awesome Cordova](/content/busterc/awesome-cordova/README.md) - ([Source ⭐ 283, 📝 19&#x2F;10&#x2F;25 ](https://github.com/busterc/awesome-cordova)) - :iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.
@@ -1166,7 +1446,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
-- [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 271K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 277K, 📝 01&#x2F;08 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 3.2K, 📝 25&#x2F;12&#x2F;04 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
 - [Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md) - ([Source ⭐ 1.4K, 📝 23&#x2F;07&#x2F;15 ](https://github.com/faroit/awesome-python-scientific-audio)) -  Curated list of python software and packages related to scientific research in audio
 - [Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md) - ([Source ⭐ 1.9K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/typeddjango/awesome-python-typing)) - Collection of awesome Python types, stubs, plugins, and tools to work with them.

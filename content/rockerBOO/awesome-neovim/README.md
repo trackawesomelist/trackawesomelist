@@ -6,6 +6,21 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 08, 2026](/content/2026/01/08/README.md)
+
+### Programming Languages Support / Web Development
+
+*   [cjodo/convert.nvim (⭐54)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
+
+### Colorscheme / Assembly
+
+*   [serhez/teide.nvim (⭐96)](https://github.com/serhez/teide.nvim) - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
+
+### Git / Quickfix
+
+*   [Enigama/remarks.nvim (⭐7)](https://github.com/Enigama/remarks.nvim) - Personal developer notes attached to Git commits.
+*   [Salanoid/gitlogdiff.nvim (⭐9)](https://github.com/Salanoid/gitlogdiff.nvim) - Diff between multiple git commits, similar to JetBrains's git log.
+
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
 
 ### Media / Cursorline
@@ -98,7 +113,7 @@ Collections of awesome neovim plugins.
 
 ### Plugin Manager
 
-*   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+*   [zuqini/zpack.nvim (⭐62)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 
 ### Marks / Assembly
 
@@ -292,7 +307,7 @@ Collections of awesome neovim plugins.
 
 *   [MeanderingProgrammer/treesitter-modules.nvim (⭐118)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 
-### Utility / Cursorline
+### Live Preview / Indent
 
 *   [gruvw/strudel.nvim (⭐355)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
 
@@ -494,7 +509,6 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [gpanders/nvim-moonwalk (⭐77)](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua anywhere in your Neovim configuration.
-*   [markgandolfo/lightswitch.nvim (⭐22)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 
 ### Neovim Lua Development / Quickfix
 
@@ -509,6 +523,10 @@ Collections of awesome neovim plugins.
 ### Scrolling / Scrollbar
 
 *   [wsdjeg/scrollbar.nvim (⭐22)](https://github.com/wsdjeg/scrollbar.nvim) - Floating scrollbar.
+
+### UI / OS-specific
+
+*   [markgandolfo/lightswitch.nvim (⭐22)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 
 ## [Oct 23, 2025](/content/2025/10/23/README.md)
 
@@ -610,7 +628,6 @@ Collections of awesome neovim plugins.
 ### Vim / OS-specific
 
 *   [akrawchyk/awesome-vim#tools (⭐2.1k)](https://github.com/akrawchyk/awesome-vim#tools) - A short list of Vim plugins and helpful guides.
-*   [altermo/vim-plugin-list (⭐142)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
 ### Resource / OS-specific
 
@@ -695,17 +712,17 @@ Collections of awesome neovim plugins.
 
 ## [Oct 02, 2025](/content/2025/10/02/README.md)
 
-### Utility / Cursorline
-
-*   [hat0uma/doxygen-previewer.nvim (⭐8)](https://github.com/hat0uma/doxygen-previewer.nvim) - Live previewing of Doxygen documentation.
-
 ### Formatting / Folding
 
 *   [wsdjeg/format.nvim (⭐14)](https://github.com/wsdjeg/format.nvim) - An asynchronous code formatting plugin.
 
+### Live Preview / Indent
+
+*   [hat0uma/doxygen-previewer.nvim (⭐8)](https://github.com/hat0uma/doxygen-previewer.nvim) - Live previewing of Doxygen documentation.
+
 ## [Oct 01, 2025](/content/2025/10/01/README.md)
 
-### Utility / Cursorline
+### Live Preview / Indent
 
 *   [hat0uma/prelive.nvim (⭐23)](https://github.com/hat0uma/prelive.nvim) - A simple luv-based development server with live reloading.
 
@@ -1298,10 +1315,6 @@ Collections of awesome neovim plugins.
 
 *   [OXY2DEV/bars.nvim (⭐92)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 
-### Utility / Cursorline
-
-*   [kiyoon/jupynium.nvim (⭐724)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
-
 ### Motion / Tree-sitter Based
 
 *   [kiyoon/treesitter-indent-object.nvim (⭐67)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
@@ -1309,6 +1322,10 @@ Collections of awesome neovim plugins.
 ### Editing Support / Scrollbar
 
 *   [kiyoon/telescope-insert-path.nvim (⭐42)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
+
+### Live Preview / Indent
+
+*   [kiyoon/jupynium.nvim (⭐724)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 
 ### Split and Window / Tmux
 
@@ -1933,7 +1950,7 @@ Collections of awesome neovim plugins.
 
 *   [AntonVanAssche/music-controls.nvim (⭐33)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
 
-### Utility / Cursorline
+### Note Taking / Cursorline
 
 *   [niuiic/todo.nvim (⭐15)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
@@ -2329,7 +2346,7 @@ Collections of awesome neovim plugins.
 
 ## [Mar 28, 2024](/content/2024/03/28/README.md)
 
-### Utility / Cursorline
+### Live Preview / Indent
 
 *   [SUSTech-data/neopyter (⭐149)](https://github.com/SUSTech-data/neopyter) - Edit in Neovim and preview/run in Jupyter Lab.
 
@@ -2720,7 +2737,6 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [ragnarok22/whereami.nvim (⭐17)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
-*   [ariel-frischer/bmessages.nvim (⭐58)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default `:messages` window with a configurable, auto-updating buffer.
 
 ### Git / Quickfix
 
@@ -2742,6 +2758,10 @@ Collections of awesome neovim plugins.
 ### Workflow / Automation
 
 *   [mateuszwieloch/automkdir.nvim (⭐30)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+
+### UI / OS-specific
+
+*   [ariel-frischer/bmessages.nvim (⭐58)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default `:messages` window with a configurable, auto-updating buffer.
 
 ## [Dec 03, 2023](/content/2023/12/03/README.md)
 
@@ -3492,7 +3512,7 @@ Collections of awesome neovim plugins.
 
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
 
-### Utility / Cursorline
+### UI / OS-specific
 
 *   [LukasPietzschmann/telescope-tabs (⭐281)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
 
@@ -3866,6 +3886,7 @@ Collections of awesome neovim plugins.
 ### Plugin Manager
 
 *   [folke/lazy.nvim (⭐20k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
+    *   [cosmicbuffalo/super\_lazy.nvim (⭐1)](https://github.com/cosmicbuffalo/super_lazy.nvim) - An extension to `folke`'s `lazy.nvim`, enables use of multiple lockfiles for large teams that want to combine shared/personal Neovim configurations.
 
 ### Editing Support / Scrollbar
 
@@ -4014,7 +4035,7 @@ Collections of awesome neovim plugins.
 
 *   [Kasama/nvim-custom-diagnostic-highlight (⭐62)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like `coc-nvim` but based on `vim.diagnostic`.
 
-### Utility / Cursorline
+### Register / Assembly
 
 *   [bfredl/nvim-miniyank (⭐239)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
