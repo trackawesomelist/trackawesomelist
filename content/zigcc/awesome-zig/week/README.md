@@ -16,6 +16,10 @@ A collection of awesome projects in Zig.
 
 *   [Getzig (⭐9)](https://github.com/matklad/hello-getzig) - An idea for a Zig version manager along the lines of gradle wrapper.
 
+### Data Structure and Algorithm / Linker
+
+*   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
+
 ### Compilers and Interpreters / Linker
 
 *   [Fun (⭐2)](https://github.com/omdxp/fun) - A statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
@@ -59,6 +63,7 @@ A collection of awesome projects in Zig.
 ### Web Framework / Large Language Model
 
 *   [im-ng/zero (⭐9)](https://github.com/im-ng/zero) - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
+*   [GuneshRaj/zigar (⭐0)](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 
 ### Web3 Framework / Large Language Model
 
@@ -335,10 +340,6 @@ A collection of awesome projects in Zig.
 *   [xcaeser/zli (⭐293)](https://github.com/xcaeser/zli) - Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with Zig.
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
-
-### Data Structure and Algorithm / Linker
-
-*   [kobolds-io/stdx (⭐11)](https://github.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 
 ### Logging Processing / Linker
 

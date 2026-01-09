@@ -8,6 +8,14 @@ An Awesome List for getting started with web archiving
 
 ## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
 
+### Tools & Software / Utilities
+
+*   [duckdb-web-archive-cdx (⭐11)](https://github.com/midwork-finds-jobs/duckdb-web-archive) - DuckDB extension to query the Internet Archive and CommonCrawl CDX APIs directly from SQL. *(In Development)*
+
+### Tools & Software / WARC I/O Libraries
+
+*   [warc (⭐57)](https://github.com/jedireza/warc) - A Rust library for reading and writing WARC files. *(Stable)*
+
 ### Community Resources / Discord
 
 *   [Common Crawl Foundation](https://discord.gg/njaVFh7avF)

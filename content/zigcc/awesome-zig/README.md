@@ -6,6 +6,16 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jan 09, 2026](/content/2026/01/09/README.md)
+
+### Data Structure and Algorithm / Linker
+
+*   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
+
+### Web Framework / Large Language Model
+
+*   [GuneshRaj/zigar (⭐0)](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
+
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
 
 ### Tools / Package and Version Manager
@@ -392,12 +402,6 @@ A collection of awesome projects in Zig.
 ### Network / Large Language Model
 
 *   [Nyarum/zigtgshka (⭐31)](https://github.com/Nyarum/zigtgshka) - Memory-safe, high-performance Telegram Bot API library for Zig with zero-cost abstractions and comprehensive examples.
-
-## [May 20, 2025](/content/2025/05/20/README.md)
-
-### Data Structure and Algorithm / Linker
-
-*   [kobolds-io/stdx (⭐11)](https://github.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 
 ## [May 19, 2025](/content/2025/05/19/README.md)
 

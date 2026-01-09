@@ -11,6 +11,10 @@
 ### Other / [Other](#other-1)
 
 *   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+*   [Neurolint-CLI](https://neurolint.dev) — Deterministic code transformation tool using AST parsing and rule-based transformations.
+    Automatically fixes 50+ issues including accessibility violations, hydration errors,
+    React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe
+    orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 

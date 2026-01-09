@@ -1,12 +1,41 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2026
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+
+### Plugins / Languages and Environments
+
+*   [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
+    *   [eslint-plugin-erasable-syntax-only (⭐50)](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
+    *   [eslint-plugin-expect-type (⭐118)](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions.
+
+### Plugins / Libraries
+
+*   [Tailwind CSS v4 (⭐632)](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+
+### Plugins / Practices and Specific ES Features
+
+*   [eslint-plugin-signature-design (⭐1)](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession.
+*   [mutate (⭐0)](https://github.com/gchumillas/eslint-plugin-mutate) - Prevent accidental parameter mutations by enforcing explicit `mut` prefix (JavaScript) or `Mut<T>` type annotation (TypeScript).
+
+### Plugins / Security
+
+*   [pg](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
+
+### Parsers / Testing Tools
+
+*   [TypeScript](https://typescript-eslint.io/packages/parser) - A TypeScript parser that produces output compatible with ESLint.
+
+### Tools / Testing Tools
+
+*   [eslint-disable-autofix (⭐2)](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
+
+## [2. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Admin Panels
 
@@ -117,7 +146,7 @@
 
 *   [PyPodcats](https://pypodcats.live)
 
-## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/) / Core & Updates
 
@@ -271,7 +300,15 @@
 
 *   [Ricoh360 Camera (⭐3)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) - SDK for the Ricoh360 cameras.
 
-## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Tools & Software / Utilities
+
+*   [duckdb-web-archive-cdx (⭐11)](https://github.com/midwork-finds-jobs/duckdb-web-archive) - DuckDB extension to query the Internet Archive and CommonCrawl CDX APIs directly from SQL. *(In Development)*
+
+### Tools & Software / WARC I/O Libraries
+
+*   [warc (⭐57)](https://github.com/jedireza/warc) - A Rust library for reading and writing WARC files. *(Stable)*
 
 ### Community Resources / Discord
 
@@ -281,19 +318,19 @@
 
 *   [@commoncrawl](https://twitter.com/commoncrawl) - Official Common Crawl Foundation handle.
 
-## [4. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [Modern LaTeX Editor (⭐5)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [GyulyVGC/sniffnet (⭐32k)](https://github.com/GyulyVGC/sniffnet#readme) - Project banner, custom badges and horizontal rules, concise one-line description, informative screenshots, tabular download section with links, features bullet list, acknowledgements section, footer with social icons and links.
 
-## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
@@ -304,7 +341,7 @@
 
 *   [OrderMatchingEngine (⭐85)](https://github.com/PIYUSH-KUMAR1809/order-matching-engine) - A production-grade, lock-free, high-frequency trading matching engine achieving 150M+ orders/sec.
 
-## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Preprocess / Clinical Trial
 
@@ -316,13 +353,17 @@
 *   [scGPT (⭐1.4k)](https://github.com/bowang-lab/scGPT) - A transformer-based foundation model pretrained on millions of single-cell profiles to support various single-cell analysis tasks.
 *   [BulkFormer (⭐37)](https://github.com/KangBoming/BulkFormer) - A foundation model pretrained on large-scale bulk RNA-seq data to learn general transcriptomic representations for downstream analysis tasks.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   **Dockle** :warning: — Container Image Linter for Security helping build the Best-Practice Docker Image. Scans Docker images for security vulnerabilities and CIS Benchmark compliance. Checks for secrets, credential exposure, and security best practices. Provides multiple severity levels (FATAL, WARN, INFO) and supports various output formats for CI/CD integration.
+*   [Neurolint-CLI](https://neurolint.dev) — Deterministic code transformation tool using AST parsing and rule-based transformations.
+    Automatically fixes 50+ issues including accessibility violations, hydration errors,
+    React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe
+    orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -332,13 +373,13 @@
 
 *   [SystemVll/TAuth (⭐137)](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [11. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Localization and translation platforms
 
 *   [LRM (⭐33)](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
 
-## [11. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [12. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -346,7 +387,7 @@
 *   [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
 *   [osci-render (⭐600)](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
@@ -356,7 +397,7 @@
 
 *   [terraform-provider-multipass (⭐3)](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
 
-## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### :tada: New
 
@@ -366,13 +407,13 @@
 
 *   [Gemini CLI Tips by Addy Osmani (⭐2.1k)](https://github.com/addyosmani/gemini-cli-tips) - \~30 pro-tips for effectively using Gemini CLI for agentic coding.
 
-## [14. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Productivity / Task Management
 
 *   [super-productivity/super-productivity (⭐17k)](https://github.com/super-productivity/super-productivity) — Todo list with time tracking ☆`16,845`
 
-## [15. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [16. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Application Launchers
 
@@ -411,27 +452,27 @@
 
 *   [CrunchyCleaner (⭐2)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
 
-## [16. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
+## [17. Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/week/README.md)
 
 ### Want to deploy your own private prompt library for your team? / Manual Setup
 
 *   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
 *   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State of the Practice](https://dl.acm.org/doi/full/10.1145/3638243) - ***ACM Transactions on Software Engineering and Methodology***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=16602627179061103486)]. Domain experts are increasingly employing machine learning to solve their domain-specific problems. This article presents to software engineering researchers the six key challenges that a domain expert faces in addressing their problem with a computational workflow, and the underlying executable implementation. These challenges arise out of the proposed conceptual framework which presents the “route” of transformations that a domain expert may choose to take while developing their solution.
 
-## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Email Search / Email Check / GitHub
 
 *   [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
 *   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 
-## [19. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
@@ -441,7 +482,7 @@
 
 *   [playwright-examples (⭐100)](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 
-## [20. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [21. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
@@ -456,7 +497,7 @@
 
 *   [Smart Farming Thingsboard (⭐5)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
 
-## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
@@ -468,7 +509,7 @@
 
 *   [Remix by Via](https://ridewithvia.com/solutions/remix) - A webapp that lets transit agencies easily plan routes.
 
-## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [23. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PubSub / React
 
@@ -478,19 +519,19 @@
 
 *   [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
-## [23. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [24. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Videos / Help
 
 *   [Analog Circuit Design](https://youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) - Analog Circuit Design by Prof. Ali Hajimiri, Caltech.
 
-## [24. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [25. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 
-## [25. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [26. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
@@ -552,13 +593,13 @@
     *   [Vim LOVE Docs (⭐58)](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
 *   [Love2D WebIDE](https://love.ivie.codes/) - Completely web based IDE for writing Love2D games.
 
-## [26. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [27. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [Snowflake Emulator (⭐4)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 
-## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [28. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Import / Export
 
@@ -569,7 +610,7 @@
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 
-## [28. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [29. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Tools / Text Editors
 
@@ -578,6 +619,10 @@
 ### Tools / Package and Version Manager
 
 *   [Getzig (⭐9)](https://github.com/matklad/hello-getzig) - An idea for a Zig version manager along the lines of gradle wrapper.
+
+### Data Structure and Algorithm / Linker
+
+*   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 
 ### Compilers and Interpreters / Linker
 
@@ -622,6 +667,7 @@
 ### Web Framework / Large Language Model
 
 *   [im-ng/zero (⭐9)](https://github.com/im-ng/zero) - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
+*   [GuneshRaj/zigar (⭐0)](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 
 ### Web3 Framework / Large Language Model
 
@@ -631,13 +677,13 @@
 
 *   [MasterQ32/Zig-OpenGL (⭐120)](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the OpenGL registry.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
 *   [Infographic (⭐2.8k)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -655,13 +701,13 @@
 
 *   [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
 
-## [31. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [32. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### SCTE-35
 
 *   [threefive (⭐13)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / YAML
 
@@ -671,6 +717,10 @@
 
 *   [cjodo/convert.nvim (⭐54)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
 
+### Project / Assembly
+
+*   [cosmicbuffalo/root\_swapper.nvim (⭐1)](https://github.com/cosmicbuffalo/root_swapper.nvim) - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
+
 ### Colorscheme / Assembly
 
 *   [serhez/teide.nvim (⭐96)](https://github.com/serhez/teide.nvim) - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
@@ -678,6 +728,10 @@
 ### Media / Cursorline
 
 *   [ricmonmol/nvim-music-player (⭐4)](https://github.com/ricmonmol/nvim-music-player) - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
+
+### Dependency Management / Quickfix
+
+*   [cosmicbuffalo/gem\_install.nvim (⭐1)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 
 ### Git / Quickfix
 
@@ -688,7 +742,7 @@
 
 *   [cosmicbuffalo/eyeliner.nvim (⭐2)](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 
-## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [34. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -699,7 +753,7 @@
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [pg\_probackup (⭐770)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 
-## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -709,13 +763,13 @@
 
 *   [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
 
-## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [36. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / Alternative Data
 
 *   [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
-## [36. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [37. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -725,13 +779,13 @@
 
 *   [Learn LangChain (JS) (⭐3)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
 
-## [37. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
 *   [s3m (⭐47)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### AI Tools
 

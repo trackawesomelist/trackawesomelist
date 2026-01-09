@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 09, 2026](/content/2026/01/09/README.md)
+
+### Project / Assembly
+
+*   [cosmicbuffalo/root\_swapper.nvim (⭐1)](https://github.com/cosmicbuffalo/root_swapper.nvim) - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
+
+### Dependency Management / Quickfix
+
+*   [cosmicbuffalo/gem\_install.nvim (⭐1)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
+
 ## [Jan 08, 2026](/content/2026/01/08/README.md)
 
 ### Programming Languages Support / Web Development
@@ -512,7 +522,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐21k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐94)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 *   [lumen-oss/lz.n (⭐232)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 

@@ -632,6 +632,7 @@ Collections of awesome neovim plugins.
 *   [LucasTavaresA/headers.nvim (⭐4)](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 *   [zongben/proot.nvim (⭐9)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
 *   [wsdjeg/rooter.nvim (⭐22)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+*   [cosmicbuffalo/root\_swapper.nvim (⭐1)](https://github.com/cosmicbuffalo/root_swapper.nvim) - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 *   [mrjones2014/codesettings.nvim (⭐45)](https://github.com/mrjones2014/codesettings.nvim) - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 
 <!--lint disable double-link -->
@@ -1286,7 +1287,7 @@ then it is not supported:
 *   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐85)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Neovim Lua development.
 *   [DrKJeff16/wezterm-types (⭐145)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
-*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐21k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐94)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 *   [lumen-oss/lz.n (⭐232)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 
@@ -1319,6 +1320,7 @@ then it is not supported:
 *   [piersolenski/import.nvim (⭐262)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 *   [Silletr/LazyDeveloperHelper (⭐9)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 *   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
+*   [cosmicbuffalo/gem\_install.nvim (⭐1)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 
 <!--lint disable double-link -->
 

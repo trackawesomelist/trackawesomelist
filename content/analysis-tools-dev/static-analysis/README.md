@@ -6,6 +6,15 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Jan 09, 2026](/content/2026/01/09/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Neurolint-CLI](https://neurolint.dev) — Deterministic code transformation tool using AST parsing and rule-based transformations.
+    Automatically fixes 50+ issues including accessibility violations, hydration errors,
+    React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe
+    orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.
+
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
 
 ### Other / [Other](#other-1)
