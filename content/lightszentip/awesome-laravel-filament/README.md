@@ -122,6 +122,7 @@ A list for the topic laravel and filament
 *   [Invobook - Time Tracking & Project Management (⭐2.1k)](https://github.com/Hasnayeen/invobook)
 *   [Erpsaas - Finance Tool (⭐734)](https://github.com/andrewdwallo/erpsaas)
 *   [Project Management (⭐723)](https://github.com/devaslanphp/project-management)
+*   [Relaticle - CRM (⭐100)](https://github.com/Relaticle/relaticle)
 
 ### Filament / Plugins
 
