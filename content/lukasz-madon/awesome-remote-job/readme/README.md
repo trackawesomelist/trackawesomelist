@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 41K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 43K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / Overview ]
 
@@ -177,8 +177,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 33. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
 34. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
 35. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-36. [remote-es/remotes (⭐2.7k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
-37. [thatmlopsguy/remote-pt (⭐10)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+36. [remote-es/remotes (⭐2.8k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+37. [thatmlopsguy/remote-pt (⭐13)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
 38. [remote-jobs (⭐40k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 39. [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
 40. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
@@ -203,6 +203,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 59. [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
 60. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
 61. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
+62. [Jobo](https://jobo.pl) - 100% remote-only verified jobs from Poland in IT, marketing, sales & more.
 
 ## Job boards aggregators
 
@@ -250,7 +251,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Interviewing
 
 1.  [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-2.  [awesome-interviews (⭐79k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+2.  [awesome-interviews (⭐81k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 3.  [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 4.  [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 5.  [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
@@ -533,7 +534,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Communities
 
 1.  [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
-2.  [##remotes (⭐15)](https://github.com/remotesclub/remotes) - IRC channel
+2.  [##remotes (⭐16)](https://github.com/remotesclub/remotes) - IRC channel
 3.  [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 4.  [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 5.  [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
@@ -558,7 +559,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 4.  [Gather](https://www.gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 5.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 6.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-7.  [Matrix (⭐905)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+7.  [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 8.  [Mumble](https://www.mumble.info/documentation/) Mumble is an open source voice chat software
 9.  [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
 10. [PukkaTeam](https://pukkateam.com/) - Real team presence through regular automated selfies and one-click video calling
@@ -610,8 +611,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
 
-1.  [awesome-digital-nomads (⭐987)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-2.  [Established Remote (⭐8.5k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+1.  [awesome-digital-nomads (⭐1k)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+2.  [Established Remote (⭐8.6k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 3.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
 4.  [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
 5.  [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.

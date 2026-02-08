@@ -2,7 +2,7 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 732 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 756 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / Overview ]
 
@@ -50,7 +50,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐300)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐302)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
@@ -179,38 +179,28 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-*   [OnlineWardleyMaps (⭐274)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐289)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-*   [Wardley Maps for Obsidian.md (⭐11)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [Wardley Maps for Obsidian.md (⭐16)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐21)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
-*   [Go-Wardley (⭐34)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+*   [Go-Wardley (⭐35)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 *   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 *   [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 *   [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
-*   [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images.
+*   [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images, and sharing to collaboratively edit maps.
+*   [Map for Linux](https://map.tranquil.systems/map-for-linux) - GTK4 Linux app to build wardley maps using the `wmap` syntax. AGPLv3.
+*   [wmap](https://map.tranquil.systems/cli) - A command line tool to render `wmap` formatted maps to PNG or SVG.
 
 ### Doctrine Assessement
 
-*   [Doctrine (⭐56)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐60)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ### Commercial Enterprise Platforms
 
 ## Tools & Scripts
-
-### AI
-
-*   [Learn about Wardley Maps using MEMGPT](\(https://stmemgptv2.streamlit.app/\)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo (⭐10)](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
-*   [Learn about Wardley Maps using Claude](https://claude-chatbot.streamlit.app/) - An AI Application using Claude to help learn Wardley Maps
-*   [Learn about Wardley Maps using OpenAI](https://learnwardleymapping.streamlit.app/) - Streamlit and OpenAI application to learn Wardley Maps.
-*   [Learn about Wardley Maps using OpenAI Assistants](https://learnwardleymapping-gpt.streamlit.app/) - OpenAI Assistant application to help learn Wardley Maps.
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It's also got a syntax checker built in. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
-*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Have a chat with the book Ask Simon's book anything.
-*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research Wardley Maps that are available on GitHub.
-*   [Learn Wardley Mapping Bot](https://learnwardleymapping.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
-*   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
 ### Development
 
@@ -218,6 +208,15 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 *   [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 *   [Convert WM format to Many](https://wm2many.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON, TOML, JSON Graph and Cypher text.
 *   [Exploring Prompt Engineering using Wardley Maps](https://medium.com/prompt-engineering) - A series of blog posts about AI, Python and Wardley Mapping.
+*   [wiki-plugin-wmap](https://www.npmjs.com/package/wiki-plugin-wmap) - A plugin for [fedwiki](http://fed.wiki.org/view/welcome-visitors) that enables you to write maps in `wmap` syntax and create links to other wiki pages from components.
+*   [tree-sitter-wmap](https://git.sr.ht/~rbdr/tree-sitter-wmap) - A `wmap` syntax parser using tree sitter with a bundled neovim plugin that provides syntax highlighting.
+*   [wmap-parser-swift](https://git.sr.ht/~rbdr/wmap-parser-swift) - A Library for Swift that parses wardley maps using `wmap` syntax for macOS and iOS development.
+*   [wmap-parser-js](https://www.npmjs.com/package/wmap-parser) - A pure javascript parser for wardley maps using `wmap` syntax that can run on the browser or node.
+*   [wmap-parser-rust](https://crates.io/crates/wmap-parser) - A rust parser for wardley maps using `wmap` syntax.
+*   [wmap-parser-c](https://git.sr.ht/~rbdr/wmap-parser-c) - A high performance ANSI C parser for wardley maps using `wmap` syntax.
+*   [wmap-renderer-canvas](https://www.npmjs.com/package/wmap-renderer-canvas) - A javascript renderer that creates maps in a canvas element for wardley maps that use the `wmap` syntax, can be used exclusively on the browser or on nodeJS.
+*   [wmap-renderer-svg](https://www.npmjs.com/package/wmap-renderer-svg) - A browser only renderer that creates SVGs for wardley maps that use the `wmap` syntax.
+*   [wmap-renderer-rust](https://crates.io/crates/wmap-renderer) A rust renderer that generates cairo surfaces, SVGs and PNGs for wardley maps that use the `wmap` syntax.
 
 #### ChatGPT
 
@@ -238,7 +237,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 *   [wardley-omnigraffle (⭐22)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
 *   [Wardley Maps in LaTeX (⭐4)](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
-*   [yEd Palette (⭐14)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+*   [yEd Palette (⭐16)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
 ### Doctrine Assessement
@@ -253,8 +252,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Workshops
 
-*   [Wardley Maps Battle Camp (⭐47)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
-*   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
+*   [Wardley Maps Battle Camp (⭐48)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Workshop Building Block - New Year's Eve Party (⭐14)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
 ## Meetups
 

@@ -214,6 +214,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 *   [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
 *   [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
+*
 
 ### ObjectiveC
 
@@ -253,7 +254,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐791)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐802)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -437,6 +438,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [True Positive Weekly](https://aiweekly.substack.com/). The most important artificial intelligence and machine learning links of the week.
 *   [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 *   [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
+*   [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 
 ## Blockchain / Cryptocurrencies
 
@@ -457,6 +459,8 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 *   [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
 *   [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
+*   [Take It From The Top](https://takeitfromthe.top/). Daily rundown of AI and tech. Filters out the fluff, keeps the good parts. Covers launches, dev tools, and engineering reads so you're always in the loop. [Archive](https://takeitfromthe.top/).
+*   [Tech Byte Daily](https://tech-byte.dev) Free, No-fluff daily tech newsletter for senior software engineers
 
 ## Leadership
 
@@ -513,7 +517,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.8k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.9k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 *   [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.

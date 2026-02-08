@@ -2,19 +2,31 @@
 
 List of useful Quick Look plugins for developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/quick-look-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) · ⭐ 18K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/quick-look-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) · ⭐ 19K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/sindresorhus/quick-look-plugins/week/README.md) / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
+
+## [Jan 28, 2026](/content/2026/01/28/README.md)
+
+### Plugins
+
+### [Markdown Preview](https://anybox.ltd/markdown-preview) 💰
+
+> Quick look Markdown files with KaTex and Mermaid support.
+
+Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-look/id6739955340).
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/MarkdownPreview.png)](https://anybox.ltd/markdown-preview)
 
 ## [Dec 20, 2025](/content/2025/12/20/README.md)
 
 ### Plugins
 
-### [QLMarkdown (⭐2k)](https://github.com/sbarex/QLMarkdown)
+### [QLMarkdown (⭐2.2k)](https://github.com/sbarex/QLMarkdown)
 
 > Preview Markdown files
 
-Run `brew install --cask qlmarkdown` or [download manually (⭐2k)](https://github.com/sbarex/QLMarkdown/releases/latest)
+Run `brew install --cask qlmarkdown` or [download manually (⭐2.2k)](https://github.com/sbarex/QLMarkdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLMarkdown.png)](https://github.com/sbarex/QLMarkdown)
 
@@ -24,7 +36,7 @@ Run `brew install --cask qlmarkdown` or [download manually (⭐2k)](https://gith
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
 
-> Preview folders and ZIP files with the familiar experience of Finder.
+> Quick look inside folders and archives.
 
 Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
 
@@ -76,11 +88,11 @@ Run `brew install apparency` or [download manually](https://mothersruin.com/soft
 
 ### License
 
-### [SourceCodeSyntaxHighlight (⭐3.8k)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [SourceCodeSyntaxHighlight (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 > Preview many different source code files
 
-Run `brew install --cask --no-quarantine syntax-highlight` or [download manually (⭐3.8k)](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
+Run `brew install --cask --no-quarantine syntax-highlight` or [download manually (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
 
 [![](https://user-images.githubusercontent.com/8471055/118415204-5f53fc80-b6a9-11eb-93d8-b88c442c5744.png)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
@@ -139,7 +151,7 @@ Run `brew install qlstephen` or [download manually (⭐2.8k)](https://github.com
 
 > Preview JSON files
 
-Run `brew install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+[Download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 ### [ProvisionQL (⭐2.4k)](https://github.com/ealeksandrov/ProvisionQL)
@@ -154,11 +166,11 @@ Run `brew install provisionql` or [download manually (⭐2.4k)](https://github.c
 
 ### Plugins
 
-### [QLVideo (⭐3.2k)](https://github.com/Marginal/QLVideo)
+### [QLVideo (⭐3.3k)](https://github.com/Marginal/QLVideo)
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
 
-Run `brew install qlvideo` or [download manually (⭐3.2k)](https://github.com/Marginal/QLVideo/releases/latest)
+Run `brew install qlvideo` or [download manually (⭐3.3k)](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 

@@ -6,11 +6,17 @@
 
 [ Daily / [Weekly](/content/stoeffel/awesome-fp-js/week/README.md) / [Overview](/content/stoeffel/awesome-fp-js/readme/README.md) ]
 
+## [Feb 08, 2026](/content/2026/02/08/README.md)
+
+### Libraries
+
+*   [tinyeffect (⭐31)](https://github.com/Snowflyt/tinyeffect) - A tiny TypeScript library for handling side effects in a unified way using algebraic effects. +TS
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Libraries
 
-*   [iterflow (⭐1)](https://github.com/gv-sh/iterflow) - Powerful iterator utilities for TypeScript with statistical operations, windowing, and lazy evaluation. +TS
+*   [iterflow (⭐0)](https://github.com/gv-sh/iterflow) - Powerful iterator utilities for TypeScript with statistical operations, windowing, and lazy evaluation. +TS
 
 ## [Jul 24, 2025](/content/2025/07/24/README.md)
 
@@ -30,7 +36,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [NeverThrow (⭐6.8k)](https://github.com/supermacro/neverthrow) - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
+*   [NeverThrow (⭐7.1k)](https://github.com/supermacro/neverthrow) - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
 
 ## [Nov 25, 2024](/content/2024/11/25/README.md)
 
@@ -49,19 +55,19 @@
 
 ### Libraries
 
-*   [Verticalize (⭐299)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
+*   [Verticalize (⭐300)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### Libraries / Algebraic Data Types
 
-*   [sweet-monads (⭐354)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
+*   [sweet-monads (⭐355)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
 
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### Libraries
 
-*   [hyogwa (⭐60)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
+*   [hyogwa (⭐61)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
 ## [Mar 19, 2023](/content/2023/03/19/README.md)
 
@@ -73,7 +79,7 @@
 
 ### Libraries
 
-*   [ts-pattern (⭐14k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+*   [ts-pattern (⭐15k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 
 ### Libraries / Data Structures
 
@@ -126,7 +132,7 @@
 
 ### Libraries
 
-*   [effect-ts (⭐12k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [effect-ts (⭐13k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 *   [qio (⭐74)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ## [Oct 11, 2021](/content/2021/10/11/README.md)
@@ -176,7 +182,7 @@
 
 ### Libraries
 
-*   [rubico (⭐283)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐282)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ## [May 26, 2020](/content/2020/05/26/README.md)
 
@@ -208,29 +214,29 @@
 
 *   [Ramda (⭐24k)](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
 *   [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript. Typescript support expected mid-2020.  -TS.
-*   [lodash/fp (⭐61k)](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash (⭐61k)](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
+*   [lodash/fp (⭐62k)](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash (⭐62k)](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
 *   [101 (⭐1.5k)](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.  -TS
 *   [barely-functional (⭐107)](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations. -TS.
 *   [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module. -TS.
 *   [preludejs (⭐100)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. -TS.
-*   [1-liners (⭐798)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
-*   [funfix (⭐632)](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.  +CT, +TS.
+*   [1-liners (⭐799)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
+*   [funfix (⭐631)](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.  +CT, +TS.
 *   [pico-lambda (⭐71)](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. -TS.
 *   [pareto-js (⭐260)](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript -TS.
 *   [fpEs (⭐43)](https://github.com/TeaEntityLab/fpEs/) - A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript. -TS.
 *   [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land. -TS.
-*   [TGrid (⭐166)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐625)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
-*   [Ferrum (⭐531)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
-*   [iter-tools (⭐181)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
+*   [TGrid (⭐166)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐634)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
+*   [Ferrum (⭐530)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
+*   [iter-tools (⭐182)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 *   [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
 
 ### Libraries / Data Structures
 
 *   [Immer (⭐29k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
-*   [DerivableJS (⭐517)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
-*   [collectable (⭐277)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-*   [prelude.ts (⭐383)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
-*   [TSTL (⭐625)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
+*   [DerivableJS (⭐518)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
+*   [collectable (⭐278)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
+*   [prelude.ts (⭐385)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
+*   [TSTL (⭐634)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
 ### Libraries / Algebraic Data Types
 
@@ -238,7 +244,7 @@
 *   [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.  +CT, +TS.
 *   [crocks (⭐1.6k)](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.
 *   [purify (⭐1.6k)](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
-*   [Pratica (⭐487)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
+*   [Pratica (⭐488)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
 *   [Tifi](https://github.com/mobily/tifi) - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both `undefined` and `null`. Tifi is inspired by the OCaml/Reason utilities for the option data type. +CT, +TS.
 
 ## [Oct 30, 2019](/content/2019/10/30/README.md)
@@ -275,7 +281,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐264)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐265)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ## [Mar 18, 2019](/content/2019/03/18/README.md)
 
@@ -309,7 +315,7 @@
 
 ### Libraries / Lenses
 
-*   [shades (⭐419)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐418)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -331,7 +337,7 @@
 
 ### Libraries
 
-*   [Rambda (⭐1.7k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+*   [Rambda (⭐1.8k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
 ## [Jul 24, 2018](/content/2018/07/24/README.md)
 
@@ -349,7 +355,7 @@
 
 ### Libraries
 
-*   [Ramda-extension (⭐167)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
+*   [Ramda-extension (⭐166)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 
 ## [Mar 23, 2018](/content/2018/03/23/README.md)
 
@@ -395,13 +401,13 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RamdaScript (⭐132)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
+*   [RamdaScript (⭐130)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
 ## [Jul 28, 2017](/content/2017/07/28/README.md)
 
 ### Libraries
 
-*   [zen-signals (⭐54)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐53)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -418,7 +424,7 @@
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐200)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐203)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## [Jun 05, 2017](/content/2017/06/05/README.md)
 
@@ -430,7 +436,7 @@
 
 ### Resources / Examples and Exercises
 
-*   [Escape from Callback Mountain (⭐257)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
+*   [Escape from Callback Mountain (⭐256)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## [Apr 11, 2017](/content/2017/04/11/README.md)
 
@@ -448,7 +454,7 @@
 
 ### Libraries
 
-*   [FPO.js (⭐451)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐450)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [Mar 06, 2017](/content/2017/03/06/README.md)
 
@@ -484,7 +490,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐972)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [Nov 02, 2016](/content/2016/11/02/README.md)
 
@@ -520,7 +526,7 @@
 
 ### Libraries / Data Structures
 
-*   [imlazy (⭐103)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
+*   [imlazy (⭐104)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 
 ## [Aug 22, 2016](/content/2016/08/22/README.md)
 
@@ -601,7 +607,7 @@
 
 ### Community / Related Lists
 
-*   [lucasviola/Awesome Functional Programming (⭐991)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+*   [lucasviola/Awesome Functional Programming (⭐996)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.5k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
 ## [Mar 13, 2016](/content/2016/03/13/README.md)
@@ -625,7 +631,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [daggy (⭐704)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
+*   [daggy (⭐705)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 *   [fantasy-combinators (⭐66)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 *   [fantasy-birds (⭐93)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
@@ -639,7 +645,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ClojureScript (⭐9.3k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
+*   [ClojureScript (⭐9.4k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 *   [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 *   [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 *   [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
@@ -676,14 +682,14 @@
 
 ### Libraries / Data Structures
 
-*   [immutable-sequence.js (⭐16)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐45)](https://github.com/qiao/fingertree.js).
+*   [immutable-sequence.js (⭐15)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐45)](https://github.com/qiao/fingertree.js).
 *   [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
 *   [Lazy.js (⭐6k)](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 
 ### Libraries / Algebraic Data Types
 
 *   [union-type (⭐479)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐176)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [freeky (⭐177)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Resources / Articles
 

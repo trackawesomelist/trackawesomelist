@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 02, 2026](/content/2026/02/02/README.md)
+
+### Search
+
+*   [Agentset](https://agentset.ai/) - Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support. [![Agentset](https://img.shields.io/github/stars/agentset-ai/agentset?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/agentset-ai/agentset)
+
 ## [Dec 28, 2025](/content/2025/12/28/README.md)
 
 ### Search

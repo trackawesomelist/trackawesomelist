@@ -6,16 +6,22 @@ JAX - A curated list of resources https://github.com/google/jax
 
 [ Daily / [Weekly](/content/n2cholas/awesome-jax/week/README.md) / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
 
+## [Jan 20, 2026](/content/2026/01/20/README.md)
+
+### Libraries / New Libraries
+
+*   [torchax (⭐166)](https://github.com/google/torchax/) - torchax is a library for Jax to interoperate with model code written in PyTorch.<img src="https://img.shields.io/github/stars/google/torchax?style=social" align="center">
+
 ## [Jan 01, 2026](/content/2026/01/01/README.md)
 
 ### Libraries
 
-*   [Dynamax (⭐902)](https://github.com/probml/dynamax) - Probabilistic state space models.
+*   [Dynamax (⭐908)](https://github.com/probml/dynamax) - Probabilistic state space models. <img src="https://img.shields.io/github/stars/probml/dynamax?style=social" align="center">
 
 ### Libraries / New Libraries
 
 *   [astronomix (⭐44)](https://github.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
-*   [vivsim (⭐28)](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
+*   [vivsim (⭐30)](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
 *   [MBIRJAX (⭐19)](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 
 ## [Sep 02, 2025](/content/2025/09/02/README.md)
@@ -23,10 +29,10 @@ JAX - A curated list of resources https://github.com/google/jax
 ### Libraries / New Libraries
 
 *   [flaxdiff (⭐40)](https://github.com/AshishKumar4/FlaxDiff) - Framework and Library for building and training Diffusion models in multi-node multi-device distributed settings (TPUs) <img src="https://img.shields.io/github/stars/AshishKumar4/FlaxDiff?style=social" align="center">
-*   [FDTDX (⭐191)](https://github.com/ymahlau/fdtdx) - Finite-Difference Time-Domain Electromagnetic Simulations in JAX <img src="https://img.shields.io/github/stars/ymahlau/fdtdx?style=social" align="center">
-*   [DiffeRT (⭐46)](https://github.com/jeertmans/DiffeRT) - Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem. <img src="https://img.shields.io/github/stars/jeertmans/DiffeRT?style=social" align="center">
+*   [FDTDX (⭐207)](https://github.com/ymahlau/fdtdx) - Finite-Difference Time-Domain Electromagnetic Simulations in JAX <img src="https://img.shields.io/github/stars/ymahlau/fdtdx?style=social" align="center">
+*   [DiffeRT (⭐48)](https://github.com/jeertmans/DiffeRT) - Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem. <img src="https://img.shields.io/github/stars/jeertmans/DiffeRT?style=social" align="center">
 *   [JAX-in-Cell (⭐22)](https://github.com/uwplasma/JAX-in-Cell) - Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields <img src="https://img.shields.io/github/stars/uwplasma/JAX-in-Cell?style=social" align="center">
-*   [kvax (⭐153)](https://github.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
+*   [kvax (⭐156)](https://github.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
 
 ### Models and Projects / Flax
 
@@ -47,12 +53,12 @@ JAX - A curated list of resources https://github.com/google/jax
 ### Libraries / New Libraries
 
 *   Nonlinear Optimization
-    *   [Optimistix (⭐522)](https://github.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social" align="center">
+    *   [Optimistix (⭐529)](https://github.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social" align="center">
     *   [JAXopt (⭐1k)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
-*   [flowjax (⭐205)](https://github.com/danielward27/flowjax) - Distributions and normalizing flows built as equinox modules. <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
+*   [flowjax (⭐209)](https://github.com/danielward27/flowjax) - Distributions and normalizing flows built as equinox modules. <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
 *   [foragax (⭐5)](https://github.com/i-m-iron-man/Foragax) - Agent-Based modelling framework in JAX.  <img src="https://img.shields.io/github/stars/i-m-iron-man/Foragax?style=social" align="center">
-*   [tmmax (⭐26)](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
-*   [Coreax (⭐36)](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
+*   [tmmax (⭐28)](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
+*   [Coreax (⭐37)](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 *   [NAVIX (⭐154)](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
 
 ### Models and Projects / Flax
@@ -68,14 +74,14 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [EasyDeL (⭐328)](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
-*   [dynamiqs (⭐261)](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
+*   [EasyDeL (⭐330)](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
+*   [dynamiqs (⭐266)](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
 
 ## [Apr 01, 2024](/content/2024/04/01/README.md)
 
 ### Libraries
 
-*   [Levanter (⭐687)](https://github.com/stanford-crfm/levanter) - Legible, Scalable, Reproducible Foundation Models with Named Tensors and JAX.  <img src="https://img.shields.io/github/stars/stanford-crfm/levanter?style=social" align="center">
+*   [Levanter (⭐690)](https://github.com/stanford-crfm/levanter) - Legible, Scalable, Reproducible Foundation Models with Named Tensors and JAX.  <img src="https://img.shields.io/github/stars/stanford-crfm/levanter?style=social" align="center">
 *   [EasyLM (⭐2.5k)](https://github.com/young-geng/EasyLM) - LLMs made easy: Pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.  <img src="https://img.shields.io/github/stars/young-geng/EasyLM?style=social" align="center">
 
 ### Community / Equinox
@@ -86,7 +92,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [XLB (⭐427)](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
+*   [XLB (⭐430)](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
 
 ### Papers / Equinox
 
@@ -96,14 +102,14 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [Spyx (⭐129)](https://github.com/kmheckel/spyx) - Spiking Neural Networks in JAX for machine learning on neuromorphic hardware. <img src="https://img.shields.io/github/stars/kmheckel/spyx?style=social" align="center">
+*   [Spyx (⭐131)](https://github.com/kmheckel/spyx) - Spiking Neural Networks in JAX for machine learning on neuromorphic hardware. <img src="https://img.shields.io/github/stars/kmheckel/spyx?style=social" align="center">
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Libraries / New Libraries
 
-*   [JAX Toolbox (⭐370)](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
-*   [Pgx (⭐566)](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
+*   [JAX Toolbox (⭐377)](https://github.com/NVIDIA/JAX-Toolbox) - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
+*   [Pgx (⭐576)](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
 
 ### Tutorials and Blog Posts / Equinox
 
@@ -113,21 +119,21 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries
 
-*   [BlackJAX (⭐991)](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+*   [BlackJAX (⭐1k)](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
 
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
 ### Libraries / New Libraries
 
-*   [QDax (⭐334)](https://github.com/adaptive-intelligent-robotics/QDax) - Quality Diversity optimization in Jax. <img src="https://img.shields.io/github/stars/adaptive-intelligent-robotics/QDax?style=social" align="center">
+*   [QDax (⭐335)](https://github.com/adaptive-intelligent-robotics/QDax) - Quality Diversity optimization in Jax. <img src="https://img.shields.io/github/stars/adaptive-intelligent-robotics/QDax?style=social" align="center">
 
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
 ### Libraries / New Libraries
 
 *   [MaxText (⭐2.1k)](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs. <img src="https://img.shields.io/github/stars/google/maxtext?style=social" align="center">
-*   [Pax (⭐543)](https://github.com/google/paxml) - A Jax-based machine learning framework for training large scale models. <img src="https://img.shields.io/github/stars/google/paxml?style=social" align="center">
-*   [Praxis (⭐191)](https://github.com/google/praxis) - The layer library for Pax with a goal to be usable by other JAX-based ML projects. <img src="https://img.shields.io/github/stars/google/praxis?style=social" align="center">
+*   [Pax (⭐544)](https://github.com/google/paxml) - A Jax-based machine learning framework for training large scale models. <img src="https://img.shields.io/github/stars/google/paxml?style=social" align="center">
+*   [Praxis (⭐192)](https://github.com/google/praxis) - The layer library for Pax with a goal to be usable by other JAX-based ML projects. <img src="https://img.shields.io/github/stars/google/praxis?style=social" align="center">
 
 ## [Sep 11, 2023](/content/2023/09/11/README.md)
 
@@ -135,14 +141,14 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   [purejaxrl (⭐1k)](https://github.com/luchris429/purejaxrl) - Vectorisable, end-to-end RL algorithms in JAX. <img src="https://img.shields.io/github/stars/luchris429/purejaxrl?style=social" align="center">
 *   [Lorax (⭐143)](https://github.com/davisyoshida/lorax) - Automatically apply LoRA to JAX models (Flax, Haiku, etc.)
-*   [SCICO (⭐146)](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
+*   [SCICO (⭐147)](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
 *   Brain Dynamics Programming Ecosystem
-    *   [BrainPy (⭐645)](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
+    *   [BrainPy (⭐652)](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
     *   [brainunit (⭐15)](https://github.com/chaobrain/brainunit) - Physical units and unit-aware mathematical system in JAX. <img src="https://img.shields.io/github/stars/chaobrain/brainunit?style=social" align="center">
     *   [dendritex (⭐10)](https://github.com/chaobrain/dendritex) - Dendritic Modeling in JAX. <img src="https://img.shields.io/github/stars/chaobrain/dendritex?style=social" align="center">
     *   [brainstate (⭐19)](https://github.com/chaobrain/brainstate) - State-based Transformation System for Program Compilation and Augmentation. <img src="https://img.shields.io/github/stars/chaobrain/brainstate?style=social" align="center">
     *   [braintaichi (⭐6)](https://github.com/chaobrain/braintaichi) - Leveraging Taichi Lang to customize brain dynamics operators. <img src="https://img.shields.io/github/stars/chaobrain/braintaichi?style=social" align="center">
-*   [OTT-JAX (⭐681)](https://github.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
+*   [OTT-JAX (⭐691)](https://github.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
 
 ### Tutorials and Blog Posts / Equinox
 
@@ -176,7 +182,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [SPU (⭐314)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
+*   [SPU (⭐316)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 
@@ -206,14 +212,14 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [Eqxvision (⭐109)](https://github.com/paganpasta/eqxvision) - Equinox version of Torchvision. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
+*   [Eqxvision (⭐110)](https://github.com/paganpasta/eqxvision) - Equinox version of Torchvision. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 
 ## [Sep 02, 2022](/content/2022/09/02/README.md)
 
 ### Libraries / New Libraries
 
-*   [GPJax (⭐566)](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
-*   [Jumanji (⭐790)](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
+*   [GPJax (⭐576)](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
+*   [Jumanji (⭐798)](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
@@ -237,21 +243,21 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [jwave (⭐186)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
+*   [jwave (⭐190)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
 ## [Jun 28, 2022](/content/2022/06/28/README.md)
 
 ### Libraries / New Libraries
 
 *   [Mctx (⭐2.6k)](https://github.com/deepmind/mctx) - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
-*   [KFAC-JAX (⭐302)](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
-*   [TF2JAX (⭐118)](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
+*   [KFAC-JAX (⭐308)](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
+*   [TF2JAX (⭐120)](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 
 ## [Jun 25, 2022](/content/2022/06/25/README.md)
 
 ### Libraries / New Libraries
 
-*   [gymnax (⭐844)](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
+*   [gymnax (⭐847)](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
 
 ## [Mar 15, 2022](/content/2022/03/15/README.md)
 
@@ -274,7 +280,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Models and Projects / Flax
 
-*   [mip-NeRF (⭐935)](https://github.com/google/mipnerf) - Official implementation of [*Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields*](https://jonbarron.info/mipnerf).
+*   [mip-NeRF (⭐937)](https://github.com/google/mipnerf) - Official implementation of [*Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields*](https://jonbarron.info/mipnerf).
 *   [RegNeRF (⭐37k)](https://github.com/google-research/google-research/tree/master/regnerf) - Official implementation of [*RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs*](https://m-niemeyer.github.io/regnerf/).
 *   [ARDM (⭐37k)](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion) - Official implementation of [*Autoregressive Diffusion Models*](https://arxiv.org/abs/2110.02037).
 *   [D3PM (⭐37k)](https://github.com/google-research/google-research/tree/master/d3pm) - Official implementation of [*Structured Denoising Diffusion Models in Discrete State-Spaces*](https://arxiv.org/abs/2107.03006).
@@ -295,10 +301,10 @@ JAX - A curated list of resources https://github.com/google/jax
 ### Libraries / New Libraries
 
 *   Neural Network Libraries
-    *   [FedJAX (⭐267)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
-    *   [Equivariant MLP (⭐281)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
+    *   [FedJAX (⭐268)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    *   [Equivariant MLP (⭐280)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
     *   [jax-resnet (⭐118)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
-    *   [jax-raft (⭐3)](https://github.com/alebeck/jax-raft/) - JAX/Flax port of the RAFT optical flow estimator. <img src="https://img.shields.io/github/stars/alebeck/jax-raft?style=social" align="center">
+    *   [jax-raft (⭐4)](https://github.com/alebeck/jax-raft/) - JAX/Flax port of the RAFT optical flow estimator. <img src="https://img.shields.io/github/stars/alebeck/jax-raft?style=social" align="center">
     *   [Parallax (⭐153)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
 ## [Feb 24, 2022](/content/2022/02/24/README.md)
@@ -312,19 +318,19 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [evosax (⭐712)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
+*   [evosax (⭐718)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
 ### Libraries / New Libraries
 
-*   [EvoJAX (⭐929)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
+*   [EvoJAX (⭐931)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
 
 ## [Feb 12, 2022](/content/2022/02/12/README.md)
 
 ### Tutorials and Blog Posts / Equinox
 
-*   [Get started with JAX by Aleksa Gordić (⭐776)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
+*   [Get started with JAX by Aleksa Gordić (⭐775)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
 ## [Feb 11, 2022](/content/2022/02/11/README.md)
 
@@ -336,7 +342,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [tree-math (⭐205)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
+*   [tree-math (⭐206)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
 *   [jax-models (⭐160)](https://github.com/DarshanDeshpande/jax-models) - Implementations of research papers originally without code or code written with frameworks other than JAX. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
 
 ## [Jan 03, 2022](/content/2022/01/03/README.md)
@@ -361,7 +367,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [bayex (⭐100)](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
+*   [bayex (⭐101)](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 
 ## [Aug 10, 2021](/content/2021/08/10/README.md)
 
@@ -376,9 +382,9 @@ JAX - A curated list of resources https://github.com/google/jax
     *   [Trax (⭐8.3k)](https://github.com/google/trax) - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     *   [Jraph (⭐1.5k)](https://github.com/deepmind/jraph) - Lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     *   [Neural Tangents (⭐2.4k)](https://github.com/google/neural-tangents) - High-level API for specifying neural networks of both finite and *infinite* width. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
-    *   [HuggingFace Transformers (⭐154k)](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+    *   [HuggingFace Transformers (⭐155k)](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
     *   [Equinox (⭐2.7k)](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
-    *   [Scenic (⭐3.7k)](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
+    *   [Scenic (⭐3.8k)](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
     *   [Penzai (⭐1.8k)](https://github.com/google-deepmind/penzai) - Prioritizes legibility, visualization, and easy editing of neural network models with composable tools and a simple mental model.  <img src="https://img.shields.io/github/stars/google-deepmind/penzai?style=social" align="center">
 
 ## [Jul 30, 2021](/content/2021/07/30/README.md)
@@ -396,7 +402,7 @@ JAX - A curated list of resources https://github.com/google/jax
 *   [Performer (⭐37k)](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 *   [JaxNeRF (⭐37k)](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [*NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis*](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 *   [Big Transfer (BiT) (⭐1.5k)](https://github.com/google-research/big_transfer) - Implementation of [*Big Transfer (BiT): General Visual Representation Learning*](https://arxiv.org/abs/1912.11370).
-*   [JAX RL (⭐740)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+*   [JAX RL (⭐741)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 *   [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [*Pay Attention to MLPs*](https://arxiv.org/abs/2105.08050).
 *   [MLP Mixer](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal implementation of [*MLP-Mixer: An all-MLP Architecture for Vision*](https://arxiv.org/abs/2105.01601).
 *   [Distributed Shampoo (⭐37k)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
@@ -432,19 +438,19 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Videos / Equinox
 
-*   [JAX, Flax & Transformers 🤗 (⭐154k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
+*   [JAX, Flax & Transformers 🤗 (⭐155k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 ## [Jul 19, 2021](/content/2021/07/19/README.md)
 
 ### Libraries / New Libraries
 
-*   [PIX (⭐431)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
+*   [PIX (⭐432)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
 ## [Jul 14, 2021](/content/2021/07/14/README.md)
 
 ### Libraries
 
-*   [NetKet (⭐649)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet (⭐655)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
 ## [Jun 13, 2021](/content/2021/06/13/README.md)
 
@@ -469,13 +475,13 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [flaxmodels (⭐263)](https://github.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
+*   [flaxmodels (⭐265)](https://github.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 
 ## [Jun 06, 2021](/content/2021/06/06/README.md)
 
 ### Libraries / New Libraries
 
-*   [jaxlie (⭐315)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
+*   [jaxlie (⭐317)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 *   [BRAX (⭐3k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
 ## [May 30, 2021](/content/2021/05/30/README.md)
@@ -494,7 +500,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries
 
-*   [Distrax (⭐613)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
+*   [Distrax (⭐615)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
 *   [cvxpylayers (⭐2k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 *   [TensorLy (⭐1.7k)](https://github.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
@@ -549,15 +555,15 @@ JAX - A curated list of resources https://github.com/google/jax
 ### Tutorials and Blog Posts / Equinox
 
 *   [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - Implements different methods for OOD detection.
-*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐402)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
+*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐403)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 
 ## [Jan 29, 2021](/content/2021/01/29/README.md)
 
 ### Libraries
 
 *   [NumPyro (⭐2.6k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
-*   [Chex (⭐912)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
-*   [Optax (⭐2.1k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+*   [Chex (⭐918)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
+*   [Optax (⭐2.2k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
 *   [JAX, M.D. (⭐1.4k)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
 
 ### Libraries / New Libraries
@@ -600,7 +606,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   [Using JAX to accelerate our research by David Budden and Matteo Hessel](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - Describes the state of JAX and the JAX ecosystem at DeepMind.
 *   [Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - Neural network building blocks from scratch with the basic JAX operators.
-*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐24)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
+*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐25)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
 *   [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - Introduction to both JAX and Meta-Learning.
 *   [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
 *   [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
@@ -612,7 +618,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐507)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax (⭐512)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [Dec 28, 2020](/content/2020/12/28/README.md)
 
@@ -620,11 +626,11 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 *   [sklearn-jax-kernels (⭐45)](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-*   [efax (⭐75)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
+*   [efax (⭐76)](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 ### Models and Projects / JAX
 
-*   [kalman-jax (⭐102)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
+*   [kalman-jax (⭐103)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
 *   [jaxns (⭐218)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
 ## [Dec 21, 2020](/content/2020/12/21/README.md)
@@ -637,5 +643,5 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Community / Equinox
 
-*   [JAX GitHub Discussions (⭐34k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐35k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)

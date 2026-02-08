@@ -2,9 +2,27 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 288 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 299 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Feb 08, 2026](/content/2026/02/08/README.md)
+
+### Archives and primary sources / Africa
+
+*   [National Library of South Africa Digital Collections](https://cdm21048.contentdm.oclc.org/) - National Library of South Africa's digital collections, including historical newspapers and special collections materials.
+
+### Archives and primary sources / Asia
+
+*   [South Asia Commons](https://southasiacommons.net/) - Discovery platform for South Asian historical and cultural materials held worldwide, with mixed hosting plus outward links.
+*   [South Asian Newspapers](https://www.eastview.com/resources/gpa/crl-san/) - Open-access collection of South Asian newspapers covering major regional and global events across multiple countries and languages.
+*   [Southeast Asian Newspapers](https://www.eastview.com/resources/gpa/crl-sean/) - Open-access collection of Southeast Asian newspapers documenting colonialism, decolonization, and early statehood across the region in multiple languages.
+
+### Archives and primary sources / Global
+
+*   [ProQuest](https://www.proquest.com/index) - Central platform providing access to a wide range of research databases and content types including news, dissertations, ebooks, video, and journals.
+*   [Southeast Asian & Caribbean Images (KITLV)](https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv) - Image collection of photographs, prints, and drawings focusing on Southeast Asia and the Caribbean, depicting life roughly 1850-1950.
+*   [World Radio History](https://www.worldradiohistory.com/index.htm) - Archive of radio and television broadcasting journals, industry-specific guides and professional directories.
 
 ## [Dec 29, 2025](/content/2025/12/29/README.md)
 
@@ -178,7 +196,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Learning / Switzerland
 
-*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
+*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - Toolkit designed to support students in their historical studies and research.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -362,14 +380,13 @@ Find primary sources online and learn how to research history digitally.
 ### Learning / Switzerland
 
 *   [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
-*   [We think History](https://wethink.hypotheses.org/) - News about and innovations from digital history.
 
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐4.2k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Research Tools (⭐2.5k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐887)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐913)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
@@ -402,7 +419,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Switzerland
 
-*   [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
+*   [COSMOV](http://www.cosmov.uzh.ch/) - Includes a digital edition of the events of the Zurich summer of 1968.
 *   [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland.
 *   [e-manuscripta](https://www.e-manuscripta.ch/) - Manuscript material from Swiss libraries and archives.
 *   [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
@@ -453,7 +470,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Switzerland
 
-*   [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Diplomatic documents of Switzerland.
+*   [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Access to Switzerland's diplomatic records and foreign policy documentation.
 *   [HSSO](https://hsso.ch/) - Historical statistics of Switzerland online.
 
 ### Learning / Switzerland

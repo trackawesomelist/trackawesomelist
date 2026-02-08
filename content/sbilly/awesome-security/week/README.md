@@ -2,19 +2,46 @@
 
 A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sbilly/awesome-security/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sbilly/awesome-security](https://github.com/sbilly/awesome-security) · ⭐ 12K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sbilly/awesome-security/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sbilly/awesome-security](https://github.com/sbilly/awesome-security) · ⭐ 14K · 🏷️ Security
 
 [ [Daily](/content/sbilly/awesome-security/README.md) / Weekly / [Overview](/content/sbilly/awesome-security/readme/README.md) ]
+
+## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+
+### Network / Scanning / Pentesting
+
+*   [Amass (⭐14k)](https://github.com/owasp-amass/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
+*   [Lonkero (⭐896)](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
+
+### Network / Monitoring / Logging
+
+*   [Sigma2KQL (⭐2)](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
+*   [Sigma2SPL (⭐1)](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
+*   [TerraSigma (⭐3)](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+
+### Network / VPN
+
+*   [TorForge (⭐11)](https://github.com/jery0843/torforge) - Advanced transparent Tor proxy with kernel-level iptables routing, post-quantum encryption (Kyber768), kill switch, steganography mode, and AI-powered circuit selection.
+
+### Web / Scanning / Pentesting
+
+*   [Trust Scan (⭐2)](https://github.com/undeadlist/trust-scan) - URL security scanner with WHOIS, SSL, threat intelligence (URLhaus, PhishTank, Spamhaus), and 40+ scam/phishing pattern detection. Includes optional AI analysis via Ollama. ([Demo](https://aibuilds.net))
+*   [react2shell-scanner (⭐2)](https://github.com/nxgn-kd01/react2shell-scanner) - Detect CVE-2025-55182 (React2Shell) RCE vulnerability in React Server Components. Scans React 19.x and Next.js projects for critical remote code execution flaws.
+*   [shai-hulud-scanner (⭐2)](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect indicators of compromise from the Shai Hulud 2.0 npm supply chain attack that compromised 796+ packages. Performs comprehensive security checks for malicious files, hashes, and patterns.
+
+### Web / Development
+
+*   [Pompelmi (⭐464)](https://github.com/pompelmi/pompelmi) - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
 ### Web / Web Application Firewall
 
-*   [open-appsec (⭐667)](https://github.com/openappsec/openappsec) - open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
+*   [open-appsec (⭐1.5k)](https://github.com/openappsec/openappsec) - open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
 
 ### Web / Scanning / Pentesting
 
-*   [Artemis (⭐431)](https://github.com/CERT-Polska/Artemis/) - A modular vulnerability scanner with automatic report generation capabilities.
+*   [Artemis (⭐1.1k)](https://github.com/CERT-Polska/Artemis/) - A modular vulnerability scanner with automatic report generation capabilities.
 
 ### EBooks / Online resources
 
@@ -24,7 +51,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Web Application Firewall
 
-*   [BunkerWeb (⭐3.5k)](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a full-featured open-source web server with ModeSecurity WAF, HTTPS with transparent Let's Encrypt renewal, automatic ban of strange behaviors based on HTTP codes, bot and bad IPs block, connection limits, state-of-the-art security presets, Web UI and much more.
+*   [BunkerWeb (⭐9.9k)](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a full-featured open-source web server with ModeSecurity WAF, HTTPS with transparent Let's Encrypt renewal, automatic ban of strange behaviors based on HTTP codes, bot and bad IPs block, connection limits, state-of-the-art security presets, Web UI and much more.
 
 ### EBooks / Online resources
 
@@ -34,17 +61,17 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Scanning / Pentesting
 
-*   [CakeFuzzer (⭐87)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
+*   [CakeFuzzer (⭐105)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Cognito Scanner (⭐51)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+*   [Cognito Scanner (⭐109)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
 
 ### Network / Monitoring / Logging
 
-*   [Substation (⭐280)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐390)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -58,31 +85,31 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Monitoring / Logging
 
-*   [BoxyHQ (⭐303)](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
+*   [BoxyHQ (⭐431)](https://github.com/retracedhq/retraced) - Open source API for security and compliance audit logging.
 
 ### Big Data / Development
 
-*   [VAST (⭐612)](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
+*   [VAST (⭐719)](https://github.com/tenzir/vast) - Open source security data pipeline engine for structured event data, supporting high-volume telemetry ingestion, compaction, and retrieval; purpose-built for security content execution, guided threat hunting, and large-scale investigation.
 
 ### Endpoint / Forensics
 
-*   [Maigret (⭐9.6k)](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
+*   [Maigret (⭐19k)](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
 
 ### Web / Scanning / Pentesting
 
-*   [recon (⭐26)](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
+*   [recon (⭐37)](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
 
 ### Web / Development
 
-*   [Bearer (⭐1.7k)](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
+*   [Bearer (⭐2.6k)](https://github.com/Bearer/bearer) - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
 
 ### Blue Team Infrastructure Deployment / Development
 
-*   [MutableSecurity (⭐41)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+*   [MutableSecurity (⭐50)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
 ### DevOps / Development
 
-*   [Selefra (⭐509)](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+*   [Selefra (⭐544)](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ### EBooks / Online resources
 
@@ -96,24 +123,24 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Threat Intelligence / Forensics
 
-*   [Cyberowl (⭐240)](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+*   [Cyberowl (⭐257)](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
 ### Big Data / Development
 
-*   [Matano (⭐1.4k)](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+*   [Matano (⭐1.7k)](https://github.com/matanolabs/matano) - Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Newsletters (⭐787)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
-*   [Awesome Censys Queries (⭐605)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
+*   [Awesome Security Newsletters (⭐1.2k)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
+*   [Awesome Censys Queries (⭐1.2k)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
 ### Endpoint / Configuration Management
 
-*   [Fleet device management (⭐2.1k)](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
+*   [Fleet device management (⭐6k)](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -123,7 +150,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Docker Images for Penetration Testing & Security
 
-*   `docker-compose -d up` - [cicd-goat (⭐1.8k)](https://github.com/cider-security-research/cicd-goat)
+*   `docker-compose -d up` - [cicd-goat (⭐2.2k)](https://github.com/cider-security-research/cicd-goat)
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -133,17 +160,17 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Terminal / Development
 
-*   [shellclear (⭐213)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
+*   [shellclear (⭐226)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Privacy (⭐6k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
+*   [Awesome Privacy (⭐8.8k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
 ### DevOps / Development
 
-*   [cve-ape (⭐3)](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS.
+*   [cve-ape (⭐5)](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS.
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -159,7 +186,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence SecretScanner (⭐3k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+*   [Deepfence SecretScanner (⭐3.3k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ### Network / Full Packet Capture / Forensic
 
@@ -169,7 +196,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Scanning / Pentesting
 
-*   [Cyclops (⭐98)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
+*   [Cyclops (⭐126)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -187,7 +214,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Security Acronyms (⭐17)](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
+*   [Security Acronyms (⭐42)](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -205,7 +232,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Scanning / Pentesting
 
-*   [Scanmycode CE (Community Edition) (⭐686)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
+*   [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 
 ### Operating Systems / Online resources
 
@@ -215,14 +242,14 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome SOAR (⭐731)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
-*   [Awesome Security Hardening (⭐5k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
+*   [Awesome SOAR (⭐934)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
+*   [Awesome Security Hardening (⭐6.1k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Awesome Self-Hosted (⭐179k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
-*   [Awesome Analytics (⭐3.8k)](https://github.com/0xnr/awesome-analytics)
-*   [Awesome Sysadmin (⭐23k)](https://github.com/awesome-foss/awesome-sysadmin)
+*   [Awesome Self-Hosted (⭐270k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
+*   [Awesome Analytics (⭐4.2k)](https://github.com/0xnr/awesome-analytics)
+*   [Awesome Sysadmin (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin)
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
@@ -234,28 +261,28 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [Fastfinder (⭐217)](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
+*   [Fastfinder (⭐249)](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
 ### Network / VPN
 
-*   [Firezone (⭐6.2k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐8.4k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
 ### Network / Network architecture
 
-*   [Network-segmentation-cheat-sheet (⭐3.2k)](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
+*   [Network-segmentation-cheat-sheet (⭐3.4k)](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Zeek](https://zeek.org/) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-    *   [zeek2es (⭐33)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
+    *   [zeek2es (⭐38)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
 
 ### Terminal / Development
 
-*   [shellfirm (⭐724)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
+*   [shellfirm (⭐879)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -273,8 +300,8 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Bluetooth Security (⭐437)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
-*   [Awesome WebSocket Security (⭐236)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
+*   [Awesome Bluetooth Security (⭐589)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
+*   [Awesome WebSocket Security (⭐299)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -286,31 +313,31 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Security Information & Event Management
 
-*   [wazuh (⭐9.2k)](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
+*   [wazuh (⭐15k)](https://github.com/wazuh/wazuh) -Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. It works with tons of data supported by an OpenSearch fork and custom WUI.
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [reFlutter (⭐1.2k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+*   [reFlutter (⭐1.4k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
 ### Datastores / Online resources
 
-*   [LunaSec (⭐1.4k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
+*   [LunaSec (⭐1.5k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence ThreatMapper (⭐4.6k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+*   [Deepfence ThreatMapper (⭐5.2k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
-*   [CrowdSec (⭐7.8k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+*   [CrowdSec (⭐12k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
 
 ### Web / Scanning / Pentesting
 
-*   [Keyscope (⭐376)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
+*   [Keyscope (⭐409)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
 
 ### EBooks / Online resources
 
@@ -338,7 +365,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Development
 
-*   [TFSec (⭐6.6k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
+*   [TFSec (⭐7k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 
 ### Operating Systems / Privacy & Security
 
@@ -346,30 +373,30 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
+*   [Awesome Security Talks & Videos (⭐4.2k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Netz (⭐373)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Netz (⭐399)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### DevOps / Development
 
-*   [Preflight (⭐149)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
-*   [Teller (⭐2.5k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+*   [Preflight (⭐156)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+*   [Teller (⭐3.2k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [UDcide (⭐31)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
+*   [UDcide (⭐37)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
 ### Web / Web Application Firewall
 
-*   [Curiefense (⭐712)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
+*   [Curiefense](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 
 ### EBooks / Online resources
 
@@ -379,14 +406,14 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Development
 
-*   [KICS (⭐1.9k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐2.6k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
 ### Fraud prevention / Online resources
 
-*   [FingerprintJS (⭐21k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
-*   [FingerprintJS Android (⭐534)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS (⭐26k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS Android (⭐677)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 
@@ -398,11 +425,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Red Team Infrastructure Deployment / Development
 
-*   [Axiom (⭐3.8k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+*   [Axiom (⭐4.3k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
 ### DevOps / Development
 
-*   [Trivy (⭐21k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
+*   [Trivy (⭐32k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
@@ -432,7 +459,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Exploits & Payloads / Development
 
-*   [PayloadsAllTheThings (⭐57k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [PayloadsAllTheThings (⭐75k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ### Operating Systems / Online resources
 
@@ -446,25 +473,25 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Red Team Infrastructure Deployment / Development
 
-*   [Redcloud (⭐1.2k)](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
+*   [Redcloud (⭐1.3k)](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [monsoon (⭐440)](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
+*   [monsoon (⭐493)](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
 
 ### Web / Scanning / Pentesting
 
-*   [PhpSploit (⭐2.1k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
+*   [PhpSploit (⭐2.4k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [hardened\_malloc (⭐1.2k)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
-*   [AMExtractor (⭐10)](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
-*   [frida (⭐15k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+*   [hardened\_malloc (⭐1.7k)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+*   [AMExtractor (⭐13)](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
+*   [frida (⭐20k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ### Endpoint / Forensics
 
@@ -473,7 +500,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 ### DevOps / Development
 
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
-*   [ansible-os-hardening (⭐3.7k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
+*   [ansible-os-hardening (⭐5.2k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ### Operating Systems / Privacy & Security
 
@@ -488,7 +515,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Scanning / Pentesting
 
-*   [Boofuzz (⭐2k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
+*   [Boofuzz (⭐2.3k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -496,44 +523,44 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Forensics
 
-*   [Rekall (⭐1.9k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+*   [Rekall (⭐2k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 
 ### Datastores / Online resources
 
-*   [acra (⭐1.3k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
+*   [acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 
 ## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [RustScan (⭐12k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+*   [RustScan (⭐19k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
 ### Web / Scanning / Pentesting
 
-*   [is-website-vulnerable (⭐1.9k)](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+*   [is-website-vulnerable (⭐2k)](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
 ### Endpoint / Authentication
 
-*   [Stegcloak (⭐3.2k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+*   [Stegcloak (⭐3.8k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Electron.js Hacking (⭐539)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
+*   [Awesome Electron.js Hacking (⭐657)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
 ### Network / Anti-Spam
 
 *   [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
-*   [rspamd (⭐1.9k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
+*   [rspamd (⭐2.4k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Web / Development
 
-*   [Insider CLI (⭐486)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+*   [Insider CLI (⭐553)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
 ## [Apr 20 - Apr 26, 2020](/content/2020/16/README.md)
 
@@ -545,20 +572,20 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Personal Security (⭐16k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
+*   [Awesome Personal Security (⭐21k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [scapy (⭐196)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
+*   [scapy (⭐330)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
-*   [Finshir (⭐28)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
+*   [Finshir (⭐33)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 
 ### Network / Sniffer
 
@@ -566,23 +593,23 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Scanning / Pentesting
 
-*   [Recon-ng (⭐3.5k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
+*   [Recon-ng (⭐5.3k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Sublist3r (⭐9.3k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+*   [Sublist3r (⭐11k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 
 ### Web / Development
 
-*   [Checkov (⭐6.5k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
+*   [Checkov (⭐8.4k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [Quark-Engine (⭐1.2k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
+*   [Quark-Engine (⭐1.6k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
 
@@ -595,19 +622,19 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Anti Forensics (⭐656)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
+*   [Awesome Anti Forensics (⭐969)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
 ## [Sep 16 - Sep 22, 2019](/content/2019/37/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [padding-oracle-attacker (⭐191)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
+*   [padding-oracle-attacker (⭐220)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 
 ## [Sep 02 - Sep 08, 2019](/content/2019/35/README.md)
 
 ### Endpoint / Forensics
 
-*   [Meerkat (⭐423)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
+*   [Meerkat (⭐481)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
@@ -619,8 +646,8 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome ARM Exploitation (⭐302)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
-*   [Awesome Threat Modeling (⭐110)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
+*   [Awesome ARM Exploitation (⭐357)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
+*   [Awesome Threat Modeling (⭐144)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 
 ## [Jun 24 - Jun 30, 2019](/content/2019/25/README.md)
 
@@ -632,13 +659,13 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Shodan Search Queries (⭐5.1k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
+*   [Awesome Shodan Search Queries (⭐7.2k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐9.7k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐13k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
 
@@ -650,13 +677,13 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐983)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐1.1k)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
 ### Network / Security Information & Event Management
 
-*   [LogESP (⭐185)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
+*   [LogESP (⭐219)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
 
@@ -669,17 +696,17 @@ A collection of awesome software, libraries, documents, books, resources and coo
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐19k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐39k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐916)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐15)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐24k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐47k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐949)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐20)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
-*   [OWASP ZAP Node API (⭐44)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
+*   [OWASP ZAP Node API (⭐57)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -691,17 +718,17 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - High-level multi-platform cryptographic framework for protecting sensitive data: secure messaging with forward secrecy and secure data storage (AES256GCM), suits for building end-to-end encrypted applications.
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - High-level multi-platform cryptographic framework for protecting sensitive data: secure messaging with forward secrecy and secure data storage (AES256GCM), suits for building end-to-end encrypted applications.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Crypto Papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome Crypto Papers (⭐2k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐3.2k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐3.7k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
 
@@ -716,13 +743,13 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Runtime Application Self-Protection
 
-*   [OpenRASP (⭐2.7k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
+*   [OpenRASP (⭐3k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
 
 ## [May 07 - May 13, 2018](/content/2018/19/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Container Security (⭐14)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
+*   [Awesome Container Security (⭐17)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
 ## [Apr 30 - May 06, 2018](/content/2018/18/README.md)
 
@@ -736,17 +763,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 *   [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) - Free and downloadable book series with very broad and deep coverage of what Web Developers and DevOps Engineers need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 
-## [Apr 09 - Apr 15, 2018](/content/2018/15/README.md)
-
-### Network / Scanning / Pentesting
-
-*   [Amass](https://github.com/caffix/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
-
 ## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
 
 ### Endpoint / Forensics
 
-*   [Logdissect (⭐137)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Logdissect (⭐158)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [Mar 26 - Apr 01, 2018](/content/2018/13/README.md)
 
@@ -758,31 +779,31 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐3.3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐4.5k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ## [Jan 01 - Jan 07, 2018](/content/2018/1/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6.5k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.9k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [ACSTIS (⭐288)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+*   [ACSTIS (⭐325)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ## [Oct 16 - Oct 22, 2017](/content/2017/42/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome YARA (⭐3.3k)](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+*   [Awesome YARA (⭐4.1k)](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 
 ## [Oct 09 - Oct 15, 2017](/content/2017/41/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OSX Security Awesome (⭐708)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
+*   [OSX Security Awesome (⭐774)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Web / Development
 
@@ -796,26 +817,26 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Datastores / Online resources
 
-*   [blackbox (⭐6.6k)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
-*   [confidant (⭐1.8k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
-*   [dotgpg (⭐161)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
+*   [blackbox (⭐6.8k)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
+*   [confidant (⭐1.9k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
+*   [dotgpg (⭐168)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 *   [redoctober (⭐1.4k)](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
-*   [aws-vault (⭐8.1k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
+*   [aws-vault (⭐9k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 *   [credstash (⭐2.1k)](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
-*   [chamber (⭐2.4k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
-*   [passpie (⭐923)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
+*   [chamber (⭐2.6k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
+*   [passpie (⭐922)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
 ## [Aug 21 - Aug 27, 2017](/content/2017/34/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐11)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
+*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐14)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐144)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐156)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
 
@@ -830,12 +851,12 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐297)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐304)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐842)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐346)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐868)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐354)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
@@ -845,7 +866,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐177)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ### Datastores / Online resources
 
@@ -856,7 +877,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OWASP Mobile Security Testing Guide (⭐11k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+*   [OWASP Mobile Security Testing Guide (⭐13k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
 
 ## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
 
@@ -866,19 +887,19 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Forensics
 
-*   [ir-rescue (⭐447)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐487)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Movies For Hacker (⭐10k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hacker (⭐12k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ## [Feb 20 - Feb 26, 2017](/content/2017/8/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Industrial Control System Security (⭐28)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+*   [Awesome Industrial Control System Security (⭐32)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
@@ -888,7 +909,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐4.3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 
@@ -900,21 +921,21 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Docker Images for Penetration Testing & Security
 
-*   `docker-compose build && docker-compose up` - [OWASP NodeGoat (⭐1.8k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+*   `docker-compose build && docker-compose up` - [OWASP NodeGoat (⭐2k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
 
 ### Datastores / Online resources
 
-*   [Sops (⭐15k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+*   [Sops (⭐21k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Intelligence (⭐7.3k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
+*   [Awesome Threat Intelligence (⭐9.7k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Cyber Skills (⭐3.4k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
+*   [Awesome Cyber Skills (⭐4.2k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 
 ## [Dec 19 - Dec 25, 2016](/content/2016/51/README.md)
 
@@ -924,7 +945,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐10k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [Nov 21 - Nov 27, 2016](/content/2016/47/README.md)
 
@@ -942,7 +963,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Forensics
 
-*   [Volatility (⭐6.9k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+*   [Volatility (⭐8k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
 ## [Sep 12 - Sep 18, 2016](/content/2016/37/README.md)
 
@@ -954,7 +975,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Honey Pot / Honey Net
 
-*   [HoneyPy (⭐456)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+*   [HoneyPy (⭐473)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
 ## [Aug 15 - Aug 21, 2016](/content/2016/33/README.md)
 
@@ -965,7 +986,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Datastores / Online resources
 
-*   [Safe (⭐409)](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
+*   [Safe (⭐421)](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 
 ## [Jul 11 - Jul 17, 2016](/content/2016/28/README.md)
 
@@ -981,7 +1002,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Security Information & Event Management
 
-*   [FIR (⭐1.7k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
+*   [FIR (⭐2k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 
 ### Network / Firewall
 
@@ -1006,14 +1027,14 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Monitoring / Logging
 
-*   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
+*   [Fibratus (⭐2.4k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
 ## [Jun 06 - Jun 12, 2016](/content/2016/23/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
-*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy)
+*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐15k)](https://github.com/zaproxy/zaproxy)
 *   `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 *   `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 *   `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
@@ -1029,7 +1050,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Scanning / Pentesting
 
-*   [pig (⭐459)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+*   [pig (⭐471)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 
 ## [Feb 15 - Feb 21, 2016](/content/2016/7/README.md)
 
@@ -1043,19 +1064,19 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Threat Intelligence / Forensics
 
-*   [CIFv2 (⭐227)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
+*   [CIFv2 (⭐229)](https://github.com/csirtgadgets/massive-octo-spice) - CIF is a cyber threat intelligence management system. CIF allows you to combine known malicious threat information from many sources and use that information for identification (incident response), detection (IDS) and mitigation (null route).
 
 ## [Dec 21 - Dec 27, 2015](/content/2015/51/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Web Hacking (⭐5.4k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+*   [Awesome Web Hacking (⭐6.8k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 ## [Dec 14 - Dec 20, 2015](/content/2015/50/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Incident Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+*   [Awesome Incident Response (⭐8.8k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -1069,11 +1090,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Network / Honey Pot / Honey Net
 
-*   [HonSSH (⭐369)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
+*   [HonSSH (⭐375)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Moloch (⭐6.1k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
+*   [Moloch (⭐7.3k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
 
 ### Network / VPN
 
@@ -1081,17 +1102,17 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Authentication
 
-*   [google-authenticator (⭐5.1k)](https://github.com/google/google-authenticator) - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
+*   [google-authenticator (⭐5.3k)](https://github.com/google/google-authenticator) - The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms, as well as a pluggable authentication module (PAM). One-time passcodes are generated using open standards developed by the Initiative for Open Authentication (OATH) (which is unrelated to OAuth). These implementations support the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
 
 ## [Oct 26 - Nov 01, 2015](/content/2015/43/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Pompem (⭐953)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+*   [Pompem (⭐1k)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
 
 ### Network / Monitoring / Logging
 
-*   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
+*   [passivedns (⭐1.7k)](https://github.com/gamelinux/passivedns) - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -1125,41 +1146,41 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Linux Containers (⭐1.7k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
+*   [Awesome Linux Containers (⭐2k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - awesome-\* or \*-awesome lists.
+*   [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness) - awesome-\* or \*-awesome lists.
 
 ## [Sep 28 - Oct 04, 2015](/content/2015/39/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐7.7k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐9.2k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐21k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐9.2k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐11k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐16k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐10k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐3.4k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐25k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ## [Sep 21 - Sep 27, 2015](/content/2015/38/README.md)
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐934)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐1.1k)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ## [Aug 31 - Sep 06, 2015](/content/2015/35/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Malware Analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+*   [Awesome Malware Analysis (⭐13k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
 ## [Aug 24 - Aug 30, 2015](/content/2015/34/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [OpenVAS](http://www.openvas.org/) - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
-*   [Metasploit Framework (⭐33k)](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
+*   [Metasploit Framework (⭐37k)](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
 
 ### Network / Monitoring / Logging
 
@@ -1171,24 +1192,24 @@ A collection of awesome software, libraries, documents, books, resources and coo
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest \[pieces of] open source software of all time".
-*   [sshwatch (⭐42)](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
+*   [sshwatch (⭐54)](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
 
 ### Network / Honey Pot / Honey Net
 
 *   [Conpot](http://conpot.org/) - ICS/SCADA Honeypot. Conpot is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend. By providing a range of common industrial control protocols we created the basics to build your own system, capable to emulate complex infrastructures to convince an adversary that he just found a huge industrial complex. To improve the deceptive capabilities, we also provided the possibility to server a custom human machine interface to increase the honeypots attack surface. The response times of the services can be artificially delayed to mimic the behaviour of a system under constant load. Because we are providing complete stacks of the protocols, Conpot can be accessed with productive HMI's or extended with real hardware. Conpot is developed under the umbrella of the Honeynet Project and on the shoulders of a couple of very big giants.
-*   [Amun (⭐56)](https://github.com/zeroq/amun) - Amun Python-based low-interaction Honeypot.
+*   [Amun (⭐63)](https://github.com/zeroq/amun) - Amun Python-based low-interaction Honeypot.
 *   [Glastopf](http://glastopf.org/) - Glastopf is a Honeypot which emulates thousands of vulnerabilities to gather data from attacks targeting web applications. The principle behind it is very simple: Reply the correct response to the attacker exploiting the web application.
-*   [Kippo (⭐1.6k)](https://github.com/desaster/kippo) - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
+*   [Kippo (⭐1.7k)](https://github.com/desaster/kippo) - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 *   [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
 *   [HoneyDrive](http://bruteforce.gr/honeydrive) - HoneyDrive is the premier honeypot Linux distro. It is a virtual appliance (OVA) with Xubuntu Desktop 12.04.4 LTS edition installed. It contains over 10 pre-installed and pre-configured honeypot software packages such as Kippo SSH honeypot, Dionaea and Amun malware honeypots, Honeyd low-interaction honeypot, Glastopf web honeypot and Wordpot, Conpot SCADA/ICS honeypot, Thug and PhoneyC honeyclients and more. Additionally it includes many useful pre-configured scripts and utilities to analyze, visualize and process the data it can capture, such as Kippo-Graph, Honeyd-Viz, DionaeaFR, an ELK stack and much more. Lastly, almost 90 well-known malware analysis, forensics and network monitoring related tools are also present in the distribution.
 *   [Cuckoo Sandbox](http://www.cuckoosandbox.org/) - Cuckoo Sandbox is an Open Source software for automating analysis of suspicious files. To do so it makes use of custom components that monitor the behavior of the malicious processes while running in an isolated environment.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [tcpflow (⭐1.6k)](https://github.com/simsong/tcpflow) - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
+*   [tcpflow (⭐1.8k)](https://github.com/simsong/tcpflow) - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
 *   [Xplico](http://www.xplico.org/) - The goal of Xplico is extract from an internet traffic capture the applications data contained. For example, from a pcap file Xplico extracts each email (POP, IMAP, and SMTP protocols), all HTTP contents, each VoIP call (SIP), FTP, TFTP, and so on. Xplico isn’t a network protocol analyzer. Xplico is an open source Network Forensic Analysis Tool (NFAT).
 *   [OpenFPC](http://www.openfpc.org) - OpenFPC is a set of tools that combine to provide a lightweight full-packet network traffic recorder & buffering system. It's design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log management tools.
-*   [Dshell (⭐5.4k)](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
+*   [Dshell (⭐5.5k)](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
 *   [stenographer (⭐1.8k)](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 
 ### Network / Sniffer
@@ -1206,11 +1227,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [android-security-awesome (⭐7.7k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
+*   [android-security-awesome (⭐9.2k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
 
 ### Endpoint / Forensics
 
-*   [grr (⭐4.7k)](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+*   [grr (⭐5k)](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
 
 ### Threat Intelligence / Forensics
 
@@ -1220,7 +1241,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 *   [DNS-BH](http://www.malwaredomains.com/) - The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. This project creates the Bind and Windows zone files required to serve fake replies to localhost for any requests to these, thus preventing many spyware installs and reporting.
 *   [AlienVault Open Threat Exchange](http://www.alienvault.com/open-threat-exchange/dashboard) - AlienVault Open Threat Exchange (OTX), to help you secure your networks from data loss, service disruption and system compromise caused by malicious IP addresses.
 *   [leakedin.com](http://www.leakedin.com/) - The primary purpose of leakedin.com is to make visitors aware about the risks of loosing data. This blog just compiles samples of data lost or disclosed on sites like pastebin.com.
-*   [FireEye OpenIOCs (⭐460)](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
+*   [FireEye OpenIOCs (⭐473)](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 *   [OpenVAS NVT Feed](http://www.openvas.org/openvas-nvt-feed.html) - The public feed of Network Vulnerability Tests (NVTs). It contains more than 35,000 NVTs (as of April 2014), growing on a daily basis. This feed is configured as the default for OpenVAS.
 *   [Project Honey Pot](http://www.projecthoneypot.org/) - Project Honey Pot is the first and only distributed system for identifying spammers and the spambots they use to scrape addresses from your website. Using the Project Honey Pot system you can install addresses that are custom-tagged to the time and IP address of a visitor to your site. If one of these addresses begins receiving email we not only can tell that the messages are spam, but also the exact moment when the address was harvested and the IP address that gathered it.
 *   [virustotal](https://www.virustotal.com/) - VirusTotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners. At the same time, it may be used as a means to detect false positives, i.e. innocuous resources detected as malicious by one or more scanners.
@@ -1233,15 +1254,15 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 *   [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 *   [w3af](http://w3af.org/) - w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
-*   [PTF (⭐5k)](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
+*   [PTF (⭐5.5k)](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 
 ### Big Data / Development
 
-*   [data\_hacking (⭐767)](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
-*   [hadoop-pcap (⭐203)](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
-*   [OpenSOC (⭐572)](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [binarypig (⭐142)](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
+*   [data\_hacking (⭐784)](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
+*   [hadoop-pcap (⭐212)](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
+*   [OpenSOC (⭐582)](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [binarypig (⭐144)](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [lists (⭐9.6k)](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
+*   [lists (⭐11k)](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.

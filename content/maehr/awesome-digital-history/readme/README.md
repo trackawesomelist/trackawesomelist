@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 288 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 299 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -42,12 +42,16 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Africa
 
+*   [National Library of South Africa Digital Collections](https://cdm21048.contentdm.oclc.org/) - National Library of South Africa's digital collections, including historical newspapers and special collections materials.
 *   [PARC](https://parc-portal.org/) - Portal for African Research Collections: PARC is the new meta-catalogue for the Africana collections at the research location Basel.
 *   [West African Arabic Manuscript Database](https://islam.zmo.de/s/westafrica/page/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
 
 ### Asia
 
 *   [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles is a reference work for foreign traders in the Asian region, published annually by the Hong Kong Daily Press, annually between 1863 and 1941.
+*   [South Asia Commons](https://southasiacommons.net/) - Discovery platform for South Asian historical and cultural materials held worldwide, with mixed hosting plus outward links.
+*   [South Asian Newspapers](https://www.eastview.com/resources/gpa/crl-san/) - Open-access collection of South Asian newspapers covering major regional and global events across multiple countries and languages.
+*   [Southeast Asian Newspapers](https://www.eastview.com/resources/gpa/crl-sean/) - Open-access collection of Southeast Asian newspapers documenting colonialism, decolonization, and early statehood across the region in multiple languages.
 
 ### Austria
 
@@ -114,10 +118,13 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 *   [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 *   [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
+*   [ProQuest](https://www.proquest.com/index) - Central platform providing access to a wide range of research databases and content types including news, dissertations, ebooks, video, and journals.
 *   [Public Books Database](http://www.publicbooks.org/public-books-database/) - Open access academic literature.
+*   [Southeast Asian & Caribbean Images (KITLV)](https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv) - Image collection of photographs, prints, and drawings focusing on Southeast Asia and the Caribbean, depicting life roughly 1850-1950.
 *   [United Nations Archive](https://archives.un.org/) - Archives and records from the United Nations regarding Secretaries-Generals, departments and missions.
 *   [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
 *   [World Historical Gazeteer](https://whgazetteer.org/) - Collection of content and services that permit world historians to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
+*   [World Radio History](https://www.worldradiohistory.com/index.htm) - Archive of radio and television broadcasting journals, industry-specific guides and professional directories.
 
 ### Great Britain
 
@@ -155,9 +162,9 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [arCHeco](https://www.archeco.info/) - Index of economic collections in archives of Switzerland and Liechtenstein.
 *   [Archives Online](https://www.archives-online.org/) - Archival search engine for Switzerland.
 *   [chgov](https://www.chgov.bar.admin.ch/) - Minutes of the Federal Council (1848-1963).
-*   [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
+*   [COSMOV](http://www.cosmov.uzh.ch/) - Includes a digital edition of the events of the Zurich summer of 1968.
 *   [DigiBern](https://www.digibern.ch/) - Bernese culture and history on the Internet.
-*   [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Diplomatic documents of Switzerland.
+*   [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Access to Switzerland's diplomatic records and foreign policy documentation.
 *   [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland.
 *   [e-gs](https://www.e-gs.ethz.ch/) - Online web portal of the ETH Zurich Graphics Collection.
 *   [e-manuscripta](https://www.e-manuscripta.ch/) - Manuscript material from Swiss libraries and archives.
@@ -191,7 +198,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
 *   [Grundlagen, Methoden und Anwendungen der Digital History](https://dh-erfurt.github.io/digital-history/home.html) - Teaching and collaborative resources for digital history (University of Erfurt).
 *   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
-*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
+*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - Toolkit designed to support students in their historical studies and research.
 *   [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
 *   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
 *   [Local Linkages](https://locallinkages.org/) - Professional development curriculum to introduce to historical research methods and digital history skills.
@@ -199,7 +206,6 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
 *   [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 *   [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
-*   [We think History](https://wethink.hypotheses.org/) - News about and innovations from digital history.
 
 ## More Awesome
 
@@ -207,10 +213,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Data Visualization (⭐4.2k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.5k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐887)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐913)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐288)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐299)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
 

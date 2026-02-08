@@ -6,6 +6,21 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 08, 2026](/content/2026/02/08/README.md)
+
+### Software / API Testing
+
+*   [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
+
+### Software / Security Testing
+
+*   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
+*   [Nuclei Scanner (⭐27k)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
+
+### Software / Visual Testing
+
+*   [Lambda testing Tool](https://www.testmu.ai/lt-browser)- UI Testing Frawnework.
+
 ## [Jan 03, 2026](/content/2026/01/03/README.md)
 
 ### Software / API Testing
@@ -22,7 +37,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐9.6k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐10k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 
@@ -59,11 +74,11 @@ A curated list of testing resources
 ### Software / API Testing
 
 *   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
-*   [Swagger Coverage Tool (⭐15)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+*   [Swagger Coverage Tool (⭐18)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
 
-*   [UI Coverage Tool (⭐6)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+*   [UI Coverage Tool (⭐8)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
 ### Software / Performance & Load Testing
 
@@ -87,7 +102,7 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-*   [Hercules (⭐891)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐933)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
@@ -121,13 +136,13 @@ A curated list of testing resources
 
 ### Software / Visual Testing
 
-*   [GoodLooks (⭐49)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+*   [GoodLooks (⭐51)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 
 ## [Jan 20, 2024](/content/2024/01/20/README.md)
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐573)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐601)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -194,13 +209,13 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [test-each (⭐116)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
+*   [test-each (⭐117)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ## [Jun 25, 2022](/content/2022/06/25/README.md)
 
 ### Software / Test Data Management
 
-*   [Touca (⭐507)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
@@ -212,7 +227,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Keploy (⭐14k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [Keploy (⭐16k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 
 ## [Nov 25, 2021](/content/2021/11/25/README.md)
 
@@ -232,7 +247,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐531)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐530)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -256,7 +271,7 @@ A curated list of testing resources
 
 ### QA and Testing Road Map / Useful References
 
-*   [How to start QA and Testing career (⭐2k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+*   [How to start QA and Testing career (⭐2.1k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
 ## [Dec 04, 2020](/content/2020/12/04/README.md)
 
@@ -296,11 +311,11 @@ A curated list of testing resources
 
 ### Software / Test Management
 
-*   [Kiwi TCMS (⭐1.1k)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+*   [Kiwi TCMS (⭐1.2k)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 
 ### Software / Screen Recording & Session Replays
 
-*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
+*   [Captura (⭐11k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 
 ## [Nov 23, 2019](/content/2019/11/23/README.md)
 
@@ -312,7 +327,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐764)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐771)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [Oct 18, 2019](/content/2019/10/18/README.md)
 
@@ -324,7 +339,7 @@ A curated list of testing resources
 
 ### Software / Visual Testing
 
-*   [recheck-web (⭐270)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+*   [recheck-web (⭐269)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 
 ### Software / Browser Extensions & Utilities
 
@@ -346,7 +361,7 @@ A curated list of testing resources
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐50)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐51)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
@@ -396,7 +411,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐4.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [Jan 26, 2017](/content/2017/01/26/README.md)
 
@@ -408,11 +423,11 @@ A curated list of testing resources
 
 *   [Falsehoods (⭐27k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐957)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐966)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐425k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐433k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.8k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

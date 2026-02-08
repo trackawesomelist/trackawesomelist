@@ -2,9 +2,15 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 67 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 72 · 🏷️ Content Management Systems
 
 [ [Daily](/content/collective/awesome-plone/README.md) / Weekly / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
+
+### Content and utilities for content
+
+*   [collective.person (⭐2)](https://github.com/collective/collective.person) - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 
 ## [Oct 20 - Oct 26, 2025](/content/2025/42/README.md)
 
@@ -19,7 +25,7 @@ Add-ons and resources for the CMS Plone
 ### Authentication
 
 *   [pas.plugins.eea (⭐0)](https://github.com/collective/pas.plugins.eea) - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
-*   [pas.plugins.oidc (⭐5)](https://github.com/collective/pas.plugins.oidc) - Login using OIDC providers.
+*   [pas.plugins.oidc (⭐6)](https://github.com/collective/pas.plugins.oidc) - Login using OIDC providers.
 *   [wcs.samlauth (⭐2)](https://github.com/collective/wcs.samlauth) - Login using SAML providers.
 
 ### Finding more add-ons
@@ -142,7 +148,7 @@ Add-ons and resources for the CMS Plone
 *   [collective.bookmarks (⭐2)](https://github.com/collective/collective.bookmarks) - Bookmarks/ favorites/ wish-list for Plone.
 *   [collective.collectionfilter (⭐9)](https://github.com/collective/collective.collectionfilter) - Faceted navigation filter for collection or contentlisting tiles.
 *   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - Elasticsearch Integration for Plone content.
-*   [collective.searchandreplace (⭐6)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
+*   [collective.searchandreplace (⭐5)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
 *   [collective.solr (⭐22)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
 *   [collective.taxonomy (⭐18)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
@@ -151,7 +157,7 @@ Add-ons and resources for the CMS Plone
 ### Layout
 
 *   [plone.app.mosaic (⭐36)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-*   [collective.cover (⭐48)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+*   [collective.cover (⭐47)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 *   [collective.contentsections (⭐10)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
@@ -208,7 +214,7 @@ Add-ons and resources for the CMS Plone
 *   [iw.rejectanonymous (⭐3)](https://github.com/collective/iw.rejectanonymous) - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 *   [pas.plugins.headers (⭐2)](https://github.com/collective/pas.plugins.headers) - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 *   [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - Supports SAML2 based Single Sign-On.
-*   [collective.impersonate (⭐7)](https://github.com/collective/collective.impersonate) - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
+*   [collective.impersonate (⭐8)](https://github.com/collective/collective.impersonate) - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
 *   [collective.pwexpiry (⭐1)](https://github.com/collective/collective.pwexpiry) - Provideds methods for stronger user passwords in Plone and password attack protection.
 
 ### Shop
@@ -217,14 +223,14 @@ Add-ons and resources for the CMS Plone
 
 ### Export, Import and Migrations
 
-*   [collective.exportimport (⭐17)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+*   [collective.exportimport (⭐18)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
 *   [collective.migrationhelpers (⭐14)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
 *   [collective.jsonify (⭐12)](https://github.com/collective/collective.jsonify) - Export Plone content to JSON.
 *   [collective.transmogrifier (⭐5)](https://github.com/collective/collective.transmogrifier) - A configurable pipeline, aimed at transforming content for import and export.
 
 ### Themes
 
-*   [plonetheme.tokyo (⭐6)](https://github.com/collective/plonetheme.tokyo) - Tokyo Theme for Plone implements Bootstrap 4 into Plone, with an emphasis on keeping things as close to "default" as possible.
+*   [plonetheme.tokyo (⭐7)](https://github.com/collective/plonetheme.tokyo) - Tokyo Theme for Plone implements Bootstrap 4 into Plone, with an emphasis on keeping things as close to "default" as possible.
 *   [plonetheme.grueezibuesi (⭐1)](https://github.com/collective/plonetheme.grueezibuesi) - A kitten inspired theme for Plone 6.
 *   [collective.sidebar (⭐6)](https://github.com/collective/collective.sidebar) - A sidebar that consolidates toolbar and navigation.
 *   [collective.editablemenu (⭐3)](https://github.com/RedTurtle/collective.editablemenu) - A customizable navigation menu for Plone.

@@ -2,15 +2,21 @@
 
 📄 🛠 A curated list of awesome static websites services
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-static-website-services/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) · ⭐ 1.8K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-static-website-services/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) · ⭐ 2K · 🏷️ Front-End Development
 
 [ [Daily](/content/agarrharr/awesome-static-website-services/README.md) / Weekly / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
+
+## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+
+### Surveys / Provided by the Host
+
+*   [Formware](https://formware.io/) - Create stunning surveys with unlimited responses for free.
 
 ## [May 06 - May 12, 2024](/content/2024/19/README.md)
 
 ### Search / Provided by the Host
 
-*   [Hulipaa (⭐0)](https://github.com/sambuccid/hulipaa) - Static full-text search engine capable of handling thousands of pages with a minimalist searchbar UI to add to your static website.
+*   [Hulipaa (⭐1)](https://github.com/sambuccid/hulipaa) - Static full-text search engine capable of handling thousands of pages with a minimalist searchbar UI to add to your static website.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -71,7 +77,7 @@
 
 ### Comments
 
-*   [giscus (⭐7.3k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [giscus (⭐11k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 
@@ -87,7 +93,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Azure Static Web Apps (⭐86)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Azure Static Web Apps (⭐93)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
@@ -144,21 +150,21 @@
 
 ### Functions as a Service
 
-*   [1Backend (⭐2.2k)](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
+*   [1Backend (⭐2.3k)](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 
 ### Search / Provided by the Host
 
-*   [itemsjs (⭐332)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch (⭐4.1k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-*   [flexsearch (⭐12k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+*   [itemsjs (⭐398)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐5.8k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [flexsearch (⭐14k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
-*   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
+*   [static-search (⭐21)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
 *   [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
-*   [tinysearch (⭐2.7k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+*   [tinysearch (⭐2.9k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
 *   [search-index (⭐1.4k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 *   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy (⭐827)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [fuzzy (⭐837)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
@@ -268,8 +274,8 @@
 
 ### Forms / Normal Forms
 
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐136)](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences (⭐8.7k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐145)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐9.6k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
 ## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
 
@@ -295,7 +301,7 @@
 
 ### Comments
 
-*   [Staticman (⭐2.4k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
+*   [Staticman (⭐2.5k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 
 ## [Oct 09 - Oct 15, 2017](/content/2017/41/README.md)
 
@@ -325,7 +331,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐284)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐306)](https://github.com/b-long/awesome-static-hosting)
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
 
@@ -357,7 +363,7 @@
 
 ### Forms / Really Simple Forms
 
-*   [Brisk Forms (⭐42)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
+*   [Brisk Forms (⭐41)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
 ## [May 02 - May 08, 2016](/content/2016/18/README.md)
 

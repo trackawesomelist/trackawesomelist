@@ -2,7 +2,7 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 697 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 1.1K · 🏷️ Decentralized Systems
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / [Weekly](/content/steven2358/awesome-blockchain-ai/week/README.md) / Overview ]
 
@@ -23,6 +23,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 *   [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 *   [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 *   [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+*   [Blockchains for autonomous agents](#blockchains-for-autonomous-agents)
 *   [Academic Research](#academic-research)
 
 ## Recommended reading
@@ -58,8 +59,8 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ### Blockchain projects for AI algorithms
 
-*   [Danku (⭐147)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐511)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Danku (⭐150)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+*   [Decentralized & Collaborative AI on Blockchain (⭐602)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
 
@@ -84,6 +85,11 @@ This list explores awesome projects that exploit the properties of blockchain te
 *   [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
 ## Blockchains for AI in supply chains
+
+## Blockchains for autonomous agents
+
+*   [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## Academic Research
 

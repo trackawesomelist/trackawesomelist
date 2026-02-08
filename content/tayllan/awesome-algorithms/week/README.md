@@ -2,9 +2,15 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 24K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 25K · 🏷️ Theory
 
 [ [Daily](/content/tayllan/awesome-algorithms/README.md) / Weekly / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
+
+## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+
+### Beginner-Friendly / YouTube Playlist
+
+*   FreeCodeCamp. Algorithms and Data Structures: [5 hours](https://www.youtube.com/watch?v=8hly31xKli0), [49 hours](https://youtu.be/xwI5OBEnsZU?si=W3CduIEmUehJERHk) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
@@ -44,7 +50,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Theoretical Computer Science (⭐1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐1.1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -68,15 +74,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Cheat Sheet / YouTube Playlist
 
-*   [Tech Interview Cheat Sheet (⭐4.6k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-
-## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
-
-### Beginner-Friendly / YouTube Playlist
-
-*   [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
-*   [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME\&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-*   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete algorithm playlist from basic level to intermediate. Easy explanation and simulation.
+*   [Tech Interview Cheat Sheet (⭐4.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -112,7 +110,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Math (⭐12k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐13k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 

@@ -2,1795 +2,397 @@
 
 A curated list of awesome commands, files, and workflows for Claude Code
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 18K · 🏷️ LLM
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 19K · 🏷️ LLM
 
 [ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / Overview ]
 
 ---
 
-<!--lint disable remark-lint:awesome-badge-->
+<!-- GENERATED FILE: do not edit directly -->
 
-<div align="center" id="awesome-claude-code">
+<h3 align="center">Pick Your Style:</h3>
+<p align="center">
+<a href="./"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-style-awesome.svg" alt="Awesome" height="28" style="border: 2px solid #cc3366; border-radius: 4px;"></a>
+<a href="README_ALTERNATIVES/README_EXTRA.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-style-extra.svg" alt="Extra" height="28"></a>
+<a href="README_ALTERNATIVES/README_CLASSIC.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-style-classic.svg" alt="Classic" height="28"></a>
+<a href="README_ALTERNATIVES/README_FLAT_ALL_AZ.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-style-flat.svg" alt="Flat" height="28"></a>
+</p>
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<p align="center">
+  <picture>
+    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/awesome-claude-code-social-clawd-2.png" alt="Awesome Claude Code" width="600">
+  </picture>
+</p>
 
-</div>
+# Awesome Claude Code
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of slash-commands, CLAUDE.md files, CLI tools, and other resources for enhancing your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) workflow.
+
+Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthropic.com/) that you can access in your terminal or IDE. This list helps the community share knowledge and best practices.
+
 <div align="center">
 
-<!-- Terminal Header - Theme Adaptive -->
+<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/repo-ticker-awesome.svg" alt="Featured Claude Code Projects" width="100%">
 
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/terminal-header-light-anim-lineprint.svg" alt="Awesome Claude Code Terminal">
+</div>
 
-<!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
+## Latest Additions
 
-<br />
+*   [pre-commit-hooks](https://github.com/aRustyDev/pre-commit-hooks) by [aRustyDev](https://github.com/aRustyDev) - This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md`  files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
+*   [Fullstack Dev Skills](https://github.com/jeffallan/claude-skills) by [jeffallan](https://github.com/jeffallan) - A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a  `/common-ground` command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.
+*   [read-only-postgres](https://github.com/jawwadfirdousi/agent-skills) by [jawwadfirdousi](https://github.com/jawwadfirdousi) - Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/WITH queries across configured databases with strict validation, timeouts, and row limits. Supports multiple connections with descriptions for database selection.
+*   [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) by [Martin Joly](https://github.com/snwfdhmp) - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
+*   [ralph-wiggum-bdd](https://github.com/marcindulak/ralph-wiggum-bdd) by [marcindulak](https://github.com/marcindulak) - A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.
 
-<!-- FEATURE placeholder - full feature coming soon! -->
+## Contents
 
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/placeholder-light.svg" alt="New Feature - Coming Soon">
+*   [Agent Skills 🤖](#agent-skills-)
+    *   [General](#general)
+*   [Workflows & Knowledge Guides 🧠](#workflows--knowledge-guides-)
+    *   [General](#general-1)
+    *   [Ralph Wiggum](#ralph-wiggum)
+*   [Tooling 🧰](#tooling-)
+    *   [General](#general-2)
+    *   [IDE Integrations](#ide-integrations)
+    *   [Usage Monitors](#usage-monitors)
+    *   [Orchestrators](#orchestrators)
+*   [Status Lines 📊](#status-lines-)
+    *   [General](#general-3)
+*   [Hooks 🪝](#hooks-)
+    *   [General](#general-4)
+*   [Slash-Commands 🔪](#slash-commands-)
+    *   [General](#general-5)
+    *   [Version Control & Git](#version-control--git)
+    *   [Code Analysis & Testing](#code-analysis--testing)
+    *   [Context Loading & Priming](#context-loading--priming)
+    *   [Documentation & Changelogs](#documentation--changelogs)
+    *   [CI / Deployment](#ci--deployment)
+    *   [Project & Task Management](#project--task-management)
+    *   [Miscellaneous](#miscellaneous)
+*   [CLAUDE.md Files 📂](#claudemd-files-)
+    *   [Language-Specific](#language-specific)
+    *   [Domain-Specific](#domain-specific)
+    *   [Project Scaffolding & MCP](#project-scaffolding--mcp)
+*   [Alternative Clients 📱](#alternative-clients-)
+    *   [General](#general-6)
+*   [Official Documentation 🏛️](#official-documentation-%EF%B8%8F)
+    *   [General](#general-7)
 
-<!--lint enable remark-lint:awesome-badge-->
+## Agent Skills 🤖
+
+> Agent skills are model-controlled configurations (files, scripts, resources, etc.) that enable Claude Code to perform specialized tasks requiring specific knowledge or capabilities.
+
+### General
+
+*   [AI Agent, AI Spy](https://youtu.be/0ANECpNdt-4) by [Whittaker & Tiwari](https://signalfoundation.org/) - Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. \[warning: YouTube link].
+*   [cc-devops-skills](https://github.com/akin-ozer/cc-devops-skills) by [akin-ozer](https://github.com/akin-ozer) - Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a source of documentation.
+*   [Claude Codex Settings](https://github.com/fcakyon/claude-codex-settings) by [fatih akyon](https://github.com/fcakyon) - A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers.
+*   [Claude Mountaineering Skills](https://github.com/dreamiurg/claude-mountaineering-skills) by [Dmytro Gaivoronsky](https://github.com/dreamiurg) - Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports.
+*   [Codex Skill](https://github.com/skills-directory/skill-codex) by [klaudworks](https://github.com/klaudworks) - Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.
+*   [Compound Engineering Plugin](https://github.com/EveryInc/compound-engineering-plugin) by [EveryInc](https://github.com/EveryInc) - A very pragmatic set of well-designed agents, skills, and commands, built around a discipline of turning past mistakes and errors into lessons and opportunities for future growth and improvement. Good documentation.
+*   [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+*   [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) by [Affaan Mustafa](https://github.com/affaan-m/) - Top-notch, well-written resources covering "just about everything" from core engineering domains. What's nice about this "everything-" store is most of the resources have significant standalone value and unlike some all-encompassing frameworks, although you can opt in to the author's own specific workflow patterns if you choose, the individual resources offer exemplary patterns in (just about) every Claude Code feature you can find (apologies to the Output Styles devotees).
+*   [Fullstack Dev Skills](https://github.com/jeffallan/claude-skills) by [jeffallan](https://github.com/jeffallan) - A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a  `/common-ground` command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.
+*   [read-only-postgres](https://github.com/jawwadfirdousi/agent-skills) by [jawwadfirdousi](https://github.com/jawwadfirdousi) - Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/WITH queries across configured databases with strict validation, timeouts, and row limits. Supports multiple connections with descriptions for database selection.
+*   [Superpowers](https://github.com/obra/superpowers) by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code.
+*   [Trail of Bits Security Skills](https://github.com/trailofbits/skills) by [Trail of Bits](https://github.com/trailofbits) - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
+*   [TÂCHES Claude Code Resources](https://github.com/glittercowboy/taches-cc-resources) by [TÂCHES](https://github.com/glittercowboy) - A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.
+*   [Web Assets Generator Skill](https://github.com/alonw0/web-asset-generator) by [Alon Wolenitz](https://github.com/alonw0) - Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
 
 <br>
 
-<!-- Info Terminal - Theme Adaptive -->
+## Workflows & Knowledge Guides 🧠
 
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/info-terminal-light-vintage.svg" alt="System Info Terminal">
+> A workflow is a tightly coupled set of Claude Code-native resources that facilitate specific projects
 
-<!--lint enable remark-lint:awesome-badge-->
+### General
 
-</div>
+*   [AB Method](https://github.com/ayoubben18/ab-method) by [Ayoub Bensalah](https://github.com/ayoubben18) - A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
+*   [Agentic Workflow Patterns](https://github.com/ThibautMelen/agentic-workflow-patterns) by [ThibautMelen](https://github.com/ThibautMelen) - A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+*   [Blogging Platform Instructions](https://github.com/cloudartisan/cloudartisan.github.io/tree/main/.claude/commands) by [cloudartisan](https://github.com/cloudartisan) - Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.
+*   [Claude Code Documentation Mirror](https://github.com/ericbuess/claude-code-docs) by [Eric Buess](https://github.com/ericbuess) - A mirror of the Anthropic © PBC documentation pages for Claude Code, updated every few hours. Can come in handy when trying to stay on top of the ever-expanding feature-set of Dr. Claw D. Code, Ph.D.
+*   [Claude Code Handbook](https://nikiforovall.blog/claude-code-rules/) by [nikiforovall](https://github.com/nikiforovall) - Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins.
+*   [Claude Code Infrastructure Showcase](https://github.com/diet103/claude-code-infrastructure-showcase) by [diet103](https://github.com/diet103) - A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
+*   [Claude Code PM](https://github.com/automazeio/ccpm) by [Ran Aroussi](https://github.com/ranaroussi) - Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
+*   [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index) by [Daniel Rosehill](https://github.com/danielrosehill) - This is either the work of a prolific genius, or a very clever bot (or both), although it hardly matters because the quality is so good - an index of 75+ Claude Code repositories published by the author - and I'm not talking about slop. CMS, system design, deep research, IoT, agentic workflows, server management, personal health... If you spot the lie, let me know, otherwise please check these out.
+*   [Claude Code System Prompts](https://github.com/Piebald-AI/claude-code-system-prompts) by [Piebald AI](https://github.com/Piebald-AI) - All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.
+*   [Claude Code Tips](https://github.com/ykdojo/claude-code-tips) by [ykdojo](https://github.com/ykdojo) - A nice variety of 35+ brief but information-dense Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning(!), multi-model orchestration with Gemini CLI, and plenty more. Nice demos, working scripts, a plugin, I'd say this probably has a little something for everyone.
+*   [Claude CodePro](https://github.com/maxritter/claude-codepro) by [Max Ritter](https://www.maxritter.net) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage.
+*   [claude-code-docs](https://github.com/costiash/claude-code-docs) by [Constantin Shafranski](https://github.com/costiash) - A mirror of the Anthropic© PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to `claude-code-docs` for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.
+*   [ClaudoPro Directory](https://github.com/JSONbored/claudepro-directory) by [ghost](https://github.com/JSONbored) - Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
+*   [Context Priming](https://github.com/disler/just-prompt/tree/main/.claude/commands) by [disler](https://github.com/disler) - Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
+*   [Design Review Workflow](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) by [Patrick Ellis](https://github.com/OneRedOak) - A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
+*   [Laravel TALL Stack AI Development Starter Kit](https://github.com/tott/laravel-tall-claude-ai-configs) by [tott](https://github.com/tott) - Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
+*   [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) by [shareAI-Lab](https://github.com/shareAI-lab/) - A really interesting analysis of how coding agents like Claude Code are designed. It attempts to break an agent down into its fundamental parts and reconstruct it with minimal code. Great learning resource. Final product is a rudimentary agent with skills, sub-agents, and a todo-list in roughly a few hundred lines of Python.
+*   [learn-faster-kit](https://github.com/cheukyin175/learn-faster-kit) by [Hugo Lau](https://github.com/cheukyin175) - A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.
+*   [n8n\_agent](https://github.com/kingler/n8n_agent/tree/main/.claude/commands) by [kingler](https://github.com/kingler) - Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
+*   [Project Bootstrapping and Task Management](https://github.com/steadycursor/steadystart/tree/main/.claude/commands) by [steadycursor](https://github.com/steadycursor) - Provides a structured set of commands for bootstrapping and managing a new project, including meta-commands for creating and editing custom slash-commands.
+*   [Project Management, Implementation, Planning, and Release](https://github.com/scopecraft/command/tree/main/.claude/commands) by [scopecraft](https://github.com/scopecraft) - Really comprehensive set of commands for all aspects of SDLC.
+*   [Project Workflow System](https://github.com/harperreed/dotfiles/tree/master/.claude/commands) by [harperreed](https://github.com/harperreed) - A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.
+*   [RIPER Workflow](https://github.com/tony/claude-code-riper-5) by [Tony Narlock](https://tony.sh) - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
+*   [Shipping Real Code w/ Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) by [Diwank](https://github.com/creatorrr) - A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
+*   [Simone](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi) - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
 
-<br>
+### Ralph Wiggum
 
-<!-- Intro Terminal - Theme Adaptive -->
-
-<div align="center">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/intro-terminal-light-vintage.svg" alt="About Claude Code">
-</div>
-
-<!-- Design Credit & Disclaimer - Theme Adaptive -->
-
-<div align="center">
-  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/designed-by-badge-light.svg" alt="Designed by Claude Code Web">
-  <br>
-  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/disclaimer-light.svg" alt="Disclaimer: Not affiliated or endorsed by Anthropic PBC. Claude Code is a product of Anthropic.">
-</div>
-
-<!-- ### Announcements [🔝](#awesome-claude-code)
-
-<details open>
-<summary>View Announcements</summary>
-
-- <details open>
-  <summary>2025-11-21 - Claude Code for Web - Breaking the Internet</summary>
-
-  - I don't know about you folks, but I've been having a romping good time playing around with Claude Code for Web. I'm thinking about adding a category for it, but I'm not sure how many people have access, or if people are interested in that. It's really pretty awesome (I hired it as a sub-contractor to see if it could spice up the repo a little bit, so it's been running for like 30 hours, I'm not sure what it's up to... 👀) Anyway, if you're working with Claude Code on the Web, or you'd like to see it included here, please sound off in the [Discussion thread](https://github.com/hesreallyhim/awesome-claude-code/discussions/308).
-
-  - This was me last week, talking about Output Styles: "I'm going to guarantee that by one week from now, we will have a minimum of **5 Output Styles** in that category." Well, since then, nobody submitted an Output Style - which makes me almost certain that nobody is reading these announcements, since it was kind of open invitation for anyone to get on the list. _Nevertheless_, I'm a Him of my words, so I went and put together a few of my own, which you can check out below. It's pretty exciting to be included here, because I've been rejected four or five times, which is _really_ embarrassing because it's my repo...
-
-  </details>
-
-</details> -->
-
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/thinking-asterisk.svg" alt="*" width="18" /> <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=100&color=F7080D&width=320&lines=Lollygagging...;Skedaddling...;Bumbershooting...;Widdershinning...;Higgledy-piggledying...;Doodlebugging...;Fiddle-faddling...;Whimwhamming...;Dilly-dallying...;Flapdoodling...;Ballyhooing...;Galumphing...;Razzle-dazzling...;Tiddle-taddling...;Zigzagging...;Twinkletoeing...;Puddle-jumping...;Snicker-snacking...;Jibber-jabbering...;Frabjoussing...;Piffle-puffling...;Whirligigging...;Bibbity-bobbitying...;" /></a>
-</div>
-
-<div align="center">
-
-### ⚡ TERMINAL NAVIGATION ⚡
-
-<table>
-<tr>
-<td align="center">
-<a href="#agent-skills-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-skills-light-anim-lineprint.svg" alt="Agent Skills">
-</a>
-</td>
-<td align="center">
-<a href="#workflows--knowledge-guides-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-workflows-light-anim-lineprint.svg" alt="Workflows">
-</a>
-</td>
-<td align="center">
-<a href="#tooling--">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-tooling-light-anim-lineprint.svg" alt="Tooling">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="#status-lines-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-statusline-light-anim-lineprint.svg" alt="Status Lines">
-</a>
-</td>
-<td align="center">
-<a href="#hooks-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-custom-light-anim-lineprint.svg" alt="Hooks">
-</a>
-</td>
-<td align="center">
-<a href="#slash-commands-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-commands-light-anim-lineprint.svg" alt="Slash Commands">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="#claudemd-files-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-config-light-anim-lineprint.svg" alt="CLAUDE.md Files">
-</a>
-</td>
-<td align="center">
-<a href="#alternative-clients-">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-clients-light-anim-lineprint.svg" alt="Alternative Clients">
-</a>
-</td>
-<td align="center">
-<a href="#official-documentation--">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/card-docs-light-anim-lineprint.svg" alt="Documentation">
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+*   [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) by [Martin Joly](https://github.com/snwfdhmp) - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
+*   [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) by [Frank Bria](https://github.com/frankbria) - An autonomous AI development framework that enables Claude Code to work iteratively on projects until completion. Features intelligent exit detection, rate limiting, circuit breaker patterns, and comprehensive safety guardrails to prevent infinite loops and API overuse. Built with Bash, integrated with tmux for live monitoring, and includes 75+ comprehensive tests.
+*   [Ralph Wiggum Marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) by [Muratcan Koylan](https://github.com/muratcankoylan) - A Claude Code plugin that provides an autonomous AI copywriter,  integrating the Ralph loop with customized knowledge bases for market research agents. The agents do the research, Ralph writes the copy, you stay in bed. Whether or not you practice Ralph-Driven Development (RDD), I think these projects are interesting and creative explorations of general agentic patterns.
+*   [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) by [mikeyobrien](https://github.com/mikeyobrien) - Ralph Orchestrator implements the simple but effective "Ralph Wiggum" technique for autonomous task completion, continuously running an AI agent against a prompt file until the task is marked as complete or limits are reached. This implementation provides a robust, well-tested, and feature-complete orchestration system for AI-driven development. Also cited in the Anthropic Ralph plugin documentation.
+*   [ralph-wiggum-bdd](https://github.com/marcindulak/ralph-wiggum-bdd) by [marcindulak](https://github.com/marcindulak) - A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.
+*   [The Ralph Playbook](https://github.com/ClaytonFarr/ralph-playbook) by [Clayton Farr](https://github.com/ClaytonFarr) - A remarkably detailed and comprehensive guide to the Ralph Wiggum technique, featuring well-written theoretical commentary paired with practical guidelines and advice.
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/makeover-banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/makeover-banner-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/makeover-banner-light.svg" alt="EXTREME REPO MAKEOVER BY CLAUDE CODE WEB!" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+## Tooling 🧰
+
+> Tooling denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
+
+### General
+
+*   [cc-sessions](https://github.com/GWUDCAP/cc-sessions) by [toastdev](https://github.com/satoastshi) - An opinionated approach to productive development with Claude Code.
+*   [cc-tools](https://github.com/Veraticus/cc-tools) by [Josh Symonds](https://github.com/Veraticus) - High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.
+*   [ccexp](https://github.com/nyatinte/ccexp) by [nyatinte](https://github.com/nyatinte) - Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
+*   [cchistory](https://github.com/eckardt/cchistory) by [eckardt](https://github.com/eckardt) - Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.
+*   [cclogviewer](https://github.com/Brads3290/cclogviewer) by [Brad S.](https://github.com/Brads3290) - A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
+*   [Claude Code Templates](https://github.com/davila7/claude-code-templates) by [Daniel Avila](https://github.com/davila7) - Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
+*   [Claude Composer](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities) - A tool that adds small enhancements to Claude Code.
+*   [Claude Hub](https://github.com/claude-did-this/claude-hub) by [Claude Did This](https://github.com/claude-did-this) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.
+*   [Claude Session Restore](https://github.com/ZENG3LD/claude-session-restore) by [ZENG3LD](https://github.com/ZENG3LD) - Efficiently restore context from previous Claude Code sessions by analyzing session files and git history. Features multi-factor data collection across numerous Claude Code capacities with time-based filtering. Uses tail-based parsing for efficient handling of large session files up to 2GB. Includes both a CLI tool for manual analysis and a Claude Code skill for automatic session restoration.
+*   [claude-code-tools](https://github.com/pchalasani/claude-code-tools) by [Prasad Chalasani](https://github.com/pchalasani) - Well-crafted toolset for session continuity, featuring skills/commands to avoid compaction and recover context across sessions with cross-agent handoff between Claude Code and Codex CLI. Includes a fast Rust/Tantivy-powered full-text session search (TUI for humans, skill/CLI for agents), tmux-cli skill + command for interacting with scripts and CLI agents, and safety hooks to block dangerous commands.
+*   [claude-starter-kit](https://github.com/serpro69/claude-starter-kit) by [serpro69](https://github.com/serpro69) - This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+*   [claudekit](https://github.com/carlrannaberg/claudekit) by [Carl Rannaberg](https://github.com/carlrannaberg) - Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+*   [Container Use](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+*   [ContextKit](https://github.com/FlineDev/ContextKit) by [Cihat Gündüz](https://github.com/Jeehut) - A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.
+*   [recall](https://github.com/zippoxer/recall) by [zippoxer](https://github.com/zippoxer) - Full-text search your Claude Code sessions. Run `recall` in terminal, type to search, Enter to resume. Alternative to `claude --resume`.
+*   [Rulesync](https://github.com/dyoshikawa/rulesync) by [dyoshikawa](https://github.com/dyoshikawa) - A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.
+*   [run-claude-docker](https://github.com/icanhasjonas/run-claude-docker) by [Jonas](https://github.com/icanhasjonas/) - A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
+*   [stt-mcp-server-linux](https://github.com/marcindulak/stt-mcp-server-linux) by [marcindulak](https://github.com/marcindulak) - A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.
+*   [SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework) by [SuperClaude-Org](https://github.com/SuperClaude-Org) - A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
+*   [tweakcc](https://github.com/Piebald-AI/tweakcc) by [Piebald-AI](https://github.com/Piebald-AI) - Command-line tool to customize your Claude Code styling.
+*   [Vibe-Log](https://github.com/vibe-log/vibe-log-cli) by [Vibe-Log](https://github.com/vibe-log) - Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
+*   [viwo-cli](https://github.com/OverseedAI/viwo) by [Hal Shin](https://github.com/hal-shin) - Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
+*   [VoiceMode MCP](https://github.com/mbailey/voicemode) by [Mike Bailey](https://github.com/mbailey) - VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
+
+### IDE Integrations
+
+*   [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) by [andrepimenta](https://github.com/andrepimenta) - An elegant and user-friendly Claude Code chat interface for VS Code.
+*   [claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) by [manzaltu](https://github.com/manzaltu) - claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code/IntelliJ extensions. It shows ediff-based code suggestions, pulls LSP/flymake/flycheck diagnostics, and tracks buffer context. It adds an extensible MCP tool support for symbol refs/defs, project metadata, and tree-sitter AST queries.
+*   [claude-code.el](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor) - An Emacs interface for Claude Code CLI.
+*   [claude-code.nvim](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh) - A seamless integration between Claude Code AI assistant and Neovim.
+*   [Claudix - Claude Code for VSCode](https://github.com/Haleclipse/Claudix) by [Haleclipse](https://github.com/Haleclipse) - A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+*   [crystal](https://github.com/stravu/crystal) by [stravu](https://github.com/stravu) - A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
+
+### Usage Monitors
+
+*   [CC Usage](https://github.com/ryoppippi/ccusage) by [ryoppippi](https://github.com/ryoppippi) - Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
+*   [ccflare](https://github.com/snipeship/ccflare) by [snipeship](https://github.com/snipeship) - Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
+*   [ccflare -> **better-ccflare**](https://github.com/tombii/better-ccflare/) by [tombii](https://github.com/tombii) - A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.
+*   [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) by [Maciek-roboblog](https://github.com/Maciek-roboblog) - A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.
+*   [Claudex](https://github.com/kunwar-shah/claudex) by [Kunwar Shah](https://github.com/kunwar-shah) - Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!).
+*   [viberank](https://github.com/sculptdotfun/viberank) by [nikshepsvn](https://github.com/nikshepsvn) - A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
+
+### Orchestrators
+
+*   [Claude Code Flow](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet) - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
+*   [Claude Squad](https://github.com/smtg-ai/claude-squad) by [smtg-ai](https://github.com/smtg-ai) - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
+*   [Claude Swarm](https://github.com/parruda/claude-swarm) by [parruda](https://github.com/parruda) - Launch Claude Code session that is connected to a swarm of Claude Code Agents.
+*   [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+*   [Claude Task Runner](https://github.com/grahama1970/claude-task-runner) by [grahama1970](https://github.com/grahama1970) - A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.
+*   [Happy Coder](https://github.com/slopus/happy) by [GrocerPublishAgent](https://peoplesgrocers.com/en/projects) - Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.
+*   [The Agentic Startup](https://github.com/rsmdt/the-startup) by [Rudolf Schmidt](https://github.com/rsmdt) - Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+*   [TSK - AI Agent Task Manager and Sandbox](https://github.com/dtormoen/tsk) by [dtormoen](https://github.com/dtormoen) - A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
 <br>
 
-<div align="center">
+## Status Lines 📊
 
-<!-- Directory Tree Terminal - Theme Adaptive -->
+> Status lines - Configurations and customizations for Claude Code's status bar functionality
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toc-header.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/toc-header-light-anim-scanline.svg">
-  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-header-light-anim-scanline.svg" alt="Directory Listing">
-</picture>
-<a href="#agent-skills-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-skills.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-skills-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-skills-light-anim-scanline.svg" alt="Agent Skills">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#workflows--knowledge-guides-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-workflows.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-workflows-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-workflows-light-anim-scanline.svg" alt="Workflows & Knowledge Guides">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--1">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#tooling-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-tooling.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-tooling-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-tooling-light-anim-scanline.svg" alt="Tooling">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#ide-integrations-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-ide.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-ide-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-ide-light-anim-scanline.svg" alt="IDE Integrations">
-  </picture>
-</a>
-<br clear="all">
-<a href="#usage-monitors-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-monitors.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-monitors-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-monitors-light-anim-scanline.svg" alt="Usage Monitors">
-  </picture>
-</a>
-<br clear="all">
-<a href="#orchestrators-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-orchestrators.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-orchestrators-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-orchestrators-light-anim-scanline.svg" alt="Orchestrators">
-  </picture>
-</a>
-<br clear="all">
-<a href="#status-lines-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-statusline.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-statusline-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-statusline-light-anim-scanline.svg" alt="Status Lines">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#hooks-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-custom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-custom-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-custom-light-anim-scanline.svg" alt="Hooks">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#slash-commands-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-commands.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-commands-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-commands-light-anim-scanline.svg" alt="Slash-Commands">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#version-control--git-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-git.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-git-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-git-light-anim-scanline.svg" alt="Version Control & Git">
-  </picture>
-</a>
-<br clear="all">
-<a href="#code-analysis--testing-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-code-analysis.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-code-analysis-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-code-analysis-light-anim-scanline.svg" alt="Code Analysis & Testing">
-  </picture>
-</a>
-<br clear="all">
-<a href="#context-loading--priming-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-context.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-context-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-context-light-anim-scanline.svg" alt="Context Loading & Priming">
-  </picture>
-</a>
-<br clear="all">
-<a href="#documentation--changelogs-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-documentation.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-documentation-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-documentation-light-anim-scanline.svg" alt="Documentation & Changelogs">
-  </picture>
-</a>
-<br clear="all">
-<a href="#ci--deployment-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-ci.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-ci-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-ci-light-anim-scanline.svg" alt="CI / Deployment">
-  </picture>
-</a>
-<br clear="all">
-<a href="#project--task-management-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-project-mgmt.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-project-mgmt-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-project-mgmt-light-anim-scanline.svg" alt="Project & Task Management">
-  </picture>
-</a>
-<br clear="all">
-<a href="#miscellaneous-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-misc.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-misc-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-misc-light-anim-scanline.svg" alt="Miscellaneous">
-  </picture>
-</a>
-<br clear="all">
-<a href="#claudemd-files-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-config.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-config-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-config-light-anim-scanline.svg" alt="CLAUDE.md Files">
-  </picture>
-</a>
-<br clear="all">
-<a href="#language-specific-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-language-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-language-light-anim-scanline.svg" alt="Language-Specific">
-  </picture>
-</a>
-<br clear="all">
-<a href="#domain-specific-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-domain.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-domain-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-domain-light-anim-scanline.svg" alt="Domain-Specific">
-  </picture>
-</a>
-<br clear="all">
-<a href="#project-scaffolding--mcp-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-scaffolding.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-scaffolding-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-scaffolding-light-anim-scanline.svg" alt="Project Scaffolding & MCP">
-  </picture>
-</a>
-<br clear="all">
-<a href="#alternative-clients-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-clients.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-clients-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-clients-light-anim-scanline.svg" alt="Alternative Clients">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--6">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
-<a href="#official-documentation-">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-docs.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-docs-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-row-docs-light-anim-scanline.svg" alt="Official Documentation">
-  </picture>
-</a>
-<br clear="all">
-<a href="#general--7">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/toc-sub-general-light-anim-scanline.svg" alt="General">
-  </picture>
-</a>
-<br clear="all">
+### General
 
-</div>
+*   [CCometixLine - Claude Code Statusline](https://github.com/Haleclipse/CCometixLine) by [Haleclipse](https://github.com/Haleclipse) - A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
+*   [ccstatusline](https://github.com/sirmalloc/ccstatusline) by [sirmalloc](https://github.com/sirmalloc) - A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+*   [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) by [rz1989s](https://github.com/rz1989s) - Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring.
+*   [claude-powerline](https://github.com/Owloops/claude-powerline) by [Owloops](https://github.com/Owloops) - A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more.
+*   [claudia-statusline](https://github.com/hagan/claudia-statusline) by [Hagan Franks](https://github.com/hagan) - High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO\_COLOR).
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v1.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+## Hooks 🪝
 
-<h2 id="agent-skills-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_agent_skills.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_agent_skills-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_agent_skills-light-v3.svg" alt="Agent Skills" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
+> Hooks are a powerful API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='agent-skills-' align='center'>Agent skills are model-controlled configurations (files, scripts, resources, etc.) that enable Claude Code to perform specialized tasks requiring specific knowledge or capabilities.</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+### General
 
-<details id="general-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/skills-directory/skill-codex"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-codex-skill.svg" alt="Codex Skill"></a>\
-*Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.*\
-![GitHub Stats for skill-codex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=skill-codex\&username=skills-directory\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/NeoLabHQ/context-engineering-kit"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-context-engineering-kit.svg" alt="Context Engineering Kit"></a>\
-*Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.*\
-![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit\&username=NeoLabHQ\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/alonw0/web-asset-generator"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-web-assets-generator-skill.svg" alt="Web Assets Generator Skill"></a>\
-*Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.*\
-![GitHub Stats for web-asset-generator](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=web-asset-generator\&username=alonw0\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
+*   [Britfix](https://github.com/Talieisin/britfix) by [Talieisin](https://github.com/Talieisin) - Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.
+*   [CC Notify](https://github.com/dazuiba/CCNotify) by [dazuiba](https://github.com/dazuiba) - CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
+*   [cchooks](https://github.com/GowayLee/cchooks) by [GowayLee](https://github.com/GowayLee) - A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.
+*   [Claude Code Hook Comms (HCOM)](https://github.com/aannoo/claude-hook-comms) by [aannoo](https://github.com/aannoo) - Lightweight CLI tool for real-time communication between Claude Code sub agents using hooks. Enables multi-agent collaboration with @-mention targeting, live dashboard monitoring, and zero-dependency implementation. \[NOTE: At the time of posting, this resource is a little unstable - I'm sharing it anyway, because I think it's incredibly promising and creative. I hope by the time you read this, it is production-ready.].
+*   [claude-code-hooks-sdk](https://github.com/beyondcode/claude-hooks-sdk) by [beyondcode](https://github.com/beyondcode) - A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
+*   [claude-hooks](https://github.com/johnlindquist/claude-hooks) by [John Lindquist](https://github.com/johnlindquist) - A TypeScript-based system for configuring and customizing Claude Code hooks with a powerful and flexible interface.
+*   [Claudio](https://github.com/ctoth/claudio) by [Christopher Toth](https://github.com/ctoth) - A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
+*   [TDD Guard](https://github.com/nizos/tdd-guard) by [Nizar Selander](https://github.com/nizos) - A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.
+*   [TypeScript Quality Hooks](https://github.com/bartolli/claude-code-typescript-hooks) by [bartolli](https://github.com/bartolli) - Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing.
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v2.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+## Slash-Commands 🔪
 
-<h2 id="workflows--knowledge-guides-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_workflows_knowledge_guides.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_workflows_knowledge_guides-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_workflows_knowledge_guides-light-v3.svg" alt="Workflows & Knowledge Guides" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
+> "Slash Commands are customized, carefully refined prompts that control Claude's behavior in order to perform a specific task"
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='workflows--knowledge-guides-' align='center'>A workflow is a tightly coupled set of Claude Code-native resources that facilitate specific projects</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+### General
 
-<details id="general--1-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_1.svg" alt="General" align="absmiddle"></picture></span></summary>
+*   [/create-hook](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) by [Omri Lavi](https://github.com/omril321) - Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
+*   [/linux-desktop-slash-commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) by [Daniel Rosehill](https://github.com/danielrosehill) - A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.
 
-<a href="https://github.com/ayoubben18/ab-method"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ab-method.svg" alt="AB Method"></a>\
-*A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.*\
-![GitHub Stats for ab-method](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ab-method\&username=ayoubben18\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Version Control & Git
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/analyze-issue](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md) by [jerseycheese](https://github.com/jerseycheese) - Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
+*   [/commit](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/commit.md) by [evmts](https://github.com/evmts) - Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.
+*   [/commit-fast](https://github.com/steadycursor/steadystart/blob/main/.claude/commands/2-commit-fast.md) by [steadycursor](https://github.com/steadycursor) - Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer.
+*   [/create-pr](https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md) by [toyamarinyon](https://github.com/toyamarinyon) - Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.
+*   [/create-pull-request](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) by [liam-hq](https://github.com/liam-hq) - Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
+*   [/create-worktrees](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) by [evmts](https://github.com/evmts) - Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
+*   [/fix-github-issue](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) by [jeremymailen](https://github.com/jeremymailen) - Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.
+*   [/fix-issue](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-issue.md) by [metabase](https://github.com/metabase) - Addresses GitHub issues by taking issue number as parameter, analyzing context, implementing solution, and testing/validating the fix for proper integration.
+*   [/fix-pr](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-pr.md) by [metabase](https://github.com/metabase) - Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.
+*   [/husky](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/husky.md) by [evmts](https://github.com/evmts) - Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.
+*   [/update-branch-name](https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md) by [giselles-ai](https://github.com/giselles-ai) - Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.
 
-<a href="https://github.com/ThibautMelen/agentic-workflow-patterns"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-agentic-workflow-patterns.svg" alt="Agentic Workflow Patterns"></a>\
-*A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.*\
-![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns\&username=ThibautMelen\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Code Analysis & Testing
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/check](https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md) by [rygwdn](https://github.com/rygwdn) - Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.
+*   [/code\_analysis](https://github.com/kingler/n8n_agent/blob/main/.claude/commands/code_analysis.md) by [kingler](https://github.com/kingler) - Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.
+*   [/optimize](https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md) by [to4iki](https://github.com/to4iki) - Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
+*   [/repro-issue](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) by [rzykov](https://github.com/rzykov) - Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
+*   [/tdd](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) by [zscott](https://github.com/zscott) - Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
+*   [/tdd-implement](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) by [jerseycheese](https://github.com/jerseycheese) - Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
 
-<a href="https://github.com/cloudartisan/cloudartisan.github.io/tree/main/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-blogging-platform-instructions.svg" alt="Blogging Platform Instructions"></a>\
-*Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.*\
-![GitHub Stats for cloudartisan.github.io](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cloudartisan.github.io\&username=cloudartisan\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Context Loading & Priming
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/context-prime](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) by [elizaOS](https://github.com/elizaOS) - Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
+*   [/initref](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) by [okuvshynov](https://github.com/okuvshynov) - Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
+*   [/load-llms-txt](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) by [ethpandaops](https://github.com/ethpandaops) - Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.
+*   [/load\_coo\_context](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_coo_context.md) by [Mjvolk3](https://github.com/Mjvolk3) - References specific files for sparse matrix operations, explains transform usage, compares with previous approaches, and sets data formatting context for development.
+*   [/load\_dango\_pipeline](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_dango_pipeline.md) by [Mjvolk3](https://github.com/Mjvolk3) - Sets context for model training by referencing pipeline files, establishing working context, and preparing for pipeline work with relevant documentation.
+*   [/prime](https://github.com/yzyydev/AI-Engineering-Structure/blob/main/.claude/commands/prime.md) by [yzyydev](https://github.com/yzyydev) - Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.
+*   [/rsi](https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md) by [ddisisto](https://github.com/ddisisto) - Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
-<a href="https://github.com/ericbuess/claude-code-docs"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-documentation-mirror.svg" alt="Claude Code Documentation Mirror"></a>\
-*A mirror of the Anthropic © PBC documentation pages for Claude Code, updated every few hours. Can come in handy when trying to stay on top of the ever-expanding feature-set of Dr. Claw D. Code, Ph.D.*\
-![GitHub Stats for claude-code-docs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-docs\&username=ericbuess\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Documentation & Changelogs
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/add-to-changelog](https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md) by [berrydev-ai](https://github.com/berrydev-ai) - Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.
+*   [/create-docs](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/create-docs.md) by [jerseycheese](https://github.com/jerseycheese) - Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.
+*   [/docs](https://github.com/slunsford/coffee-analytics/blob/main/.claude/commands/docs.md) by [slunsford](https://github.com/slunsford) - Generates comprehensive documentation that follows project structure, documenting APIs and usage patterns with consistent formatting for better user understanding.
+*   [/explain-issue-fix](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/explain-issue-fix.md) by [hackdays-io](https://github.com/hackdays-io) - Documents solution approaches for GitHub issues, explaining technical decisions, detailing challenges overcome, and providing implementation context for better understanding.
+*   [/update-docs](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) by [Consiliency](https://github.com/Consiliency) - Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.
 
-<a href="https://nikiforovall.blog/claude-code-rules/"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-handbook.svg" alt="Claude Code Handbook"></a>\
-*Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins*
+### CI / Deployment
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/release](https://github.com/kelp/webdown/blob/main/.claude/commands/release.md) by [kelp](https://github.com/kelp) - Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.
+*   [/run-ci](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/run-ci.md) by [hackdays-io](https://github.com/hackdays-io) - Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.
 
-<a href="https://github.com/diet103/claude-code-infrastructure-showcase"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-infrastructure-showcase.svg" alt="Claude Code Infrastructure Showcase"></a>\
-*A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.*\
-![GitHub Stats for claude-code-infrastructure-showcase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-infrastructure-showcase\&username=diet103\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Project & Task Management
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+*   [/create-command](https://github.com/scopecraft/command/blob/main/.claude/commands/create-command.md) by [scopecraft](https://github.com/scopecraft) - Guides Claude through creating new custom commands with proper structure by analyzing requirements, templating commands by category, enforcing command standards, and creating supporting documentation.
+*   [/create-plan](https://github.com/hesreallyhim/inkverse-fork/blob/preserve-claude-resources/.claude/commands/create-plan.md) by [taddyorg](https://github.com/taddyorg) - Generates comprehensive product requirement documents outlining detailed specifications, requirements, and features following standardized document structure and format. *(Removed from origin)*
+*   [/create-prp](https://github.com/Wirasm/claudecode-utils/blob/main/.claude/commands/create-prp.md) by [Wirasm](https://github.com/Wirasm) - Creates product requirement plans by reading PRP methodology, following template structure, creating comprehensive requirements, and structuring product definitions for development.
+*   [/do-issue](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/do-issue.md) by [jerseycheese](https://github.com/jerseycheese) - Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.
+*   [/prd-generator](https://github.com/dredozubov/prd-generator) by [Denis Redozubov](https://github.com/dredozubov) - A Claude Code plugin that generates comprehensive Product Requirements Documents (PRDs) from conversation context. Invoke `/create-prd` after discussing requirements and it produces a complete PRD with all standard sections including Executive Summary, User Stories, MVP Scope, Architecture, Success Criteria, and Implementation Phases.
+*   [/project\_hello\_w\_name](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) by [disler](https://github.com/disler) - Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.
+*   [/todo](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) by [chrisleyva](https://github.com/chrisleyva) - A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
 
-<a href="https://github.com/automazeio/ccpm"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-pm.svg" alt="Claude Code PM"></a>\
-*Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.*\
-![GitHub Stats for ccpm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccpm\&username=automazeio\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+### Miscellaneous
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/costiash/claude-code-docs"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-docs.svg" alt="claude-code-docs"></a>\
-*A mirror of the Anthropic© PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to `claude-code-docs` for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.*\
-![GitHub Stats for claude-code-docs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-docs\&username=costiash\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/JSONbored/claudepro-directory"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudopro-directory.svg" alt="ClaudoPro Directory"></a>\
-*Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.*\
-![GitHub Stats for claudepro-directory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudepro-directory\&username=JSONbored\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/disler/just-prompt/tree/main/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-context-priming.svg" alt="Context Priming"></a>\
-*Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.*\
-![GitHub Stats for just-prompt](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=just-prompt\&username=disler\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-design-review-workflow.svg" alt="Design Review Workflow"></a>\
-*A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.*\
-![GitHub Stats for claude-code-workflows](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-workflows\&username=OneRedOak\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/tott/laravel-tall-claude-ai-configs"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-laravel-tall-stack-ai-development-starter-kit.svg" alt="Laravel TALL Stack AI Development Starter Kit"></a>\
-*Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.*\
-![GitHub Stats for laravel-tall-claude-ai-configs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=laravel-tall-claude-ai-configs\&username=tott\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/cheukyin175/learn-faster-kit"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-learn-faster-kit.svg" alt="learn-faster-kit"></a>\
-*A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.*\
-![GitHub Stats for learn-faster-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=learn-faster-kit\&username=cheukyin175\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/kingler/n8n_agent/tree/main/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-n8n-agent.svg" alt="n8n_agent"></a>\
-*Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.*\
-![GitHub Stats for n8n\_agent](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=n8n_agent\&username=kingler\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/steadycursor/steadystart/tree/main/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-project-bootstrapping-and-task-management.svg" alt="Project Bootstrapping and Task Management"></a>\
-*Provides a structured set of commands for bootstrapping and managing a new project, including meta-commands for creating and editing custom slash-commands.*\
-![GitHub Stats for steadystart](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=steadystart\&username=steadycursor\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/scopecraft/command/tree/main/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-project-management-implementation-planning-and-release.svg" alt="Project Management, Implementation, Planning, and Release"></a>\
-*Really comprehensive set of commands for all aspects of SDLC.*\
-![GitHub Stats for command](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=command\&username=scopecraft\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/harperreed/dotfiles/tree/master/.claude/commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-project-workflow-system.svg" alt="Project Workflow System"></a>\
-*A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.*\
-![GitHub Stats for dotfiles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=dotfiles\&username=harperreed\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/tony/claude-code-riper-5"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-riper-workflow.svg" alt="RIPER Workflow"></a>\
-*Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.*\
-![GitHub Stats for claude-code-riper-5](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-riper-5\&username=tony\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://diwank.space/field-notes-from-shipping-real-code-with-claude"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-shipping-real-code-w-claude.svg" alt="Shipping Real Code w/ Claude"></a>\
-*A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.*
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Helmi/claude-simone"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-simone.svg" alt="Simone"></a>\
-*A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.*\
-![GitHub Stats for claude-simone](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-simone\&username=Helmi\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
+*   [/fixing\_go\_in\_graph](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md) by [Mjvolk3](https://github.com/Mjvolk3) - Focuses on Gene Ontology annotation integration in graph databases, handling multiple data sources, addressing graph representation issues, and ensuring correct data incorporation.
+*   [/mermaid](https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md) by [GaloyMoney](https://github.com/GaloyMoney) - Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.
+*   [/review\_dcell\_model](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/review_dcell_model.md) by [Mjvolk3](https://github.com/Mjvolk3) - Reviews old Dcell implementation files, comparing with newer Dango model, noting changes over time, and analyzing refactoring approaches for better code organization.
+*   [/use-stepper](https://github.com/zuplo/docs/blob/main/.claude/commands/use-stepper.md) by [zuplo](https://github.com/zuplo) - Reformats documentation to use React Stepper component, transforming heading formats, applying proper indentation, and maintaining markdown compatibility with admonition formatting.
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v3.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<h2 id="tooling-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_tooling.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_tooling-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_tooling-light-v3.svg" alt="Tooling" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='tooling-' align='center'>Tooling denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<details id="general--2-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_2.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/GWUDCAP/cc-sessions"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cc-sessions.svg" alt="cc-sessions"></a>\
-*An opinionated approach to productive development with Claude Code*\
-![GitHub Stats for cc-sessions](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cc-sessions\&username=GWUDCAP\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Veraticus/cc-tools"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cc-tools.svg" alt="cc-tools"></a>\
-*High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.*\
-![GitHub Stats for cc-tools](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cc-tools\&username=Veraticus\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/nyatinte/ccexp"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccexp.svg" alt="ccexp"></a>\
-*Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.*\
-![GitHub Stats for ccexp](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccexp\&username=nyatinte\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/eckardt/cchistory"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cchistory.svg" alt="cchistory"></a>\
-*Like the shell history command but for your Claude Code sessions. Easily list all Bash or "Bash-mode" (`!`) commands Claude Code ran in a session for reference.*\
-![GitHub Stats for cchistory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cchistory\&username=eckardt\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Brads3290/cclogviewer"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cclogviewer.svg" alt="cclogviewer"></a>\
-*A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.*\
-![GitHub Stats for cclogviewer](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cclogviewer\&username=Brads3290\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/davila7/claude-code-templates"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-templates.svg" alt="Claude Code Templates"></a>\
-*Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.*\
-![GitHub Stats for claude-code-templates](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-templates\&username=davila7\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/possibilities/claude-composer"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-composer.svg" alt="Claude Composer"></a>\
-*A tool that adds small enhancements to Claude Code.*\
-![GitHub Stats for claude-composer](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-composer\&username=possibilities\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/claude-did-this/claude-hub"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-hub.svg" alt="Claude Hub"></a>\
-*A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.*\
-![GitHub Stats for claude-hub](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hub\&username=claude-did-this\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/pchalasani/claude-code-tools"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-tools.svg" alt="claude-code-tools"></a>\
-*A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.*\
-![GitHub Stats for claude-code-tools](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-tools\&username=pchalasani\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/serpro69/claude-starter-kit"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-starter-kit.svg" alt="claude-starter-kit"></a>\
-*This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.*\
-![GitHub Stats for claude-starter-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-starter-kit\&username=serpro69\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/carlrannaberg/claudekit"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudekit.svg" alt="claudekit"></a>\
-*Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.*\
-![GitHub Stats for claudekit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudekit\&username=carlrannaberg\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/dagger/container-use"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-container-use.svg" alt="Container Use"></a>\
-*Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.*\
-![GitHub Stats for container-use](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=container-use\&username=dagger\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/FlineDev/ContextKit"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-contextkit.svg" alt="ContextKit"></a>\
-*A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.*\
-![GitHub Stats for ContextKit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ContextKit\&username=FlineDev\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/zippoxer/recall"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-recall.svg" alt="recall"></a>\
-*Full-text search your Claude Code sessions. Run `recall` in terminal, type to search, Enter to resume. Alternative to `claude --resume`.*\
-![GitHub Stats for recall](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=recall\&username=zippoxer\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/dyoshikawa/rulesync"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-rulesync.svg" alt="Rulesync"></a>\
-*A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.*\
-![GitHub Stats for rulesync](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=rulesync\&username=dyoshikawa\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/icanhasjonas/run-claude-docker"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-run-claude-docker.svg" alt="run-claude-docker"></a>\
-*A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.*\
-![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker\&username=icanhasjonas\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/marcindulak/stt-mcp-server-linux"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-stt-mcp-server-linux.svg" alt="stt-mcp-server-linux"></a>\
-*A push-to-talk speech transcription setup for Linux using a Python MCP server. Runs locally in Docker with no external API calls. Your speech is recorded, transcribed into text, and then sent to Claude running in a Tmux session.*\
-![GitHub Stats for stt-mcp-server-linux](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=stt-mcp-server-linux\&username=marcindulak\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/SuperClaude-Org/SuperClaude_Framework"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-superclaude.svg" alt="SuperClaude"></a>\
-*A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".*\
-![GitHub Stats for SuperClaude\_Framework](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=SuperClaude_Framework\&username=SuperClaude-Org\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Piebald-AI/tweakcc"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tweakcc.svg" alt="tweakcc"></a>\
-*Command-line tool to customize your Claude Code styling.*\
-![GitHub Stats for tweakcc](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tweakcc\&username=Piebald-AI\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/vibe-log/vibe-log-cli"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-vibe-log.svg" alt="Vibe-Log"></a>\
-*Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.*\
-![GitHub Stats for vibe-log-cli](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=vibe-log-cli\&username=vibe-log\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/OverseedAI/viwo"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-viwo-cli.svg" alt="viwo-cli"></a>\
-*Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.*\
-![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo\&username=OverseedAI\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/mbailey/voicemode"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-voicemode-mcp.svg" alt="VoiceMode MCP"></a>\
-*VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).*\
-![GitHub Stats for voicemode](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=voicemode\&username=mbailey\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="ide-integrations-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_ide_integrations.svg" alt="IDE Integrations" align="absmiddle"></picture></span></summary>
-
-<a href="https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-chat.svg" alt="Claude Code Chat"></a>\
-*An elegant and user-friendly Claude Code chat interface for VS Code.*
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/manzaltu/claude-code-ide.el"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-ide-el.svg" alt="claude-code-ide.el"></a>\
-*claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code/IntelliJ extensions. It shows ediff-based code suggestions, pulls LSP/flymake/flycheck diagnostics, and tracks buffer context. It adds an extensible MCP tool support for symbol refs/defs, project metadata, and tree-sitter AST queries.*\
-![GitHub Stats for claude-code-ide.el](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-ide.el\&username=manzaltu\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/stevemolitor/claude-code.el"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-el.svg" alt="claude-code.el"></a>\
-*An Emacs interface for Claude Code CLI.*\
-![GitHub Stats for claude-code.el](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code.el\&username=stevemolitor\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/greggh/claude-code.nvim"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-nvim.svg" alt="claude-code.nvim"></a>\
-*A seamless integration between Claude Code AI assistant and Neovim.*\
-![GitHub Stats for claude-code.nvim](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code.nvim\&username=greggh\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Haleclipse/Claudix"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudix-claude-code-for-vscode.svg" alt="Claudix - Claude Code for VSCode"></a>\
-*A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.*\
-![GitHub Stats for Claudix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudix\&username=Haleclipse\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/stravu/crystal"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-crystal.svg" alt="crystal"></a>\
-*A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.*\
-![GitHub Stats for crystal](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=crystal\&username=stravu\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="usage-monitors-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_usage_monitors.svg" alt="Usage Monitors" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/ryoppippi/ccusage"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cc-usage.svg" alt="CC Usage"></a>\
-*Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.*\
-![GitHub Stats for ccusage](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccusage\&username=ryoppippi\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/snipeship/ccflare"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccflare.svg" alt="ccflare"></a>\
-*Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.*\
-![GitHub Stats for ccflare](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccflare\&username=snipeship\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/tombii/better-ccflare/"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccflare-better-ccflare.svg" alt="ccflare -> **better-ccflare**"></a>\
-*A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.*\
-![GitHub Stats for better-ccflare](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=better-ccflare\&username=tombii\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-usage-monitor.svg" alt="Claude Code Usage Monitor"></a>\
-*A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.*\
-![GitHub Stats for Claude-Code-Usage-Monitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claude-Code-Usage-Monitor\&username=Maciek-roboblog\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/kunwar-shah/claudex"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudex.svg" alt="Claudex"></a>\
-*Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)*\
-![GitHub Stats for claudex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudex\&username=kunwar-shah\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/sculptdotfun/viberank"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-viberank.svg" alt="viberank"></a>\
-*A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.*\
-![GitHub Stats for viberank](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viberank\&username=sculptdotfun\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="orchestrators-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_orchestrators.svg" alt="Orchestrators" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/ruvnet/claude-code-flow"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-flow.svg" alt="Claude Code Flow"></a>\
-*This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.*\
-![GitHub Stats for claude-code-flow](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-flow\&username=ruvnet\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/smtg-ai/claude-squad"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-squad.svg" alt="Claude Squad"></a>\
-*Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.*\
-![GitHub Stats for claude-squad](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-squad\&username=smtg-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/parruda/claude-swarm"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-swarm.svg" alt="Claude Swarm"></a>\
-*Launch Claude Code session that is connected to a swarm of Claude Code Agents.*\
-![GitHub Stats for claude-swarm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-swarm\&username=parruda\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/eyaltoledano/claude-task-master"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-task-master.svg" alt="Claude Task Master"></a>\
-*A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.*\
-![GitHub Stats for claude-task-master](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-master\&username=eyaltoledano\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/grahama1970/claude-task-runner"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-task-runner.svg" alt="Claude Task Runner"></a>\
-*A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.*\
-![GitHub Stats for claude-task-runner](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-runner\&username=grahama1970\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/slopus/happy"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-happy-coder.svg" alt="Happy Coder"></a>\
-*Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.*\
-![GitHub Stats for happy](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=happy\&username=slopus\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/rsmdt/the-startup"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-the-agentic-startup.svg" alt="The Agentic Startup"></a>\
-*Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!*\
-![GitHub Stats for the-startup](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=the-startup\&username=rsmdt\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/dtormoen/tsk"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tsk-ai-agent-task-manager-and-sandbox.svg" alt="TSK - AI Agent Task Manager and Sandbox"></a>\
-*A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.*\
-![GitHub Stats for tsk](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tsk\&username=dtormoen\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
+## CLAUDE.md Files 📂
+
+> `CLAUDE.md` files are files that contain important guidelines and context-specific information or instructions that help Claude Code to better understand your project and your coding standards
+
+### Language-Specific
+
+*   [AI IntelliJ Plugin](https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md) by [didalgolab](https://github.com/didalgolab) - Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.
+*   [AWS MCP Server](https://github.com/alexei-led/aws-mcp-server/blob/main/CLAUDE.md) by [alexei-led](https://github.com/alexei-led) - Features multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.
+*   [DroidconKotlin](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md) by [touchlab](https://github.com/touchlab) - Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.
+*   [EDSL](https://github.com/hesreallyhim/awesome-claude-code/blob/main/resources/claude.md-files/EDSL/CLAUDE.md) by [expectedparrot](https://github.com/expectedparrot) - Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy. *(Removed from origin)*
+*   [Giselle](https://github.com/giselles-ai/giselle/blob/main/CLAUDE.md) by [giselles-ai](https://github.com/giselles-ai) - Provides detailed build and test commands using pnpm and Vitest with strict code formatting requirements and comprehensive naming conventions for code consistency.
+*   [HASH](https://github.com/hashintel/hash/blob/main/CLAUDE.md) by [hashintel](https://github.com/hashintel) - Features comprehensive repository structure breakdown with strong emphasis on coding standards, detailed Rust documentation guidelines, and systematic PR review process.
+*   [Inkline](https://github.com/inkline/inkline/blob/main/CLAUDE.md) by [inkline](https://github.com/inkline) - Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.
+*   [JSBeeb](https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md) by [mattgodbolt](https://github.com/mattgodbolt) - Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.
+*   [Lamoom Python](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) by [LamoomAI](https://github.com/LamoomAI) - Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.
+*   [LangGraphJS](https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md) by [langchain-ai](https://github.com/langchain-ai) - Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.
+*   [Metabase](https://github.com/metabase/metabase/blob/master/CLAUDE.md) by [metabase](https://github.com/metabase) - Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation.
+*   [SG Cars Trends Backend](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) by [sgcarstrends](https://github.com/sgcarstrends) - Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
+*   [SPy](https://github.com/spylang/spy/blob/main/CLAUDE.md) by [spylang](https://github.com/spylang) - Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
+*   [TPL](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) by [KarpelesLab](https://github.com/KarpelesLab) - Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.
+
+### Domain-Specific
+
+*   [AVS Vibe Developer Guide](https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md) by [Layr-Labs](https://github.com/Layr-Labs) - Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.
+*   [Comm](https://github.com/CommE2E/comm/blob/master/CLAUDE.md) by [CommE2E](https://github.com/CommE2E) - Serves as a development reference for E2E-encrypted messaging applications with code organization architecture, security implementation details, and testing procedures.
+*   [Course Builder](https://github.com/badass-courses/course-builder/blob/main/CLAUDE.md) by [badass-courses](https://github.com/badass-courses) - Enables real-time multiplayer capabilities for collaborative course creation with diverse tech stack integration and monorepo architecture using Turborepo.
+*   [Cursor Tools](https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md) by [eastlondoner](https://github.com/eastlondoner) - Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through "Stagehand" feature.
+*   [Guitar](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) by [soramimi](https://github.com/soramimi) - Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.
+*   [Network Chronicles](https://github.com/Fimeg/NetworkChronicles/blob/legacy-v1/CLAUDE.md) by [Fimeg](https://github.com/Fimeg) - Presents detailed implementation plan for AI-driven game characters with technical specifications for LLM integration, character guidelines, and service discovery mechanics.
+*   [Pareto Mac](https://github.com/ParetoSecurity/pareto-mac/blob/main/CLAUDE.md) by [ParetoSecurity](https://github.com/ParetoSecurity) - Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.
+*   [pre-commit-hooks](https://github.com/aRustyDev/pre-commit-hooks) by [aRustyDev](https://github.com/aRustyDev) - This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md`  files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
+*   [SteadyStart](https://github.com/steadycursor/steadystart/blob/main/CLAUDE.md) by [steadycursor](https://github.com/steadycursor) - Clear and direct instructives about style, permissions, Claude's "role", communications, and documentation of Claude Code sessions for other team members to stay abreast.
+
+### Project Scaffolding & MCP
+
+*   [Basic Memory](https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md) by [basicmachines-co](https://github.com/basicmachines-co) - Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.
+*   [claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/main/CLAUDE.md) by [grahama1970](https://github.com/grahama1970) - Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v1.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+## Alternative Clients 📱
 
-<h2 id="status-lines-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_status_lines.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_status_lines-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_status_lines-light-v3.svg" alt="Status Lines" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
+> Alternative Clients are alternative UIs and front-ends for interacting with Claude Code, either on mobile or on the desktop.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='status-lines-' align='center'>Status lines - Configurations and customizations for Claude Code's status bar functionality</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+### General
 
-<details id="general--3-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_3.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/Haleclipse/CCometixLine"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccometixline-claude-code-statusline.svg" alt="CCometixLine - Claude Code Statusline"></a>\
-*A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.*\
-![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine\&username=Haleclipse\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/sirmalloc/ccstatusline"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccstatusline.svg" alt="ccstatusline"></a>\
-*A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.*\
-![GitHub Stats for ccstatusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccstatusline\&username=sirmalloc\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/rz1989s/claude-code-statusline"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-statusline.svg" alt="claude-code-statusline"></a>\
-*Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring*\
-![GitHub Stats for claude-code-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-statusline\&username=rz1989s\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Owloops/claude-powerline"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-powerline.svg" alt="claude-powerline"></a>\
-*A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more*\
-![GitHub Stats for claude-powerline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-powerline\&username=Owloops\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/hagan/claudia-statusline"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudia-statusline.svg" alt="claudia-statusline"></a>\
-*High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO\_COLOR).*\
-![GitHub Stats for claudia-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudia-statusline\&username=hagan\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
+*   [Claudable](https://github.com/opactorai/Claudable) by [Ethan Park](https://www.linkedin.com/in/seongil-park/) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.
+*   [Omnara](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v2.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+## Official Documentation 🏛️
 
-<h2 id="hooks-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_hooks.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_hooks-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_hooks-light-v3.svg" alt="Hooks" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
+> Links to some of Anthropic's terrific documentation and resources regarding Claude Code
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='hooks-' align='center'>Hooks are a powerful API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
+### General
 
-<details id="general--4-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_4.svg" alt="General" align="absmiddle"></picture></span></summary>
+*   [Anthropic Documentation](https://docs.claude.com/en/home) by [Anthropic](https://github.com/anthropics) - The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
+*   [Anthropic Quickstarts](https://github.com/anthropics/claude-quickstarts) by [Anthropic](https://github.com/anthropics) - Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
+*   [Claude Code GitHub Actions](https://github.com/anthropics/claude-code-action/tree/main/examples) by [Anthropic](https://github.com/anthropics) - Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
 
-<a href="https://github.com/Talieisin/britfix"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-britfix.svg" alt="Britfix"></a>\
-*Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.*\
-![GitHub Stats for britfix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=britfix\&username=Talieisin\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+## Contributing [🔝](#awesome-claude-code)
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+### **[Recommend a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=recommend-resource.yml)**
 
-<a href="https://github.com/dazuiba/CCNotify"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cc-notify.svg" alt="CC Notify"></a>\
-*CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.*\
-![GitHub Stats for CCNotify](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCNotify\&username=dazuiba\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+Recommending a resource for the list is very simple, and the automated system handles everything for you. Please do not open a PR to submit a recommendation - the only person who is allowed to submit PRs to this repo is Claude.
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+Make sure that you have read the CONTRIBUTING.md document and CODE\_OF\_CONDUCT.md before you submit a recommendation.
 
-<a href="https://github.com/GowayLee/cchooks"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cchooks.svg" alt="cchooks"></a>\
-*A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files.*\
-![GitHub Stats for cchooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cchooks\&username=GowayLee\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
+For suggestions about the repository itself, please [open a repository enhancement issue](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=repository-enhancement.yml).
 
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+This project is released with a Code of Conduct. By participating, you agree to abide by its terms. And although I take strong measures to uphold the quality and safety of this list, I take no responsibility or liability for anything that might happen as a result of these third-party resources.
 
-<a href="https://github.com/beyondcode/claude-hooks-sdk"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-hooks-sdk.svg" alt="claude-code-hooks-sdk"></a>\
-*A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.*\
-![GitHub Stats for claude-hooks-sdk](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hooks-sdk\&username=beyondcode\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/johnlindquist/claude-hooks"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-hooks.svg" alt="claude-hooks"></a>\
-*A TypeScript-based system for configuring and customizing Claude Code hooks with a powerful and flexible interface.*\
-![GitHub Stats for claude-hooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hooks\&username=johnlindquist\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/ctoth/claudio"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudio.svg" alt="Claudio"></a>\
-*A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.*\
-![GitHub Stats for claudio](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudio\&username=ctoth\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/fcakyon/claude-codex-settings/tree/main/.claude/hooks"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-fcakyon-collection-code-quality-and-tool-usage.svg" alt="fcakyon Collection (Code Quality and Tool Usage)"></a>\
-*Very well-written set of hooks for code quality and tool usage regulation (e.g. force Tavily over WebFetch tool).*\
-![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings\&username=fcakyon\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/nizos/tdd-guard"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tdd-guard.svg" alt="TDD Guard"></a>\
-*A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.*\
-![GitHub Stats for tdd-guard](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tdd-guard\&username=nizos\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/bartolli/claude-code-typescript-hooks"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-typescript-quality-hooks.svg" alt="TypeScript Quality Hooks"></a>\
-*Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.*\
-![GitHub Stats for claude-code-typescript-hooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-typescript-hooks\&username=bartolli\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v3.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<h2 id="slash-commands-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_slash_commands.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_slash_commands-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_slash_commands-light-v3.svg" alt="Slash-Commands" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='slash-commands-' align='center'>"Slash Commands are customized, carefully refined prompts that control Claude's behavior in order to perform a specific task"</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<details id="general--5-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_5.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-hook.svg" alt="/create-hook"></a>\
-*Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).*\
-![GitHub Stats for automated-notebooklm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=automated-notebooklm\&username=omril321\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-linux-desktop-slash-commands.svg" alt="/linux-desktop-slash-commands"></a>\
-*A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.*\
-![GitHub Stats for Claude-Code-Linux-Desktop-Slash-Commands](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claude-Code-Linux-Desktop-Slash-Commands\&username=danielrosehill\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="version-control--git-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_version_control_git.svg" alt="Version Control & Git" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-analyze-issue.svg" alt="/analyze-issue"></a>\
-*Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.*\
-![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor\&username=jerseycheese\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/commit.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-commit.svg" alt="/commit"></a>\
-*Creates git commits using conventional commit format with appropriate emojis, following project standards and creating descriptive messages that explain the purpose of changes.*\
-![GitHub Stats for tevm-monorepo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tevm-monorepo\&username=evmts\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/steadycursor/steadystart/blob/main/.claude/commands/2-commit-fast.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-commit-fast.svg" alt="/commit-fast"></a>\
-*Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer*\
-![GitHub Stats for steadystart](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=steadystart\&username=steadycursor\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-pr.svg" alt="/create-pr"></a>\
-*Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.*\
-![GitHub Stats for giselle](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=giselle\&username=toyamarinyon\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-pull-request.svg" alt="/create-pull-request"></a>\
-*Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.*\
-![GitHub Stats for liam](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=liam\&username=liam-hq\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-worktrees.svg" alt="/create-worktrees"></a>\
-*Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.*\
-![GitHub Stats for tevm-monorepo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tevm-monorepo\&username=evmts\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-fix-github-issue.svg" alt="/fix-github-issue"></a>\
-*Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.*\
-![GitHub Stats for kotlinter-gradle](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=kotlinter-gradle\&username=jeremymailen\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/metabase/metabase/blob/master/.claude/commands/fix-issue.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-fix-issue.svg" alt="/fix-issue"></a>\
-*Addresses GitHub issues by taking issue number as parameter, analyzing context, implementing solution, and testing/validating the fix for proper integration.*\
-![GitHub Stats for metabase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=metabase\&username=metabase\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/metabase/metabase/blob/master/.claude/commands/fix-pr.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-fix-pr.svg" alt="/fix-pr"></a>\
-*Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.*\
-![GitHub Stats for metabase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=metabase\&username=metabase\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/husky.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-husky.svg" alt="/husky"></a>\
-*Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.*\
-![GitHub Stats for tevm-monorepo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tevm-monorepo\&username=evmts\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-update-branch-name.svg" alt="/update-branch-name"></a>\
-*Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.*\
-![GitHub Stats for giselle](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=giselle\&username=giselles-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="code-analysis--testing-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_code_analysis_testing.svg" alt="Code Analysis & Testing" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-check.svg" alt="/check"></a>\
-*Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.*\
-![GitHub Stats for slack-tools](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=slack-tools\&username=rygwdn\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/kingler/n8n_agent/blob/main/.claude/commands/code_analysis.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-code-analysis.svg" alt="/code_analysis"></a>\
-*Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.*\
-![GitHub Stats for n8n\_agent](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=n8n_agent\&username=kingler\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-optimize.svg" alt="/optimize"></a>\
-*Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.*\
-![GitHub Stats for ai-project-rules](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ai-project-rules\&username=to4iki\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-repro-issue.svg" alt="/repro-issue"></a>\
-*Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.*\
-![GitHub Stats for metabase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=metabase\&username=rzykov\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tdd.svg" alt="/tdd"></a>\
-*Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.*\
-![GitHub Stats for pane](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=pane\&username=zscott\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tdd-implement.svg" alt="/tdd-implement"></a>\
-*Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.*\
-![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor\&username=jerseycheese\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="context-loading--priming-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_context_loading_priming.svg" alt="Context Loading & Priming" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-context-prime.svg" alt="/context-prime"></a>\
-*Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.*\
-![GitHub Stats for elizaos.github.io](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=elizaos.github.io\&username=elizaOS\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-initref.svg" alt="/initref"></a>\
-*Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.*\
-![GitHub Stats for cubestat](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cubestat\&username=okuvshynov\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-load-llms-txt.svg" alt="/load-llms-txt"></a>\
-*Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.*\
-![GitHub Stats for xatu-data](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=xatu-data\&username=ethpandaops\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_coo_context.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-load-coo-context.svg" alt="/load_coo_context"></a>\
-*References specific files for sparse matrix operations, explains transform usage, compares with previous approaches, and sets data formatting context for development.*\
-![GitHub Stats for torchcell](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=torchcell\&username=Mjvolk3\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_dango_pipeline.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-load-dango-pipeline.svg" alt="/load_dango_pipeline"></a>\
-*Sets context for model training by referencing pipeline files, establishing working context, and preparing for pipeline work with relevant documentation.*\
-![GitHub Stats for torchcell](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=torchcell\&username=Mjvolk3\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/yzyydev/AI-Engineering-Structure/blob/main/.claude/commands/prime.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-prime.svg" alt="/prime"></a>\
-*Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.*\
-![GitHub Stats for AI-Engineering-Structure](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=AI-Engineering-Structure\&username=yzyydev\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-rsi.svg" alt="/rsi"></a>\
-*Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.*\
-![GitHub Stats for si](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=si\&username=ddisisto\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="documentation--changelogs-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_documentation_changelogs.svg" alt="Documentation & Changelogs" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-add-to-changelog.svg" alt="/add-to-changelog"></a>\
-*Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.*\
-![GitHub Stats for blockdoc-python](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=blockdoc-python\&username=berrydev-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/create-docs.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-docs.svg" alt="/create-docs"></a>\
-*Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.*\
-![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor\&username=jerseycheese\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/slunsford/coffee-analytics/blob/main/.claude/commands/docs.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-docs.svg" alt="/docs"></a>\
-*Generates comprehensive documentation that follows project structure, documenting APIs and usage patterns with consistent formatting for better user understanding.*\
-![GitHub Stats for coffee-analytics](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=coffee-analytics\&username=slunsford\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/explain-issue-fix.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-explain-issue-fix.svg" alt="/explain-issue-fix"></a>\
-*Documents solution approaches for GitHub issues, explaining technical decisions, detailing challenges overcome, and providing implementation context for better understanding.*\
-![GitHub Stats for toban-contribution-viewer](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=toban-contribution-viewer\&username=hackdays-io\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-update-docs.svg" alt="/update-docs"></a>\
-*Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.*\
-![GitHub Stats for Flutter-Structurizr](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Flutter-Structurizr\&username=Consiliency\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="ci--deployment-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_ci_deployment.svg" alt="CI / Deployment" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/kelp/webdown/blob/main/.claude/commands/release.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-release.svg" alt="/release"></a>\
-*Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.*\
-![GitHub Stats for webdown](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=webdown\&username=kelp\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/run-ci.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-run-ci.svg" alt="/run-ci"></a>\
-*Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.*\
-![GitHub Stats for toban-contribution-viewer](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=toban-contribution-viewer\&username=hackdays-io\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="project--task-management-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_project_task_management.svg" alt="Project & Task Management" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/scopecraft/command/blob/main/.claude/commands/create-command.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-command.svg" alt="/create-command"></a>\
-*Guides Claude through creating new custom commands with proper structure by analyzing requirements, templating commands by category, enforcing command standards, and creating supporting documentation.*\
-![GitHub Stats for command](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=command\&username=scopecraft\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-jtbd.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-jtbd.svg" alt="/create-jtbd"></a>\
-*Creates Jobs-to-be-Done frameworks that outline user needs with structured format, focusing on specific user problems and organizing by job categories for product development.*\
-![GitHub Stats for inkverse](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=inkverse\&username=taddyorg\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/taddyorg/inkverse/blob/main/.claude/commands/create-prd.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-prd.svg" alt="/create-prd"></a>\
-*Generates comprehensive product requirement documents outlining detailed specifications, requirements, and features following standardized document structure and format.*\
-![GitHub Stats for inkverse](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=inkverse\&username=taddyorg\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Wirasm/claudecode-utils/blob/main/.claude/commands/create-prp.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-create-prp.svg" alt="/create-prp"></a>\
-*Creates product requirement plans by reading PRP methodology, following template structure, creating comprehensive requirements, and structuring product definitions for development.*\
-![GitHub Stats for claudecode-utils](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudecode-utils\&username=Wirasm\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/do-issue.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-do-issue.svg" alt="/do-issue"></a>\
-*Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.*\
-![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor\&username=jerseycheese\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-project-hello-w-name.svg" alt="/project_hello_w_name"></a>\
-*Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.*\
-![GitHub Stats for just-prompt](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=just-prompt\&username=disler\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-todo.svg" alt="/todo"></a>\
-*A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.*\
-![GitHub Stats for todo-slash-command](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=todo-slash-command\&username=chrisleyva\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="miscellaneous-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_miscellaneous.svg" alt="Miscellaneous" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-fixing-go-in-graph.svg" alt="/fixing_go_in_graph"></a>\
-*Focuses on Gene Ontology annotation integration in graph databases, handling multiple data sources, addressing graph representation issues, and ensuring correct data incorporation.*\
-![GitHub Stats for torchcell](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=torchcell\&username=Mjvolk3\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-mermaid.svg" alt="/mermaid"></a>\
-*Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.*\
-![GitHub Stats for lana-bank](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=lana-bank\&username=GaloyMoney\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/review_dcell_model.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-review-dcell-model.svg" alt="/review_dcell_model"></a>\
-*Reviews old Dcell implementation files, comparing with newer Dango model, noting changes over time, and analyzing refactoring approaches for better code organization.*\
-![GitHub Stats for torchcell](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=torchcell\&username=Mjvolk3\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/zuplo/docs/blob/main/.claude/commands/use-stepper.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-use-stepper.svg" alt="/use-stepper"></a>\
-*Reformats documentation to use React Stepper component, transforming heading formats, applying proper indentation, and maintaining markdown compatibility with admonition formatting.*\
-![GitHub Stats for docs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=docs\&username=zuplo\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v1.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<h2 id="claudemd-files-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_claudemd_files.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_claudemd_files-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_claudemd_files-light-v3.svg" alt="CLAUDE.md Files" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='claudemd-files-' align='center'>`CLAUDE.md` files are files that contain important guidelines and context-specific information or instructions that help Claude Code to better understand your project and your coding standards</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<details id="language-specific-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_language_specific.svg" alt="Language-Specific" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ai-intellij-plugin.svg" alt="AI IntelliJ Plugin"></a>\
-*Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.*\
-![GitHub Stats for ai-intellij-plugin](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ai-intellij-plugin\&username=didalgolab\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/alexei-led/aws-mcp-server/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-aws-mcp-server.svg" alt="AWS MCP Server"></a>\
-*Features multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.*\
-![GitHub Stats for aws-mcp-server](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=aws-mcp-server\&username=alexei-led\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-droidconkotlin.svg" alt="DroidconKotlin"></a>\
-*Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.*\
-![GitHub Stats for DroidconKotlin](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=DroidconKotlin\&username=touchlab\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/hesreallyhim/awesome-claude-code/blob/main/resources/claude.md-files/EDSL/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-edsl.svg" alt="EDSL"></a>\
-*Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.*\*\ <sub>\* Removed from origin</sub>
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/giselles-ai/giselle/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-giselle.svg" alt="Giselle"></a>\
-*Provides detailed build and test commands using pnpm and Vitest with strict code formatting requirements and comprehensive naming conventions for code consistency.*\
-![GitHub Stats for giselle](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=giselle\&username=giselles-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/hashintel/hash/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-hash.svg" alt="HASH"></a>\
-*Features comprehensive repository structure breakdown with strong emphasis on coding standards, detailed Rust documentation guidelines, and systematic PR review process.*\
-![GitHub Stats for hash](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=hash\&username=hashintel\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/inkline/inkline/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-inkline.svg" alt="Inkline"></a>\
-*Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.*\
-![GitHub Stats for inkline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=inkline\&username=inkline\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-jsbeeb.svg" alt="JSBeeb"></a>\
-*Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.*\
-![GitHub Stats for jsbeeb](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=jsbeeb\&username=mattgodbolt\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-lamoom-python.svg" alt="Lamoom Python"></a>\
-*Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.*\
-![GitHub Stats for lamoom-python](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=lamoom-python\&username=LamoomAI\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-langgraphjs.svg" alt="LangGraphJS"></a>\
-*Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.*\
-![GitHub Stats for langgraphjs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=langgraphjs\&username=langchain-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/metabase/metabase/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-metabase.svg" alt="Metabase"></a>\
-*Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation.*\
-![GitHub Stats for metabase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=metabase\&username=metabase\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-sg-cars-trends-backend.svg" alt="SG Cars Trends Backend"></a>\
-*Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.*\
-![GitHub Stats for backend](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=backend\&username=sgcarstrends\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/spylang/spy/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-spy.svg" alt="SPy"></a>\
-*Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.*\
-![GitHub Stats for spy](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=spy\&username=spylang\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-tpl.svg" alt="TPL"></a>\
-*Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.*\
-![GitHub Stats for tpl](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tpl\&username=KarpelesLab\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="domain-specific-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_domain_specific.svg" alt="Domain-Specific" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-avs-vibe-developer-guide.svg" alt="AVS Vibe Developer Guide"></a>\
-*Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.*\
-![GitHub Stats for avs-vibe-developer-guide](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=avs-vibe-developer-guide\&username=Layr-Labs\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/CommE2E/comm/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-comm.svg" alt="Comm"></a>\
-*Serves as a development reference for E2E-encrypted messaging applications with code organization architecture, security implementation details, and testing procedures.*\
-![GitHub Stats for comm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=comm\&username=CommE2E\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/badass-courses/course-builder/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-course-builder.svg" alt="Course Builder"></a>\
-*Enables real-time multiplayer capabilities for collaborative course creation with diverse tech stack integration and monorepo architecture using Turborepo.*\
-![GitHub Stats for course-builder](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=course-builder\&username=badass-courses\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-cursor-tools.svg" alt="Cursor Tools"></a>\
-*Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through "Stagehand" feature.*\
-![GitHub Stats for cursor-tools](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cursor-tools\&username=eastlondoner\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/soramimi/Guitar/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-guitar.svg" alt="Guitar"></a>\
-*Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.*\
-![GitHub Stats for Guitar](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Guitar\&username=soramimi\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Fimeg/NetworkChronicles/blob/legacy-v1/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-network-chronicles.svg" alt="Network Chronicles"></a>\
-*Presents detailed implementation plan for AI-driven game characters with technical specifications for LLM integration, character guidelines, and service discovery mechanics.*\
-![GitHub Stats for NetworkChronicles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=NetworkChronicles\&username=Fimeg\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/different-ai/note-companion/blob/master/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-note-companion.svg" alt="Note Companion"></a>\
-*Provides detailed styling isolation techniques for Obsidian plugins using Tailwind with custom prefix to prevent style conflicts and practical troubleshooting steps.*\
-![GitHub Stats for note-companion](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=note-companion\&username=different-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/ParetoSecurity/pareto-mac/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-pareto-mac.svg" alt="Pareto Mac"></a>\
-*Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.*\
-![GitHub Stats for pareto-mac](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=pareto-mac\&username=ParetoSecurity\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/steadycursor/steadystart/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-steadystart.svg" alt="SteadyStart"></a>\
-*Clear and direct instructives about style, permissions, Claude's "role", communications, and documentation of Claude Code sessions for other team members to stay abreast.*\
-![GitHub Stats for steadystart](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=steadystart\&username=steadycursor\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<details id="project-scaffolding--mcp-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_project_scaffolding_mcp.svg" alt="Project Scaffolding & MCP" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-basic-memory.svg" alt="Basic Memory"></a>\
-*Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.*\
-![GitHub Stats for basic-memory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=basic-memory\&username=basicmachines-co\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/grahama1970/claude-code-mcp-enhanced/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-mcp-enhanced.svg" alt="claude-code-mcp-enhanced"></a>\
-*Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.*\
-![GitHub Stats for claude-code-mcp-enhanced](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-mcp-enhanced\&username=grahama1970\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/Family-IT-Guy/perplexity-mcp/blob/main/CLAUDE.md"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-perplexity-mcp.svg" alt="Perplexity MCP"></a>\
-*Offers clear step-by-step installation instructions with multiple configuration options, detailed troubleshooting guidance, and concise architecture overview of the MCP protocol.*\
-![GitHub Stats for perplexity-mcp](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=perplexity-mcp\&username=Family-IT-Guy\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v2.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<h2 id="alternative-clients-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_alternative_clients.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_alternative_clients-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_alternative_clients-light-v3.svg" alt="Alternative Clients" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='alternative-clients-' align='center'>Alternative Clients are alternative UIs and front-ends for interacting with Claude Code, either on mobile or on the desktop.</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<details id="general--6-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_6.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://github.com/opactorai/Claudable"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claudable.svg" alt="Claudable"></a>\
-*Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.*\
-![GitHub Stats for Claudable](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudable\&username=opactorai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/omnara-ai/omnara"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-omnara.svg" alt="Omnara"></a>\
-*A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.*\
-![GitHub Stats for omnara](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=omnara\&username=omnara-ai\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/section-divider-light-manual-v3.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<h2 id="official-documentation-">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_official_documentation.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_official_documentation-light-v3.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/header_official_documentation-light-v3.svg" alt="Official Documentation" style="max-width: 600px;">
-  </picture>
-</div>
-</h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-top.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-top-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-top-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-<h3 id='official-documentation-' align='center'>Links to some of Anthropic's terrific documentation and resources regarding Claude Code
-
-<!--lint disable double-link--></h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/desc-box-bottom-light.svg">
-    <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/desc-box-bottom-light.svg" alt="" width="100%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<details id="general--7-">
-<summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_general_7.svg" alt="General" align="absmiddle"></picture></span></summary>
-
-<a href="https://docs.claude.com/en/home"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-anthropic-documentation.svg" alt="Anthropic Documentation"></a>\
-*The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.*
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/anthropics/claude-quickstarts"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-anthropic-quickstarts.svg" alt="Anthropic Quickstarts"></a>\
-*Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.*\
-![GitHub Stats for claude-quickstarts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-quickstarts\&username=anthropics\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-<a href="https://github.com/anthropics/claude-code-action/tree/main/examples"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-github-actions.svg" alt="Claude Code GitHub Actions"></a>\
-*Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.*\
-![GitHub Stats for claude-code-action](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-action\&username=anthropics\&all_stats=true\&stats_only=true\&hide_border=true\&bg_color=00000000\&icon_color=FF0000\&text_color=FF0000)
-
-<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
-
-</details>
-
-<div align="center">
-<img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/honorable-mentions-header-light.svg" alt="Directory Listing">
-</div>
-
-[`prpm`](https://prpm.dev/)   by   [khaliqgant](https://github.com/khaliqgant)
-
-`prpm` is like a plugin marketplace, but with additional support for other providers and coding agents. After I notified khaliqgant that I was unable to find any license information for third-party resources that he was hosting on his website, he immediately took action and added a great enhancement to the website's UI, with direct links to original authors' LICENSE files. In my opinion, this is a pretty awesome thing to do to show support for the open source community, and for the developers featured on this list. I see some marketplaces on the internet where basic attribution rights are not being respected, so I commend khaliqgant for setting a great example with [`prpm`](https://prpm.dev/), and I encourage others to promote and enforce these rights in the service of open source software.
-
-## Contributing 🌻 [🔝](#awesome-claude-code)
-
-### 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
-
-It's easy! Just click the link above and fill out the form. No Git knowledge required - our automated system handles everything for you.
-
-**How we evaluate submissions**
-
-*   First and foremost, best efforts are made to ensure that any resource on this list is free of malware, bloatware, or other unwanted risks.
-*   Second, being a *curated* list, every entry is manually evaluated and "tested out" to see if it actually delivers value to Claude Code users. If you want an *un-curated* list, you can find many great resources [here](https://github.com/search?q=%22claude+code%22\&type=repositories\&s=stars\&o=desc).
-
-See [CONTRIBUTING.md](https://github.com/hesreallyhim/awesome-claude-code/blob/main/CONTRIBUTING.md) for the complete submission guide and review process.
-
-For suggestions about the repository itself, please [open a general issue](https://github.com/hesreallyhim/awesome-claude-code/issues/new).
-
-This project is released with a [Contributor Code of Conduct](https://github.com/hesreallyhim/awesome-claude-code/blob/main/code-of-conduct.md). By participating, you agree to abide by its terms. And although I take strong measures to uphold the quality and safety of this list, I take no responsibility or liability for anything bad that might happen as a result of these third-party resources.
-
-## Growing thanks to you ❤️
+## Growing thanks to you
 
 [![Stargazers over time](https://starchart.cc/hesreallyhim/awesome-claude-code.svg?variant=adaptive)](https://starchart.cc/hesreallyhim/awesome-claude-code)
 
 ## License
 
-This list is licensed under a somewhat restrictive license: [Creative Commons CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - this means you are welcome to fork, clone, copy and redistribute the list, provided you include appropriate attribution; however you are not permitted to distribute any modified versions - and you are not permitted to use it for any commercial purposes. This is to prevent unlawful appropriation of the work of the authors whose resources are listed here, an issue which has arisen in the past. Please note that **all resources included in this list have their own license terms** - if you wish to incorporate those authors' works into your *own* product, it would be really nice to do so according to the terms that *those authors* have set out.
+This list is licensed under [Creative Commons CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - this means you are welcome to fork, clone, copy and redistribute the list, provided you include appropriate attribution; however you are not permitted to distribute any modified versions or to use it for any commercial purposes. This is to prevent disregard for the licenses of the authors whose resources are listed here. Please note that all resources included in this list have their own license terms.
+
+<!-- OBLIGATORY GUARD AGAINST SILLY END-OF-FILE PROBLEM -->
 

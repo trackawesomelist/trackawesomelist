@@ -2,9 +2,16 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 697 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 1.1K · 🏷️ Decentralized Systems
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / Weekly / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
+
+## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+
+### Blockchains for autonomous agents / Blockchain projects for AI algorithms
+
+*   [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
@@ -93,8 +100,8 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
-*   [Danku (⭐147)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐511)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Danku (⭐150)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+*   [Decentralized & Collaborative AI on Blockchain (⭐602)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ### Blockchains for AI in medicine / Blockchain projects for AI algorithms
 

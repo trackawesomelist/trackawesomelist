@@ -2,9 +2,31 @@
 
 :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) · ⭐ 3.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) · ⭐ 3.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/unicodeveloper/awesome-opensource-apps/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
+
+## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+
+### Electron
+
+- Name: [ShellLeap (⭐0)](https://github.com/shareefsakk2/shellleap)
+
+  Description: Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault
+
+  Link: <https://shareefsakk2.github.io/shellleap/>
+
+
+
+### Lua
+
+- Name: [BunkerWeb (⭐9.9k)](https://github.com/bunkerity/bunkerweb)
+
+  Description: A next-generation, open-source Web Application Firewall (WAF).
+
+  Link: <https://www.bunkerweb.io>
+
+
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -22,7 +44,7 @@
 
 ### Rails
 
-- Name: [Cartes.io API (⭐125)](https://github.com/M-Media-Group/Cartes.io)
+- Name: [Cartes.io API (⭐126)](https://github.com/M-Media-Group/Cartes.io)
 
   Description: Free, anonymous, and live maps for anyone and everything.
 
@@ -68,11 +90,11 @@
 
 ### C#
 
-- Name: [Libation (⭐4.8k)](https://github.com/rmcrackan/Libation)
+- Name: [Libation (⭐5.2k)](https://github.com/rmcrackan/Libation)
 
   Description: Audible Audiobook manager and library.
 
-  Link: [https://github.com/rmcrackan/Libation (⭐4.8k)](https://github.com/rmcrackan/Libation)
+  Link: [https://github.com/rmcrackan/Libation (⭐5.2k)](https://github.com/rmcrackan/Libation)
 
 
 
@@ -84,7 +106,7 @@
 
   Description: Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice.
 
-  Link: [https://github.com/kopia/kopia (⭐12k)](https://github.com/kopia/kopia)
+  Link: [https://github.com/kopia/kopia (⭐13k)](https://github.com/kopia/kopia)
 
 
 
@@ -227,7 +249,7 @@
 
 ### ReactJS
 
-- Name: [Feednext (⭐323)](https://github.com/feednext/feednext)
+- Name: [Feednext (⭐321)](https://github.com/feednext/feednext)
 
   Description: A central source of object reviewing
 
@@ -263,7 +285,7 @@
 
 ### VueJS
 
-- Name: [vue-music163 (⭐95)](https://github.com/pluto1114/vue-music163)
+- Name: [vue-music163 (⭐96)](https://github.com/pluto1114/vue-music163)
 
   Description: A Vue.js app for music
 
@@ -297,7 +319,7 @@
 
 ### React Native
 
-- Name: [Ulangi (⭐450)](https://github.com/ulangi/ulangi)
+- Name: [Ulangi (⭐451)](https://github.com/ulangi/ulangi)
 
   Description: A flashcard app to learn language with different learning methods
 
@@ -309,7 +331,7 @@
 
 ### ReactJS
 
-- Name: [Filestash (⭐13k)](https://github.com/mickael-kerjean/filestash)
+- Name: [Filestash (⭐14k)](https://github.com/mickael-kerjean/filestash)
 
   Description: A Dropbox like file manager built in React
 
@@ -321,7 +343,7 @@
 
 ### Meteor
 
-- Name: [titra (⭐437)](https://github.com/kromitgmbh/titra)
+- Name: [titra (⭐456)](https://github.com/kromitgmbh/titra)
 
   Description: An open source project time-tracking app
 
@@ -345,7 +367,7 @@
 
 ### Django
 
-- Name: [Travel Mate Server (⭐50)](https://github.com/project-travel-mate/server)
+- Name: [Travel Mate Server (⭐51)](https://github.com/project-travel-mate/server)
 
   Description: Django based document management system with OCR, indexing, full text searching, previewing and more
 
@@ -385,7 +407,7 @@
 
 ### VueJS
 
-- Name: [vue-handsontable-official (⭐743)](https://github.com/handsontable/vue-handsontable-official)
+- Name: [vue-handsontable-official (⭐740)](https://github.com/handsontable/vue-handsontable-official)
 
   Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
 
@@ -464,7 +486,7 @@
 
 ### Laravel
 
-- Name: [AbuseIO (⭐228)](https://github.com/AbuseIO/AbuseIO)
+- Name: [AbuseIO (⭐227)](https://github.com/AbuseIO/AbuseIO)
 
   Description: Abuse Management for network operators
 
@@ -488,7 +510,7 @@
 
 ### Android
 
-- Name: [Easy Password (⭐35)](https://github.com/hanjoongcho/aaf-easypassword)
+- Name: [Easy Password (⭐36)](https://github.com/hanjoongcho/aaf-easypassword)
 
   Description: A password manager using a single lock pattern for various type passwords management.
 
@@ -500,7 +522,7 @@
 
 ### Laravel
 
-- Name: [Akaunting (⭐9.3k)](https://github.com/akaunting/akaunting)
+- Name: [Akaunting (⭐9.6k)](https://github.com/akaunting/akaunting)
 
   Description: Free and Online Accounting Software
 
@@ -512,7 +534,7 @@
 
 ### React Native
 
-- Name: [Standard Notes (⭐823)](https://github.com/standardnotes/mobile)
+- Name: [Standard Notes (⭐821)](https://github.com/standardnotes/mobile)
 
   Description: A simple and private notes app
 
@@ -524,7 +546,7 @@
 
 ### Laravel
 
-- Name: [Admin Architect (⭐213)](http://github.com/adminarchitect/core)
+- Name: [Admin Architect (⭐212)](http://github.com/adminarchitect/core)
 
   Description: Administration Framework. Active Admin for Laravel
 
@@ -599,7 +621,7 @@
 
 ### Android
 
-- Name: [Easy Diary (⭐518)](https://github.com/hanjoongcho/aaf-easydiary)
+- Name: [Easy Diary (⭐530)](https://github.com/hanjoongcho/aaf-easydiary)
 
   Description: This is a diary application optimized to user experience.
 
@@ -814,7 +836,7 @@
   Link: <https://soundredux.io>
 
 
-- Name: [React-Powered Hacker News Client (⭐2.2k)](https://github.com/insin/react-hn)
+- Name: [React-Powered Hacker News Client (⭐2.3k)](https://github.com/insin/react-hn)
 
   Description: React-Powered Hacker News Client
 
@@ -901,7 +923,7 @@
   Link: 
 
 
-- Name: [SЁCU (⭐34)](https://github.com/secusu/secusu)
+- Name: [SЁCU (⭐33)](https://github.com/secusu/secusu)
 
   Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
 
@@ -948,7 +970,7 @@
   Link: 
 
 
-- Name: [Firefeed (⭐458)](https://github.com/firebase/firefeed)
+- Name: [Firefeed (⭐457)](https://github.com/firebase/firefeed)
 
   Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
 
@@ -994,7 +1016,7 @@
 
 ### Laravel
 
-- Name: [Airflix (⭐439)](https://github.com/wells/airflix)
+- Name: [Airflix (⭐438)](https://github.com/wells/airflix)
 
   Description: A near-netflix Clone
 
@@ -1051,14 +1073,14 @@
   Link: <https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched>
 
 
-- Name: [Project Frisbee (⭐264)](https://github.com/gdg-x/frisbee)
+- Name: [Project Frisbee (⭐265)](https://github.com/gdg-x/frisbee)
 
   Description: All GDG content in one place
 
   Link: <https://play.google.com/store/apps/details?id=org.gdg.frisbee.android>
 
 
-- Name: [Wallsplash (⭐790)](https://github.com/mikepenz/wallsplash-android)
+- Name: [Wallsplash (⭐787)](https://github.com/mikepenz/wallsplash-android)
 
   Description: Wallsplash is the cutting edge wallpaper app for your device!
 
@@ -1082,14 +1104,14 @@
 
 ### Laravel
 
-- Name: [Larasocial (⭐276)](https://github.com/msalom28/Larasocial)
+- Name: [Larasocial (⭐275)](https://github.com/msalom28/Larasocial)
 
   Description: A Social Network Application
 
   Link: <http://larasocial.info>
 
 
-- Name: [Aimeos (⭐8.4k)](https://github.com/aimeos/aimeos-laravel)
+- Name: [Aimeos (⭐8.5k)](https://github.com/aimeos/aimeos-laravel)
 
   Description: Ecommerce package for high performance online shops
 
@@ -1118,7 +1140,7 @@
   Link: 
 
 
-- Name: [CoasterCMS (⭐388)](https://github.com/web-feet/coastercms)
+- Name: [CoasterCMS (⭐387)](https://github.com/web-feet/coastercms)
 
   Description: Coaster CMS Project
 
@@ -1142,14 +1164,14 @@
   Link: <http://www.django-cms.org>
 
 
-- Name: [Django-fiber (⭐666)](https://github.com/ridethepony/django-fiber)
+- Name: [Django-fiber (⭐665)](https://github.com/ridethepony/django-fiber)
 
   Description: A simple, user-friendly CMS for all your Django projects
 
   Link: <http://ridethepony.org>
 
 
-- Name: [Feincms (⭐1k)](https://github.com/feincms/feincms)
+- Name: [Feincms (⭐1.1k)](https://github.com/feincms/feincms)
 
   Description: A Django-based CMS with a focus on extensibility and concise code
 
@@ -1189,7 +1211,7 @@
   Link: <http://koel.phanan.net>
 
 
-- Name: [Laravel Tricks (⭐965)](https://github.com/CodepadME/laravel-tricks)
+- Name: [Laravel Tricks (⭐964)](https://github.com/CodepadME/laravel-tricks)
 
   Description: Laravel Tips and Tricks
 
@@ -1252,7 +1274,7 @@
   Link: 
 
 
-- Name: [Deployer (⭐916)](https://github.com/REBELinBLUE/deployer)
+- Name: [Deployer (⭐914)](https://github.com/REBELinBLUE/deployer)
 
   Description: A free and open source deployment tool
 
@@ -1293,7 +1315,7 @@
 
 ### Meteor
 
-- Name: [Rocket.Chat (⭐44k)](https://github.com/RocketChat/Rocket.Chat)
+- Name: [Rocket.Chat (⭐45k)](https://github.com/RocketChat/Rocket.Chat)
 
   Description: A web chat platform
 
@@ -1321,7 +1343,7 @@
   Link: <http://www.codermania.com>
 
 
-- Name: [Telescope (⭐179)](https://github.com/TelescopeJS/Telescope)
+- Name: [Telescope (⭐180)](https://github.com/TelescopeJS/Telescope)
 
   Description: Lauch Sites Easily
 
@@ -1340,7 +1362,7 @@
 
 ### Laravel
 
-- Name: [Invoice Ninja (⭐9.3k)](https://github.com/invoiceninja/invoiceninja)
+- Name: [Invoice Ninja (⭐9.5k)](https://github.com/invoiceninja/invoiceninja)
 
   Description: Invoice Generation System
 
@@ -1354,7 +1376,7 @@
   Link: <http://www.faveohelpdesk.com>
 
 
-- Name: [Timegrid (⭐970)](https://github.com/timegridio/timegrid)
+- Name: [Timegrid (⭐973)](https://github.com/timegridio/timegrid)
 
   Description: Online Reservation Platform
 
@@ -1431,14 +1453,14 @@
   Link: <http://paperwork.rocks>
 
 
-- Name: [Podcastwala (⭐140)](https://github.com/modestkdr/Podcastwala)
+- Name: [Podcastwala (⭐141)](https://github.com/modestkdr/Podcastwala)
 
   Description: Podcast System
 
   Link: 
 
 
-- Name: [Laravel Snippets (⭐333)](https://github.com/basco-johnkevin/laravelsnippets)
+- Name: [Laravel Snippets (⭐331)](https://github.com/basco-johnkevin/laravelsnippets)
 
   Description: A repository of useful code snippets for Laravel PHP framework
 
@@ -1466,14 +1488,14 @@
   Link: [https://cachethq.io (⭐15k)](https://github.com/CachetHQ/Cachet)
 
 
-- Name: [Scrumwala (⭐265)](https://github.com/modestkdr/Scrumwala)
+- Name: [Scrumwala (⭐266)](https://github.com/modestkdr/Scrumwala)
 
   Description: Your very own Scrum/Agile web app for personal use
 
   Link: 
 
 
-- Name: [SnipeIT](https://github.com/snipe/snipe-it)
+- Name: [SnipeIT (⭐13k)](https://github.com/snipe/snipe-it)
 
   Description: IT Asset/license Management System
 
@@ -1487,7 +1509,7 @@
   Link: <http://www.neontsunami.com>
 
 
-- Name: [Nahid.co (⭐26)](https://github.com/nahid/nahid.co)
+- Name: [Nahid.co (⭐27)](https://github.com/nahid/nahid.co)
 
   Description: Personal Portfolio and blog project
 
@@ -1588,14 +1610,14 @@
   Link: <https://happyhours.io>
 
 
-- Name: [OpenProject (⭐13k)](https://github.com/opf/openproject)
+- Name: [OpenProject (⭐14k)](https://github.com/opf/openproject)
 
   Description: Project Management System
 
   Link: <https://www.openproject.org>
 
 
-- Name: [Huginn (⭐48k)](https://github.com/cantino/huginn)
+- Name: [Huginn (⭐49k)](https://github.com/cantino/huginn)
 
   Description: Agent system that perform tasks online for you
 
@@ -1609,7 +1631,7 @@
   Link: <http://www.discourse.org>
 
 
-- Name: [Squash (⭐979)](https://github.com/SquareSquash/web)
+- Name: [Squash (⭐978)](https://github.com/SquareSquash/web)
 
   Description: Collection of tools that helps developers find and kill bugs
 
@@ -1647,7 +1669,7 @@
 
 ### Django
 
-- Name: [Shoop (⭐2.3k)](https://github.com/shoopio/shoop)
+- Name: [Shoop (⭐2.4k)](https://github.com/shoopio/shoop)
 
   Description: E-commerce Platform
 

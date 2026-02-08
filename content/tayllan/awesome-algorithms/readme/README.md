@@ -2,7 +2,7 @@
 
 A curated list of awesome places to learn and/or practice algorithms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 24K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tayllan/awesome-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) · ⭐ 25K · 🏷️ Theory
 
 [ [Daily](/content/tayllan/awesome-algorithms/README.md) / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / Overview ]
 
@@ -13,7 +13,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 A curated list of awesome places to learn and/or practice algorithms.
 Inspired by [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
-If you want to contribute, please read the [contribution guidelines (⭐24k)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
+If you want to contribute, please read the [contribution guidelines (⭐25k)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 *   [Awesome Algorithms](#awesome-algorithms)
     *   [Beginner-Friendly](#beginner-friendly)
@@ -30,9 +30,7 @@ If you want to contribute, please read the [contribution guidelines (⭐24k)](ht
 ### YouTube Playlist
 
 *   [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-*   [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
-*   [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME\&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-*   [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI\&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete algorithm playlist from basic level to intermediate. Easy explanation and simulation.
+*   FreeCodeCamp. Algorithms and Data Structures: [5 hours](https://www.youtube.com/watch?v=8hly31xKli0), [49 hours](https://youtu.be/xwI5OBEnsZU?si=W3CduIEmUehJERHk) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
 
 ### Book
 
@@ -103,7 +101,7 @@ If you want to contribute, please read the [contribution guidelines (⭐24k)](ht
 
 ## Cheat Sheet
 
-*   [Tech Interview Cheat Sheet (⭐4.6k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+*   [Tech Interview Cheat Sheet (⭐4.7k)](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 *   [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
@@ -111,8 +109,8 @@ If you want to contribute, please read the [contribution guidelines (⭐24k)](ht
 
 ## Related Awesome List
 
-*   [Theoretical Computer Science (⭐1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
-*   [Math (⭐12k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Theoretical Computer Science (⭐1.1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
+*   [Math (⭐13k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## License
 

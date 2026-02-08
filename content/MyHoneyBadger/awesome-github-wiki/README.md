@@ -2,15 +2,25 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 396 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 428 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Feb 08, 2026](/content/2026/02/08/README.md)
+
+### Examples
+
+*   [GyulyVGC/sniffnet (⭐33k)](https://github.com/GyulyVGC/sniffnet/wiki)
+
+### Useful links with tips & tricks
+
+*   [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Examples
 
-*   [AWS/aws-parallelcluster (⭐878)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [AWS/aws-parallelcluster (⭐884)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -70,7 +80,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐6k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐6.2k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -82,13 +92,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐375)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐378)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐197)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐195)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
@@ -177,7 +187,7 @@
 
 ### Examples
 
-*   [uber/NullAway (⭐3.9k)](https://github.com/uber/NullAway/wiki)
+*   [uber/NullAway (⭐4k)](https://github.com/uber/NullAway/wiki)
 
 ## [Oct 08, 2022](/content/2022/10/08/README.md)
 
@@ -206,7 +216,7 @@
 
 ### Examples
 
-*   [guard/guard (⭐6.6k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [guard/guard (⭐6.7k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
 
 ### Useful links with tips & tricks

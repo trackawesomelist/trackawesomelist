@@ -13,7 +13,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django (⭐11k)](https://github.com/wsvincent/awesome-django) and [Awesome Python (⭐276k)](https://github.com/vinta/awesome-python). :snake:*
+*You might also like [Awesome Django (⭐11k)](https://github.com/wsvincent/awesome-django) and [Awesome Python (⭐279k)](https://github.com/vinta/awesome-python). :snake:*
 
 ## Contents
 
@@ -86,14 +86,14 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail EditorJS (⭐13)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 *   [Wagtail Terms (⭐9)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 *   [Wagtail Text Alignment (⭐6)](https://github.com/Nigel2392/wagtail_text_alignment) - Align text, headings and more in your Wagtail richtext editor.
-*   [wagtailmdx (⭐1)](https://github.com/julinodev/wagtailmdx) - A [MDXEditor (⭐3.1k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
+*   [wagtailmdx (⭐1)](https://github.com/julinodev/wagtailmdx) - A [MDXEditor (⭐3.2k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ### Widgets
 
 *   [wagtailgmaps (⭐83)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
 *   [Wagtail-Geo-Widget (⭐147)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 *   [wagtail-leaflet-widget (⭐23)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
-*   [wagtail-markdown (⭐214)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtail-markdown (⭐215)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 *   [wagtail-autocomplete (⭐129)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 *   [wagtail-instance-selector (⭐55)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
 *   [wagtail-generic-chooser (⭐118)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
@@ -132,22 +132,22 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [wagtailinvoices (⭐34)](https://github.com/LiamBrenner/wagtailinvoices) - A Wagtail module for creating invoices.
 *   [longclaw (⭐401)](https://github.com/longclawshop/longclaw) - A shop template for Wagtail CMS.
 *   [django-oscar-wagtail (⭐106)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
-*   [django-salesman (⭐418)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐420)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### SEO and SMO
 
 *   [wagtail-metadata (⭐123)](https://github.com/neon-jungle/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
 *   [wagtail-metadata-mixin (⭐49)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐75)](https://github.com/neon-jungle/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-schema.org (⭐76)](https://github.com/neon-jungle/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 *   [wagtail-opengraph-image-generator (⭐42)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 *   [wagtail-redirect-importer (⭐16)](https://github.com/Frojd/wagtail-redirect-importer) - Your friendly neighborhood importer that lets you import redirects from different tabular data formats, such as .csv and .xls
 *   [wagtail-meta-preview (⭐37)](https://github.com/Frojd/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 *   [Wagtail Yoast (⭐36)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
-*   [Wagtail SEO (⭐83)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
+*   [Wagtail SEO (⭐84)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Analytics
 
-*   [Wagtail Analytics (⭐222)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
+*   [Wagtail Analytics (⭐223)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
 
 ### Customer experience
 
@@ -179,7 +179,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 *   [Wagtail Modeltranslation (⭐155)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.5k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 *   [wagtailtrans (⭐102)](https://github.com/wagtail/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
-*   [Wagtail Localize (⭐242)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐244)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Forms
 
@@ -196,14 +196,14 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 *   [wagtail-linkchecker (⭐52)](https://github.com/neon-jungle/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 *   [Wagtail Accessibility (⭐34)](https://github.com/wagtail-nest/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
-*   [Wagtail Factories (⭐107)](https://github.com/wagtail/wagtail-factories) - Factory boy classes for Wagtail.
+*   [Wagtail Factories (⭐108)](https://github.com/wagtail/wagtail-factories) - Factory boy classes for Wagtail.
 *   [Wagtail Foliage (⭐17)](https://github.com/harrislapiroff/wagtail-foliage) - Utilities for programmatically building page trees in Wagtail.
 
 ### Modeladmin
 
 *   [wagtail-admin-list-controls (⭐51)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 *   [wagtail-rangefilter (⭐16)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
-*   [wagtail-treemodeladmin (⭐52)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+*   [wagtail-treemodeladmin (⭐53)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
 
 ### Asynchronous (tasks)
 
@@ -213,7 +213,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 *   [Wagtail Themes (⭐108)](https://github.com/moorinl/wagtail-themes) - Site-specific theme loader for Wagtail.
 *   [Wagtail Sharing (⭐56)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
-*   [Wagtail Transfer (⭐101)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐102)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 *   [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 *   [Wagtail Import/Export Tool (⭐12)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 *   [Wagtail Tag Manager (⭐78)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
@@ -226,7 +226,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 *   [wagtailmenus (⭐419)](https://github.com/jazzband/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 *   [Wagtail Error Pages](https://gitlab.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
-*   [Wagtail Gridder (⭐67)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐68)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 *   [Wagtail Condensed Inline Panel (⭐84)](https://github.com/wagtail-deprecated/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 *   [Joyous (⭐77)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 *   [Wagtail App Pages (⭐33)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
@@ -250,7 +250,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail Pipit (⭐251)](https://github.com/Frojd/Wagtail-Pipit) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 *   [Django Cookiecutter Wagtail (⭐75)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 *   [wagtail-webpack-dokku (⭐14)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
-*   [CodeRed CMS (⭐749)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
+*   [CodeRed CMS (⭐752)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 *   [Wordpress to Wagtail migration kit (⭐56)](https://github.com/wagtail/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
 *   [cookiecutter-wagtail-package (⭐21)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 *   [Wagtail Tailwind & Stimulus blog (⭐377)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
@@ -262,7 +262,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Templates (start command)
 
 *   [Wagtail tutorial template (⭐3)](https://github.com/thibaudcolas/wagtail-tutorial-template)
-*   [Wagtail news template (⭐144)](https://github.com/wagtail/news-template)
+*   [Wagtail news template (⭐146)](https://github.com/wagtail/news-template)
 
 ## Resources
 
@@ -395,6 +395,58 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Moving Wagtail pages - Wagtail Space NL 2022](https://www.youtube.com/watch?v=OFqPKffSVWI) by Viggo de Vries.
 *   [Wagtail architecture options, or should I go headless - Wagtail Space NL 2022](https://www.youtube.com/watch?v=JMULuz6RzjQ) by Dan Braghis.
 *   [Wagtail headless and NextJS frontend - Wagtail Space NL 2022](https://www.youtube.com/watch?v=s8cJhFtjqZA) by Lucas Moeskops.
+*   [State of Wagtail - Wagtail Space US 2024](https://www.youtube.com/watch?v=TKLYeKpFbno\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Tom Dyson.
+*   [Pleasant Publishing Patterns - Wagtail Space US 2024](https://www.youtube.com/watch?v=ZXGcqY-OeYk\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Michael Trythall.
+*   [Accessibility for Complex Components and Interfaces - Wagtail Space US 2024](https://www.youtube.com/watch?v=AC1gy9R2Z6c\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) by Kara Gaulrapp.
+*   [One Thousand and One Wagtail Sites - Wagtail Space US 2024](https://www.youtube.com/watch?v=yciVqzSGWTw\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Vince Salvino.
+*   [3D Files with Wagtail - Wagtail Space US 2024](https://www.youtube.com/watch?v=ccBrb50xRCM\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) by Dawn Wages and Mira Gibson.
+*   [Wagtail, Reactivated - Headless Without the Headache - Wagtail Space US 2024](https://www.youtube.com/watch?v=mQsI8Ji3_LY\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Josh Marantz.
+*   [Lightning Talks June 20 - Wagtail Space US 2024](https://www.youtube.com/watch?v=UuE3Y15To8Q\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) - lightning talks.
+*   [LLMs and Wagtail - Wagtail Space US 2024](https://www.youtube.com/watch?v=b-luIDn80bc\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Emily Topp-Mugglestone.
+*   [PudlStack - Building Wagtail Affinity Group Communities That Offer Bot Helpers - Wagtail Space US 2024](https://www.youtube.com/watch?v=SNEeo_ABQ7g\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB) by Anthony Garcia.
+*   [Auditing Wagtail Content - Wagtail Space US 2024](https://www.youtube.com/watch?v=a1O3hKib8Ns\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQB\&index=2\&pp=i) by Will Barton & Chuck Sebian-Lander.
+*   [What Editors Really Want - Wagtail Space US 2024](https://www.youtube.com/watch?v=1qF5wC4rCY4\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) by Meagen Voss.
+*   [Improving the Editor Experience through Validation - Wagtail Space US 2024](https://www.youtube.com/watch?v=UVBHciwpgKM\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) by Scott Cranfill.
+*   [sditail: Extending Wagtail CMS as a Spatial Data Infrastructure - Wagtail Space US 2024](https://www.youtube.com/watch?v=XxdJpYNT4EM\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) by César Benjamin.
+*   [Packages! Packages! Packages! - Wagtail Space US 2024](https://www.youtube.com/watch?v=r5ovJPWvxL4\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) - panel.
+*   [Lightning Talks June 21 - Wagtail Space US 2024](https://www.youtube.com/watch?v=vazMp9jTlEU\&list=PLfwZ-fob20cMduvPwjstgycu-Z_1QwJQ) - lightning talks.
+*   [The State of Wagtail - Wagtail Space NL 2024](https://www.youtube.com/watch?v=P9Ftbu5NVUI\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=1) by Tom Dyson.
+*   [Headless Wagtail Strategies - Wagtail Space NL 2024](https://www.youtube.com/watch?v=nweVHX5DgWU\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=2) by Rémy Sanchez.
+*   [Wagging HubSpot's Tail - Wagtail Space NL 2024](https://www.youtube.com/watch?v=VUoOoRxlWrU\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=3) by Simon Blanchard and Joost Meijerink.
+*   [Wagtail and Caching - Wagtail Space NL 2024](https://www.youtube.com/watch?v=vBdG2GfAZAo\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=4) by Jake Howard.
+*   [Faster Thumbnails for a Faster Web - Wagtail Space NL 2024](https://www.youtube.com/watch?v=0kHhGBxwzeM\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=5) by Alex Tomkins.
+*   [The impossible art of making everyone happy - Wagtail Space NL 2024](https://www.youtube.com/watch?v=v3KEaMTfKg0\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=6) by Matthew Westcott.
+*   [Bringing modern authentication to Wagtail: WebAuthn and Passkeys - Wagtail Space NL 2024](https://www.youtube.com/watch?v=qJwg2kFtFW4\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=7) by Storm Heg.
+*   [How to abuse Wagtail's StreamFields as much as you want - Wagtail Space NL 2024](https://www.youtube.com/watch?v=tOBGJ0riDRw\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=8) by Rémy Sanchez.
+*   [Wagtail AI and Wagtail Vector Index - Wagtail Space NL 2024](https://www.youtube.com/watch?v=jHuhX_SNF1s\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=9) by Dan Braghiș.
+*   [Wagtail Translate - Wagtail Space NL 2024](https://www.youtube.com/watch?v=QxnC70Bwj0k\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=10) by Coen van der Kamp.
+*   [You've been caching your content website wrong - Wagtail Space NL 2024](https://www.youtube.com/watch?v=bWF06aCjbUM\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=11) by Rémy Sanchez.
+*   [Universal Listings - Wagtail Space NL 2024](https://www.youtube.com/watch?v=aNto27_lfJ4\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=12) by Sage Abdullah.
+*   [Recovering deleted Django models - Wagtail Space NL 2024](https://www.youtube.com/watch?v=TB64DtQZeB0\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=13) by Jake Howard.
+*   [Wagtail Dashboards - Wagtail Space NL 2024](https://www.youtube.com/watch?v=0msxKe0RoNw\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=14) by Judith van Leersum and Emmelien Schiet.
+*   [Multi-lingual websites in Wagtail - Wagtail Space NL 2024](https://www.youtube.com/watch?v=5rPvOsVeRhA\&list=PLEyaio0l1qoGj7XTEuNXT2o3tYpuSmlbP\&index=15) by Paul Stevens.
+*   [State of Wagtail 2025 - Wagtail Space 2025](https://www.youtube.com/watch?v=9Kduqs6NH7Q\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=2) by Thibaud Colas.
+*   [Wagtail in industry: from farming to finance - Wagtail Space 2025](https://www.youtube.com/watch?v=DH87OzXzj28\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=3) by Vince Salvino.
+*   [Redesigning and refactoring Wagtail components - Wagtail Space 2025](https://www.youtube.com/watch?v=8h0fxe7b8s8\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=4) by Mariana.
+*   [Building Better Wagtail Sites: Traits of a Good CMS - Wagtail Space 2025](https://www.youtube.com/watch?v=n5KHTLS22YE\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=5) by Michael Trythall.
+*   [REX: Building a SaaS from Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=3T-ITKTByH4\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=6) by Sébastien Corbin.
+*   [Implement the French Government Design System in Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=8_CBltGuv0g\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=7) by Sylvain Boissel and Lucie Laporte.
+*   [Wagtail Nest: Maintaining Community Packages Together - Wagtail Space 2025](https://www.youtube.com/watch?v=h0kKy4R5kNY\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=8) by Coen van der Kamp.
+*   [Automated Data Loader: Wagtail for Weather Data Integration - Wagtail Space 2025](https://www.youtube.com/watch?v=iTxcq__Gcr4\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=9) by Erick Otenyo and Grace Amondi.
+*   [Building Flexible Wagtail CMS Experiences for Editors - Wagtail Space 2025](https://www.youtube.com/watch?v=-azqKJdEivk\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=10) by Annette Lewis and Eric Sherman.
+*   [Building a little YouTube on Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=hLw3FWb2LfQ\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=11) by Tom Dyson.
+*   [Creating connections between stories and objects using AI - Wagtail Space 2025](https://www.youtube.com/watch?v=Wkjm8xdV_6c\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=12) by Trish Thomas.
+*   [AI in Wagtail: responsible innovation for content editors - Wagtail Space 2025](https://www.youtube.com/watch?v=n2fIFJLSH5E\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=16) by Sage Abdullah and Tom Usher.
+*   [The Bogotá Digital Library: A Wagtail Success Story - Wagtail Space 2025](https://www.youtube.com/watch?v=cbANVWkDIs0\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=17) by Juan Aguayo.
+*   [Wagtail and AI Agentic Coding - Wagtail Space 2025](https://www.youtube.com/watch?v=pukU8F3ciEM\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=18) by Maciej Baron.
+*   [The Impact of A Contribution to Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=sW8k4F1DY18\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=19) by Chiemezuo Akujobi.
+*   [One URL to Rule Them All: Dynamic Landing Pages in Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=UOEvu4Lyj8w\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=20) by Chrissy Wainwright and Doug Harris.
+*   [Fact checking with Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=Spdt-W5XotM\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=21) by Jon Chittenden and Craig Dawson.
+*   [Sympa newsletters with Wagtail - Wagtail Space 2025](https://www.youtube.com/watch?v=n7bM54MAc24\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=22) by Agnès Haasser.
+*   [Code that creates content - Wagtail Space 2025](https://www.youtube.com/watch?v=XkSX195ssjY\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=23) by Alex Morega.
+*   [Who's that code snippet? A screen reader guessing game - Wagtail Space 2025](https://www.youtube.com/watch?v=VkPOe_JixTI\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=24) by Laura Wissiak and Pawel Masarczyk.
+*   [Bird Meets Bot: Using AI Tools to Make Wagtail Smarter - Wagtail Space 2025](https://www.youtube.com/watch?v=SsjXnpuLnL0\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=25) by Alex Tomkins.
+*   [Where next for Wagtail Search? - Wagtail Space 2025](https://www.youtube.com/watch?v=LglWFsqIu3E\&list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ\&index=26) by Matt Westcott.
 
 ### Podcasts
 
@@ -451,7 +503,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ## Open-source sites
 
 *   [bakerydemo (⭐1.1k)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
-*   [torchbox.com (⭐7)](https://github.com/torchbox/torchbox.com) – Wagtail build of Torchbox.com.
+*   [torchbox.com (⭐8)](https://github.com/torchbox/torchbox.com) – Wagtail build of Torchbox.com.
 *   [Made with Wagtail (⭐89)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/CIGIHub/opencanada) – The opencanada.org website source.
 *   [Federal Election Commission (⭐106)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
@@ -467,10 +519,10 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [BVSPCA (⭐10)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 *   [Project TIER (⭐13)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 *   [SecureDrop (⭐42)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
-*   [Consumer Financial Protection Bureau (⭐321)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-*   [WesternFriend (⭐60)](https://github.com/WesternFriend/westernfriend.org) - community website with directory, ecommerce, and online subscription
+*   [Consumer Financial Protection Bureau (⭐322)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [WesternFriend (⭐61)](https://github.com/WesternFriend/westernfriend.org) - community website with directory, ecommerce, and online subscription
 *   [WagtailParadise (⭐4)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
-*   [Outreachy website (⭐285)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
+*   [Outreachy website (⭐287)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 *   [Wagtail user guide (⭐33)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 *   [Penticon Public Library (⭐4)](https://github.com/danlerche/public-library-wagtailCMS) - An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.
 
