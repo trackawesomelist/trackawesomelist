@@ -38,6 +38,7 @@ Inspired by the [awesome (⭐433k)](https://github.com/sindresorhus/awesome) lis
 *   [Search](#search)
 *   [Analytics](#analytics)
 *   [Authentication](#authentication)
+*   [Utilities](#utilities)
 *   [Other](#other)
 *   [Related Lists](#related-lists)
 
@@ -261,6 +262,10 @@ Third party integration:
 ## Authentication
 
 *   [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
+
+## Utilities
+
+*   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
 ## Other
 

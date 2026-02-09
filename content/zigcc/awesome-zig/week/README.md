@@ -6,6 +6,16 @@ A collection of awesome projects in Zig.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Database / Large Language Model
+
+*   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
+
+### GUI / Large Language Model
+
+*   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### File format processing / Linker

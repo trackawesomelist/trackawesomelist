@@ -1,10 +1,16 @@
 # Track Awesome Claude Code Updates Weekly
 
-A curated list of awesome commands, files, and workflows for Claude Code
+A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 19K · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 23K · 🏷️ LLM
 
 [ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / Weekly / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
+
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Agent Skills 🤖 / General
+
+*   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 

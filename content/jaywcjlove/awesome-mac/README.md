@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 09, 2026](/content/2026/02/09/README.md)
+
+### Design and Product / Screen Recording
+
+*   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Reading and Writing Tools / Others
@@ -29,9 +35,10 @@
 
 *   [DB Pro](https://dbpro.app) - Modern, cross-platform database client, focusing on performance and a polished developer experience
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Capty](https://capty.app/) - Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.
+*   [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/syi0808/screenize) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Screenpipe (⭐17k)](https://github.com/mediar-ai/screenpipe) - 24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mediar-ai/screenpipe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Client / Other Tools
@@ -46,7 +53,6 @@
 ### Audio and Video Tools / File Sharing
 
 *   [FineTune (⭐2.2k)](https://github.com/ronitsingh10/FineTune) - Per-app volume control with multi-device output and 10-band EQ. Free SoundSource alternative. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ronitsingh10/FineTune) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/syi0808/screenize) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -214,7 +220,7 @@
 
 *   [Pika](https://superhighfives.com/pika) - An open-source color picker app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/superhighfives/pika) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pika/id6739170421)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Tight Studio](https://tight.studio/) - Record impressive screens in minutes, with smart zooms, AI voice overs, easy captions, text overlays, and lots more, all in simple clicks.
 
@@ -636,7 +642,7 @@
 
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
 *   [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 
@@ -897,7 +903,7 @@
 *   [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 *   [Icon Preview](https://sindresorhus.com/icon-preview) - Preview your app icon and menu bar icon. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6480373509)
 
-### Audio and Video Tools / Audio Record and Process
+### Design and Product / Screen Recording
 
 *   [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lihaoyun6/QuickRecorder) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -1002,7 +1008,7 @@
 
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
 *   [Tuji](https://tuji.app/) - Take a screenshot, annotate it, and beautify it. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/tuji/id6479216439) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -1074,7 +1080,7 @@
 
 ## [Jan 07, 2024](/content/2024/01/07/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
 
@@ -1418,7 +1424,7 @@
 
 *   [Draw.io (⭐59k)](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jgraph/drawio-desktop)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [OBS Studio (⭐70k)](https://github.com/obsproject/obs-studio) - A free and open source software for live streaming and screen recording. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/obsproject/obs-studio)
 
@@ -1434,7 +1440,7 @@
 
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Screen Studio](https://www.screen.studio/) - Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.
 
@@ -1547,7 +1553,7 @@
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 
@@ -1615,7 +1621,7 @@
 
 *   [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/toinane/colorpicker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Gifox](https://gifox.app) - Gif Recording and Sharing.
 
@@ -2033,7 +2039,7 @@
 
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
 *   [Flameshot (⭐29k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -2051,7 +2057,7 @@
 
 ## [Feb 07, 2022](/content/2022/02/07/README.md)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
 *   [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup.
 
@@ -2656,7 +2662,7 @@
 
 *   [bindPDF (⭐111)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screen Recording
 
 *   [Kyapchar (⭐71)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -3170,7 +3176,7 @@
 
 *   [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
 *   [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -3308,12 +3314,15 @@
 
 *   [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://launchpad.net/inkscape)
 
-### Design and Product / Screencapturing Software
+### Design and Product / Screenshot Tools
 
-*   [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/monosnap/id540348655)
 *   [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/monosnap/id1199502670)
 *   [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Screen Recording
+
+*   [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/monosnap/id540348655)
 
 ### Design and Product / Other Tools
 
@@ -3426,17 +3435,20 @@
 *   [Scapple](http://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software with free whiteboard-like layout.
 *   [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet.
 
-### Design and Product / Screencapturing Software
+### Cloud Storage / Audio Record and Process
 
-*   [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wulkano/kap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/justinfrankel/licecap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Dropbox](https://www.dropbox.com/) - File hosting service that offers cloud storage and file synchronization with collaborative edit features. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Design and Product / Screenshot Tools
+
 *   [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Cloud Storage / Audio Record and Process
+### Design and Product / Screen Recording
 
-*   [Dropbox](https://www.dropbox.com/) - File hosting service that offers cloud storage and file synchronization with collaborative edit features. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wulkano/kap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/justinfrankel/licecap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 

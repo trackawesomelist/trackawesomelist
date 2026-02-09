@@ -2,48 +2,54 @@
 
 A curated list of awesome HBase projects and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rayokota/awesome-hbase/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase) · ⭐ 157 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rayokota/awesome-hbase/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase) · ⭐ 179 · 🏷️ Databases
 
 [ [Daily](/content/rayokota/awesome-hbase/README.md) / Weekly / [Overview](/content/rayokota/awesome-hbase/readme/README.md) ]
+
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Frameworks / Graph
+
+*   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
 ### Frameworks / Entity/JPA
 
-*   [HBase ORM (⭐71)](https://github.com/flipkart-incubator/hbase-orm) - A production-grade HBase ORM library.
+*   [HBase ORM (⭐81)](https://github.com/flipkart-incubator/hbase-orm) - A production-grade HBase ORM library.
 
 ### Frameworks / Graph
 
-*   [HugeGraph (⭐2.1k)](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 10+ billion data, high performance and scalability.
+*   [HugeGraph (⭐3k)](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 10+ billion data, high performance and scalability.
 
 ### Integrations / Transactions
 
-*   [Presto (⭐233)](https://github.com/analysys/presto-hbase-connector) - Presto-HBase connector.
+*   [Presto (⭐242)](https://github.com/analysys/presto-hbase-connector) - Presto-HBase connector.
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
 ### Integrations / Transactions
 
-*   [Flink (⭐20k)](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) - Flink-HBase connector.
+*   [Flink (⭐26k)](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) - Flink-HBase connector.
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
 
 ### Integrations / Transactions
 
-*   [Apex (⭐131)](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
+*   [Apex (⭐133)](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
 *   [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) - HAWQ PXF external tables on HBase.
 
 ## [Sep 02 - Sep 08, 2019](/content/2019/35/README.md)
 
 ### Infrastructure / Transactions
 
-*   [Omid (⭐76)](https://github.com/apache/incubator-omid) - Transactional support for HBase.
+*   [Omid (⭐91)](https://github.com/apache/incubator-omid) - Transactional support for HBase.
 
 ## [Aug 26 - Sep 01, 2019](/content/2019/34/README.md)
 
 ### Frameworks / Graph
 
-*   [NebulaGraph (⭐8.1k)](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
+*   [NebulaGraph (⭐12k)](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
@@ -80,7 +86,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations / Transactions
 
-*   [Kafka (⭐198)](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
+*   [Kafka (⭐248)](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
 
 ## [Aug 27 - Sep 02, 2018](/content/2018/35/README.md)
 
@@ -92,8 +98,8 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations / Transactions
 
-*   [Crunch (⭐103)](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch.
-*   [Gearpump (⭐298)](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase.
+*   [Crunch (⭐109)](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch.
+*   [Gearpump (⭐295)](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase.
 
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
@@ -128,37 +134,37 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations / Transactions
 
-*   [Beam (⭐6k)](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
+*   [Beam (⭐8.5k)](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
 *   [Cascading (⭐10)](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading.
 *   [Cascalog (⭐19)](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around Cascading.HBase for use in Cascalog.
 *   [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
-*   [Elasticsearch (⭐37)](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase.
-*   [Giraph (⭐597)](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase.
+*   [Elasticsearch (⭐38)](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase.
+*   [Giraph (⭐622)](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase.
 *   [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 *   [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
-*   [Pig (⭐651)](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
+*   [Pig (⭐686)](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
 *   [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
-*   [Storm (⭐6.4k)](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
+*   [Storm (⭐6.7k)](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
 
 ### Tools / Transactions
 
 *   [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
-*   [Hannibal (⭐170)](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
-*   [h-rider (⭐133)](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
+*   [Hannibal (⭐172)](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
+*   [h-rider (⭐131)](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
 *   [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 *   [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
 ### Miscellaneous / Transactions
 
-*   [HubSpot HBase support (⭐16)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
+*   [HubSpot HBase support (⭐17)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
 ### Clients
 
-*   [asynchbase (⭐605)](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
-*   [gohbase (⭐654)](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
-*   [happybase (⭐595)](https://github.com/wbolster/happybase) - Python client for HBase.
+*   [asynchbase (⭐609)](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
+*   [gohbase (⭐756)](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
+*   [happybase (⭐613)](https://github.com/wbolster/happybase) - Python client for HBase.
 
 ### Cloud
 
@@ -172,14 +178,14 @@ A curated list of awesome HBase projects and resources.
 
 ### Frameworks / Document
 
-*   [HDocDB (⭐24)](https://github.com/rayokota/hdocdb) - HBase as a JSON document database.
+*   [HDocDB (⭐25)](https://github.com/rayokota/hdocdb) - HBase as a JSON document database.
 
 ### Frameworks / Entity/JPA
 
 *   [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 *   [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
 *   [HEntityDB (⭐6)](https://github.com/rayokota/hentitydb) - HBase as an entity database.
-*   [Kundera (⭐900)](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
+*   [Kundera (⭐0)](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
 
 ### Frameworks / Geospatial
 
@@ -187,8 +193,8 @@ A curated list of awesome HBase projects and resources.
 
 ### Frameworks / Graph
 
-*   [Gradoop (⭐228)](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
-*   [HGraphDB (⭐246)](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
+*   [Gradoop (⭐252)](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
+*   [HGraphDB (⭐262)](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
 *   [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 *   [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 
@@ -207,7 +213,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Infrastructure / Secondary Indices
 
-*   [hindex (⭐588)](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
+*   [hindex (⭐592)](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
 *   [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 ### Infrastructure / Transactions
@@ -218,7 +224,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations / Transactions
 
-*   [Spark (⭐554)](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
+*   [Spark (⭐550)](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
 
 ### Tools / Transactions
 

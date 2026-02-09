@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-static-website-services/week/README.md) / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
 
+## [Feb 09, 2026](/content/2026/02/09/README.md)
+
+### Utilities / Provided by the Host
+
+*   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Surveys / Provided by the Host
