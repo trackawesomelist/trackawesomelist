@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [RightFeature](https://rightfeature.com/) — Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.
 
+### Messaging and Streaming
+
+*   [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
+
 ### Forms
 
 *   [FormNX](https://www.FormNX.com/) - Create unlimited forms get unlimited submissions free of cost. Use professionally created 1000+ form templates or create forms from scratch. Get features like email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
@@ -1413,12 +1417,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Data Visualization on Maps
 
 *   [nominatim.org](https://nominatim.org/) — OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.
-
-## [Feb 06, 2024](/content/2024/02/06/README.md)
-
-### Messaging and Streaming
-
-*   [NotificationAPI.com](https://www.notificationapi.com/) — Add user notifications to any software in 5 minutes. The free plan includes 10,000 notifications/month + 100 SMS and Automated Calls.
 
 ## [Feb 04, 2024](/content/2024/02/04/README.md)
 

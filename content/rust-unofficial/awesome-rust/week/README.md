@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Libraries / Caching
+
+*   [hit-box/hitbox (⭐108)](https://github.com/hit-box/hitbox) - A declarative cache orchestration framework with HTTP middleware and multi-tier backends [![CI](https://github.com/hit-box/hitbox/actions/workflows/CI.yml/badge.svg)](https://github.com/hit-box/hitbox/actions/workflows/CI.yml)
+
 ### Libraries / Text processing
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
@@ -1111,7 +1115,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [perpetual-ml/perpetual (⭐586)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+*   [perpetual-ml/perpetual (⭐638)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 
 ### Libraries / Encoding
 

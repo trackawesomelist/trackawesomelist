@@ -8,6 +8,10 @@
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Reading and Writing Tools / Writing
+
+*   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Design and Product / Screen Recording
 
 *   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

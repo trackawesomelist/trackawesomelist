@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### 3D / Godot 4

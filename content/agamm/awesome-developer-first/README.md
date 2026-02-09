@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 09, 2026](/content/2026/02/09/README.md)
+
+### AI Coding
+
+*   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
+
 ## [Feb 02, 2026](/content/2026/02/02/README.md)
 
 ### Search

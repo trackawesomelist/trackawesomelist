@@ -1,18 +1,49 @@
 # Awesome List Updates on Feb 09, 2026
 
-14 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+## [1. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+### Games / Browser Games
+
+*   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
+
+## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
+
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### AI and Machine Learning / Visual Studio
+
+*   [VibeKit (⭐14)](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
+*   [AlgoChat (⭐1)](https://github.com/CorvidLabs/ts-algochat) - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
+*   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+*   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
+
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### AI Coding
+
+*   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
+
+## [5. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Backup
 
 *   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
-## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+### Incubating
+
+*   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
+
+## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -23,13 +54,13 @@
 
 *   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
 
-## [3. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Agent Skills 🤖 / General
 
 *   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 
-## [4. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [8. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Compilers and Interpreters / Linker
 
@@ -43,19 +74,27 @@
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Caching
+
+*   [hit-box/hitbox (⭐108)](https://github.com/hit-box/hitbox) - A declarative cache orchestration framework with HTTP middleware and multi-tier backends [![CI](https://github.com/hit-box/hitbox/actions/workflows/CI.yml/badge.svg)](https://github.com/hit-box/hitbox/actions/workflows/CI.yml)
 
 ### Libraries / Text processing
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Reading and Writing Tools / Writing
+
+*   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screen Recording
 
 *   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
@@ -65,7 +104,7 @@
 
 *   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -75,23 +114,27 @@
 
 *   [RightFeature](https://rightfeature.com/) — Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.
 
+### Messaging and Streaming
+
+*   [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
+
 ### Forms
 
 *   [FormNX](https://www.FormNX.com/) - Create unlimited forms get unlimited submissions free of cost. Use professionally created 1000+ form templates or create forms from scratch. Get features like email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
 
-## [9. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [13. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Utilities / Provided by the Host
 
 *   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### LSP
 
@@ -101,19 +144,19 @@
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
-## [12. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [16. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Frameworks / Graph
 
 *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
-## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [17. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 
-## [14. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [18. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 

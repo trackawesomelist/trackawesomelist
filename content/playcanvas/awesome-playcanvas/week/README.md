@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Games / Browser Games
+
+*   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables

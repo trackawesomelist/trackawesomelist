@@ -12,6 +12,10 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
+### Incubating
+
+*   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Benchmarking
