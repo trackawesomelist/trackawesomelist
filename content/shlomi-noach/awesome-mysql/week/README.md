@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ [Daily](/content/shlomi-noach/awesome-mysql/README.md) / Weekly / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Backup
+
+*   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Benchmarking

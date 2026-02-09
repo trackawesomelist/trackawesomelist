@@ -8,6 +8,10 @@ A collection of awesome projects in Zig.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
+### Compilers and Interpreters / Linker
+
+*   [dawk](https://codeberg.org/triallax/dawk) - Reasonably fast POSIX-compliant AWK implementation with good diagnostics.
+
 ### Database / Large Language Model
 
 *   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.

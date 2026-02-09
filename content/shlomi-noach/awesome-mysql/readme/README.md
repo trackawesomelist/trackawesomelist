@@ -65,6 +65,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [Dumpling (⭐40k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 *   [MyDumper (⭐3k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 *   [Percona Xtrabackup (⭐1.5k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+*   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ## Benchmarking
 
@@ -248,4 +249,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 ## Newsletters
 
 *Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
+
+## Incubating
+
+Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
