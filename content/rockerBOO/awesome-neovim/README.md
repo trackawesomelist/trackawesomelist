@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 10, 2026](/content/2026/02/10/README.md)
+
+### Database / Automation
+
+*   [zerochae/dbab.nvim (⭐18)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
+
+### External / OS-specific
+
+*   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
+
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### LSP

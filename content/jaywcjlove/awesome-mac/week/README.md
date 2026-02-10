@@ -12,9 +12,25 @@
 
 *   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Developer Tools / Developer Utilities
+
+*   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
+
 ### Design and Product / Screen Recording
 
 *   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Clipboard Tools
+
+*   [SaneClip](https://saneclip.com) - Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClip)
+
+### Utilities / Menu Bar Tools
+
+*   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneBar)
+
+### Utilities / Finder Tools
+
+*   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 

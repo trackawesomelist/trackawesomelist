@@ -143,6 +143,7 @@ You can also try to [Polars plugins Cookiecutter (⭐81)](https://github.com/Mar
 *   [dataframely (⭐550)](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
 *   [daffy (⭐53)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 *   [truthound (⭐14)](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
+*   [wimsey (⭐170)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
 
 #### String parsing
 
@@ -172,6 +173,7 @@ You can also try to [Polars plugins Cookiecutter (⭐81)](https://github.com/Mar
 *   [polars-ds (⭐607)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 *   [polars-fastembed (⭐1)](https://github.com/lmmx/polars-fastembed) - Polars plugin for embedding DataFrames by [@lmmx](https://github.com/lmmx).
 *   [retrofit (⭐24)](https://github.com/AdrianAntico/RetroFit) - Machine learning framework built with Polars by [@AdrianAntico](https://github.com/AdrianAntico).
+*   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
 
 #### AI
 

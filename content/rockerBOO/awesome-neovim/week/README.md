@@ -16,6 +16,14 @@ Collections of awesome neovim plugins.
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
+### Database / Automation
+
+*   [zerochae/dbab.nvim (⭐18)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
+
+### External / OS-specific
+
+*   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### LSP

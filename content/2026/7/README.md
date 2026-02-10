@@ -1,24 +1,40 @@
 # Awesome List Updates on Feb 16 - Feb 22, 2026
 
-18 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+
+### CLI & Terminal / Advanced Console UIs
+
+*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`601`
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Polars plugins / Validation
+
+*   [wimsey (⭐170)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
+
+### Polars plugins / Machine Learning & Data Science
+
+*   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
+
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
 *   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [4. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 
-## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### AI and Machine Learning / Visual Studio
 
@@ -27,13 +43,13 @@
 *   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 *   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### AI Coding
 
 *   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
 
-## [5. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Backup
 
@@ -43,7 +59,7 @@
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
-## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -54,13 +70,13 @@
 
 *   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
 
-## [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [9. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
 *   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 
-## [8. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [10. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Compilers and Interpreters / Linker
 
@@ -74,7 +90,7 @@
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Caching
 
@@ -84,17 +100,33 @@
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Writing
 
 *   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Developer Tools / Developer Utilities
+
+*   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
+
 ### Design and Product / Screen Recording
 
 *   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+### Utilities / Clipboard Tools
+
+*   [SaneClip](https://saneclip.com) - Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClip)
+
+### Utilities / Menu Bar Tools
+
+*   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneBar)
+
+### Utilities / Finder Tools
+
+*   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
+
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
@@ -104,7 +136,7 @@
 
 *   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -122,19 +154,19 @@
 
 *   [FormNX](https://www.FormNX.com/) - Create unlimited forms get unlimited submissions free of cost. Use professionally created 1000+ form templates or create forms from scratch. Get features like email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
 
-## [13. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [15. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Utilities / Provided by the Host
 
 *   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
-## [14. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP
 
@@ -144,19 +176,27 @@
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
-## [16. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+### Database / Automation
+
+*   [zerochae/dbab.nvim (⭐18)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
+
+### External / OS-specific
+
+*   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
+
+## [18. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
-## [17. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [19. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 
-## [18. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [20. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 

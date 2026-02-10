@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Feb 10, 2026](/content/2026/02/10/README.md)
+
+### Polars plugins / Validation
+
+*   [wimsey (⭐170)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
+
+### Polars plugins / Machine Learning & Data Science
+
+*   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Polars plugins / Validation
