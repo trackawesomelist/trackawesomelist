@@ -90,6 +90,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
 *   [Phosphor Icons](https://github.com/phosphor-icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 *   [FlyonUI Icons](https://flyonui.com/docs/customization/icons/) - FlyonUI offers customizable icons using Iconify with Tabler support.
+*   [Hugeicons](https://hugeicons.com/) - Beautiful production-ready icon library with 46,000+ icons in 10 styles available in SVG, font, and multiple popular framework packages (React, Vue, Svelte, Angular and more), including 4,600+ free open-source icons.
 
 ## Map / Countries
 
@@ -122,4 +123,5 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [svgtofont (⭐705)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 *   [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 *   [Unicon](https://unicon.webrenew.com/) - Browse 20,000+ icons and export as React, Vue, Svelte, or SVG.
+*   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
 

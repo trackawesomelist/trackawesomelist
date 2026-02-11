@@ -6,6 +6,16 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Generic
+
+*   [Hugeicons](https://hugeicons.com/) - Beautiful production-ready icon library with 46,000+ icons in 10 styles available in SVG, font, and multiple popular framework packages (React, Vue, Svelte, Angular and more), including 4,600+ free open-source icons.
+
+### Tools
+
+*   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Tools

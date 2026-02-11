@@ -6,6 +6,20 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ [Daily](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) / Weekly / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### AI / ChatGPT
+
+*   [vibebox](https://vibebox.robcholz.com) - Per-project micro-VM sandbox for running coding agents on macOS with fast re-entry and explicit mounts.
+
+### Package managers
+
+*   [lastversion](https://lastversion.getpagespeed.com) - Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources.
+
+### Productivity
+
+*   [try-rs](https://try-rs.org) - Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects.
+
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
 
 ### DevOps

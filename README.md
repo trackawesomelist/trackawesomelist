@@ -137,52 +137,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
-#### [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
-
-##### Audio
-
-*   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
-
-##### Communications / IoT
-
-*   [aiomqttc (⭐14)](https://github.com/Tangerino/aiomqttc) - Asynchronous MQTT Client for MicroPython AND CPython.
-
-##### Communications / NTP
-
-*   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
-
-##### Communications / Web
-
-*   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
-
-##### IO / ADC
-
-*   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
-
-##### Scheduling / Touch Resistive
-
-*   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
-
-##### Storage / Database
-
-*   [simple-db (⭐1)](https://github.com/ctimmer/simple-db) - MicroPython relational database using B-tree.
-
-##### Utilities / SRAM
-
-*   [micropython-units (⭐1)](https://github.com/WoolleySheep/micropython-units) - A library for working with physical quantities in MicroPython.
-
-##### Community / SRAM
-
-*   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
-*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
-
-#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Web Servers
 
 *   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
 
-#### [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### JSON
 
@@ -225,7 +186,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
         *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
-#### [14. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [13. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Fundamentals / Learning Resources
 
@@ -248,7 +209,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
-#### [15. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [14. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### 3D
 
@@ -695,6 +656,152 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Youdao AI Writing](https://write.youdao.com/) - Automated multi-language text generation. 90 \`\`
 *   [Youdao Writing](https://write.youdao.com/) - English improvement with authoritative correction. 91 `#free`
 
+#### [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+
+##### Icons
+
+*   [hugeicons (⭐10)](https://github.com/hugeicons/svelte) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
+
+##### Miscellaneous
+
+*   [svelte-bash (⭐69)](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
+
+#### [16. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+##### Generic
+
+*   [Hugeicons](https://hugeicons.com/) - Beautiful production-ready icon library with 46,000+ icons in 10 styles available in SVG, font, and multiple popular framework packages (React, Vue, Svelte, Angular and more), including 4,600+ free open-source icons.
+
+##### Tools
+
+*   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
+
+#### [17. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+
+##### Projects Related to eBPF / Observability
+
+*   [rstat (⭐3)](https://github.com/overyonder/rstat) - Sub-millisecond system monitoring using eBPF tracepoints on sched\_switch, sched\_process\_exit, and sched\_process\_free, with zero heap allocations in steady state.
+
+#### [18. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+##### Audio
+
+*   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
+*   [IoTy vs1003 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vs1003.py) - Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.
+
+##### Communications / Bluetooth
+
+*   [BTHome-MicroPython (⭐15)](https://github.com/DavesCodeMusings/BTHome-MicroPython) - MicroPython module to format sensor readings for BTHome BLE advertising payloads.
+
+##### Communications / Compression
+
+*   [bitstruct-micropython (⭐6)](https://github.com/peterzuger/bitstruct-micropython) - MicroPython port of [bitstruct (⭐131)](https://github.com/eerimoq/bitstruct).
+
+##### Communications / IoT
+
+*   [aiomqttc (⭐14)](https://github.com/Tangerino/aiomqttc) - Asynchronous MQTT Client for MicroPython AND CPython.
+
+##### Communications / NTP
+
+*   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
+
+##### Communications / RTC
+
+*   [micropython-ds1302-rtc (⭐1)](https://github.com/PaszaVonPomiot/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+
+##### Communications / Serialization
+
+*   [micropython-msgpack (⭐0)](https://github.com/gitcnd/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+
+##### Communications / Telnet
+
+*   [telnetd (⭐0)](https://github.com/gitcnd/telnetd) - Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).
+
+##### Communications / Text-to-Speech
+
+*   [micropython-samtts (⭐5)](https://github.com/jacklinquan/micropython-samtts) - A MicroPython port of Software Automatic Mouth Text-To-Speech program.
+
+##### Communications / Web
+
+*   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+*   [microsky (⭐3)](https://github.com/nakagami/microsky) - A [Bluesky](https://bsky.app/) client for Python and MicroPython.
+
+##### Display / LED Segment
+
+*   [max7219\_8digit (⭐0)](https://github.com/GM-Script-Writer-62850/max7219_8digit) - MicroPython driver for the MAX7219 with 8 x 7-segment display.
+
+##### Display / LEDs
+
+*   [IS31FL3197 (⭐1)](https://github.com/omeErik/IS31FL3197) - I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.
+
+##### IO / ADC
+
+*   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
+
+##### Sensors / Camera
+
+*   [IoTy huskylib (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+*   [IoTy mv (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/mv.py) - A simple machine vision library that provides blob and circle detection.
+
+##### Sensors / Distance Laser
+
+*   [IoTy lds02rr (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
+*   [IoTy coind4 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
+*   [IoTy delta2d (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
+
+##### Sensors / Motion Inertial
+
+*   [MPU6050-ESP32-MicroPython (⭐1)](https://github.com/gitcnd/MPU6050-ESP32-MicroPython) - MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.
+
+##### Scheduling / Touch Resistive
+
+*   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
+
+##### Storage / Configuration file
+
+*   [toml (⭐0)](https://github.com/gitcnd/toml) - Read and write .toml files. Works in MicroPython and CircuitPython.
+
+##### Storage / Database
+
+*   [simple-db (⭐1)](https://github.com/ctimmer/simple-db) - MicroPython relational database using B-tree.
+
+##### Utilities / SRAM
+
+*   [micropython-units (⭐1)](https://github.com/WoolleySheep/micropython-units) - A library for working with physical quantities in MicroPython.
+
+##### Community / SRAM
+
+*   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
+*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
+
+##### Frameworks / SRAM
+
+*   [public-micropython-iot-platform (⭐7)](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
+
+##### Shells / On Device
+
+*   [mpy\_shell (⭐4)](https://github.com/gitcnd/mpy_shell) - Linux-like shell for MicroPython. Full featured, very lightweight.
+
+##### Tools / On Host
+
+*   [belay (⭐265)](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
+*   [ESP-File\_manager (⭐18)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
+*   [mcu\_serial (⭐3)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
+
+#### [19. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+##### AI / ChatGPT
+
+*   [vibebox](https://vibebox.robcholz.com) - Per-project micro-VM sandbox for running coding agents on macOS with fast re-entry and explicit mounts.
+
+##### Package managers
+
+*   [lastversion](https://lastversion.getpagespeed.com) - Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources.
+
+##### Productivity
+
+*   [try-rs](https://try-rs.org) - Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects.
+
 ### [Feb 10, 2026](/content/2026/02/10/README.md)
 
 
@@ -719,13 +826,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
 
-#### [3. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### CLI & Terminal / Advanced Console UIs
-
-*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`601`
-
-#### [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Developer Utilities
 
@@ -742,6 +843,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Utilities / Finder Tools
 
 *   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
+
+#### [4. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### CLI & Terminal / Advanced Console UIs
+
+*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`601`
 
 ### [Feb 09, 2026](/content/2026/02/09/README.md)
 
@@ -820,25 +927,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
-#### [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
-
-##### Awesome TypeScript Essential Resources
-
-*   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
-
-#### [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+#### [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ##### Utilities / Provided by the Host
 
 *   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
-#### [6. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [5. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Agent Skills 🤖 / General
 
 *   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 
-#### [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+#### [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ##### Table of Contents / Data Pipeline
 
@@ -849,13 +950,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
 
-#### [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### AI Coding
 
 *   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
 
-#### [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+#### [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ##### AI and Machine Learning / Visual Studio
 
@@ -864,19 +965,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 *   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
-#### [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Plugins and scripts / Godot 4
 
 *   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 
-#### [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+#### [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ##### Games / Browser Games
 
 *   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 
-#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -894,7 +995,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [FormNX](https://www.FormNX.com/) - Create unlimited forms get unlimited submissions free of cost. Use professionally created 1000+ form templates or create forms from scratch. Get features like email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
 
-#### [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### LSP
 
@@ -904,7 +1005,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
-#### [14. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+#### [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ##### Backup
 
@@ -914,7 +1015,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
-#### [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Document Management - E-books
 
@@ -924,7 +1025,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
 
-#### [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Design and Product / Screen Recording
 
@@ -934,7 +1035,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Caching
 
@@ -944,7 +1045,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
-#### [18. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [17. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Systems Programming / Compilers and Interpreters
 
@@ -957,6 +1058,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Multimedia & Graphics / GUI
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+
+#### [18. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+##### Awesome TypeScript Essential Resources
+
+*   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
 
 ---
 
@@ -1010,10 +1117,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 44. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source](https://github.com/dariubs/GoBooks) ⭐ 19K 📝 01&#x2F;29) - List of Golang books
 45. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 28K 📝 01&#x2F;25) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 46. [Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md) - ([Source](https://github.com/ChromeDevTools/awesome-chrome-devtools) ⭐ 6.8K 📝 02&#x2F;08) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-47. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 01&#x2F;28) - List of useful Quick Look plugins for developers
-48. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source](https://github.com/stoeffel/awesome-fp-js) ⭐ 6K 📝 02&#x2F;08) - :sunglasses: A curated list of awesome functional programming stuff in js
-49. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source](https://github.com/shuaibiyy/awesome-terraform) ⭐ 6.3K 📝 02&#x2F;07) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-50. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source](https://github.com/dzharii/awesome-typescript) ⭐ 5.1K 📝 02&#x2F;09) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+47. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 4.9K 📝 02&#x2F;11) - A curated list of awesome projects related to eBPF.
+48. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 01&#x2F;28) - List of useful Quick Look plugins for developers
+49. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source](https://github.com/stoeffel/awesome-fp-js) ⭐ 6K 📝 02&#x2F;08) - :sunglasses: A curated list of awesome functional programming stuff in js
+50. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source](https://github.com/shuaibiyy/awesome-terraform) ⭐ 6.3K 📝 02&#x2F;07) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ## All Tracked List
 
@@ -1205,7 +1312,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
 - [Awesome Ci](/content/ligurio/awesome-ci/README.md) - ([Source ⭐ 3.9K, 📝 25&#x2F;08&#x2F;01 ](https://github.com/ligurio/awesome-ci)) - The list of continuous integration services and tools
 - [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 19K, 📝 02&#x2F;05 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.3K, 📝 01&#x2F;20 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.3K, 📝 02&#x2F;11 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Awesome Devenv](/content/jondot/awesome-devenv/README.md) - ([Source ⭐ 2.4K, 📝 22&#x2F;09&#x2F;20 ](https://github.com/jondot/awesome-devenv)) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [Awesome Devtools](/content/moimikey/awesome-devtools/README.md) - ([Source ⭐ 366, 📝 23&#x2F;12&#x2F;26 ](https://github.com/moimikey/awesome-devtools)) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 9.8K, 📝 25&#x2F;06&#x2F;19 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
@@ -1311,7 +1418,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md) - ([Source ⭐ 1.6K, 📝 18&#x2F;10&#x2F;30 ](https://github.com/TalAter/awesome-service-workers)) - :nut_and_bolt: A collection of awesome resources for learning Service Workers
 - [Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md) - ([Source ⭐ 2K, 📝 02&#x2F;09 ](https://github.com/agarrharr/awesome-static-website-services)) - 📄 🛠 A curated list of awesome static websites services
 - [Awesome Storybook](/content/lauthieb/awesome-storybook/README.md) - ([Source ⭐ 394, 📝 25&#x2F;07&#x2F;14 ](https://github.com/lauthieb/awesome-storybook)) - A collection of awesome resources about @storybookjs ecosystem 🎨
-- [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 2K, 📝 25&#x2F;12&#x2F;23 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
+- [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 2K, 📝 02&#x2F;11 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 15K, 📝 25&#x2F;05&#x2F;31 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 5.1K, 📝 02&#x2F;09 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
@@ -1500,7 +1607,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.3K, 📝 02&#x2F;04 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 88K, 📝 25&#x2F;01&#x2F;22 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Awesome Homematic](/content/homematic-community/awesome-homematic/README.md) - ([Source ⭐ 157, 📝 21&#x2F;01&#x2F;16 ](https://github.com/homematic-community/awesome-homematic)) - A curated list of Homematic related links :sparkles:
-- [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;08 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
+- [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;11 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
 - [Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md) - ([Source ⭐ 22, 📝 17&#x2F;11&#x2F;21 ](https://github.com/inspectit-labs/awesome-inspectit)) - A curated list of awesome inspectIT documentations and resources. 
 - [Awesome Irc](/content/davisonio/awesome-irc/README.md) - ([Source ⭐ 872, 📝 24&#x2F;07&#x2F;07 ](https://github.com/davisonio/awesome-irc)) - A curated list of awesome IRC resources.
 - [Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md) - ([Source ⭐ 440, 📝 21&#x2F;01&#x2F;26 ](https://github.com/victorlaerte/awesome-it-quotes)) - This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
@@ -1620,7 +1727,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Dos](/content/balintkissdev/awesome-dos/README.md) - ([Source ⭐ 565, 📝 25&#x2F;11&#x2F;24 ](https://github.com/balintkissdev/awesome-dos)) - Curated list of references for development of DOS applications.
 - [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 21K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 - [Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md) - ([Source ⭐ 20K, 📝 24&#x2F;08&#x2F;26 ](https://github.com/thangchung/awesome-dotnet-core)) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-- [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.9K, 📝 02&#x2F;08 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+- [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.9K, 📝 02&#x2F;11 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
 - [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 27K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 - [Awesome Esp](/content/agucova/awesome-esp/README.md) - ([Source ⭐ 482, 📝 22&#x2F;06&#x2F;19 ](https://github.com/agucova/awesome-esp)) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [Awesome Firebase](/content/jthegedus/awesome-firebase/README.md) - ([Source ⭐ 660, 📝 23&#x2F;09&#x2F;11 ](https://github.com/jthegedus/awesome-firebase)) - 🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!

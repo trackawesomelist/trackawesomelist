@@ -1,12 +1,52 @@
 # Awesome List Updates on Feb 11, 2026
 
-15 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+### AI / ChatGPT
+
+*   [vibebox](https://vibebox.robcholz.com) - Per-project micro-VM sandbox for running coding agents on macOS with fast re-entry and explicit mounts.
+
+### Package managers
+
+*   [lastversion](https://lastversion.getpagespeed.com) - Find the latest stable version and download assets of any project from GitHub, GitLab, PyPI, and other sources.
+
+### Productivity
+
+*   [try-rs](https://try-rs.org) - Temporary workspace manager with a TUI to organize, navigate, and manage experiments and throwaway projects.
+
+## [2. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+
+### Projects Related to eBPF / Observability
+
+*   [rstat (⭐3)](https://github.com/overyonder/rstat) - Sub-millisecond system monitoring using eBPF tracepoints on sched\_switch, sched\_process\_exit, and sched\_process\_free, with zero heap allocations in steady state.
+
+## [3. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Hugeicons](https://hugeicons.com/) - Beautiful production-ready icon library with 46,000+ icons in 10 styles available in SVG, font, and multiple popular framework packages (React, Vue, Svelte, Angular and more), including 4,600+ free open-source icons.
+
+### Tools
+
+*   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
+
+## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+
+### Icons
+
+*   [hugeicons (⭐10)](https://github.com/hugeicons/svelte) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
+
+### Miscellaneous
+
+*   [svelte-bash (⭐69)](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
+
+## [5. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### 3D
 
@@ -453,7 +493,7 @@
 *   [Youdao AI Writing](https://write.youdao.com/) - Automated multi-language text generation. 90 \`\`
 *   [Youdao Writing](https://write.youdao.com/) - English improvement with authoritative correction. 91 `#free`
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [6. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Fundamentals / Learning Resources
 
@@ -476,7 +516,7 @@
 
 *   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### JSON
 
@@ -519,17 +559,26 @@
     *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
         *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
 *   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
 
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
 *   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
+*   [IoTy vs1003 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vs1003.py) - Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.
+
+### Communications / Bluetooth
+
+*   [BTHome-MicroPython (⭐15)](https://github.com/DavesCodeMusings/BTHome-MicroPython) - MicroPython module to format sensor readings for BTHome BLE advertising payloads.
+
+### Communications / Compression
+
+*   [bitstruct-micropython (⭐6)](https://github.com/peterzuger/bitstruct-micropython) - MicroPython port of [bitstruct (⭐131)](https://github.com/eerimoq/bitstruct).
 
 ### Communications / IoT
 
@@ -539,17 +588,61 @@
 
 *   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
 
+### Communications / RTC
+
+*   [micropython-ds1302-rtc (⭐1)](https://github.com/PaszaVonPomiot/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+
+### Communications / Serialization
+
+*   [micropython-msgpack (⭐0)](https://github.com/gitcnd/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+
+### Communications / Telnet
+
+*   [telnetd (⭐0)](https://github.com/gitcnd/telnetd) - Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).
+
+### Communications / Text-to-Speech
+
+*   [micropython-samtts (⭐5)](https://github.com/jacklinquan/micropython-samtts) - A MicroPython port of Software Automatic Mouth Text-To-Speech program.
+
 ### Communications / Web
 
 *   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+*   [microsky (⭐3)](https://github.com/nakagami/microsky) - A [Bluesky](https://bsky.app/) client for Python and MicroPython.
+
+### Display / LED Segment
+
+*   [max7219\_8digit (⭐0)](https://github.com/GM-Script-Writer-62850/max7219_8digit) - MicroPython driver for the MAX7219 with 8 x 7-segment display.
+
+### Display / LEDs
+
+*   [IS31FL3197 (⭐1)](https://github.com/omeErik/IS31FL3197) - I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.
 
 ### IO / ADC
 
 *   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
 
+### Sensors / Camera
+
+*   [IoTy huskylib (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+*   [IoTy mv (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/mv.py) - A simple machine vision library that provides blob and circle detection.
+
+### Sensors / Distance Laser
+
+*   [IoTy lds02rr (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
+*   [IoTy coind4 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
+*   [IoTy delta2d (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
+
+### Sensors / Motion Inertial
+
+*   [MPU6050-ESP32-MicroPython (⭐1)](https://github.com/gitcnd/MPU6050-ESP32-MicroPython) - MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.
+
 ### Scheduling / Touch Resistive
 
 *   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
+
+### Storage / Configuration file
+
+*   [toml (⭐0)](https://github.com/gitcnd/toml) - Read and write .toml files. Works in MicroPython and CircuitPython.
 
 ### Storage / Database
 
@@ -564,7 +657,21 @@
 *   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
 *   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+### Frameworks / SRAM
+
+*   [public-micropython-iot-platform (⭐7)](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
+
+### Shells / On Device
+
+*   [mpy\_shell (⭐4)](https://github.com/gitcnd/mpy_shell) - Linux-like shell for MicroPython. Full featured, very lightweight.
+
+### Tools / On Host
+
+*   [belay (⭐265)](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
+*   [ESP-File\_manager (⭐18)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
+*   [mcu\_serial (⭐3)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
+
+## [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Specific Formats Processing
 
@@ -572,7 +679,7 @@
     *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -624,7 +731,7 @@
 
 *   [YAML (⭐453) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -634,7 +741,7 @@
 
 *   [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyhome-macos) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/itsyhome/id6758070650)
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### ✔ RSS Feed Validator / Outline Processor Markup Language
 
@@ -644,32 +751,32 @@
 
 *   [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 
-## [10. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [14. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Other / Frameworks
 
 *   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [arc-prompt (⭐3)](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 *   [zramdisk (⭐0)](https://github.com/TomfromBerlin/zramdisk) - User friendly configuration, creation, mounting, unmounting, and management of a compressed RAM disk.
 
-## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
 *   [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
-## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+## [17. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Connectors
 
 *   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -677,7 +784,7 @@
 *   **pyre-check** :warning: — A fast, scalable type checker for large Python codebases. Pyre-check has been superseded by Pyrefly, its next iteration.
 *   [pyrefly](https://pyrefly.org/) — A fast, incremental type checker and language server for Python, providing IDE features like code navigation, semantic highlighting, and code completion.
 
-## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [19. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 

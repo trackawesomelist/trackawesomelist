@@ -11,6 +11,15 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Audio
 
 *   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
+*   [IoTy vs1003 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vs1003.py) - Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.
+
+### Communications / Bluetooth
+
+*   [BTHome-MicroPython (⭐15)](https://github.com/DavesCodeMusings/BTHome-MicroPython) - MicroPython module to format sensor readings for BTHome BLE advertising payloads.
+
+### Communications / Compression
+
+*   [bitstruct-micropython (⭐6)](https://github.com/peterzuger/bitstruct-micropython) - MicroPython port of [bitstruct (⭐131)](https://github.com/eerimoq/bitstruct).
 
 ### Communications / IoT
 
@@ -20,17 +29,61 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
 
+### Communications / RTC
+
+*   [micropython-ds1302-rtc (⭐1)](https://github.com/PaszaVonPomiot/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+
+### Communications / Serialization
+
+*   [micropython-msgpack (⭐0)](https://github.com/gitcnd/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+
+### Communications / Telnet
+
+*   [telnetd (⭐0)](https://github.com/gitcnd/telnetd) - Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).
+
+### Communications / Text-to-Speech
+
+*   [micropython-samtts (⭐5)](https://github.com/jacklinquan/micropython-samtts) - A MicroPython port of Software Automatic Mouth Text-To-Speech program.
+
 ### Communications / Web
 
 *   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+*   [microsky (⭐3)](https://github.com/nakagami/microsky) - A [Bluesky](https://bsky.app/) client for Python and MicroPython.
+
+### Display / LED Segment
+
+*   [max7219\_8digit (⭐0)](https://github.com/GM-Script-Writer-62850/max7219_8digit) - MicroPython driver for the MAX7219 with 8 x 7-segment display.
+
+### Display / LEDs
+
+*   [IS31FL3197 (⭐1)](https://github.com/omeErik/IS31FL3197) - I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.
 
 ### IO / ADC
 
 *   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
 
+### Sensors / Camera
+
+*   [IoTy huskylib (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+*   [IoTy mv (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/mv.py) - A simple machine vision library that provides blob and circle detection.
+
+### Sensors / Distance Laser
+
+*   [IoTy lds02rr (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
+*   [IoTy coind4 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
+*   [IoTy delta2d (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
+
+### Sensors / Motion Inertial
+
+*   [MPU6050-ESP32-MicroPython (⭐1)](https://github.com/gitcnd/MPU6050-ESP32-MicroPython) - MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.
+
 ### Scheduling / Touch Resistive
 
 *   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
+
+### Storage / Configuration file
+
+*   [toml (⭐0)](https://github.com/gitcnd/toml) - Read and write .toml files. Works in MicroPython and CircuitPython.
 
 ### Storage / Database
 
@@ -44,6 +97,20 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
 *   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
+
+### Frameworks / SRAM
+
+*   [public-micropython-iot-platform (⭐7)](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
+
+### Shells / On Device
+
+*   [mpy\_shell (⭐4)](https://github.com/gitcnd/mpy_shell) - Linux-like shell for MicroPython. Full featured, very lightweight.
+
+### Tools / On Host
+
+*   [belay (⭐265)](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
+*   [ESP-File\_manager (⭐18)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
+*   [mcu\_serial (⭐3)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -423,10 +490,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Sensors / Biometric
 
 *   [max30102 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/max30102.py) - MicroPython driver for the MAX30102, with heartbeat detection and BPM measurement.
-
-### Sensors / Camera
-
-*   [huskylib (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
 
 ### Sensors / Distance Laser
 

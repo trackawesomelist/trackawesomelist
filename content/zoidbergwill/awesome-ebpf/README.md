@@ -6,6 +6,12 @@ A curated list of awesome projects related to eBPF.
 
 [ Daily / [Weekly](/content/zoidbergwill/awesome-ebpf/week/README.md) / [Overview](/content/zoidbergwill/awesome-ebpf/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Projects Related to eBPF / Observability
+
+*   [rstat (⭐3)](https://github.com/overyonder/rstat) - Sub-millisecond system monitoring using eBPF tracepoints on sched\_switch, sched\_process\_exit, and sched\_process\_free, with zero heap allocations in steady state.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Projects Related to eBPF / Security
