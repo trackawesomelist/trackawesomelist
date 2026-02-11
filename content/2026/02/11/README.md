@@ -1,12 +1,12 @@
-# Awesome List Updates on Feb 16 - Feb 22, 2026
+# Awesome List Updates on Feb 11, 2026
 
-31 awesome lists updated this week.
+15 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### 3D
 
@@ -453,7 +453,30 @@
 *   [Youdao AI Writing](https://write.youdao.com/) - Automated multi-language text generation. 90 \`\`
 *   [Youdao Writing](https://write.youdao.com/) - English improvement with authoritative correction. 91 `#free`
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Fundamentals / Learning Resources
+
+*   [Zen of Zig](https://zenofzig.com) - Interactive Zig book, teaching from beginner to intermediate level with playgrounds and illustrations. Also available on [Leanpub](https://leanpub.com/zenofzig)
+
+### Fundamentals / Community
+
+*   [Ziggit](https://ziggit.dev/) - The Zig forum.
+*   [Discord](https://discord.gg/zig) - Official Zig Discord server.
+*   [ZigCC](https://ziglang.cc) - Chinese Zig community.
+*   [Reddit](https://www.reddit.com/r/Zig/) - The Zig subreddit.
+*   [Zig Monthly](https://zig.news/) - Articles and news from the community.
+
+### Systems Programming / Emulators
+
+*   [zmx (⭐761)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
+*   [zbpf (⭐226)](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig.
+
+### Data & Science / Machine Learning
+
+*   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### JSON
 
@@ -496,7 +519,13 @@
     *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
         *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
-## [3. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Web Servers
+
+*   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
+
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
@@ -535,7 +564,7 @@
 *   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
 *   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
 
-## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Specific Formats Processing
 
@@ -543,7 +572,7 @@
     *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -595,7 +624,17 @@
 
 *   [YAML (⭐453) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Reading and Writing Tools / Text Editors
+
+*   [Itsypad](https://itsypad.app) - A tiny, fast scratchpad and clipboard manager for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsypad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Menu Bar Tools
+
+*   [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyhome-macos) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/itsyhome/id6758070650)
+
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### ✔ RSS Feed Validator / Outline Processor Markup Language
 
@@ -605,26 +644,32 @@
 
 *   [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 
-## [7. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [10. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Other / Frameworks
 
 *   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [arc-prompt (⭐3)](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 *   [zramdisk (⭐0)](https://github.com/TomfromBerlin/zramdisk) - User friendly configuration, creation, mounting, unmounting, and management of a compressed RAM disk.
 
-## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
 *   [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### Connectors
+
+*   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
+
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -632,297 +677,12 @@
 *   **pyre-check** :warning: — A fast, scalable type checker for large Python codebases. Pyre-check has been superseded by Pyrefly, its next iteration.
 *   [pyrefly](https://pyrefly.org/) — A fast, incremental type checker and language server for Python, providing IDE features like code navigation, semantic highlighting, and code completion.
 
-## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 
 *   [Kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
 
-## [12. Awesome Go](/content/abordage/awesome-go/week/README.md)
-
-### CLI & Terminal / Advanced Console UIs
-
-*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`601`
-
-## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
-
-### Polars plugins / Validation
-
-*   [wimsey (⭐170)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
-
-### Polars plugins / Machine Learning & Data Science
-
-*   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
-
-## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
-
-### Games / Browser Games
-
-*   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
-
-## [15. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
-
-### Plugins and scripts / Godot 4
-
-*   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
-
-## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
-
-### AI and Machine Learning / Visual Studio
-
-*   [VibeKit (⭐14)](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
-*   [AlgoChat (⭐1)](https://github.com/CorvidLabs/ts-algochat) - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
-*   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
-*   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
-
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### AI Coding
-
-*   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
-
-## [18. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
-
-### Backup
-
-*   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
-
-### Connectors
-
-*   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
-
-### Incubating
-
-*   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
-
-## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
-
-### Table of Contents / Data Pipeline
-
-*   [Bruin (⭐1.4k)](https://github.com/bruin-data/bruin) \[Go] - End-to-end data pipeline tool combining ingestion from 50+ sources, SQL/Python transformations, and built-in data quality checks in a single CLI.
-*   [ingestr (⭐3.4k)](https://github.com/bruin-data/ingestr) \[Python] - CLI tool to copy data between any source and destination with a single command. Supports 50+ connectors including databases, SaaS apps, and data warehouses.
-
-### Table of Contents / Readings
-
-*   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
-
-## [20. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
-
-### Agent Skills 🤖 / General
-
-*   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
-
-## [21. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
-
-### Fundamentals / Learning Resources
-
-*   [Zen of Zig](https://zenofzig.com) - Interactive Zig book, teaching from beginner to intermediate level with playgrounds and illustrations. Also available on [Leanpub](https://leanpub.com/zenofzig)
-
-### Fundamentals / Community
-
-*   [Ziggit](https://ziggit.dev/) - The Zig forum.
-*   [Discord](https://discord.gg/zig) - Official Zig Discord server.
-*   [ZigCC](https://ziglang.cc) - Chinese Zig community.
-*   [Reddit](https://www.reddit.com/r/Zig/) - The Zig subreddit.
-*   [Zig Monthly](https://zig.news/) - Articles and news from the community.
-
-### Systems Programming / Compilers and Interpreters
-
-*   [dawk](https://codeberg.org/triallax/dawk) - Reasonably fast POSIX-compliant AWK implementation with good diagnostics.
-
-### Systems Programming / Emulators
-
-*   [zmx (⭐761)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
-*   [zbpf (⭐226)](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig.
-
-### Data & Science / Database
-
-*   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
-
-### Data & Science / Machine Learning
-
-*   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
-
-### Multimedia & Graphics / GUI
-
-*   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
-
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications / Web Servers
-
-*   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
-
-### Libraries / Caching
-
-*   [hit-box/hitbox (⭐108)](https://github.com/hit-box/hitbox) - A declarative cache orchestration framework with HTTP middleware and multi-tier backends [![CI](https://github.com/hit-box/hitbox/actions/workflows/CI.yml/badge.svg)](https://github.com/hit-box/hitbox/actions/workflows/CI.yml)
-
-### Libraries / Text processing
-
-*   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
-
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Reading and Writing Tools / Text Editors
-
-*   [Itsypad](https://itsypad.app) - A tiny, fast scratchpad and clipboard manager for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsypad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Developer Tools / Developer Utilities
-
-*   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
-
-### Design and Product / Screen Recording
-
-*   [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jsattler/BetterCapture) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Utilities / Clipboard Tools
-
-*   [SaneClip](https://saneclip.com) - Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClip)
-
-### Utilities / Menu Bar Tools
-
-*   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneBar)
-*   [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyhome-macos) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/itsyhome/id6758070650)
-
-### Utilities / Productivity
-
-*   [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f/textream) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Utilities / Finder Tools
-
-*   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
-
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Document Management - E-books
-
-*   [MyMangaDB (⭐9)](https://github.com/FabianRolfMatthiasNoll/MyMangaDB) `⚠` - Manga collection manager with automatic metadata, MyAnimeList import and detailed collection statistics. `GPL-3.0` `Docker`
-
-### Software / Media Streaming - Multimedia Streaming
-
-*   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
-
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Geekflare API](https://geekflare.com/api/) - Geekflare API lets you scrape websites into Markdown, take screenshots, perform TLS scans and DNS lookups, test load times, and more. The free plan offers 500 API credits per month (e.g., 500 DNS lookups, 250 web scrapes, or 100 screenshots). See [credit mapping](https://docs.geekflare.com/api/api-credit-mapping).
-
-### Tools for Teams and Collaboration
-
-*   [RightFeature](https://rightfeature.com/) — Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.
-
-### Messaging and Streaming
-
-*   [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
-
-### Forms
-
-*   [FormNX](https://www.FormNX.com/) - Create unlimited forms get unlimited submissions free of cost. Use professionally created 1000+ form templates or create forms from scratch. Get features like email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
-
-## [26. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
-
-### Utilities / Provided by the Host
-
-*   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
-
-## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
-
-### Awesome TypeScript Essential Resources
-
-*   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
-
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### LSP
-
-*   [akioweh/lsp-document-highlight.nvim (⭐4)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
-
-### Programming Languages Support / Diagnostics
-
-*   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
-
-### Database / Automation
-
-*   [zerochae/dbab.nvim (⭐18)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
-
-### External / OS-specific
-
-*   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
-
-## [29. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
-
-### Frameworks / Graph
-
-*   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
-
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
-
-### Books
-
-*   [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
-
-## [31. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
-
-### ⚙️ Middlewares / 🧬 Core
-
-*   [Adaptor (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
-*   [BasicAuth (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
-*   [Cache (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/cache) - Intercept and cache responses.
-*   [Compress (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/compress) - Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
-*   [CORS (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
-*   [CSRF (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/csrf) - Protect from CSRF exploits.
-*   [Earlydata (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/earlydata) - Early data support for Fiber.
-*   [Encrypt Cookie (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
-*   [EnvVar (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/envvar) - Expose environment variables with providing an optional config.
-*   [ETag (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/etag) - Lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
-*   [Expvar (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/expvar) - Serves runtime exposed variants in JSON format via its HTTP server.
-*   [Favicon (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
-*   [Healthcheck (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/healthcheck) - Adds health-check endpoints for readiness and liveness probes.
-*   [Helmet (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
-*   [Idempotency (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/idempotency) - Enables fault-tolerant APIs when duplicate requests occur.
-*   [Keyauth (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/keyauth) - Key auth middleware provides a key based authentication.
-*   [Limiter (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
-*   [Logger (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/logger) - HTTP request/response logger.
-*   [Pprof (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/pprof) - Serves runtime profiling data in the format expected by the pprof visualization tool.
-*   [Proxy (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/proxy) - Allows you to proxy requests to a multiple servers.
-*   [Recover (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/recover) - Recovers from panics anywhere in the stack chain and hands control to the centralized ErrorHandler.
-*   [Redirect (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/redirect) - Handles HTTP redirects in Fiber.
-*   [RequestID (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/requestid) - Adds a requestid to every request.
-*   [Responsetime (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/responsetime) - Adds an `X-Response-Time` header to responses.
-*   [Rewrite (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/rewrite) - Rewrites the URL path based on provided rules for backward compatibility or cleaner links.
-*   [Session (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/session) - Provides session management. NOTE: This middleware uses our Storage package.
-*   [Skip (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/skip) - Skips a wrapped handler when a predicate is true.
-*   [Static (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/static) - Serves static files from a local or custom file system.
-*   [Timeout (⭐39k)](https://github.com/gofiber/fiber/tree/main/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
-
-### ⚙️ Middlewares / ‍💻 Contrib
-
-*   [casbin (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/casbin) - Authorization middleware for Fiber powered by Casbin.
-*   [circuitbreaker (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/circuitbreaker) - Circuit breaker middleware for Fiber.
-*   [fgprof (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/fgprof) - Fiber profiling support via fgprof.
-*   [hcaptcha (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/hcaptcha) - Bot-protection middleware using hCaptcha.
-*   [i18n (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/i18n) - Internationalization middleware built on go-i18n.
-*   [jwt (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/jwt) - JSON Web Token (JWT) auth middleware.
-*   [loadshed (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/loadshed) - Load-shedding middleware to protect Fiber services under pressure.
-*   [monitor (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/monitor) - Server metrics monitor middleware for Fiber.
-*   [newrelic (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/newrelic) - New Relic instrumentation support for Fiber.
-*   [opa (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/opa) - Open Policy Agent (OPA) middleware support for Fiber.
-*   [otel (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/otel) - OpenTelemetry middleware support for Fiber.
-*   [paseto (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/paseto) - Platform-Agnostic Security Tokens (PASETO) auth middleware.
-*   [sentry (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/sentry) - Error monitoring and reporting integration for Fiber with Sentry.
-*   [socketio (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/socketio) - Socket.IO-inspired WebSocket wrapper middleware for Fiber.
-*   [swaggo (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/swaggo) - Middleware for serving Swag-generated API docs in Fiber.
-*   [swaggerui (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/swaggerui) - Swagger UI middleware for serving OpenAPI specs in Fiber.
-*   [testcontainers (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/testcontainers) - Service implementation for integrating Testcontainers with Fiber.
-*   [WebSocket (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/websocket) - Fasthttp-based WebSocket integration for Fiber with `fiber.Ctx` support.
-*   [zap (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/zap) - Logging middleware support for Fiber with Zap.
-*   [zerolog (⭐284)](https://github.com/gofiber/contrib/tree/main/v3/zerolog) - Logging middleware support for Fiber with Zerolog.
-
-### ⚙️ Middlewares / 🌱 Third Party
-
-*   [DavidHoenisch/fiber-coraza (⭐1)](https://github.com/DavidHoenisch/fiber-coraza) - Coraza WAF middleware for Fiber, providing web application firewall protection with ModSecurity-compatible rules.
-
 ---
 
-- Next: [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
+- Next: [Feb 10, 2026](/content/2026/02/10/README.md)

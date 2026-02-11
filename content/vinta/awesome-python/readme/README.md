@@ -19,7 +19,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 </div>
 <br>
 
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Python
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
@@ -338,7 +338,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 
 *   [aws-sdk-pandas (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 *   [datasette (⭐11k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
-*   [desbordante (⭐463)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+*   [desbordante (⭐465)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 *   [docling (⭐52k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
 *   [optimus (⭐1.5k)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
 *   [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
@@ -446,7 +446,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [pytorch-lightning (⭐31k)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 *   [pytorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [stable-baselines3 (⭐13k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
-*   [tensorflow (⭐193k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 *   [vllm (⭐70k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ## DevOps Tools
@@ -721,7 +721,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [doit](http://pydoit.org/) - A task runner and build tool.
 *   [Joblib](https://joblib.readthedocs.io/) - A set of tools to provide lightweight pipelining in Python.
 *   [Plan (⭐1.2k)](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm.
-*   [Prefect (⭐21k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+*   [Prefect (⭐22k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 *   [schedule (⭐12k)](https://github.com/dbader/schedule) - Python job scheduling for humans.
 *   [Spiff (⭐1.9k)](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python.
 *   [TaskFlow](https://docs.openstack.org/developer/taskflow/) - A Python library that helps to make task execution easy, consistent and reliable.
@@ -738,7 +738,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 
 ## Machine Learning
 
-*Libraries for Machine Learning. Also see [awesome-machine-learning (⭐71k)](https://github.com/josephmisiti/awesome-machine-learning#python).*
+*Libraries for Machine Learning. Also see [awesome-machine-learning (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
 *   [diffusers (⭐33k)](https://github.com/huggingface/diffusers) - A library that provides pretrained diffusion models for generating and editing images, audio, and video.
 *   [gym (⭐37k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -981,6 +981,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *Libraries for parsing and manipulating specific text formats.*
 
 *   General
+    *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 *   Office
     *   [docxtpl (⭐2.5k)](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template

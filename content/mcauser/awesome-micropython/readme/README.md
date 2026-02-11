@@ -91,6 +91,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-tas2505 (⭐2)](https://github.com/miketeachman/micropython-tas2505) - MicroPython driver for the Texas Instruments TAS2505 Digital Input Class-D Speaker Amplifier.
 *   [yx5300 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
 *   [micropython\_nonblocking\_buzzer (⭐1)](https://github.com/jornamon/micropython_nonblocking_buzzer) - A nonblocking implementation of a buzzer class that allows you to play basic melodies or sound patterns without blocking the main loop while the sound is being played.
+*   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
 
 ### Communications
 
@@ -156,7 +157,7 @@ Other places you can look for MicroPython Libraries:
 *   [mpy-mbedtls (⭐3)](https://github.com/Carglglz/mpy-mbedtls) - MicroPython bindings for some MbedTLS EC and x509 cert/csr functions.
 *   [micropython-cryptocfb (⭐7)](https://github.com/jacklinquan/micropython-cryptocfb) - A Python module to encrypt and decrypt data with AES-128 CFB mode.
 *   [tscp (⭐3)](https://github.com/shariltumin/tscp) - An endpoint-to-endpoint encryption based on Diffie-Hellman-Merkle with TLS1.3 styled handshake using MicroPython.
-*   [usigv4 (⭐2)](https://github.com/vhespanha/usigv4) - A minimal aws signature version 4 (SigV4) implementation for micropython/embedded use.
+*   [usigv4 (⭐2)](https://github.com/vhespanha/usigv4) - A minimal AWS signature version 4 (SigV4) implementation for MicroPython/embedded use.
 
 #### DNS
 
@@ -211,7 +212,7 @@ Other places you can look for MicroPython Libraries:
 
 #### IoT
 
-*   [aiomqttc](https://github.com/Tangerino/aiomqttc.git) - Asynchronous MQTT Client for Micropython AND CPython.
+*   [aiomqttc (⭐14)](https://github.com/Tangerino/aiomqttc) - Asynchronous MQTT Client for MicroPython AND CPython.
 *   [microhomie (⭐81)](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
 *   [uPyEcho (⭐57)](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
 *   [SonosRemote (⭐56)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
@@ -246,6 +247,9 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-aiolora (⭐7)](https://github.com/wybiral/micropython-aiolora) - MicroPython library for controlling a Semtech SX127x LoRa module with asyncio API.
 *   [micropython-rylr (⭐5)](https://github.com/wybiral/micropython-rylr) - MicroPython library for controlling Reyax LoRa modules (RYLR896, RYLR406).
 *   [silvergeko\_rfm9x (⭐1)](https://github.com/scopelemanuele/silvergeko_rfm9x) - Porting to MicroPython of adafruit\_rfm9x.py library.
+*   [EByte\_LoRa\_E220\_micropython\_library (⭐25)](https://github.com/xreef/EByte_LoRa_E220_micropython_library) - MicroPython LoRa EBYTE E220 devices.
+*   [EByte\_LoRa\_E22\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E22_micropython_library) - MicroPython LoRa EBYTE E22 devices.
+*   [EByte\_LoRa\_E32\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - MicroPython LoRa EBYTE E32 devices.
 
 #### LoRaWAN
 
@@ -302,6 +306,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython\_ntpserver (⭐3)](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 *   [micropython-ntpclient (⭐5)](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 *   [micropython-ntp (⭐16)](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
+*   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
 
 #### Object Storage
 
@@ -342,9 +347,6 @@ Other places you can look for MicroPython Libraries:
 *   [pico\_jjy\_tx (⭐10)](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 *   [pico\_dcf77\_tx (⭐12)](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
 *   [micropython\_dcf77 (⭐4)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
-*   [EByte\_LoRa\_E220\_micropython\_library (⭐25)](https://github.com/xreef/EByte_LoRa_E220_micropython_library) - MicroPython LoRa EBYTE E220 devices.
-*   [EByte\_LoRa\_E22\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E22_micropython_library) - MicroPython LoRa EBYTE E22 devices.
-*   [EByte\_LoRa\_E32\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - MicroPython LoRa EBYTE E32 devices.
 
 #### RC receiver
 
@@ -452,6 +454,7 @@ Other places you can look for MicroPython Libraries:
 *   [CaptiveWebServer (⭐1)](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
 *   [micropython-urouter (⭐53)](https://github.com/majoson-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 *   [wlan-relays (⭐0)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
+*   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
 
 #### WiFi
 
@@ -558,9 +561,6 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-st7735 (⭐28)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐29)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
 *   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐31)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
-
-<!-- 404 * [ST7735](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs. -->
-
 *   [micropython-ili9341 (⭐287)](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
 *   [st7789\_mpy (⭐224)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
 *   [st7789py\_mpy (⭐94)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
@@ -668,6 +668,7 @@ Other places you can look for MicroPython Libraries:
 *   [ads1115 (⭐0)](https://github.com/octaprog7/ads1115) - MicroPython module for managing ADS1115, multichannel, differential I2C ADC from TI.
 *   [mcp3421 (⭐0)](https://github.com/octaprog7/mcp3421) - MicroPython module for controlling MCP342X, 18-bit analog-to-digital converter with I2C interface.
 *   [micropython-MCP3001 (⭐0)](https://github.com/scruss/micropython-MCP3001) - MicroPython driver for the MCP3001 1-channel 10-bit ADC with SPI interface.
+*   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
 
 #### DAC
 
@@ -785,8 +786,6 @@ Other places you can look for MicroPython Libraries:
 *   [MicroPython Motor Kit (⭐8)](https://github.com/cnadler86/MicroPython_Motor) - General motor control libraries.
 
 #### DC Motor
-
-<!-- 404 * [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller. -->
 
 *   [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - Drive L298 dual H-bridge with MicroPython.
 *   [pyl298 (⭐2)](https://github.com/marcio-pessoa/pyl298) - Driver for the L298 dual full-bridge motor controller.
@@ -971,13 +970,13 @@ Other places you can look for MicroPython Libraries:
 *   [SCD4x (⭐18)](https://github.com/octaprog7/SCD4x) - MicroPython module for work with SCD4x (SCD40, SCD41) low power CO2, temperature & humidity electroacoustic sensor from Sensirion.
 *   [ens160 (⭐4)](https://github.com/octaprog7/ens160) - MicroPython module for work with ENS160 Digital Metal-Oxide Multi-Gas Sensor.
 
-#### Humidity
-
-*   [MicroPython\_HTS221 (⭐0)](https://github.com/jposada202020/MicroPython_HTS221) - MicroPython Driver for the HTS221 Humidity Sensor.
-
 #### Human Presence
 
 *   [ld2410 (⭐15)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/ld2410.py) - 24GHz human presence sensing module, capable of detecting moving and stationary targets, and providing an approximate range.
+
+#### Humidity
+
+*   [MicroPython\_HTS221 (⭐0)](https://github.com/jposada202020/MicroPython_HTS221) - MicroPython Driver for the HTS221 Humidity Sensor.
 
 #### Light
 
@@ -1148,6 +1147,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-scron (⭐9)](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known cron program for Unix systems.
 *   [Schedule (⭐816)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for asyncio based applications. Schedule events at specified times and dates or with reference to Sun and Moon rise and set.
 *   [micropython-aioschedule (⭐12)](https://github.com/ThinkTransit/micropython-aioschedule) - A persistent uasyncio scheduler that supports deepsleep between task runs.
+*   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
 
 ### Storage
 
@@ -1155,20 +1155,21 @@ Other places you can look for MicroPython Libraries:
 
 *   [uPyftsConf (⭐8)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
 
-#### Databases
+#### Database
 
 *   [uPyMySQL (⭐24)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐22)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐12)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 *   [micropg (⭐28)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 *   [micropg\_lite (⭐6)](https://github.com/TimonW-Dev/micropg_lite) - Lightweight version of micropg with some slight limitations (e.g. error handling), in order to run on low-RAM microcontrollers (works with ESP8266).
-*   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for micropython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
+*   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for MicroPython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
 *   [micropython-cratedb (⭐10)](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
 *   [nmongo (⭐20)](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 *   [MicroPyDatabase (⭐22)](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
 *   [micropython-firebase-realtime-database (⭐25)](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
 *   [micropython-firebase-firestore (⭐8)](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 *   [uSQLite (⭐125)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
+*   [simple-db (⭐1)](https://github.com/ctimmer/simple-db) - MicroPython relational database using B-tree.
 
 #### EEPROM
 
@@ -1211,16 +1212,17 @@ Other places you can look for MicroPython Libraries:
 
 *   [micropython-hexdump (⭐4)](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 *   [mp\_wcwidth (⭐3)](https://github.com/Josverl/mp_wcwidth) - Python port of [wcwidth (⭐437)](https://github.com/jquast/wcwidth) to handle wide unicode characters such as "你好世界" in terminal output.
+*   [micropython-units (⭐1)](https://github.com/WoolleySheep/micropython-units) - A library for working with physical quantities in MicroPython.
 
 ## Community
 
 *   [MicroPython Discussions on GitHub](https://github.com/orgs/micropython/discussions) - GitHub discussions for all things related to MicroPython.
 *   [MicroPython Forum (archive)](https://forum.micropython.org/) - Archived community conversations on all things related to MicroPython.
-*   [Discord](https://discord.com/invite/qw7d8bv) - Get an invite to the MicroPython Discord server.
+*   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
 *   [MicroPython on Mastodon / Fediverse](https://fosstodon.org/@MicroPython) - Follow MicroPython in the Fediverse.
 *   [MicroPython on Twitter](https://twitter.com/micropython) - Follow MicroPython on Twitter for latest news and updates.
 *   [MicroPython on Facebook](https://www.facebook.com/micropython) - Like MicroPython on Facebook for competitions, news and updates.
-*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
+*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
 
 ## Tutorials
 

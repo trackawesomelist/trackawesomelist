@@ -6,6 +6,45 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ [Daily](/content/mcauser/awesome-micropython/README.md) / Weekly / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Audio
+
+*   [multi-midi (⭐2)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
+
+### Communications / IoT
+
+*   [aiomqttc (⭐14)](https://github.com/Tangerino/aiomqttc) - Asynchronous MQTT Client for MicroPython AND CPython.
+
+### Communications / NTP
+
+*   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
+
+### Communications / Web
+
+*   [micropidash (⭐3)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+
+### IO / ADC
+
+*   [ADS1256 (⭐2)](https://github.com/robert-hh/ADS1256) - Driver for the ADS1256 24-bit low noise ADC, both as a generic MicroPython version and using the RP2040/RP2350 PIO.
+
+### Scheduling / Touch Resistive
+
+*   [Suntime (⭐0)](https://github.com/lorcap/micropython-suntime) - Approximated calculation of sunrise and sunset time. Given a `date` and the coordinate pair `(latitude, longitude)` of a place on Earth, this library computes when sun rises above the horizon and when it sets down on that day in that place.
+
+### Storage / Database
+
+*   [simple-db (⭐1)](https://github.com/ctimmer/simple-db) - MicroPython relational database using B-tree.
+
+### Utilities / SRAM
+
+*   [micropython-units (⭐1)](https://github.com/WoolleySheep/micropython-units) - A library for working with physical quantities in MicroPython.
+
+### Community / SRAM
+
+*   [Discord](https://micropython.org/discord) - Get an invite to the MicroPython Discord server.
+*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Communications / HTTP
@@ -24,7 +63,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / Cryptography
 
-*   [usigv4 (⭐2)](https://github.com/vhespanha/usigv4) - A minimal aws signature version 4 (SigV4) implementation for micropython/embedded use.
+*   [usigv4 (⭐2)](https://github.com/vhespanha/usigv4) - A minimal AWS signature version 4 (SigV4) implementation for MicroPython/embedded use.
 
 ### Communications / Object Storage
 
@@ -37,12 +76,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### IDEs / SRAM
 
 *   [Embedible](https://embedible.io/) - an AI hardware copilot that helps you design, wire, and code MicroPython projects for ESP32 and Raspberry Pi Pico W.
-
-## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
-
-### Communications / IoT
-
-*   [aiomqttc](https://github.com/Tangerino/aiomqttc.git) - Asynchronous MQTT Client for Micropython AND CPython.
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
@@ -102,9 +135,9 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-joystick-2-unit (⭐1)](https://github.com/HowManyOliversAreThere/micropython-joystick-2-unit) - Driver for the [M5Stack Joystick 2 Unit](https://docs.m5stack.com/en/unit/Unit-JoyStick2).
 
-### Storage / Databases
+### Storage / Database
 
-*   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for micropython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
+*   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for MicroPython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -144,6 +177,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [sim7600 (⭐9)](https://github.com/basanovase/sim7600) - MicroPython library for SIM7600 module.
 *   [sim900 (⭐3)](https://github.com/basanovase/sim900) - MicroPython library for SIM900 GSM/GPRS module.
 
+### Communications / LoRa
+
+*   [EByte\_LoRa\_E220\_micropython\_library (⭐25)](https://github.com/xreef/EByte_LoRa_E220_micropython_library) - MicroPython LoRa EBYTE E220 devices.
+*   [EByte\_LoRa\_E22\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E22_micropython_library) - MicroPython LoRa EBYTE E22 devices.
+*   [EByte\_LoRa\_E32\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - MicroPython LoRa EBYTE E32 devices.
+
 ### Communications / NTP
 
 *   [micropython-ntp (⭐16)](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
@@ -151,12 +190,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Communications / Proxy
 
 *   [uProxy (⭐6)](https://github.com/shawwwn/uProxy) - An asyncio-based, memory-efficient HTTP/HTTPS/SOCKS4/SOCKS5 forward proxy server for MicroPython, compatible with CPython.
-
-### Communications / Radio
-
-*   [EByte\_LoRa\_E220\_micropython\_library (⭐25)](https://github.com/xreef/EByte_LoRa_E220_micropython_library) - MicroPython LoRa EBYTE E220 devices.
-*   [EByte\_LoRa\_E22\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E22_micropython_library) - MicroPython LoRa EBYTE E22 devices.
-*   [EByte\_LoRa\_E32\_micropython\_library (⭐9)](https://github.com/xreef/EByte_LoRa_E32_micropython_library) - MicroPython LoRa EBYTE E32 devices.
 
 ### Communications / RTC
 
@@ -266,7 +299,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-ft6x06 (⭐10)](https://github.com/antirez/micropython-ft6x06) - Simple driver for FT6x06 capacitive touch sensor in pure Python.
 
-### Storage / Databases
+### Storage / Database
 
 *   [micropython-cratedb (⭐10)](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
 
@@ -493,7 +526,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
-### Storage / Databases
+### Storage / Database
 
 *   [micropg\_lite (⭐6)](https://github.com/TimonW-Dev/micropg_lite) - Lightweight version of micropg with some slight limitations (e.g. error handling), in order to run on low-RAM microcontrollers (works with ESP8266).
 
@@ -1065,7 +1098,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Community / SRAM
 
-*   [Discord](https://discord.com/invite/qw7d8bv) - Get an invite to the MicroPython Discord server.
 *   [MicroPython on Mastodon / Fediverse](https://fosstodon.org/@MicroPython) - Follow MicroPython in the Fediverse.
 *   [MicroPython on Twitter](https://twitter.com/micropython) - Follow MicroPython on Twitter for latest news and updates.
 
@@ -1177,7 +1209,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni MICS6814 breakout board.
 
-### Storage / Databases
+### Storage / Database
 
 *   [micropython-firebase-firestore (⭐8)](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for MicroPython.
 
@@ -1343,7 +1375,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [vl53l5cx (⭐21)](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
 
-### Storage / Databases
+### Storage / Database
 
 *   [uSQLite (⭐125)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
@@ -1741,7 +1773,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-scron (⭐9)](https://github.com/fizista/micropython-scron) - SimpleCRON is a time-based task scheduling program inspired by the well-known cron program for Unix systems.
 
-### Storage / Databases
+### Storage / Database
 
 *   [MicroPyDatabase (⭐22)](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
 *   [micropython-firebase-realtime-database (⭐25)](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
@@ -2025,7 +2057,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-mcron (⭐39)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
-### Storage / Databases
+### Storage / Database
 
 *   [nmongo (⭐20)](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 
@@ -2229,7 +2261,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [XPT2046-touch-pad-driver (⭐19)](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
-### Storage / Databases
+### Storage / Database
 
 *   [uPyMySQL (⭐24)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐22)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
@@ -2243,7 +2275,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Community / SRAM
 
 *   [MicroPython on Facebook](https://www.facebook.com/micropython) - Like MicroPython on Facebook for competitions, news and updates.
-*   [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
 
 ### Books / SRAM
 

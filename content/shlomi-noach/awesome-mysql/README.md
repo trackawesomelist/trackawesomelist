@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ Daily / [Weekly](/content/shlomi-noach/awesome-mysql/week/README.md) / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Connectors
+
+*   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
+
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### Backup
@@ -106,10 +112,6 @@ A curated list of awesome MySQL software, libraries, tools and resources
 *   [MySQL Connector/Python (⭐945)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
 *   [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 
-### Deployment
-
-*   [dbdeployer (⭐716)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
-
 ### Development
 
 *   [Flywaydb (⭐9.5k)](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
@@ -132,7 +134,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [Galera Cluster (⭐486)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 *   [mha4mysql-node (⭐409)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-*   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
+*   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
 
 ### Proxy
 
@@ -171,7 +173,6 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### Connectors
 
 *   [mysqlclient-python (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python.
-*   [node-mysql](https://github.com/mysqljs/node) - A pure Nodejs Javascript client implementing the MySQL protocol.
 
 ### GUI
 
@@ -185,7 +186,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### Toolkits
 
 *   [go-mysql (⭐4.9k)](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
-*   [UnDROP (⭐415)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
+*   [UnDROP (⭐415)](https://github.com/twindb/undrop-for-innodb) (archived) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 ## [May 30, 2024](/content/2024/05/30/README.md)
 
@@ -213,7 +214,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Replication
 
-*   [data-diff (⭐3k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐3k)](https://github.com/datafold/data-diff) (archived) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## [Oct 06, 2021](/content/2021/10/06/README.md)
 
@@ -283,10 +284,6 @@ A curated list of awesome MySQL software, libraries, tools and resources
 *   [PyMySQL (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.3k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 
-### Deployment
-
-*   [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-
 ### Development
 
 *   [Shift (⭐741)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
@@ -308,7 +305,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### Schema
 
 *   [common\_schema (⭐126)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐830)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [sys (⭐830)](https://github.com/mysql/mysql-sys) (archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See [sys schema docs](https://dev.mysql.com/doc/refman/8.4/en/sys-schema.html)
 
 ### Security
 

@@ -102,6 +102,7 @@ Usually a library or framework that lets you import other icon sets.
 *   Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
 *   [Iconify Deign (⭐5.9k)](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 *   [React Icons (⭐12k)](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
+*   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
 ## License
 

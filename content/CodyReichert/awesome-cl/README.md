@@ -6,6 +6,49 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### JSON
+
+*   [cl-json-utils](https://git.sr.ht/~q3cpma/cl-json-utils) - querying JSON, inspired by JSONPath by lisp-ier.
+    *   jsonpath: `$.store.book[*].author`, json-utils: `(query $ "store" "book" :wild "author")`
+
+### XML
+
+*   [cl-excel (⭐11)](https://github.com/gwangjinkim/cl-excel) - a modern and powerful Common Lisp library for reading and writing Microsoft Excel .xlsx and LibreOffice .ods files. MIT.
+    *   "allow developers to handle complex spreadsheets with minimal code while maintaining memory efficiency for large datasets."
+    *   full writing support.
+    *   robust format detection.
+
+### Miscellaneous
+
+*   [eon (⭐42)](https://github.com/bohonghuang/eon) -  An easy-to-use but flexible game framework based on Raylib for Common Lisp. Apache2.0.
+*   [lisp-magick-wand (⭐21)](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
+
+### Javascript / Isomorphic web frameworks
+
+*   [datastar-cl (⭐56)](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
+    *   online demo: <https://dataspice.interlaye.red/>
+
+### Job processing / Third-party APIs
+
+*   [pregexp](http://ds26gte.github.io/pregexp/index.html) -  Portable Regular Expressions for Scheme and Common Lisp.
+
+### Emacs / Third-party APIs
+
+*   [IDEmacs](https://codeberg.org/IDEmacs/IDEmacs) is an attempt at making Emacs beginner friendly.
+    *   it ships Sly for Common Lisp. With Emacs v29 or higher, you can try IDEmacs temporarily without messing with your .emacs configuration, thanks to the new `--init-directory` option.
+*   [Varhammer (⭐9)](https://github.com/varhammer/varhammer) -  Portable Common Lisp IDE for Windows (Emacs + SBCL + SLIME). New in 2025.
+    *   Emacs 30.2 + SBCL 2.6.0 + SLIME 2.32 + Quicklisp as of January, 2026.
+    *   fully offline, USB ready, no installation required.
+
+### Documentation lookup / Third-party APIs
+
+*   [cl-docsearch (⭐5)](https://github.com/digikar99/cl-docsearch) -  A tool to search documentation of lisp symbols in the current lisp image.
+    *   indexes and searches the documentation string too.
+    *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
+        *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Educational
@@ -807,11 +850,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Apr 06, 2024](/content/2024/04/06/README.md)
 
-### XML
-
-*   [lisp-xl (⭐32)](https://github.com/defunkydrummer/lisp-xl) -  Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files. MIT.
-*   [xlsx](https://gitlab.common-lisp.net/cungil/xlsx) - a basic reader for Excel files.
-
 ### YAML
 
 *   [nonempty (⭐3)](https://github.com/fosskers/cl-nonempty) -  Non-empty collections for Common Lisp.  [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
@@ -1350,9 +1388,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   \[new, POC] [Maxima in the browser on WASM](https://maxima-on-wasm.pages.dev/), [sources](https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed)
     *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐18)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
 
-### Documentation builders / Third-party APIs
+### Documentation lookup / Third-party APIs
 
-*   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
+*   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo.
+    *   full text search is enabled by default.
 
 ## [Jul 30, 2022](/content/2022/07/30/README.md)
 
@@ -1570,6 +1609,9 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
 *   [Declt (⭐41)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
 *   [cl-bibtex (⭐29)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+
+### Documentation lookup / Third-party APIs
+
 *   [docbrowser (⭐18)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
 
@@ -1744,6 +1786,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [coalton-io (⭐14)](https://github.com/Jason94/coalton-io) - Functional IO interfaces. Includes terminal IO, file system IO, random variables, mutable variables, multithreading, and safely sharing state between threads.
     *   [Lem editor mode for Coalton](https://lem-project.github.io/modes/coalton-lang/) - syntax highlighting, code completion, autodoc, interactive compilation commands (`coalton-compile-defun`, `C-c C-c`).
     *   [Coalton.app playground](https://coalton.app/) - a web-based REPL for Coalton. [blog post announce](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/).
+    *   [smelter](https://smelter.app/) - a zero setup Coalton (and CL) scripts runner, with some batteries (JSON, HTTP, filesystem, process utilities).
 
 ## [Aug 24, 2021](/content/2021/08/24/README.md)
 
@@ -3044,10 +3087,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [cl-closure-template (⭐71)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates, where compiling a template creates a function that generates the result. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [Jul 12, 2018](/content/2018/07/12/README.md)
-
-### Miscellaneous
-
-*   [lisp-magick-wand (⭐21)](https://github.com/TBRSS/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
 
 ### HTTP Servers / Clack plugins
 

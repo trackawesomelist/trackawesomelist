@@ -6,6 +6,12 @@ A curated list of data engineering tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Data Ingestion
+
+*   [Kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+
 ## [Jan 31, 2026](/content/2026/01/31/README.md)
 
 ### Data Ingestion
@@ -37,7 +43,7 @@ A curated list of data engineering tools for software developers
 ### Profiling / Data Profiler
 
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐463)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐465)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## [Nov 01, 2025](/content/2025/11/01/README.md)
 
@@ -207,7 +213,7 @@ A curated list of data engineering tools for software developers
 
 ### Data Comparison
 
-*   [datacompy (⭐628)](https://github.com/capitalone/datacompy) - A Python library that facilitates the comparison of two DataFrames in Pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
+*   [datacompy (⭐632)](https://github.com/capitalone/datacompy) - A Python library that facilitates the comparison of two DataFrames in Pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
 ## [Mar 27, 2024](/content/2024/03/27/README.md)
 
@@ -313,6 +319,7 @@ A curated list of data engineering tools for software developers
     *   [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
     *   [Titan](https://titan.thinkaurelius.com) - A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
     *   [FlockDB (⭐3.3k)](https://github.com/twitter-archive/flockdb) - A distributed, fault-tolerant graph database by Twitter. Deprecated.
+    *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 *   Distributed
     *   [DAtomic](https://www.datomic.com) - The fully transactional, cloud-ready, distributed database.
     *   [Apache Geode](https://geode.apache.org/) - An open source, distributed, in-memory database for scale-out applications.
@@ -488,7 +495,7 @@ A curated list of data engineering tools for software developers
 *   [Zodiac (⭐200)](https://github.com/CenturyLinkLabs/zodiac) - A lightweight tool for easy deployment and rollback of dockerized applications.
 *   [cAdvisor (⭐19k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 *   [Micro S3 persistence (⭐14)](https://github.com/figadore/micro-s3-persistence) - Docker microservice for saving/restoring volume data to S3.
-*   [Rocker-compose (⭐409)](https://github.com/grammarly/rocker-compose) - Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.
+*   [Rocker-compose (⭐408)](https://github.com/grammarly/rocker-compose) - Docker composition tool with idempotency features for deploying apps composed of multiple containers. Deprecated.
 *   [Nomad (⭐16k)](https://github.com/hashicorp/nomad) - A cluster manager, designed for both long-lived services and short-lived batch processing workloads.
 *   [ImageLayers](https://imagelayers.io/) - Visualize Docker images and the layers that compose them.
 

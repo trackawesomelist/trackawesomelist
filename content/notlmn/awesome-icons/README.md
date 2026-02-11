@@ -6,6 +6,12 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 [ Daily / [Weekly](/content/notlmn/awesome-icons/week/README.md) / [Overview](/content/notlmn/awesome-icons/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Other / Frameworks
+
+*   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### General

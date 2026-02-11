@@ -6,6 +6,14 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Feb 11, 2026](/content/2026/02/11/README.md)
+
+### Specific Formats Processing
+
+*   General
+    *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+    *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Algorithms and Design Patterns
@@ -254,7 +262,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Data Analysis
 
-*   [desbordante (⭐463)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+*   [desbordante (⭐465)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 
 ### GUI Development
 
@@ -653,7 +661,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Job Scheduler
 
-*   [Prefect (⭐21k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+*   [Prefect (⭐22k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
 ## [Aug 02, 2020](/content/2020/08/02/README.md)
 
@@ -892,11 +900,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [requests (⭐54k)](https://github.com/psf/requests) - HTTP Requests for Humans.
 
-### Specific Formats Processing
-
-*   General
-    *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
-
 ### Web Content Extracting
 
 *   [requests-html (⭐14k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
@@ -1092,7 +1095,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [keras (⭐64k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [pytorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-*   [tensorflow (⭐193k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 

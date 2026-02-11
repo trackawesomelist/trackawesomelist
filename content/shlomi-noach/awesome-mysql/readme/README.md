@@ -39,8 +39,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 
 *   [Resources](#resources)
     *   [E-Books](#e-books)
-    *   [Media](#media)
-    *   [Newsletters](#newsletters)
 
 ## Analysis
 
@@ -113,7 +111,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [MySQL Connector/Node.js (⭐159)](https://github.com/mysql/mysql-connector-nodejs) - Official Node.js driver for MySQL.
 *   [MySQL Connector/Python (⭐945)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
 *   [mysqlclient-python (⭐2.5k)](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python.
-*   [node-mysql](https://github.com/mysqljs/node) - A pure Nodejs Javascript client implementing the MySQL protocol.
+*   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 *   [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 *   [PyMySQL (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.3k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
@@ -124,9 +122,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 
 *MySQL deployment tools*
 
-*   [dbdeployer (⭐716)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 *   [MariaDB4j (⭐894)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
-*   [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
 ## Development
 
@@ -165,7 +161,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 
 *   [Galera Cluster (⭐486)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 *   [mha4mysql-node (⭐409)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-*   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
+*   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
 *   [Percona Replication Manager (⭐5)](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 *   [replication-manager (⭐726)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
@@ -187,14 +183,14 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 
 *Replication related software*
 
-*   [data-diff (⭐3k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐3k)](https://github.com/datafold/data-diff) (archived) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## Schema
 
 *Add-on schemas*
 
 *   [common\_schema (⭐126)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐830)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [sys (⭐830)](https://github.com/mysql/mysql-sys) (archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See [sys schema docs](https://dev.mysql.com/doc/refman/8.4/en/sys-schema.html)
 
 ## Security
 
@@ -229,7 +225,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [MySQL Utilities (⭐278)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 *   [Percona Toolkit (⭐1.4k)](https://github.com/percona/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 *   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
-*   [UnDROP (⭐415)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
+*   [UnDROP (⭐415)](https://github.com/twindb/undrop-for-innodb) (archived) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 # Resources
 
@@ -241,14 +237,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 
 *   [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
 *   [SQL-exercise (⭐1.5k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
-
-## Media
-
-*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
-## Newsletters
-
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
 
 ## Incubating
 
