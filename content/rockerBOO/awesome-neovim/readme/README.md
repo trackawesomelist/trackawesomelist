@@ -628,7 +628,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 *   [Abstract-IDE/penvim (⭐51)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 *   [windwp/nvim-projectconfig (⭐110)](https://github.com/windwp/nvim-projectconfig) - Loads Neovim config depending on the project directory.
-*   [DrKJeff16/project.nvim (⭐119)](https://github.com/DrKJeff16/project.nvim) - An actively maintained fork of [`ahmedkhalf/project.nvim`](https://github.com/ahmedkhalf/project.nvim) with documented code, `fzf-lua` support and new features.
+*   [DrKJeff16/project.nvim (⭐119)](https://github.com/DrKJeff16/project.nvim) - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
 *   [klen/nvim-config-local (⭐177)](https://github.com/klen/nvim-config-local) - Secure load local config files from working directories.
 *   [cljoly/telescope-repo.nvim (⭐238)](https://github.com/cljoly/telescope-repo.nvim) - Telescope picker to jump to any repository (Git or other) on the file system.
 *   [otavioschwanck/telescope-alternate.nvim (⭐106)](https://github.com/otavioschwanck/telescope-alternate.nvim) - Alternate between common files using telescope.
@@ -1399,6 +1399,7 @@ then it is not supported:
 *   [BibekBhusal0/nvim-git-utils (⭐6)](https://github.com/BibekBhusal0/nvim-git-utils) - Simple commands to make life easier while working with Git.
 *   [spacedentist/resolve.nvim (⭐41)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 *   [jceb/jiejie.nvim (⭐40)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
+*   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### GitHub
 

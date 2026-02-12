@@ -417,7 +417,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Shell Utilities
 
-*   [has (⭐797)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐799)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
@@ -443,7 +443,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [DocToc (⭐4.4k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 *   [grip (⭐6.7k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.9k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-*   [glow (⭐22k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+*   [glow (⭐23k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 *   [gtree (⭐324)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ### Security
@@ -504,6 +504,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [teachcode (⭐406)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 *   [yai (⭐850)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
 
@@ -630,7 +631,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [happyfinder (⭐334)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐45)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 *   [ripgrep (⭐59k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐77k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [fzf (⭐78k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐41k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 *   [broot (⭐12k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.

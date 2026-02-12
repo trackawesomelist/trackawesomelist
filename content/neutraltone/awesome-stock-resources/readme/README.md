@@ -8,7 +8,7 @@
 
 ---
 
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github Workflow](https://img.shields.io/github/actions/workflow/status/neutraltone/awesome-stock-resources/main.yml)](https://github.com/neutraltone/awesome-stock-resources/actions) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github Workflow](https://img.shields.io/github/actions/workflow/status/neutraltone/awesome-stock-resources/main.yml)](https://github.com/neutraltone/awesome-stock-resources/actions) [![Support Me via Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tonyphipps) [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy_Me_a_Coffee-orange.svg)](https://buymeacoffee.com/neutraltone)
 
 ![Introductory images](https://github.com/neutraltone/awesome-stock-resources/raw/master/img/splash.jpg)
 
@@ -59,7 +59,6 @@ All the resources below have specifically specified that their content is [:copy
 *   [Freely Photos](https://freelyphotos.com/) - Totally free high quality Christian stock photography.
 *   [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 *   [Jay Mantri](https://jaymantri.com/) - Free pics. Do anything. Make magic.
-*   [Jéshoots](https://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 *   [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 *   [Life of Pix](https://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 *   [Little Visuals](https://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
@@ -77,7 +76,7 @@ All the resources below have specifically specified that their content is [:copy
 *   [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 *   [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 *   [Splashbase](https://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
-*   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](https://ab-dz.com/).
+*   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and Aditya G Bharadwaj
 *   [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 *   [Streetwill](https://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 *   [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
@@ -92,6 +91,7 @@ These following photography resources are those who have declared their own usag
 *   [Compfight.com](https://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 *   [Death to the Stock Photo](https://join.deathtothestockphoto.com/) - [:copyright:](https://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
 *   [Designer Pics](https://www.designerspics.com) - [:copyright:](https://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
+*   [Fleet Images](https://fleetimages.mobilityplaces.com/) - [:copyright:](https://fleetimages.mobilityplaces.com/license-summary) Free high quality car and truck images searchable by make, model and year.
 *   [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 *   [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 *   [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
@@ -156,7 +156,7 @@ A collection of resources which contain stock graphical elements which don't fit
 *   [FreeVectors.net](https://www.freeVectors.net) - [:copyright:](https://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Logo Dust](https://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-*   [Mega Doodles Pack (⭐544)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐552)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 *   [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 *   [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
@@ -196,11 +196,11 @@ Websites offering images suitable for texturing objects for 3D graphics.
 A mixture of free and open source font resources.
 
 *   [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
-*   [Brick (⭐2.9k)](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+*   [Brick (⭐2.8k)](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 *   [Font Fabric](https://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 *   [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 *   [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
-*   [Open Type Foundry](https://open-foundry.com/hot30) - [:copyright:](https://open-foundry.com/info) A new platform for open-source fonts in a noise-free environment.
+*   [Open Type Foundry](https://open-foundry.com/) - [:copyright:](https://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 *   [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Icons
@@ -226,7 +226,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 *   [Social Stackicons](https://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 *   [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 *   [To icon](https://www.toicon.com/) - [:copyright:](https://www.toicon.com/license) Collection of SVG icons for your project.
-*   [Topcoat Icons (⭐253)](https://github.com/topcoat/icons) - [:copyright:](https://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](https://topcoat.io/).
+*   [Topcoat Icons (⭐254)](https://github.com/topcoat/icons) - [:copyright:](https://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](https://topcoat.io/).
 *   [Typicons](https://s-ings.com/typicons/) - [:copyright: (font)](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 *   [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 *   [WeLoveIconFonts](https://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
@@ -237,7 +237,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 *   [Atlas Icons](https://atlasicons.vectoricons.net/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
 *   [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.8k)](https://github.com/twbs/icons/blob/main/LICENSE) Free, high quality, open source icon library with over 1,800 icons.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.9k)](https://github.com/twbs/icons/blob/main/LICENSE) Free, high quality, open source icon library with over 1,800 icons.
 *   [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 *   [Entypo](https://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](https://www.danielbruce.se/).
 *   [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
@@ -274,6 +274,7 @@ A selection of websites offering color schemes.
 *   [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 *   [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 *   [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
+*   [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
 
 ## Aggregated Content
 
@@ -339,7 +340,8 @@ Please read [CONTRIBUTING](https://github.com/neutraltone/awesome-stock-resource
 
 And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
-[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+[!["Support Me via PayPal"](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tonyphipps)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neutraltone)
 
 ## License
 

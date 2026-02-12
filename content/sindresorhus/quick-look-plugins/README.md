@@ -6,6 +6,18 @@ List of useful Quick Look plugins for developers
 
 [ Daily / [Weekly](/content/sindresorhus/quick-look-plugins/week/README.md) / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
 
+## [Feb 12, 2026](/content/2026/02/12/README.md)
+
+### Plugins
+
+### [EPS Preview](https://anybox.ltd/eps-preview) 💰
+
+> EPS Preview adds Quick Look and thumbnails of EPS files to Finder.
+
+Purchase on the [website](https://anybox.ltd/eps-preview).
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
+
 ## [Jan 28, 2026](/content/2026/01/28/README.md)
 
 ### Plugins

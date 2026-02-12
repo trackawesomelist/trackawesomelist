@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Applications / Productivity
+
+*   [tambourine-voice (⭐258)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+
 ### Applications / Web Servers
 
 *   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
