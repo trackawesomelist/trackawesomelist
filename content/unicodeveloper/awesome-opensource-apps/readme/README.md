@@ -33,6 +33,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 *   [Electron](#electron)
 *   [C++](#cpp)
 *   [Lua](#lua)
+*   [Node.js](#nodejs)
 
 ## Laravel
 
@@ -296,4 +297,10 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name                                                        | Description                                                    | Link                       |
 | ----------------------------------------------------------- | -------------------------------------------------------------- | -------------------------- |
 | [BunkerWeb (⭐9.9k)](https://github.com/bunkerity/bunkerweb) | A next-generation, open-source Web Application Firewall (WAF). | <https://www.bunkerweb.io> |
+
+## Node.js
+
+| Name                                             | Description                                                                                                                               | Link                                    |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [ShotOG (⭐2)](https://github.com/nicepkg/shotog) | Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers. | <https://shotog.2214962083.workers.dev> |
 

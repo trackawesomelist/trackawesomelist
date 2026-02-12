@@ -6,6 +6,18 @@
 
 [ [Daily](/content/unicodeveloper/awesome-opensource-apps/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Node.js
+
+- Name: [ShotOG (⭐2)](https://github.com/nicepkg/shotog)
+
+  Description: Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers.
+
+  Link: <https://shotog.2214962083.workers.dev>
+
+
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Electron

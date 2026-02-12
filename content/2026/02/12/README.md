@@ -1,12 +1,66 @@
 # Awesome List Updates on Feb 12, 2026
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+### AI terminal command generator
+
+*   [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
+
+### Data management - Tabular data
+
+*   [LAZYSQL (⭐3.4k)](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
+
+### DevOps
+
+*   [lazyjournal (⭐1.1k)](https://github.com/Lifailon/lazyjournal) - Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
+
+### Git and accessories
+
+*   [nodebro (⭐15)](https://github.com/jonaburg/nodebro) - Easily view most recent Github releases/tags and release notes from the terminal.
+*   [pyautogit (⭐109)](https://github.com/jwlodek/pyautogit) - A TUI for working with git written in python.
+
+### Networking
+
+*   [Proxymock](https://proxymock.io) - A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
+
+### Online search and resources
+
+*   [STU (⭐847)](https://github.com/lusingander/stu) - S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3).
+
+### Process viewers and monitoring (alternatives to top)
+
+*   [pproftui (⭐276)](https://github.com/Oloruntobi1/pproftui) - TUI for Go's pprof that makes profiling interactive, intuitive, and fast.
+
+### Programming
+
+*   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
+*   [sls-dev-tools (⭐874)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
+
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Node.js
+
+- Name: [ShotOG (⭐2)](https://github.com/nicepkg/shotog)
+
+  Description: Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers.
+
+  Link: <https://shotog.2214962083.workers.dev>
+
+
+
+## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Apps
+
+*   [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+
+## [4. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Agent Skills 🤖 / General
 
@@ -16,19 +70,19 @@
 
 *   [Claude Code Ultimate Guide (⭐111)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) by [Florian BRUNIAUX](https://www.linkedin.com/in/florian-bruniaux-43408b83/) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [Brisk (⭐321)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
 *   [tambourine-voice (⭐258)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 
-## [4. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
@@ -51,7 +105,7 @@
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 *   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 
-## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -65,19 +119,19 @@
 
 *   [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Quickfix
 
 *   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Command Line Learning / Science
 
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
-## [8. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+## [11. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
 ### Plugins
 
@@ -89,7 +143,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -100,7 +154,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Xygeni](https://xygeni.io/) :copyright: — Xygeni is a comprehensive Software Supply Chain Security platform. It provides Advanced SAST with AI-powered remediation, Software Composition Analysis (SCA) with real-time malware detection, Infrastructure as Code (IaC) scanning, and Secrets detection to ensure end-to-end code security.
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Data Sources / News Data
 
@@ -110,7 +164,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [WFGY (⭐1.4k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 
-## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Development Tools & Utilities
 

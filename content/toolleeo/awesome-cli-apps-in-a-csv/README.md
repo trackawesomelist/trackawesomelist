@@ -6,6 +6,42 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ Daily / [Weekly](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md) / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Feb 12, 2026](/content/2026/02/12/README.md)
+
+### AI terminal command generator
+
+*   [OpenCode](https://opencode.ai/download) - AI coding agent, built for the terminal.
+
+### Data management - Tabular data
+
+*   [LAZYSQL (⭐3.4k)](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
+
+### DevOps
+
+*   [lazyjournal (⭐1.1k)](https://github.com/Lifailon/lazyjournal) - Terminal user interface for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
+
+### Git and accessories
+
+*   [nodebro (⭐15)](https://github.com/jonaburg/nodebro) - Easily view most recent Github releases/tags and release notes from the terminal.
+*   [pyautogit (⭐109)](https://github.com/jwlodek/pyautogit) - A TUI for working with git written in python.
+
+### Networking
+
+*   [Proxymock](https://proxymock.io) - A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
+
+### Online search and resources
+
+*   [STU (⭐847)](https://github.com/lusingander/stu) - S3 Terminal UI, is a interactive terminal-based explorer for Amazon S3 (AWS S3).
+
+### Process viewers and monitoring (alternatives to top)
+
+*   [pproftui (⭐276)](https://github.com/Oloruntobi1/pproftui) - TUI for Go's pprof that makes profiling interactive, intuitive, and fast.
+
+### Programming
+
+*   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
+*   [sls-dev-tools (⭐874)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### AI / ChatGPT
@@ -4634,7 +4670,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [active-win-cli (⭐68)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 *   [brightnessctl (⭐1.2k)](https://github.com/Hummer12007/brightnessctl) - Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [has (⭐797)](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
+*   [has (⭐799)](https://github.com/kdabir/has) - Checks presence of various command line tools on the PATH and reports their installed version.
 *   [mackup (⭐15k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 *   [sysm (⭐214)](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
 *   [systeroid (⭐1.4k)](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.

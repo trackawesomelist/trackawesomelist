@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Feb 12, 2026](/content/2026/02/12/README.md)
+
+### Extensions
+
+*   [ShotOG (⭐2)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+
+### Apps
+
+*   [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Extensions
