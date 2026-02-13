@@ -8,17 +8,33 @@ A curated list of Rust code and resources.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Applications
+
+*   [vortix (⭐291)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+
 ### Applications / Productivity
 
 *   [tambourine-voice (⭐258)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+
+### Applications / Utilities
+
+*   [gitlogue (⭐4.2k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
 
 ### Applications / Web Servers
 
 *   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
 
+### Libraries / Artificial Intelligence
+
+*   [tag1consulting/feste (⭐61)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+
 ### Libraries / Caching
 
 *   [hit-box/hitbox (⭐108)](https://github.com/hit-box/hitbox) - A declarative cache orchestration framework with HTTP middleware and multi-tier backends [![CI](https://github.com/hit-box/hitbox/actions/workflows/CI.yml/badge.svg)](https://github.com/hit-box/hitbox/actions/workflows/CI.yml)
+
+### Libraries / Cryptography
+
+*   [rust-native-tls/rust-native-tls (⭐536)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
 ### Libraries / Text processing
 
@@ -4597,12 +4613,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [Fractalide (⭐890)](https://github.com/fractalide/fractalide) - Simple microservices
-
-## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
-
-### Libraries / Cryptography
-
-*   [sfackler/rust-native-tls (⭐536)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
 
 ## [May 16 - May 22, 2016](/content/2016/20/README.md)
 

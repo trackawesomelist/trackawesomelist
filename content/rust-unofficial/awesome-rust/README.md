@@ -6,6 +6,24 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Applications
+
+*   [vortix (⭐291)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+
+### Applications / Utilities
+
+*   [gitlogue (⭐4.2k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
+
+### Libraries / Artificial Intelligence
+
+*   [tag1consulting/feste (⭐61)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+
+### Libraries / Cryptography
+
+*   [rust-native-tls/rust-native-tls (⭐536)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Applications / Productivity
@@ -5002,12 +5020,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [Fractalide (⭐890)](https://github.com/fractalide/fractalide) - Simple microservices
-
-## [Sep 02, 2016](/content/2016/09/02/README.md)
-
-### Libraries / Cryptography
-
-*   [sfackler/rust-native-tls (⭐536)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
 
 ## [May 21, 2016](/content/2016/05/21/README.md)
 

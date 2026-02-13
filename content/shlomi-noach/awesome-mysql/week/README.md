@@ -20,6 +20,10 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [myanon (⭐112)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 
+### Toolkits
+
+*   [sql-splitter (⭐3)](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
+
 ### Incubating
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.

@@ -225,6 +225,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [go-mysql (⭐4.9k)](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 *   [MySQL Utilities (⭐278)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 *   [Percona Toolkit (⭐1.4k)](https://github.com/percona/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
+*   [sql-splitter (⭐3)](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, merging, converting, validating, and sampling mysqldump files.
 *   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
 *   [UnDROP (⭐415)](https://github.com/twindb/undrop-for-innodb) (archived) - a tool to recover data from dropped or corrupted InnoDB tables.
 
