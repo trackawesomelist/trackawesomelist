@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ [Daily](/content/mgramin/awesome-db-tools/README.md) / Weekly / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Data / Generation/Masking/Subsetting
+
+*   [myanon (⭐112)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files. Reads mysqldump from stdin, writes anonymized version to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+
 ## [Feb 02 - Feb 08, 2026](/content/2026/5/README.md)
 
 ### Backup / Samples
@@ -32,7 +38,7 @@ Everything that makes working with databases easier
 ### Data / Data Profilers
 
 *   [Data Profiler (⭐1.5k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
-*   [Desbordante (⭐463)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐465)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 *   [YData Profiling (⭐13k)](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 
 ## [Nov 10 - Nov 16, 2025](/content/2025/45/README.md)

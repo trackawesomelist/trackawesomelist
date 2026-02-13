@@ -2,15 +2,25 @@
 
 Curated list of fonts and everything
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brabadu/awesome-fonts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) · ⭐ 1.8K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brabadu/awesome-fonts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) · ⭐ 1.9K · 🏷️ Media
 
 [ Daily / [Weekly](/content/brabadu/awesome-fonts/week/README.md) / [Overview](/content/brabadu/awesome-fonts/readme/README.md) ]
+
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### General
+
+*   [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
+
+### Programming fonts / Fonts
+
+*   [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 
 ## [Nov 29, 2025](/content/2025/11/29/README.md)
 
 ### Iconic fonts / Fonts
 
-*   [Simple Analog Clock Font (⭐7)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
+*   [Simple Analog Clock Font (⭐8)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -35,38 +45,38 @@ Curated list of fonts and everything
 *   [Berkeley Mono](https://usgraphics.com/products/berkeley-mono) - a love letter to the golden era of computing
 *   [Classic Console](https://webdraft.hu/fonts/classic-console/)
 *   [JGS Font](https://adelfaure.net/tools/jgs/)
-*   [Miracode (⭐1.1k)](https://github.com/IdreesInc/Miracode)
+*   [Miracode (⭐1.2k)](https://github.com/IdreesInc/Miracode)
 
 ## [Mar 12, 2025](/content/2025/03/12/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [JetBrains Maple Mono (⭐1.7k)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
+*   [JetBrains Maple Mono (⭐1.9k)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Free fonts / Fonts
 
 *   [Martian Mono (⭐2.6k)](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
-*   [Monaspace (⭐17k)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+*   [Monaspace (⭐18k)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 
 ### Programming fonts / Fonts
 
-*   [Iconic Fonts (⭐61)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
+*   [Iconic Fonts (⭐65)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
 ### Programming fonts / Fonts
 
-*   [agave (⭐933)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
+*   [agave (⭐968)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Lilex (⭐1.2k)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
+*   [Lilex (⭐1.3k)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [fnt (⭐579)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
+*   [fnt (⭐606)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 
 ## [Mar 21, 2023](/content/2023/03/21/README.md)
 
@@ -78,7 +88,7 @@ Curated list of fonts and everything
 
 ### Free fonts / Fonts
 
-*   [Urbanist (⭐544)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+*   [Urbanist (⭐547)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
 
@@ -100,7 +110,7 @@ Curated list of fonts and everything
 
 ### Iconic fonts / Fonts
 
-*   [Crypto animal font (⭐4)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
+*   [Crypto animal font (⭐6)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
@@ -116,13 +126,13 @@ Curated list of fonts and everything
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Fontsource (⭐5.6k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
+*   [Fontsource (⭐5.8k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 
 ## [Feb 26, 2020](/content/2020/02/26/README.md)
 
 ### Programming fonts / Fonts
 
-*   [Recursive Sans & Mono (⭐3.6k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
+*   [Recursive Sans & Mono (⭐3.7k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
 ## [Jan 27, 2020](/content/2020/01/27/README.md)
 
@@ -152,7 +162,7 @@ Curated list of fonts and everything
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Cascadia Code (⭐27k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
+*   [Cascadia Code (⭐28k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
 
 ### Other / Event listeners for fonts loading on a web page
 
@@ -169,7 +179,7 @@ Curated list of fonts and everything
 
 ### Free fonts / Fonts
 
-*   [Libre Franklin (⭐406)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
+*   [Libre Franklin (⭐416)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 
 ## [Oct 01, 2018](/content/2018/10/01/README.md)
 
@@ -187,13 +197,13 @@ Curated list of fonts and everything
 
 ### Free fonts / Fonts
 
-*   [Barlow (⭐794)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐808)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 
 ## [Mar 06, 2018](/content/2018/03/06/README.md)
 
 ### Free fonts / Fonts
 
-*   [Amstelvar (⭐358)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
+*   [Amstelvar (⭐362)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 *   [Inter (⭐19k)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 
 ## [Mar 05, 2018](/content/2018/03/05/README.md)
@@ -222,19 +232,19 @@ Curated list of fonts and everything
 
 ### Programming fonts / Fonts
 
-*   [Lab Mono (⭐151)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+*   [Lab Mono (⭐154)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 
 ## [Feb 27, 2018](/content/2018/02/27/README.md)
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐499)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐502)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [Oct 04, 2017](/content/2017/10/04/README.md)
 
 ### Free fonts / Collections
 
-*   [Zilla Slab (⭐440)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐445)](https://github.com/mozilla/zilla-slab) - Mozilla font
 
 ### Programming fonts / Fonts
 
@@ -250,7 +260,7 @@ Curated list of fonts and everything
 
 ### Emojis / Fonts
 
-*   [node-emoji (⭐1.3k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
+*   [node-emoji (⭐1.4k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
 ## [Jul 05, 2017](/content/2017/07/05/README.md)
 
@@ -262,10 +272,6 @@ Curated list of fonts and everything
 
 *   [emojify.js (⭐1.8k)](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
 *   [emojione (⭐4.4k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
-
-### Iconic fonts / Fonts
-
-*   [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 
 ### Programming fonts / Fonts
 
@@ -294,28 +300,28 @@ Curated list of fonts and everything
 ### Emojis / Fonts
 
 *   [alfred-emoji-workflow (⭐635)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
-*   [emoji-cheat-sheet.com (⭐6.4k)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
+*   [emoji-cheat-sheet.com (⭐6.3k)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 *   [emoji-data-js (⭐64)](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
-*   [emoji-minesweeper (⭐900)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+*   [emoji-minesweeper (⭐907)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
 *   [emoji-regex (⭐1.9k)](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
 *   [emoji-rspec (⭐172)](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
 *   [emoji-translate (⭐1.7k)](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
 *   [emoji (⭐303)](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
 *   [emoji (⭐2.3k)](https://github.com/muan/emoji) - Find the emoji that echoes your mind
-*   [emoji (⭐445)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+*   [emoji (⭐444)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 *   [emojidex (⭐9)](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 *   [emojify (⭐1.6k)](https://github.com/mrowa44/emojify) - Emoji on the command line
 *   [emojilib (⭐1.8k)](https://github.com/muan/emojilib) - Emoji keyword library
 *   [emojillate (⭐349)](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 *   [emojistatic (⭐98)](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
-*   [emojitracker (⭐743)](https://github.com/mroth/emojitracker) - Track ALL the emoji
+*   [emojitracker (⭐742)](https://github.com/mroth/emojitracker) - Track ALL the emoji
 *   [gemoji (⭐4.5k)](https://github.com/github/gemoji) - Emoji images and names
 *   [gh-emoji (⭐159)](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 *   [megamoji (⭐169)](https://github.com/muan/megamoji) - Making megamojis like a pro
 *   [mojibar (⭐2k)](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 *   [mojime (⭐56)](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 *   [php-emoji (⭐1.3k)](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
-*   [twemoji (⭐17k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+*   [twemoji (⭐18k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
 *   [vim-emoji (⭐613)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
 ## [Mar 07, 2017](/content/2017/03/07/README.md)
@@ -330,7 +336,7 @@ Curated list of fonts and everything
 *   [Gidole](http://gidole.github.io/) - Open source, modern DIN
 *   [Google Fonts](https://fonts.google.com/)
     *   [Downloader for Google Fonts (⭐1.5k)](https://github.com/qrpike/Web-Font-Load)
-    *   [Files of Google Fonts (⭐19k)](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
+    *   [Files of Google Fonts (⭐20k)](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
     *   [Noto Fonts (⭐2.5k)](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
     *   [Roboto (⭐3.8k)](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
 *   [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
@@ -350,7 +356,7 @@ Curated list of fonts and everything
 *   [Country Icons (⭐12k)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 *   [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 *   [Font Custom (⭐3.3k)](https://github.com/FontCustom/fontcustom) - Icon font generator
-*   [font-mfizz (⭐538)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
+*   [font-mfizz (⭐540)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
 *   [FontAwesomeKit (⭐2.8k)](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 *   [fontello](http://fontello.com) - Iconic fonts scissors
     *   [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
@@ -363,9 +369,9 @@ Curated list of fonts and everything
 *   [Map Icons (⭐1k)](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
 *   [Material design icons (⭐53k)](https://github.com/google/material-design-icons) - Official icon set from Google
 *   [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
-*   [Micon (⭐202)](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
+*   [Micon (⭐201)](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 *   [octicons](https://octicons.github.com/) - GitHub's icon font
-*   [PE-Analog-Clock-icon-font (⭐301)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
+*   [PE-Analog-Clock-icon-font (⭐302)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 *   [stackicons (⭐953)](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 *   [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
 *   [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
@@ -376,32 +382,32 @@ Curated list of fonts and everything
 
 *   [Adobe Fonts](https://github.com/adobe-fonts)
     *   [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-    *   [Source Han Serif (⭐9k)](https://github.com/adobe-fonts/source-han-serif)
-    *   [Source Sans Pro (⭐3.6k)](https://github.com/adobe-fonts/source-sans-pro)
+    *   [Source Han Serif (⭐9.3k)](https://github.com/adobe-fonts/source-han-serif)
+    *   [Source Sans Pro (⭐3.7k)](https://github.com/adobe-fonts/source-sans-pro)
     *   [Source Serif Pro (⭐2.3k)](https://github.com/adobe-fonts/source-serif-pro)
 *   [Codeface (⭐6.4k)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 *   [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 *   [Meslo-Font (⭐2.7k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
-*   [Nerd Fonts (⭐61k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+*   [Nerd Fonts (⭐62k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [FiraCode (⭐81k)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
-*   [Fixedsys Excelsior (⭐1.1k)](https://github.com/kika/fixedsys)
-*   [Iosevka (⭐21k)](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+*   [Fixedsys Excelsior (⭐1.2k)](https://github.com/kika/fixedsys)
+*   [Iosevka (⭐22k)](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 *   [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [fontmin (⭐6.1k)](https://github.com/ecomfe/fontmin) - Font minifier
-*   [localFont (⭐846)](https://github.com/jaicab/localFont) - Save fonts in localStorage
-*   [opentype.js (⭐4.8k)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-*   [Typr.js (⭐973)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
+*   [fontmin (⭐6.2k)](https://github.com/ecomfe/fontmin) - Font minifier
+*   [localFont (⭐847)](https://github.com/jaicab/localFont) - Save fonts in localStorage
+*   [opentype.js (⭐4.9k)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
+*   [Typr.js (⭐986)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
 ### Other / Event listeners for fonts loading on a web page
 
 *   [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-*   [FontForge (⭐7.4k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
+*   [FontForge (⭐7.5k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
 *   [Powerline Fonts (⭐26k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
 ## [Nov 09, 2016](/content/2016/11/09/README.md)
@@ -457,7 +463,7 @@ Curated list of fonts and everything
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Hasklig (⭐5.7k)](https://github.com/i-tu/Hasklig)
+*   [Hasklig (⭐5.8k)](https://github.com/i-tu/Hasklig)
 
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
@@ -468,7 +474,7 @@ Curated list of fonts and everything
 
 ### Free fonts / Fonts
 
-*   [SansBullshitSans (⭐313)](https://github.com/RoelN/SansBullshitSans)
+*   [SansBullshitSans (⭐318)](https://github.com/RoelN/SansBullshitSans)
 
 ## [Oct 29, 2015](/content/2015/10/29/README.md)
 

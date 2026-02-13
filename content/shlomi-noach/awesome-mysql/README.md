@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ Daily / [Weekly](/content/shlomi-noach/awesome-mysql/week/README.md) / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Security
+
+*   [myanon (⭐112)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### Connectors

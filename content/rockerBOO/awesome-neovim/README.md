@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Editing Support / Scrollbar
+
+*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Git / Quickfix
@@ -109,7 +115,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Quickfix
 
-*   [DrKJeff16/pipenv.nvim (⭐6)](https://github.com/DrKJeff16/pipenv.nvim) - Manage your [Pipenv](https://pypi.org/project/pipenv/) virtual environment while editing.
+*   [DrKJeff16/pipenv.nvim (⭐6)](https://github.com/DrKJeff16/pipenv.nvim) - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
 
 ### Git / Quickfix
 

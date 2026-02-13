@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
+### Editing Support / Scrollbar
+
+*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+
 ### Database / Automation
 
 *   [zerochae/dbab.nvim (⭐18)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
@@ -105,7 +109,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Quickfix
 
-*   [DrKJeff16/pipenv.nvim (⭐6)](https://github.com/DrKJeff16/pipenv.nvim) - Manage your [Pipenv](https://pypi.org/project/pipenv/) virtual environment while editing.
+*   [DrKJeff16/pipenv.nvim (⭐6)](https://github.com/DrKJeff16/pipenv.nvim) - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
 
 ### Git / Quickfix
 

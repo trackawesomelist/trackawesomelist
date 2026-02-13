@@ -99,6 +99,7 @@ made by you on those sites when using these links*
 *   [Ironsworn Starforged Move Cards and Their Oracles](https://lancelol.itch.io/starforged-move-cards) - All Starforged moves on double-sided, 63x88mm cards
 *   [Lodestone](https://jaderavens.itch.io/lodestone) - Fillable story sheet oracle for Ironsworn campaigns
 *   [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
+*   [Minimalist Sundered Isles Command Sheet](https://mendercap.itch.io/minimalist-sundered-isles-command-sheet) - Simple command ship sheet for Sundered Isles
 *   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
 *   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 *   [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players

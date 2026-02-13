@@ -6,6 +6,17 @@ Find primary sources online and learn how to research history digitally.
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Archives and primary sources / Switzerland
+
+*   [Kulturgüter der Schweiz online](https://ekds.ch) - Database on built heritage in Switzerland and Liechtenstein based on and including the digitised book series of the same name.
+
+### Learning / Switzerland
+
+*   [Digitale Quellenkritik](https://www.zotero.org/groups/2541642/digitale_quellenkritik) - Zotero group with literature on digital source criticism and the handling of digitized historical sources.
+*   [Historical Network Research](https://www.zotero.org/groups/209983/historical_network_research) - Zotero group with literature on historical network research and social network analysis in historical studies.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Archives and primary sources / Africa

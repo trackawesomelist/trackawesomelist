@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Resources / Starforged
+
+*   [Minimalist Sundered Isles Command Sheet](https://mendercap.itch.io/minimalist-sundered-isles-command-sheet) - Simple command ship sheet for Sundered Isles
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Game jams / Starforged

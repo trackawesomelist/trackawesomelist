@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Screenshot APIs
+
+*   [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
+
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### APIs, Data, and ML

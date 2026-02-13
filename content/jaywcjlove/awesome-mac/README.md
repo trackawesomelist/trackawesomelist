@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 13, 2026](/content/2026/02/13/README.md)
+
+### Design and Product / Screenshot Tools
+
+*   [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas creation tool with drawing tools, blur/mosaic, and watermark features. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/Scap/6758053530)
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### Reading and Writing Tools / Text Editors

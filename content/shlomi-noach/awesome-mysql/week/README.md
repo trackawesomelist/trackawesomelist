@@ -16,6 +16,10 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 *   [node-mysql (⭐19k)](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 
+### Security
+
+*   [myanon (⭐112)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+
 ### Incubating
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
