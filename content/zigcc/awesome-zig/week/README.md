@@ -37,6 +37,10 @@ A collection of awesome projects in Zig.
 
 *   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
+### Multimedia & Graphics / Graphics Library
+
+*   [zsdl3 (⭐12)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+
 ### Multimedia & Graphics / GUI
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
@@ -583,7 +587,7 @@ A collection of awesome projects in Zig.
 
 ### Systems Programming / Multithreading
 
-*   [g41797/mailbox (⭐101)](https://github.com/g41797/mailbox) - A convenient inter-thread communication mechanizm.
+*   [g41797/mailbox (⭐101)](https://github.com/g41797/mailbox) - A convenient inter-thread communication mechanism.
 
 ### Network & Web / Network
 

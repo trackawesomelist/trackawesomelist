@@ -6,11 +6,17 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Software / Deployment Automation
+
+*   [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code (⭐144)](https://github.com/ku9nov/faynoSync), [Clients (⭐3)](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Software / Backups
 
-*   [Databasus](https://databasus.com/) - PostgreSQL, MySQL, MariaDB and MongoDB backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. ([Source Code (⭐5.3k)](https://github.com/databasus/databasus)) `Apache-2.0` `Docker`
+*   [Databasus](https://databasus.com/) - PostgreSQL, MySQL, MariaDB and MongoDB backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. ([Source Code (⭐5.5k)](https://github.com/databasus/databasus)) `Apache-2.0` `Docker`
 
 ## [Oct 27, 2025](/content/2025/10/27/README.md)
 

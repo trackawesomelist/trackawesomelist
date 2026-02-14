@@ -6,6 +6,28 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### AI / Diagnostics
+
+*   [nickjvandyke/opencode.nvim (⭐2.5k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [Prgebish/sigil.nvim (⭐23)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+
+### Buffers / Assembly
+
+*   [TheLazyCat00/workspaces-nvim (⭐3)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+
+### Terminal Integration / CSV Files
+
+*   [TheLazyCat00/runner-nvim (⭐3)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+
+### Git / Quickfix
+
+*   [YouSame2/inlinediff-nvim (⭐17)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
+
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Editing Support / Scrollbar

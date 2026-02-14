@@ -6,6 +6,12 @@ A curated list of analytics frameworks, software and other tools.
 
 [ Daily / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Privacy focused analytics
+
+*   [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### General analytics

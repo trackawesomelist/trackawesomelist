@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Multimedia & Graphics / Graphics Library
+
+*   [zsdl3 (⭐12)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### Fundamentals / Learning Resources
@@ -665,7 +671,7 @@ A collection of awesome projects in Zig.
 
 ### Systems Programming / Multithreading
 
-*   [g41797/mailbox (⭐101)](https://github.com/g41797/mailbox) - A convenient inter-thread communication mechanizm.
+*   [g41797/mailbox (⭐101)](https://github.com/g41797/mailbox) - A convenient inter-thread communication mechanism.
 
 ### Network & Web / Network
 

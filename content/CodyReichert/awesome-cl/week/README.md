@@ -25,6 +25,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [eon (⭐42)](https://github.com/bohonghuang/eon) -  An easy-to-use but flexible game framework based on Raylib for Common Lisp. Apache2.0.
 *   [lisp-magick-wand (⭐21)](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
 
+### Showcase
+
+*   🔥 [lisp-screenshots.org](https://www.lisp-screenshots.org/)
+*   [awesome-lisp-companies (⭐638)](https://github.com/azzamsa/awesome-lisp-companies/)
+*   [cl-software (⭐377)](https://github.com/azzamsa/awesome-cl-software)
+
 ### Javascript / Isomorphic web frameworks
 
 *   [datastar-cl (⭐56)](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
@@ -593,7 +599,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   NEW [Web Apps in Lisp: Know-how](https://web-apps-in-lisp.github.io/) - tutorial and reference material to build interactive web apps in Common Lisp. CC-BY.
 
-### Community
+### Showcase
 
 *   [vend (⭐108)](https://github.com/fosskers/vend) - Just vendor your dependencies! [MPL-2.0](http://mozilla.org/MPL/2.0/).
 
@@ -831,7 +837,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [algebraic-data-types (⭐142)](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-### Community
+### Showcase
 
 *   [trivial-system-loader (⭐12)](https://github.com/atgreen/trivial-system-loader) -  A system installation/loading abstraction for Common Lisp.
     *   play nice with people using another library manager than Quicklisp: instead of hard-coding `(ql:quickload :mysystem)`, use `(tsl:load-system :mysystem)`. tsl:load-system will first try to use ocicl if available, then quicklisp, then plain asdf:load-system.
@@ -1052,7 +1058,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [gpgme](https://www.gnupg.org/download/index.en.html#gpgme) (GnuPG Made Easy) is the standard library to access GnuPG functions from programming languages. It provides an official Common Lisp system.
     *   [gpgme lisp sources](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpgme.git;a=tree;f=lang/cl;h=05151bdf839e513f534a1b423d59332a2e46fd5d;hb=HEAD) (not in Quicklisp). GPL2.
 
-### Community
+### Showcase
 
 *   [ocicl (⭐272)](https://github.com/ocicl/ocicl) - A modern dependency management tool with novel features. [MIT](https://opensource.org/licenses/MIT).
     *   project-local dependencies, code linting, project scaffolding, LLM-generated summaries of changes between package versions
@@ -1117,7 +1123,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
-### Community
+### Showcase
 
 *   [CLPM](https://www.clpm.dev) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
     *   CLPM comes as a pre-built binary, supports HTTPS by default, supports installing multiple package versions, supports versioned systems, and more.
@@ -1137,7 +1143,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   it doesn't crash on invalid input (jsown), doesn't choke on large datasets (Jonathan), and more.
     *   "I believe jzon to be the superior choice and hope for it to become the new, true de-facto library in the world of JSON-in-CL once and for all."
 
-### Community
+### Showcase
 
 *   [asdf-dependency-graph (⭐8)](https://github.com/digikar99/asdf-dependency-graph/) - A minimal wrapper around `dot` to generate an image of the dependencies graph.
 
@@ -1501,7 +1507,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   ⭐ [iterate](https://common-lisp.net/project/iterate/) - An iteration construct for Common Lisp which is extensible and Lispier. [MIT](https://opensource.org/licenses/MIT).
 
-### Community
+### Showcase
 
 *   ⭐ [Quicklisp](https://www.quicklisp.org/beta/) - A library manager containing many libraries, with easy depencency management. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   [ql-https (⭐33)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
@@ -1673,7 +1679,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Machine Learning
 
-*   [MGL (⭐640)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐637)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1758,7 +1764,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Community
+### Showcase
 
 *   [quick-patch (⭐21)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. [MPL-2.0](http://mozilla.org/MPL/2.0/).
 
@@ -1831,7 +1837,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [slot-extra-options (⭐9)](https://github.com/some-mthfka/slot-extra-options) - lets you build a metaclass which in turn lets you specify extra slot options in its classes. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-### Community
+### Showcase
 
 *   [Qlot (⭐540)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   how to [use it from the Lisp REPL (⭐10)](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
@@ -2721,7 +2727,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT](https://opensource.org/licenses/MIT).
     *   [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl\&pcampaignid=web_share)
 
-### Community
+### Showcase
 
 *   [Ultralisp](http://ultralisp.org/) - A Quicklisp distribution which updates every 5 minutes and to which one can add his project in one click. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -2802,6 +2808,9 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [/r/Common\_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
 *   [common-lisp.net](https://common-lisp.net)
+
+### Showcase
+
 *   [lisp-lang.org](https://lisp-lang.org/)
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
@@ -2848,7 +2857,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   has a free edition. It includes AllegroCache, with a size limit.
     *   might be pricy. Licensed developers get access to much of the source code. Franz Inc. also publishes [open-source libraries](https://github.com/franzinc) (often tied to AllegroCL).
 
-### Community
+### Showcase
 
 *   [Roswell (⭐1.9k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
 
@@ -2903,7 +2912,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   👍 [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
     *   an active fork: [cl-RemiYaml](https://nanako.mooo.com/fossil/cl-remiyaml/index) with a few fixes. Not a drop-in replacement.
 
-### Community
+### Showcase
 
 *   [print-licenses (⭐23)](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT](https://opensource.org/licenses/MIT).
 

@@ -1,18 +1,36 @@
 # Awesome List Updates on Feb 16 - Feb 22, 2026
 
-50 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Scientific computing
+
+*   [vstats (⭐2)](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
+
+## [2. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
+
+### Apps / Readers
+
+*   [Web App (⭐287)](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
+
+## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Deployment Automation
+
+*   [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code (⭐144)](https://github.com/ku9nov/faynoSync), [Clients (⭐3)](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
+
+## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
 *   [box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
 
-## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Model Explanation / Others
 
@@ -26,13 +44,13 @@
 
 *   [alibi-detect (⭐2.5k)](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/alibi-detect.png" alt="sklearn">
 
-## [3. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [6. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Tools / GUIs
 
 *   [TWSNMP FK (⭐0)](https://github.com/twsnmp/twsnmpfk) - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
 
-## [4. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [7. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -42,7 +60,7 @@
 
 *   [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [8. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
@@ -53,13 +71,13 @@
 *   [Digitale Quellenkritik](https://www.zotero.org/groups/2541642/digitale_quellenkritik) - Zotero group with literature on digital source criticism and the handling of digitized historical sources.
 *   [Historical Network Research](https://www.zotero.org/groups/209983/historical_network_research) - Zotero group with literature on historical network research and social network analysis in historical studies.
 
-## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Minimalist Sundered Isles Command Sheet](https://mendercap.itch.io/minimalist-sundered-isles-command-sheet) - Simple command ship sheet for Sundered Isles
 
-## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Node.js
 
@@ -71,19 +89,19 @@
 
 
 
-## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
 *   [Brisk (⭐321)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 
-## [10. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [13. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -99,6 +117,7 @@
 *   [Swetrix](https://swetrix.com/) - European OSS product & web analytics, ([Source Code (⭐855)](https://github.com/swetrix/swetrix)) `MIT`/`AGPL-3.0` `NodeJS`
 *   [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source (⭐5.4k)](https://github.com/arp242/goatcounter), [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
 *   [Rybbit Analytics](https://rybbit.com/) - Rybbit is powerful, lightweight, and super easy to use analytics. Cookieless and GDPR compliant. Hosted on EU infrastructure in Germany. Self-hosting compatible `©` `SaaS` `self-hosted` `EU`
+*   [Clickport](https://clickport.io/) - Privacy-first web analytics without cookies. GDPR compliant, EU-hosted, with session tracking, goals, and real-time dashboard. `©` `SaaS` `EU`
 
 ### Developer analytics
 
@@ -106,7 +125,7 @@
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 *   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 
-## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [14. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -120,13 +139,13 @@
 
 *   [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Command Line Learning / Science
 
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
-## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [16. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -138,7 +157,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
 
-## [14. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [17. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / News Data
 
@@ -148,13 +167,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [WFGY (⭐1.4k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 
-## [15. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [**agnix**](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 
-## [16. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [19. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### AI / ChatGPT
 
@@ -202,13 +221,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 *   [sls-dev-tools (⭐874)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 
-## [17. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Observability
 
 *   [rstat (⭐3)](https://github.com/overyonder/rstat) - Sub-millisecond system monitoring using eBPF tracepoints on sched\_switch, sched\_process\_exit, and sched\_process\_free, with zero heap allocations in steady state.
 
-## [18. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -218,7 +237,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
 
-## [19. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [22. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Icons
 
@@ -228,7 +247,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [svelte-bash (⭐69)](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 
-## [20. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [23. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### 3D
 
@@ -675,7 +694,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [Youdao AI Writing](https://write.youdao.com/) - Automated multi-language text generation. 90 \`\`
 *   [Youdao Writing](https://write.youdao.com/) - English improvement with authoritative correction. 91 `#free`
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### JSON
 
@@ -693,6 +712,12 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [eon (⭐42)](https://github.com/bohonghuang/eon) -  An easy-to-use but flexible game framework based on Raylib for Common Lisp. Apache2.0.
 *   [lisp-magick-wand (⭐21)](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
+
+### Showcase
+
+*   🔥 [lisp-screenshots.org](https://www.lisp-screenshots.org/)
+*   [awesome-lisp-companies (⭐638)](https://github.com/azzamsa/awesome-lisp-companies/)
+*   [cl-software (⭐377)](https://github.com/azzamsa/awesome-cl-software)
 
 ### Javascript / Isomorphic web frameworks
 
@@ -718,7 +743,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
     *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
         *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
-## [22. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [25. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -824,7 +849,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [ESP-File\_manager (⭐18)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
 *   [mcu\_serial (⭐3)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
 
-## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [26. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Specific Formats Processing
 
@@ -832,11 +857,11 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
     *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
-## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐379) (⭐379)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [Gravitee.io API Management (⭐380) (⭐379)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 *   [WSO2 API Manager (⭐965) (⭐964)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
@@ -845,11 +870,12 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ### Projects / API Documentation
 
-*   [Zudoku (⭐449) (⭐447)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [Zudoku (⭐455) (⭐447)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐149) (⭐149)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Envoy Gateway (⭐2.5k) (⭐2.5k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
+*   [Gloo Edge (⭐150) (⭐149)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 
 ### Projects / Data Integration
 
@@ -857,7 +883,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ### Projects / Data Mapping Solution
 
-*   [JSLT (⭐686) (⭐685)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+*   [JSLT (⭐689) (⭐685)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
 
 ### Projects / Enterprise Service Bus
 
@@ -869,12 +895,12 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ### Projects / Message Broker
 
-*   [Apache Artemis (⭐999) (⭐1k)](https://github.com/apache/artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
+*   [Apache Artemis (⭐998) (⭐1k)](https://github.com/apache/artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
 *   [LavinMQ (⭐859) (⭐858)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 
 ### Projects / Self-Service Integration
 
-*   [n8n (⭐173k) (⭐174k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [n8n (⭐174k) (⭐174k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ### Projects / Workflow Engine
 
@@ -882,9 +908,9 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ### Resources / Data Formats
 
-*   [YAML (⭐453) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [YAML (⭐452) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [25. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [28. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### ✔ RSS Feed Validator / Outline Processor Markup Language
 
@@ -894,26 +920,26 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 
-## [26. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [29. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Other / Frameworks
 
 *   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [arc-prompt (⭐3)](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 *   [zramdisk (⭐0)](https://github.com/TomfromBerlin/zramdisk) - User friendly configuration, creation, mounting, unmounting, and management of a compressed RAM disk.
 
-## [28. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
-## [29. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -927,19 +953,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Xygeni](https://xygeni.io/) :copyright: — Xygeni is a comprehensive Software Supply Chain Security platform. It provides Advanced SAST with AI-powered remediation, Software Composition Analysis (SCA) with real-time malware detection, Infrastructure as Code (IaC) scanning, and Secrets detection to ensure end-to-end code security.
 
-## [30. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [33. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [Kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
 
-## [31. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [34. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### CLI & Terminal / Advanced Console UIs
 
 *   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`603`
 
-## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [35. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Validation
 
@@ -949,19 +975,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
 
-## [33. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
 *   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 
-## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 
-## [35. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### AI and Machine Learning / Visual Studio
 
@@ -970,13 +996,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 *   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
-## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [39. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### AI Coding
 
 *   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
 
-## [37. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [40. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Security
 
@@ -998,7 +1024,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
-## [38. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [41. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -1009,18 +1035,23 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
 
-## [39. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [42. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
+*   [AgentSys (⭐379)](https://github.com/avifenesh/agentsys) by [avifenesh](https://github.com/avifenesh) - Workflow automation system for Claude with a group of useful plugins, agents, and skills. Automates task-to-production workflows, PR management, code cleanup, performance investigation, drift detection, and multi-agent code review. Includes [agnix (⭐30)](https://github.com/avifenesh/agnix) for linting agent configurations. Built on thousands of lines of code with thousands of tests. Uses deterministic detection (regex, AST) with LLM judgment for efficiency. Used on many production systems.
 *   [Claude Code Agents (⭐11)](https://github.com/undeadlist/claude-code-agents) by [Paul - UndeadList](https://github.com/undeadlist) - Comprehensive E2E development workflow with helpful Claude Code subagent prompts for solo devs. Run multiple auditors in parallel, automate fix cycles with micro-checkpoint protocols, and do browser-based QA. Includes strict protocols to prevent AI going rogue.
 *   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
+
+### Tooling 🧰 / Orchestrators
+
+*   [Auto-Claude (⭐12k)](https://github.com/AndyMik90/Auto-Claude) by [AndyMik90](https://github.com/AndyMik90) - Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
 
 ### Workflows & Knowledge Guides 🧠 / General
 
 *   [Claude Code Ultimate Guide (⭐111)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) by [Florian BRUNIAUX](https://www.linkedin.com/in/florian-bruniaux-43408b83/) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
 
-## [40. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [43. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Learning Resources
 
@@ -1051,11 +1082,15 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
+### Multimedia & Graphics / Graphics Library
+
+*   [zsdl3 (⭐12)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+
 ### Multimedia & Graphics / GUI
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -1089,7 +1124,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -1098,6 +1133,10 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 ### Developer Tools / Developer Utilities
 
 *   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
+
+### Terminal Apps / Databases
+
+*   [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 
 ### Design and Product / Screenshot Tools
 
@@ -1124,7 +1163,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
@@ -1134,7 +1173,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1156,30 +1195,47 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
 
-## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Utilities / Provided by the Host
 
 *   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
-## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
 
-## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP
 
 *   [akioweh/lsp-document-highlight.nvim (⭐4)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 
+### AI / Diagnostics
+
+*   [nickjvandyke/opencode.nvim (⭐2.5k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+
 ### Programming Languages Support / Diagnostics
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [Prgebish/sigil.nvim (⭐23)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+
+### Buffers / Assembly
+
+*   [TheLazyCat00/workspaces-nvim (⭐3)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+
+### Terminal Integration / CSV Files
+
+*   [TheLazyCat00/runner-nvim (⭐3)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+
 ### Git / Quickfix
 
+*   [YouSame2/inlinediff-nvim (⭐17)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 *   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
@@ -1194,19 +1250,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
 
-## [48. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [51. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
-## [49. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [52. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 
-## [50. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [53. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 

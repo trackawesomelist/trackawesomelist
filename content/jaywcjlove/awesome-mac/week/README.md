@@ -16,6 +16,10 @@
 
 *   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
 
+### Terminal Apps / Databases
+
+*   [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
+
 ### Design and Product / Screenshot Tools
 
 *   [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas creation tool with drawing tools, blur/mosaic, and watermark features. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/Scap/6758053530)

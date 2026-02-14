@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Terminal Apps / Databases
+
+*   [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
+
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Design and Product / Screenshot Tools

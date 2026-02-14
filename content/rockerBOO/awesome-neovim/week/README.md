@@ -12,12 +12,29 @@ Collections of awesome neovim plugins.
 
 *   [akioweh/lsp-document-highlight.nvim (⭐4)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 
+### AI / Diagnostics
+
+*   [nickjvandyke/opencode.nvim (⭐2.5k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+
 ### Programming Languages Support / Diagnostics
 
 *   [alessio-vivaldelli/java-creator-nvim (⭐18)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [Prgebish/sigil.nvim (⭐23)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+
+### Buffers / Assembly
+
+*   [TheLazyCat00/workspaces-nvim (⭐3)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+
+### Terminal Integration / CSV Files
+
+*   [TheLazyCat00/runner-nvim (⭐3)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+
 ### Git / Quickfix
 
+*   [YouSame2/inlinediff-nvim (⭐17)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 *   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
