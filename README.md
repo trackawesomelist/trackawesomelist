@@ -125,6 +125,126 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Auto-Claude (⭐12k)](https://github.com/AndyMik90/Auto-Claude) by [AndyMik90](https://github.com/AndyMik90) - Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
 
+#### [11. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+
+##### Software / Libraries and Tools
+
+*   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+
+#### [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Software Development - IDE & Tools
+
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐22)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+
+#### [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Operating systems
+
+*   [hexagonal-sun/moss-kernel (⭐1.8k)](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
+
+#### [14. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+
+##### :books: Literature / Documentation
+
+*   :earth\_americas: [Armouring the ELF: Binary encryption on the UNIX platform](https://phrack.org/issues/58/5)
+*   :earth\_americas: [Learn symbolic execution and angr](https://tyeyeah.github.io/2020/03/05/2020-03-05-Learn-Symbolic-Execution-and-angr/)
+*   :bar\_chart: [LIEF: Library to instrument executable formats](https://www.romainthomas.fr/publication/lief/17-04-cybersecurity-frjp-LIEF.pdf)
+*   :earth\_americas: [The malware analyst's guide to aPLib decompression](https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Papers/Malware%20Defense/Malware%20Analysis/2021/2021-01-08%20-%20The%20malware%20analyst%E2%80%99s%20guide%20to%20aPLib%20decompression.pdf)
+*   :pushpin: [Packers/Protectors for Linux](https://reverseengineering.stackexchange.com/questions/3184/packers-protectors-for-linux)
+*   :bar\_chart: [Packing-box: Playing with executable packing](https://blackhat.com/eu-22/arsenal/schedule/index.html#packing-box-playing-with-executable-packing-29054)
+*   :bar\_chart: [Runtime packers testing experiences](https://www.av-test.org/fileadmin/pdf/publications/caro_2008_avtest_presentation_runtime_packer_testing_experiences.pdf)
+*   :green\_book: Surreptitious software: Obfuscation, watermarking, and tamperproofing for software protection
+*   :bar\_chart: [TitanMist: Your first step to reversing nirvana](https://media.blackhat.com/bh-us-10/whitepapers/Vuksan_Pericin/BlackHat-USA-2010-Vuksan-Pericin-TitanMist-wp.pdf)
+*   :earth\_americas: [YARA - The pattern matching swiss knife for malware researchers.](https://virustotal.github.io/yara)
+
+##### :books: Literature / Scientific Research
+
+*   :newspaper: [Adversarial attacks against Windows PE malware detection: A survey of the state-of-the-art](https://linkinghub.elsevier.com/retrieve/pii/S0167404823000445) (May 2023)  :star:
+*   :notebook: [Adversarially robust assembly language model for packed executables detection](https://dl.acm.org/doi/10.1145/3719027.3765157) (November 2025)  :star:
+*   :newspaper: [API-MalDetect: Automated malware detection framework for windows based on API calls and deep learning techniques](https://linkinghub.elsevier.com/retrieve/pii/S1084804523001236) (September 2023)  :star:
+*   :page\_facing\_up: [Assessing the impact of packing on machine learning-based malware detection and classification systems](https://www.sciencedirect.com/science/article/pii/S016740482500183X) (September 2025)  :star:
+*   :newspaper: [Auditing static machine learning anti-Malware tools against metamorphic attacks](https://linkinghub.elsevier.com/retrieve/pii/S0167404820304326) (March 2021)  :star:
+*   :newspaper: [Benchmark for filter methods for feature selection in high-dimensional classification data](https://linkinghub.elsevier.com/retrieve/pii/S016794731930194X) (March 2020)  :star:
+*   :newspaper: [Beyond the sandbox: Leveraging symbolic execution for evasive malware classification](https://linkinghub.elsevier.com/retrieve/pii/S016740482400498X) (February 2025)  :star:
+*   :notebook: [BODMAS: An open dataset for learning based temporal analysis of PE malware](https://ieeexplore.ieee.org/document/9474321) (May 2021)  :star:
+*   :mortar\_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis:25193) (June 2020)
+*   :mortar\_board: [Building high-quality datasets of packed executables - Enhancing static detection models via curated packed binary datasets](https://hdl.handle.net/2078.2/44553) (August 2025)  :star:
+*   :newspaper: [Bypassing heaven’s gate technique using black-box testing](https://www.mdpi.com/1424-8220/23/23/9417) (November 2023)  :star:
+*   :notebook: [BYTEWEIGHT: Learning to recognize functions in binary code](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/bao) (August 2014)
+*   :newspaper: [Classification of malware by using structural entropy on convolutional neural networks](https://ojs.aaai.org/index.php/AAAI/article/view/11409) (April 2018)
+*   :mortar\_board: [Code obfuscation techniques for software protection](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/these/199) (April 2012)
+*   :mortar\_board: Computational-intelligence techniques for malware generation (October 2015)
+*   :newspaper: [Construction and evaluation of the new heuristic malware detection mechanism based on executable files static analysis](http://link.springer.com/10.1007/s11416-017-0309-3) (August 2018)
+*   :notebook: [Cryptographic function detection in obfuscated binaries via bit-precise symbolic loop mapping](https://ieeexplore.ieee.org/abstract/document/7958617) (May 2017)
+*   :page\_facing\_up: [Decoding the secrets of machine learning in malware classification: A deep dive into datasets, feature extraction, and model performance](https://dl.acm.org/doi/10.1145/3576915.3616589) (November 2023)  :star:
+*   :closed\_book: [Deobfuscation of virtualization-obfuscated code through symbolic execution and compilation optimization](https://link.springer.com/10.1007/978-3-319-89500-0_28) (April 2018)
+*   :notebook: [Deobfuscation of virtualization-obfuscated software: A semantics-based approach](https://dl.acm.org/doi/10.1145/2046707.2046739) (October 2011)
+*   :mortar\_board: [Design and implementation of a modular executable packer - Experimenting with packing techniques and static detection](https://hdl.handle.net/2078.2/42846) (June 2025)  :star:
+*   :notebook: [Detecting obfuscated viruses using cosine similarity analysis](https://ieeexplore.ieee.org/document/4148653/) (March 2007)
+*   :newspaper: [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) (June 2010)
+*   :newspaper: [Efficient automatic original entry point detection](https://www.airitilibrary.com/Article/Detail/10162364-201907-201906210002-201906210002-887-902) (January 2019)
+*   :notebook: [EMBER2024 - A benchmark dataset for holistic evaluation of malware classifiers](https://dl.acm.org/doi/10.1145/3711896.3737431) (August 2025)  :star:
+*   :newspaper: [Enhanced metamorphic techniques-A case study against havex malware](https://ieeexplore.ieee.org/document/9504559/) (August 2021)  :star:
+*   :newspaper: [An entropy-based distance measure for analyzing and detecting metamorphic malware](http://link.springer.com/10.1007/s10489-017-1045-6) (June 2018)
+*   :notebook: [Entropy-driven visualization in gview: Unveiling the unknown in binary file formats](https://ieeexplore.ieee.org/document/10896404) (September 2024)  :star:
+*   :newspaper: [A framework for metamorphic malware analysis and real-time detection](https://linkinghub.elsevier.com/retrieve/pii/S0167404814001576) (February 2015)
+*   :newspaper: [G3MD: Mining frequent opcode sub-graphs for metamorphic malware detection of existing families](https://linkinghub.elsevier.com/retrieve/pii/S0957417418303580) (December 2018)
+*   :notebook: [GUARD: Generic API de-obfuscation and obfuscated malware unpacking with sIAT](https://dl.acm.org/doi/10.1145/3672608.3707893) (March 2025)  :star:
+*   :newspaper: [Hunting for metamorphic engines](http://link.springer.com/10.1007/s11416-006-0028-7) (November 2006)
+*   :green\_book: [Longitudinal study of the prevalence of malware evasive techniques](https://arxiv.org/abs/2112.11289) (December 2021)  :star:
+*   :newspaper: [The MALICIA dataset: Identification and analysis of drive-by download operations](https://dl.acm.org/doi/abs/10.1007/s10207-014-0248-7) (February 2015)
+*   :closed\_book: [Measuring and defeating anti-instrumentation-equipped malware](http://link.springer.com/10.1007/978-3-319-60876-1_4) (June 2017)
+*   :newspaper: [Metamorphic malware detection based on support vector machine classification of malware sub-signatures](http://telkomnika.uad.ac.id/index.php/TELKOMNIKA/article/view/3850) (September 2016)
+*   :newspaper: [Metamorphic malware identification using engine-specific patterns based on co-opcode graphs](https://linkinghub.elsevier.com/retrieve/pii/S0920548919302685) (August 2020)  :star:
+*   :newspaper: [Mimicking anti-viruses with machine learning and entropy profiles](https://www.mdpi.com/1099-4300/21/5/513) (2019-05-21)
+*   :notebook: [Modern Linux malware exposed](https://www.eurecom.fr/fr/publication/5584) (June 2018)
+*   :newspaper: [A novel framework for image-based malware detection with a deep neural network](https://linkinghub.elsevier.com/retrieve/pii/S0167404821002248) (October 2021)  :star:
+*   :newspaper: [On the (im)possibility of obfuscating programs (2)](https://dl.acm.org/doi/10.1145/2160158.2160159) (April 2012)
+*   :notebook: [On the feasibility of malware unpacking via hardware-assisted loop profiling](https://dl.acm.org/doi/10.5555/3620237.3620656) (August 2023)  :star:
+*   :newspaper: [Performance evaluation of filter-based feature selection techniques in classifying portable executable files](https://linkinghub.elsevier.com/retrieve/pii/S1877050917328107) (January 2018)  :star:
+*   :notebook: [Program obfuscation by strong cryptography](https://ieeexplore.ieee.org/document/5438087) (February 2010)
+*   :newspaper: [Replacement attacks against VM-protected applications](https://dl.acm.org/doi/10.1145/2365864.2151051) (September 2012)
+*   :newspaper: [Resurrecting anti-virtualization and anti-debugging: Unhooking your hooks](https://linkinghub.elsevier.com/retrieve/pii/S0167739X20330284) (March 2021)  :star:
+*   :newspaper: [Singular value decomposition and metamorphic detection](http://link.springer.com/10.1007/s11416-014-0220-0) (November 2015)
+*   :newspaper: [SMASH: A malware detection method based on multi-feature ensemble learning](https://ieeexplore.ieee.org/document/8792043/) (August 2019)
+*   :newspaper: [Software protection through anti-debugging](http://ieeexplore.ieee.org/document/4218560/) (May 2007)
+*   :newspaper: [Structural analysis of binary executable headers for malware detection optimization](http://link.springer.com/10.1007/s11416-016-0274-2) (May 2017)
+*   :newspaper: [Structural entropy and metamorphic malware](http://link.springer.com/10.1007/s11416-013-0185-4) (November 2013)
+*   :newspaper: [A survey on adversarial attacks for malware analysis](https://ieeexplore.ieee.org/document/10806701) (December 2024)  :star:
+*   :newspaper: [A survey on automated dynamic malware-analysis techniques and tools](https://doi.org/10.1145/2089125.2089126) (March 2008)
+*   :newspaper: [A systematical and longitudinal study of evasive behaviors in windows malware](https://linkinghub.elsevier.com/retrieve/pii/S0167404821003746) (February 2022)  :star:
+*   :notebook: [Understanding Linux malware](https://ieeexplore.ieee.org/document/8418602) (May 2018)
+*   :newspaper: [Watermarking, tamper-proofing, and obfuscation - Tools for software protection](http://ieeexplore.ieee.org/document/1027797/) (August 2002)
+*   :newspaper: [Wavelet decomposition of software entropy reveals symptoms of malicious code](https://linkinghub.elsevier.com/retrieve/pii/S2352664516300220) (December 2016)
+*   :notebook: [Xunpack: Cross-Architecture unpacking for Linux IoT malware](https://dl.acm.org/doi/10.1145/3607199.3607214) (October 2023)  :star:
+
+##### :bookmark_tabs: Datasets / Scientific Research
+
+*   [Ember2024 (⭐91)](https://github.com/futurecomputing4ai/ember2024) - Update to the EMBER2017 and EMBER2018 datasets.
+
+##### :package: Packers / After 2010
+
+*   [Backpack (⭐19)](https://github.com/Enelg52/Backpack)
+*   [ELF-Encrypter](https://elf-encrypter.sourceforge.net/) - Collection of programs to encrypt ELF binaries using various algorithms.
+*   [ELF-Packer (⭐59)](https://github.com/glen-mac/ELF-Packer) - Simple Polymorphic x86\_64 Runtime Code Segment Cryptor.
+*   [ELFkickers (⭐614)](https://github.com/BR903/ELFkickers) - A collection of programs that access and manipulate ELF files.
+*   [EXE Bundle](https://exebundle.software.informer.com/3.1) - Bundles application files into a single PE32 file.
+*   EXE Stealth - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
+*   [oplzkwp (⭐70)](https://github.com/tweksteen/oplzkwp) - Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.
+*   [pocrypt (⭐11)](https://github.com/picoflamingo/pocrypt) - Naive Proof of Concept Crypter for GNU/Linux ELF64.
+*   [ps2-packer (⭐80)](https://github.com/ps2dev/ps2-packer) - Create packed ELF files to run on the PS2.
+*   [sherlocked (⭐105)](https://github.com/elfmaster/sherlocked)
+*   [XyrisPack (⭐11)](https://github.com/01Xyris/XyrisPack)
+
+##### :package: Packers / Between 2000 and 2010
+
+*   [cryptelf](https://packetstormsecurity.com/files/30886/cryptelf.c.html) - Modifies binary by appending code to handle runtime decryption, changing the program EP and changing the .note segment to LOAD ; encrypts the .text section by XORing its bytes with a key.
+
+##### :wrench: Tools / Before 2000
+
+*   [PANDI (⭐3)](https://github.com/dimitriwauters/PANDI) - Dynamic packing detection solution built on top of PANDA.
+
 ### [Feb 13, 2026](/content/2026/02/13/README.md)
 
 
@@ -166,19 +286,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 
-#### [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Screenshot APIs
-
-*   [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
-
-#### [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+#### [5. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ##### Tools / GUIs
 
 *   [TWSNMP FK (⭐0)](https://github.com/twsnmp/twsnmpfk) - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
 
-#### [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Model Explanation / Others
 
@@ -192,7 +306,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [alibi-detect (⭐2.5k)](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/alibi-detect.png" alt="sklearn">
 
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Advanced Console UIs
+
+*   [box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
+
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Editing Support / Scrollbar
+
+*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+
+#### [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Design and Product / Screenshot Tools
+
+*   [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas creation tool with drawing tools, blur/mosaic, and watermark features. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/Scap/6758053530)
+
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Screenshot APIs
+
+*   [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
+
+#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -209,24 +347,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Libraries / Cryptography
 
 *   [rust-native-tls/rust-native-tls (⭐536)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
-
-#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Advanced Console UIs
-
-*   [box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
-
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Editing Support / Scrollbar
-
-*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
-
-#### [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Design and Product / Screenshot Tools
-
-*   [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas creation tool with drawing tools, blur/mosaic, and watermark features. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/Scap/6758053530)
 
 ### [Feb 12, 2026](/content/2026/02/12/README.md)
 
@@ -351,19 +471,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 *   [sls-dev-tools (⭐874)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 
-#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Productivity
-
-*   [tambourine-voice (⭐258)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
-
-#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Git / Quickfix
 
 *   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
-#### [13. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+#### [12. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ##### General analytics
 
@@ -386,7 +500,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 *   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 
-#### [14. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [13. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Agent Skills 🤖 / General
 
@@ -396,20 +510,26 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Claude Code Ultimate Guide (⭐111)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) by [Florian BRUNIAUX](https://www.linkedin.com/in/florian-bruniaux-43408b83/) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
 
+#### [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Productivity
+
+*   [tambourine-voice (⭐258)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+
 ---
 
 - Next: [Feb 11, 2026](&#x2F;content&#x2F;2026&#x2F;02&#x2F;11&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 282K 📝 02&#x2F;11) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 272K 📝 02&#x2F;09) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 272K 📝 02&#x2F;14) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 282K 📝 02&#x2F;11) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 165K 📝 02&#x2F;13) - A curated list of awesome Go frameworks, libraries and software
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 118K 📝 02&#x2F;13) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 99K 📝 02&#x2F;14) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 381K 📝 01&#x2F;27) - :books: Freely available programming books
-7. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 70K 📝 02&#x2F;12) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 55K 📝 02&#x2F;13) - A curated list of Rust code and resources.
+7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 55K 📝 02&#x2F;14) - A curated list of Rust code and resources.
+8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 70K 📝 02&#x2F;12) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 9. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 02&#x2F;08) - 🎉 A curated list of awesome things related to Vue.js
 10. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source](https://github.com/enaqx/awesome-react) ⭐ 72K 📝 02&#x2F;08) - A collection of awesome things regarding React ecosystem
 11. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65K 📝 02&#x2F;08) - :zap: Delightful Node.js packages and resources
@@ -451,7 +571,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 47. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5.7K 📝 02&#x2F;11) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 48. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source](https://github.com/dariubs/GoBooks) ⭐ 19K 📝 01&#x2F;29) - List of Golang books
 49. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 28K 📝 01&#x2F;25) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-50. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 4.8K 📝 02&#x2F;12) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+50. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source](https://github.com/HQarroum/awesome-iot) ⭐ 3.8K 📝 02&#x2F;14) - 🤖 A curated list of awesome Internet of Things projects and resources.
 
 ## All Tracked List
 
@@ -811,7 +931,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 - [Awesome Beacon](/content/rabschi/awesome-beacon/README.md) - ([Source ⭐ 841, 📝 19&#x2F;05&#x2F;03 ](https://github.com/rabschi/awesome-beacon)) - A curated list of awesome Bluetooth beacon software and tools.
 - [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 7.1K, 📝 01&#x2F;06 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
-- [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 3.6K, 📝 25&#x2F;07&#x2F;24 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
+- [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 3.8K, 📝 02&#x2F;14 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [Awesome Lidar](/content/szenergy/awesome-lidar/README.md) - ([Source ⭐ 1.2K, 📝 02&#x2F;08 ](https://github.com/szenergy/awesome-lidar)) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md) - ([Source ⭐ 318, 📝 24&#x2F;01&#x2F;17 ](https://github.com/delftopenhardware/awesome-open-hardware)) - 🛠Helpful items for making open source hardware projects.
 - [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 1.3K, 📝 25&#x2F;12&#x2F;04 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
@@ -882,6 +1002,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 - [Awesome Acg](/content/soruly/awesome-acg/README.md) - ([Source ⭐ 1.4K, 📝 02&#x2F;08 ](https://github.com/soruly/awesome-acg)) - A curated list of awesome technologies related to Anime, Comic and Games
 - [Awesome ad Free](/content/johnjago/awesome-ad-free/README.md) - ([Source ⭐ 334, 📝 22&#x2F;06&#x2F;12 ](https://github.com/johnjago/awesome-ad-free)) - Curated list of ad-free alternatives to popular services on the web
 - [Awesome Ads](/content/cenoura/awesome-ads/README.md) - ([Source ⭐ 75, 📝 20&#x2F;10&#x2F;12 ](https://github.com/cenoura/awesome-ads)) - A curated list of awesome advertising content, resources and libraries.
+- [Awesome Age](/content/FiloSottile/awesome-age/README.md) - ([Source ⭐ 532, 📝 25&#x2F;12&#x2F;28 ](https://github.com/FiloSottile/awesome-age)) - A collection of projects and resources in the age file encryption ecosystem.
 - [Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md) - ([Source ⭐ 1.6K, 📝 01&#x2F;06 ](https://github.com/brycejohnston/awesome-agriculture)) - Open source technology for agriculture, farming, and gardening
 - [Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md) - ([Source ⭐ 436, 📝 20&#x2F;10&#x2F;11 ](https://github.com/gaerae/awesome-algorithms-education)) - A curated list to learning and practicing about algorithm.
 - [Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md) - ([Source ⭐ 368, 📝 25&#x2F;12&#x2F;13 ](https://github.com/ScaleLeap/awesome-amazon-seller)) - A curated list of tools and resources for Amazon sellers.
@@ -987,7 +1108,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.5K, 📝 01&#x2F;02 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 875, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 272K, 📝 02&#x2F;09 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 272K, 📝 02&#x2F;14 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1162,7 +1283,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6.4K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 02&#x2F;08 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K, 📝 02&#x2F;13 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K, 📝 02&#x2F;14 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 266, 📝 25&#x2F;07&#x2F;14 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 
@@ -1186,7 +1307,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 - [Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/TaptuIT/awesome-devsecops)) - Curating the best DevSecOps resources and tooling.
 - [Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md) - ([Source ⭐ 1.4K, 📝 23&#x2F;10&#x2F;17 ](https://github.com/fkie-cad/awesome-embedded-and-iot-security)) - A curated list of awesome embedded and IoT security resources.
 - [Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md) - ([Source ⭐ 77, 📝 22&#x2F;05&#x2F;16 ](https://github.com/kareniel/awesome-evm-security)) - 🕶 A high-level overview of the EVM security ecosystem
-- [Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md) - ([Source ⭐ 1.5K, 📝 01&#x2F;04 ](https://github.com/packing-box/awesome-executable-packing)) - A curated list of awesome resources related to executable packing
+- [Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;14 ](https://github.com/packing-box/awesome-executable-packing)) - A curated list of awesome resources related to executable packing
 - [Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md) - ([Source ⭐ 711, 📝 23&#x2F;11&#x2F;20 ](https://github.com/cpuu/awesome-fuzzing)) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 - [Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md) - ([Source ⭐ 240, 📝 25&#x2F;12&#x2F;30 ](https://github.com/bakke92/awesome-gdpr)) - Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 - [Awesome Hacking](/content/carpedm20/awesome-hacking/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;12&#x2F;27 ](https://github.com/carpedm20/awesome-hacking)) - A curated list of awesome Hacking tutorials, tools and resources

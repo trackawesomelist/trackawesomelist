@@ -285,7 +285,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [ParadeDB (⭐8.3k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
 *   [ParityDB (⭐283)](https://github.com/paritytech/parity-db) - Fast and reliable database, optimised for read operation
 *   [PumpkinDB (⭐1.4k)](https://github.com/PumpkinDB/PumpkinDB) - an event sourcing database engine
-*   [Qdrant (⭐28k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐29k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions)
 *   [Qrlew/qrlew (⭐48)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 *   [QuillSQL (⭐170)](https://github.com/feichai0017/QuillSQL) - An educational Rust relational database (RDBMS) inspired by CMU 15445
 *   [RisingWaveLabs/RisingWave (⭐8.8k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions)
@@ -453,6 +453,7 @@ See also [A comparison of operating systems written in Rust (⭐830)](https://gi
 *   [Andy-Python-Programmer/aero (⭐1.2k)](https://github.com/Andy-Python-Programmer/aero) - A modern, unix-like operating system following the monolithic kernel design.
 *   [asterinas/asterinas (⭐4.3k)](https://github.com/asterinas/asterinas) - A secure, fast, and general-purpose OS kernel that provides Linux-compatible ABI.
 *   [DragonOS-Community/DragonOS (⭐1.1k)](https://github.com/DragonOS-Community/DragonOS) - An operating system with a self-developed kernel from scratch and Linux compatibility.
+*   [hexagonal-sun/moss-kernel (⭐1.8k)](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
 *   [koibtw/highlightos (⭐74)](https://github.com/koibtw/highlightos) - x86\_64 OS kernel written in Rust & Assembly.
 *   [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) - A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD.
 *   [thepowersgang/rust\_os (⭐809)](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
@@ -1067,14 +1068,14 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [guillaume-be/rust-bert (⭐3k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
 *   [huggingface/candle (⭐19k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
 *   [huggingface/tokenizers (⭐10k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
-*   [LaurentMazare/tch-rs (⭐5.2k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
-*   [maciejkula/rustlearn (⭐637)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
+*   [LaurentMazare/tch-rs (⭐5.3k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
+*   [maciejkula/rustlearn (⭐638)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
 *   [Mottl/lightgb3-rs (⭐47)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
 *   [perpetual-ml/perpetual (⭐638)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 *   [ramsyana/RustTensor (⭐68)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 *   [rust-ml/linfa (⭐4.5k)](https://github.com/rust-ml/linfa) - Machine learning framework.
 *   [sipemu/anofox-regression (⭐3)](https://github.com/sipemu/anofox-regression) \[[anofox-regression](https://crates.io/crates/anofox-regression)] - Statistical regression models (OLS, Elastic Net, GLM, Quantile & Isotonic) with R-like inference (p-values, confidence & prediction intervals) and Wasm support.
-*   [smartcorelib/smartcore (⭐883)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
+*   [smartcorelib/smartcore (⭐886)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
 *   [tag1consulting/feste (⭐61)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 *   [tensorflow/rust (⭐5.5k)](https://github.com/tensorflow/rust) - Bindings for TensorFlow.
 

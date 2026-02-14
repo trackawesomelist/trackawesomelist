@@ -1,36 +1,144 @@
 # Awesome List Updates on Feb 16 - Feb 22, 2026
 
-53 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+
+### :books: Literature / Documentation
+
+*   :earth\_americas: [Armouring the ELF: Binary encryption on the UNIX platform](https://phrack.org/issues/58/5)
+*   :earth\_americas: [Learn symbolic execution and angr](https://tyeyeah.github.io/2020/03/05/2020-03-05-Learn-Symbolic-Execution-and-angr/)
+*   :bar\_chart: [LIEF: Library to instrument executable formats](https://www.romainthomas.fr/publication/lief/17-04-cybersecurity-frjp-LIEF.pdf)
+*   :earth\_americas: [The malware analyst's guide to aPLib decompression](https://infocon.org/mirrors/vx%20underground%20-%202025%20June/Papers/Malware%20Defense/Malware%20Analysis/2021/2021-01-08%20-%20The%20malware%20analyst%E2%80%99s%20guide%20to%20aPLib%20decompression.pdf)
+*   :pushpin: [Packers/Protectors for Linux](https://reverseengineering.stackexchange.com/questions/3184/packers-protectors-for-linux)
+*   :bar\_chart: [Packing-box: Playing with executable packing](https://blackhat.com/eu-22/arsenal/schedule/index.html#packing-box-playing-with-executable-packing-29054)
+*   :bar\_chart: [Runtime packers testing experiences](https://www.av-test.org/fileadmin/pdf/publications/caro_2008_avtest_presentation_runtime_packer_testing_experiences.pdf)
+*   :green\_book: Surreptitious software: Obfuscation, watermarking, and tamperproofing for software protection
+*   :bar\_chart: [TitanMist: Your first step to reversing nirvana](https://media.blackhat.com/bh-us-10/whitepapers/Vuksan_Pericin/BlackHat-USA-2010-Vuksan-Pericin-TitanMist-wp.pdf)
+*   :earth\_americas: [YARA - The pattern matching swiss knife for malware researchers.](https://virustotal.github.io/yara)
+
+### :books: Literature / Scientific Research
+
+*   :newspaper: [Adversarial attacks against Windows PE malware detection: A survey of the state-of-the-art](https://linkinghub.elsevier.com/retrieve/pii/S0167404823000445) (May 2023)  :star:
+*   :notebook: [Adversarially robust assembly language model for packed executables detection](https://dl.acm.org/doi/10.1145/3719027.3765157) (November 2025)  :star:
+*   :newspaper: [API-MalDetect: Automated malware detection framework for windows based on API calls and deep learning techniques](https://linkinghub.elsevier.com/retrieve/pii/S1084804523001236) (September 2023)  :star:
+*   :page\_facing\_up: [Assessing the impact of packing on machine learning-based malware detection and classification systems](https://www.sciencedirect.com/science/article/pii/S016740482500183X) (September 2025)  :star:
+*   :newspaper: [Auditing static machine learning anti-Malware tools against metamorphic attacks](https://linkinghub.elsevier.com/retrieve/pii/S0167404820304326) (March 2021)  :star:
+*   :newspaper: [Benchmark for filter methods for feature selection in high-dimensional classification data](https://linkinghub.elsevier.com/retrieve/pii/S016794731930194X) (March 2020)  :star:
+*   :newspaper: [Beyond the sandbox: Leveraging symbolic execution for evasive malware classification](https://linkinghub.elsevier.com/retrieve/pii/S016740482400498X) (February 2025)  :star:
+*   :notebook: [BODMAS: An open dataset for learning based temporal analysis of PE malware](https://ieeexplore.ieee.org/document/9474321) (May 2021)  :star:
+*   :mortar\_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis:25193) (June 2020)
+*   :mortar\_board: [Building high-quality datasets of packed executables - Enhancing static detection models via curated packed binary datasets](https://hdl.handle.net/2078.2/44553) (August 2025)  :star:
+*   :newspaper: [Bypassing heaven’s gate technique using black-box testing](https://www.mdpi.com/1424-8220/23/23/9417) (November 2023)  :star:
+*   :notebook: [BYTEWEIGHT: Learning to recognize functions in binary code](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/bao) (August 2014)
+*   :newspaper: [Classification of malware by using structural entropy on convolutional neural networks](https://ojs.aaai.org/index.php/AAAI/article/view/11409) (April 2018)
+*   :mortar\_board: [Code obfuscation techniques for software protection](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/these/199) (April 2012)
+*   :mortar\_board: Computational-intelligence techniques for malware generation (October 2015)
+*   :newspaper: [Construction and evaluation of the new heuristic malware detection mechanism based on executable files static analysis](http://link.springer.com/10.1007/s11416-017-0309-3) (August 2018)
+*   :notebook: [Cryptographic function detection in obfuscated binaries via bit-precise symbolic loop mapping](https://ieeexplore.ieee.org/abstract/document/7958617) (May 2017)
+*   :page\_facing\_up: [Decoding the secrets of machine learning in malware classification: A deep dive into datasets, feature extraction, and model performance](https://dl.acm.org/doi/10.1145/3576915.3616589) (November 2023)  :star:
+*   :closed\_book: [Deobfuscation of virtualization-obfuscated code through symbolic execution and compilation optimization](https://link.springer.com/10.1007/978-3-319-89500-0_28) (April 2018)
+*   :notebook: [Deobfuscation of virtualization-obfuscated software: A semantics-based approach](https://dl.acm.org/doi/10.1145/2046707.2046739) (October 2011)
+*   :mortar\_board: [Design and implementation of a modular executable packer - Experimenting with packing techniques and static detection](https://hdl.handle.net/2078.2/42846) (June 2025)  :star:
+*   :notebook: [Detecting obfuscated viruses using cosine similarity analysis](https://ieeexplore.ieee.org/document/4148653/) (March 2007)
+*   :newspaper: [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) (June 2010)
+*   :newspaper: [Efficient automatic original entry point detection](https://www.airitilibrary.com/Article/Detail/10162364-201907-201906210002-201906210002-887-902) (January 2019)
+*   :notebook: [EMBER2024 - A benchmark dataset for holistic evaluation of malware classifiers](https://dl.acm.org/doi/10.1145/3711896.3737431) (August 2025)  :star:
+*   :newspaper: [Enhanced metamorphic techniques-A case study against havex malware](https://ieeexplore.ieee.org/document/9504559/) (August 2021)  :star:
+*   :newspaper: [An entropy-based distance measure for analyzing and detecting metamorphic malware](http://link.springer.com/10.1007/s10489-017-1045-6) (June 2018)
+*   :notebook: [Entropy-driven visualization in gview: Unveiling the unknown in binary file formats](https://ieeexplore.ieee.org/document/10896404) (September 2024)  :star:
+*   :newspaper: [A framework for metamorphic malware analysis and real-time detection](https://linkinghub.elsevier.com/retrieve/pii/S0167404814001576) (February 2015)
+*   :newspaper: [G3MD: Mining frequent opcode sub-graphs for metamorphic malware detection of existing families](https://linkinghub.elsevier.com/retrieve/pii/S0957417418303580) (December 2018)
+*   :notebook: [GUARD: Generic API de-obfuscation and obfuscated malware unpacking with sIAT](https://dl.acm.org/doi/10.1145/3672608.3707893) (March 2025)  :star:
+*   :newspaper: [Hunting for metamorphic engines](http://link.springer.com/10.1007/s11416-006-0028-7) (November 2006)
+*   :green\_book: [Longitudinal study of the prevalence of malware evasive techniques](https://arxiv.org/abs/2112.11289) (December 2021)  :star:
+*   :newspaper: [The MALICIA dataset: Identification and analysis of drive-by download operations](https://dl.acm.org/doi/abs/10.1007/s10207-014-0248-7) (February 2015)
+*   :closed\_book: [Measuring and defeating anti-instrumentation-equipped malware](http://link.springer.com/10.1007/978-3-319-60876-1_4) (June 2017)
+*   :newspaper: [Metamorphic malware detection based on support vector machine classification of malware sub-signatures](http://telkomnika.uad.ac.id/index.php/TELKOMNIKA/article/view/3850) (September 2016)
+*   :newspaper: [Metamorphic malware identification using engine-specific patterns based on co-opcode graphs](https://linkinghub.elsevier.com/retrieve/pii/S0920548919302685) (August 2020)  :star:
+*   :newspaper: [Mimicking anti-viruses with machine learning and entropy profiles](https://www.mdpi.com/1099-4300/21/5/513) (2019-05-21)
+*   :notebook: [Modern Linux malware exposed](https://www.eurecom.fr/fr/publication/5584) (June 2018)
+*   :newspaper: [A novel framework for image-based malware detection with a deep neural network](https://linkinghub.elsevier.com/retrieve/pii/S0167404821002248) (October 2021)  :star:
+*   :newspaper: [On the (im)possibility of obfuscating programs (2)](https://dl.acm.org/doi/10.1145/2160158.2160159) (April 2012)
+*   :notebook: [On the feasibility of malware unpacking via hardware-assisted loop profiling](https://dl.acm.org/doi/10.5555/3620237.3620656) (August 2023)  :star:
+*   :newspaper: [Performance evaluation of filter-based feature selection techniques in classifying portable executable files](https://linkinghub.elsevier.com/retrieve/pii/S1877050917328107) (January 2018)  :star:
+*   :notebook: [Program obfuscation by strong cryptography](https://ieeexplore.ieee.org/document/5438087) (February 2010)
+*   :newspaper: [Replacement attacks against VM-protected applications](https://dl.acm.org/doi/10.1145/2365864.2151051) (September 2012)
+*   :newspaper: [Resurrecting anti-virtualization and anti-debugging: Unhooking your hooks](https://linkinghub.elsevier.com/retrieve/pii/S0167739X20330284) (March 2021)  :star:
+*   :newspaper: [Singular value decomposition and metamorphic detection](http://link.springer.com/10.1007/s11416-014-0220-0) (November 2015)
+*   :newspaper: [SMASH: A malware detection method based on multi-feature ensemble learning](https://ieeexplore.ieee.org/document/8792043/) (August 2019)
+*   :newspaper: [Software protection through anti-debugging](http://ieeexplore.ieee.org/document/4218560/) (May 2007)
+*   :newspaper: [Structural analysis of binary executable headers for malware detection optimization](http://link.springer.com/10.1007/s11416-016-0274-2) (May 2017)
+*   :newspaper: [Structural entropy and metamorphic malware](http://link.springer.com/10.1007/s11416-013-0185-4) (November 2013)
+*   :newspaper: [A survey on adversarial attacks for malware analysis](https://ieeexplore.ieee.org/document/10806701) (December 2024)  :star:
+*   :newspaper: [A survey on automated dynamic malware-analysis techniques and tools](https://doi.org/10.1145/2089125.2089126) (March 2008)
+*   :newspaper: [A systematical and longitudinal study of evasive behaviors in windows malware](https://linkinghub.elsevier.com/retrieve/pii/S0167404821003746) (February 2022)  :star:
+*   :notebook: [Understanding Linux malware](https://ieeexplore.ieee.org/document/8418602) (May 2018)
+*   :newspaper: [Watermarking, tamper-proofing, and obfuscation - Tools for software protection](http://ieeexplore.ieee.org/document/1027797/) (August 2002)
+*   :newspaper: [Wavelet decomposition of software entropy reveals symptoms of malicious code](https://linkinghub.elsevier.com/retrieve/pii/S2352664516300220) (December 2016)
+*   :notebook: [Xunpack: Cross-Architecture unpacking for Linux IoT malware](https://dl.acm.org/doi/10.1145/3607199.3607214) (October 2023)  :star:
+
+### :bookmark_tabs: Datasets / Scientific Research
+
+*   [Ember2024 (⭐91)](https://github.com/futurecomputing4ai/ember2024) - Update to the EMBER2017 and EMBER2018 datasets.
+
+### :package: Packers / After 2010
+
+*   [Backpack (⭐19)](https://github.com/Enelg52/Backpack)
+*   [ELF-Encrypter](https://elf-encrypter.sourceforge.net/) - Collection of programs to encrypt ELF binaries using various algorithms.
+*   [ELF-Packer (⭐59)](https://github.com/glen-mac/ELF-Packer) - Simple Polymorphic x86\_64 Runtime Code Segment Cryptor.
+*   [ELFkickers (⭐614)](https://github.com/BR903/ELFkickers) - A collection of programs that access and manipulate ELF files.
+*   [EXE Bundle](https://exebundle.software.informer.com/3.1) - Bundles application files into a single PE32 file.
+*   EXE Stealth - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
+*   [oplzkwp (⭐70)](https://github.com/tweksteen/oplzkwp) - Library for ELF obfuscation ; it uses PRESENT and blake244 to encrypt your payload on the fly.
+*   [pocrypt (⭐11)](https://github.com/picoflamingo/pocrypt) - Naive Proof of Concept Crypter for GNU/Linux ELF64.
+*   [ps2-packer (⭐80)](https://github.com/ps2dev/ps2-packer) - Create packed ELF files to run on the PS2.
+*   [sherlocked (⭐105)](https://github.com/elfmaster/sherlocked)
+*   [XyrisPack (⭐11)](https://github.com/01Xyris/XyrisPack)
+
+### :package: Packers / Between 2000 and 2010
+
+*   [cryptelf](https://packetstormsecurity.com/files/30886/cryptelf.c.html) - Modifies binary by appending code to handle runtime decryption, changing the program EP and changing the .note segment to LOAD ; encrypts the .text section by XORing its bytes with a key.
+
+### :wrench: Tools / Before 2000
+
+*   [PANDI (⭐3)](https://github.com/dimitriwauters/PANDI) - Dynamic packing detection solution built on top of PANDA.
+
+## [2. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Software / Libraries and Tools
+
+*   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+
+## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Scientific computing
 
 *   [vstats (⭐2)](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
 
-## [2. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
+## [4. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
 
 ### Apps / Readers
 
 *   [Web App (⭐287)](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Deployment Automation
 
 *   [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code (⭐144)](https://github.com/ku9nov/faynoSync), [Clients (⭐3)](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
 
-## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
 *   [box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
 
-## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Model Explanation / Others
 
@@ -44,13 +152,13 @@
 
 *   [alibi-detect (⭐2.5k)](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/alibi-detect.png" alt="sklearn">
 
-## [6. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [8. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Tools / GUIs
 
 *   [TWSNMP FK (⭐0)](https://github.com/twsnmp/twsnmpfk) - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [9. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -60,7 +168,7 @@
 
 *   [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 
-## [8. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [10. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
@@ -71,13 +179,13 @@
 *   [Digitale Quellenkritik](https://www.zotero.org/groups/2541642/digitale_quellenkritik) - Zotero group with literature on digital source criticism and the handling of digitized historical sources.
 *   [Historical Network Research](https://www.zotero.org/groups/209983/historical_network_research) - Zotero group with literature on historical network research and social network analysis in historical studies.
 
-## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Minimalist Sundered Isles Command Sheet](https://mendercap.itch.io/minimalist-sundered-isles-command-sheet) - Simple command ship sheet for Sundered Isles
 
-## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Node.js
 
@@ -89,19 +197,19 @@
 
 
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [13. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
 *   [Brisk (⭐321)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 
-## [13. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [15. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -125,7 +233,7 @@
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 *   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
 
-## [14. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -139,13 +247,13 @@
 
 *   [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
 
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Command Line Learning / Science
 
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
-## [16. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [18. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -157,7 +265,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
 
-## [17. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [19. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / News Data
 
@@ -167,13 +275,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [WFGY (⭐1.4k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 
-## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [20. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [**agnix**](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 
-## [19. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [21. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### AI / ChatGPT
 
@@ -221,13 +329,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [PuDB (⭐3.2k)](https://github.com/inducer/pudb) - Allows you to debug code right where you write and test it in a terminal.
 *   [sls-dev-tools (⭐874)](https://github.com/Theodo-UK/sls-dev-tools) - Interactive in-terminal dashboard that allows to monitor and manage the resources of  AWS-based Serverless applications.
 
-## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [22. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Observability
 
 *   [rstat (⭐3)](https://github.com/overyonder/rstat) - Sub-millisecond system monitoring using eBPF tracepoints on sched\_switch, sched\_process\_exit, and sched\_process\_free, with zero heap allocations in steady state.
 
-## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [23. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -237,7 +345,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
 
-## [22. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [24. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Icons
 
@@ -247,7 +355,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [svelte-bash (⭐69)](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 
-## [23. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [25. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### 3D
 
@@ -694,7 +802,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [Youdao AI Writing](https://write.youdao.com/) - Automated multi-language text generation. 90 \`\`
 *   [Youdao Writing](https://write.youdao.com/) - English improvement with authoritative correction. 91 `#free`
 
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### JSON
 
@@ -743,7 +851,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
     *   [docsearch-ollama (⭐5)](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
         *   we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
-## [25. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [27. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -849,7 +957,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [ESP-File\_manager (⭐18)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
 *   [mcu\_serial (⭐3)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
 
-## [26. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Specific Formats Processing
 
@@ -857,7 +965,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
     *   [kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
-## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [29. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -910,7 +1018,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [YAML (⭐452) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [28. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [30. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### ✔ RSS Feed Validator / Outline Processor Markup Language
 
@@ -920,26 +1028,26 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 
-## [29. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [31. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Other / Frameworks
 
 *   [Unicon (⭐3)](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [arc-prompt (⭐3)](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 *   [zramdisk (⭐0)](https://github.com/TomfromBerlin/zramdisk) - User friendly configuration, creation, mounting, unmounting, and management of a compressed RAM disk.
 
-## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [33. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
-## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [34. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -953,19 +1061,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Xygeni](https://xygeni.io/) :copyright: — Xygeni is a comprehensive Software Supply Chain Security platform. It provides Advanced SAST with AI-powered remediation, Software Composition Analysis (SCA) with real-time malware detection, Infrastructure as Code (IaC) scanning, and Secrets detection to ensure end-to-end code security.
 
-## [33. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [35. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [Kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
 
-## [34. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [36. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### CLI & Terminal / Advanced Console UIs
 
 *   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`603`
 
-## [35. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [37. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Validation
 
@@ -975,19 +1083,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [tubular (⭐91)](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
 
-## [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [38. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
 *   [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 
-## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Sprouty Dialogs (⭐36)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 
-## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [40. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### AI and Machine Learning / Visual Studio
 
@@ -996,13 +1104,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [CorvidAgent (⭐3)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 *   [algorand-agent-skills (⭐20)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
-## [39. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [41. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### AI Coding
 
 *   [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack. [![Mastra](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mastra-ai/mastra)
 
-## [40. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [42. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Security
 
@@ -1024,7 +1132,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [VillageSQL (⭐40)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
-## [41. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [43. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -1035,7 +1143,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Real Time Analytics: Algorithms and Systems (VLDB 2015)](https://arxiv.org/abs/1708.02621)
 
-## [42. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [44. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
@@ -1051,7 +1159,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [Claude Code Ultimate Guide (⭐111)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) by [Florian BRUNIAUX](https://www.linkedin.com/in/florian-bruniaux-43408b83/) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader, but a valuable resource nonetheless (as with all documentation sites, make sure it's up to date before you bet the farm).
 
-## [43. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [45. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Learning Resources
 
@@ -1090,11 +1198,15 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [vortix (⭐291)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+
+### Applications / Operating systems
+
+*   [hexagonal-sun/moss-kernel (⭐1.8k)](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
 
 ### Applications / Productivity
 
@@ -1124,7 +1236,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
-## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -1163,7 +1275,7 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [SaneClick](https://saneclick.com) - Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneClick)
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - E-books
 
@@ -1173,7 +1285,11 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ([Source Code (⭐18k)](https://github.com/bluenviron/mediamtx), [Clients](https://mediamtx.org/docs/kickoff/introduction)) `MIT` `Go/Docker`
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Software / Software Development - IDE & Tools
+
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐22)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1195,19 +1311,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
 
-## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [50. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Utilities / Provided by the Host
 
 *   [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
-## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Codington](https://codington.io) Interactive TypeScript practice exercises with instant feedback, designed for learning and teaching.
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP
 
@@ -1250,19 +1366,19 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [iamironz/android-nvim-plugin (⭐10)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
 
-## [51. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [53. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [Actionbase (⭐190)](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
-## [52. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [54. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 
-## [53. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [55. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 

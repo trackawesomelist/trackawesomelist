@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Applications / Operating systems
+
+*   [hexagonal-sun/moss-kernel (⭐1.8k)](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
+
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Applications
@@ -2771,7 +2777,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Qdrant (⭐28k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐29k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ## [May 09, 2022](/content/2022/05/09/README.md)
 
@@ -3036,7 +3042,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐883)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
+*   [smartcorelib/smartcore (⭐886)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
 
 ## [Dec 21, 2021](/content/2021/12/21/README.md)
 
@@ -3677,8 +3683,8 @@ A curated list of Rust code and resources.
 
 *   [Martin1887/oxigen (⭐184)](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
 *   [willi-kappler/darwin-rs (⭐126)](https://github.com/willi-kappler/darwin-rs) - Evolutionary algorithms
-*   [LaurentMazare/tch-rs (⭐5.2k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
-*   [maciejkula/rustlearn (⭐637)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
+*   [LaurentMazare/tch-rs (⭐5.3k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
+*   [maciejkula/rustlearn (⭐638)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
 *   [rust-ml/linfa (⭐4.5k)](https://github.com/rust-ml/linfa) - Machine learning framework.
 *   [tensorflow/rust (⭐5.5k)](https://github.com/tensorflow/rust) - Bindings for TensorFlow.
 

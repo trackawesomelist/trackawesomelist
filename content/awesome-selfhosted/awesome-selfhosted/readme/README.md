@@ -14,9 +14,9 @@ A list of Free Software network services and web applications which can be hoste
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐270k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐273k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
-**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐270k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
+**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐273k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
 See [Contributing](#contributing).
 
@@ -344,7 +344,6 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 *   [Hyphanet](https://hyphanet.org/) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Hyphanet) and chat on forums. ([Source Code (⭐1.1k)](https://github.com/hyphanet/fred)) `GPL-2.0` `Java`
 *   [Jami](https://jami.net/) - Universal communication platform which preserves the user's privacy and freedoms. ([Source Code](https://git.jami.net/savoirfairelinux?sort=latest_activity_desc\&filter=jami)) `GPL-3.0` `C++`
 *   [Live Helper Chat](https://livehelperchat.com/) - Live Support chat for your website. ([Source Code (⭐2.2k)](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`
-*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐35k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
 *   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐7.6k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++/deb`
 *   [Notifo (⭐850)](https://github.com/notifo-io/notifo) - Multichannel notification server with support for Email, Mobile Push, Web Push, SMS, messaging and a javascript plugin. `MIT` `C#`
 *   [Novu](https://novu.co/) - Notification infrastructure for developers. ([Source Code (⭐39k)](https://github.com/novuhq/novu/)) `MIT` `Docker/Nodejs`
@@ -455,7 +454,6 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software.
 
-*   [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code (⭐1.1k)](https://github.com/convos-chat/convos)) `Artistic-2.0` `Perl/Docker`
 *   [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code (⭐3k)](https://github.com/ergochat/ergo)) `MIT` `Go/Docker`
 *   [Glowing Bear (⭐967)](https://github.com/glowing-bear/glowing-bear) - A web frontend for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `Nodejs`
 *   [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code (⭐1.3k)](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++/Docker`
@@ -529,7 +527,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [remark42](https://remark42.com/) - Lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code (⭐5.4k)](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
 *   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐910)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 *   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐694)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐377)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐378)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 *   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.8k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
 *   [yarn.social](https://yarn.social) - Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 
@@ -639,7 +637,6 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 *   [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python/Docker`
 *   [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code (⭐1.9k)](https://github.com/publify/publify)) `MIT` `Ruby`
 *   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation in German). ([Source Code (⭐346)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
-*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐374)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 *   [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](https://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`
 *   [SPIP](https://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://git.spip.net/)) `GPL-3.0` `PHP`
 *   [Squidex](https://squidex.io) - Headless CMS, based on MongoDB, CQRS and Event Sourcing. ([Demo](https://cloud.squidex.io), [Source Code (⭐2.5k)](https://github.com/Squidex/squidex)) `MIT` `.NET`
@@ -681,7 +678,7 @@ Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management
 
 *See also: [dbdb.io - Database of Databases](https://dbdb.io/)*
 
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐7.2k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐7.3k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
 *   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐2k)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 *   [Baserow](https://baserow.io/) - Create your own database without technical experience (alternative to Airtable). ([Source Code](https://gitlab.com/baserow/baserow)) `MIT` `Docker`
 *   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐14k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
@@ -887,7 +884,6 @@ Network distributed filesystems.
 
 *   [GarageHQ](https://garagehq.deuxfleurs.fr/) - Geo-distributed, S3‑compatible storage service that can fulfill many needs. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
 *   [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code (⭐28k)](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
-*   [Minio](https://min.io/) - Object storage server compatible with Amazon S3 APIs. ([Source Code (⭐60k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
 *   [SeaweedFS (⭐30k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.9k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 *   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐1.8k)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
@@ -1584,7 +1580,6 @@ Dashboards for accessing information and applications.
 *Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)*
 
 *   [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code (⭐24k)](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`
-*   [Fenrus (⭐757)](https://github.com/revenz/fenrus) - Personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
 *   [Glance (⭐32k)](https://github.com/glanceapp/glance) - Highly customizable dashboard that puts all your feeds in one place. `AGPL-3.0` `Docker/Go`
 *   [gobookmarks (⭐9)](https://github.com/arran4/gobookmarks) - Landing page to display bookmarks stored in GitHub, GitLab or local Git. `AGPL-3.0` `Go/Docker`
 *   [Heimdall](https://heimdall.site/) - Elegant solution to organise all your web applications. ([Source Code (⭐9k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
@@ -1656,7 +1651,6 @@ Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and 
 *   [gathio](https://docs.gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐428)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
 *   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐8.6k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
 *   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐461)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
-*   [Input](https://getinput.co) - Privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐248)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 *   [LimeSurvey](https://www.limesurvey.org) - Feature-rich web-based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source Code (⭐3.5k)](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
 *   [Meetable](https://events.indieweb.org) - Minimal events aggregator. ([Source Code (⭐163)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
 *   [Mobilizon](https://mobilizon.org) - Federated tool that helps you find, create and organise events and groups. ([Source Code](https://framagit.org/framasoft/mobilizon/)) `AGPL-3.0` `Elixir/Docker`
@@ -1803,12 +1797,12 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.7k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
 *   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐2.1k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐544)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐547)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐32k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
 *   [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code (⭐78k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 *   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code (⭐43k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
 *   [Lura](https://luraproject.org/) - High-performance API Gateway. ([Source Code (⭐6.7k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐17k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
+*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐18k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐561)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Svix](https://svix.com) - Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code (⭐3.1k)](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐11k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
@@ -1862,6 +1856,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 *   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐22k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
 *   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - Feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐1.4k)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
 *   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2.9k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐22)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
 *   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.9k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software Development - Localization
@@ -2203,7 +2198,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively ed
 *   Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html), [awesomehub.web.app](https://awesomehub.js.org/list/selfhosted)
 *   [Awesome Sysadmin (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 *   Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/), [Easy Indie App](https://easyindie.app)
-*   Other Awesome lists: [Awesome Big Data (⭐14k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐72k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐14k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐73k)](https://github.com/awesomedata/awesome-public-datasets)
 *   Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 *   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 *   [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code (⭐3k)](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
@@ -2216,7 +2211,7 @@ Contributing guidelines can be found [here (⭐872)](https://github.com/awesome-
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐270k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐273k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).\
 The list of authors can be found in the [AUTHORS (⭐872)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
 

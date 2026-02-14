@@ -2,7 +2,7 @@
 
 🤖 A curated list of awesome Internet of Things projects and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 3.5K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HQarroum/awesome-iot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) · ⭐ 3.8K · 🏷️ Hardware
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐433k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -89,8 +89,8 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
 *   [ELFE](http://c3d.github.io/elfe/) - ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifically tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.
 *   [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
-*   [PikaPython (⭐1.6k)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
-*   [PharoThings (⭐92)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
+*   [PikaPython (⭐1.7k)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
+*   [PharoThings (⭐93)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
 *   [Rust](https://www.rust-lang.org/) - Rust is a language focused on performance, reliability and productivity. It is known for its safety, it is memory safe, it uses a borrow checker, and concurrency is also safe.
 *   [TinyGo](https://tinygo.org/) - TinyGo is a project to bring the Go programming language to microcontrollers and modern web browsers by creating a new compiler based on LLVM. You can compile and run TinyGo programs on many different microcontroller boards such as the BBC micro:bit and the Arduino Uno.
 *   [Toitlang](https://toitlang.org/) - is a high-level language that’s made to have a syntax very close to Python. As it’s built from first principles for microcontrollers, it’s at least 20x faster than MicroPython. They’ve also built a slick IDE integration.
@@ -99,10 +99,10 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 
 *   [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
 *   [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
-*   [AREG SDK (⭐297)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
-*   [Astarte (⭐260)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+*   [AREG SDK (⭐324)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+*   [Astarte (⭐267)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 *   [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with a wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
-*   [Countly IoT Analytics (⭐5.7k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+*   [Countly IoT Analytics (⭐5.8k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 *   [Eclipse Ditto™](https://eclipse.org/ditto/) - Eclipse Ditto is a framework for building so called "digital twins". It provides a cloud based representation and APIs to interact with connected physical devices. Ditto provides built-in authorization, search and connectivity capabilities to integrate with foreign systems like MQTT brokers, HTTP endpoints and Apache Kafka.
 *   [Eclipse Smarthome](https://eclipse.org/smarthome/) - The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.
 *   [Freedomotic](http://www.freedomotic.com) - Freedomotic is an open source, flexible, secure Internet of Things (IoT) development framework, useful to build and manage modern smart spaces. It is targeted to private individuals (home automation) as well as business users (smart retail environments, ambient aware marketing, monitoring and analytics, etc). Written in Java, it can interact with well known standard building automation protocols as well as with "do it yourself" solutions.
@@ -113,22 +113,22 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
 *   [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
 *   [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
-*   [Home Assistant (⭐80k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+*   [Home Assistant (⭐85k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
 *   [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
-*   [Thingsboard IoT Gateway (⭐1.9k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+*   [Thingsboard IoT Gateway (⭐2.1k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 *   [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
 *   [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
-*   [MyController (⭐150)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
+*   [MyController (⭐154)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 *   [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
-*   [HStreamDB (⭐722)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
-*   [IoTSharp.Gateways (⭐25)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
+*   [HStreamDB (⭐726)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [IoTSharp.Gateways (⭐26)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
 
 #### Middlewares
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 *   [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
 *   [OPC Router](https://www.opc-router.com/opc-router-details/) - IoT Gateway with various plug-ins (OPC UA, Mqtt, SQL, REST, SAP, InfluxDB, Printer, ...)
-*   [Huginn (⭐47k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐49k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 *   [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
 *   [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
 *   [MicroServiceBus.com](https://microservicebus.com) - MicroServiceBus.com is a device management platform for Azure, AWS and IBM IoT Hub, with integration to GitHub, ServiceNow, Cisco Jasper and more. It comes in a free (limited) version along with enterprise offerings.
@@ -138,20 +138,21 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
 *   [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
 *   [Thingspeak](https://thingspeak.com/) -  An open-source IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts.
-*   [VerneMQ (⭐3.4k)](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
+*   [VerneMQ (⭐3.5k)](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
 *   [Kuzzle (⭐1.6k)](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 *   [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 *   [EMQX](https://www.emqx.io/) - An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.
 *   [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
-*   [NanoMQ (⭐2k)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
-*   [Kuiper (⭐1.6k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
-*   [t6 (⭐42)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
-*   [IoTSharp (⭐1.2k)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+*   [NanoMQ (⭐2.4k)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
+*   [Kuiper (⭐1.7k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
+*   [t6 (⭐45)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
+*   [IoTSharp (⭐1.3k)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 *   [Husarnet](https://husarnet.com/) - Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.
-*   [Zilla (⭐597)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐676)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 #### Libraries and Tools
 
+*   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
 *   [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
 *   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
 *   [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
@@ -163,9 +164,9 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [MQTT X](https://mqttx.app/) - MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.
 *   [ops](https://ops.city/) - A free open source tool to build, run, and deploy Linux applications as unikernels.
 *   [SmartObject (⭐20)](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
-*   [United Manufacturing Hub (⭐317)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
-*   [QuestDB (⭐16k)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
-*   [Chaos Genius (⭐760)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [United Manufacturing Hub (⭐348)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
+*   [QuestDB (⭐17k)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+*   [Chaos Genius (⭐772)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 *   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 *   [ThingsOn MQTT Bench (⭐17)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
 
@@ -176,7 +177,7 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
 *   [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
 *   [authBroker (⭐8)](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
-*   [MQTT File Uploader (⭐7)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
+*   [MQTT File Uploader (⭐8)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 *   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
 ## Protocols and Networks
@@ -368,6 +369,10 @@ OPC-UA is not only a protocol for industrial automation but also a technology th
 #### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* \[4.5]
 
 > Get ready to create distributed sensor systems and intelligent interactive devices using the ZigBee wireless networking protocol and Series 2 XBee radios. By the time you're halfway through this fast-paced, hands-on guide, you'll have built a series of useful projects, including a complete ZigBee wireless network that delivers remotely sensed data.
+
+#### [Digital Twins in Action](https://www.manning.com/books/digital-twins-in-action) (2013) *by [Greg Biegel](https://www.linkedin.com/in/gregbiegel/)* \[4.0]
+
+> Digital Twins in Action is a hands-on guide to designing and building effective digital twins. In it, you’ll build a home-scale digital twin from the ground up.
 
 #### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8\&qid=1444905007\&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* \[4.0]
 

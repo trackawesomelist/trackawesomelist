@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 14, 2026](/content/2026/02/14/README.md)
+
+### Software / Software Development - IDE & Tools
+
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐22)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### Software / Document Management - E-books
@@ -862,7 +868,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐7.2k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐7.3k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
 
 ### Software / Money, Budgeting & Management
 
@@ -1021,7 +1027,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - API Management
 
-*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐17k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
+*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐18k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
 
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
@@ -1573,12 +1579,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Tine](https://www.tine-groupware.de/) - Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ([Source Code (⭐20)](https://github.com/tine-groupware/tine)) `AGPL-3.0` `Docker`
 
-## [Jan 24, 2024](/content/2024/01/24/README.md)
-
-### Software / Communication - Custom Communication Systems
-
-*   [Mattermost](https://mattermost.com/) - Platform for secure collaboration across the entire software development lifecycle, can be integrated with Gitlab (alternative to Slack). ([Source Code (⭐35k)](https://github.com/mattermost/mattermost)) `AGPL-3.0/Apache-2.0` `Go/Docker/K8S`
-
 ## [Jan 21, 2024](/content/2024/01/21/README.md)
 
 ### Software / Customer Relationship Management (CRM)
@@ -1883,7 +1883,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - API Management
 
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐544)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐547)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -2069,12 +2069,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Management
 
 *   [YoutubeDL-Server (⭐306)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
-
-## [Jun 15, 2023](/content/2023/06/15/README.md)
-
-### Software / Polls and Events
-
-*   [Input](https://getinput.co) - Privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐248)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 
 ## [Jun 12, 2023](/content/2023/06/12/README.md)
 
@@ -2745,10 +2739,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code (⭐34k)](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP/deb`
 
-### Software / File Transfer - Object Storage & File Servers
-
-*   [Minio](https://min.io/) - Object storage server compatible with Amazon S3 APIs. ([Source Code (⭐60k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
-
 ### Software / Groupware
 
 *   [Cozy Cloud](https://cozy.io/) - Personal cloud where you can manage and sync your files, notes, contacts, passwords, and documents. ([Source Code](https://github.com/cozy/), [Clients (⭐7)](https://github.com/cozy/cozy-store)) `GPL-3.0` `Nodejs`
@@ -3013,10 +3003,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [yarn.social](https://yarn.social) - Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 
-### Software / Content Management Systems (CMS)
-
-*   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐374)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
-
 ### Software / Feed Readers
 
 *   [RSS-Bridge (⭐8.7k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
@@ -3237,10 +3223,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐1.1k)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
-
-### Software / Personal Dashboards
-
-*   [Fenrus (⭐757)](https://github.com/revenz/fenrus) - Personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
 
 ## [May 08, 2022](/content/2022/05/08/README.md)
 
@@ -3635,7 +3617,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - IRC
 
-*   [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code (⭐1.1k)](https://github.com/convos-chat/convos)) `Artistic-2.0` `Perl/Docker`
 *   [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code (⭐2.1k)](https://github.com/znc/znc)) `Apache-2.0` `C++/deb`
 
 ### Software / Communication - SIP
@@ -3982,7 +3963,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐14k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐72k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐14k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐73k)](https://github.com/awesomedata/awesome-public-datasets)
 
 ## [Jul 08, 2021](/content/2021/07/08/README.md)
 
@@ -4664,7 +4645,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐242)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐377)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐378)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 
 ## [May 11, 2019](/content/2019/05/11/README.md)
 
