@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
+### Fuzzy Finder / Assembly
+
+*   [juniorsundar/refer.nvim (⭐19)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
+
 ### Utility / Cursorline
 
 *   [zeybek/camouflage.nvim (⭐33)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
@@ -950,7 +954,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [DrKJeff16/wezterm-types (⭐147)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
+*   [DrKJeff16/wezterm-types (⭐147)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server, including support for community plugins.
 
 ### Git / Quickfix
 

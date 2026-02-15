@@ -1,19 +1,64 @@
 # Awesome List Updates on Feb 15, 2026
 
-11 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Data Formats / JSON
+
+*   [neilotoole/jsoncolor (⭐49)](https://github.com/neilotoole/jsoncolor) — Colorized JSON output ☆`50`
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Fundamentals / Package and Version Manager
+
+*   [asdf-community/asdf-zig (⭐75)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
+
+### Fundamentals / Utility
+
+*   [gauravnumber/move.zig (⭐2)](https://github.com/gauravnumber/move.zig) - Zig-based mv with auto conflict resolution.
+
+### Network & Web / Web3 Framework
+
+*   [gballet/zevem (⭐0)](https://github.com/gballet/zevem/) - Ethereum Virtual Machine written in Zig.
+*   [blockblaz/hash-zig (⭐7)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
+
+### Data & Science / Machine Learning Framework
+
+*   [SilasMarvin/dnns-from-scratch-in-zig (⭐79)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
+
+### Multimedia & Graphics / Image and Video Processing
+
+*   [brian-sinquin/mimg (⭐0)](https://github.com/brian-sinquin/mimg) - A chained-modifiers Image processing Command-line tool.
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Science
+
+*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+
+## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### Analysis
+
+*   [sql-tap (⭐659)](https://github.com/mickamy/sql-tap) - Real-time SQL traffic viewer.
+
+## [5. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Tooling 🧰 / Config Managers
 
 *   [claude-rules-doctor (⭐1)](https://github.com/nulone/claude-rules-doctor) by [nulone](https://github.com/nulone) - CLI that detects dead `.claude/rules/` files by checking if `paths:` globs actually match files in your repo. Catches silent rule failures where renamed directories or typos in glob patterns cause rules to never apply. Features CI mode (exit 1 on dead rules), JSON output, and verbose mode showing matched files.
 *   [ClaudeCTX (⭐17)](https://github.com/foxj77/claudectx) by [John Fox](https://github.com/foxj77) - claudectx lets you switch your entire Claude Code configuration with a single command.
 
-## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+### Software / AI & LLM Testing
+
+*   [voicetest (⭐4)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -21,19 +66,24 @@
 
 ### Software / UI & End-to-End Testing
 
+*   [flutter-skill (⭐10)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / Mind Mapping & Documentation
 
 *   [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
 *   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+### Libraries / Data processing
+
+*   [ironcalc/IronCalc (⭐3.7k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
+
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -58,13 +108,13 @@
 
 *   [YAML (⭐453) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Editors / Mobile Editors
 
@@ -97,20 +147,24 @@
 
 *   [OpenStreetMap Wiki's list of OSM-based services](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services) - A directory of applications using OSM data, organized into categories such as art, biking, history, maritime, routing, public transport, and more.
 
-## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [11. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Learning / Switzerland
 
 *   [Critical AI Literacy for Historians](https://maehr.github.io/critical-ai-literacy-for-historians/) - A guide to understanding and critically evaluating AI tools and methods in historical research, covering practical applications, ethical considerations, and methodological approaches.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Fuzzy Finder / Assembly
+
+*   [juniorsundar/refer.nvim (⭐19)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 
 ### Utility / Cursorline
 
 *   [zeybek/camouflage.nvim (⭐33)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 *   [glyccogen/imprint.nvim (⭐6)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 
-## [9. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [13. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Quick Start / update
 
@@ -120,7 +174,7 @@
 
 *   [Easy Git hooks with husky](https://www.vojtechruzicka.com/githooks-husky/)
 
-## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / High-Availability
 
@@ -139,7 +193,7 @@
 
 *   [Pigsty blog / PostgreSQL](https://pigsty.io/blog/pg/) - Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).
 
-## [11. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [15. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Reddit
 

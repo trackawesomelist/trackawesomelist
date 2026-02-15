@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Science
+
+*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### Specific Formats Processing
@@ -186,6 +192,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [audioFlux (⭐3.3k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
     *   [audioread (⭐537)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     *   [dejavu (⭐6.7k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [gTTS (⭐2.6k)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
     *   [kapre (⭐943)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
     *   [librosa (⭐8.2k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
     *   [matchering (⭐2.4k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.

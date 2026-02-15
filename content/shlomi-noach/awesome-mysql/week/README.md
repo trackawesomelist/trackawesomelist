@@ -8,9 +8,13 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Analysis
+
+*   [sql-tap (⭐659)](https://github.com/mickamy/sql-tap) - Real-time SQL traffic viewer.
+
 ### Backup
 
-*   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
+*   [Portabase (⭐319)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ### Connectors
 
@@ -42,7 +46,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Backup
 
-*   [Databasus (⭐5.3k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐5.5k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -99,7 +103,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Analysis
 
-*   [Prometheus (⭐62k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐63k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 
 ### Connectors
 
@@ -123,13 +127,13 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### GUI
 
-*   [Adminer (⭐7.2k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-*   [DBeaver (⭐48k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+*   [Adminer (⭐7.3k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
+*   [DBeaver (⭐49k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
 *   [HeidiSQL (⭐5.8k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 *   [MySQL Shell (⭐216)](https://github.com/mysql/mysql-shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 *   [MySQL Workbench (⭐981)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 *   [OmniDB: Web tool for database management (⭐3.3k)](https://github.com/OmniDB/OmniDB)
-*   [Percona Monitoring and Management (⭐959)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
+*   [Percona Monitoring and Management (⭐965)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
 *   [phpMyAdmin (⭐7.8k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 
 ### HA
@@ -137,10 +141,6 @@ A curated list of awesome MySQL software, libraries, tools and resources
 *   [Galera Cluster (⭐486)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 *   [mha4mysql-node (⭐409)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
 *   [Orchestrator (⭐5.8k)](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
-
-### Proxy
-
-*   [MySQL Proxy (⭐428)](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 
 ### Server
 

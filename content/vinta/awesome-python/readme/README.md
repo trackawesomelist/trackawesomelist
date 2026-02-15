@@ -171,6 +171,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
     *   [audioFlux (⭐3.3k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
     *   [audioread (⭐537)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     *   [dejavu (⭐6.7k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [gTTS (⭐2.6k)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
     *   [kapre (⭐943)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
     *   [librosa (⭐8.2k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
     *   [matchering (⭐2.4k)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
@@ -931,6 +932,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 *   [ObsPy (⭐1.3k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [Open Babel](https://open-babel.readthedocs.io/) - A chemical toolbox designed to speak the many languages of chemical data.
+*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [PyMC (⭐9.5k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 *   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.

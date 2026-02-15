@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
+### Libraries / Data processing
+
+*   [ironcalc/IronCalc (⭐3.7k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Applications / Operating systems

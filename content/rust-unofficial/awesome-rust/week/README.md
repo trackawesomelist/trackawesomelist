@@ -44,6 +44,10 @@ A curated list of Rust code and resources.
 
 *   [rust-native-tls/rust-native-tls (⭐536)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
+### Libraries / Data processing
+
+*   [ironcalc/IronCalc (⭐3.7k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
+
 ### Libraries / Text processing
 
 *   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)

@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [Prgebish/sigil.nvim (⭐23)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
+### Fuzzy Finder / Assembly
+
+*   [juniorsundar/refer.nvim (⭐19)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
+
 ### Buffers / Assembly
 
 *   [TheLazyCat00/workspaces-nvim (⭐3)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
@@ -801,7 +805,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [DrKJeff16/wezterm-types (⭐147)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
+*   [DrKJeff16/wezterm-types (⭐147)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server, including support for community plugins.
 
 ### Git / Quickfix
 

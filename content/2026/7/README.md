@@ -8,12 +8,17 @@
 
 ## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
+### Software / AI & LLM Testing
+
+*   [voicetest (⭐4)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+
 ### Software / Visual Testing
 
 *   [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### Software / UI & End-to-End Testing
 
+*   [flutter-skill (⭐10)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / Mind Mapping & Documentation
@@ -1096,6 +1101,10 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ## [33. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
+### Science
+
+*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+
 ### Specific Formats Processing
 
 *   General
@@ -1212,7 +1221,11 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 ### CLI & Terminal / Advanced Console UIs
 
-*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`603`
+*   [box-cli-maker/box-cli-maker (⭐601)](https://github.com/box-cli-maker/box-cli-maker) — Render highly customizable boxes in the terminal ☆`607`
+
+### Data Formats / JSON
+
+*   [neilotoole/jsoncolor (⭐49)](https://github.com/neilotoole/jsoncolor) — Colorized JSON output ☆`50`
 
 ## [42. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -1257,9 +1270,13 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 
 *   [myanon (⭐112)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 
+### Analysis
+
+*   [sql-tap (⭐659)](https://github.com/mickamy/sql-tap) - Real-time SQL traffic viewer.
+
 ### Backup
 
-*   [Portabase (⭐303)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
+*   [Portabase (⭐319)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ### Connectors
 
@@ -1319,22 +1336,36 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 *   [Reddit](https://www.reddit.com/r/Zig/) - The Zig subreddit.
 *   [Zig Monthly](https://zig.news/) - Articles and news from the community.
 
+### Fundamentals / Package and Version Manager
+
+*   [asdf-community/asdf-zig (⭐75)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
+
+### Fundamentals / Utility
+
+*   [gauravnumber/move.zig (⭐2)](https://github.com/gauravnumber/move.zig) - Zig-based mv with auto conflict resolution.
+*   [zmx (⭐761)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
+
 ### Systems Programming / Compilers and Interpreters
 
 *   [dawk](https://codeberg.org/triallax/dawk) - Reasonably fast POSIX-compliant AWK implementation with good diagnostics.
 
-### Systems Programming / Emulators
+### Systems Programming / Kernel and Containers
 
-*   [zmx (⭐761)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 *   [zbpf (⭐226)](https://github.com/tw4452852/zbpf) - Writing eBPF in Zig.
+
+### Network & Web / Web3 Framework
+
+*   [gballet/zevem (⭐0)](https://github.com/gballet/zevem/) - Ethereum Virtual Machine written in Zig.
+*   [blockblaz/hash-zig (⭐7)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
 
 ### Data & Science / Database
 
 *   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 
-### Data & Science / Machine Learning
+### Data & Science / Machine Learning Framework
 
 *   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [SilasMarvin/dnns-from-scratch-in-zig (⭐79)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
 
 ### Multimedia & Graphics / Graphics Library
 
@@ -1343,6 +1374,10 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 ### Multimedia & Graphics / GUI
 
 *   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+
+### Multimedia & Graphics / Image and Video Processing
+
+*   [brian-sinquin/mimg (⭐0)](https://github.com/brian-sinquin/mimg) - A chained-modifiers Image processing Command-line tool.
 
 ## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -1381,6 +1416,10 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 ### Libraries / Cryptography
 
 *   [rust-native-tls/rust-native-tls (⭐536)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+
+### Libraries / Data processing
+
+*   [ironcalc/IronCalc (⭐3.7k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
 
 ### Libraries / Text processing
 
@@ -1494,6 +1533,10 @@ Purchase on the [website](https://anybox.ltd/eps-preview).
 ### Programming Languages Support / Markdown and LaTeX
 
 *   [Prgebish/sigil.nvim (⭐23)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+
+### Fuzzy Finder / Assembly
+
+*   [juniorsundar/refer.nvim (⭐19)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 
 ### Buffers / Assembly
 

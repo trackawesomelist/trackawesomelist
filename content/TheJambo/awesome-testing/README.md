@@ -8,12 +8,17 @@ A curated list of testing resources
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
+### Software / AI & LLM Testing
+
+*   [voicetest (⭐4)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+
 ### Software / Visual Testing
 
 *   [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### Software / UI & End-to-End Testing
 
+*   [flutter-skill (⭐10)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / Mind Mapping & Documentation
