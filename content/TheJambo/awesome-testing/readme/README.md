@@ -75,7 +75,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 *   [recheck-web (⭐269)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 *   [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
-*   [Lambda testing Tool](https://www.testmu.ai/lt-browser)- UI Testing Frawnework.
+*   [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
 
@@ -86,7 +86,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 *   [Hercules (⭐933)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
-*   [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
+*   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 *   [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 *   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 *   [playwright-bdd (⭐601)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
@@ -184,7 +184,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Newsletters
 
-*   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
+*   [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## Suggested Awesome Lists
@@ -197,7 +197,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐433k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐437k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐6.8k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

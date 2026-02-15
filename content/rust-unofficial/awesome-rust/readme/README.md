@@ -265,6 +265,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [darkbird (⭐548)](https://github.com/Rustixir/darkbird) \[[darkbird](https://crates.io/crates/darkbird)] - HighConcurrency, RealTime, InMemory storage inspired by erlang mnesia
 *   [Databend (⭐9.1k)](https://github.com/databendlabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/databendlabs/databend/actions/workflows/release.yml/badge.svg)](https://github.com/databendlabs/databend/actions)
 *   [DB3 Network (⭐383)](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven blockchain layer2 decentralized database network [![GitHub Workflow Status (with event)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml/badge.svg)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml)
+*   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 *   [dsplce-co/supabase-plus (⭐66)](https://github.com/dsplce-co/supabase-plus) \[[supabase-plus](https://crates.io/crates/supabase-plus)] - A batteries-included command-line utility that extends the official Supabase CLI [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dsplce-co/supabase-plus/publish.yml)
     ](https://github.com/dsplce-co/supabase-plus/actions/workflows/publish.yml)
 *   [erikgrinaker/toydb (⭐7.2k)](https://github.com/erikgrinaker/toydb) - Distributed SQL database, written as a learning project.
@@ -1347,7 +1348,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 *   [amv-dev/yata (⭐388)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
 *   [bluss/ndarray (⭐4.2k)](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations
-*   [cocoindex (⭐6k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+*   [cocoindex (⭐6.1k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 *   [datafusion (⭐8.4k)](https://github.com/apache/datafusion) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
 *   [GoPlasmatic/datalogic-rs (⭐54)](https://github.com/GoPlasmatic/datalogic-rs) \[[datalogic-rs](https://crates.io/crates/datalogic-rs)] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.
 *   [kernelmachine/utah (⭐145)](https://github.com/kernelmachine/utah) - Dataframe structure and operations

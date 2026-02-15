@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Reading and Writing Tools / Note-taking
+
+*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Terminal Apps / Databases

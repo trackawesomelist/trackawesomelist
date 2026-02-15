@@ -8,11 +8,16 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
+### Tooling 🧰 / Config Managers
+
+*   [claude-rules-doctor (⭐1)](https://github.com/nulone/claude-rules-doctor) by [nulone](https://github.com/nulone) - CLI that detects dead `.claude/rules/` files by checking if `paths:` globs actually match files in your repo. Catches silent rule failures where renamed directories or typos in glob patterns cause rules to never apply. Features CI mode (exit 1 on dead rules), JSON output, and verbose mode showing matched files.
+*   [ClaudeCTX (⭐17)](https://github.com/foxj77/claudectx) by [John Fox](https://github.com/foxj77) - claudectx lets you switch your entire Claude Code configuration with a single command.
+
 ### Agent Skills 🤖 / General
 
 *   [AgentSys (⭐379)](https://github.com/avifenesh/agentsys) by [avifenesh](https://github.com/avifenesh) - Workflow automation system for Claude with a group of useful plugins, agents, and skills. Automates task-to-production workflows, PR management, code cleanup, performance investigation, drift detection, and multi-agent code review. Includes [agnix (⭐30)](https://github.com/avifenesh/agnix) for linting agent configurations. Built on thousands of lines of code with thousands of tests. Uses deterministic detection (regex, AST) with LLM judgment for efficiency. Used on many production systems.
 *   [Claude Code Agents (⭐11)](https://github.com/undeadlist/claude-code-agents) by [Paul - UndeadList](https://github.com/undeadlist) - Comprehensive E2E development workflow with helpful Claude Code subagent prompts for solo devs. Run multiple auditors in parallel, automate fix cycles with micro-checkpoint protocols, and do browser-based QA. Includes strict protocols to prevent AI going rogue.
-*   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skillsthat replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
+*   [Book Factory (⭐9)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skills that replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 
 ### Tooling 🧰 / Orchestrators
 
@@ -24,10 +29,6 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
-### CLAUDE.md Files 📂 / Domain-Specific
-
-*   [pre-commit-hooks (⭐2)](https://github.com/aRustyDev/pre-commit-hooks) by [aRustyDev](https://github.com/aRustyDev) - This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md`  files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
-
 ### Agent Skills 🤖 / General
 
 *   [Fullstack Dev Skills (⭐346)](https://github.com/jeffallan/claude-skills) by [jeffallan](https://github.com/jeffallan) - A comprehensive Claude Code plugin with 65 specialized skills covering full-stack development across a wide range of specific frameworks. Features 9 project workflow commands for Jira/Confluence integration and, notably, an interesting approach to context engineering via a  `/common-ground` command that surfaces Claude's hidden assumptions about your project. This is a smart thing to do.
@@ -37,6 +38,10 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 *   [awesome-ralph (⭐681)](https://github.com/snwfdhmp/awesome-ralph) by [Martin Joly](https://github.com/snwfdhmp) - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
 *   [ralph-wiggum-bdd (⭐4)](https://github.com/marcindulak/ralph-wiggum-bdd) by [marcindulak](https://github.com/marcindulak) - A standalone Bash script for Behavior-Driven Development with Ralph Wiggum Loop. In principle, while running unattended, the script can keep code and requirements in sync, but in practice it still requires interactive human supervision, so it supports both modes. The script is standalone and can be modified and committed into your project.
+
+### CLAUDE.md Files 📂 / Domain-Specific
+
+*   [pre-commit-hooks (⭐2)](https://github.com/aRustyDev/pre-commit-hooks) by [aRustyDev](https://github.com/aRustyDev) - This repository is about pre-commit-hooks in general, but the `CLAUDE.md` and related `.claude/` documentation is exemplary. Thorough but not verbose. Unlike a lot of `CLAUDE.md`  files, it doesn't primarily consist in shouting at Claude in all-caps. Great learning resource. Also, hooks.
 
 ## [Feb 02 - Feb 08, 2026](/content/2026/5/README.md)
 
@@ -146,7 +151,6 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [claude-code.el (⭐606)](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor) - An Emacs interface for Claude Code CLI.
 *   [claude-code.nvim (⭐1.8k)](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh) - A seamless integration between Claude Code AI assistant and Neovim.
 *   [Claudix - Claude Code for VSCode (⭐939)](https://github.com/Haleclipse/Claudix) by [Haleclipse](https://github.com/Haleclipse) - A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
-*   [crystal (⭐2.9k)](https://github.com/stravu/crystal) by [stravu](https://github.com/stravu) - A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
 
 ### Tooling 🧰 / Usage Monitors
 
@@ -202,17 +206,13 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [/create-pull-request (⭐4.7k)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) by [liam-hq](https://github.com/liam-hq) - Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 *   [/create-worktrees (⭐428)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/create-worktrees.md) by [evmts](https://github.com/evmts) - Creates git worktrees for all open PRs or specific branches, handling branches with slashes, cleaning up stale worktrees, and supporting custom branch creation for development.
 *   [/fix-github-issue (⭐703)](https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md) by [jeremymailen](https://github.com/jeremymailen) - Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.
-*   [/fix-issue (⭐46k)](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-issue.md) by [metabase](https://github.com/metabase) - Addresses GitHub issues by taking issue number as parameter, analyzing context, implementing solution, and testing/validating the fix for proper integration.
-*   [/fix-pr (⭐46k)](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-pr.md) by [metabase](https://github.com/metabase) - Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.
 *   [/husky (⭐428)](https://github.com/evmts/tevm-monorepo/blob/main/.claude/commands/husky.md) by [evmts](https://github.com/evmts) - Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.
 *   [/update-branch-name (⭐480)](https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md) by [giselles-ai](https://github.com/giselles-ai) - Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.
 
 ### Slash-Commands 🔪 / Code Analysis & Testing
 
-*   [/check (⭐22)](https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md) by [rygwdn](https://github.com/rygwdn) - Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.
 *   [/code\_analysis (⭐222)](https://github.com/kingler/n8n_agent/blob/main/.claude/commands/code_analysis.md) by [kingler](https://github.com/kingler) - Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.
 *   [/optimize (⭐6)](https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md) by [to4iki](https://github.com/to4iki) - Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
-*   [/repro-issue (⭐5)](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) by [rzykov](https://github.com/rzykov) - Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
 *   [/tdd (⭐4)](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) by [zscott](https://github.com/zscott) - Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 *   [/tdd-implement (⭐22)](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) by [jerseycheese](https://github.com/jerseycheese) - Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
 
@@ -221,10 +221,6 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [/context-prime (⭐99)](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) by [elizaOS](https://github.com/elizaOS) - Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
 *   [/initref (⭐26)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) by [okuvshynov](https://github.com/okuvshynov) - Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
 *   [/load-llms-txt (⭐25)](https://github.com/ethpandaops/xatu-data/blob/master/.claude/commands/load-llms-txt.md) by [ethpandaops](https://github.com/ethpandaops) - Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.
-*   [/load\_coo\_context (⭐0)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_coo_context.md) by [Mjvolk3](https://github.com/Mjvolk3) - References specific files for sparse matrix operations, explains transform usage, compares with previous approaches, and sets data formatting context for development.
-*   [/load\_dango\_pipeline (⭐0)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/load_dango_pipeline.md) by [Mjvolk3](https://github.com/Mjvolk3) - Sets context for model training by referencing pipeline files, establishing working context, and preparing for pipeline work with relevant documentation.
-*   [/prime (⭐32)](https://github.com/yzyydev/AI-Engineering-Structure/blob/main/.claude/commands/prime.md) by [yzyydev](https://github.com/yzyydev) - Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.
-*   [/rsi (⭐3)](https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md) by [ddisisto](https://github.com/ddisisto) - Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
 ### Slash-Commands 🔪 / Documentation & Changelogs
 
@@ -236,7 +232,6 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ### Slash-Commands 🔪 / CI / Deployment
 
-*   [/release (⭐5)](https://github.com/kelp/webdown/blob/main/.claude/commands/release.md) by [kelp](https://github.com/kelp) - Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.
 *   [/run-ci (⭐6)](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/run-ci.md) by [hackdays-io](https://github.com/hackdays-io) - Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.
 
 ### Slash-Commands 🔪 / Project & Task Management
@@ -250,7 +245,6 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### Slash-Commands 🔪 / Miscellaneous
 
 *   [/fixing\_go\_in\_graph (⭐0)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md) by [Mjvolk3](https://github.com/Mjvolk3) - Focuses on Gene Ontology annotation integration in graph databases, handling multiple data sources, addressing graph representation issues, and ensuring correct data incorporation.
-*   [/mermaid (⭐42)](https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md) by [GaloyMoney](https://github.com/GaloyMoney) - Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.
 *   [/review\_dcell\_model (⭐0)](https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/review_dcell_model.md) by [Mjvolk3](https://github.com/Mjvolk3) - Reviews old Dcell implementation files, comparing with newer Dango model, noting changes over time, and analyzing refactoring approaches for better code organization.
 *   [/use-stepper (⭐17)](https://github.com/zuplo/docs/blob/main/.claude/commands/use-stepper.md) by [zuplo](https://github.com/zuplo) - Reformats documentation to use React Stepper component, transforming heading formats, applying proper indentation, and maintaining markdown compatibility with admonition formatting.
 
@@ -266,17 +260,14 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [JSBeeb (⭐379)](https://github.com/mattgodbolt/jsbeeb/blob/main/CLAUDE.md) by [mattgodbolt](https://github.com/mattgodbolt) - Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.
 *   [Lamoom Python (⭐96)](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md) by [LamoomAI](https://github.com/LamoomAI) - Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.
 *   [LangGraphJS (⭐2.5k)](https://github.com/langchain-ai/langgraphjs/blob/main/CLAUDE.md) by [langchain-ai](https://github.com/langchain-ai) - Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.
-*   [Metabase (⭐46k)](https://github.com/metabase/metabase/blob/master/CLAUDE.md) by [metabase](https://github.com/metabase) - Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation.
 *   [SG Cars Trends Backend (⭐16)](https://github.com/sgcarstrends/backend/blob/main/CLAUDE.md) by [sgcarstrends](https://github.com/sgcarstrends) - Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.
 *   [SPy (⭐671)](https://github.com/spylang/spy/blob/main/CLAUDE.md) by [spylang](https://github.com/spylang) - Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
 *   [TPL (⭐3)](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) by [KarpelesLab](https://github.com/KarpelesLab) - Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.
 
 ### CLAUDE.md Files 📂 / Domain-Specific
 
-*   [AVS Vibe Developer Guide (⭐2)](https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md) by [Layr-Labs](https://github.com/Layr-Labs) - Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.
 *   [Comm (⭐321)](https://github.com/CommE2E/comm/blob/master/CLAUDE.md) by [CommE2E](https://github.com/CommE2E) - Serves as a development reference for E2E-encrypted messaging applications with code organization architecture, security implementation details, and testing procedures.
 *   [Course Builder (⭐626)](https://github.com/badass-courses/course-builder/blob/main/CLAUDE.md) by [badass-courses](https://github.com/badass-courses) - Enables real-time multiplayer capabilities for collaborative course creation with diverse tech stack integration and monorepo architecture using Turborepo.
-*   [Cursor Tools (⭐4.7k)](https://github.com/eastlondoner/cursor-tools/blob/main/CLAUDE.md) by [eastlondoner](https://github.com/eastlondoner) - Creates a versatile AI command interface supporting multiple providers and models with flexible command options and browser automation through "Stagehand" feature.
 *   [Guitar (⭐1.7k)](https://github.com/soramimi/Guitar/blob/master/CLAUDE.md) by [soramimi](https://github.com/soramimi) - Serves as development guide for Guitar Git GUI Client with build commands for various platforms, code style guidelines for contributing, and project structure explanation.
 *   [Network Chronicles (⭐188)](https://github.com/Fimeg/NetworkChronicles/blob/legacy-v1/CLAUDE.md) by [Fimeg](https://github.com/Fimeg) - Presents detailed implementation plan for AI-driven game characters with technical specifications for LLM integration, character guidelines, and service discovery mechanics.
 *   [Pareto Mac (⭐423)](https://github.com/ParetoSecurity/pareto-mac/blob/main/CLAUDE.md) by [ParetoSecurity](https://github.com/ParetoSecurity) - Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.
@@ -290,7 +281,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### Alternative Clients 📱 / General
 
 *   [Claudable (⭐3.7k)](https://github.com/opactorai/Claudable) by [Ethan Park](https://www.linkedin.com/in/seongil-park/) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.
-*   [Omnara (⭐2.6k)](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
+*   [crystal (⭐2.9k)](https://github.com/stravu/crystal) by [stravu](https://github.com/stravu) - A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
 
 ### Official Documentation 🏛️ / General
 

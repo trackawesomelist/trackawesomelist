@@ -1090,6 +1090,7 @@ then it is not supported:
 *   [0xJohnnyboy/scretch.nvim (⭐34)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
 *   [yutkat/confirm-quit.nvim (⭐34)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting.
 *   [bgaillard/readonly.nvim (⭐22)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [zeybek/camouflage.nvim (⭐33)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 *   [linrongbin16/gentags.nvim (⭐23)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 *   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 *   [terje/simctl.nvim (⭐39)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
@@ -1119,6 +1120,7 @@ then it is not supported:
 *   [leo-alvarenga/quoth.nvim (⭐5)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 *   [stikypiston/cheaty.nvim (⭐5)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
 *   [stikypiston/unobtrusive-relnums.nvim](https://github.com/stikypiston/unobtrusive-relnums) - Unobtrusive relative line numbers in the sign column.
+*   [glyccogen/imprint.nvim (⭐6)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 
 ### CSV Files
 

@@ -6,6 +6,13 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Utility / Cursorline
+
+*   [zeybek/camouflage.nvim (⭐33)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
+*   [glyccogen/imprint.nvim (⭐6)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### AI / Diagnostics

@@ -6,6 +6,20 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Software / Visual Testing
+
+*   [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
+
+### Software / UI & End-to-End Testing
+
+*   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
+
+### Newsletters / Mind Mapping & Documentation
+
+*   [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Software / API Testing
@@ -16,10 +30,6 @@ A curated list of testing resources
 
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 *   [Nuclei Scanner (⭐27k)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
-
-### Software / Visual Testing
-
-*   [Lambda testing Tool](https://www.testmu.ai/lt-browser)- UI Testing Frawnework.
 
 ## [Jan 03, 2026](/content/2026/01/03/README.md)
 
@@ -109,16 +119,6 @@ A curated list of testing resources
 ### Software / Visual Testing
 
 *   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
-
-## [Oct 23, 2024](/content/2024/10/23/README.md)
-
-### Software / UI & End-to-End Testing
-
-*   [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
-
-### Newsletters / Mind Mapping & Documentation
-
-*   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
@@ -427,7 +427,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐433k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐437k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.8k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

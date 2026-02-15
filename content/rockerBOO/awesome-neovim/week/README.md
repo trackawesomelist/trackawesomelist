@@ -28,6 +28,11 @@ Collections of awesome neovim plugins.
 
 *   [TheLazyCat00/workspaces-nvim (⭐3)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 
+### Utility / Cursorline
+
+*   [zeybek/camouflage.nvim (⭐33)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
+*   [glyccogen/imprint.nvim (⭐6)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
+
 ### Terminal Integration / CSV Files
 
 *   [TheLazyCat00/runner-nvim (⭐3)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.

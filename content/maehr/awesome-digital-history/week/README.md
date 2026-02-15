@@ -14,6 +14,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Learning / Switzerland
 
+*   [Critical AI Literacy for Historians](https://maehr.github.io/critical-ai-literacy-for-historians/) - A guide to understanding and critically evaluating AI tools and methods in historical research, covering practical applications, ethical considerations, and methodological approaches.
 *   [Digitale Quellenkritik](https://www.zotero.org/groups/2541642/digitale_quellenkritik) - Zotero group with literature on digital source criticism and the handling of digitized historical sources.
 *   [Historical Network Research](https://www.zotero.org/groups/209983/historical_network_research) - Zotero group with literature on historical network research and social network analysis in historical studies.
 

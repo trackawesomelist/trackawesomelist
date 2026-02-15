@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Applications / Database
+
+*   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Applications / Operating systems
@@ -714,7 +720,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [cocoindex (⭐6k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+*   [cocoindex (⭐6.1k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
 ## [Mar 07, 2025](/content/2025/03/07/README.md)
 

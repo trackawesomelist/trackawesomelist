@@ -2,16 +2,69 @@
 
 Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 6.4K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 6.5K · 🏷️ Business
 
 [ [Daily](/content/mmccaff/PlacesToPostYourStartup/README.md) / Weekly / [Overview](/content/mmccaff/PlacesToPostYourStartup/readme/README.md) ]
 
-## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
+## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+
+### Reddit
+
+*   /r/buildinpublic - <https://www.reddit.com/r/buildinpublic/>
+*   /r/Entrepreneur - <https://reddit.com/r/entrepreneur>
+*   /r/EntrepreneurRideAlong - <https://www.reddit.com/r/EntrepreneurRideAlong/>
+*   /r/IMadeThis - <https://reddit.com/r/imadethis>
+*   /r/indiehackers - <https://www.reddit.com/r/indiehackers/>
+*   /r/microsaas - <https://www.reddit.com/r/microsaas/>
+*   /r/plugyourproduct - <https://www.reddit.com/r/plugyourproduct/>
+*   /r/SaaS - <https://www.reddit.com/r/SaaS/>
+*   /r/shamelessplug - <https://www.reddit.com/r/shamelessplug/>
+*   /r/SideProject - <https://reddit.com/r/sideproject>
+*   /r/Startups - <https://reddit.com/r/startups>
+*   /r/thesidehustle - <https://www.reddit.com/r/thesidehustle/>
 
 ### Websites
 
-*   Emoji Launch - <https://emojilaunch.com/>
-*   PitchWall - <https://pitchwall.co/>
+*   All Startups - <https://www.allstartups.info/Startups/Submit>
+*   All Top Startups - <https://alltopstartups.com/submit-startup/>
+*   Alternative To - <https://alternativeto.net/>
+*   Appoid - <https://appiod.com/submit-app-for-review/>
+*   appPicker - <https://www.apppicker.com/>
+*   Apps Listo - <https://appslisto.com/submit-your-app/>
+*   Apps Mamma - <https://appsmamma.com/submit-your-app/>
+*   AppsThunder - <https://appsthunder.com/submit-your-app/>
+*   Appvita - <https://www.appvita.com/>
+*   Arctic Startup - <https://arcticstartup.com/>
+*   Beta Bound - <https://www.betabound.com/announce/>
+*   BuiltInChicago - <https://www.builtinchicago.org/send-us-tip>
+*   Capterra - <https://www.capterra.com/vendors/sign-up>
+*   Collaborizm - <https://www.collaborizm.com>
+*   F6S - <https://www.f6s.com/>
+*   Geek Wire - <https://geekwire.com/startup-list/>
+*   Get App - <https://getapp.com/>
+*   Killer Startups - <https://killerstartups.com/submit-startup/>
+*   LaunchIgniter - <https://launchigniter.com/submit>
+*   MakeUseOf - <https://www.makeuseof.com/about/>
+*   Next Big What - <https://nextbigwhat.com/>
+*   PitchWall - <https://pitchwall.co/product/submit>
+*   PreApps - <https://www.preapps.com/>
+*   Product Hunt - <https://www.producthunt.com/>
+*   SaasRow - <https://saasrow.com/>
+*   SimilarSiteSearch - <https://www.similarsitesearch.com/tips.html>
+*   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
+*   Software Advice - <https://softwareadvice-markets.questionpro.com/>
+*   Stack Share - <https://stackshare.io/>
+*   Startup Beat - <https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/>
+*   Startup Ranking - <https://www.startupranking.com/>
+*   Startup Stash - <https://startupstash.com/>
+*   Startup Tabs - <https://startuptabs.com/>
+*   StartupBlink - <https://www.startupblink.com/>
+*   State of Tech - <https://stateoftech.net/advertise?submit-an-app-for-review>
+*   Tech Map - <https://thetechmap.com/>
+*   Tech Pluto - <https://www.techpluto.com/submit-a-startup/>
+*   Tiny Launch - <https://www.tinylaunch.com>
+*   The Changelog - [https://github.com/thechangelog/ping (⭐265)](https://github.com/thechangelog/ping)
+*   Vator - <https://www.vator.tv/>
 
 ## [Jan 06 - Jan 12, 2025](/content/2025/1/README.md)
 
@@ -45,12 +98,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 ### Websites
 
 *   Website Hunt - <https://www.websitehunt.co>
-
-## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
-
-### Websites
-
-*   GrowthBoosters - <https://www.growthboosters.com/product/add>
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
@@ -105,17 +152,11 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
-### Reddit
-
-*   /r/EntrepreneurRideAlong - <http://www.reddit.com/r/EntrepreneurRideAlong/>
-
 ### Websites
 
 *   Indie Hackers - <https://www.indiehackers.com/>
 *   SaaSHub - <https://www.saashub.com/>
-*   Saasified - <https://saasified.co>
 *   Startup Tracker - <https://startuptracker.io/>
-*   Startups List - <https://www.startups-list.com/>
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -145,23 +186,14 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 ### Websites
 
-*   appPicker - <http://www.apppicker.com/>
-*   Appvita - <http://www.appvita.com/>
-*   Arctic Startup - <http://arcticstartup.com/>
 *   Crunch Base - <https://www.crunchbase.com/#/home/index>
 *   Land-book - <https://land-book.com/guidelines>
-*   MakeUseOf - <http://www.makeuseof.com/about/>
 *   Netted - <https://www.netted.net/contact-us/>
-*   PreApps - <http://www.preapps.com/>
 *   Show HN - <https://news.ycombinator.com/showhn.html>
-*   SimilarSiteSearch - <http://www.similarsitesearch.com/tips.html>
 *   Slant - <https://www.slant.co/>
 *   Startup 88 - <https://startup88.com/>
 *   Startup Base - <https://startupbase.io/submit>
-*   Startup Ranking - <http://www.startupranking.com/>
-*   StartupBlink - <http://www.startupblink.com/>
 *   Tabscape - <https://www.tapscape.com/>
-*   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
 
 ## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
 
@@ -175,53 +207,25 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   /r/AlphaandBetausers - <https://www.reddit.com/r/alphaandbetausers/>
 *   /r/Coupons - <https://www.reddit.com/r/coupons/>
-*   /r/Entrepreneur - <http://reddit.com/r/entrepreneur>
-*   /r/IMadeThis - <http://reddit.com/r/imadethis>
 *   /r/IndieBiz - <https://www.reddit.com/r/indiebiz/>
 *   /r/LadyBusiness - <https://www.reddit.com/r/ladybusiness/>
 *   /r/RoastMyStartup - <https://www.reddit.com/r/roastmystartup>
-*   /r/SideProject - <http://reddit.com/r/sideproject>
 *   /r/SmallBusiness - <https://www.reddit.com/r/smallbusiness/>
-*   /r/Startups - <http://reddit.com/r/startups>
 
 ### Websites
 
-*   All Startups - <http://www.allstartups.info/Startups/Submit>
-*   All Top Startups - <http://alltopstartups.com/submit-startup/>
-*   App Advice - <http://appadvice.com/page/about-us>
-*   Appoid - <http://appiod.com/submit-app-for-review/>
-*   Apps 400 - <http://apps400.com/submit-your-application-for-review>
-*   Apps Listo - <http://appslisto.com/submit-your-app/>
-*   Apps Mamma - <http://appsmamma.com/submit-your-app/>
-*   AppsThunder - <http://appsthunder.com/submit-your-app/>
-*   Beta Bound - <http://www.betabound.com/announce/>
 *   CrozDesk - <https://vendor.crozdesk.com/user/signup>
 *   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
-*   F6S - <http://www.f6s.com/>
-*   Get App - <http://getapp.com/>
 *   Getworm - <https://getworm.com/submit-startup>
 *   Gust - <https://www.gust.com>
-*   Next Big What - <http://nextbigwhat.com/>
-*   Product Hunt - <http://www.producthunt.com/>
-*   Startup Stash - <http://startupstash.com/>
-*   Startup Tabs - <http://startuptabs.com/>
-*   Vator - <http://www.vator.tv/>
 
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
 
 ### Websites
 
-*   Alternative To - <http://alternativeto.net/>
 *   App Rater - <https://apprater.net/add/>
-*   Boing Boing - <http://boingboing.net/sub/>
-*   Capterra - <http://www.capterra.com/vendors/sign-up>
-*   Geek Wire - <http://geekwire.com/startup-list/>
 *   Inc 42 - <https://inc42.com/startup-submission/>
-*   Killer Startups - <http://killerstartups.com/submit-startup/>
 *   Launched - <https://launched.io/SubmitStartup>
 *   Side Projectors - <https://www.sideprojectors.com>
-*   Stack Share - <http://stackshare.io/>
-*   Startup Beat - <http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/>
 *   Startup Inspire - <https://www.startupinspire.com/submit>
-*   Tech Faster - <http://techfaster.com/submit-your-company/>
 *   Ycombinator - <https://news.ycombinator.com/>

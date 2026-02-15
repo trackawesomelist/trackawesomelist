@@ -12,6 +12,10 @@
 
 *   [Itsypad](https://itsypad.app) - A tiny, fast scratchpad and clipboard manager for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsypad-macos) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Reading and Writing Tools / Note-taking
+
+*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Developer Tools / Developer Utilities
 
 *   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)

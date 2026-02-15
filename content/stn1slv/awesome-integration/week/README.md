@@ -10,16 +10,17 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐380) (⭐379)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [Gravitee.io API Management (⭐379) (⭐379)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 *   [WSO2 API Manager (⭐965) (⭐964)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
 *   [Spectral (⭐3k) (⭐3k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Zally (⭐947) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
-*   [Zudoku (⭐455) (⭐447)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [Zudoku (⭐456) (⭐447)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
@@ -44,8 +45,11 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Message Broker
 
-*   [Apache Artemis (⭐998) (⭐1k)](https://github.com/apache/artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
+*   [Apache Artemis (⭐1k) (⭐1k)](https://github.com/apache/artemis) - A multi-protocol message broker, supporting various industry standard protocols such as AMQP 1.0, MQTT 3.1.1, MQTT 5, and STOMP.
+*   [ElasticMQ (⭐2.8k) (⭐2.8k)](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface, offering stand-alone or embedded deployment with optional UI and queue persistence.
 *   [LavinMQ (⭐859) (⭐858)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+*   [RMQ (⭐1.6k) (⭐1.6k)](https://github.com/wellle/rmq) - Redis-backed message queue written in Go, providing flexible queue management, batch consumers, and efficient delivery patterns.
+*   [SuperMQ (⭐2.5k) (⭐2.6k)](https://github.com/absmach/supermq) - Distributed, event-driven infrastructure for messaging supporting multiple protocols (HTTP, MQTT, WebSocket, CoAP) with strong security and IoT capabilities.
 
 ### Projects / Self-Service Integration
 
@@ -57,7 +61,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [YAML (⭐452) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [YAML (⭐453) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -65,7 +69,6 @@ A curated list of awesome system integration software and resources.
 
 *   [OpenAPI Style Validator (⭐232) (⭐232)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Swagger Editor (⭐9.4k) (⭐9.4k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
-*   [Zally (⭐946) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
@@ -1031,7 +1034,7 @@ A curated list of awesome system integration software and resources.
 *   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-    *   [NDJSON (⭐802) (⭐801)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+    *   [NDJSON (⭐803) (⭐801)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
     *   [JSON Lines](https://jsonlines.org/) - A text format for storing structured data one record per line.
     *   [JSON Text Sequence](https://datatracker.ietf.org/doc/html/rfc7464) - Defined in RFC 7464, describe a specific format for transmitting or storing a sequence of individual JSON texts.
 

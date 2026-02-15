@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [vortix (⭐291)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
+### Applications / Database
+
+*   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+
 ### Applications / Operating systems
 
 *   [hexagonal-sun/moss-kernel (⭐1.8k)](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
@@ -650,7 +654,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [cocoindex (⭐6k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+*   [cocoindex (⭐6.1k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
 ### Libraries / Template engine
 

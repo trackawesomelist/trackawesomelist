@@ -6,6 +6,12 @@ Find primary sources online and learn how to research history digitally.
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Feb 15, 2026](/content/2026/02/15/README.md)
+
+### Learning / Switzerland
+
+*   [Critical AI Literacy for Historians](https://maehr.github.io/critical-ai-literacy-for-historians/) - A guide to understanding and critically evaluating AI tools and methods in historical research, covering practical applications, ethical considerations, and methodological approaches.
+
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Archives and primary sources / Switzerland
