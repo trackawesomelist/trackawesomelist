@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 16, 2026](/content/2026/02/16/README.md)
+
+### Language / Assembly
+
+*   [noir4y/comment-translate.nvim (⭐7)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Fuzzy Finder / Assembly

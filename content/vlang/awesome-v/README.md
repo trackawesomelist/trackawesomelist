@@ -6,6 +6,15 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 16, 2026](/content/2026/02/16/README.md)
+
+### Command-line
+
+*   [amdim (⭐0)](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
+*   [mimicfs (⭐0)](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup).
+*   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-imsi catcher/Anti-Triangulation...).
+*   [stripshot (⭐0)](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Scientific computing

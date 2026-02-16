@@ -443,6 +443,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [bennorichters/taal.nvim (⭐18)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 *   [walkersumida/deepl.nvim (⭐6)](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 *   [acidsugarx/babel.nvim (⭐11)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
+*   [noir4y/comment-translate.nvim (⭐7)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 
 <!--lint disable double-link -->
 
