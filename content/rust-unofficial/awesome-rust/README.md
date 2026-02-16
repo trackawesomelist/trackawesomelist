@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [pragma-org/amaru (⭐99)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
 
+### Development tools / Profiling
+
+*   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Applications / Database

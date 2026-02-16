@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Feb 16, 2026](/content/2026/02/16/README.md)
+
+### Projects
+
+*   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Tools

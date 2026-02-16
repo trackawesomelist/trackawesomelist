@@ -964,6 +964,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 *   [Bencher (⭐794)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 *   [bheisler/criterion.rs (⭐5.4k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
 *   [Bytehound (⭐4.8k)](https://github.com/koute/bytehound) - A memory profiler for Linux
+*   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 *   [Divan (⭐1.3k)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
 *   [ellisonch/rust-stopwatch (⭐84)](https://github.com/ellisonch/rust-stopwatch) - A stopwatch library
 *   FlameGraphs
