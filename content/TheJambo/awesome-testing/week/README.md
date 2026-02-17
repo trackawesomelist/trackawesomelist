@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Suggested Awesome Lists / Useful References
+
+*   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Software / AI & LLM Testing
@@ -122,12 +128,6 @@ A curated list of testing resources
 ### Software / API Testing
 
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
-
-## [May 13 - May 19, 2024](/content/2024/20/README.md)
-
-### Software / API Testing
-
-*   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 

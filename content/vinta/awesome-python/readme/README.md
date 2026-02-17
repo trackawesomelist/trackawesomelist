@@ -82,6 +82,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
     *   [Penetration testing](#penetration-testing)
     *   [Permissions](#permissions)
     *   [Processes](#processes)
+    *   [Quantum Computing](#quantum-computing)
     *   [Recommender Systems](#recommender-systems)
     *   [Refactoring](#refactoring)
     *   [RESTful API](#restful-api)
@@ -863,6 +864,13 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [sarge](https://sarge.readthedocs.io/en/latest/) - Yet another wrapper for subprocess.
 *   [sh (⭐7.2k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
 
+## Quantum Computing
+
+*Libraries for quantum computing.*
+
+*   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+*   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
+
 ## Recommender Systems
 
 *Libraries for building recommender systems.*
@@ -935,7 +943,6 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [PyMC (⭐9.5k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 *   [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 *   [shapely (⭐4.4k)](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.

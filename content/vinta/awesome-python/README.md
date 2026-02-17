@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Feb 17, 2026](/content/2026/02/17/README.md)
+
+### Quantum Computing
+
+*   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Science
@@ -1276,7 +1282,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ## [May 04, 2018](/content/2018/05/04/README.md)
 
-### Science
+### Quantum Computing
 
 *   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 
