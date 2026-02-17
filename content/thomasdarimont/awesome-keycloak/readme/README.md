@@ -113,10 +113,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Writing Keycloak Extensions: Key Concepts and Anti-Patterns](https://www.zone2.tech/blog/writing-keycloak-extensions-key-concepts-and-anti-patterns)
 *   [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 *   [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
-*   [Getting started with Keycloak](https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/)
-*   [Angular, OpenID Connect and Keycloak](https://robferguson.org/blog/2019/12/29/angular-openid-connect-keycloak/)
-*   [Angular, OAuth 2.0 Scopes and Keycloak](https://robferguson.org/blog/2019/12/31/angular-oauth2-keycloak/)
-*   [Keycloak, Flowable and OpenLDAP](https://robferguson.org/blog/2020/01/03/keycloak-flowable-and-openldap/)
+*   [Getting started with Keycloak](https://rob-ferguson.me/getting-started-with-keycloak/)
+*   [Angular, OpenID Connect and Keycloak](https://rob-ferguson.me/angular-openid-connect-keycloak/)
+*   [Angular, OAuth 2.0 Scopes and Keycloak](https://rob-ferguson.me/angular-oauth2-keycloak/)
+*   [Keycloak, Flowable and OpenLDAP](https://rob-ferguson.me/keycloak-flowable-and-openldap/)
 *   [How to exchange token from an external provider to a keycloak token](https://www.mathieupassenaud.fr/token-exchange-keycloak/)
 *   [How to Setup Role Based Access Control (RBAC) with Keycloak](https://www.permit.io/blog/implementing-dynamic-keycloak-rbac-with-permitio)
 *   [Building an Event Listener SPI (Plugin) for Keycloak](https://dev.to/adwaitthattey/building-an-event-listener-spi-plugin-for-keycloak-2044)
@@ -280,6 +280,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [tidecloak (Keycloak fork)](https://tide.org/tidecloak)
 *   [Keycloak reCAPTCHA Password Defense (⭐12)](https://github.com/califio/keycloak-recaptcha-password-defense)
 *   [Keycloak Custom Attribute IDP Linking (⭐33)](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
+*   [KETE - Event forwarding](https://fortunen.github.io/kete)
 
 ## Integrations
 
@@ -295,7 +296,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐101)](https://github.com/InseeFr/Keycloak-FranceConnect)
 *   [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 *   [Keycloak Python Client (⭐56)](https://github.com/keycloak-client/keycloak-client)
-*   [Keycloak Terraform Provider (⭐880)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐888)](https://github.com/mrparkers/terraform-provider-keycloak)
 *   [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *   [React/NextJS Keycloak Bindings (⭐566)](https://github.com/panz3r/react-keycloak)
 *   [NextJS + tailwind + keycloak integration (⭐9)](https://github.com/santiblanko/keycloak-nextjs-auth)
@@ -313,6 +314,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [mantelo (Python Admin Client) (⭐32)](https://github.com/derlin/mantelo)
 *   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐22)](https://github.com/oviva-ag/ehealthid-relying-party)
 *   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+*   [KETE - Event forwarding](https://fortunen.github.io/kete)
 
 ## Quick demo Videos
 

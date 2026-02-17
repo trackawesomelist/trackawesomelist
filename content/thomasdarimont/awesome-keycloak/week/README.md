@@ -6,6 +6,19 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ [Daily](/content/thomasdarimont/awesome-keycloak/README.md) / Weekly / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Articles
+
+*   [Getting started with Keycloak](https://rob-ferguson.me/getting-started-with-keycloak/)
+*   [Angular, OpenID Connect and Keycloak](https://rob-ferguson.me/angular-openid-connect-keycloak/)
+*   [Angular, OAuth 2.0 Scopes and Keycloak](https://rob-ferguson.me/angular-oauth2-keycloak/)
+*   [Keycloak, Flowable and OpenLDAP](https://rob-ferguson.me/keycloak-flowable-and-openldap/)
+
+### Integrations
+
+*   [KETE - Event forwarding](https://fortunen.github.io/kete)
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Commercial Offerings
@@ -792,10 +805,6 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Articles
 
-*   [Getting started with Keycloak](https://robferguson.org/blog/2019/12/24/getting-started-with-keycloak/)
-*   [Angular, OpenID Connect and Keycloak](https://robferguson.org/blog/2019/12/29/angular-openid-connect-keycloak/)
-*   [Angular, OAuth 2.0 Scopes and Keycloak](https://robferguson.org/blog/2019/12/31/angular-oauth2-keycloak/)
-*   [Keycloak, Flowable and OpenLDAP](https://robferguson.org/blog/2020/01/03/keycloak-flowable-and-openldap/)
 *   [How to exchange token from an external provider to a keycloak token](https://www.mathieupassenaud.fr/token-exchange-keycloak/)
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
@@ -836,7 +845,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐880)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐888)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 

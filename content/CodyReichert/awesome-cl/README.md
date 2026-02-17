@@ -6,6 +6,22 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Feb 17, 2026](/content/2026/02/17/README.md)
+
+### Matrix libraries / Third-party APIs
+
+*   [LLA (⭐18)](https://github.com/Lisp-Stat/lla) -  Lisp Linear Algebra. MS-PL.
+    *   a high-level Common Lisp library built on on BLAS and LAPACK, but providing a more abstract interface with the purpose of freeing the user from low-level concerns and reducing the number of bugs in numerical code.
+
+### Utils / Third-party APIs
+
+*   [cl-cancel (⭐1)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
+
+### Event processing / Third-party APIs
+
+*   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
+    *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Showcase
@@ -46,9 +62,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [IDEmacs](https://codeberg.org/IDEmacs/IDEmacs) is an attempt at making Emacs beginner friendly.
     *   it ships Sly for Common Lisp. With Emacs v29 or higher, you can try IDEmacs temporarily without messing with your .emacs configuration, thanks to the new `--init-directory` option.
-*   [Varhammer (⭐9)](https://github.com/varhammer/varhammer) -  Portable Common Lisp IDE for Windows (Emacs + SBCL + SLIME). New in 2025.
-    *   Emacs 30.2 + SBCL 2.6.0 + SLIME 2.32 + Quicklisp as of January, 2026.
-    *   fully offline, USB ready, no installation required.
 
 ### Documentation lookup / Third-party APIs
 
@@ -357,7 +370,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [cl-naive-store](https://gitlab.com/naive-x/cl-naive-store) - a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
     *   see [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
-    *   dare we add: used in production by the author's company (ASTN Group, see awesome-lisp-companies)
+    *   dare we add: used in production by the author's company (ASTN Group, see [awesome-lisp-companies (⭐638)](https://github.com/azzamsa/awesome-lisp-companies/))
 
 ### Compression / decompression / Third-party APIs
 
@@ -3237,7 +3250,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Emacs / Third-party APIs
 
-*   [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
+*   [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs 26 with Slime.
 
 ## [Jan 06, 2018](/content/2018/01/06/README.md)
 

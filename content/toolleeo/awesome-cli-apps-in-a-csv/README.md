@@ -6,6 +6,38 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ Daily / [Weekly](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md) / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Feb 17, 2026](/content/2026/02/17/README.md)
+
+### Containerization and virtualization
+
+*   [VCTUI (⭐37)](https://github.com/thebsdbox/vctui) - Console interface for vCenter: create, delete and search virtual machines and power management.
+
+### DevOps
+
+*   [Ducker (⭐828)](https://github.com/robertpsoane/ducker) - TUI for managing docker containers.
+*   [E1S (⭐834)](https://github.com/keidarcy/e1s) - TUI for browsing and managing AWS ECS resources.
+*   [eks-node-viewer (⭐1.6k)](https://github.com/awslabs/eks-node-viewer/) - Tool for visualizing dynamic node usage within a kubernetes cluster.
+*   [KDash (⭐2.4k)](https://github.com/kdash-rs/kdash) - A simple and fast terminal dashboard for Kubernetes.
+*   [ktop (⭐1k)](https://github.com/vladimirvivien/ktop) - Tool that displays useful metrics information about nodes, pods, and other workload.
+*   [kubetui (⭐354)](https://github.com/sarub0b0/kubetui) - A TUI tool designed for monitoring Kubernetes resources.
+*   [TFTUI (⭐1.3k)](https://github.com/idoavrah/terraform-tui) - TUI to view and interact with Terraform state.
+
+### File renamers
+
+*   [renamed.to](https://www.renamed.to/cli) - AI-powered file renamer that analyzes document content (PDFs, scans, images) and generates descriptive filenames in bulk.
+
+### Package managers
+
+*   [ToolUI (⭐66)](https://github.com/jinek/ToolUI) - TUI to manage dotnet tools.
+
+### Programming
+
+*   [Tokui (⭐32)](https://github.com/zdyxry/tokui) - An interactive TUI for visualizing code statistics from tockei.
+
+### Screen savers
+
+*   [gitlogue (⭐4.2k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### AI terminal command generator

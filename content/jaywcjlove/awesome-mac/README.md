@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 17, 2026](/content/2026/02/17/README.md)
+
+### Utilities / Productivity
+
+*   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Reading and Writing Tools / Note-taking
