@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ [Daily](/content/radek-sprta/awesome-game-remakes/README.md) / Weekly / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Arcade
+
+*   [Crimsonland (⭐112)](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Platformer

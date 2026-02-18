@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 18, 2026](/content/2026/02/18/README.md)
+
+### Software / Web Servers
+
+*   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Software / Software Development - IDE & Tools
@@ -1330,7 +1336,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C/deb/Docker`
 *   [Static Web Server](https://static-web-server.net/) - Cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐2.1k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 *   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐62k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
-*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐4.1k)](https://github.com/varnishcache/varnish-cache)) `BSD-3-Clause` `Go/deb/Docker`
 
 ## [Aug 10, 2024](/content/2024/08/10/README.md)
 
@@ -2780,12 +2785,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Search Engines
 
 *   [Fess](https://fess.codelibs.org/) - Powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐1.1k)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
-
-## [Aug 29, 2022](/content/2022/08/29/README.md)
-
-### Software / Media Management
-
-*   [Overseerr](https://overseerr.dev/) `⚠` - Manage requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐5.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 
 ## [Aug 18, 2022](/content/2022/08/18/README.md)
 

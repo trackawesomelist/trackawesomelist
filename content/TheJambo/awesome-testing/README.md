@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 18, 2026](/content/2026/02/18/README.md)
+
+### Software / API Testing
+
+*   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Suggested Awesome Lists / Useful References

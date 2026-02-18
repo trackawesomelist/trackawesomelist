@@ -10,6 +10,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Quantum Computing
 
+*   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)

@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
+### Software / API Testing
+
+*   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+
 ### Suggested Awesome Lists / Useful References
 
 *   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.

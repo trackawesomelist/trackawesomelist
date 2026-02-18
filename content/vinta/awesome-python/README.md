@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Feb 18, 2026](/content/2026/02/18/README.md)
+
+### Quantum Computing
+
+*   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
+
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Quantum Computing

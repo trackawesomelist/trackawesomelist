@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Software / Web Servers
+
+*   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Software / Document Management - E-books
@@ -1279,7 +1285,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C/deb/Docker`
 *   [Static Web Server](https://static-web-server.net/) - Cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐2.1k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 *   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐62k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
-*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐4.1k)](https://github.com/varnishcache/varnish-cache)) `BSD-3-Clause` `Go/deb/Docker`
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
@@ -2563,10 +2568,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Internet of Things (IoT)
 
 *   [ioBroker](https://www.iobroker.net/) - Integration platform for the Internet of Things, focused on building automation, smart metering, ambient assisted living, process automation, visualization and data logging. ([Source Code (⭐1.4k)](https://github.com/ioBroker/ioBroker)) `MIT` `Nodejs`
-
-### Software / Media Management
-
-*   [Overseerr](https://overseerr.dev/) `⚠` - Manage requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐5.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 

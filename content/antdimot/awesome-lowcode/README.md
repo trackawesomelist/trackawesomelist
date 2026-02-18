@@ -6,6 +6,16 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Feb 18, 2026](/content/2026/02/18/README.md)
+
+### AI
+
+*   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
+
+### Misc
+
+*   [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### AI

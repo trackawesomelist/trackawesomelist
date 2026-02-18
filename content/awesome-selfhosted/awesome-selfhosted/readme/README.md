@@ -1235,7 +1235,6 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [MeTube (⭐13k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 *   [nefarious](https://lardbit.github.io/nefarious/) - Automate downloading Movies and TV Shows. ([Source Code (⭐1.2k)](https://github.com/lardbit/nefarious)) `GPL-3.0` `Python`
 *   [Ombi](https://ombi.io/) - Content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code (⭐4.1k)](https://github.com/Ombi-app/Ombi)) `GPL-2.0` `C#/deb`
-*   [Overseerr](https://overseerr.dev/) `⚠` - Manage requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐5.1k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 *   [Pinchflat (⭐4.5k)](https://github.com/kieraneglin/pinchflat) `⚠` - Download YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
 *   [PodFetch](https://samtv12345.github.io/PodFetch) - Sleek and efficient podcast downloader. ([Source Code (⭐458)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 *   [Radarr](https://radarr.video/) - Automatically download movies via Usenet and BitTorrent (fork of Sonarr). ([Source Code (⭐13k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
@@ -2097,7 +2096,7 @@ Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/We
 *   [SWAG (Secure Web Application Gateway) (⭐3.6k)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 *   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐62k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 *   [UUSEC WAF](https://uuwaf.uusec.com) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code (⭐1.6k)](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
-*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐4.1k)](https://github.com/varnishcache/varnish-cache)) `BSD-3-Clause` `Go/deb/Docker`
+*   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
 *   [Zoraxy](https://zoraxy.aroz.org/) - General purpose HTTP reverse proxy and forwarding tool. ([Source Code (⭐4.9k)](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`
 
 ### Wikis

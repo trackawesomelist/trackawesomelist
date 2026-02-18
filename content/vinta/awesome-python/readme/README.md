@@ -868,6 +868,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for quantum computing.*
 
+*   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 *   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 
