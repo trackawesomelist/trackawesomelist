@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [pragma-org/amaru (⭐99)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
 
+### Applications / File manager
+
+*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
+
 ### Development tools / Profiling
 
 *   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.

@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Design and UI
+
+*   [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
+*   [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### APIs, Data, and ML
@@ -1699,7 +1706,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Authentication, Authorization, and User Management
 
-*   [Clerk](https://clerk.com) — User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.
+*   [Clerk](https://clerk.com) - User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free plan includes unlimited applications, 50,000 MRU limit per app, 3 dashboard seats, and more.
 
 ### Managed Data Services
 
@@ -3357,7 +3364,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Source Code Repos
 
-*   [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
+*   [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking.
 
 ### APIs, Data, and ML
 

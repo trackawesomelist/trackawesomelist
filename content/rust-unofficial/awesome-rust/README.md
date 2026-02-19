@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
+### Applications / File manager
+
+*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
+
 ### Libraries / Artificial Intelligence
 
 *   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.

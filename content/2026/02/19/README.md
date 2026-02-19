@@ -1,18 +1,43 @@
 # Awesome List Updates on Feb 19, 2026
 
-11 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Ai](/content/abordage/awesome-ai/README.md)
+
+### AI Coding Agents / Claude Code
+
+*   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`47`
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
+*   [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
+
+## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Downloading and Serving
+
+*   [bashbro (⭐222)](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
+
+## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### Gems / Other external resources
+
+*   [sidemail (⭐2)](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red\_circle:](https://rubygems.org/gems/sidemail)
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Visual Testing
 
 *   [Sherlo (⭐73)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [6. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Fundamentals / Linters
 
@@ -22,13 +47,17 @@
 
 *   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / File manager
+
+*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
 
 ### Libraries / Artificial Intelligence
 
 *   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -38,31 +67,31 @@
 
 *   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")]\(<https://seodisias.com>)
 
-## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Multi-purpose toolkits
 
 *   [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐3.1k)](https://github.com/SciML/DifferentialEquations.jl))
 
-## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [10. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Role Playing
 
 *   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Other / Godot version unknown
 
 *   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Resources / Starforged
 
 *   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Official Resources
 
@@ -140,13 +169,13 @@
 
 *   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
 *   [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code (⭐319)](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Misc / Mathematics For Computer Science
 
