@@ -12,6 +12,10 @@ A curated list of testing resources
 
 *   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
+### Software / Visual Testing
+
+*   [Sherlo (⭐73)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+
 ### Suggested Awesome Lists / Useful References
 
 *   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.

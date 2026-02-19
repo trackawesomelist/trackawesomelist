@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Software / Visual Testing
+
+*   [Sherlo (⭐73)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+
 ## [Feb 18, 2026](/content/2026/02/18/README.md)
 
 ### Software / API Testing

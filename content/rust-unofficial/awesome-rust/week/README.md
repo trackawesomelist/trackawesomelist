@@ -20,6 +20,10 @@ A curated list of Rust code and resources.
 
 *   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
+### Libraries / Artificial Intelligence
+
+*   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Applications

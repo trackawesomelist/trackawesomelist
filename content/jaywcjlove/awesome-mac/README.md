@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Reading and Writing Tools / Ebooks
+
+*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
+
+### Utilities / General Tools
+
+*   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")]\(<https://seodisias.com>)
+
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Utilities / Productivity

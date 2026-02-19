@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### App Releases / Role Playing
+
+*   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### App Releases / Casual

@@ -260,7 +260,7 @@ See [Vivraan/godot-lang-support (⭐527)](https://github.com/Vivraan/godot-lang-
 *   [Maaack's Menus Template (⭐387)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐64)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 *   [Netfox (⭐872)](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
-*   [NobodyWho (⭐681)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐704)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 *   [Nodot (⭐386)](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
 *   [obs-websocket-gd (⭐112)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
 *   [Orchestrator (⭐1.4k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
@@ -499,6 +499,7 @@ See [Vivraan/godot-lang-support (⭐527)](https://github.com/Vivraan/godot-lang-
 *   [Godot Package Manager (⭐17)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 *   [RetroPie Godot Game Engine "Emulator" (⭐105)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 *   [strip-to-frames.pl (⭐27)](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 *   [zfoo (⭐2k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 

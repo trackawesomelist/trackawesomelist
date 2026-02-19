@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Other / Godot version unknown
+
+*   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
+
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
 ### Plugins and scripts / Godot 4
@@ -203,7 +209,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐681)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐704)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [Nov 28, 2024](/content/2024/11/28/README.md)
 

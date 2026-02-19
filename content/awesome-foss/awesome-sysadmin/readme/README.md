@@ -108,6 +108,7 @@ Build automation.
 *   [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code (⭐14k)](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 *   [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
 *   [Minarca](https://minarca.org/) - Client–server backup platform with a centralized web console to manage and restore Linux, Windows, and macOS backups via GUI or CLI. ([Source Code](https://gitlab.com/ikus-soft/minarca)) `AGPL-3.0` `Python`
+*   [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code (⭐319)](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 *   [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 *   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐55k)](https://github.com/rclone/rclone)) `MIT` `Go`
 *   [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code (⭐1.2k)](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
@@ -487,7 +488,7 @@ Monitoring software.
 *   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code (⭐1k)](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
 *   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.2k)](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
 *   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.4k)](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
-*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐62k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
+*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐63k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 *   [Riemann](https://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code (⭐4.3k)](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
 *   [rtop (⭐2.2k)](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. `MIT` `Go`
 *   [ruptime (⭐196)](https://github.com/alexmyczko/ruptime) - Classic system status server. `AGPL-3.0` `Shell`

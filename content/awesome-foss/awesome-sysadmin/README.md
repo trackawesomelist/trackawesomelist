@@ -6,6 +6,12 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Software / Backups
+
+*   [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code (⭐319)](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
+
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
 ### Software / Deployment Automation
@@ -464,7 +470,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐62k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
+*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐63k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 
 ## [May 07, 2023](/content/2023/05/07/README.md)
 

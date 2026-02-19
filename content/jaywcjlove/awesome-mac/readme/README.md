@@ -296,6 +296,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 ### Ebooks
 
 *   [Calibre](http://calibre-ebook.com/) - Free, open-source e-book manager and reader. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
 *   [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
 *   [iChm (⭐116)](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 *   [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
@@ -1189,6 +1190,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Upscayl (⭐43k)](https://github.com/upscayl/upscayl) - Free and open-source AI image upscaling tool. [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 *   [Vidwall](https://apps.apple.com/app/Vidwall/6747587746) - Easily import MP4/MOV videos as system wallpapers and lock screen animations. [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 *   [CapsLockNoDelay (⭐941)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
+*   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware][Freeware Icon]]\(<https://seodisias.com>)
 
 ### To-Do Lists
 

@@ -89,6 +89,7 @@ made by you on those sites when using these links*
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
 *   [DataForged (⭐211)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 *   [DataSworn (⭐144)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://jaderavens.itch.io/iron-atlas-omnibus) - Explore the Ironlands with 100 hand-drawn maps, plus oracles for weather, flora, & fauna
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards

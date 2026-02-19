@@ -6,13 +6,91 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Resources / Official Resources
+
+*   [API Reference](https://vuejs.org/api/)
+*   [Style Guide](https://vuejs.org/style-guide/)
+
+### Resources / Community
+
+*   [Official Forum](https://forum.vuejs.org/)
+*   [VueJS India - Discord chat server](https://discord.com/invite/8bfzmkw)
+*   [VueJS Israel - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
+*   [VueBLR - WhatsApp Group](https://chat.whatsapp.com/I80X4JEZt4k1OxFD6YDIcl)
+
+### Resources / Conferences
+
+*   [VueConf US](https://vueconf.us)
+
+### Resources / Podcasts
+
+*   [Full Stack Radio #30 (11-23-2015)](https://www.fullstackradio.com/30)
+*   [Software Engineering Daily (12-29-2015)](https://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+*   [Full Stack Radio #50 (09-21-2016)](https://www.fullstackradio.com/50)
+*   [The Web Platform Podcast 132: Vue.js (07-27-2017)](https://thewebplatformpodcast.com/132-vuejs)
+
+### Resources / Tutorials
+
+*   [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](https://codeguida.com/post/526/) Ukraine
+*   [How to Create Great VueJS Applications Using Wijmo Controls](https://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
+*   [Complete Vue.js Application Tutorial - Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial) by [@matthiaswh](https://github.com/matthiaswh)
+*   [Testing Vue Components](https://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
+*   [Heartbeat (Vue + NW.js Desktop app Video series)](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0) by Axel Martínez (2017 - 2020)
+
+### Resources / Examples
+
+*   [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](https://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
+
+### Resources / Books
+
+*   [Large Scale Apps with Vue 3 and TypeScript](https://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [Prague Airport](https://www.prague-airport.com/)
+*   [Portfolio Site](https://corentinbac.com/)
+*   [TravelMap](https://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
+*   [Livestorm](https://livestorm.co) - Webinar / Live events app.
+*   [The Void Radio](https://thevoidrad.io) - Underground House Music Online Radio.
+*   [Euronews](https://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
+*   [PAIXIN](https://www.paixin.com/) - A genuine picture sale website
+*   [PipQuest](https://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
+*   [Chess Guardian](https://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
+
+### Projects Using Vue.js / Interactive Experiences
+
+*   [Louis Ansa Website (portfolio)](https://louisansa.com)
+*   [Djeco.com](https://www.djeco.com/en)
+
+### Projects Using Vue.js / Enterprise Usage
+
+*   [Clemenger BBDO Melbourne](https://clemengerbbdo.com.au)
+
+### Components & Libraries / UI Components
+
+*   [vue-table-component](https://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
+
+### Components & Libraries / Integrations
+
+*   [vuefire (⭐3.9k)](https://github.com/vuejs/vuefire) - Official Firebase bindings for Vue.js
+
+### Components & Libraries / Scaffold
+
+*   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Resources / External Resources
 
 *   [TODOvue Blog (⭐1)](https://github.com/TODOvue/todo-vue) - Guides and tutorials on creating modern components with Vue.js. [Website](https://todovue.blog/)
 
-### Resources
+### Resources / Newsletters
 
 *   [Weekly Vue news](https://weekly-vue.news/) - A weekly newsletter with the most interesting Vue & Nuxt News, Tutorials, Projects, and Tools.
 
@@ -27,7 +105,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BoldKit (⭐4)](https://github.com/ANIBIT14/boldkit) - A neubrutalism-styled Vue 3 component library with 45+ components, 35 SVG shapes, and charts. Built on Reka UI and compatible with shadcn-vue CLI.
+*   [BoldKit (⭐4)](https://github.com/ANIBIT14/boldkit) - A neubrutalism-styled Vue 3 & Nuxt component library with 45+ components, 35 SVG shapes, and charts. Built on Reka UI and compatible with shadcn-vue CLI.
 *   [@todovue/tv-ui (⭐1)](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
 
 ### Components & Libraries / UI Layout
@@ -1044,7 +1122,6 @@
 
 ### Resources / Tutorials
 
-*   [Heartbeat (Vue + NW.js Desktop app Video series)](https://goo.gl/8p3msR) by Axel Martínez (2017 - 2020)
 *   [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 *   [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
@@ -1135,7 +1212,7 @@
 ### Components & Libraries / Frameworks
 
 *   [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
-*   [vue-pro-sidebar (⭐83)](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your preferred colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
+*   [vue-pro-sidebar (⭐83)](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your preferred colors. [Live demo](https://boussadjra.github.io/vue-pro-sidebar)
 
 ### Components & Libraries / Utilities
 
@@ -1670,10 +1747,6 @@
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
-### Resources / Books
-
-*   [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco, Leanpub (September, 2020)
-
 ### Components & Libraries / UI Components
 
 *   [tsParticles (⭐8.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
@@ -1900,10 +1973,6 @@
 
 *   [Vue.js 資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 
-### Resources / Community
-
-*   [VueJS India 🇮🇳 - Discord chat server](https://goo.gl/mYXKUv)
-
 ### Resources / Tutorials
 
 *   [**讲解 Vue.js 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
@@ -1925,7 +1994,6 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
 *   [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
 *   [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna\&utm_source=awesomevue) - VueJS Admin template with multiple layouts and laravel version.
 *   [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
@@ -1944,29 +2012,20 @@
 *   [Formlets](https://www.formlets.com)
 *   [Laracasts](https://laracasts.com)
 *   [esa.io](https://esa.io/)
-*   [稀土掘金](http://gold.xitu.io)
-*   [Prague Airport](http://www.prague-airport.com/)
-*   [Portfolio Site](http://corentinbac.com/)
 *   [Statamic](https://statamic.com)
-*   [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
-*   [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
 *   [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
 *   [vNotes (⭐54)](https://github.com/IgorHalfeld/v-notes) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
-*   [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
 *   [Dermail (⭐24)](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail system written in node.js.
 *   [octimine](https://www.octimine.com/) - A patent search engine.
 *   [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
 *   [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
-*   [Livestorm](http://livestorm.co) - Webinar / Live events app.
 *   [Holden](https://www.holden.com.au)
 *   [12BAY.VN](https://12bay.vn) - Applications online flight bookings.
 *   [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments.
-*   [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
 *   [Bitly Vue](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS & Bitly API.
 *   [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for its frontend.
 *   [WizzAir](https://wizzair.com/)
 *   [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
-*   [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
 *   [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub (⭐2)](https://github.com/KDCinfo/guess-right) (although not the live files that run the game at kdcinfo).
 *   [GRAP](https://grap.io) - Business communication service
 *   [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
@@ -1974,14 +2033,12 @@
 *   [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
 *   [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 *   [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
-*   [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
 *   [1XBET](https://1xbet.com) - A betting company operating since 2007
 *   [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
 *   [Todoist Tribute (⭐231)](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
 *   [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
 *   [Develteam](https://www.develteam.com) - A social network for indie game developers.
 *   [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
-*   [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
 *   [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
 *   [iPrevYou - YouTube™ Player](https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa) - A chrome app for watching youtube videos on your desktop.
 *   [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
@@ -1998,7 +2055,6 @@
 *   [Bubbleflat](https://bubbleflat.com) - Online platform that helps students and young Professionals find their perfect roommates by searching for people with similar lifestyles, interests, or schools. Laravel & Vuejs
 *   [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
 *   [27.ua](https://27.ua) - Ukraine-based internet hypermarket
-*   [Chess Guardian](http://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
 *   [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
 *   [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
 *   [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
@@ -2063,9 +2119,6 @@
 
 ### Projects Using Vue.js / Interactive Experiences
 
-*   [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
-*   [Louis Ansa Website (portfolio)](http://louisansa.com)
-*   [Djeco.com](http://www.djeco.com/en)
 *   [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
 *   [CSS ColorVars](https://csscolorvars.github.io/) - Interactive tool code generation ([source code (⭐10)](https://github.com/CSSColorVars/csscolorvars))
 *   [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
@@ -2089,7 +2142,6 @@
 *   Octimine GmbH
 *   Hunliji
 *   [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
-*   [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
 *   [ZenMate](https://zenmate.com)
 *   [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
 *   [Storyblok](https://app.storyblok.com)
@@ -2125,7 +2177,6 @@
 *   [CoreUI for Vue.js (⭐641)](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
 *   [vux (⭐18k)](https://github.com/airyland/vux) - \[Chinese] Vue UI Components based on WeUI.
 *   [vue-onsenui (⭐8.9k)](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
-*   [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
 *   [vant (⭐24k)](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
 *   [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 *   [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
@@ -2136,7 +2187,7 @@
 *   [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
 *   [vue-element-admin (⭐90k)](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x [Online Demo](https://panjiachen.github.io/vue-element-admin/#/dashboard)
 *   [D2 Admin (⭐13k)](https://github.com/d2-projects/d2-admin) - An elegant backstage template build by vue [Online Demo](https://d2admin.fairyever.com)
-*   [Vue Material Admin (⭐2.4k)](https://github.com/tookit/vue-material-admin) - A vue material design admin template [Online Demo](http://vma.isocked.com/#/dashboard)
+*   [Vue Material Admin (⭐2.4k)](https://github.com/tookit/vue-material-admin) - A vue material design admin template [Online Demo](https://vma.isocked.com/#/dashboard)
 *   [dashboard (⭐562)](https://github.com/zce/dashboard) - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
 *   [Nuxt.js (⭐60k)](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
 *   [VuePress (⭐23k)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
@@ -2159,7 +2210,6 @@
 *   [vue-easytable (⭐3.8k)](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
 *   [Vue Datatable (⭐631)](https://github.com/laravel-enso/vuedatatable) - VueJS powered Datatable with Laravel server-side loading and JSON template setup
 *   [vue-cheetah-grid (⭐1.5k)](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
-*   [vue-table-component](http://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
 *   [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
 *   [@marketconnect/vue-pivot-table (⭐228)](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
 *   [vueye-datatable (⭐112)](https://github.com/boussadjra/vueye-table) - Vueye data table is a responsive data table component based on Vue.js 2, it organizes your data per pages in order to navigate easily.
@@ -2181,7 +2231,6 @@
 *   [vue-easy-slider (⭐358)](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
 *   [vue-flux (⭐550)](https://github.com/deulos/vue-flux) - Image slider which comes with 20 cool transitions.
 *   [vue-chartjs (⭐5.7k)](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
-*   [vue-echarts (⭐11k)](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
 *   [vue-chartkick (⭐750)](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 *   [vue-apexcharts (⭐1.3k)](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts (⭐15k)](https://github.com/apexcharts/apexcharts.js).
 *   [vue-css-donut-chart (⭐127)](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
@@ -2284,7 +2333,6 @@
 ### Components & Libraries / Integrations
 
 *   [vue-recaptcha (⭐897)](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js
-*   [vuefire (⭐4)](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
 *   [vue-gtag (⭐931)](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue
 
 ### Components & Libraries / Dev Tools
@@ -2307,7 +2355,6 @@
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
 *   [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly.
 *   [Mevn-CLI (⭐830)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN stack based apps.
-*   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 *   [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
 
 ### Components & Libraries / Prerendering
@@ -2393,7 +2440,6 @@
 
 ### Resources / Community
 
-*   [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 *   [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
 
 ### Resources / Tutorials
@@ -2569,7 +2615,6 @@
 ### Resources / Community
 
 *   [VueJS Vix - Telegram Group \[Portuguese\]](https://t.me/vuejsvix)
-*   [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
 
 ### Resources / Podcasts
 
@@ -2630,7 +2675,6 @@
 *   [vue-feathers-chat (⭐49)](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
 *   [vue-xplan (⭐319)](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
 *   [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
-*   [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
 *   [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
 *   [Vue Weather Notifier (⭐199)](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
 *   [koa-vue-notes-web (⭐201)](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
@@ -2746,11 +2790,6 @@
 
 ### Resources / Tutorials
 
-*   [Build a voting application with Go and Vue.js](https://pusher.com/tutorials/voting-app-go-vuejs)
-*   [Build a collaborative painting app using Vue.js](https://pusher.com/tutorials/collaborative-painting-vuejs)
-*   [Build a realtime payment dashboard with Stripe](https://pusher.com/tutorials/realtime-payment-dashboard-stripe)
-*   [Build a cryptocurrency tracker using Vue.js](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
-*   [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
 *   [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 
 ### Projects Using Vue.js / Open Source
@@ -2772,10 +2811,6 @@
 
 ## [May 14 - May 20, 2018](/content/2018/20/README.md)
 
-### Resources / Tutorials
-
-*   [Creating Custom Vue.js Plugins](https://alligator.io/vuejs/creating-custom-plugins/)
-
 ### Resources / Books
 
 *   [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932) by Andrea Koutifaris, Packt. (April 2018)
@@ -2791,7 +2826,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐377)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐378)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
@@ -2830,10 +2865,6 @@
 *   [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/) by Hassan Djirdeh, Nate Murray, & Ari Lerner. (March 2018)
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
-
-### Resources / Conferences
-
-*   [VueConf US](http://vueconf.us)
 
 ### Resources / Examples
 
@@ -2914,10 +2945,6 @@
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
-### Resources / Official Resources
-
-*   [Style Guide](https://vuejs.org/v2/style-guide/)
-
 ### Resources / Community
 
 *   [VueJS en español - Facebook Group \[Spanish\]](https://www.facebook.com/groups/vue.es/)
@@ -2926,7 +2953,6 @@
 
 *   [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 *   [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
-*   [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
 *   [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI\&t=) by [@CodyLSeibert](https://twitter.com/CodyLSeibert)
 
 ### Resources / Books
@@ -2934,10 +2960,6 @@
 *   [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 
 ## [Oct 16 - Oct 22, 2017](/content/2017/42/README.md)
-
-### Resources / Podcasts
-
-*   [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 
 ### Projects Using Vue.js / Open Source
 
@@ -3000,12 +3022,6 @@
 
 *   [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 
-## [Aug 07 - Aug 13, 2017](/content/2017/32/README.md)
-
-### Resources / Podcasts
-
-*   [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
-
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
 ### Resources / Tutorials
@@ -3058,13 +3074,6 @@
 
 *   [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
 
-## [May 29 - Jun 04, 2017](/content/2017/22/README.md)
-
-### Resources / Tutorials
-
-*   [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
-*   [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
-
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
 ### Resources / Tutorials
@@ -3109,12 +3118,6 @@
 
 *   [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
 
-## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
-
-### Resources / Tutorials
-
-*   [Complete Vue.js Application Tutorial - Creating a Simple Budgeting App with Vue](http://matthiashager.com/complete-vuejs-application-tutorial) by [@matthiaswh](https://github.com/matthiaswh)
-
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
 ### Resources / Tutorials
@@ -3137,7 +3140,7 @@
 
 ### Resources / Tutorials
 
-*   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
+*   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](https://fatihacet.com)
 
 ## [Dec 26 - Jan 01, 2016](/content/2016/52/README.md)
 
@@ -3178,35 +3181,17 @@
 
 *   [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 
-## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
-
-### Resources / Tutorials
-
-*   [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
-
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
 ### Resources / Tutorials
 
 *   [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 
-## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
-
-### Resources / Podcasts
-
-*   [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
-
 ## [Sep 12 - Sep 18, 2016](/content/2016/37/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
-
-## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
-
-### Resources / Tutorials
-
-*   [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 
 ## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
 
@@ -3232,33 +3217,7 @@
 
 *   [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 
-## [Feb 15 - Feb 21, 2016](/content/2016/7/README.md)
-
-### Resources / Tutorials
-
-*   [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
-
-## [Jan 04 - Jan 10, 2016](/content/2015/53/README.md)
-
-### Resources / Podcasts
-
-*   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
-
-## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
-
-### Resources / Podcasts
-
-*   [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
-
 ## [Oct 26 - Nov 01, 2015](/content/2015/43/README.md)
-
-### Resources / Official Resources
-
-*   [API Reference](http://vuejs.org/api/)
-
-### Resources / Community
-
-*   [Official Forum](http://forum.vuejs.org/)
 
 ### Resources / Official Examples
 

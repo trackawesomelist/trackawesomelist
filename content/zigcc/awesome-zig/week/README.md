@@ -6,6 +6,16 @@ A collection of awesome projects in Zig.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Fundamentals / Linters
+
+*   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
+
+### Fundamentals / Utility
+
+*   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Fundamentals / Learning Resources

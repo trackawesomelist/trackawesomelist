@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Resources / Starforged
+
+*   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
+
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Resources / Starforged

@@ -8,6 +8,14 @@
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
+### Reading and Writing Tools / Ebooks
+
+*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
+
+### Utilities / General Tools
+
+*   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")]\(<https://seodisias.com>)
+
 ### Utilities / Productivity
 
 *   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

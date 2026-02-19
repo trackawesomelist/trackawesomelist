@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 19, 2026](/content/2026/02/19/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Applications
