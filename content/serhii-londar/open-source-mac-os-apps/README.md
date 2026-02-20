@@ -2,15 +2,501 @@
 
 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 46K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) · ⭐ 47K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### 🎵 Audio (37)
+
+*   [LyricGlow (⭐10)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/>
+
+    **Links:** <a href='https://github.com/ateymoori/lyricglow/releases/latest'><img src='https://img.shields.io/github/v/release/ateymoori/lyricglow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ateymoori/lyricglow'><img src='https://img.shields.io/github/stars/ateymoori/lyricglow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/ateymoori/lyricglow' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-synchronized-lyrics-english.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-artist-images-album-covers.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/ateymoori/lyricglow/main/screenshots/lyricglow-rtl-lyrics-persian.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 💰 Cryptocurrency (5)
+
+*   [Bitcoin Core (⭐88k)](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <code>C++</code> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
+
+    **Links:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
+
+    **Website:** <https://bitcoincore.org/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 📝 Editors (6) / 📱 iOS / macOS (42)
+
+*   [DevLint (⭐2)](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 🛠️ Utilities (94) / ✏️ Text (12)
+
+*   [Gridfy (⭐34)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Links:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
+
+    **Website:** <https://gridfy.astroon.pro/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-01.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Input Source Pro (⭐2.8k)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+
+    **Website:** <https://inputsource.pro>
+
+    </p>
+    </details>
+*   [RustCast (⭐348)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
+
+    **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+    **Website:** <https://rustcast.umangsurana.com>
+
+    **Screenshots:**
+
+    <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Blink Eye (⭐237)](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
+
+    **Links:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
+
+    **Website:** <https://blinkeye.vercel.app/>
+
+    **Screenshots:**
+
+    <img src='https://utfs.io/f/93hqarYp4cDdNL4sT1PM7wKnvWGVmy3zl0x94o8NjODZSHbY' width='400' loading='lazy'/>
+
+    <img src='https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl' width='400' loading='lazy'/>
+
+    <img src='https://utfs.io/f/93hqarYp4cDdmJoyN5IGuo7faHJYtjPxRrsSq0VbWB8zM4yl' width='400' loading='lazy'/>
+
+    *(1 more screenshots available in the repository)*
+
+    </p>
+    </details>
+*   [File Architect (⭐1)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
+
+    **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
+    **Website:** <https://filearchitect.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Screenpipe (⭐17k)](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Links:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
+
+    **Website:** <https://screenpi.pe>
+
+    **Screenshots:**
+
+    <img src='https://screenpi.pe/og-image.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Xournal++ (⭐14k)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='./icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Links:** <a href='https://github.com/xournalpp/xournalpp/releases/latest'><img src='https://img.shields.io/github/v/release/xournalpp/xournalpp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xournalpp/xournalpp/'><img src='https://img.shields.io/github/stars/xournalpp/xournalpp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/xournalpp/xournalpp' alt='License'/>
+
+    </p>
+    </details>
+*   [OpenCore Legacy Patcher (⭐17k)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Links:** <a href='https://github.com/dortania/OpenCore-Legacy-Patcher/releases/latest'><img src='https://img.shields.io/github/v/release/dortania/OpenCore-Legacy-Patcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dortania/OpenCore-Legacy-Patcher'><img src='https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/dortania/OpenCore-Legacy-Patcher' alt='License'/>
+
+    **Website:** <https://dortania.github.io/OpenCore-Legacy-Patcher/>
+
+    </p>
+    </details>
+*   [PlugNPlayMac (⭐9)](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
+
+    **Links:** <a href='https://github.com/Piero24/PlugNPlayMac/releases/latest'><img src='https://img.shields.io/github/v/release/Piero24/PlugNPlayMac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Piero24/PlugNPlayMac'><img src='https://img.shields.io/github/stars/Piero24/PlugNPlayMac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Piero24/PlugNPlayMac' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Stirling-PDF (⭐74k)](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> <code>html</code> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>html</code>
+
+    **Links:** <a href='https://github.com/Stirling-Tools/Stirling-PDF/releases/latest'><img src='https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Stirling-Tools/Stirling-PDF'><img src='https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Stirling-Tools/Stirling-PDF' alt='License'/>
+
+    **Website:** [stirlingpdf.com](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md/stirlingpdf.com)
+
+    </p>
+    </details>
+
+### ⬇️ Downloader (8) / 📱 iOS / macOS (42)
+
+*   [Applite (⭐6.4k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/milanvarady/Applite/releases/latest'><img src='https://img.shields.io/github/v/release/milanvarady/Applite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/milanvarady/Applite'><img src='https://img.shields.io/github/stars/milanvarady/Applite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/milanvarady/Applite' alt='License'/>
+
+    **Website:** <https://aerolite.dev/applite>
+
+    **Screenshots:**
+
+    <img src='https://aerolite.dev/img/applite/discover-page.png' width='400' loading='lazy'/>
+
+    <img src='https://aerolite.dev/img/applite/productivity.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 📝 Editors (6) / ✏️ Text (12)
+
+*   [mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <code>free-pascal</code>
+
+    **Links:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
+
+    **Website:** [https://github.com/maxnd/mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit)
+
+    **Screenshots:**
+
+    <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot1.png' width='400' loading='lazy'/>
+
+    <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot2.png' width='400' loading='lazy'/>
+
+    <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
+
+    *(1 more screenshots available in the repository)*
+
+    </p>
+    </details>
+
+### 🎨 Graphics (17) / ✏️ Text (12)
+
+*   [LibreCAD (⭐5.6k)](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <code>c++</code> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/>
+
+    **Links:** <a href='https://github.com/LibreCAD/LibreCAD/releases/latest'><img src='https://img.shields.io/github/v/release/LibreCAD/LibreCAD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LibreCAD/LibreCAD'><img src='https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/LibreCAD/LibreCAD' alt='License'/>
+
+    **Website:** <https://librecad.org>
+
+    **Screenshots:**
+
+    <img src='https://librecad.org/img/welcome.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Nugget (⭐525)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Links:** <a href='https://github.com/cartesiancs/nugget-app/releases/latest'><img src='https://img.shields.io/github/v/release/cartesiancs/nugget-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cartesiancs/nugget-app'><img src='https://img.shields.io/github/stars/cartesiancs/nugget-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/cartesiancs/nugget-app' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/cartesiancs/nugget-app/refs/heads/main/.github/screenshotv1.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 📊 Menubar (46) / ✏️ Text (12)
+
+*   [app-menu (⭐48)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/barseghyanartur/app-menu/releases/latest'><img src='https://img.shields.io/github/v/release/barseghyanartur/app-menu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/barseghyanartur/app-menu'><img src='https://img.shields.io/github/stars/barseghyanartur/app-menu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/barseghyanartur/app-menu' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_screenshot.jpg' width='400' loading='lazy'/>
+
+    <img src='https://github.com/barseghyanartur/app-menu/blob/main/Docs/app_menu_configuration_dir_access.jpg' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Vercel Deployment Menu Bar (⭐25)](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/andrewk17/vercel-deployment-menu-bar/releases/latest'><img src='https://img.shields.io/github/v/release/andrewk17/vercel-deployment-menu-bar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/andrewk17/vercel-deployment-menu-bar'><img src='https://img.shields.io/github/stars/andrewk17/vercel-deployment-menu-bar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/andrewk17/vercel-deployment-menu-bar' alt='License'/>
+
+    **Website:** <https://vercel-deployment-menu-bar.vercel.app/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 🔐 VPN & Proxy (7) / ✏️ Text (12)
+
+*   [VPN Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
+
+    **Website:** [https://github.com/GeiserX/VPN-Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass)
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 📔 Notes (17) / ✏️ Text (12)
+
+*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Links:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
+
+    **Website:** <https://stik.ink>
+
+    </p>
+    </details>
+
+### 🪟 Window Management (16) / ✏️ Text (12)
+
+*   [Dockit (⭐251)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
+
+    **Website:** \[[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]\([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
+
+    **Screenshots:**
+
+    <img src='https://github.com/XiCheng148/Dockit/blob/main/Resources/preview.gif?raw=true' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Loop (⭐10k)](https://github.com/MrKai77/Loop) - Window management made elegant.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/MrKai77/Loop/releases/latest'><img src='https://img.shields.io/github/v/release/MrKai77/Loop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MrKai77/Loop'><img src='https://img.shields.io/github/stars/MrKai77/Loop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/MrKai77/Loop' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/MrKai77/Loop/raw/develop/assets/graphics/loop_demo.gif' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Window Glue (⭐212)](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/Conxt/WindowGlue/releases/latest'><img src='https://img.shields.io/github/v/release/Conxt/WindowGlue?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Conxt/WindowGlue'><img src='https://img.shields.io/github/stars/Conxt/WindowGlue?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Conxt/WindowGlue' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/Conxt/WindowGlue/raw/main/Assets/Screen.gif' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### ⏱️ Productivity (65) / ✏️ Text (12)
+
+*   [Readest (⭐17k)](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Links:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
+
+    **Website:** <https://readest.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy'/>
+
+    *(2 more screenshots available in the repository)*
+
+    </p>
+    </details>
+
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
-### 🛠️ Utilities (83) / ✏️ Text (11)
+### 🛠️ Utilities (94) / ✏️ Text (12)
 
-*   [Bye-AppQuit (⭐36)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+*   [Bye-AppQuit (⭐54)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
     <details>
     <summary>More</summary>
@@ -20,7 +506,7 @@
 
     **Links:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
 
-    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐36)](https://github.com/designsbymuzeer/Bye-Mac-App)
+    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐54)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
     **Screenshots:**
 
@@ -29,9 +515,9 @@
     </p>
     </details>
 
-### 🪟 Window Management (12) / ✏️ Text (11)
+### 🪟 Window Management (16) / ✏️ Text (12)
 
-*   [Ice (⭐24k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+*   [Ice (⭐26k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
     <details>
     <summary>More</summary>
@@ -54,9 +540,9 @@
 
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
-### 🛠️ Utilities (83) / ✏️ Text (11)
+### 🛠️ Utilities (94) / ✏️ Text (12)
 
-*   [MiddleDrag (⭐4)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
+*   [MiddleDrag (⭐98)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
 
     <details>
     <summary>More</summary>
@@ -75,9 +561,9 @@
 
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
-### 👨‍💻 Development (9) / 🌍 Web Development (15)
+### 👨‍💻 Development (11) / 🌍 Web Development (15)
 
-*   [Requestly (⭐5.6k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
+*   [Requestly (⭐6.2k)](https://github.com/requestly/requestly) - A lightweight open-source API Development, Testing & Mocking platform
 
     <details>
     <summary>More</summary>
@@ -100,9 +586,9 @@
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### 🎵 Audio (36)
+### 🎵 Audio (37)
 
-*   [\[Un\]MuteMic (⭐134)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
+*   [\[Un\]MuteMic (⭐133)](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
     <details>
     <summary>More</summary>
@@ -136,7 +622,7 @@
 
     </p>
     </details>
-*   [AUHost (⭐118)](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.
+*   [AUHost (⭐121)](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.
 
     <details>
     <summary>More</summary>
@@ -174,7 +660,7 @@
 
     </p>
     </details>
-*   [AutoMute (⭐277)](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
+*   [AutoMute (⭐281)](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep.
 
     <details>
     <summary>More</summary>
@@ -194,7 +680,7 @@
 
     </p>
     </details>
-*   [Background Music (⭐18k)](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+*   [Background Music (⭐19k)](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 
     <details>
     <summary>More</summary>
@@ -222,7 +708,7 @@
 
     </p>
     </details>
-*   [CAM (⭐54)](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
+*   [CAM (⭐56)](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
 
     <details>
     <summary>More</summary>
@@ -244,7 +730,7 @@
 
     </p>
     </details>
-*   [Clementine (⭐4.1k)](https://github.com/clementine-player/Clementine) - Clementine is a modern music player and library organizer for Windows, Linux and macOS.
+*   [Clementine (⭐4.2k)](https://github.com/clementine-player/Clementine) - Clementine is a modern music player and library organizer for Windows, Linux and macOS.
 
     <details>
     <summary>More</summary>
@@ -280,7 +766,7 @@
 
     </p>
     </details>
-*   [eqMac2 (⭐6.4k)](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac.
+*   [eqMac2 (⭐6.5k)](https://github.com/bitgapp/eqMac) - System-Wide Equalizer for the Mac.
 
     <details>
     <summary>More</summary>
@@ -298,7 +784,7 @@
 
     </p>
     </details>
-*   [fre:ac (⭐1.7k)](https://github.com/enzo1982/freac) - The fre:ac audio converter project.
+*   [fre:ac (⭐1.8k)](https://github.com/enzo1982/freac) - The fre:ac audio converter project.
 
     <details>
     <summary>More</summary>
@@ -314,7 +800,7 @@
 
     </p>
     </details>
-*   [iTunes-Volume-Control (⭐255)](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.
+*   [iTunes-Volume-Control (⭐252)](https://github.com/alberti42/iTunes-Volume-Control) - This app allows you to control the iTunes volume using volume up and volume down hotkeys.
 
     <details>
     <summary>More</summary>
@@ -330,7 +816,7 @@
 
     </p>
     </details>
-*   [jmc (⭐518)](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.
+*   [jmc (⭐519)](https://github.com/jcm93/jmc) - jmc is new macOS media organizer.
 
     <details>
     <summary>More</summary>
@@ -352,7 +838,7 @@
 
     </p>
     </details>
-*   [LocalRadio (⭐387)](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.
+*   [LocalRadio (⭐395)](https://github.com/dsward2/LocalRadio) - LocalRadio is software for listening to "Software-Defined Radio" on your Mac and mobile devices.
 
     <details>
     <summary>More</summary>
@@ -432,7 +918,7 @@
 
     </p>
     </details>
-*   [Scope (⭐52)](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
+*   [Scope (⭐53)](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
 
     <details>
     <summary>More</summary>
@@ -450,7 +936,7 @@
 
     </p>
     </details>
-*   [shairport-sync (⭐8.3k)](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
+*   [shairport-sync (⭐8.5k)](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
 
     <details>
     <summary>More</summary>
@@ -462,7 +948,7 @@
 
     </p>
     </details>
-*   [ShazamScrobbler (⭐129)](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.
+*   [ShazamScrobbler (⭐130)](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.
 
     <details>
     <summary>More</summary>
@@ -478,7 +964,7 @@
 
     </p>
     </details>
-*   [Sonora (⭐941)](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.
+*   [Sonora (⭐940)](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.
 
     <details>
     <summary>More</summary>
@@ -510,7 +996,7 @@
 
     </p>
     </details>
-*   [SpotMenu (⭐3k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar.
+*   [SpotMenu (⭐3.1k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar.
 
     <details>
     <summary>More</summary>
@@ -538,7 +1024,7 @@
 
     </p>
     </details>
-*   [Suohai (⭐138)](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS.
+*   [Suohai (⭐139)](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS.
 
     <details>
     <summary>More</summary>
@@ -574,7 +1060,7 @@
 
     </p>
     </details>
-*   [Tuner (⭐58)](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner
+*   [Tuner (⭐59)](https://github.com/billthefarmer/ctuner) - Musical Instrument Tuner
 
     <details>
     <summary>More</summary>
@@ -596,7 +1082,7 @@
 
     </p>
     </details>
-*   [waveSDR (⭐224)](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
+*   [waveSDR (⭐226)](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.
 
     <details>
     <summary>More</summary>
@@ -613,9 +1099,9 @@
     </p>
     </details>
 
-### 🎧 Music (15) / ✏️ Text (11)
+### 🎧 Music (15) / ✏️ Text (12)
 
-*   [Karaoke Forever (⭐593)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
+*   [Karaoke Forever (⭐681)](https://github.com/bhj/KaraokeEternal) - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
     <details>
     <summary>More</summary>
@@ -633,7 +1119,7 @@
 
     </p>
     </details>
-*   [Carol (⭐126)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.
+*   [Carol (⭐127)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.
 
     <details>
     <summary>More</summary>
@@ -721,7 +1207,7 @@
 
     </p>
     </details>
-*   [SoundCleod (⭐964)](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
+*   [SoundCleod (⭐962)](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 
     <details>
     <summary>More</summary>
@@ -796,9 +1282,9 @@
     </p>
     </details>
 
-### 🎬 Video (19) / ✏️ Text (11)
+### 🎬 Video (19) / ✏️ Text (12)
 
-*   [LosslessCut (⭐35k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
+*   [LosslessCut (⭐38k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding.
 
     <details>
     <summary>More</summary>
@@ -816,7 +1302,7 @@
 
     </p>
     </details>
-*   [MPV (⭐33k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
+*   [MPV (⭐34k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player.
 
     <details>
     <summary>More</summary>
@@ -846,7 +1332,7 @@
 
     </p>
     </details>
-*   [AppleEvents (⭐827)](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.
+*   [AppleEvents (⭐825)](https://github.com/insidegui/AppleEvents) - Unofficial Apple Events app for macOS.
 
     <details>
     <summary>More</summary>
@@ -858,7 +1344,7 @@
 
     </p>
     </details>
-*   [Conferences.digital (⭐762)](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.
+*   [Conferences.digital (⭐760)](https://github.com/zagahr/Conferences.digital) - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.
 
     <details>
     <summary>More</summary>
@@ -874,7 +1360,7 @@
 
     </p>
     </details>
-*   [Datamosh (⭐109)](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.
+*   [Datamosh (⭐112)](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.
 
     <details>
     <summary>More</summary>
@@ -920,7 +1406,7 @@
 
     </p>
     </details>
-*   [GNU Gatekeeper (⭐84)](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals.
+*   [GNU Gatekeeper (⭐85)](https://github.com/willamowius/gnugk) - Video conferencing server for H.323 terminals.
 
     <details>
     <summary>More</summary>
@@ -934,7 +1420,7 @@
 
     </p>
     </details>
-*   [HandBrake (⭐21k)](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
+*   [HandBrake (⭐22k)](https://github.com/HandBrake/HandBrake) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
 
     <details>
     <summary>More</summary>
@@ -958,7 +1444,7 @@
 
     </p>
     </details>
-*   [OpenShot (⭐5.2k)](https://github.com/OpenShot/openshot-qt) - Easy to use, quick to learn, and surprisingly powerful video editor.
+*   [OpenShot (⭐5.5k)](https://github.com/OpenShot/openshot-qt) - Easy to use, quick to learn, and surprisingly powerful video editor.
 
     <details>
     <summary>More</summary>
@@ -988,7 +1474,7 @@
 
     </p>
     </details>
-*   [QuickLook Video (⭐3.2k)](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+*   [QuickLook Video (⭐3.3k)](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 
     <details>
     <summary>More</summary>
@@ -1024,7 +1510,7 @@
 
     </p>
     </details>
-*   [VLC (⭐17k)](https://github.com/videolan/vlc) -  VLC is a free and open source cross-platform multimedia player
+*   [VLC (⭐18k)](https://github.com/videolan/vlc) -  VLC is a free and open source cross-platform multimedia player
 
     <details>
     <summary>More</summary>
@@ -1071,7 +1557,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (83) / ✏️ Text (11)
+### 🛠️ Utilities (94) / ✏️ Text (12)
 
 *   [MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
@@ -1089,7 +1575,7 @@
 
     </p>
     </details>
-*   [NoiseBuddy (⭐734)](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
+*   [NoiseBuddy (⭐733)](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
     <details>
     <summary>More</summary>
@@ -1101,7 +1587,7 @@
 
     </p>
     </details>
-*   [PlayStatus (⭐167)](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+*   [PlayStatus (⭐170)](https://github.com/nbolar/PlayStatus) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
     <details>
     <summary>More</summary>
@@ -1171,7 +1657,7 @@
 
     </p>
     </details>
-*   [MQTTX (⭐4.7k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client.
+*   [MQTTX (⭐4.8k)](https://github.com/emqx/MQTTX) - An elegant Cross-platform MQTT 5.0 desktop client.
 
     <details>
     <summary>More</summary>
@@ -1189,7 +1675,7 @@
 
     </p>
     </details>
-*   [Middleclick (⭐2.3k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+*   [Middleclick (⭐2.5k)](https://github.com/artginzburg/MiddleClick-Ventura) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
     <details>
     <summary>More</summary>
@@ -1221,7 +1707,7 @@
 
     </p>
     </details>
-*   [Ultra TabSaver (⭐284)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
+*   [Ultra TabSaver (⭐286)](https://github.com/Swift-open-source/UltraTabSaver) - Ultra TabSaver is an open-source Tab Manager for Safari
 
     <details>
     <summary>More</summary>
@@ -1237,7 +1723,7 @@
 
     </p>
     </details>
-*   [dupeGuru (⭐7.1k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+*   [dupeGuru (⭐7.3k)](https://github.com/arsenetar/dupeguru/) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
     <details>
     <summary>More</summary>
@@ -1251,7 +1737,7 @@
 
     </p>
     </details>
-*   [Duplicate Finder (⭐153)](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+*   [Duplicate Finder (⭐158)](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 
     <details>
     <summary>More</summary>
@@ -1267,7 +1753,7 @@
 
     </p>
     </details>
-*   [zoxide (⭐31k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal.
+*   [zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal.
 
     <details>
     <summary>More</summary>
@@ -1283,7 +1769,7 @@
 
     </p>
     </details>
-*   [baRSS – Menu Bar RSS Reader (⭐145)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
+*   [baRSS – Menu Bar RSS Reader (⭐147)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
 
     <details>
     <summary>More</summary>
@@ -1299,7 +1785,7 @@
 
     </p>
     </details>
-*   [eul (⭐9.7k)](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
+*   [eul (⭐9.8k)](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 
     <details>
     <summary>More</summary>
@@ -1315,7 +1801,7 @@
 
     </p>
     </details>
-*   [Grayscale Mode (⭐106)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
+*   [Grayscale Mode (⭐108)](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
 
     <details>
     <summary>More</summary>
@@ -1333,7 +1819,7 @@
 
     </p>
     </details>
-*   [MeetingBar (⭐5k)](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings
+*   [MeetingBar (⭐5.1k)](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings
 
     <details>
     <summary>More</summary>
@@ -1349,7 +1835,7 @@
 
     </p>
     </details>
-*   [Nocturnal (⭐322)](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.
+*   [Nocturnal (⭐321)](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.
 
     <details>
     <summary>More</summary>
@@ -1365,7 +1851,7 @@
 
     </p>
     </details>
-*   [Pika (⭐2.2k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
+*   [Pika (⭐2.3k)](https://github.com/superhighfives/pika) - Is an easy to use, open-source, native colour picker for macOS.
 
     <details>
     <summary>More</summary>
@@ -1383,7 +1869,7 @@
 
     </p>
     </details>
-*   [SlimHUD - Cyanocitta (⭐458)](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
+*   [SlimHUD - Cyanocitta (⭐460)](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 
     <details>
     <summary>More</summary>
@@ -1401,7 +1887,7 @@
 
     </p>
     </details>
-*   [Stats (⭐35k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+*   [Stats (⭐36k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
     <details>
     <summary>More</summary>
@@ -1417,7 +1903,7 @@
 
     </p>
     </details>
-*   [Betaflight Configurator (⭐3k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
+*   [Betaflight Configurator (⭐3.1k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
     <details>
     <summary>More</summary>
@@ -1465,7 +1951,7 @@
 
     </p>
     </details>
-*   [far2l (⭐2k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2
+*   [far2l (⭐2.1k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2
 
     <details>
     <summary>More</summary>
@@ -1477,7 +1963,7 @@
 
     </p>
     </details>
-*   [Spotter (⭐747)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.
+*   [Spotter (⭐743)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.
 
     <details>
     <summary>More</summary>
@@ -1489,7 +1975,7 @@
 
     </p>
     </details>
-*   [Super Productivity (⭐16k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
+*   [Super Productivity (⭐18k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration.
 
     <details>
     <summary>More</summary>
@@ -1507,7 +1993,7 @@
 
     </p>
     </details>
-*   [macOS GateKeeper Helper (⭐262)](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+*   [macOS GateKeeper Helper (⭐264)](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
     <details>
     <summary>More</summary>
@@ -1545,7 +2031,7 @@
 
     </p>
     </details>
-*   [ArchiveMounter (⭐132)](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
+*   [ArchiveMounter (⭐133)](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
 
     <details>
     <summary>More</summary>
@@ -1605,7 +2091,7 @@
 
     </p>
     </details>
-*   [Bitwarden Menu (⭐63)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar
+*   [Bitwarden Menu (⭐65)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar
 
     <details>
     <summary>More</summary>
@@ -1637,7 +2123,7 @@
 
     </p>
     </details>
-*   [calibre (⭐23k)](https://github.com/kovidgoyal/calibre) - cross platform e-book manager.
+*   [calibre (⭐24k)](https://github.com/kovidgoyal/calibre) - cross platform e-book manager.
 
     <details>
     <summary>More</summary>
@@ -1651,7 +2137,7 @@
 
     </p>
     </details>
-*   [Catch (⭐434)](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
+*   [Catch (⭐436)](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy.
 
     <details>
     <summary>More</summary>
@@ -1681,7 +2167,7 @@
 
     </p>
     </details>
-*   [CoreLocationCLI (⭐255)](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
+*   [CoreLocationCLI (⭐263)](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
 
     <details>
     <summary>More</summary>
@@ -1697,7 +2183,7 @@
 
     </p>
     </details>
-*   [CornerCal (⭐239)](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.
+*   [CornerCal (⭐240)](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.
 
     <details>
     <summary>More</summary>
@@ -1713,7 +2199,7 @@
 
     </p>
     </details>
-*   [Crypter (⭐464)](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
+*   [Crypter (⭐465)](https://github.com/HR/Crypter) - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.
 
     <details>
     <summary>More</summary>
@@ -1747,7 +2233,7 @@
 
     </p>
     </details>
-*   [Flying Carpet (⭐4.7k)](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
+*   [Flying Carpet (⭐5k)](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
 
     <details>
     <summary>More</summary>
@@ -1819,7 +2305,7 @@
 
     </p>
     </details>
-*   [iOScanX (⭐38)](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation.
+*   [iOScanX (⭐36)](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation.
 
     <details>
     <summary>More</summary>
@@ -1849,7 +2335,7 @@
 
     </p>
     </details>
-*   [KeePassXC (⭐25k)](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
+*   [KeePassXC (⭐26k)](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
 
     <details>
     <summary>More</summary>
@@ -1873,7 +2359,7 @@
 
     </p>
     </details>
-*   [Keka (⭐6k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be.
+*   [Keka (⭐6.4k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be.
 
     <details>
     <summary>More</summary>
@@ -1903,7 +2389,7 @@
 
     </p>
     </details>
-*   [Lunar (⭐5.3k)](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays.
+*   [Lunar (⭐5.4k)](https://github.com/alin23/lunar) - Intelligent adaptive brightness for your external displays.
 
     <details>
     <summary>More</summary>
@@ -1931,7 +2417,7 @@
 
     </p>
     </details>
-*   [MacPacker (⭐243)](https://github.com/sarensw/MacPacker/) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
+*   [MacPacker (⭐378)](https://github.com/sarensw/MacPacker/) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
 
     <details>
     <summary>More</summary>
@@ -1965,7 +2451,7 @@
 
     </p>
     </details>
-*   [Maria (⭐637)](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.
+*   [Maria (⭐636)](https://github.com/shincurry/Maria) - macOS native app/widget for aria2 download tool.
 
     <details>
     <summary>More</summary>
@@ -1989,7 +2475,7 @@
 
     </p>
     </details>
-*   [Monolingual (⭐556)](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS
+*   [Monolingual (⭐564)](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS
 
     <details>
     <summary>More</summary>
@@ -2005,7 +2491,7 @@
 
     </p>
     </details>
-*   [Mos (⭐18k)](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction
+*   [Mos (⭐19k)](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction
 
     <details>
     <summary>More</summary>
@@ -2017,7 +2503,7 @@
 
     </p>
     </details>
-*   [nix-package-manager (⭐15k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
+*   [nix-package-manager (⭐16k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
 
     <details>
     <summary>More</summary>
@@ -2057,7 +2543,7 @@
 
     </p>
     </details>
-*   [NVM (⭐90k)](https://github.com/nvm-sh/nvm) - Node Version Manager.
+*   [NVM (⭐92k)](https://github.com/nvm-sh/nvm) - Node Version Manager.
 
     <details>
     <summary>More</summary>
@@ -2069,7 +2555,7 @@
 
     </p>
     </details>
-*   [OpenRocket (⭐1.6k)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
+*   [OpenRocket (⭐1.7k)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
 
     <details>
     <summary>More</summary>
@@ -2083,7 +2569,7 @@
 
     </p>
     </details>
-*   [Padlock (⭐2.8k)](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.
+*   [Padlock (⭐2.9k)](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.
 
     <details>
     <summary>More</summary>
@@ -2095,7 +2581,7 @@
 
     </p>
     </details>
-*   [PB for Desktop (⭐521)](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.
+*   [PB for Desktop (⭐518)](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.
 
     <details>
     <summary>More</summary>
@@ -2129,7 +2615,7 @@
 
     </p>
     </details>
-*   [Plain Pasta (⭐85)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard
+*   [Plain Pasta (⭐86)](https://github.com/hisaac/PlainPasta) - Plaintextify your clipboard
 
     <details>
     <summary>More</summary>
@@ -2159,7 +2645,7 @@
 
     </p>
     </details>
-*   [Rugby (⭐715)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐716)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
     <details>
     <summary>More</summary>
@@ -2255,7 +2741,7 @@
 
     </p>
     </details>
-*   [Wireshark (⭐8.7k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
+*   [Wireshark (⭐9k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
     <details>
     <summary>More</summary>
@@ -2269,7 +2755,7 @@
 
     </p>
     </details>
-*   [Übersicht (⭐4.8k)](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
+*   [Übersicht (⭐4.9k)](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.
 
     <details>
     <summary>More</summary>
@@ -2282,9 +2768,9 @@
     </p>
     </details>
 
-### 📡 Streaming (3) / ✏️ Text (11)
+### 📡 Streaming (3) / ✏️ Text (12)
 
-*   [Plug (⭐222)](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
+*   [Plug (⭐226)](https://github.com/wulkano/Plug) - Discover and listen to music from Hype Machine.
 
     <details>
     <summary>More</summary>
@@ -2314,7 +2800,7 @@
 
     </p>
     </details>
-*   [OBS Studio (⭐68k)](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
+*   [OBS Studio (⭐70k)](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
 
     <details>
     <summary>More</summary>
@@ -2371,7 +2857,7 @@
 
     </p>
     </details>
-*   [Syncalicious (⭐430)](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.
+*   [Syncalicious (⭐435)](https://github.com/zenangst/Syncalicious) - Keeping multiple macOS preferences in sync can be painful, but it shouldn't be.
 
     <details>
     <summary>More</summary>
@@ -2383,7 +2869,7 @@
 
     </p>
     </details>
-*   [UrBackup (⭐804)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
+*   [UrBackup (⭐829)](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
 
     <details>
     <summary>More</summary>
@@ -2452,7 +2938,7 @@
 
     </p>
     </details>
-*   [Finicky (⭐4.4k)](https://github.com/johnste/finicky) - Always opens the right browser.
+*   [Finicky (⭐4.6k)](https://github.com/johnste/finicky) - Always opens the right browser.
 
     <details>
     <summary>More</summary>
@@ -2476,7 +2962,7 @@
 
     </p>
     </details>
-*   [Helium (⭐3.6k)](https://github.com/JadenGeller/Helium) - Floating browser window for macOS.
+*   [Helium (⭐3.7k)](https://github.com/JadenGeller/Helium) - Floating browser window for macOS.
 
     <details>
     <summary>More</summary>
@@ -2502,7 +2988,7 @@
 
     </p>
     </details>
-*   [otter-browser (⭐1.9k)](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+*   [otter-browser (⭐2k)](https://github.com/OtterBrowser/otter-browser) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 
     <details>
     <summary>More</summary>
@@ -2518,7 +3004,7 @@
 
     </p>
     </details>
-*   [seb-mac (⭐116)](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.
+*   [seb-mac (⭐122)](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS.
 
     <details>
     <summary>More</summary>
@@ -2531,9 +3017,9 @@
     </p>
     </details>
 
-### ⏱️ Productivity (57) / ✏️ Text (11)
+### ⏱️ Productivity (65) / ✏️ Text (12)
 
-*   [Pennywise (⭐3.8k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
+*   [Pennywise (⭐3.9k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
     <details>
     <summary>More</summary>
@@ -2555,7 +3041,7 @@
 
     </p>
     </details>
-*   [reventlou (⭐92)](https://github.com/b3z/reventlou) - Personal database as an information management system.
+*   [reventlou (⭐94)](https://github.com/b3z/reventlou) - Personal database as an information management system.
 
     <details>
     <summary>More</summary>
@@ -2589,7 +3075,7 @@
 
     </p>
     </details>
-*   [linked (⭐968)](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.
+*   [linked (⭐979)](https://github.com/lostdesign/linked) - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.
 
     <details>
     <summary>More</summary>
@@ -2609,7 +3095,7 @@
 
     </p>
     </details>
-*   [QOwnNotes (⭐5.4k)](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+*   [QOwnNotes (⭐5.6k)](https://github.com/pbek/QOwnNotes) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
     <details>
     <summary>More</summary>
@@ -2627,7 +3113,7 @@
 
     </p>
     </details>
-*   [Sessions (⭐163)](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
+*   [Sessions (⭐165)](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
 
     <details>
     <summary>More</summary>
@@ -2643,7 +3129,7 @@
 
     </p>
     </details>
-*   [Itsycal (⭐3.7k)](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
+*   [Itsycal (⭐3.8k)](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
 
     <details>
     <summary>More</summary>
@@ -2661,7 +3147,7 @@
 
     </p>
     </details>
-*   [TimeScribe (⭐603)](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
+*   [TimeScribe (⭐734)](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
     <details>
     <summary>More</summary>
@@ -2725,7 +3211,7 @@
 
     </p>
     </details>
-*   [Clocker (⭐589)](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.
+*   [Clocker (⭐599)](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.
 
     <details>
     <summary>More</summary>
@@ -2737,7 +3223,7 @@
 
     </p>
     </details>
-*   [Condution (⭐522)](https://github.com/Shabang-Systems/Condution) - Create tasks, manage due dates, and filter with powerful perspectives.
+*   [Condution (⭐523)](https://github.com/Shabang-Systems/Condution) - Create tasks, manage due dates, and filter with powerful perspectives.
 
     <details>
     <summary>More</summary>
@@ -2803,7 +3289,7 @@
 
     </p>
     </details>
-*   [Flycut (⭐2.6k)](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.
+*   [Flycut (⭐2.7k)](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.
 
     <details>
     <summary>More</summary>
@@ -2815,7 +3301,7 @@
 
     </p>
     </details>
-*   [KeyHolder (⭐415)](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
+*   [KeyHolder (⭐418)](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
 
     <details>
     <summary>More</summary>
@@ -2827,7 +3313,7 @@
 
     </p>
     </details>
-*   [Kiwix (⭐655)](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
+*   [Kiwix (⭐681)](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.
 
     <details>
     <summary>More</summary>
@@ -2839,7 +3325,7 @@
 
     </p>
     </details>
-*   [Linked Ideas (⭐369)](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.
+*   [Linked Ideas (⭐370)](https://github.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.
 
     <details>
     <summary>More</summary>
@@ -2873,7 +3359,7 @@
 
     </p>
     </details>
-*   [Maccy (⭐18k)](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.
+*   [Maccy (⭐19k)](https://github.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.
 
     <details>
     <summary>More</summary>
@@ -2913,7 +3399,7 @@
 
     </p>
     </details>
-*   [Paperless Desktop (⭐596)](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
+*   [Paperless Desktop (⭐633)](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.
 
     <details>
     <summary>More</summary>
@@ -2931,7 +3417,7 @@
 
     </p>
     </details>
-*   [PDF Archiver (⭐326)](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.
+*   [PDF Archiver (⭐328)](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.
 
     <details>
     <summary>More</summary>
@@ -2973,7 +3459,7 @@
 
     </p>
     </details>
-*   [Quickwords (⭐107)](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.
+*   [Quickwords (⭐108)](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.
 
     <details>
     <summary>More</summary>
@@ -3053,7 +3539,7 @@
 
     </p>
     </details>
-*   [Strategr (⭐335)](https://github.com/khrykin/StrategrDesktop) - No-fuss time management.
+*   [Strategr (⭐339)](https://github.com/khrykin/StrategrDesktop) - No-fuss time management.
 
     <details>
     <summary>More</summary>
@@ -3073,7 +3559,7 @@
 
     </p>
     </details>
-*   [stretchly (⭐5.5k)](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.
+*   [stretchly (⭐5.9k)](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.
 
     <details>
     <summary>More</summary>
@@ -3097,7 +3583,7 @@
 
     </p>
     </details>
-*   [Time to Leave (⭐6)](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
+*   [Time to Leave (⭐7)](https://github.com/thamara/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 
     <details>
     <summary>More</summary>
@@ -3147,7 +3633,7 @@
 
     </p>
     </details>
-*   [TomatoBar (⭐3k)](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support.
+*   [TomatoBar (⭐3.1k)](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support.
 
     <details>
     <summary>More</summary>
@@ -3159,7 +3645,7 @@
 
     </p>
     </details>
-*   [TrelloApp (⭐22)](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.
+*   [TrelloApp (⭐23)](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.
 
     <details>
     <summary>More</summary>
@@ -3171,7 +3657,7 @@
 
     </p>
     </details>
-*   [Ueli (⭐4.2k)](https://github.com/oliverschwendener/ueli) - A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.
+*   [Ueli (⭐4.5k)](https://github.com/oliverschwendener/ueli) - A keystroke launcher for macOS (and Windows) like Spotlight or Alfred.
 
     <details>
     <summary>More</summary>
@@ -3223,7 +3709,7 @@
 
     </p>
     </details>
-*   [Yomu (⭐198)](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.
+*   [Yomu (⭐199)](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.
 
     <details>
     <summary>More</summary>
@@ -3236,7 +3722,7 @@
     </p>
     </details>
 
-### 🖥️ Wallpaper (11) / ✏️ Text (11)
+### 🖥️ Wallpaper (11) / ✏️ Text (12)
 
 *   [Plash (⭐3.9k)](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
 
@@ -3356,7 +3842,7 @@
 
     </p>
     </details>
-*   [Satellite Eyes (⭐668)](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead.
+*   [Satellite Eyes (⭐669)](https://github.com/tomtaylor/satellite-eyes) - macOS app to automatically set your desktop wallpaper to the satellite view overhead.
 
     <details>
     <summary>More</summary>
@@ -3401,9 +3887,9 @@
     </p>
     </details>
 
-### 🔒 Security (9) / ✏️ Text (11)
+### 🔒 Security (9) / ✏️ Text (12)
 
-*   [Privacy Redirect for Safari (⭐185)](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+*   [Privacy Redirect for Safari (⭐183)](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 
     <details>
     <summary>More</summary>
@@ -3415,7 +3901,7 @@
 
     </p>
     </details>
-*   [Pareto Security (⭐406)](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+*   [Pareto Security (⭐426)](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
     <details>
     <summary>More</summary>
@@ -3433,7 +3919,7 @@
 
     </p>
     </details>
-*   [Cloaker (⭐425)](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
+*   [Cloaker (⭐428)](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
     <details>
     <summary>More</summary>
@@ -3451,7 +3937,7 @@
 
     </p>
     </details>
-*   [Cryptomator (⭐14k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [Cryptomator (⭐15k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
     <details>
     <summary>More</summary>
@@ -3495,7 +3981,7 @@
 
     </p>
     </details>
-*   [Swifty (⭐943)](https://github.com/swiftyapp/swifty) - Free and offline password manager.
+*   [Swifty (⭐949)](https://github.com/swiftyapp/swifty) - Free and offline password manager.
 
     <details>
     <summary>More</summary>
@@ -3515,7 +4001,7 @@
 
     </p>
     </details>
-*   [VeraCrypt (⭐8.7k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
+*   [VeraCrypt (⭐9.2k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
     <details>
     <summary>More</summary>
@@ -3532,7 +4018,7 @@
 
 ### 💬 Chat (19)
 
-*   [Adium (⭐353)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
+*   [Adium (⭐362)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
     <details>
     <summary>More</summary>
@@ -3550,7 +4036,7 @@
 
     </p>
     </details>
-*   [Beagle IM (⭐202)](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
+*   [Beagle IM (⭐203)](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
 
     <details>
     <summary>More</summary>
@@ -3600,7 +4086,7 @@
 
     </p>
     </details>
-*   [Element (⭐12k)](https://github.com/vector-im/element-web) - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
+*   [Element (⭐13k)](https://github.com/vector-im/element-web) - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
 
     <details>
     <summary>More</summary>
@@ -3628,7 +4114,7 @@
 
     </p>
     </details>
-*   [Google Allo for Desktop (⭐118)](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
+*   [Google Allo for Desktop (⭐119)](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.
 
     <details>
     <summary>More</summary>
@@ -3660,7 +4146,7 @@
 
     </p>
     </details>
-*   [MessagesHistoryBrowser (⭐92)](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.
+*   [MessagesHistoryBrowser (⭐94)](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.
 
     <details>
     <summary>More</summary>
@@ -3686,7 +4172,7 @@
 
     </p>
     </details>
-*   [Seaglass (⭐532)](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.
+*   [Seaglass (⭐527)](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.
 
     <details>
     <summary>More</summary>
@@ -3714,7 +4200,7 @@
 
     </p>
     </details>
-*   [Telegram (⭐5.4k)](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift.
+*   [Telegram (⭐5.5k)](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift.
 
     <details>
     <summary>More</summary>
@@ -3726,7 +4212,7 @@
 
     </p>
     </details>
-*   [Telegram Desktop (⭐29k)](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
+*   [Telegram Desktop (⭐30k)](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 
     <details>
     <summary>More</summary>
@@ -3776,7 +4262,7 @@
 
     </p>
     </details>
-*   [WhatsAppBar (⭐47)](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar.
+*   [WhatsAppBar (⭐49)](https://github.com/aldychris/WhatsAppBar) - Send WhatsApp message from menu bar.
 
     <details>
     <summary>More</summary>
@@ -3809,7 +4295,7 @@
     </p>
     </details>
 
-### 📧 Mail (7) / ✏️ Text (11)
+### 📧 Mail (7) / ✏️ Text (12)
 
 *   [Thunderbird](https://hg.mozilla.org/mozilla-central) - Backed by Mozilla, Thunderbird is an extensible email, newsfeed, chat, and calendaring client.
 
@@ -3843,7 +4329,7 @@
 
     </p>
     </details>
-*   [dejalu (⭐635)](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client.
+*   [dejalu (⭐638)](https://github.com/dinhvh/dejalu) - Fast and Simple Email Client.
 
     <details>
     <summary>More</summary>
@@ -3918,22 +4404,6 @@
 
 ### 💰 Cryptocurrency (5)
 
-*   [Balance Open (⭐288)](https://github.com/balance-io/balance-open) - App for all the world’s currencies.
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/balance-io/balance-open/releases/latest'><img src='https://img.shields.io/github/v/release/balance-io/balance-open?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/balance-io/balance-open'><img src='https://img.shields.io/github/stars/balance-io/balance-open?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/balance-io/balance-open' alt='License'/>
-
-    **Screenshots:**
-
-    <img src='https://d3vv6lp55qjaqc.cloudfront.net/items/2840292G3j1g102Q3s21/balance-open.png' width='400' loading='lazy'/>
-
-    </p>
-    </details>
 *   [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.
 
     <details>
@@ -3956,7 +4426,7 @@
 
     </p>
     </details>
-*   [Copay (⭐204)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.
+*   [Copay (⭐206)](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.
 
     <details>
     <summary>More</summary>
@@ -4017,7 +4487,7 @@
 
     </p>
     </details>
-*   [Beekeeper Studio (⭐21k)](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
+*   [Beekeeper Studio (⭐22k)](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
 
     <details>
     <summary>More</summary>
@@ -4037,7 +4507,7 @@
 
     </p>
     </details>
-*   [DB Browser for SQLite (⭐23k)](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.
+*   [DB Browser for SQLite (⭐24k)](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.
 
     <details>
     <summary>More</summary>
@@ -4053,7 +4523,7 @@
 
     </p>
     </details>
-*   [DBeaver (⭐47k)](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.
+*   [DBeaver (⭐49k)](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.
 
     <details>
     <summary>More</summary>
@@ -4075,7 +4545,7 @@
 
     </p>
     </details>
-*   [DbGate (⭐6.5k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐6.8k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
     <details>
     <summary>More</summary>
@@ -4115,7 +4585,7 @@
 
     </p>
     </details>
-*   [mongoDB.app (⭐534)](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.
+*   [mongoDB.app (⭐538)](https://github.com/gcollazo/mongodbapp) - The easiest way to get started with mongoDB on the Mac.
 
     <details>
     <summary>More</summary>
@@ -4191,7 +4661,7 @@
 
     </p>
     </details>
-*   [redis-pro (⭐673)](https://github.com/cmushroom/redis-pro) - Redis management with SwiftUI.
+*   [redis-pro (⭐678)](https://github.com/cmushroom/redis-pro) - Redis management with SwiftUI.
 
     <details>
     <summary>More</summary>
@@ -4239,7 +4709,7 @@
 
     </p>
     </details>
-*   [Sequel Ace (⭐7.2k)](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+*   [Sequel Ace (⭐7.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 
     <details>
     <summary>More</summary>
@@ -4272,7 +4742,7 @@
     </p>
     </details>
 
-### 💻 IDE (12) / ✏️ Text (11)
+### 💻 IDE (12) / ✏️ Text (12)
 
 *   [Apache Netbeans (⭐3k)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
@@ -4330,7 +4800,7 @@
 
     </p>
     </details>
-*   [CodeEdit (⭐22k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+*   [CodeEdit (⭐23k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
     <details>
     <summary>More</summary>
@@ -4384,7 +4854,7 @@
 
     </p>
     </details>
-*   [IntelliJ IDEA Community Edition (⭐19k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
+*   [IntelliJ IDEA Community Edition (⭐20k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
 
     <details>
     <summary>More</summary>
@@ -4402,7 +4872,7 @@
 
     </p>
     </details>
-*   [LiveCode (⭐512)](https://github.com/livecode/livecode) - Cross-platform development IDE.
+*   [LiveCode (⭐513)](https://github.com/livecode/livecode) - Cross-platform development IDE.
 
     <details>
     <summary>More</summary>
@@ -4428,7 +4898,7 @@
 
     </p>
     </details>
-*   [Vim (⭐39k)](https://github.com/vim/vim) - ubiquitous text editor
+*   [Vim (⭐40k)](https://github.com/vim/vim) - ubiquitous text editor
 
     <details>
     <summary>More</summary>
@@ -4446,7 +4916,7 @@
 
     </p>
     </details>
-*   [Visual Studio Code (⭐179k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.
+*   [Visual Studio Code (⭐182k)](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.
 
     <details>
     <summary>More</summary>
@@ -4479,9 +4949,9 @@
     </p>
     </details>
 
-### 🎨 Graphics (15) / ✏️ Text (11)
+### 🎨 Graphics (17) / ✏️ Text (12)
 
-*   [ColorSet (⭐236)](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
+*   [ColorSet (⭐238)](https://github.com/DigiDNA/ColorSet) - ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 
     <details>
     <summary>More</summary>
@@ -4499,7 +4969,7 @@
 
     </p>
     </details>
-*   [Aseprite (⭐35k)](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
+*   [Aseprite (⭐36k)](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
     <details>
     <summary>More</summary>
@@ -4549,7 +5019,7 @@
 
     </p>
     </details>
-*   [FreeCAD (⭐27k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler
+*   [FreeCAD (⭐29k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler
 
     <details>
     <summary>More</summary>
@@ -4567,7 +5037,7 @@
 
     </p>
     </details>
-*   [Gaphor (⭐2.1k)](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool for UML and SysML.
+*   [Gaphor (⭐2.2k)](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool for UML and SysML.
 
     <details>
     <summary>More</summary>
@@ -4581,7 +5051,7 @@
 
     </p>
     </details>
-*   [GifCapture (⭐961)](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
+*   [GifCapture (⭐963)](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS.
 
     <details>
     <summary>More</summary>
@@ -4621,7 +5091,7 @@
 
     </p>
     </details>
-*   [Gifski (⭐8.2k)](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs.
+*   [Gifski (⭐8.3k)](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs.
 
     <details>
     <summary>More</summary>
@@ -4643,7 +5113,7 @@
 
     </p>
     </details>
-*   [InfiniteCanvas (⭐140)](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
+*   [InfiniteCanvas (⭐142)](https://github.com/CleanCocoa/InfiniteCanvas) - Proof of concept Mac drawing application.
 
     <details>
     <summary>More</summary>
@@ -4703,7 +5173,7 @@
 
     </p>
     </details>
-*   [ScreenToLayers for macOS (⭐160)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
+*   [ScreenToLayers for macOS (⭐162)](https://github.com/duyquoc/ScreenToLayers) - ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file.
 
     <details>
     <summary>More</summary>
@@ -4720,7 +5190,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9) / 📦 Git (20)
+### 👨‍💻 Development (11) / 📦 Git (20)
 
 *   [GitAhead (⭐1.9k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history.
 
@@ -4748,7 +5218,7 @@
 
     </p>
     </details>
-*   [Git Interactive Rebase Tool (⭐1.7k)](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase.
+*   [Git Interactive Rebase Tool (⭐1.8k)](https://github.com/MitMaro/git-interactive-rebase-tool) - Full feature terminal based sequence editor for interactive rebase.
 
     <details>
     <summary>More</summary>
@@ -4766,7 +5236,7 @@
 
     </p>
     </details>
-*   [GitBlamePR (⭐32)](https://github.com/maoyama/GitBlamePR) - Mac app that shows pull request last modified each line of a file
+*   [GitBlamePR (⭐33)](https://github.com/maoyama/GitBlamePR) - Mac app that shows pull request last modified each line of a file
 
     <details>
     <summary>More</summary>
@@ -4800,7 +5270,7 @@
 
     </p>
     </details>
-*   [Github contributions (⭐80)](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.
+*   [Github contributions (⭐81)](https://github.com/remirobert/Github-contributions) - GitHub contributions app, for iOS, WatchOS, and macOS.
 
     <details>
     <summary>More</summary>
@@ -4832,7 +5302,7 @@
 
     </p>
     </details>
-*   [GithubListener (⭐26)](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories.
+*   [GithubListener (⭐25)](https://github.com/ad/GithubListener) - Simple app that will notify about new commits to watched repositories.
 
     <details>
     <summary>More</summary>
@@ -4860,7 +5330,7 @@
 
     </p>
     </details>
-*   [Gitify (⭐5.1k)](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar.
+*   [Gitify (⭐5.2k)](https://github.com/manosim/gitify) - Your GitHub notifications on your menu bar.
 
     <details>
     <summary>More</summary>
@@ -4878,7 +5348,7 @@
 
     </p>
     </details>
-*   [GitSync (⭐98)](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.
+*   [GitSync (⭐100)](https://github.com/eonist/GitSync) - Minimalistic Git client for Mac.
 
     <details>
     <summary>More</summary>
@@ -4916,7 +5386,7 @@
 
     </p>
     </details>
-*   [GitX (⭐853)](https://github.com/gitx/gitx) - Graphical client for the git version control system.
+*   [GitX (⭐872)](https://github.com/gitx/gitx) - Graphical client for the git version control system.
 
     <details>
     <summary>More</summary>
@@ -4940,7 +5410,7 @@
 
     </p>
     </details>
-*   [osagitfilter (⭐43)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.
+*   [osagitfilter (⭐46)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files.
 
     <details>
     <summary>More</summary>
@@ -4952,7 +5422,7 @@
 
     </p>
     </details>
-*   [Streaker (⭐189)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.
+*   [Streaker (⭐191)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app.
 
     <details>
     <summary>More</summary>
@@ -4984,7 +5454,7 @@
 
     </p>
     </details>
-*   [Tempo (⭐151)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist.
+*   [Tempo (⭐184)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist.
 
     <details>
     <summary>More</summary>
@@ -5018,7 +5488,7 @@
 
     </p>
     </details>
-*   [Xit (⭐1.1k)](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories.
+*   [Xit (⭐1.2k)](https://github.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories.
 
     <details>
     <summary>More</summary>
@@ -5035,7 +5505,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9)
+### 👨‍💻 Development (11)
 
 *   [KiCad](https://gitlab.com/kicad/code/kicad) - A software suite for electronic design automation.
 
@@ -5049,7 +5519,7 @@
 
     </p>
     </details>
-*   [Pasteboard Viewer (⭐799)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards.
+*   [Pasteboard Viewer (⭐809)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards.
 
     <details>
     <summary>More</summary>
@@ -5084,9 +5554,9 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9) / 🔄 JSON Parsing (4)
+### 👨‍💻 Development (11) / 🔄 JSON Parsing (4)
 
-*   [j2s (⭐232)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
+*   [j2s (⭐233)](https://github.com/zadr/j2s) - macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable).
 
     <details>
     <summary>More</summary>
@@ -5110,7 +5580,7 @@
 
     </p>
     </details>
-*   [JSON to Model class (⭐98)](https://github.com/chanonly123/Json-Model-Generator) - Template based highly customizable macOS app to generate classes from JSON string, supports many languages.
+*   [JSON to Model class (⭐97)](https://github.com/chanonly123/Json-Model-Generator) - Template based highly customizable macOS app to generate classes from JSON string, supports many languages.
 
     <details>
     <summary>More</summary>
@@ -5143,7 +5613,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9) / 🔧 Other Development (5)
+### 👨‍💻 Development (11) / 🔧 Other Development (5)
 
 *   [ChefInspector (⭐10)](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef
 
@@ -5161,7 +5631,7 @@
 
     </p>
     </details>
-*   [macho-browser (⭐128)](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.
+*   [macho-browser (⭐129)](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.
 
     <details>
     <summary>More</summary>
@@ -5196,7 +5666,7 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9) / 🌍 Web Development (15)
+### 👨‍💻 Development (11) / 🌍 Web Development (15)
 
 *   [aws-s3-uploader (⭐142)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services.
 
@@ -5246,7 +5716,7 @@
 
     </p>
     </details>
-*   [HTTP Toolkit (⭐686)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
+*   [HTTP Toolkit (⭐699)](https://github.com/httptoolkit/httptoolkit-desktop) - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
 
     <details>
     <summary>More</summary>
@@ -5296,7 +5766,7 @@
 
     </p>
     </details>
-*   [KubeMonitor (⭐128)](https://github.com/Daniel-Sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.
+*   [KubeMonitor (⭐129)](https://github.com/Daniel-Sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar.
 
     <details>
     <summary>More</summary>
@@ -5328,7 +5798,7 @@
 
     </p>
     </details>
-*   [Lantern (⭐244)](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.
+*   [Lantern (⭐243)](https://github.com/RoyalIcing/Lantern) - Dedicated Mac app for website auditing and crawling.
 
     <details>
     <summary>More</summary>
@@ -5340,7 +5810,7 @@
 
     </p>
     </details>
-*   [LocalSites (⭐82)](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).
+*   [LocalSites (⭐83)](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).
 
     <details>
     <summary>More</summary>
@@ -5368,7 +5838,7 @@
 
     </p>
     </details>
-*   [nodeScratchpad (⭐111)](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar.
+*   [nodeScratchpad (⭐112)](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs/JS code snippets from Menubar.
 
     <details>
     <summary>More</summary>
@@ -5380,7 +5850,7 @@
 
     </p>
     </details>
-*   [SimpleLocalize CLI (⭐67)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+*   [SimpleLocalize CLI (⭐72)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
     <details>
     <summary>More</summary>
@@ -5394,7 +5864,7 @@
 
     </p>
     </details>
-*   [stts (⭐554)](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
+*   [stts (⭐556)](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
 
     <details>
     <summary>More</summary>
@@ -5411,9 +5881,9 @@
     </p>
     </details>
 
-### 👨‍💻 Development (9) / 📱 iOS / macOS (41)
+### 👨‍💻 Development (11) / 📱 iOS / macOS (42)
 
-*   [AppBox (⭐669)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
+*   [AppBox (⭐683)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.
 
     <details>
     <summary>More</summary>
@@ -5433,7 +5903,7 @@
 
     </p>
     </details>
-*   [AppIcons (⭐286)](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.
+*   [AppIcons (⭐289)](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.
 
     <details>
     <summary>More</summary>
@@ -5446,18 +5916,6 @@
     **Screenshots:**
 
     <img src='https://raw.githubusercontent.com/kuyawa/Gallery/master/AppIcons/appicons.png' width='400' loading='lazy'/>
-
-    </p>
-    </details>
-*   [AppleTrace (⭐822)](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/>
-
-    **Links:** <a href='https://github.com/everettjf/AppleTrace/releases/latest'><img src='https://img.shields.io/github/v/release/everettjf/AppleTrace?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/everettjf/AppleTrace'><img src='https://img.shields.io/github/stars/everettjf/AppleTrace?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/everettjf/AppleTrace' alt='License'/>
 
     </p>
     </details>
@@ -5479,7 +5937,7 @@
 
     </p>
     </details>
-*   [Asset Catalog Tinkerer (⭐2.7k)](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images.
+*   [Asset Catalog Tinkerer (⭐2.8k)](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images.
 
     <details>
     <summary>More</summary>
@@ -5531,7 +5989,7 @@
 
     </p>
     </details>
-*   [AVXCAssets Generator (⭐349)](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.
+*   [AVXCAssets Generator (⭐350)](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.
 
     <details>
     <summary>More</summary>
@@ -5543,7 +6001,7 @@
 
     </p>
     </details>
-*   [Board For GitHub (⭐79)](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!
+*   [Board For GitHub (⭐78)](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!
 
     <details>
     <summary>More</summary>
@@ -5563,7 +6021,7 @@
 
     </p>
     </details>
-*   [Brisk (⭐675)](https://github.com/br1sk/brisk) - macOS app for submitting radars.
+*   [Brisk (⭐676)](https://github.com/br1sk/brisk) - macOS app for submitting radars.
 
     <details>
     <summary>More</summary>
@@ -5657,7 +6115,7 @@
 
     </p>
     </details>
-*   [FilterShop (⭐99)](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters.
+*   [FilterShop (⭐100)](https://github.com/KrisYu/FilterShop) - macOS App to explore CoreImage Filters.
 
     <details>
     <summary>More</summary>
@@ -5691,7 +6149,7 @@
 
     </p>
     </details>
-*   [Iconizer (⭐893)](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
+*   [Iconizer (⭐888)](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.
 
     <details>
     <summary>More</summary>
@@ -5707,7 +6165,7 @@
 
     </p>
     </details>
-*   [Icons.app (⭐538)](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
+*   [Icons.app (⭐571)](https://github.com/SAP/macos-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
 
     <details>
     <summary>More</summary>
@@ -5719,7 +6177,7 @@
 
     </p>
     </details>
-*   [InjectionIII (⭐4.5k)](https://github.com/johnno1962/InjectionIII) - overdue Swift rewrite of Injection.
+*   [InjectionIII (⭐4.6k)](https://github.com/johnno1962/InjectionIII) - overdue Swift rewrite of Injection.
 
     <details>
     <summary>More</summary>
@@ -5777,7 +6235,7 @@
 
     </p>
     </details>
-*   [LayerX (⭐187)](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen.
+*   [LayerX (⭐190)](https://github.com/yuhua-chen/LayerX) - Intuitive app to display transparent images on screen.
 
     <details>
     <summary>More</summary>
@@ -5817,7 +6275,7 @@
 
     </p>
     </details>
-*   [Localizations (⭐128)](https://github.com/e7711bbear/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings).
+*   [Localizations (⭐129)](https://github.com/e7711bbear/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings).
 
     <details>
     <summary>More</summary>
@@ -5829,7 +6287,7 @@
 
     </p>
     </details>
-*   [Menubar Colors (⭐189)](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.
+*   [Menubar Colors (⭐188)](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.
 
     <details>
     <summary>More</summary>
@@ -5845,7 +6303,7 @@
 
     </p>
     </details>
-*   [Notarize (⭐119)](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts
+*   [Notarize (⭐121)](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts
 
     <details>
     <summary>More</summary>
@@ -5861,7 +6319,7 @@
 
     </p>
     </details>
-*   [PodsUpdater (⭐530)](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.
+*   [PodsUpdater (⭐528)](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.
 
     <details>
     <summary>More</summary>
@@ -5879,7 +6337,7 @@
 
     </p>
     </details>
-*   [ProfilesManager (⭐611)](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac.
+*   [ProfilesManager (⭐612)](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac.
 
     <details>
     <summary>More</summary>
@@ -5917,7 +6375,7 @@
 
     </p>
     </details>
-*   [ResignTool (⭐416)](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+*   [ResignTool (⭐419)](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
     <details>
     <summary>More</summary>
@@ -6007,7 +6465,7 @@
 
     </p>
     </details>
-*   [Xcodes.app (⭐8.1k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐8.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
     <details>
     <summary>More</summary>
@@ -6036,9 +6494,9 @@
     </p>
     </details>
 
-### 🖼️ Images (17) / ✏️ Text (11)
+### 🖼️ Images (17) / ✏️ Text (12)
 
-*   [Iconology (⭐151)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
+*   [Iconology (⭐154)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
 
     <details>
     <summary>More</summary>
@@ -6072,7 +6530,7 @@
 
     </p>
     </details>
-*   [APNGb (⭐325)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.
+*   [APNGb (⭐322)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.
 
     <details>
     <summary>More</summary>
@@ -6118,7 +6576,7 @@
 
     </p>
     </details>
-*   [Flameshot (⭐28k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
+*   [Flameshot (⭐29k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
 
     <details>
     <summary>More</summary>
@@ -6152,7 +6610,7 @@
 
     </p>
     </details>
-*   [Gimp (⭐5.8k)](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program.
+*   [Gimp (⭐6k)](https://github.com/GNOME/gimp) - Gimp is GNU Image Manipulation Program.
 
     <details>
     <summary>More</summary>
@@ -6164,7 +6622,7 @@
 
     </p>
     </details>
-*   [ImageAlpha (⭐478)](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
+*   [ImageAlpha (⭐481)](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer.
 
     <details>
     <summary>More</summary>
@@ -6180,7 +6638,7 @@
 
     </p>
     </details>
-*   [Imagine (⭐4.2k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
+*   [Imagine (⭐4.3k)](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 
     <details>
     <summary>More</summary>
@@ -6208,7 +6666,7 @@
 
     </p>
     </details>
-*   [Katana (⭐364)](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar.
+*   [Katana (⭐366)](https://github.com/bluegill/katana) - Katana is a simple screenshot utility for macOS that lives in your menubar.
 
     <details>
     <summary>More</summary>
@@ -6220,7 +6678,7 @@
 
     </p>
     </details>
-*   [PhotoMiner (⭐129)](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.
+*   [PhotoMiner (⭐130)](https://github.com/gergelysanta/photominer) - macOS app for finding and lost forgotten photos on your disks.
 
     <details>
     <summary>More</summary>
@@ -6242,7 +6700,7 @@
 
     </p>
     </details>
-*   [Screenbar (⭐123)](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots.
+*   [Screenbar (⭐124)](https://github.com/crilleengvall/Screenbar) - macOS menubar app for automating screenshots.
 
     <details>
     <summary>More</summary>
@@ -6258,7 +6716,7 @@
 
     </p>
     </details>
-*   [Seashore (⭐521)](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
+*   [Seashore (⭐528)](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
 
     <details>
     <summary>More</summary>
@@ -6287,9 +6745,9 @@
     </p>
     </details>
 
-### ⬇️ Downloader (7) / 📱 iOS / macOS (41)
+### ⬇️ Downloader (8) / 📱 iOS / macOS (42)
 
-*   [App Downloader (⭐377)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
+*   [App Downloader (⭐387)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog.
 
     <details>
     <summary>More</summary>
@@ -6301,7 +6759,7 @@
 
     </p>
     </details>
-*   [Extream Download Manager (⭐7.5k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%
+*   [Extream Download Manager (⭐7.6k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500%
 
     <details>
     <summary>More</summary>
@@ -6315,7 +6773,7 @@
 
     </p>
     </details>
-*   [Get It (⭐591)](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
+*   [Get It (⭐594)](https://github.com/Kevin-De-Koninck/Get-It) - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
 
     <details>
     <summary>More</summary>
@@ -6327,7 +6785,7 @@
 
     </p>
     </details>
-*   [Motrix (⭐50k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [Motrix (⭐51k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
     <details>
     <summary>More</summary>
@@ -6369,7 +6827,7 @@
 
     </p>
     </details>
-*   [udemy-downloader-gui (⭐6.2k)](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
+*   [udemy-downloader-gui (⭐6.3k)](https://github.com/FaisalUmair/udemy-downloader-gui) - desktop application for downloading Udemy Courses.
 
     <details>
     <summary>More</summary>
@@ -6381,7 +6839,7 @@
 
     </p>
     </details>
-*   [YouTube Downloader for macOS (⭐586)](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.
+*   [YouTube Downloader for macOS (⭐590)](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS.
 
     <details>
     <summary>More</summary>
@@ -6398,9 +6856,9 @@
     </p>
     </details>
 
-### 📝 Editors (4) / 📱 iOS / macOS (41)
+### 📝 Editors (6) / 📱 iOS / macOS (42)
 
-*   [Chime (⭐439)](https://github.com/ChimeHQ/Chime) - An editor for macOS
+*   [Chime (⭐456)](https://github.com/ChimeHQ/Chime) - An editor for macOS
 
     <details>
     <summary>More</summary>
@@ -6419,7 +6877,7 @@
     </p>
     </details>
 
-### 📝 Editors (4) / 📊 CSV (1)
+### 📝 Editors (6) / 📊 CSV (1)
 
 *   [TableTool (⭐1.4k)](https://github.com/jakob/TableTool) - simple CSV editor for the macOS.
 
@@ -6434,9 +6892,9 @@
     </p>
     </details>
 
-### 📝 Editors (4) / 📋 JSON (2)
+### 📝 Editors (6) / 📋 JSON (2)
 
-*   [JSON Editor (⭐66)](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor
+*   [JSON Editor (⭐67)](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor
 
     <details>
     <summary>More</summary>
@@ -6471,9 +6929,9 @@
     </p>
     </details>
 
-### 📝 Editors (4) / 📝 Markdown (10)
+### 📝 Editors (6) / 📝 Markdown (11)
 
-*   [Gingko (⭐388)](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.
+*   [Gingko (⭐394)](https://github.com/gingko/client) - Tree-structured markdown editor for macOS, Windows, and Linux.
 
     <details>
     <summary>More</summary>
@@ -6489,7 +6947,7 @@
 
     </p>
     </details>
-*   [MacDown (⭐9.6k)](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.
+*   [MacDown (⭐9.7k)](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.
 
     <details>
     <summary>More</summary>
@@ -6501,7 +6959,7 @@
 
     </p>
     </details>
-*   [Mark Text (⭐52k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
+*   [Mark Text (⭐54k)](https://github.com/marktext/marktext/) - Realtime preview markdown editor for macOS Windows and Linux.
 
     <details>
     <summary>More</summary>
@@ -6513,7 +6971,7 @@
 
     </p>
     </details>
-*   [MarkEdit (⭐3k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
+*   [MarkEdit (⭐3.7k)](https://github.com/MarkEdit-app/MarkEdit) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
     <details>
     <summary>More</summary>
@@ -6535,7 +6993,7 @@
 
     </p>
     </details>
-*   [Obsidian plugins & themes (⭐14k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+*   [Obsidian plugins & themes (⭐15k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
     <details>
     <summary>More</summary>
@@ -6573,7 +7031,7 @@
 
     </p>
     </details>
-*   [Zettlr (⭐12k)](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+*   [Zettlr (⭐13k)](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 
     <details>
     <summary>More</summary>
@@ -6592,7 +7050,7 @@
     </p>
     </details>
 
-### 📔 Notes (16) / ✏️ Text (11)
+### 📔 Notes (17) / ✏️ Text (12)
 
 *   [Notenik (⭐106)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
@@ -6658,7 +7116,7 @@
 
     </p>
     </details>
-*   [FSNotes (⭐7.1k)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
+*   [FSNotes (⭐7.2k)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
 
     <details>
     <summary>More</summary>
@@ -6676,7 +7134,7 @@
 
     </p>
     </details>
-*   [joplin (⭐52k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+*   [joplin (⭐53k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
     <details>
     <summary>More</summary>
@@ -6688,7 +7146,7 @@
 
     </p>
     </details>
-*   [Jupyter Notebook Viewer (⭐777)](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.
+*   [Jupyter Notebook Viewer (⭐778)](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.
 
     <details>
     <summary>More</summary>
@@ -6700,7 +7158,7 @@
 
     </p>
     </details>
-*   [notable (⭐189)](https://github.com/jmcfarlane/notable) - Simple note taking application.
+*   [notable (⭐188)](https://github.com/jmcfarlane/notable) - Simple note taking application.
 
     <details>
     <summary>More</summary>
@@ -6734,7 +7192,7 @@
 
     </p>
     </details>
-*   [NoteTaker (⭐176)](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
+*   [NoteTaker (⭐177)](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.
 
     <details>
     <summary>More</summary>
@@ -6766,7 +7224,7 @@
 
     </p>
     </details>
-*   [Standard Notes (⭐6.1k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work.
+*   [Standard Notes (⭐6.3k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work.
 
     <details>
     <summary>More</summary>
@@ -6778,7 +7236,7 @@
 
     </p>
     </details>
-*   [tmpNote (⭐92)](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes.
+*   [tmpNote (⭐93)](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes.
 
     <details>
     <summary>More</summary>
@@ -6807,9 +7265,9 @@
     </p>
     </details>
 
-### 📝 Editors (4) / 📐 TeX (1)
+### 📝 Editors (6) / 📐 TeX (1)
 
-*   [Qilin Editor (⭐442)](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
+*   [Qilin Editor (⭐439)](https://github.com/qilin-editor/qilin-app) - Text editor for exact sciences with built-in KaTeX/AsciiMath support.
 
     <details>
     <summary>More</summary>
@@ -6830,9 +7288,9 @@
     </p>
     </details>
 
-### 📝 Editors (4) / ✏️ Text (11)
+### 📝 Editors (6) / ✏️ Text (12)
 
-*   [CotEditor (⭐7.4k)](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.
+*   [CotEditor (⭐7.6k)](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS.
 
     <details>
     <summary>More</summary>
@@ -6848,7 +7306,7 @@
 
     </p>
     </details>
-*   [MacVim (⭐7.7k)](https://github.com/macvim-dev/macvim) - Text editor for macOS.
+*   [MacVim (⭐7.8k)](https://github.com/macvim-dev/macvim) - Text editor for macOS.
 
     <details>
     <summary>More</summary>
@@ -6860,7 +7318,7 @@
 
     </p>
     </details>
-*   [micro (⭐27k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
+*   [micro (⭐28k)](https://github.com/zyedidia/micro) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
 
     <details>
     <summary>More</summary>
@@ -6884,7 +7342,7 @@
 
     </p>
     </details>
-*   [Noto (⭐293)](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.
+*   [Noto (⭐294)](https://github.com/brunophilipe/noto) - Plain text editor for macOS with customizable themes.
 
     <details>
     <summary>More</summary>
@@ -6963,7 +7421,7 @@
     </p>
     </details>
 
-### 🧩 Extensions (13) / ✏️ Text (11)
+### 🧩 Extensions (13) / ✏️ Text (12)
 
 *   [AdGuard for Safari (⭐1.2k)](https://github.com/adguardteam/adguardforsafari) - The most advanced ad blocking extension for Safari
 
@@ -7017,7 +7475,7 @@
 
     </p>
     </details>
-*   [nef (⭐201)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐202)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
     <details>
     <summary>More</summary>
@@ -7037,7 +7495,7 @@
 
     </p>
     </details>
-*   [PageExtender (⭐153)](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files.
+*   [PageExtender (⭐156)](https://github.com/fphilipe/PageExtender.app) - Extend pages with your own CSS and JS files.
 
     <details>
     <summary>More</summary>
@@ -7053,7 +7511,7 @@
 
     </p>
     </details>
-*   [PiPifier (⭐793)](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
+*   [PiPifier (⭐795)](https://github.com/arnoappenzeller/PiPifier) - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
 
     <details>
     <summary>More</summary>
@@ -7104,7 +7562,7 @@
     </p>
     </details>
 
-### 📺 Terminal (13) / ✏️ Text (11)
+### 📺 Terminal (13) / ✏️ Text (12)
 
 *   [cd to...  (⭐2.4k)](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
@@ -7130,7 +7588,7 @@
 
     </p>
     </details>
-*   [OpenInTerminal (⭐6.5k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+*   [OpenInTerminal (⭐6.7k)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
     <details>
     <summary>More</summary>
@@ -7148,7 +7606,7 @@
 
     </p>
     </details>
-*   [Alacritty (⭐61k)](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+*   [Alacritty (⭐62k)](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 
     <details>
     <summary>More</summary>
@@ -7164,7 +7622,7 @@
 
     </p>
     </details>
-*   [Bifrost (⭐83)](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
+*   [Bifrost (⭐84)](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).
 
     <details>
     <summary>More</summary>
@@ -7176,7 +7634,7 @@
 
     </p>
     </details>
-*   [Console (⭐423)](https://github.com/macmade/Console) - macOS console application.
+*   [Console (⭐427)](https://github.com/macmade/Console) - macOS console application.
 
     <details>
     <summary>More</summary>
@@ -7220,7 +7678,7 @@
 
     </p>
     </details>
-*   [Kitty (⭐30k)](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
+*   [Kitty (⭐31k)](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
 
     <details>
     <summary>More</summary>
@@ -7257,9 +7715,9 @@
     </p>
     </details>
 
-### 🔍 Finder (11) / ✏️ Text (11)
+### 🔍 Finder (11) / ✏️ Text (12)
 
-*   [Clipy (⭐8.3k)](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
+*   [Clipy (⭐8.4k)](https://github.com/Clipy/Clipy) - Clipy is a Clipboard extension app for macOS.
 
     <details>
     <summary>More</summary>
@@ -7289,7 +7747,7 @@
 
     </p>
     </details>
-*   [FiScript (⭐517)](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+*   [FiScript (⭐522)](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 
     <details>
     <summary>More</summary>
@@ -7323,7 +7781,7 @@
 
     </p>
     </details>
-*   [Quick Look plugins (⭐18k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers.
+*   [Quick Look plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers.
 
     <details>
     <summary>More</summary>
@@ -7346,7 +7804,7 @@
     </p>
     </details>
 
-### 🎮 Games (11) / ✏️ Text (11)
+### 🎮 Games (11) / ✏️ Text (12)
 
 *   [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
@@ -7366,7 +7824,7 @@
 
     </p>
     </details>
-*   [Battle for Wesnoth (⭐6.3k)](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
+*   [Battle for Wesnoth (⭐6.4k)](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
 
     <details>
     <summary>More</summary>
@@ -7378,7 +7836,7 @@
 
     </p>
     </details>
-*   [Boxer (⭐782)](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac.
+*   [Boxer (⭐785)](https://github.com/alunbestor/Boxer) - The DOS game emulator that’s fit for your Mac.
 
     <details>
     <summary>More</summary>
@@ -7406,7 +7864,7 @@
 
     </p>
     </details>
-*   [Dolphin (⭐14k)](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games.
+*   [Dolphin (⭐15k)](https://github.com/dolphin-emu/dolphin) - Powerful emulator for Nintendo GameCube and Wii games.
 
     <details>
     <summary>More</summary>
@@ -7418,7 +7876,7 @@
 
     </p>
     </details>
-*   [Dynamic Dark Mode (⭐514)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.
+*   [Dynamic Dark Mode (⭐516)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.
 
     <details>
     <summary>More</summary>
@@ -7484,7 +7942,7 @@
 
     </p>
     </details>
-*   [Stockfish (⭐525)](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
+*   [Stockfish (⭐528)](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess application.
 
     <details>
     <summary>More</summary>
@@ -7496,7 +7954,7 @@
 
     </p>
     </details>
-*   [Widelands (⭐2.1k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+*   [Widelands (⭐2.2k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
     <details>
     <summary>More</summary>
@@ -7515,9 +7973,9 @@
     </p>
     </details>
 
-### 🏥 Medical (1) / ✏️ Text (11)
+### 🏥 Medical (1) / ✏️ Text (12)
 
-*   [InVesalius (⭐743)](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software
+*   [InVesalius (⭐759)](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software
 
     <details>
     <summary>More</summary>
@@ -7538,7 +7996,7 @@
     </p>
     </details>
 
-### ⌨️ Keyboard (9) / ✏️ Text (11)
+### ⌨️ Keyboard (10) / ✏️ Text (12)
 
 *   [AnnePro-mac (⭐132)](https://github.com/msvisser/AnnePro-mac) - macOS application for controlling AnnePro keyboard over bluetooth.
 
@@ -7552,7 +8010,7 @@
 
     </p>
     </details>
-*   [Fluor (⭐2k)](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.
+*   [Fluor (⭐2.1k)](https://github.com/Pyroh/Fluor) - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 
     <details>
     <summary>More</summary>
@@ -7618,7 +8076,7 @@
 
     </p>
     </details>
-*   [Keycastr (⭐14k)](https://github.com/keycastr/keycastr) - Keystroke visualizer.
+*   [Keycastr (⭐15k)](https://github.com/keycastr/keycastr) - Keystroke visualizer.
 
     <details>
     <summary>More</summary>
@@ -7673,9 +8131,9 @@
     </p>
     </details>
 
-### 📊 Menubar (40) / ✏️ Text (11)
+### 📊 Menubar (46) / ✏️ Text (12)
 
-*   [Airpass (⭐593)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
+*   [Airpass (⭐589)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 
     <details>
     <summary>More</summary>
@@ -7687,7 +8145,7 @@
 
     </p>
     </details>
-*   [Akku (⭐609)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app.
+*   [Akku (⭐608)](https://github.com/jariz/Akku) - The missing macOS bluetooth headset battery indicator app.
 
     <details>
     <summary>More</summary>
@@ -7715,7 +8173,7 @@
 
     </p>
     </details>
-*   [BarTranslate (⭐216)](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate.
+*   [BarTranslate (⭐226)](https://github.com/ThijmenDam/BarTranslate) - A handy menu bar translator app that supports DeepL and Google Translate.
 
     <details>
     <summary>More</summary>
@@ -7761,7 +8219,7 @@
 
     </p>
     </details>
-*   [DisplayMenu (⭐50)](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.
+*   [DisplayMenu (⭐49)](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.
 
     <details>
     <summary>More</summary>
@@ -7789,7 +8247,7 @@
 
     </p>
     </details>
-*   [gSwitch (⭐915)](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.
+*   [gSwitch (⭐920)](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.
 
     <details>
     <summary>More</summary>
@@ -7829,7 +8287,7 @@
 
     </p>
     </details>
-*   [KubeContext (⭐424)](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.
+*   [KubeContext (⭐425)](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac.
 
     <details>
     <summary>More</summary>
@@ -7865,7 +8323,7 @@
 
     </p>
     </details>
-*   [Market Bar (⭐28)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar.
+*   [Market Bar (⭐29)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar.
 
     <details>
     <summary>More</summary>
@@ -7901,7 +8359,7 @@
 
     </p>
     </details>
-*   [MiniSim (⭐2.2k)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
+*   [MiniSim (⭐2.3k)](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
 
     <details>
     <summary>More</summary>
@@ -7919,7 +8377,7 @@
 
     </p>
     </details>
-*   [Monitor Bar (⭐76)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.
+*   [Monitor Bar (⭐75)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi.
 
     <details>
     <summary>More</summary>
@@ -7947,7 +8405,7 @@
 
     </p>
     </details>
-*   [Pi Stats (⭐399)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
+*   [Pi Stats (⭐404)](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
 
     <details>
     <summary>More</summary>
@@ -7991,7 +8449,7 @@
 
     </p>
     </details>
-*   [SensibleSideButtons (⭐2k)](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
+*   [SensibleSideButtons (⭐2.1k)](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
 
     <details>
     <summary>More</summary>
@@ -8019,7 +8477,7 @@
 
     </p>
     </details>
-*   [SwiftBar (⭐3.6k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
+*   [SwiftBar (⭐3.7k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 
     <details>
     <summary>More</summary>
@@ -8046,7 +8504,7 @@
     </p>
     </details>
 
-### 📰 News (6) / ✏️ Text (11)
+### 📰 News (6) / ✏️ Text (12)
 
 *   [Diurna (⭐105)](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 
@@ -8080,7 +8538,7 @@
 
     </p>
     </details>
-*   [NetNewsWire (⭐9.3k)](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.
+*   [NetNewsWire (⭐9.6k)](https://github.com/Ranchero-Software/NetNewsWire) - Feed reader for macOS.
 
     <details>
     <summary>More</summary>
@@ -8105,9 +8563,9 @@
     </p>
     </details>
 
-### 🎙️ Podcast (7) / ✏️ Text (11)
+### 🎙️ Podcast (7) / ✏️ Text (12)
 
-*   [Winds (⭐9.3k)](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+*   [Winds (⭐9.4k)](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
     <details>
     <summary>More</summary>
@@ -8131,7 +8589,7 @@
 
     </p>
     </details>
-*   [Cumulonimbus (⭐760)](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.
+*   [Cumulonimbus (⭐764)](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.
 
     <details>
     <summary>More</summary>
@@ -8147,7 +8605,7 @@
 
     </p>
     </details>
-*   [Doughnut (⭐232)](https://github.com/dyerc/Doughnut) - Podcast player and library for mac
+*   [Doughnut (⭐238)](https://github.com/dyerc/Doughnut) - Podcast player and library for mac
 
     <details>
     <summary>More</summary>
@@ -8222,7 +8680,7 @@
     </p>
     </details>
 
-### 📦 Other (22) / ✏️ Text (11)
+### 📦 Other (22) / ✏️ Text (12)
 
 *   [Cakebrew (⭐5k)](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 
@@ -8240,7 +8698,7 @@
 
     </p>
     </details>
-*   [ChipMunk (⭐690)](https://github.com/esrlabs/chipmunk) - Log analysis tool.
+*   [ChipMunk (⭐700)](https://github.com/esrlabs/chipmunk) - Log analysis tool.
 
     <details>
     <summary>More</summary>
@@ -8256,7 +8714,7 @@
 
     </p>
     </details>
-*   [DevDocs for macOS (⭐473)](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.
+*   [DevDocs for macOS (⭐478)](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API documentation viewer.
 
     <details>
     <summary>More</summary>
@@ -8296,7 +8754,7 @@
 
     </p>
     </details>
-*   [ImageOptim (⭐9.6k)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
+*   [ImageOptim (⭐9.7k)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac.
 
     <details>
     <summary>More</summary>
@@ -8382,7 +8840,7 @@
 
     </p>
     </details>
-*   [QorumLogs (⭐785)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
+*   [QorumLogs (⭐783)](https://github.com/Esqarrouth/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
 
     <details>
     <summary>More</summary>
@@ -8410,7 +8868,7 @@
 
     </p>
     </details>
-*   [Reactotron (⭐15k)](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+*   [Reactotron (⭐16k)](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 
     <details>
     <summary>More</summary>
@@ -8480,7 +8938,7 @@
 
     </p>
     </details>
-*   [syncthing-macosx (⭐3.3k)](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.
+*   [syncthing-macosx (⭐3.5k)](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.
 
     <details>
     <summary>More</summary>
@@ -8525,9 +8983,9 @@
     </p>
     </details>
 
-### ▶️ Player (6) / ✏️ Text (11)
+### ▶️ Player (6) / ✏️ Text (12)
 
-*   [IINA (⭐43k)](https://github.com/iina/iina) - The modern video player for macOS.
+*   [IINA (⭐44k)](https://github.com/iina/iina) - The modern video player for macOS.
 
     <details>
     <summary>More</summary>
@@ -8588,7 +9046,7 @@
     </p>
     </details>
 
-### 🌙 Screensaver (10) / ✏️ Text (11)
+### 🌙 Screensaver (10) / ✏️ Text (12)
 
 *   [Aerial (⭐21k)](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.
 
@@ -8630,7 +9088,7 @@
 
     </p>
     </details>
-*   [Epoch Flip Clock Screensaver (⭐233)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver) - Unix epoch timestamp flip clock screensaver.
+*   [Epoch Flip Clock Screensaver (⭐235)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver) - Unix epoch timestamp flip clock screensaver.
 
     <details>
     <summary>More</summary>
@@ -8658,7 +9116,7 @@
 
     </p>
     </details>
-*   [Irvue (⭐261)](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS.
+*   [Irvue (⭐260)](https://github.com/leonspok/Irvue-Screensaver) - Screensaver for macOS.
 
     <details>
     <summary>More</summary>
@@ -8678,7 +9136,7 @@
 
     </p>
     </details>
-*   [Life Saver (⭐225)](https://github.com/amiantos/lifesaver) - An abstract screensaver based on Conway's Game of Life implemented with SpriteKit
+*   [Life Saver (⭐227)](https://github.com/amiantos/lifesaver) - An abstract screensaver based on Conway's Game of Life implemented with SpriteKit
 
     <details>
     <summary>More</summary>
@@ -8698,7 +9156,7 @@
 
     </p>
     </details>
-*   [MinimalClock (⭐127)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time.
+*   [MinimalClock (⭐128)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time.
 
     <details>
     <summary>More</summary>
@@ -8716,7 +9174,7 @@
 
     </p>
     </details>
-*   [MusaicFM (⭐338)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm
+*   [MusaicFM (⭐343)](https://github.com/obrhoff/MusaicFM) - iTunes Screensaver Clone for Spotify and Last.fm
 
     <details>
     <summary>More</summary>
@@ -8750,7 +9208,7 @@
 
     </p>
     </details>
-*   [The GitHub Matrix Screensaver (⭐589)](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.
+*   [The GitHub Matrix Screensaver (⭐591)](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.
 
     <details>
     <summary>More</summary>
@@ -8769,9 +9227,9 @@
     </p>
     </details>
 
-### 📤 Sharing Files (9) / ✏️ Text (11)
+### 📤 Sharing Files (9) / ✏️ Text (12)
 
-*   [Cyberduck (⭐4.1k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+*   [Cyberduck (⭐4.2k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
     <details>
     <summary>More</summary>
@@ -8815,7 +9273,7 @@
 
     </p>
     </details>
-*   [NitroShare (⭐1.6k)](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another
+*   [NitroShare (⭐1.7k)](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another
 
     <details>
     <summary>More</summary>
@@ -8829,7 +9287,7 @@
 
     </p>
     </details>
-*   [qBittorrent (⭐34k)](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt.
+*   [qBittorrent (⭐35k)](https://github.com/qbittorrent/qBittorrent) - BitTorrent client in Qt.
 
     <details>
     <summary>More</summary>
@@ -8853,7 +9311,7 @@
 
     </p>
     </details>
-*   [Soduto (⭐406)](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
+*   [Soduto (⭐421)](https://github.com/soduto/Soduto) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
 
     <details>
     <summary>More</summary>
@@ -8879,7 +9337,7 @@
 
     </p>
     </details>
-*   [Tribler (⭐5.1k)](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
+*   [Tribler (⭐5.2k)](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
 
     <details>
     <summary>More</summary>
@@ -8892,9 +9350,9 @@
     </p>
     </details>
 
-### 👥 Social Networking (9) / ✏️ Text (11)
+### 👥 Social Networking (9) / ✏️ Text (12)
 
-*   [Caprine (⭐7.2k)](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
+*   [Caprine (⭐7.3k)](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
 
     <details>
     <summary>More</summary>
@@ -8906,7 +9364,7 @@
 
     </p>
     </details>
-*   [Goofy (⭐955)](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
+*   [Goofy (⭐976)](https://github.com/danielbuechele/goofy) - Unofficial Facebook Messenger client.
 
     <details>
     <summary>More</summary>
@@ -9021,9 +9479,9 @@
     </p>
     </details>
 
-### ⚙️ System (23) / ✏️ Text (11)
+### ⚙️ System (23) / ✏️ Text (12)
 
-*   [Apple Juice (⭐519)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
+*   [Apple Juice (⭐523)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
 
     <details>
     <summary>More</summary>
@@ -9065,7 +9523,7 @@
 
     </p>
     </details>
-*   [Clean-Me (⭐1.8k)](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...).
+*   [Clean-Me (⭐1.9k)](https://github.com/Kevin-De-Koninck/Clean-Me) - Small macOS app that acts as a system cleaner (logs, cache, ...).
 
     <details>
     <summary>More</summary>
@@ -9083,7 +9541,7 @@
 
     </p>
     </details>
-*   [Diagnostics (⭐207)](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
+*   [Diagnostics (⭐211)](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 
     <details>
     <summary>More</summary>
@@ -9127,7 +9585,7 @@
 
     </p>
     </details>
-*   [HoRNDIS (⭐3.2k)](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS.
+*   [HoRNDIS (⭐3.3k)](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS.
 
     <details>
     <summary>More</summary>
@@ -9139,7 +9597,7 @@
 
     </p>
     </details>
-*   [Juice (⭐767)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
+*   [Juice (⭐768)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
 
     <details>
     <summary>More</summary>
@@ -9157,7 +9615,7 @@
 
     </p>
     </details>
-*   [KeepingYouAwake (⭐6.1k)](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+*   [KeepingYouAwake (⭐6.2k)](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 
     <details>
     <summary>More</summary>
@@ -9173,7 +9631,7 @@
 
     </p>
     </details>
-*   [Latest (⭐4.2k)](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+*   [Latest (⭐4.4k)](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 
     <details>
     <summary>More</summary>
@@ -9189,7 +9647,7 @@
 
     </p>
     </details>
-*   [Loading (⭐616)](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS.
+*   [Loading (⭐619)](https://github.com/BonzaiThePenguin/Loading) - Simple network activity monitor for macOS.
 
     <details>
     <summary>More</summary>
@@ -9205,7 +9663,7 @@
 
     </p>
     </details>
-*   [macOSLucidaGrande (⭐239)](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font.
+*   [macOSLucidaGrande (⭐238)](https://github.com/LumingYin/macOSLucidaGrande) - A small utility to set Lucida Grande as your Mac's system UI font.
 
     <details>
     <summary>More</summary>
@@ -9215,7 +9673,7 @@
 
     **Links:** <a href='https://github.com/LumingYin/macOSLucidaGrande/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/macOSLucidaGrande?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LumingYin/macOSLucidaGrande'><img src='https://img.shields.io/github/stars/LumingYin/macOSLucidaGrande?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/LumingYin/macOSLucidaGrande' alt='License'/>
 
-    **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases (⭐239)](https://github.com/LumingYin/macOSLucidaGrande/releases)
+    **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases (⭐238)](https://github.com/LumingYin/macOSLucidaGrande/releases)
 
     **Screenshots:**
 
@@ -9223,7 +9681,7 @@
 
     </p>
     </details>
-*   [Overkill (⭐533)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐535)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
     <details>
     <summary>More</summary>
@@ -9235,7 +9693,7 @@
 
     </p>
     </details>
-*   [ProfileCreator (⭐1.4k)](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles.
+*   [ProfileCreator (⭐1.5k)](https://github.com/ProfileCreator/ProfileCreator) - macOS Application to create standard or customized configuration profiles.
 
     <details>
     <summary>More</summary>
@@ -9251,7 +9709,7 @@
 
     </p>
     </details>
-*   [Sloth (⭐8.6k)](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
+*   [Sloth (⭐8.8k)](https://github.com/sveinbjornt/Sloth) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
 
     <details>
     <summary>More</summary>
@@ -9283,7 +9741,7 @@
 
     </p>
     </details>
-*   [VerticalBar (⭐222)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.
+*   [VerticalBar (⭐223)](https://github.com/DeromirNeves/DockSeparator) - macOS application to add a vertical bar to Dock.
 
     <details>
     <summary>More</summary>
@@ -9312,9 +9770,9 @@
     </p>
     </details>
 
-### 🎚️ Touch Bar (6) / ✏️ Text (11)
+### 🎚️ Touch Bar (6) / ✏️ Text (12)
 
-*   [Muse (⭐633)](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
+*   [Muse (⭐635)](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.
 
     <details>
     <summary>More</summary>
@@ -9360,7 +9818,7 @@
 
     </p>
     </details>
-*   [Touch Bar Preview (⭐82)](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.
+*   [Touch Bar Preview (⭐81)](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.
 
     <details>
     <summary>More</summary>
@@ -9384,7 +9842,7 @@
 
     </p>
     </details>
-*   [Touch Emoji (⭐53)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.
+*   [Touch Emoji (⭐55)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.
 
     <details>
     <summary>More</summary>
@@ -9403,7 +9861,7 @@
     </p>
     </details>
 
-### 🔐 VPN & Proxy (6) / ✏️ Text (11)
+### 🔐 VPN & Proxy (7) / ✏️ Text (12)
 
 *   [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.
 
@@ -9441,7 +9899,7 @@
 
     </p>
     </details>
-*   [Specht (⭐817)](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.
+*   [Specht (⭐814)](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.
 
     <details>
     <summary>More</summary>
@@ -9469,7 +9927,7 @@
 
     </p>
     </details>
-*   [Tunnelblick (⭐3.1k)](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
+*   [Tunnelblick (⭐3.2k)](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
 
     <details>
     <summary>More</summary>
@@ -9482,15 +9940,15 @@
     </p>
     </details>
 
-### 🪟 Window Management (12) / ✏️ Text (11)
+### 🪟 Window Management (16) / ✏️ Text (12)
 
-*   [AltTab (⭐14k)](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
+*   [AltTab (⭐15k)](https://github.com/lwouis/alt-tab-macos) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
 
     <details>
     <summary>More</summary>
     <p>
 
-    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
     **Links:** <a href='https://github.com/lwouis/alt-tab-macos/releases/latest'><img src='https://img.shields.io/github/v/release/lwouis/alt-tab-macos?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/lwouis/alt-tab-macos'><img src='https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/lwouis/alt-tab-macos' alt='License'/>
 
@@ -9498,11 +9956,7 @@
 
     **Screenshots:**
 
-    <img src='https://alt-tab-macos.netlify.app/public/demo/1-row.jpg' width='400' loading='lazy'/>
-
-    <img src='https://alt-tab-macos.netlify.app/public/demo/2-rows.jpg' width='400' loading='lazy'/>
-
-    <img src='https://alt-tab-macos.netlify.app/public/demo/windows-theme.jpg' width='400' loading='lazy'/>
+    <img src='https://github.com/lwouis/alt-tab-macos/raw/master/docs/public/demo/frontpage.jpg' width='400' loading='lazy'/>
 
     </p>
     </details>

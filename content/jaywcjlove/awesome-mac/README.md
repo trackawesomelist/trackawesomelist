@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Voice-to-Text / Audio Record and Process
+
+*   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kstonekuan/tambourine-voice/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### Reading and Writing Tools / Ebooks

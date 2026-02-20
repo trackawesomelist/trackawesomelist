@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Extensions
+
+*   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Extensions

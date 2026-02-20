@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Caching
+
+*   [cache (⭐49)](https://github.com/crystal-cache/cache) - A key/value store where pairs can expire after a specified interval
+
+### ORM/ODM Extensions
+
+*   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Data Formats
@@ -413,7 +423,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐204)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐33k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐204)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐34k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -1569,7 +1579,7 @@
 
 ### Machine Learning
 
-*   [crystal-fann (⭐86)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐87)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ## [Sep 15, 2017](/content/2017/09/15/README.md)
 

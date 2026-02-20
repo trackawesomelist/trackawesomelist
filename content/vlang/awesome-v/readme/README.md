@@ -110,6 +110,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [v-terminal-apps (⭐4)](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 *   [vin (⭐9)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 *   [zilch (⭐4)](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
+*   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 
 ### Editors
 

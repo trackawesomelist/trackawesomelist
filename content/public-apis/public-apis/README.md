@@ -2,9 +2,40 @@
 
 A collective list of free APIs
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/public-apis/public-apis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 public-apis/public-apis](https://github.com/public-apis/public-apis) · ⭐ 381K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/public-apis/public-apis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 public-apis/public-apis](https://github.com/public-apis/public-apis) · ⭐ 399K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
+
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+- API: [Zenserp](https://zenserp.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Fast, Accurate Google Search Data Built for Developers
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-a3d63243-081e-4961-a2f0-39c7a9394b8d?action=collection/fork)
+
+
+- API: [Screenshotlayer](https://screenshotlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Capture highly customizable screenshots of any website
+
+  Call this API: [Documentation](https://docs.apilayer.com/screenshotlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
+- API: [Exchangerate Host](https://exchangerate.host/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Real-time current and historical foreign exchange and crypto rates
+
+  Call this API: [Documentation](https://docs.apilayer.com/Exchangerate/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
+- API: [Mailboxlayer](https://mailboxlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Email Validation & Verification JSON API for Developers
+
+  Call this API: [Documentation](https://docs.apilayer.com/mailboxlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -549,7 +580,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [When is next MCU film (⭐215)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
+- API: [When is next MCU film (⭐219)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
 
   Description: Upcoming MCU film information
 
@@ -1567,7 +1598,7 @@ A collective list of free APIs
 
 ### Entertainment
 
-- API: [Corporate Buzz Words (⭐327)](https://github.com/sameerkumar18/corporate-bs-generator-api)
+- API: [Corporate Buzz Words (⭐331)](https://github.com/sameerkumar18/corporate-bs-generator-api)
 
   Description: REST API for Corporate Buzz Words
 
@@ -1581,7 +1612,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [GraphQL Pokemon (⭐176)](https://github.com/favware/graphql-pokemon)
+- API: [GraphQL Pokemon (⭐181)](https://github.com/favware/graphql-pokemon)
 
   Description: GraphQL powered Pokemon API. Supports generations 1 through 8
 
@@ -1716,7 +1747,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Web Series Quotes Generator (⭐22)](https://github.com/yogeshwaran01/web-series-quotes)
+- API: [Web Series Quotes Generator (⭐24)](https://github.com/yogeshwaran01/web-series-quotes)
 
   Description: API generates various Web Series Quote Images
 
@@ -2212,7 +2243,7 @@ A collective list of free APIs
 
 ### Art & Design
 
-- API: [EmojiHub (⭐194)](https://github.com/cheatsnake/emojihub)
+- API: [EmojiHub (⭐203)](https://github.com/cheatsnake/emojihub)
 
   Description: Get emojis by categories and groups
 
@@ -2258,7 +2289,7 @@ A collective list of free APIs
 
 ### Animals
 
-- API: [MeowFacts (⭐503)](https://github.com/wh-iterabb-it/meowfacts)
+- API: [MeowFacts (⭐518)](https://github.com/wh-iterabb-it/meowfacts)
 
   Description: Get random cat facts
 
@@ -3079,7 +3110,7 @@ A collective list of free APIs
 
 ### Books
 
-- API: [PoetryDB (⭐593)](https://github.com/thundercomb/poetrydb#readme)
+- API: [PoetryDB (⭐609)](https://github.com/thundercomb/poetrydb#readme)
 
   Description: Enables you to get instant data from our vast poetry collection
 
@@ -3123,7 +3154,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Gaana (⭐137)](https://github.com/cyberboysumanjay/GaanaAPI)
+- API: [Gaana (⭐144)](https://github.com/cyberboysumanjay/GaanaAPI)
 
   Description: API to retrieve song information from Gaana
 
@@ -3815,7 +3846,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [PokéAPI (GraphQL) (⭐187)](https://github.com/mazipan/graphql-pokeapi)
+- API: [PokéAPI (GraphQL) (⭐188)](https://github.com/mazipan/graphql-pokeapi)
 
   Description: The Unofficial GraphQL for PokeAPI
 
@@ -4236,7 +4267,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [administrative-divisons-db (⭐30)](https://github.com/kamikazechaser/administrative-divisions-db)
+- API: [administrative-divisons-db (⭐32)](https://github.com/kamikazechaser/administrative-divisions-db)
 
   Description: Get all administrative divisions of a country
 
@@ -4703,7 +4734,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Codex (⭐289)](https://github.com/Jaagrav/CodeX)
+- API: [Codex](https://github.com/Jaagrav/CodeX)
 
   Description: Online Compiler for Various Languages
 
@@ -4747,7 +4778,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Sonar (⭐655)](https://github.com/Cgboal/SonarSearch)
+- API: [Sonar (⭐658)](https://github.com/Cgboal/SonarSearch)
 
   Description: Project Sonar DNS Enumeration API
 
@@ -4758,7 +4789,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Wandbox (⭐1.2k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
+- API: [Wandbox (⭐1.3k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
 
   Description: Code compiler supporting 35+ languages mentioned at wandbox.org
 
@@ -6062,7 +6093,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Sakura CardCaptor (⭐64)](https://github.com/JessVel/sakura-card-captor-api)
+- API: [Sakura CardCaptor (⭐63)](https://github.com/JessVel/sakura-card-captor-api)
 
   Description: Sakura CardCaptor Cards Information
 
@@ -6231,7 +6262,7 @@ A collective list of free APIs
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐77k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐78k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -6421,7 +6452,7 @@ A collective list of free APIs
 
 ### Photography
 
-- API: [Readme typing SVG (⭐7.9k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐8.3k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 
@@ -6602,7 +6633,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐159)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐169)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -6663,7 +6694,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [npm Registry (⭐480)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
+- API: [npm Registry (⭐483)](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md)
 
   Description: Query information about your favorite Node.js libraries programatically
 
@@ -6818,7 +6849,7 @@ A collective list of free APIs
 
 ### Social
 
-- API: [Lanyard (⭐1.2k)](https://github.com/Phineas/lanyard)
+- API: [Lanyard (⭐1.3k)](https://github.com/Phineas/lanyard)
 
   Description: Retrieve your presence on Discord through an HTTP REST API or WebSocket
 
@@ -7320,7 +7351,7 @@ A collective list of free APIs
 
 ### Cryptocurrency
 
-- API: [Indodax (⭐148)](https://github.com/btcid/indodax-official-api-docs)
+- API: [Indodax (⭐157)](https://github.com/btcid/indodax-official-api-docs)
 
   Description: Trade your Bitcoin and other assets with rupiah
 
@@ -7914,7 +7945,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Botd (⭐1.3k)](https://github.com/fingerprintjs/botd)
+- API: [Botd (⭐1.4k)](https://github.com/fingerprintjs/botd)
 
   Description: Botd is a browser library for JavaScript bot detection
 
@@ -8432,7 +8463,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [Geek-Jokes (⭐121)](https://github.com/sameerkumar18/geek-joke-api)
+- API: [Geek-Jokes (⭐124)](https://github.com/sameerkumar18/geek-joke-api)
 
   Description: Fetch a random geeky/programming related joke for use in all sorts of applications
 
@@ -8613,7 +8644,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Dune (⭐66)](https://github.com/ywalia01/dune-api)
+- API: [Dune (⭐67)](https://github.com/ywalia01/dune-api)
 
   Description: A simple API which provides you with book, character, movie and quotes JSON data
 
@@ -8624,7 +8655,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [IMDbOT (⭐140)](https://github.com/SpEcHiDe/IMDbOT)
+- API: [IMDbOT (⭐149)](https://github.com/SpEcHiDe/IMDbOT)
 
   Description: Unofficial IMDb Movie / Series Information
 
@@ -9170,7 +9201,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Lucifer Quotes (⭐10)](https://github.com/shadowoff09/lucifer-quotes)
+- API: [Lucifer Quotes (⭐11)](https://github.com/shadowoff09/lucifer-quotes)
 
   Description: Returns Lucifer quotes
 
@@ -9299,7 +9330,7 @@ A collective list of free APIs
 
 ### News
 
-- API: [Inshorts News (⭐263)](https://github.com/cyberboysumanjay/Inshorts-News-API)
+- API: [Inshorts News (⭐268)](https://github.com/cyberboysumanjay/Inshorts-News-API)
 
   Description: Provides news from inshorts
 
@@ -9359,7 +9390,7 @@ A collective list of free APIs
 
 ### Phone
 
-- API: [Phone Specification (⭐168)](https://github.com/azharimm/phone-specs-api)
+- API: [Phone Specification (⭐169)](https://github.com/azharimm/phone-specs-api)
 
   Description: Rest Api for Phone specifications
 
@@ -9387,7 +9418,7 @@ A collective list of free APIs
 
 ### Sports & Fitness
 
-- API: [Football Standings (⭐113)](https://github.com/azharimm/football-standings-api)
+- API: [Football Standings (⭐116)](https://github.com/azharimm/football-standings-api)
 
   Description: Display football standings e.g epl, la liga, serie a etc. The data is based on espn site
 
@@ -9597,7 +9628,7 @@ A collective list of free APIs
 
 ### URL Shorteners
 
-- API: [GoTiny (⭐21)](https://github.com/robvanbakel/gotiny-api)
+- API: [GoTiny (⭐23)](https://github.com/robvanbakel/gotiny-api)
 
   Description: A lightweight URL shortener, focused on ease-of-use for the developer and end-user
 
@@ -9697,7 +9728,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐49)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐50)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -9932,7 +9963,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [JioSaavn (⭐424)](https://github.com/cyberboysumanjay/JioSaavnAPI)
+- API: [JioSaavn (⭐437)](https://github.com/cyberboysumanjay/JioSaavnAPI)
 
   Description: API to retrieve song information, album meta data and many more from JioSaavn
 
@@ -10318,7 +10349,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Steam (⭐571)](https://github.com/Revadike/InternalSteamWebAPI/wiki)
+- API: [Steam (⭐597)](https://github.com/Revadike/InternalSteamWebAPI/wiki)
 
   Description: Internal Steam Web API documentation
 
@@ -10332,7 +10363,7 @@ A collective list of free APIs
 
 ### Personality
 
-- API: [Stoicism Quote (⭐108)](https://github.com/tlcheah2/stoic-quote-lambda-public-api)
+- API: [Stoicism Quote (⭐111)](https://github.com/tlcheah2/stoic-quote-lambda-public-api)
 
   Description: Quotes about Stoicism
 
@@ -10715,7 +10746,7 @@ A collective list of free APIs
 
 ### Development
 
-- API: [Cloudflare Trace (⭐171)](https://github.com/fawazahmed0/cloudflare-trace-api)
+- API: [Cloudflare Trace (⭐179)](https://github.com/fawazahmed0/cloudflare-trace-api)
 
   Description: Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More
 
@@ -10845,7 +10876,7 @@ A collective list of free APIs
 
 ### Development
 
-- API: [Ciprand (⭐15)](https://github.com/polarspetroll/ciprand)
+- API: [Ciprand (⭐16)](https://github.com/polarspetroll/ciprand)
 
   Description: Secure random string generator
 
@@ -10877,7 +10908,7 @@ A collective list of free APIs
 
 ### Books
 
-- API: [Quran-api (⭐899)](https://github.com/fawazahmed0/quran-api#readme)
+- API: [Quran-api (⭐984)](https://github.com/fawazahmed0/quran-api#readme)
 
   Description: Free Quran API Service with 90+ different languages and 400+ translations
 
@@ -10921,7 +10952,7 @@ A collective list of free APIs
 
 ### Security
 
-- API: [Escape (⭐15)](https://github.com/polarspetroll/EscapeAPI)
+- API: [Escape (⭐14)](https://github.com/polarspetroll/EscapeAPI)
 
   Description: An API for escaping different kind of queries
 
@@ -10965,7 +10996,7 @@ A collective list of free APIs
 
 ### Currency Exchange
 
-- API: [Currency-api (⭐77)](https://github.com/fawazahmed0/currency-api#readme)
+- API: [Currency-api (⭐81)](https://github.com/fawazahmed0/currency-api#readme)
 
   Description: Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
 
@@ -11179,7 +11210,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Movie Quote (⭐38)](https://github.com/F4R4N/movie-quote/)
+- API: [Movie Quote (⭐39)](https://github.com/F4R4N/movie-quote/)
 
   Description: Random Movie and Series Quotes
 
@@ -11429,7 +11460,7 @@ A collective list of free APIs
 
 ### URL Shorteners
 
-- API: [1pt (⭐38)](https://github.com/1pt-co/api/blob/main/README.md)
+- API: [1pt (⭐39)](https://github.com/1pt-co/api/blob/main/README.md)
 
   Description: A simple URL shortener
 
@@ -12009,7 +12040,7 @@ A collective list of free APIs
 
 ### Weather
 
-- API: [weather-api (⭐448)](https://github.com/robertoduessmann/weather-api)
+- API: [weather-api (⭐457)](https://github.com/robertoduessmann/weather-api)
 
   Description: A RESTful free API to check the weather
 
@@ -12057,7 +12088,7 @@ A collective list of free APIs
 
 ### Development
 
-- API: [jsDelivr (⭐227)](https://github.com/jsdelivr/data.jsdelivr.com)
+- API: [jsDelivr (⭐233)](https://github.com/jsdelivr/data.jsdelivr.com)
 
   Description: Package info and download stats on jsDelivr CDN
 
@@ -12667,7 +12698,7 @@ A collective list of free APIs
 
 ### Books
 
-- API: [Crossref Metadata Search (⭐782)](https://github.com/CrossRef/rest-api-doc)
+- API: [Crossref Metadata Search (⭐788)](https://github.com/CrossRef/rest-api-doc)
 
   Description: Books & Articles Metadata
 
@@ -12823,7 +12854,7 @@ A collective list of free APIs
 
 ### Cryptocurrency
 
-- API: [Binance (⭐4.6k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐4.7k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 
@@ -13025,7 +13056,7 @@ A collective list of free APIs
 
 ### Geocoding
 
-- API: [Cartes.io (⭐125)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
+- API: [Cartes.io (⭐126)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
 
   Description: Create maps and markers for anything
 
@@ -13057,7 +13088,7 @@ A collective list of free APIs
 
 ### Health
 
-- API: [Covid-19 (⭐396)](https://github.com/M-Media-Group/Covid-19-API)
+- API: [Covid-19 (⭐394)](https://github.com/M-Media-Group/Covid-19-API)
 
   Description: Covid 19 cases, deaths and recovery per country
 
@@ -13236,7 +13267,7 @@ A collective list of free APIs
 
 ### Personality
 
-- API: [Quotable Quotes (⭐2k)](https://github.com/lukePeavey/quotable)
+- API: [Quotable Quotes (⭐2.1k)](https://github.com/lukePeavey/quotable)
 
   Description: Quotable is a free, open source quotations API
 
@@ -13250,7 +13281,7 @@ A collective list of free APIs
 
 ### Security
 
-- API: [Intelligence X (⭐480)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
+- API: [Intelligence X (⭐501)](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)
 
   Description: Perform OSINT via Intelligence X
 
@@ -13387,7 +13418,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐108)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐110)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -13674,7 +13705,7 @@ A collective list of free APIs
 
 ### Finance
 
-- API: [Real Time Finance (⭐97)](https://github.com/Real-time-finance/finance-websocket-API/)
+- API: [Real Time Finance (⭐106)](https://github.com/Real-time-finance/finance-websocket-API/)
 
   Description: Websocket API to access realtime stock data
 
@@ -13888,7 +13919,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Mozilla tls scanner (⭐541)](https://github.com/mozilla/tls-observatory#api-endpoints)
+- API: [Mozilla tls scanner (⭐543)](https://github.com/mozilla/tls-observatory#api-endpoints)
 
   Description: Mozilla observatory tls scanner
 
@@ -14011,7 +14042,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [MCU Countdown (⭐215)](https://github.com/DiljotSG/MCU-Countdown)
+- API: [MCU Countdown (⭐219)](https://github.com/DiljotSG/MCU-Countdown)
 
   Description: A Countdown to the next MCU Film
 
@@ -14254,7 +14285,7 @@ A collective list of free APIs
 
 ### Geocoding
 
-- API: [Graph Countries (⭐82)](https://github.com/lennertVanSever/graphcountries)
+- API: [Graph Countries (⭐81)](https://github.com/lennertVanSever/graphcountries)
 
   Description: Country-related data like currencies, languages, flags, regions+subregions and bordering countries
 
@@ -14344,7 +14375,7 @@ A collective list of free APIs
 
 ### Personality
 
-- API: [Dictum (⭐182)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐187)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -14438,7 +14469,7 @@ A collective list of free APIs
 
 ### Transportation
 
-- API: [Transport for Berlin, Germany (⭐138)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
+- API: [Transport for Berlin, Germany (⭐142)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
 
   Description: Third-party VBB API
 
@@ -15015,7 +15046,7 @@ A collective list of free APIs
 
 ### Personality
 
-- API: [Programming Quotes (⭐493)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐494)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -16052,7 +16083,7 @@ A collective list of free APIs
 
 ### Jobs
 
-- API: [Open Skills (⭐204)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+- API: [Open Skills (⭐205)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
   Description: Job titles, skills and related jobs data
 
@@ -16272,7 +16303,7 @@ A collective list of free APIs
 
 ### Anime
 
-- API: [AniList (⭐1.2k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1.3k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -16344,7 +16375,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐394)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐404)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -17104,7 +17135,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐128)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐131)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -17115,7 +17146,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐39)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐44)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -17462,7 +17493,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Mexico (⭐91)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐93)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -18052,7 +18083,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Feedbin (⭐375)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐386)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -18187,7 +18218,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Universities List (⭐1.5k)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.6k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -19092,7 +19123,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Transport for The Netherlands (⭐97)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
+- API: [Transport for The Netherlands (⭐98)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
 
   Description: OVAPI, country-wide public transport
 
@@ -19222,7 +19253,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐448)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐447)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -19266,7 +19297,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐305)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐308)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

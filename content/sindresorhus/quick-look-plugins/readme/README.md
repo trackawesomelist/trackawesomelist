@@ -116,6 +116,14 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
+### [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown)
+
+> Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
+
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐21)](https://github.com/xykong/flux-markdown/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
+
 ### [Markdown Preview](https://anybox.ltd/markdown-preview) 💰
 
 > Quick look Markdown files with KaTex and Mermaid support.

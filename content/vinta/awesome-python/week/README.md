@@ -10,6 +10,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Quantum Computing
 
+*   [Cirq (⭐4.9k)](https://github.com/quantumlib/Cirq) — A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
 *   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 
@@ -56,7 +57,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [invoke (⭐4.7k)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     *   [pathpicker (⭐5.2k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
     *   [thefuck (⭐95k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐4.4k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐41k)](https://github.com/tmux/tmux) session manager.
+    *   [tmuxp (⭐4.4k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐42k)](https://github.com/tmux/tmux) session manager.
     *   [try (⭐750)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 
 ### Configuration Files
@@ -92,7 +93,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Downloader
 
 *   [edgartools (⭐1.7k)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
-*   [OpenBB (⭐60k)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
+*   [OpenBB (⭐61k)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 *   [yfinance (⭐21k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 
 ### Environment Management

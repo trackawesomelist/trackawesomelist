@@ -13,6 +13,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
 *   [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
 
+### Screenshot APIs
+
+*   [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### APIs, Data, and ML

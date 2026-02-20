@@ -16,7 +16,7 @@
 
 [Next.js (⭐138k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐433k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -180,6 +180,7 @@
 *   [next-api-decorators (⭐425)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 *   [Vercel AI SDK (⭐22k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 *   [CopilotKit (⭐29k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+*   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 *   [ShotOG (⭐2)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ## Apps

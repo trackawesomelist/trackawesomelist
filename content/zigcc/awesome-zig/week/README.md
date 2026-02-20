@@ -8,6 +8,10 @@ A collection of awesome projects in Zig.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
+### Fundamentals / Learning Resources
+
+*   [Изучаем язык программирования Zig](https://zig-lang.ru/) - Russian textbook and blog about Zig.
+
 ### Fundamentals / Linters
 
 *   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).

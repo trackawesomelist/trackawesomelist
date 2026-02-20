@@ -2,7 +2,7 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 546 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 593 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / Overview ]
 
@@ -353,6 +353,7 @@ Undergrad programs, masters and open course teaching and researching creative te
 
 | Name                                                                                                                  | Locations | Keywords                                                                                                                         | Jobs |
 | --------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [**Design and Technology at Parsons**](https://www.newschool.edu/parsons/mfa-design-technology/)                      | \[NYC]    | critical computation, physical computing, game design, data visualization, creative coding, bio design                           |      |
 | [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)                                                    | \[London] | a degree which develops your arts practice through the expressive world of creative computation                                  |      |
 | [**ITP**](https://tisch.nyu.edu/itp)                                                                                  | \[NYC]    | ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.                      |      |
 | [**MIT Medialab**](https://media.mit.edu/)                                                                            | \[Boston] | art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration |      |

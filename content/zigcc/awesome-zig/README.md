@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Fundamentals / Learning Resources
+
+*   [Изучаем язык программирования Zig](https://zig-lang.ru/) - Russian textbook and blog about Zig.
+
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### Fundamentals / Linters

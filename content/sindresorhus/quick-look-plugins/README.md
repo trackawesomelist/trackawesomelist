@@ -6,6 +6,18 @@ List of useful Quick Look plugins for developers
 
 [ Daily / [Weekly](/content/sindresorhus/quick-look-plugins/week/README.md) / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Plugins
+
+### [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown)
+
+> Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
+
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐21)](https://github.com/xykong/flux-markdown/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
+
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Plugins
