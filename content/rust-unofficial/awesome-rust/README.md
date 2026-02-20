@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 20, 2026](/content/2026/02/20/README.md)
+
+### Applications / Message Queue
+
+*   [Narwhal (⭐104)](https://github.com/narwhal-io/narwhal) - An extensible pub/sub messaging server for edge applications.
+
+### Libraries / Artificial Intelligence
+
+*   [katanemo/plano (⭐5.1k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
+
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### Applications / File manager

@@ -12,6 +12,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code (⭐319)](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 
+### Software / Monitoring
+
+*   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.1k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Software / Deployment Automation

@@ -147,18 +147,246 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Front-end Debugging Tools Handbook (⭐9)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 
-#### [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+#### [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+##### Resources / Starforged
+
+*   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
+
+#### [15. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+##### Other / Godot version unknown
+
+*   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
+
+#### [16. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+##### App Releases / Role Playing
+
+*   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
+
+#### [17. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+
+##### Multi-purpose toolkits
+
+*   [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐3.1k)](https://github.com/SciML/DifferentialEquations.jl))
+
+#### [18. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / API Testing
+
+*   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+
+##### Software / Visual Testing
+
+*   [Sherlo (⭐73)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+
+##### Suggested Awesome Lists / Useful References
+
+*   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+
+#### [19. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+##### Gems / Other external resources
+
+*   [sidemail (⭐2)](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red\_circle:](https://rubygems.org/gems/sidemail)
+
+#### [20. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+##### Downloading and Serving
+
+*   [bashbro (⭐222)](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
+
+#### [21. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+
+##### Plugins
+
+### [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown)
+
+> Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
+
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐21)](https://github.com/xykong/flux-markdown/releases/latest)
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
+
+#### [22. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+##### Extensions
+
+*   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
+
+#### [23. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Design and UI
+
+*   [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
+*   [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
+
+##### Screenshot APIs
+
+*   [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
+
+#### [24. Public Apis](/content/public-apis/public-apis/README.md)
+- API: [Zenserp](https://zenserp.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Fast, Accurate Google Search Data Built for Developers
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-a3d63243-081e-4961-a2f0-39c7a9394b8d?action=collection/fork)
+
+
+- API: [Screenshotlayer](https://screenshotlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Capture highly customizable screenshots of any website
+
+  Call this API: [Documentation](https://docs.apilayer.com/screenshotlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
+- API: [Exchangerate Host](https://exchangerate.host/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Real-time current and historical foreign exchange and crypto rates
+
+  Call this API: [Documentation](https://docs.apilayer.com/Exchangerate/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
+- API: [Mailboxlayer](https://mailboxlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Email Validation & Verification JSON API for Developers
+
+  Call this API: [Documentation](https://docs.apilayer.com/mailboxlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+
+
+#### [25. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+
+##### Education
+
+- Name: [**Design and Technology at Parsons**](https://www.newschool.edu/parsons/mfa-design-technology/)
+
+  Locations: \[NYC]
+
+  Keywords: critical computation, physical computing, game design, data visualization, creative coding, bio design
+
+
+
+#### [26. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Reading and Writing Tools / Ebooks
+
+*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
+
+##### Voice-to-Text / Audio Record and Process
+
+*   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kstonekuan/tambourine-voice/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / General Tools
+
+*   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")]\(<https://seodisias.com>)
+
+##### Utilities / Productivity
+
+*   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [27. Awesome Python](/content/vinta/awesome-python/README.md)
+
+##### Quantum Computing
+
+*   [Cirq (⭐4.9k)](https://github.com/quantumlib/Cirq) — A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
+*   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
+*   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+
+#### [28. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### Matrix libraries / Third-party APIs
+
+*   [LLA (⭐18)](https://github.com/Lisp-Stat/lla) -  Lisp Linear Algebra. MS-PL.
+    *   a high-level Common Lisp library built on on BLAS and LAPACK, but providing a more abstract interface with the purpose of freeing the user from low-level concerns and reducing the number of bugs in numerical code.
+
+##### Utils / Third-party APIs
+
+*   [cl-cancel (⭐1)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
+
+##### Event processing / Third-party APIs
+
+*   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
+    *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
+
+#### [29. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+##### Caching
+
+*   [cache (⭐49)](https://github.com/crystal-cache/cache) - A key/value store where pairs can expire after a specified interval
+
+##### ORM/ODM Extensions
+
+*   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
+
+#### [30. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Command-line
+
+*   [amdim (⭐0)](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
+*   [mimicfs (⭐0)](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup).
+*   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-imsi catcher/Anti-Triangulation...).
+*   [stripshot (⭐0)](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
+*   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
+
+#### [31. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Fundamentals / Learning Resources
+
+*   [Изучаем язык программирования Zig](https://zig-lang.ru/) - Russian textbook and blog about Zig.
+
+##### Fundamentals / Linters
+
+*   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
+
+##### Fundamentals / Utility
+
+*   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
+
+#### [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+
+##### Tools / Community providers
+
+*   [InfraScan](https://infrascan.soldevelo.com) - Advanced Infrastructure Auditor for cost and security analysis of Terraform, AWS, and Kubernetes.
+
+#### [33. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+##### Programming Languages / [Other](#other-1)
+
+*   **i-Code CNES for Fortran** :warning: — An open source static code analysis tool for Fortran 77, Fortran 90 and Shell.
+*   **go-consistent** :warning: — Analyzer that helps you to make your Go programs more consistent.
+*   **unconvert** :warning: — Detect redundant type conversions.
+*   **OWASP Dependency Check** :warning: — Checks dependencies for known, publicly disclosed, vulnerabilities.
+*   **i-Code CNES for Shell** :warning: — An open source static code analysis tool for Shell and Fortran (77 and 90).
+
+##### Other / [Other](#other-1)
+
+*   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
+*   [promformat (⭐38)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
+
+#### [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ##### Software / Backups
 
 *   [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code (⭐319)](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 
-#### [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+##### Software / Monitoring
+
+*   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.1k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
+
+#### [35. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Resources / Official Resources
 
 *   [API Reference](https://vuejs.org/api/)
 *   [Style Guide](https://vuejs.org/style-guide/)
+
+##### Resources / Truly awesome projects
+
+*   [Vue DevTools (⭐2.8k)](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications.
+*   [unplugin-icons (⭐4.8k)](https://github.com/unplugin/unplugin-icons) - On-demand icon loader supporting all known popular icon sets
+*   [vue-i18n (⭐2.6k)](https://github.com/intlify/vue-i18n) - Internationalization plugin for Vue.js
 
 ##### Resources / Community
 
@@ -231,192 +459,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-#### [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [36. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
-##### Resources / Starforged
+##### Component Libraries
 
-*   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
+*   [M3E (⭐57)](https://github.com/matraic/m3e) - Web Components implementing Material 3 Expressive.
 
-#### [17. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [37. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
-##### Other / Godot version unknown
-
-*   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
-
-#### [18. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
-
-##### App Releases / Role Playing
-
-*   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
-
-#### [19. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
-
-##### Multi-purpose toolkits
-
-*   [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐3.1k)](https://github.com/SciML/DifferentialEquations.jl))
-
-#### [20. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / API Testing
-
-*   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
-
-##### Software / Visual Testing
-
-*   [Sherlo (⭐73)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
-
-##### Suggested Awesome Lists / Useful References
-
-*   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
-
-#### [21. Awesome Rails](/content/gramantin/awesome-rails/README.md)
-
-##### Gems / Other external resources
-
-*   [sidemail (⭐2)](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red\_circle:](https://rubygems.org/gems/sidemail)
-
-#### [22. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
-
-##### Downloading and Serving
-
-*   [bashbro (⭐222)](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
-
-#### [23. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications
-
-*   [lzanini/mdbook-katex (⭐241)](https://github.com/lzanini/mdbook-katex) \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook (⭐21k)](https://github.com/rust-lang/mdBook), using KaTeX to render LaTeX math expressions.
-
-##### Applications / Blockchain
-
-*   [pragma-org/amaru (⭐99)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
-
-##### Applications / File manager
-
-*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
-
-##### Development tools / Profiling
-
-*   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
-
-##### Libraries / Artificial Intelligence
-
-*   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
-
-#### [24. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Productivity / Automation
-
-*   [rewhex/better-launchpad (⭐15)](https://github.com/rewhex/better-launchpad) — A smarter, more customizable Launchpad for macOS with fast search. ☆`16`
-
-#### [25. Awesome Ai](/content/abordage/awesome-ai/README.md)
-
-##### AI Coding Agents / Claude Code
-
-*   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`47`
-
-#### [26. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
-
-##### Plugins
-
-### [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown)
-
-> Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
-
-Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐21)](https://github.com/xykong/flux-markdown/releases/latest)
-
-[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
-
-#### [27. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
-
-##### Extensions
-
-*   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
-
-#### [28. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Design and UI
-
-*   [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
-*   [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
-
-##### Screenshot APIs
-
-*   [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
-
-#### [29. Public Apis](/content/public-apis/public-apis/README.md)
-- API: [Zenserp](https://zenserp.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-  Description: Fast, Accurate Google Search Data Built for Developers
-
-  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-a3d63243-081e-4961-a2f0-39c7a9394b8d?action=collection/fork)
-
-
-- API: [Screenshotlayer](https://screenshotlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-  Description: Capture highly customizable screenshots of any website
-
-  Call this API: [Documentation](https://docs.apilayer.com/screenshotlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-
-- API: [Exchangerate Host](https://exchangerate.host/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-  Description: Real-time current and historical foreign exchange and crypto rates
-
-  Call this API: [Documentation](https://docs.apilayer.com/Exchangerate/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-
-- API: [Mailboxlayer](https://mailboxlayer.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-  Description: Email Validation & Verification JSON API for Developers
-
-  Call this API: [Documentation](https://docs.apilayer.com/mailboxlayer/docs/api-documentation?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
-
-
-
-#### [30. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
-
-##### Education
-
-- Name: [**Design and Technology at Parsons**](https://www.newschool.edu/parsons/mfa-design-technology/)
-
-  Locations: \[NYC]
-
-  Keywords: critical computation, physical computing, game design, data visualization, creative coding, bio design
-
-
-
-#### [31. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Reading and Writing Tools / Ebooks
-
-*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973)
-
-##### Voice-to-Text / Audio Record and Process
-
-*   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kstonekuan/tambourine-voice/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / General Tools
-
-*   [Seodisias](https://seodisias.com) - Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings   ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")]\(<https://seodisias.com>)
-
-##### Utilities / Productivity
-
-*   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [32. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-##### 🎵 Audio (37)
+##### 🎵 Audio (39)
 
 *   [LyricGlow (⭐10)](https://github.com/ateymoori/lyricglow) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
+
+    **Badges:** <a href='https://github.com/ateymoori/lyricglow/releases/latest'><img src='https://img.shields.io/github/v/release/ateymoori/lyricglow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ateymoori/lyricglow'><img src='https://img.shields.io/github/stars/ateymoori/lyricglow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ateymoori/lyricglow' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ateymoori/lyricglow' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/>
-
-    **Links:** <a href='https://github.com/ateymoori/lyricglow/releases/latest'><img src='https://img.shields.io/github/v/release/ateymoori/lyricglow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ateymoori/lyricglow'><img src='https://img.shields.io/github/stars/ateymoori/lyricglow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/ateymoori/lyricglow' alt='License'/>
 
     **Screenshots:**
 
@@ -428,18 +489,93 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
+*   [Pulp (⭐77)](https://github.com/bazalp/pulp) - Audio Sample manager.
+
+    **Badges:** <a href='https://github.com/bazalp/pulp/releases/latest'><img src='https://img.shields.io/github/v/release/bazalp/pulp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bazalp/pulp'><img src='https://img.shields.io/github/stars/bazalp/pulp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bazalp/pulp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bazalp/pulp' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 🎧 Music (16) / ✏️ Text (13)
+
+*   [StargateDAW (⭐804)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+
+    **Badges:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/stargatedaw/stargate' alt='Last commit'/>   <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png' width='400' loading='lazy'/>
+
+    *(3 more screenshots available in the repository)*
+
+    </p>
+    </details>
+
+##### 💾 Backup (6)
+
+*   [backy (⭐17)](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
+
+    **Badges:** <a href='https://github.com/vdbsh/backy/releases/latest'><img src='https://img.shields.io/github/v/release/vdbsh/backy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vdbsh/backy'><img src='https://img.shields.io/github/stars/vdbsh/backy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vdbsh/backy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vdbsh/backy' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/golang-16.png' alt='Go icon' title='Go' height='16'/>
+
+    </p>
+    </details>
+
+##### 💬 Chat (20)
+
+*   [Swiftcord (⭐2.2k)](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
+
+    **Badges:** <a href='https://github.com/SwiftcordApp/Swiftcord/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftcordApp/Swiftcord?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SwiftcordApp/Swiftcord'><img src='https://img.shields.io/github/stars/SwiftcordApp/Swiftcord?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SwiftcordApp/Swiftcord' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SwiftcordApp/Swiftcord' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/SwiftcordApp/Swiftcord/blob/main/README_Resources/heroScreenshot.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
 
 ##### 💰 Cryptocurrency (5)
 
 *   [Bitcoin Core (⭐88k)](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
+
+    **Badges:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/bitcoin/bitcoin' alt='Last commit'/>   <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <code>C++</code> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
-
-    **Links:** <a href='https://github.com/bitcoin/bitcoin/releases/latest'><img src='https://img.shields.io/github/v/release/bitcoin/bitcoin?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/bitcoin/bitcoin'><img src='https://img.shields.io/github/stars/bitcoin/bitcoin?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/bitcoin/bitcoin' alt='License'/>
 
     **Website:** <https://bitcoincore.org/>
 
@@ -450,17 +586,58 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 📝 Editors (6) / 📱 iOS / macOS (42)
+##### 📺 Terminal (15) / ✏️ Text (13)
+
+*   [Clipboard (⭐5.7k)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+    **Badges:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Slackadays/Clipboard' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/>
+
+    **Website:** <https://GetClipboard.app>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Tabby (⭐69k)](https://github.com/Eugeny/tabby) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
+
+    **Badges:** <a href='https://github.com/Eugeny/tabby/releases/latest'><img src='https://img.shields.io/github/v/release/Eugeny/tabby?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Eugeny/tabby'><img src='https://img.shields.io/github/stars/Eugeny/tabby?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Eugeny/tabby' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Eugeny/tabby' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png' width='400' loading='lazy'/>
+
+    <img src='https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 📝 Editors (7) / 📱 iOS / macOS (44)
 
 *   [DevLint (⭐2)](https://github.com/csprasad/DevLint) - A lightweight app for formatting and correcting Swift syntax.
+
+    **Badges:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/csprasad/DevLint' alt='Last commit'/>   <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/csprasad/DevLint/releases/latest'><img src='https://img.shields.io/github/v/release/csprasad/DevLint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/csprasad/DevLint'><img src='https://img.shields.io/github/stars/csprasad/DevLint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/csprasad/DevLint' alt='License'/>
 
     **Screenshots:**
 
@@ -471,17 +648,17 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 🛠️ Utilities (94) / ✏️ Text (12)
+##### 🛠️ Utilities (112) / ✏️ Text (13)
 
 *   [Gridfy (⭐34)](https://github.com/Slllava/gridfy) - Quickly calculate column widths and get correct results for your grid.
+
+    **Badges:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Slllava/gridfy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
-
-    **Links:** <a href='https://github.com/Slllava/gridfy/releases/latest'><img src='https://img.shields.io/github/v/release/Slllava/gridfy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Slllava/gridfy'><img src='https://img.shields.io/github/stars/Slllava/gridfy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Slllava/gridfy' alt='License'/>
 
     **Website:** <https://gridfy.astroon.pro/>
 
@@ -495,7 +672,9 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
-*   [Input Source Pro (⭐2.8k)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+*   [LocationSimulator (⭐2.9k)](https://github.com/Schlaubischlump/LocationSimulator) - Application to spoof your iOS or iPhoneSimulator location.
+
+    **Badges:** <a href='https://github.com/Schlaubischlump/LocationSimulator/releases/latest'><img src='https://img.shields.io/github/v/release/Schlaubischlump/LocationSimulator?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Schlaubischlump/LocationSimulator'><img src='https://img.shields.io/github/stars/Schlaubischlump/LocationSimulator?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Schlaubischlump/LocationSimulator' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Schlaubischlump/LocationSimulator' alt='License'/>
 
     <details>
     <summary>More</summary>
@@ -503,21 +682,115 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
-    **Links:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+    **Website:** <https://schlaubischlump.github.io/LocationSimulator>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Schlaubischlump/LocationSimulator/master/Preview/screenshot.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Input Source Pro (⭐2.8k)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+
+    **Badges:** <a href='https://github.com/runjuu/InputSourcePro/releases/latest'><img src='https://img.shields.io/github/v/release/runjuu/InputSourcePro?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/runjuu/InputSourcePro/'><img src='https://img.shields.io/github/stars/runjuu/InputSourcePro?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/runjuu/InputSourcePro' alt='Last commit'/>   <img src='https://img.shields.io/github/license/runjuu/InputSourcePro' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
     **Website:** <https://inputsource.pro>
 
     </p>
     </details>
+*   [App Fair (⭐65)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+    **Badges:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/App-Fair/App' alt='Last commit'/>   <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://appfair.app>
+
+    **Screenshots:**
+
+    <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+    <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+    <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [SaneClick (⭐1)](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
+
+    **Badges:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClick' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://saneclick.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [ClipFlow (⭐4)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+
+    **Badges:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/praneeth552/clipflow' alt='Last commit'/>   <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** [https://github.com/praneeth552/clipflow (⭐4)](https://github.com/praneeth552/clipflow)
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [OnlySwitch (⭐5.5k)](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+    **Badges:** <a href='https://github.com/jacklandrin/OnlySwitch/releases/latest'><img src='https://img.shields.io/github/v/release/jacklandrin/OnlySwitch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jacklandrin/OnlySwitch'><img src='https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/jacklandrin/OnlySwitch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/jacklandrin/OnlySwitch' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://www.jacklandrin.com/2021/12/01/onlyswitch/>
+
+    **Screenshots:**
+
+    <img src='https://www.jacklandrin.com/wp-content/uploads/2022/01/onlySwitch_17.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
 *   [RustCast (⭐348)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+    **Badges:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/unsecretised/rustcast' alt='Last commit'/>   <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
-
-    **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
 
     **Website:** <https://rustcast.umangsurana.com>
 
@@ -527,15 +800,89 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
+*   [SaneBar (⭐182)](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
+
+    **Badges:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneBar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://sanebar.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [ScreenHint (⭐16)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+    **Badges:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/salemhilal/ScreenHint' alt='Last commit'/>   <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://screenhint.com>
+
+    **Screenshots:**
+
+    <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+    <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+    <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Numi (⭐6.3k)](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+
+    **Badges:** <a href='https://github.com/nikolaeu/numi/releases/latest'><img src='https://img.shields.io/github/v/release/nikolaeu/numi?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nikolaeu/numi'><img src='https://img.shields.io/github/stars/nikolaeu/numi?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nikolaeu/numi' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nikolaeu/numi' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/>
+
+    **Website:** <https://numi.app/>
+
+    **Screenshots:**
+
+    <img src='https://camo.githubusercontent.com/8ae63f55d6518e83f9b5782eda1b5d998c5d86313a594ded060a26d4442d9a3d/68747470733a2f2f6e756d692e6170702f696d616765732f6e756d692d73637265656e73686f742d79656c6c6f772e706e67' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [ActivityWatch (⭐17k)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+
+    **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/>   <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Website:** <https://activitywatch.net>
+
+    </p>
+    </details>
 *   [Blink Eye (⭐237)](https://github.com/nomandhoni-cs/blink-eye) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
+
+    **Badges:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nomandhoni-cs/blink-eye' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
-
-    **Links:** <a href='https://github.com/nomandhoni-cs/blink-eye/releases/latest'><img src='https://img.shields.io/github/v/release/nomandhoni-cs/blink-eye?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nomandhoni-cs/blink-eye'><img src='https://img.shields.io/github/stars/nomandhoni-cs/blink-eye?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/nomandhoni-cs/blink-eye' alt='License'/>
 
     **Website:** <https://blinkeye.vercel.app/>
 
@@ -553,13 +900,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </details>
 *   [File Architect (⭐1)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
 
+    **Badges:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/filearchitect/app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
-
-    **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
 
     **Website:** <https://filearchitect.com>
 
@@ -569,15 +916,71 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
+*   [OmniPrompt (⭐11)](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
+
+    **Badges:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://omniprompt.app/>
+
+    </p>
+    </details>
+*   [SaneClip (⭐10)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+    **Badges:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneClip' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://saneclip.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [SaneSales (⭐0)](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
+
+    **Badges:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneSales' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://sanesales.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
 *   [Screenpipe (⭐17k)](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
+
+    **Badges:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/screenpipe/screenpipe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
-
-    **Links:** <a href='https://github.com/screenpipe/screenpipe/releases/latest'><img src='https://img.shields.io/github/v/release/screenpipe/screenpipe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/screenpipe/screenpipe'><img src='https://img.shields.io/github/stars/screenpipe/screenpipe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/screenpipe/screenpipe' alt='License'/>
 
     **Website:** <https://screenpi.pe>
 
@@ -587,66 +990,9 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
-*   [Xournal++ (⭐14k)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
+*   [Slime (⭐49)](https://github.com/Mas0nSun/Slime) - App icon assets generator written in SwiftUI
 
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='./icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
-
-    **Links:** <a href='https://github.com/xournalpp/xournalpp/releases/latest'><img src='https://img.shields.io/github/v/release/xournalpp/xournalpp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xournalpp/xournalpp/'><img src='https://img.shields.io/github/stars/xournalpp/xournalpp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/xournalpp/xournalpp' alt='License'/>
-
-    </p>
-    </details>
-*   [OpenCore Legacy Patcher (⭐17k)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
-
-    **Links:** <a href='https://github.com/dortania/OpenCore-Legacy-Patcher/releases/latest'><img src='https://img.shields.io/github/v/release/dortania/OpenCore-Legacy-Patcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dortania/OpenCore-Legacy-Patcher'><img src='https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/dortania/OpenCore-Legacy-Patcher' alt='License'/>
-
-    **Website:** <https://dortania.github.io/OpenCore-Legacy-Patcher/>
-
-    </p>
-    </details>
-*   [PlugNPlayMac (⭐9)](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
-
-    **Links:** <a href='https://github.com/Piero24/PlugNPlayMac/releases/latest'><img src='https://img.shields.io/github/v/release/Piero24/PlugNPlayMac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Piero24/PlugNPlayMac'><img src='https://img.shields.io/github/stars/Piero24/PlugNPlayMac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Piero24/PlugNPlayMac' alt='License'/>
-
-    **Screenshots:**
-
-    <img src='' width='400' loading='lazy'/>
-
-    </p>
-    </details>
-*   [Stirling-PDF (⭐74k)](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> <code>html</code> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>html</code>
-
-    **Links:** <a href='https://github.com/Stirling-Tools/Stirling-PDF/releases/latest'><img src='https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Stirling-Tools/Stirling-PDF'><img src='https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Stirling-Tools/Stirling-PDF' alt='License'/>
-
-    **Website:** [stirlingpdf.com](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md/stirlingpdf.com)
-
-    </p>
-    </details>
-
-##### ⬇️ Downloader (8) / 📱 iOS / macOS (42)
-
-*   [Applite (⭐6.4k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
+    **Badges:** <a href='https://github.com/Mas0nSun/Slime/releases/latest'><img src='https://img.shields.io/github/v/release/Mas0nSun/Slime?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mas0nSun/Slime'><img src='https://img.shields.io/github/stars/Mas0nSun/Slime?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mas0nSun/Slime' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mas0nSun/Slime' alt='License'/>
 
     <details>
     <summary>More</summary>
@@ -654,7 +1000,316 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
-    **Links:** <a href='https://github.com/milanvarady/Applite/releases/latest'><img src='https://img.shields.io/github/v/release/milanvarady/Applite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/milanvarady/Applite'><img src='https://img.shields.io/github/stars/milanvarady/Applite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/milanvarady/Applite' alt='License'/>
+    **Screenshots:**
+
+    <img src='https://user-images.githubusercontent.com/20198012/143677189-c13cc444-5e2c-4342-9e22-27a7bff64915.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Xournal++ (⭐14k)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
+
+    **Badges:** <a href='https://github.com/xournalpp/xournalpp/releases/latest'><img src='https://img.shields.io/github/v/release/xournalpp/xournalpp?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xournalpp/xournalpp/'><img src='https://img.shields.io/github/stars/xournalpp/xournalpp?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xournalpp/xournalpp' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xournalpp/xournalpp' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='./icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    </p>
+    </details>
+*   [SaneHosts (⭐5)](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
+
+    **Badges:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/sane-apps/SaneHosts' alt='Last commit'/>   <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://sanehosts.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/sane-apps/SaneHosts/main/website/screenshot.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [GrandPerspective](https://git.code.sf.net/p/grandperspectiv/source) - Small utility for visualizing disk usage using tree maps.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/>
+
+    **Website:** <https://grandperspectiv.sourceforge.net>
+
+    **Screenshots:**
+
+    <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Folders_Bujumbura.png' width='400' loading='lazy'/>
+
+    <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Filetype_OrigamiMice.png' width='400' loading='lazy'/>
+
+    <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Creation_Heathmap12.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [OpenCore Legacy Patcher (⭐17k)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
+
+    **Badges:** <a href='https://github.com/dortania/OpenCore-Legacy-Patcher/releases/latest'><img src='https://img.shields.io/github/v/release/dortania/OpenCore-Legacy-Patcher?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/dortania/OpenCore-Legacy-Patcher'><img src='https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/dortania/OpenCore-Legacy-Patcher' alt='Last commit'/>   <img src='https://img.shields.io/github/license/dortania/OpenCore-Legacy-Patcher' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Website:** <https://dortania.github.io/OpenCore-Legacy-Patcher/>
+
+    </p>
+    </details>
+*   [PeaZip (⭐6.9k)](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
+
+    **Badges:** <a href='https://github.com/peazip/PeaZip/releases/latest'><img src='https://img.shields.io/github/v/release/peazip/PeaZip?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/peazip/PeaZip'><img src='https://img.shields.io/github/stars/peazip/PeaZip?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/peazip/PeaZip' alt='Last commit'/>   <img src='https://img.shields.io/github/license/peazip/PeaZip' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <code>pascal</code>
+
+    **Website:** <https://peazip.github.io/>
+
+    </p>
+    </details>
+*   [PlugNPlayMac (⭐9)](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac
+
+    **Badges:** <a href='https://github.com/Piero24/PlugNPlayMac/releases/latest'><img src='https://img.shields.io/github/v/release/Piero24/PlugNPlayMac?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Piero24/PlugNPlayMac'><img src='https://img.shields.io/github/stars/Piero24/PlugNPlayMac?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Piero24/PlugNPlayMac' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Piero24/PlugNPlayMac' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/>
+
+    **Screenshots:**
+
+    <img src='' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Smotrite (⭐38)](https://github.com/Lukentui/smotrite-app) - Smotrite is a system monitor for macOS, which just work.
+
+    **Badges:** <a href='https://github.com/Lukentui/smotrite-app/releases/latest'><img src='https://img.shields.io/github/v/release/Lukentui/smotrite-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Lukentui/smotrite-app'><img src='https://img.shields.io/github/stars/Lukentui/smotrite-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Lukentui/smotrite-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Lukentui/smotrite-app' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/1.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/2.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Stirling-PDF (⭐74k)](https://github.com/Stirling-Tools/Stirling-PDF) - Locally hosted web application that allows you to perform various operations on PDF files
+
+    **Badges:** <a href='https://github.com/Stirling-Tools/Stirling-PDF/releases/latest'><img src='https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Stirling-Tools/Stirling-PDF'><img src='https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Stirling-Tools/Stirling-PDF' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Stirling-Tools/Stirling-PDF' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/> <code>html</code> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>html</code>
+
+    **Website:** [stirlingpdf.com](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md/stirlingpdf.com)
+
+    </p>
+    </details>
+*   [TRex (⭐1.7k)](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
+
+    **Badges:** <a href='https://github.com/amebalabs/TRex/releases/latest'><img src='https://img.shields.io/github/v/release/amebalabs/TRex?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/amebalabs/TRex'><img src='https://img.shields.io/github/stars/amebalabs/TRex?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/amebalabs/TRex' alt='Last commit'/>   <img src='https://img.shields.io/github/license/amebalabs/TRex' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://trex.ameba.co/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/screenshot.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/demo.gif' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 👨‍💻 Development (15)
+
+*   [JustTags (⭐18)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
+
+    **Badges:** <a href='https://github.com/kaphacius/just-tags/releases/latest'><img src='https://img.shields.io/github/v/release/kaphacius/just-tags?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/kaphacius/just-tags'><img src='https://img.shields.io/github/stars/kaphacius/just-tags?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/kaphacius/just-tags' alt='Last commit'/>   <img src='https://img.shields.io/github/license/kaphacius/just-tags' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://kaphacius.github.io/just-tags/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/02_view.png?raw=true' width='400' loading='lazy'/>
+
+    <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/04_diff.png?raw=true' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [M-Courtyard (⭐28)](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.
+
+    **Badges:** <a href='https://github.com/Mcourtyard/m-courtyard/releases/latest'><img src='https://img.shields.io/github/v/release/Mcourtyard/m-courtyard?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Mcourtyard/m-courtyard'><img src='https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Mcourtyard/m-courtyard' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Website:** [https://github.com/Mcourtyard/m-courtyard (⭐28)](https://github.com/Mcourtyard/m-courtyard)
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### ⏱️ Productivity (78) / ✏️ Text (13)
+
+*   [Clendar (⭐701)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
+
+    **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='./icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a>   <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041>
+
+    **Screenshots:**
+
+    <img src='https://user-images.githubusercontent.com/1097578/143703321-bb867392-e0c5-4f67-93a0-e299164b0acf.png' width='400' loading='lazy'/>
+
+    <img src='https://user-images.githubusercontent.com/1097578/143700120-e377dc4c-51c0-4089-9295-b5cd4da95f41.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [BibDesk](https://sourceforge.net/projects/bibdesk/) - Use BibDesk to edit and manage your bibliography
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/>
+
+    **Website:** <https://bibdesk.sourceforge.io>
+
+    **Screenshots:**
+
+    <img src='https://bibdesk.sourceforge.io/screenshots/Publication.png' width='400' loading='lazy'/>
+
+    <img src='https://bibdesk.sourceforge.io/screenshots/Main-Window.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Freeter (⭐937)](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
+
+    **Badges:** <a href='https://github.com/FreeterApp/Freeter/releases/latest'><img src='https://img.shields.io/github/v/release/FreeterApp/Freeter?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/FreeterApp/Freeter'><img src='https://img.shields.io/github/stars/FreeterApp/Freeter?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/FreeterApp/Freeter' alt='Last commit'/>   <img src='https://img.shields.io/github/license/FreeterApp/Freeter' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Website:** <https://freeter.io/>
+
+    **Screenshots:**
+
+    <img src='https://freeter.io/images/app-screen.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Readest (⭐17k)](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+
+    **Badges:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/readest/readest' alt='Last commit'/>   <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Website:** <https://readest.com>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy'/>
+
+    *(2 more screenshots available in the repository)*
+
+    </p>
+    </details>
+*   [Yippy (⭐390)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
+
+    **Badges:** <a href='https://github.com/mattDavo/Yippy/releases/latest'><img src='https://img.shields.io/github/v/release/mattDavo/Yippy?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mattDavo/Yippy'><img src='https://img.shields.io/github/stars/mattDavo/Yippy?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mattDavo/Yippy' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mattDavo/Yippy' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Website:** <https://yippy.mattdavo.com>
+
+    **Screenshots:**
+
+    <img src='https://github.com/mattDavo/Yippy/raw/master/images/screenshot.jpg' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### ⬇️ Downloader (10) / 📱 iOS / macOS (44)
+
+*   [Applite (⭐6.4k)](https://github.com/milanvarady/Applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
+
+    **Badges:** <a href='https://github.com/milanvarady/Applite/releases/latest'><img src='https://img.shields.io/github/v/release/milanvarady/Applite?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/milanvarady/Applite'><img src='https://img.shields.io/github/stars/milanvarady/Applite?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/milanvarady/Applite' alt='Last commit'/>   <img src='https://img.shields.io/github/license/milanvarady/Applite' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
     **Website:** <https://aerolite.dev/applite>
 
@@ -667,17 +1322,52 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 📝 Editors (6) / ✏️ Text (12)
+##### 📤 Sharing Files (11) / ✏️ Text (13)
+
+*   [FileZilla](https://sourceforge.net/projects/filezilla/) - Free open-source FTP, FTPS, and SFTP client.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <code>c++</code>
+
+    **Website:** <https://filezilla-project.org>
+
+    </p>
+    </details>
+*   [Easy Share Uploader (⭐1)](https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader) - Allows users to easily host their local images to the internet through multiple services and available on App Store.
+
+    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Easy-Share-Uploader?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Easy-Share-Uploader?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Easy-Share-Uploader' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Easy-Share-Uploader' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/>
+
+    **Website:** <https://ariessciences.com/highlight?product=easy-share-uploader>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 📝 Editors (7) / ✏️ Text (13)
 
 *   [mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit) - A visual editor of Markdown document, tasks and tables.
+
+    **Badges:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/maxnd/mxMarkEdit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <code>free-pascal</code>
-
-    **Links:** <a href='https://github.com/maxnd/mxMarkEdit/releases/latest'><img src='https://img.shields.io/github/v/release/maxnd/mxMarkEdit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/maxnd/mxMarkEdit'><img src='https://img.shields.io/github/stars/maxnd/mxMarkEdit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/maxnd/mxMarkEdit' alt='License'/>
 
     **Website:** [https://github.com/maxnd/mxMarkEdit (⭐19)](https://github.com/maxnd/mxMarkEdit)
 
@@ -694,17 +1384,148 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 🎨 Graphics (17) / ✏️ Text (12)
+##### 💻 IDE (13) / ✏️ Text (13)
+
+*   [Zed (⭐75k)](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+
+    **Badges:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/zed-industries/zed' alt='Last commit'/>   <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
+
+    **Website:** <https://zed.dev>
+
+    **Screenshots:**
+
+    <img src='' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 📔 Notes (19) / ✏️ Text (13)
+
+*   [Notesnook (⭐14k)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+
+    **Badges:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/streetwriters/notesnook' alt='Last commit'/>   <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Website:** <https://notesnook.com>
+
+    **Screenshots:**
+
+    <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+
+    **Badges:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/0xMassi/stik_app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+
+    **Website:** <https://stik.ink>
+
+    </p>
+    </details>
+
+##### 🎬 Video (20) / ✏️ Text (13)
+
+*   [Yape (⭐17)](https://github.com/leonspok/Yape) - Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.
+
+    **Badges:** <a href='https://github.com/leonspok/Yape/releases/latest'><img src='https://img.shields.io/github/v/release/leonspok/Yape?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/leonspok/Yape'><img src='https://img.shields.io/github/stars/leonspok/Yape?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/leonspok/Yape' alt='Last commit'/>   <img src='https://img.shields.io/github/license/leonspok/Yape' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/leonspok/Yape/raw/master/README%20resources/example_screenshot.png' width='400' loading='lazy'/>
+
+    <img src='https://github.com/leonspok/Yape/raw/master/README%20resources/preferences_screenshot.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 🔍 Finder (13) / ✏️ Text (13)
+
+*   [muCommander (⭐1.2k)](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface.
+
+    **Badges:** <a href='https://github.com/mucommander/mucommander/releases/latest'><img src='https://img.shields.io/github/v/release/mucommander/mucommander?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/mucommander/mucommander'><img src='https://img.shields.io/github/stars/mucommander/mucommander?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/mucommander/mucommander' alt='Last commit'/>   <img src='https://img.shields.io/github/license/mucommander/mucommander' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/java-16.png' alt='Java icon' title='Java' height='16'/>
+
+    **Website:** <https://www.mucommander.com/>
+
+    </p>
+    </details>
+
+##### 🎮 Games (13) / ✏️ Text (13)
+
+*   [Amazing Tic Tac Toe (⭐1)](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
+
+    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Tic-Tac-Toe?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Tic-Tac-Toe' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Tic-Tac-Toe' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/>
+
+    **Website:** <https://ariessciences.com/highlight?product=tic-tac-toe>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Sabaki (⭐2.6k)](https://github.com/SabakiHQ/Sabaki) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
+
+    **Badges:** <a href='https://github.com/SabakiHQ/Sabaki/releases/latest'><img src='https://img.shields.io/github/v/release/SabakiHQ/Sabaki?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/SabakiHQ/Sabaki'><img src='https://img.shields.io/github/stars/SabakiHQ/Sabaki?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/SabakiHQ/Sabaki' alt='Last commit'/>   <img src='https://img.shields.io/github/license/SabakiHQ/Sabaki' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/>
+
+    **Website:** <http://sabaki.yichuanshen.de>
+
+    </p>
+    </details>
+
+##### 🎨 Graphics (17) / ✏️ Text (13)
 
 *   [LibreCAD (⭐5.6k)](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
+
+    **Badges:** <a href='https://github.com/LibreCAD/LibreCAD/releases/latest'><img src='https://img.shields.io/github/v/release/LibreCAD/LibreCAD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LibreCAD/LibreCAD'><img src='https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/LibreCAD/LibreCAD' alt='Last commit'/>   <img src='https://img.shields.io/github/license/LibreCAD/LibreCAD' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <code>c++</code> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/>
-
-    **Links:** <a href='https://github.com/LibreCAD/LibreCAD/releases/latest'><img src='https://img.shields.io/github/v/release/LibreCAD/LibreCAD?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/LibreCAD/LibreCAD'><img src='https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/LibreCAD/LibreCAD' alt='License'/>
 
     **Website:** <https://librecad.org>
 
@@ -716,13 +1537,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </details>
 *   [Nugget (⭐525)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility.
 
+    **Badges:** <a href='https://github.com/cartesiancs/nugget-app/releases/latest'><img src='https://img.shields.io/github/v/release/cartesiancs/nugget-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cartesiancs/nugget-app'><img src='https://img.shields.io/github/stars/cartesiancs/nugget-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/cartesiancs/nugget-app' alt='Last commit'/>   <img src='https://img.shields.io/github/license/cartesiancs/nugget-app' alt='License'/>
+
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
-
-    **Links:** <a href='https://github.com/cartesiancs/nugget-app/releases/latest'><img src='https://img.shields.io/github/v/release/cartesiancs/nugget-app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/cartesiancs/nugget-app'><img src='https://img.shields.io/github/stars/cartesiancs/nugget-app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/cartesiancs/nugget-app' alt='License'/>
 
     **Screenshots:**
 
@@ -731,17 +1552,17 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 📊 Menubar (46) / ✏️ Text (12)
+##### 📊 Menubar (51) / ✏️ Text (13)
 
 *   [app-menu (⭐48)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
+
+    **Badges:** <a href='https://github.com/barseghyanartur/app-menu/releases/latest'><img src='https://img.shields.io/github/v/release/barseghyanartur/app-menu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/barseghyanartur/app-menu'><img src='https://img.shields.io/github/stars/barseghyanartur/app-menu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/barseghyanartur/app-menu' alt='Last commit'/>   <img src='https://img.shields.io/github/license/barseghyanartur/app-menu' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/barseghyanartur/app-menu/releases/latest'><img src='https://img.shields.io/github/v/release/barseghyanartur/app-menu?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/barseghyanartur/app-menu'><img src='https://img.shields.io/github/stars/barseghyanartur/app-menu?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/barseghyanartur/app-menu' alt='License'/>
 
     **Screenshots:**
 
@@ -751,7 +1572,9 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
-*   [Vercel Deployment Menu Bar (⭐25)](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
+*   [Quick Weather (⭐2)](https://github.com/Aries-Sciences-LLC/Quick-Weather) - Simple and elegant menubar weather app on the App Store.
+
+    **Badges:** <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Quick-Weather?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Quick-Weather' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Quick-Weather' alt='License'/>
 
     <details>
     <summary>More</summary>
@@ -759,7 +1582,25 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
-    **Links:** <a href='https://github.com/andrewk17/vercel-deployment-menu-bar/releases/latest'><img src='https://img.shields.io/github/v/release/andrewk17/vercel-deployment-menu-bar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/andrewk17/vercel-deployment-menu-bar'><img src='https://img.shields.io/github/stars/andrewk17/vercel-deployment-menu-bar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/andrewk17/vercel-deployment-menu-bar' alt='License'/>
+    **Website:** <https://ariessciences.com/highlight?product=quick-weather>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png' width='400' loading='lazy'/>
+
+    <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+*   [Vercel Deployment Menu Bar (⭐25)](https://github.com/andrewk17/vercel-deployment-menu-bar) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
+
+    **Badges:** <a href='https://github.com/andrewk17/vercel-deployment-menu-bar/releases/latest'><img src='https://img.shields.io/github/v/release/andrewk17/vercel-deployment-menu-bar?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/andrewk17/vercel-deployment-menu-bar'><img src='https://img.shields.io/github/stars/andrewk17/vercel-deployment-menu-bar?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/andrewk17/vercel-deployment-menu-bar' alt='Last commit'/>   <img src='https://img.shields.io/github/license/andrewk17/vercel-deployment-menu-bar' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
     **Website:** <https://vercel-deployment-menu-bar.vercel.app/>
 
@@ -770,17 +1611,17 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### 🔐 VPN & Proxy (7) / ✏️ Text (12)
+##### 🔐 VPN & Proxy (8) / ✏️ Text (13)
 
 *   [VPN Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
+
+    **Badges:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass' alt='Last commit'/>   <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/GeiserX/VPN-Bypass/releases/latest'><img src='https://img.shields.io/github/v/release/GeiserX/VPN-Bypass?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/GeiserX/VPN-Bypass'><img src='https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/GeiserX/VPN-Bypass' alt='License'/>
 
     **Website:** [https://github.com/GeiserX/VPN-Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass)
 
@@ -792,27 +1633,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     </p>
     </details>
-
-##### 📔 Notes (17) / ✏️ Text (12)
-
-*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
-
-    <details>
-    <summary>More</summary>
-    <p>
-
-    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
-
-    **Links:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
-
-    **Website:** <https://stik.ink>
-
-    </p>
-    </details>
-
-##### 🪟 Window Management (16) / ✏️ Text (12)
-
-*   [Dockit (⭐251)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+*   [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel.
 
     <details>
     <summary>More</summary>
@@ -820,7 +1641,55 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
-    **Links:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
+    **Website:** <https://www.wireguard.com/>
+
+    </p>
+    </details>
+
+##### 📦 Other (25) / ✏️ Text (13)
+
+*   [Gramps (⭐2.8k)](https://github.com/gramps-project/gramps) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
+
+    **Badges:** <a href='https://github.com/gramps-project/gramps/releases/latest'><img src='https://img.shields.io/github/v/release/gramps-project/gramps?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/gramps-project/gramps'><img src='https://img.shields.io/github/stars/gramps-project/gramps?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/gramps-project/gramps' alt='Last commit'/>   <img src='https://img.shields.io/github/license/gramps-project/gramps' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/python-16.png' alt='Python icon' title='Python' height='16'/>
+
+    **Website:** <https://gramps-project.org>
+
+    </p>
+    </details>
+*   [SwitchShuttle (⭐121)](https://github.com/s00d/switchshuttle) - Simple commands shortcut menu for macOS.
+
+    **Badges:** <a href='https://github.com/s00d/switchshuttle/releases/latest'><img src='https://img.shields.io/github/v/release/s00d/switchshuttle?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/s00d/switchshuttle'><img src='https://img.shields.io/github/stars/s00d/switchshuttle?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/s00d/switchshuttle' alt='Last commit'/>   <img src='https://img.shields.io/github/license/s00d/switchshuttle' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/>
+
+    **Screenshots:**
+
+    <img src='https://github.com/s00d/switchshuttle/raw/main/icons/intro.gif?raw=true' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+##### 🪟 Window Management (16) / ✏️ Text (13)
+
+*   [Dockit (⭐251)](https://github.com/xicheng148/Dockit) - An application that can dock any window to the edge of the screen.
+
+    **Badges:** <a href='https://github.com/xicheng148/Dockit/releases/latest'><img src='https://img.shields.io/github/v/release/xicheng148/Dockit?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/xicheng148/Dockit'><img src='https://img.shields.io/github/stars/xicheng148/Dockit?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/xicheng148/Dockit' alt='Last commit'/>   <img src='https://img.shields.io/github/license/xicheng148/Dockit' alt='License'/>
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
     **Website:** \[[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]\([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
 
@@ -832,13 +1701,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </details>
 *   [Loop (⭐10k)](https://github.com/MrKai77/Loop) - Window management made elegant.
 
+    **Badges:** <a href='https://github.com/MrKai77/Loop/releases/latest'><img src='https://img.shields.io/github/v/release/MrKai77/Loop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MrKai77/Loop'><img src='https://img.shields.io/github/stars/MrKai77/Loop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/MrKai77/Loop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/MrKai77/Loop' alt='License'/>
+
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/MrKai77/Loop/releases/latest'><img src='https://img.shields.io/github/v/release/MrKai77/Loop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/MrKai77/Loop'><img src='https://img.shields.io/github/stars/MrKai77/Loop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/MrKai77/Loop' alt='License'/>
 
     **Screenshots:**
 
@@ -848,13 +1717,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </details>
 *   [Window Glue (⭐212)](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.
 
+    **Badges:** <a href='https://github.com/Conxt/WindowGlue/releases/latest'><img src='https://img.shields.io/github/v/release/Conxt/WindowGlue?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Conxt/WindowGlue'><img src='https://img.shields.io/github/stars/Conxt/WindowGlue?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/Conxt/WindowGlue' alt='Last commit'/>   <img src='https://img.shields.io/github/license/Conxt/WindowGlue' alt='License'/>
+
     <details>
     <summary>More</summary>
     <p>
 
     **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
-
-    **Links:** <a href='https://github.com/Conxt/WindowGlue/releases/latest'><img src='https://img.shields.io/github/v/release/Conxt/WindowGlue?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/Conxt/WindowGlue'><img src='https://img.shields.io/github/stars/Conxt/WindowGlue?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/Conxt/WindowGlue' alt='License'/>
 
     **Screenshots:**
 
@@ -863,96 +1732,77 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
     </p>
     </details>
 
-##### ⏱️ Productivity (65) / ✏️ Text (12)
+##### 🖥️ Wallpaper (12) / ✏️ Text (13)
 
-*   [Readest (⭐17k)](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+*   [Equinox (⭐1.8k)](https://github.com/rlxone/Equinox) - Equinox is an application that allows you to create macOS dynamic wallpapers.
+
+    **Badges:** <a href='https://github.com/rlxone/Equinox/releases/latest'><img src='https://img.shields.io/github/v/release/rlxone/Equinox?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/rlxone/Equinox'><img src='https://img.shields.io/github/stars/rlxone/Equinox?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/rlxone/Equinox' alt='Last commit'/>   <img src='https://img.shields.io/github/license/rlxone/Equinox' alt='License'/>
 
     <details>
     <summary>More</summary>
     <p>
 
-    **Languages:** <img src='./icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/>
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
 
-    **Links:** <a href='https://github.com/readest/readest/releases/latest'><img src='https://img.shields.io/github/v/release/readest/readest?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/readest/readest'><img src='https://img.shields.io/github/stars/readest/readest?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/readest/readest' alt='License'/>
-
-    **Website:** <https://readest.com>
+    **Website:** <https://equinoxmac.com>
 
     **Screenshots:**
 
-    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png' width='400' loading='lazy'/>
-
-    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_control.png' width='400' loading='lazy'/>
-
-    <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy'/>
-
-    *(2 more screenshots available in the repository)*
+    <img src='https://github.com/rlxone/Equinox/blob/main/repo/screen1.jpg' width='400' loading='lazy'/>
 
     </p>
     </details>
 
-#### [33. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [38. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-##### Quantum Computing
+##### Applications
 
-*   [Cirq (⭐4.9k)](https://github.com/quantumlib/Cirq) — A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
-*   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
-*   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+*   [lzanini/mdbook-katex (⭐241)](https://github.com/lzanini/mdbook-katex) \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook (⭐21k)](https://github.com/rust-lang/mdBook), using KaTeX to render LaTeX math expressions.
 
-#### [34. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+##### Applications / Blockchain
 
-##### Matrix libraries / Third-party APIs
+*   [pragma-org/amaru (⭐99)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
 
-*   [LLA (⭐18)](https://github.com/Lisp-Stat/lla) -  Lisp Linear Algebra. MS-PL.
-    *   a high-level Common Lisp library built on on BLAS and LAPACK, but providing a more abstract interface with the purpose of freeing the user from low-level concerns and reducing the number of bugs in numerical code.
+##### Applications / File manager
 
-##### Utils / Third-party APIs
+*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
 
-*   [cl-cancel (⭐1)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
+##### Applications / Message Queue
 
-##### Event processing / Third-party APIs
+*   [Narwhal (⭐104)](https://github.com/narwhal-io/narwhal) - An extensible pub/sub messaging server for edge applications.
 
-*   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
-    *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
+##### Development tools / Profiling
 
-#### [35. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+*   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
-##### Caching
+##### Libraries / Artificial Intelligence
 
-*   [cache (⭐49)](https://github.com/crystal-cache/cache) - A key/value store where pairs can expire after a specified interval
+*   [katanemo/plano (⭐5.1k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
+*   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
-##### ORM/ODM Extensions
-
-*   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
-
-#### [36. Awesome V](/content/vlang/awesome-v/README.md)
-
-##### Command-line
-
-*   [amdim (⭐0)](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
-*   [mimicfs (⭐0)](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup).
-*   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-imsi catcher/Anti-Triangulation...).
-*   [stripshot (⭐0)](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
-*   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
-
-#### [37. Awesome Zig](/content/zigcc/awesome-zig/README.md)
-
-##### Fundamentals / Learning Resources
-
-*   [Изучаем язык программирования Zig](https://zig-lang.ru/) - Russian textbook and blog about Zig.
-
-##### Fundamentals / Linters
-
-*   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
-
-##### Fundamentals / Utility
-
-*   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
-
-#### [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### no-std crates / WIP
 
 *   [🤖 crispy-bootloader (⭐7)](https://github.com/ADNTIO/crispy-bootloader-rp2040-rs): Minimal dual-bank bootloader for RP2040 with USB firmware upload, A/B bank switching, and CRC verification.
+
+#### [40. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Queues & Pub/Sub / Clients & Libraries
+
+*   [SchwarzDigits/hypermatch (⭐33)](https://github.com/SchwarzDigits/hypermatch) — High-performance rule matching ☆`33`
+
+#### [41. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Productivity / Automation
+
+*   [rewhex/better-launchpad (⭐15)](https://github.com/rewhex/better-launchpad) — A smarter, more customizable Launchpad for macOS with fast search. ☆`16`
+
+#### [42. Awesome Ai](/content/abordage/awesome-ai/README.md)
+
+##### AI Coding Agents / Claude Code
+
+*   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`47`
 
 ---
 
@@ -966,50 +1816,50 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 118K 📝 02&#x2F;20) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 99K 📝 02&#x2F;20) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 165K 📝 02&#x2F;13) - A curated list of awesome Go frameworks, libraries and software
-7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 02&#x2F;19) - 🎉 A curated list of awesome things related to Vue.js
-8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 55K 📝 02&#x2F;19) - A curated list of Rust code and resources.
+7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 02&#x2F;20) - 🎉 A curated list of awesome things related to Vue.js
+8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 55K 📝 02&#x2F;20) - A curated list of Rust code and resources.
 9. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 47K 📝 02&#x2F;20) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 10. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 383K 📝 01&#x2F;27) - :books: Freely available programming books
-11. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 70K 📝 02&#x2F;12) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-12. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 33K 📝 02&#x2F;19) - A curated list of amazingly awesome open-source sysadmin resources.
+11. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 33K 📝 02&#x2F;20) - A curated list of amazingly awesome open-source sysadmin resources.
+12. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 70K 📝 02&#x2F;12) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 13. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source](https://github.com/enaqx/awesome-react) ⭐ 72K 📝 02&#x2F;08) - A collection of awesome things regarding React ecosystem
 14. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65K 📝 02&#x2F;08) - :zap: Delightful Node.js packages and resources
 15. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 02&#x2F;20) - List of useful Quick Look plugins for developers
-16. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source](https://github.com/akullpp/awesome-java) ⭐ 47K 📝 02&#x2F;08) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-17. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source](https://github.com/brillout/awesome-react-components) ⭐ 47K 📝 02&#x2F;08) - Curated List of React Components & Libraries.
-18. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 23K 📝 02&#x2F;15) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-19. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 43K 📝 02&#x2F;08) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-20. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 20K 📝 02&#x2F;16) - Collections of awesome neovim plugins.
-21. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 18K 📝 02&#x2F;16) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-22. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17K 📝 02&#x2F;16) - A collection of ZSH frameworks, plugins, themes and tutorials.
-23. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 02&#x2F;16) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-24. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11K 📝 02&#x2F;20) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-25. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source](https://github.com/awesome-lists/awesome-bash) ⭐ 9.5K 📝 02&#x2F;19) - A curated list of delightful Bash scripts and resources.
-26. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 72K 📝 01&#x2F;30) - A curated list of awesome Machine Learning frameworks, libraries and software.
-27. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 9.3K 📝 02&#x2F;19) - A curated list of free/libre plugins, scripts and add-ons for Godot
-28. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source](https://github.com/sindresorhus/awesome-electron) ⭐ 27K 📝 02&#x2F;08) - Useful resources for creating apps with Electron
-29. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 19K 📝 02&#x2F;12) - 🖥 📊 🕹 🛠 A curated list of command line apps
-30. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 02&#x2F;08) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-31. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 25K 📝 02&#x2F;08) - :scream: A curated list of amazingly awesome OSINT
-32. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source](https://github.com/tayllan/awesome-algorithms) ⭐ 25K 📝 02&#x2F;08) - A curated list of awesome places to learn and/or practice algorithms.
-33. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7.7K 📝 02&#x2F;20) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-34. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12K 📝 02&#x2F;15) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-35. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14K 📝 02&#x2F;12) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-36. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 20K 📝 02&#x2F;08) - A curated list of awesome READMEs
-37. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14K 📝 02&#x2F;12) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
-38. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source](https://github.com/jtoy/awesome-tensorflow) ⭐ 18K 📝 02&#x2F;09) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
-39. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source](https://github.com/vitejs/awesome-vite) ⭐ 17K 📝 02&#x2F;08) - ⚡️ A curated list of awesome things related to Vite.js
-40. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 16K 📝 02&#x2F;08) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-41. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source](https://github.com/mfornos/awesome-microservices) ⭐ 14K 📝 02&#x2F;08) - A curated list of Microservice Architecture related principles and technologies.
-42. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source](https://github.com/markets/awesome-ruby) ⭐ 14K 📝 02&#x2F;08) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-43. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source](https://github.com/sbilly/awesome-security) ⭐ 14K 📝 02&#x2F;08) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-44. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source](https://github.com/rossant/awesome-math) ⭐ 13K 📝 02&#x2F;08) - A curated list of awesome mathematics resources
-45. [PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md) - ([Source](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 6.5K 📝 02&#x2F;15) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
-46. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source](https://github.com/gramantin/awesome-rails) ⭐ 3.9K 📝 02&#x2F;19) - A curated list of awesome things related to Ruby on Rails
-47. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 35K 📝 01&#x2F;28) - :whale: A curated list of Docker resources and projects
-48. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source](https://github.com/newTendermint/awesome-bigdata) ⭐ 14K 📝 02&#x2F;06) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-49. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source](https://github.com/veelenga/awesome-crystal) ⭐ 3.5K 📝 02&#x2F;20) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
-50. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source](https://github.com/wsvincent/awesome-django) ⭐ 11K 📝 02&#x2F;08) - A curated list of awesome things related to Django
+16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14K 📝 02&#x2F;20) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+17. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source](https://github.com/akullpp/awesome-java) ⭐ 47K 📝 02&#x2F;08) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+18. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source](https://github.com/brillout/awesome-react-components) ⭐ 47K 📝 02&#x2F;08) - Curated List of React Components & Libraries.
+19. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 23K 📝 02&#x2F;15) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+20. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 43K 📝 02&#x2F;08) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+21. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 20K 📝 02&#x2F;16) - Collections of awesome neovim plugins.
+22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 18K 📝 02&#x2F;16) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+23. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17K 📝 02&#x2F;16) - A collection of ZSH frameworks, plugins, themes and tutorials.
+24. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 02&#x2F;16) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+25. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11K 📝 02&#x2F;20) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+26. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source](https://github.com/awesome-lists/awesome-bash) ⭐ 9.5K 📝 02&#x2F;19) - A curated list of delightful Bash scripts and resources.
+27. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 72K 📝 01&#x2F;30) - A curated list of awesome Machine Learning frameworks, libraries and software.
+28. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 9.3K 📝 02&#x2F;19) - A curated list of free/libre plugins, scripts and add-ons for Godot
+29. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source](https://github.com/sindresorhus/awesome-electron) ⭐ 27K 📝 02&#x2F;08) - Useful resources for creating apps with Electron
+30. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 19K 📝 02&#x2F;12) - 🖥 📊 🕹 🛠 A curated list of command line apps
+31. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 02&#x2F;08) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+32. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 25K 📝 02&#x2F;08) - :scream: A curated list of amazingly awesome OSINT
+33. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source](https://github.com/tayllan/awesome-algorithms) ⭐ 25K 📝 02&#x2F;08) - A curated list of awesome places to learn and/or practice algorithms.
+34. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7.7K 📝 02&#x2F;20) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+35. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12K 📝 02&#x2F;15) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+36. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source](https://github.com/shuaibiyy/awesome-terraform) ⭐ 6.3K 📝 02&#x2F;20) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+37. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 20K 📝 02&#x2F;08) - A curated list of awesome READMEs
+38. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14K 📝 02&#x2F;12) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+39. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source](https://github.com/jtoy/awesome-tensorflow) ⭐ 18K 📝 02&#x2F;09) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+40. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source](https://github.com/vitejs/awesome-vite) ⭐ 17K 📝 02&#x2F;08) - ⚡️ A curated list of awesome things related to Vite.js
+41. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 16K 📝 02&#x2F;08) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+42. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source](https://github.com/mfornos/awesome-microservices) ⭐ 14K 📝 02&#x2F;08) - A curated list of Microservice Architecture related principles and technologies.
+43. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source](https://github.com/markets/awesome-ruby) ⭐ 14K 📝 02&#x2F;08) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+44. [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source](https://github.com/sbilly/awesome-security) ⭐ 14K 📝 02&#x2F;08) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+45. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source](https://github.com/rossant/awesome-math) ⭐ 13K 📝 02&#x2F;08) - A curated list of awesome mathematics resources
+46. [PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md) - ([Source](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 6.5K 📝 02&#x2F;15) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
+47. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source](https://github.com/gramantin/awesome-rails) ⭐ 3.9K 📝 02&#x2F;19) - A curated list of awesome things related to Ruby on Rails
+48. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 35K 📝 01&#x2F;28) - :whale: A curated list of Docker resources and projects
+49. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source](https://github.com/newTendermint/awesome-bigdata) ⭐ 14K 📝 02&#x2F;06) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+50. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source](https://github.com/veelenga/awesome-crystal) ⭐ 3.5K 📝 02&#x2F;20) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 
 ## All Tracked List
 
@@ -1042,7 +1892,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md) - ([Source ⭐ 1.5K, 📝 22&#x2F;12&#x2F;04 ](https://github.com/sitepoint-editors/awesome-symfony)) - A list of awesome Symfony bundles, utilities and resources.
 - [Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md) - ([Source ⭐ 316, 📝 19&#x2F;02&#x2F;23 ](https://github.com/pehapkari/awesome-symfony-education)) - Useful sources around Symfony - articles, series and books (not Bundles)
 - [Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md) - ([Source ⭐ 748, 📝 22&#x2F;02&#x2F;03 ](https://github.com/livewire/awesome-tall-stack)) - A curated list of awesome things related to the TALL stack.
-- [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 6.3K, 📝 02&#x2F;07 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+- [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 6.3K, 📝 02&#x2F;20 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md) - ([Source ⭐ 563, 📝 20&#x2F;10&#x2F;07 ](https://github.com/iJackUA/awesome-vagrant)) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [Awesome Vapor](/content/vapor-community/awesome-vapor/README.md) - ([Source ⭐ 980, 📝 19&#x2F;10&#x2F;21 ](https://github.com/vapor-community/awesome-vapor)) - A curated list of Vapor-related awesome projects.
 - [Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md) - ([Source ⭐ 66, 📝 20&#x2F;08&#x2F;16 ](https://github.com/PhantomYdn/awesome-wicket)) - A curated list of awesome projects powered by Apache Wicket 
@@ -1133,7 +1983,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
 - [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;12&#x2F;27 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
-- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 02&#x2F;12 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 02&#x2F;20 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
 ### Content Management Systems
 
@@ -1213,7 +2063,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Qgis](/content/totpero/awesome-qgis/README.md) - ([Source ⭐ 10, 📝 70&#x2F;01&#x2F;01 ](https://github.com/totpero/awesome-qgis)) - An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 - [Awesome Shell](/content/alebcay/awesome-shell/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;02&#x2F;20 ](https://github.com/alebcay/awesome-shell)) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Ssh](/content/moul/awesome-ssh/README.md) - ([Source ⭐ 2K, 📝 21&#x2F;09&#x2F;14 ](https://github.com/moul/awesome-ssh)) - :computer: A curated list of SSH resources.
-- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 33K, 📝 02&#x2F;19 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
+- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 33K, 📝 02&#x2F;20 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Awesome Terminals](/content/cdleon/awesome-terminals/README.md) - ([Source ⭐ 2.6K, 📝 25&#x2F;09&#x2F;22 ](https://github.com/cdleon/awesome-terminals)) - Terminal Emulators
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 9.4K, 📝 02&#x2F;08 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 5.3K, 📝 24&#x2F;04&#x2F;02 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
@@ -1285,7 +2135,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Js Tooling in Rust](/content/karimould/awesome-js-tooling-in-rust/README.md) - ([Source ⭐ 421, 📝 24&#x2F;12&#x2F;28 ](https://github.com/karimould/awesome-js-tooling-in-rust)) - A curated list of JavaScript tooling written in Rust
 - [Awesome Knockout](/content/dnbard/awesome-knockout/README.md) - ([Source ⭐ 91, 📝 16&#x2F;05&#x2F;06 ](https://github.com/dnbard/awesome-knockout)) - A curated list of awesome plugins for Knockout
 - [Awesome Less](/content/LucasBassetti/awesome-less/README.md) - ([Source ⭐ 52, 📝 17&#x2F;05&#x2F;10 ](https://github.com/LucasBassetti/awesome-less)) - :sunglasses: A curated list of awesome {Less}
-- [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source ⭐ 1.7K, 📝 25&#x2F;12&#x2F;31 ](https://github.com/web-padawan/awesome-lit)) - A curated list of awesome Lit resources.
+- [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source ⭐ 1.7K, 📝 02&#x2F;20 ](https://github.com/web-padawan/awesome-lit)) - A curated list of awesome Lit resources.
 - [Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md) - ([Source ⭐ 154, 📝 17&#x2F;01&#x2F;01 ](https://github.com/sadcitizen/awesome-marionette)) - A list of resources for marionette.js
 - [Awesome Material](/content/sachin1092/awesome-material/README.md) - ([Source ⭐ 593, 📝 22&#x2F;10&#x2F;05 ](https://github.com/sachin1092/awesome-material)) - A curated list of Google's material design libraries for different frameworks.
 - [Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md) - ([Source ⭐ 219, 📝 24&#x2F;08&#x2F;28 ](https://github.com/nadunindunil/awesome-material-ui)) - A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date 
@@ -1312,7 +2162,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 5.1K, 📝 02&#x2F;09 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;08 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K, 📝 02&#x2F;19 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K, 📝 02&#x2F;20 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 - [Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;09&#x2F;16 ](https://github.com/sergey-pimenov/awesome-web-animation)) - A list of awesome web animation libraries, books, apps etc.
 - [Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md) - ([Source ⭐ 113, 📝 25&#x2F;01&#x2F;01 ](https://github.com/pajaydev/awesome-web-performance-budget)) - ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 - [Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md) - ([Source ⭐ 1.3K, 📝 02&#x2F;08 ](https://github.com/notthetup/awesome-webaudio)) - A curated list of awesome WebAudio packages and resources.
@@ -1553,7 +2403,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Speakers](/content/karlhorky/awesome-speakers/README.md) - ([Source ⭐ 757, 📝 23&#x2F;08&#x2F;24 ](https://github.com/karlhorky/awesome-speakers)) - Awesome speakers in the programming and design communities
 - [Awesome Sre](/content/dastergon/awesome-sre/README.md) - ([Source ⭐ 9.1K, 📝 22&#x2F;09&#x2F;02 ](https://github.com/dastergon/awesome-sre)) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome Stacks](/content/stackshareio/awesome-stacks/README.md) - ([Source ⭐ 3.3K, 📝 24&#x2F;03&#x2F;08 ](https://github.com/stackshareio/awesome-stacks)) - A curated list of tech stacks for building different applications & features
-- [Awesome Steam](/content/scholtzm/awesome-steam/README.md) - ([Source ⭐ 520, 📝 25&#x2F;05&#x2F;17 ](https://github.com/scholtzm/awesome-steam)) - 😎 A curated list of packages and resources regarding Steam development
+- [Awesome Steam](/content/scholtzm/awesome-steam/README.md) - ([Source ⭐ 556, 📝 25&#x2F;05&#x2F;17 ](https://github.com/scholtzm/awesome-steam)) - 😎 A curated list of packages and resources regarding Steam development
 - [Awesome Theravada](/content/johnjago/awesome-theravada/README.md) - ([Source ⭐ 126, 📝 23&#x2F;07&#x2F;14 ](https://github.com/johnjago/awesome-theravada)) - Curated list of Theravada Buddhist teachings
 - [Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md) - ([Source ⭐ 1.5K, 📝 24&#x2F;10&#x2F;05 ](https://github.com/xiaohanyu/awesome-tikz)) - A curated list of awesome TikZ documentations, libraries and resources
 - [Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md) - ([Source ⭐ 1.7K, 📝 02&#x2F;08 ](https://github.com/CUTR-at-USF/awesome-transit)) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
@@ -1690,7 +2540,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 02&#x2F;08 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
 - [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 165K, 📝 02&#x2F;13 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 02&#x2F;15 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 02&#x2F;20 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
@@ -1721,7 +2571,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6.4K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 02&#x2F;08 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K, 📝 02&#x2F;19 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 55K, 📝 02&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 266, 📝 25&#x2F;07&#x2F;14 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

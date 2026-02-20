@@ -20,12 +20,17 @@ A curated list of Rust code and resources.
 
 *   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
 
+### Applications / Message Queue
+
+*   [Narwhal (⭐104)](https://github.com/narwhal-io/narwhal) - An extensible pub/sub messaging server for edge applications.
+
 ### Development tools / Profiling
 
 *   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
 ### Libraries / Artificial Intelligence
 
+*   [katanemo/plano (⭐5.1k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
 *   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
