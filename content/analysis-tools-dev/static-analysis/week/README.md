@@ -13,8 +13,14 @@
 *   **i-Code CNES for Fortran** :warning: — An open source static code analysis tool for Fortran 77, Fortran 90 and Shell.
 *   **go-consistent** :warning: — Analyzer that helps you to make your Go programs more consistent.
 *   **unconvert** :warning: — Detect redundant type conversions.
+*   [JLiSA (⭐25)](https://github.com/lisa-analyzer/jlisa) — An abstract interpretation-based static analyzer for Java build upon the [LiSA (⭐73)](https://github.com/lisa-analyzer/lisa) framekwork.
 *   **OWASP Dependency Check** :warning: — Checks dependencies for known, publicly disclosed, vulnerabilities.
+*   [Pyra (⭐29)](https://github.com/spangea/Pyra) — Pyra is a high-level linter static analyzer for data science applications written in Python, that helps developers identify potential issues in their data science code written in Python, as an extension of [Lyra (⭐31)](https://github.com/caterinaurban/Lyra).
 *   **i-Code CNES for Shell** :warning: — An open source static code analysis tool for Shell and Fortran (77 and 90).
+
+### Multiple languages / [Other](#other-1)
+
+*   **ShiftLeft Scan** :warning: — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines. Note: ShiftLeft rebranded to Qwiet AI in 2023, which was subsequently acquired by Harness in September 2025. This open-source project is no longer maintained.
 
 ### Other / [Other](#other-1)
 
@@ -815,10 +821,6 @@
 *   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
     It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 *   [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
-
-### Multiple languages / [Other](#other-1)
-
-*   [ShiftLeft Scan (⭐864)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 

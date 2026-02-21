@@ -6,6 +6,30 @@
 
 [ [Daily](/content/riderx/awesome-capacitor/README.md) / Weekly / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### [Capgo plugins](https://capgo.app/) / Device & Sensors
+
+*   [Age Range (⭐2)](https://github.com/Cap-go/capacitor-age-range) - Cross-platform age range detection for Android and iOS.
+
+### [Capgo plugins](https://capgo.app/) / Authentication & Security
+
+*   [App Attest (⭐1)](https://github.com/Cap-go/capacitor-app-attest) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+*   [App Tracking Transparency (⭐2)](https://github.com/Cap-go/capacitor-app-tracking-transparency) - Request ATT authorization for tracking on iOS.
+*   [Persona (⭐1)](https://github.com/Cap-go/capacitor-persona) - Launch Persona inquiry flows on iOS and Android.
+
+### [Capgo plugins](https://capgo.app/) / UI & Display
+
+*   [Live Activities](https://github.com/Cap-go/capacitor-live-activities) - Manage iOS Live Activities from Capacitor.
+
+### [Capgo plugins](https://capgo.app/) / Communication & Messaging
+
+*   [Intercom](https://github.com/Cap-go/capacitor-intercom) - Intercom SDK integration for Capacitor apps.
+
+### [Capgo plugins](https://capgo.app/) / Utilities
+
+*   [WebView Version Checker (⭐3)](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Official plugins

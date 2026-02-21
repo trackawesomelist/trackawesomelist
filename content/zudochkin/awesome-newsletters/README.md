@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Feb 21, 2026](/content/2026/02/21/README.md)
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### General Section / Svelte

@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Productivity
+
+*   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/TypeWhisper/typewhisper-win)
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Customization
@@ -33,7 +39,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Audio
 
 *   [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.
-*   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering.
+*   [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
 ### Game Stores
 
@@ -161,7 +167,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Command Line Tools
 
 *   [gallery-dl (⭐17k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [yt-dlp (⭐145k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐148k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### File Management
 

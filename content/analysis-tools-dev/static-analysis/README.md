@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Feb 21, 2026](/content/2026/02/21/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [JLiSA (⭐25)](https://github.com/lisa-analyzer/jlisa) — An abstract interpretation-based static analyzer for Java build upon the [LiSA (⭐73)](https://github.com/lisa-analyzer/lisa) framekwork.
+*   [Pyra (⭐29)](https://github.com/spangea/Pyra) — Pyra is a high-level linter static analyzer for data science applications written in Python, that helps developers identify potential issues in their data science code written in Python, as an extension of [Lyra (⭐31)](https://github.com/caterinaurban/Lyra).
+
+### Multiple languages / [Other](#other-1)
+
+*   **ShiftLeft Scan** :warning: — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines. Note: ShiftLeft rebranded to Qwiet AI in 2023, which was subsequently acquired by Harness in September 2025. This open-source project is no longer maintained.
+
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -930,12 +941,6 @@
     A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
 *   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
     It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
-
-## [Feb 08, 2023](/content/2023/02/08/README.md)
-
-### Multiple languages / [Other](#other-1)
-
-*   [ShiftLeft Scan (⭐864)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 ## [Feb 07, 2023](/content/2023/02/07/README.md)
 
