@@ -6,6 +6,12 @@
 
 [ [Daily](/content/gofiber/awesome-fiber/README.md) / Weekly / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [fugue-labs/gollem (⭐1)](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
