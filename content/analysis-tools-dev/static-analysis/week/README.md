@@ -27,6 +27,10 @@
 *   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 *   [promformat (⭐38)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 
+### More Collections / [Other](#other-1)
+
+*   [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Programming Languages / [Other](#other-1)

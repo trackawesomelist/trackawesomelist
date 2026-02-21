@@ -1,12 +1,23 @@
 # Awesome List Updates on Feb 23 - Mar 01, 2026
 
-49 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [1. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Security
+
+*   [buildcage (⭐2)](https://github.com/dash14/buildcage) - Restricts outbound network access during Docker builds to prevent supply chain attacks, working as a drop-in BuildKit remote driver for Docker Buildx, with ready-to-use GitHub Actions by [@dash14](https://github.com/dash14)
+*   [crowdsec-blocklist-import (⭐170)](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By [@wolffcatskyy](https://github.com/wolffcatskyy)
+
+### CI/CD / Other
+
+*   [Drydock (⭐84)](https://github.com/CodesWhat/drydock) - Open-source container update monitoring with web dashboard, 15 registries, 16 notification triggers, and security scanning. Drop-in WUD replacement. By [@CodesWhat](https://github.com/CodesWhat)
+
+## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Comparison
 
@@ -14,19 +25,173 @@
 *   [koala-diff (⭐4)](https://github.com/godalida/koala-diff) - A high-performance Python library for comparing large datasets (CSV, Parquet) locally using Rust and Polars. It features zero-copy streaming to prevent OOM errors and generates interactive HTML data quality reports.
 *   [everyrow (⭐16)](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK for Python. Semantic deduplication, fuzzy table merging, and intelligent row ranking using LLM agents.
 
-## [2. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [3. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [fugue-labs/gollem (⭐1)](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
 
-## [3. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+
+### Platforms
+
+*   [AutoGPT (⭐182k)](https://github.com/Significant-Gravitas/AutoGPT) - Open-source attempt to make GPT-4 fully autonomous with self-prompting and task decomposition.
+*   [AgentGPT (⭐36k)](https://github.com/reworkd/AgentGPT) - Browser-based tool for assembling, configuring, and deploying autonomous AI agents.
+*   [BabyAGI (⭐22k)](https://github.com/yoheinakajima/babyagi) - Task management system using OpenAI and vector databases to create and prioritize tasks autonomously.
+*   [SuperAGI (⭐17k)](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework with tools, logs, and agent provisioning.
+*   [MetaGPT (⭐64k)](https://github.com/geekan/MetaGPT) - Multi-agent framework assigning different GPT roles to form collaborative software entities.
+*   [OpenHands (⭐68k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software engineering agents (formerly OpenDevin).
+*   [Devin](https://devin.ai/) - AI software engineer capable of planning, coding, testing, and deploying autonomously.
+*   [Replit Agent](https://replit.com/agent) - AI agent that builds entire applications from natural language descriptions inside the Replit IDE.
+*   [Cursor](https://cursor.sh/) - AI-first code editor with built-in agent capabilities for multi-file editing and codebase reasoning.
+*   [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool that lives in your terminal and understands your entire codebase.
+*   [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) - GitHub's task-centric AI environment for planning, implementing, and testing code changes.
+*   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with Cascade agent for multi-file edits, terminal commands, and codebase-aware reasoning.
+*   [OpenClaw](https://openclaw.org) - Open agent directory and discovery platform for registering and finding AI agents across the web.
+*   [E2B (⭐11k)](https://github.com/e2b-dev/e2b) - Open-source cloud runtime providing sandboxed environments for AI agent code execution.
+*   [Wordware](https://www.wordware.ai/) - Natural language programming platform for building AI agents without traditional code.
+*   [Relevance AI](https://relevanceai.com/) - No-code platform for building and deploying AI agents and multi-step workflows.
+*   [Flowise (⭐49k)](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM orchestration flows and AI agents.
+*   [Dify (⭐130k)](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
+*   [Letta (⭐21k)](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
+*   [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
+
+### Video and Media
+
+*   [BoTTube](https://bottube.ai) - AI-native video platform where agents generate, upload, and curate video content with social engagement.
+*   [Runway](https://runwayml.com/) - Applied AI research company building creative tools including Gen-3 video generation.
+*   [Pika](https://pika.art/) - AI video generation platform creating and editing videos from text and images.
+*   [InVideo AI](https://invideo.io/ai/) - AI-powered video creation tool that turns text prompts into publish-ready videos.
+*   [LTX Studio](https://ltx.studio/) - AI filmmaking platform for creating full video productions with characters, scenes, and effects.
+*   [HeyGen](https://www.heygen.com/) - AI video generation platform specializing in talking avatar videos and video translation.
+*   [Synthesia](https://www.synthesia.io/) - Enterprise AI video platform for creating professional videos with AI avatars and voices.
+*   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
+*   [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
+*   [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
+*   [ComfyUI (⭐103k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
+*   [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
+
+### Social and Community
+
+*   [Moltbook](https://moltbook.com) - Reddit-style social platform with community-driven submolts where AI agents participate alongside humans.
+*   [ClawCities](https://clawcities.com) - Virtual world and agent directory where AI agents claim territories and interact in themed zones.
+*   [4Claw](https://4claw.com) - Anonymous imageboard-style platform for AI agents to post freely across topic boards.
+*   [Clawsta](https://clawsta.com) - Instagram-style visual social network for AI agents to share images and stories.
+*   [AgentChan](https://agentchan.com) - Community hub for discovering and following AI agents across multiple platforms.
+*   [SwarmHub](https://swarmhub.ai) - Coordination layer for multi-agent swarms enabling discovery, pairing, and task delegation.
+*   [Agent Directory](https://agentdirectory.ai) - Searchable registry of AI agents with profiles, capabilities, and contact information.
+*   [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters that have distinct personalities.
+*   [SillyTavern (⭐23k)](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
+*   [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
+
+### Frameworks
+
+*   [LangChain (⭐126k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
+*   [CrewAI (⭐44k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
+*   [Autogen (⭐54k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
+*   [Semantic Kernel (⭐27k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
+*   [Phidata (⭐38k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
+*   [Haystack (⭐24k)](https://github.com/deepset-ai/haystack) - End-to-end NLP framework for building production-ready LLM applications and agents.
+*   [Pydantic AI (⭐15k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
+*   [Swarm (⭐21k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
+*   [Smolagents (⭐26k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
+*   [LangGraph (⭐25k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+*   [DSPy (⭐32k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
+*   [Rivet (⭐4.5k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
+*   [Composio (⭐27k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
+*   [Coinbase AgentKit (⭐1.1k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
+*   [Vercel AI SDK (⭐22k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
+*   [Instructor (⭐12k)](https://github.com/instructor-ai/instructor) - Library for structured data extraction from LLMs using Pydantic models.
+*   [Camel (⭐16k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
+*   [Agency Swarm (⭐4k)](https://github.com/VRSEN/agency-swarm) - Framework for creating collaborative swarms of AI agents based on the agency model.
+*   [TaskWeaver (⭐6.1k)](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
+*   [Mastra (⭐21k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
+*   [Agno (⭐38k)](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
+
+### Agent-to-Agent Protocols
+
+*   [Google A2A (⭐22k)](https://github.com/google/A2A) - Google's open Agent-to-Agent protocol enabling interoperable communication between AI agents.
+*   [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Anthropic's open protocol for connecting AI models to external data sources and tools.
+*   [OpenClaw Beacon (⭐23)](https://github.com/Scottcjn/beacon-skill) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings.
+*   [Grazer (⭐11)](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
+*   [Agent Protocol (⭐1.4k)](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface specification for communicating with AI agents regardless of underlying implementation.
+*   [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
+*   [LMOS](https://github.com/eclipse-lmos/lmos) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
+*   [ANP (⭐1.2k)](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+
+### Blockchain and Rewards
+
+*   [RustChain (⭐50)](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage and exotic hardware miners with RTC tokens.
+*   [wRTC Token (Solana)](https://solscan.io/token/12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZGf5i4X) - Wrapped RTC token bridged to Solana with a Raydium liquidity pool.
+*   [wRTC Token (Base)](https://basescan.org/token/0x5683C10596AaA09AD7F4eF13CAB94b9b74A669c6) - Wrapped RTC token on Base L2 with an Aerodrome liquidity pool.
+*   [x402 Payment Protocol (⭐5.5k)](https://github.com/coinbase/x402) - Coinbase's HTTP 402-based micropayment protocol enabling agents to pay for API access natively.
+*   [Fetch.ai (⭐122)](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
+*   [Autonolas (⭐114)](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
+*   [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.
+*   [ai16z ELIZA (⭐18k)](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
+*   [Morpheus (⭐218)](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
+*   [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
+*   [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
+
+### Monitoring and Observability
+
+*   [OpenClaw Beacon Scorecard (⭐23)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
+*   [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
+*   [Helicone (⭐5.1k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
+*   [Langfuse (⭐22k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
+*   [Arize Phoenix (⭐8.6k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
+*   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
+*   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
+*   [Portkey (⭐11k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
+*   [AgentOps (⭐5.3k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
+
+### SDKs and Libraries
+
+*   [bottube](https://pypi.org/project/bottube/) - Python SDK for the BoTTube platform enabling agents to upload videos, post comments, and manage profiles.
+*   [clawrtc](https://pypi.org/project/clawrtc/) - Python CLI and library for RustChain mining, wallet management, and Coinbase wallet integration.
+*   [beacon-skill (⭐23)](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
+*   [grazer-skill](https://pypi.org/project/grazer-skill/) - Multi-platform social SDK allowing agents to post and interact across BoTTube, Moltbook, ClawCities, and 6 more.
+*   [OpenAI Python (⭐30k)](https://github.com/openai/openai-python) - Official Python client library for the OpenAI API including assistants and tool use.
+*   [Anthropic Python (⭐2.8k)](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
+*   [Google GenAI (⭐2.3k)](https://github.com/google/generative-ai-python) - Google's Python SDK for Gemini models with function calling and multi-modal support.
+*   [Ollama Python (⭐9.4k)](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
+*   [LiteLLM (⭐37k)](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
+*   [Marvin (⭐6.1k)](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
+
+### Standards and Specifications
+
+*   [RIP-200 (⭐50)](https://github.com/Scottcjn/Rustchain) - RustChain Improvement Proposal for Round-Robin 1-CPU-1-Vote consensus with hardware attestation and time-aged antiquity multipliers.
+*   [OpenAPI Specification (⭐31k)](https://github.com/OAI/OpenAPI-Specification) - Industry-standard specification for describing HTTP APIs, widely used for agent tool definitions.
+*   [JSON-RPC 2.0](https://www.jsonrpc.org/specification) - Stateless, lightweight remote procedure call protocol used by MCP and other agent communication layers.
+*   [A2A Protocol Spec (⭐22k)](https://github.com/google/A2A) - Google's specification for agent interoperability defining Agent Cards, task lifecycle, and streaming.
+*   [MCP Specification](https://spec.modelcontextprotocol.io/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
+*   [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
+*   [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
+*   [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
+
+### Research and Papers
+
+*   [A Survey on Large Language Model Based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey covering LLM-based agent architectures, capabilities, and evaluation (2023).
+*   [The Rise and Potential of Large Language Model Based Agents](https://arxiv.org/abs/2309.07864) - Survey mapping the conceptual framework for LLM agents from a cognitive science perspective (2023).
+*   [AgentBench (⭐3.2k)](https://github.com/THUDM/AgentBench) - Benchmark for evaluating LLMs as agents across 8 distinct environments including web, code, and games.
+*   [Voyager (⭐6.7k)](https://github.com/MineDojo/Voyager) - LLM-powered lifelong learning agent that explores, acquires skills, and makes discoveries in Minecraft.
+*   [Generative Agents](https://arxiv.org/abs/2304.03442) - Stanford and Google's research on believable simulacra of human behavior using LLM-driven agents (2023).
+*   [Toolformer](https://arxiv.org/abs/2302.04761) - Meta's research on language models that learn to use external tools through self-supervised training (2023).
+*   [ReAct](https://arxiv.org/abs/2210.03629) - Foundational paper on synergizing reasoning and acting in language models for agent task solving (2022).
+*   [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) - Google's paper showing intermediate reasoning steps improve complex task performance (2022).
+*   [MRKL Systems](https://arxiv.org/abs/2205.00445) - Modular neuro-symbolic architecture for combining LLMs with discrete expert modules and tools (2022).
+*   [Reflexion](https://arxiv.org/abs/2303.11366) - Framework for reinforcing language agents through linguistic feedback and self-reflection (2023).
+*   [Language Agent Tree Search](https://arxiv.org/abs/2310.04406) - General framework unifying reasoning, acting, and planning in language agents via Monte Carlo tree search (2023).
+*   [POWER8 Non-Bijunctive Collapse (⭐11)](https://github.com/Scottcjn/ram-coffers) - Research on vec\_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
+
+## [5. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/TypeWhisper/typewhisper-win)
 
-## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/) / Device & Sensors
 
@@ -50,7 +215,7 @@
 
 *   [WebView Version Checker (⭐3)](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -95,13 +260,13 @@
 
 *   [OpenMessaging (⭐289) (⭐290)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
 *   [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 
-## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / For Managing WSL Installations
 
@@ -112,19 +277,19 @@
 *   [wsl-open (⭐2)](https://github.com/jbwfu/wsl-open) - A Go utility for WSL to open files, directories, and URLs in their default Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [gowinbridge (⭐0)](https://github.com/Sibikrish3000/gowinbridge) - A Go library and CLI for executing Windows binaries from WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [8. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [10. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Queues & Pub/Sub / Clients & Libraries
 
 *   [SchwarzDigits/hypermatch (⭐33)](https://github.com/SchwarzDigits/hypermatch) — High-performance rule matching ☆`33`
 
-## [9. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [11. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [M3E (⭐57)](https://github.com/matraic/m3e) - Web Components implementing Material 3 Expressive.
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -145,19 +310,23 @@
 *   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 *   [promformat (⭐38)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+### More Collections / [Other](#other-1)
+
+*   [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
+
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [InfraScan](https://infrascan.soldevelo.com) - Advanced Infrastructure Auditor for cost and security analysis of Terraform, AWS, and Kubernetes.
 
-## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [🤖 crispy-bootloader (⭐7)](https://github.com/ADNTIO/crispy-bootloader-rp2040-rs): Minimal dual-bank bootloader for RP2040 with USB firmware upload, A/B bank switching, and CRC verification.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Caching
 
@@ -167,7 +336,7 @@
 
 *   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
 
-## [14. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [16. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### 🎵 Audio (39)
 
@@ -1263,7 +1432,7 @@
     </p>
     </details>
 
-## [15. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [17. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Education
 
@@ -1275,7 +1444,7 @@
 
 
 
-## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 - API: [Zenserp](https://zenserp.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -1306,13 +1475,13 @@
 
 
 
-## [17. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 
-## [18. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [20. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -1324,13 +1493,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
 
-## [19. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [21. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / Claude Code
 
 *   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`47`
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1341,19 +1510,19 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
 
-## [21. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [23. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Downloading and Serving
 
 *   [bashbro (⭐222)](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
 
-## [22. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [sidemail (⭐2)](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red\_circle:](https://rubygems.org/gems/sidemail)
 
-## [23. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [25. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Learning Resources
 
@@ -1371,31 +1540,31 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [nullclaw/nullclaw (⭐1.3k)](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 
-## [24. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [26. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
 *   [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐3.1k)](https://github.com/SciML/DifferentialEquations.jl))
 
-## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Role Playing
 
 *   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
 
-## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
 *   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 
-## [27. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -1479,7 +1648,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -1489,19 +1658,19 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.1k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 
-## [30. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Misc / Mathematics For Computer Science
 
 *   [Front-end Debugging Tools Handbook (⭐9)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 
-## [31. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Productivity / Automation
 
 *   [rewhex/better-launchpad (⭐15)](https://github.com/rewhex/better-launchpad) — A smarter, more customizable Launchpad for macOS with fast search. ☆`16`
 
-## [32. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [34. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -1512,7 +1681,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [jspicl (⭐68)](https://github.com/jspicl/jspicl) - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 
-## [33. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -1522,19 +1691,19 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Web Servers
 
 *   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
 
-## [35. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [37. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
 *   [Crimsonland (⭐112)](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 
-## [36. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -1548,7 +1717,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
-## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [39. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Quantum Computing
 
@@ -1556,7 +1725,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 
-## [38. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [40. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Containerization and virtualization
 
@@ -1588,7 +1757,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [gitlogue (⭐4.2k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -1601,7 +1770,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [KETE - Event forwarding](https://fortunen.github.io/kete)
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Matrix libraries / Third-party APIs
 
@@ -1617,7 +1786,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
     *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -1635,13 +1804,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [CakePHP Docker Setup (⭐0)](https://github.com/cpierce/cakephp-docker-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Docker.
 
-## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
@@ -1651,23 +1820,24 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   **Google Calendar** - Tracks your events, integrates with Google's advertising ecosystem, and your data is stored on Google's servers without end-to-end encryption.
 
-## [44. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 
-## [45. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [47. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [amdim (⭐0)](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
 *   [mimicfs (⭐0)](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup).
-*   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-imsi catcher/Anti-Triangulation...).
+*   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 *   [stripshot (⭐0)](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
+*   [timingless (⭐0)](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 *   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -1699,13 +1869,17 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [katanemo/plano (⭐5.1k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
 *   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
-## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Language / Assembly
 
 *   [noir4y/comment-translate.nvim (⭐7)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 
-## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Workflow / Stats Tracking
+
+*   [aikhe/wrapped.nvim (⭐154)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
+
+## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1716,7 +1890,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [better-robbyrussell (⭐0)](https://github.com/ymulenll/oh-my-zsh-better-robbyrussell) - Modified version of the [robbyrussell (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme in oh-my-zsh that keeps the simplicity of the original theme while adding AWS profile awareness. Includes decorators for AWS profile, `git` branch display with optional truncation, directory path and the exit status of last command run.
 
-## [49. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [51. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Security
 

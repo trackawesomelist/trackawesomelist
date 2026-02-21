@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [noir4y/comment-translate.nvim (⭐7)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 
+### Workflow / Stats Tracking
+
+*   [aikhe/wrapped.nvim (⭐154)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### LSP
@@ -492,7 +496,7 @@ Collections of awesome neovim plugins.
     *   [mikavilpas/blink-ripgrep.nvim (⭐111)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐21)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐6)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐10)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐41k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐10)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐42k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐70)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐11)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐33)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -2501,7 +2505,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Assembly
 
-*   [rolv-apneseth/tfm.nvim (⭐96)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐32k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐96)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐33k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Assembly
 

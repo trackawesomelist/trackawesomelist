@@ -17,6 +17,10 @@
 
 *   **ShiftLeft Scan** :warning: — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines. Note: ShiftLeft rebranded to Qwiet AI in 2023, which was subsequently acquired by Harness in September 2025. This open-source project is no longer maintained.
 
+### More Collections / [Other](#other-1)
+
+*   [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
+
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
 ### Programming Languages / [Other](#other-1)
