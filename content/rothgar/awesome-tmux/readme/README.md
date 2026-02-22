@@ -8,7 +8,7 @@ A list of awesome resources for tmux
 
 ---
 
-![](https://github.com/rothgar/awesome-tmux/raw/master/./img/banner.png)
+![](https://github.com/rothgar/awesome-tmux/raw/main/./img/banner.png)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of helpful tmux links for various tutorials, plugins, and configuration settings.
@@ -77,6 +77,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-powerkit (⭐463)](https://github.com/fabioluciano/tmux-powerkit) A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.
 *   [tmux-project (⭐6)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 *   [tmux-suspend (⭐156)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
+*   [tmux-task-monitor (⭐30)](https://github.com/YlanAllouche/tmux-task-monitor) a htop-like resource monitor popup that only shows the processes linked to the current session
 *   [tmux-tea (⭐75)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 *   [tmux-tpad (⭐25)](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
 *   [tmux-up (⭐112)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
@@ -94,6 +95,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 *   [amp (⭐1)](https://github.com/imdanielpiva/tmux-amp-theme) tmux theme based on the Amp Code website colors.
 *   [catppuccin (⭐2.8k)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+*   [cole-tmux (⭐0)](https://github.com/thekylehuang/cole-tmux) Stationery-inspired minimal theme displayed in vintage earth tones
 *   [dracula/tmux (⭐795)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 *   [minimal-tmux-status (⭐251)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
 *   [nord tmux (⭐1.2k)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
@@ -147,6 +149,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-pomodoro-plus (⭐438)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 *   [tmux-powerline-nostatus](https://gist.github.com/james1236/73bb8b7279dca0bc821518abada38f1e) Display your tmux window list directly in your terminal prompt, eliminating the tmux status bar.
 *   [tmux-prefix-highlight (⭐652)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-session-dots (⭐0)](https://github.com/jtmcginty/tmux-session-dots) Visual session indicator showing all sessions as dots with the current session highlighted.
 *   [tmux-split-statusbar (⭐29)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 *   [tmux-speedtest (⭐3)](https://github.com/YousefHadder/tmux-speedtest) Run internet speed tests and display results in your status bar.
 *   [tmux-spotify-info (⭐79)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
@@ -168,10 +171,12 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [kmux-status (⭐6)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 *   [muxile (⭐157)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 *   [nunchux (⭐60)](https://github.com/datamadsen/nunchux) A fuzzy launcher for apps, files, and build tasks with live status, keyboard shortcuts, and task runner integration.
+*   [tmux-agent-indicator (⭐13)](https://github.com/accessd/tmux-agent-indicator) Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.
 *   [tmux-autoreload (⭐117)](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 *   [tmux-bitwarden (⭐43)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 *   [tmux-browser (⭐139)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 *   [tmux-cht-sh (⭐40)](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
+*   [tmux-claude-sessions (⭐0)](https://github.com/aomerk/tmux-claude-sessions) Browse and resume Claude AI conversations from a fzf popup
 *   [tmux-click-copy (⭐6)](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
 *   [tmux-compile (⭐18)](https://github.com/alexekdahl/tmux-compile) Run compile commands directly inside tmux with automatic pane handling.
 *   [tmux-command-palette (⭐26)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.

@@ -6,6 +6,18 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Resources / Learning
+
+*   [nix-book](https://saylesss88.github.io) - A comprehensive guide to NixOS
+    hardening and configuration.
+
+### Development / Discovery
+
+*   [nix2container (⭐789)](https://github.com/nlewo/nix2container) - An efficient container building workflow with Nix.
+*   [nix-oci (⭐85)](https://github.com/Dauliac/nix-oci) - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Resources / Discovery

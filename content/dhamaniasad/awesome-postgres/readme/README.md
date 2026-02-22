@@ -129,6 +129,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [atlas (⭐8.1k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 *   [pgcli (⭐13k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+*   [pgplan (⭐1)](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
 *   [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 *   [pg-schema-diff (⭐797)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 *   [pgsh (⭐597)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
@@ -166,6 +167,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [opm.io](http://opm.io) -  Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 *   [dexter (⭐2.1k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [pg\_ash (⭐122)](https://github.com/NikolayS/pg_ash) - Active Session History for PostgreSQL. Samples pg\_stat\_activity once per second via pg\_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).
 *   [pg\_exporter (⭐298)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 *   [postgres\_exporter (⭐3.4k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 *   [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
@@ -309,7 +311,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/), [pg8000](https://pypi.org/project/pg8000/)
 *   R: [RPostgres (⭐337)](https://github.com/r-dbi/RPostgres), [RPostgreSQL (⭐66)](https://github.com/tomoakin/RPostgreSQL)
 *   Ruby: [pg (⭐853)](https://github.com/ged/ruby-pg)
-*   Rust: [rust-postgresql (⭐3.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.4k)](https://github.com/tcdi/pgx), [wtx (⭐341)](https://github.com/c410-f3r/wtx)
+*   Rust: [rust-postgresql (⭐3.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.4k)](https://github.com/tcdi/pgx), [wtx (⭐343)](https://github.com/c410-f3r/wtx)
 *   TypeScript: [zapatos (⭐1.4k)](https://github.com/jawj/zapatos)
 *   Zig: [pg.zig (⭐484)](https://github.com/karlseguin/pg.zig)
 

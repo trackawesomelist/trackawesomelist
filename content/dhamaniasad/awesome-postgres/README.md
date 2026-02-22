@@ -6,6 +6,16 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ Daily / [Weekly](/content/dhamaniasad/awesome-postgres/week/README.md) / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [Feb 22, 2026](/content/2026/02/22/README.md)
+
+### Contents / CLI
+
+*   [pgplan (⭐1)](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
+
+### Contents / Monitoring
+
+*   [pg\_ash (⭐122)](https://github.com/NikolayS/pg_ash) - Active Session History for PostgreSQL. Samples pg\_stat\_activity once per second via pg\_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Contents / High-Availability
@@ -1031,7 +1041,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   Common Lisp: [Postmodern (⭐426)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.2k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.4k)](https://github.com/tcdi/pgx), [wtx (⭐341)](https://github.com/c410-f3r/wtx)
+*   Rust: [rust-postgresql (⭐3.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4.4k)](https://github.com/tcdi/pgx), [wtx (⭐343)](https://github.com/c410-f3r/wtx)
 
 ## [Mar 11, 2016](/content/2016/03/11/README.md)
 

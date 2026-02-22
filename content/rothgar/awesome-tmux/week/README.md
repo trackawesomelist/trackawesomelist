@@ -6,6 +6,25 @@ A list of awesome resources for tmux
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
+
+### Tools and session management
+
+*   [tmux-task-monitor (⭐30)](https://github.com/YlanAllouche/tmux-task-monitor) a htop-like resource monitor popup that only shows the processes linked to the current session
+
+### Themes
+
+*   [cole-tmux (⭐0)](https://github.com/thekylehuang/cole-tmux) Stationery-inspired minimal theme displayed in vintage earth tones
+
+### Status Bar
+
+*   [tmux-session-dots (⭐0)](https://github.com/jtmcginty/tmux-session-dots) Visual session indicator showing all sessions as dots with the current session highlighted.
+
+### Plugins
+
+*   [tmux-agent-indicator (⭐13)](https://github.com/accessd/tmux-agent-indicator) Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.
+*   [tmux-claude-sessions (⭐0)](https://github.com/aomerk/tmux-claude-sessions) Browse and resume Claude AI conversations from a fzf popup
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Tools and session management

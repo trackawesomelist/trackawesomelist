@@ -1,12 +1,77 @@
 # Awesome List Updates on Feb 23 - Mar 01, 2026
 
-51 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+
+### Web
+
+*   [SmackerNews](https://smackernews.com/)
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Communications / NTP
+
+*   [micropython-simple-async-ntpclient](https://codeberg.org/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
+
+### Communications / Radio
+
+*   [micropython\_dcf77](https://codeberg.org/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+
+### IO / IO-Expander
+
+*   [micropython-mcp230xx](https://codeberg.org/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
+
+### IO / Potentiometers
+
+*   [micropython-ad840x](https://codeberg.org/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
+
+## [3. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+
+### Resources / Learning
+
+*   [nix-book](https://saylesss88.github.io) - A comprehensive guide to NixOS
+    hardening and configuration.
+
+### Development / Discovery
+
+*   [nix2container (⭐789)](https://github.com/nlewo/nix2container) - An efficient container building workflow with Nix.
+*   [nix-oci (⭐85)](https://github.com/Dauliac/nix-oci) - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
+
+## [4. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Tools and session management
+
+*   [tmux-task-monitor (⭐30)](https://github.com/YlanAllouche/tmux-task-monitor) a htop-like resource monitor popup that only shows the processes linked to the current session
+
+### Themes
+
+*   [cole-tmux (⭐0)](https://github.com/thekylehuang/cole-tmux) Stationery-inspired minimal theme displayed in vintage earth tones
+
+### Status Bar
+
+*   [tmux-session-dots (⭐0)](https://github.com/jtmcginty/tmux-session-dots) Visual session indicator showing all sessions as dots with the current session highlighted.
+
+### Plugins
+
+*   [tmux-agent-indicator (⭐13)](https://github.com/accessd/tmux-agent-indicator) Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.
+*   [tmux-claude-sessions (⭐0)](https://github.com/aomerk/tmux-claude-sessions) Browse and resume Claude AI conversations from a fzf popup
+
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+
+### Contents / CLI
+
+*   [pgplan (⭐1)](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
+
+### Contents / Monitoring
+
+*   [pg\_ash (⭐122)](https://github.com/NikolayS/pg_ash) - Active Session History for PostgreSQL. Samples pg\_stat\_activity once per second via pg\_cron, stores encoded snapshots, and provides 32 SQL functions for wait event analysis. Pure SQL, no extensions, works on managed providers (RDS, Cloud SQL, Supabase, etc.).
+
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
@@ -17,7 +82,7 @@
 
 *   [Drydock (⭐84)](https://github.com/CodesWhat/drydock) - Open-source container update monitoring with web dashboard, 15 registries, 16 notification triggers, and security scanning. Drop-in WUD replacement. By [@CodesWhat](https://github.com/CodesWhat)
 
-## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Comparison
 
@@ -25,13 +90,13 @@
 *   [koala-diff (⭐4)](https://github.com/godalida/koala-diff) - A high-performance Python library for comparing large datasets (CSV, Parquet) locally using Rust and Polars. It features zero-copy streaming to prevent OOM errors and generates interactive HTML data quality reports.
 *   [everyrow (⭐16)](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK for Python. Semantic deduplication, fuzzy table merging, and intelligent row ranking using LLM agents.
 
-## [3. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [8. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [fugue-labs/gollem (⭐1)](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
 
-## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [9. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Platforms
 
@@ -170,6 +235,16 @@
 *   [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 *   [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
 
+### Edge and Retro Inference
+
+*   [N64 nano-GPT (⭐24)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya) - First LLM running on Nintendo 64 hardware — Q4 fixed-point nano-GPT inference on a 93MHz VR4300 with 4MB RAM.
+*   [llama.cpp (⭐96k)](https://github.com/ggml-org/llama.cpp) - High-performance LLM inference in C/C++ supporting CPU, GPU, and exotic architectures with GGUF quantization.
+*   [TinyLlama (⭐8.9k)](https://github.com/jzhang38/TinyLlama) - 1.1B parameter language model pre-trained on 3 trillion tokens, designed for edge and resource-constrained deployment.
+*   [MLC LLM (⭐22k)](https://github.com/mlc-ai/mlc-llm) - Universal LLM deployment engine running models natively on phones, browsers, and embedded devices.
+*   [ExecuTorch (⭐4.3k)](https://github.com/pytorch/executorch) - PyTorch's on-device inference framework for mobile and edge AI with optimized backends.
+*   [Whisper.cpp (⭐47k)](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper speech recognition to C/C++ for CPU-only and embedded inference.
+*   [TensorFlow Lite Micro (⭐2.8k)](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for microcontrollers — ML inference on devices with kilobytes of memory.
+
 ### Research and Papers
 
 *   [A Survey on Large Language Model Based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey covering LLM-based agent architectures, capabilities, and evaluation (2023).
@@ -185,13 +260,13 @@
 *   [Language Agent Tree Search](https://arxiv.org/abs/2310.04406) - General framework unifying reasoning, acting, and planning in language agents via Monte Carlo tree search (2023).
 *   [POWER8 Non-Bijunctive Collapse (⭐11)](https://github.com/Scottcjn/ram-coffers) - Research on vec\_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
 
-## [5. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [10. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/TypeWhisper/typewhisper-win)
 
-## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/) / Device & Sensors
 
@@ -215,7 +290,7 @@
 
 *   [WebView Version Checker (⭐3)](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -260,13 +335,13 @@
 
 *   [OpenMessaging (⭐289) (⭐290)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
 *   [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 
-## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / For Managing WSL Installations
 
@@ -277,19 +352,19 @@
 *   [wsl-open (⭐2)](https://github.com/jbwfu/wsl-open) - A Go utility for WSL to open files, directories, and URLs in their default Windows applications. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [gowinbridge (⭐0)](https://github.com/Sibikrish3000/gowinbridge) - A Go library and CLI for executing Windows binaries from WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [10. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [15. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Queues & Pub/Sub / Clients & Libraries
 
 *   [SchwarzDigits/hypermatch (⭐33)](https://github.com/SchwarzDigits/hypermatch) — High-performance rule matching ☆`33`
 
-## [11. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [16. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [M3E (⭐57)](https://github.com/matraic/m3e) - Web Components implementing Material 3 Expressive.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -314,19 +389,19 @@
 
 *   [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [InfraScan](https://infrascan.soldevelo.com) - Advanced Infrastructure Auditor for cost and security analysis of Terraform, AWS, and Kubernetes.
 
-## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [🤖 crispy-bootloader (⭐7)](https://github.com/ADNTIO/crispy-bootloader-rp2040-rs): Minimal dual-bank bootloader for RP2040 with USB firmware upload, A/B bank switching, and CRC verification.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Caching
 
@@ -336,7 +411,7 @@
 
 *   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
 
-## [16. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [21. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### 🎵 Audio (39)
 
@@ -1432,7 +1507,7 @@
     </p>
     </details>
 
-## [17. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [22. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Education
 
@@ -1444,7 +1519,7 @@
 
 
 
-## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [23. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 - API: [Zenserp](https://zenserp.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -1475,13 +1550,13 @@
 
 
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 
-## [20. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [25. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -1493,13 +1568,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
 
-## [21. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [26. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / Claude Code
 
 *   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`47`
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1510,19 +1585,19 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
 
-## [23. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [28. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Downloading and Serving
 
 *   [bashbro (⭐222)](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
 
-## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [29. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [sidemail (⭐2)](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red\_circle:](https://rubygems.org/gems/sidemail)
 
-## [25. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [30. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Learning Resources
 
@@ -1540,31 +1615,31 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [nullclaw/nullclaw (⭐1.3k)](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 
-## [26. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [31. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
 *   [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐3.1k)](https://github.com/SciML/DifferentialEquations.jl))
 
-## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [32. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Role Playing
 
 *   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [33. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
 *   [ShipThis (⭐266)](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 
-## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [34. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -1648,7 +1723,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [vue-enterprise-boilerplate (⭐7.8k)](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [36. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -1658,19 +1733,19 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.1k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 
-## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [37. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Misc / Mathematics For Computer Science
 
 *   [Front-end Debugging Tools Handbook (⭐9)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 
-## [33. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Productivity / Automation
 
 *   [rewhex/better-launchpad (⭐15)](https://github.com/rewhex/better-launchpad) — A smarter, more customizable Launchpad for macOS with fast search. ☆`16`
 
-## [34. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [39. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -1681,7 +1756,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [jspicl (⭐68)](https://github.com/jspicl/jspicl) - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 
-## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [40. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -1691,19 +1766,28 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 
-## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Miscellaneous
+
+*   [Pønskelisten (⭐184)](https://github.com/aunefyren/poenskelisten) - Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`
+
+### Software / Network Utilities
+
+*   [NetAlertX](https://netalertx.com/) - Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. ([Source Code (⭐5.8k)](https://github.com/jokob-sk/NetAlertX)) `GPL-3.0` `Docker`
+*   [WatchYourLAN (⭐6.8k)](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with notifications, history, export to Grafana. `MIT` `Docker/Go/deb`
 
 ### Software / Web Servers
 
 *   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
 
-## [37. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [42. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
 *   [Crimsonland (⭐112)](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 
-## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -1717,7 +1801,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [Awesome Performance Engineering (⭐12)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
-## [39. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Quantum Computing
 
@@ -1725,7 +1809,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [PennyLane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [Qiskit (⭐7k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 
-## [40. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [45. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Containerization and virtualization
 
@@ -1757,7 +1841,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [gitlogue (⭐4.2k)](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -1770,7 +1854,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [KETE - Event forwarding](https://fortunen.github.io/kete)
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Matrix libraries / Third-party APIs
 
@@ -1786,7 +1870,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
     *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -1804,13 +1888,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [49. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [CakePHP Docker Setup (⭐0)](https://github.com/cpierce/cakephp-docker-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Docker.
 
-## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
@@ -1820,13 +1904,13 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   **Google Calendar** - Tracks your events, integrates with Google's advertising ecosystem, and your data is stored on Google's servers without end-to-end encryption.
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [51. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 
-## [47. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [52. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -1837,7 +1921,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [timingless (⭐0)](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 *   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [53. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -1851,6 +1935,10 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 ### Applications / File manager
 
 *   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
+
+### Applications / Graphics
+
+*   [storytold/artcraft (⭐755)](https://github.com/storytold/artcraft) - An AI-powered IDE and tangible computing surface for molding scenes, videos, and images like clay.
 
 ### Applications / Message Queue
 
@@ -1869,7 +1957,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 *   [katanemo/plano (⭐5.1k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
 *   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Language / Assembly
 
@@ -1879,7 +1967,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [aikhe/wrapped.nvim (⭐154)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
 
-## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [55. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1890,7 +1978,7 @@ Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manu
 
 *   [better-robbyrussell (⭐0)](https://github.com/ymulenll/oh-my-zsh-better-robbyrussell) - Modified version of the [robbyrussell (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme in oh-my-zsh that keeps the simplicity of the original theme while adding AWS profile awareness. Includes decorators for AWS profile, `git` branch display with optional truncation, directory path and the exit status of last command run.
 
-## [51. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [56. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Security
 

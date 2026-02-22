@@ -8,6 +8,15 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
+### Software / Miscellaneous
+
+*   [Pønskelisten (⭐184)](https://github.com/aunefyren/poenskelisten) - Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`
+
+### Software / Network Utilities
+
+*   [NetAlertX](https://netalertx.com/) - Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. ([Source Code (⭐5.8k)](https://github.com/jokob-sk/NetAlertX)) `GPL-3.0` `Docker`
+*   [WatchYourLAN (⭐6.8k)](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with notifications, history, export to Grafana. `MIT` `Docker/Go/deb`
+
 ### Software / Web Servers
 
 *   [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
@@ -148,7 +157,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Cronicle](https://cronicle.net/) - Simple, distributed task scheduler and runner with a web based UI. ([Source Code (⭐5.4k)](https://github.com/jhuckaby/Cronicle)) `MIT` `Nodejs`
+*   [Cronicle](https://cronicle.net/) - Simple, distributed task scheduler and runner with a web based UI. ([Source Code (⭐5.5k)](https://github.com/jhuckaby/Cronicle)) `MIT` `Nodejs`
 *   [gocron (⭐520)](https://github.com/flohoss/gocron) - Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file. `MIT` `Docker`
 
 ### Software / Content Management Systems (CMS)

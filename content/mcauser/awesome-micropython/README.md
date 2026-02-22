@@ -6,6 +6,24 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Feb 22, 2026](/content/2026/02/22/README.md)
+
+### Communications / NTP
+
+*   [micropython-simple-async-ntpclient](https://codeberg.org/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
+
+### Communications / Radio
+
+*   [micropython\_dcf77](https://codeberg.org/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+
+### IO / IO-Expander
+
+*   [micropython-mcp230xx](https://codeberg.org/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
+
+### IO / Potentiometers
+
+*   [micropython-ad840x](https://codeberg.org/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
+
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
 ### Audio
@@ -24,10 +42,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Communications / IoT
 
 *   [aiomqttc (⭐14)](https://github.com/Tangerino/aiomqttc) - Asynchronous MQTT Client for MicroPython AND CPython.
-
-### Communications / NTP
-
-*   [micropython-simple-async-ntpclient (⭐1)](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
 
 ### Communications / RTC
 
@@ -517,10 +531,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
-### IO / IO-Expander
-
-*   [micropython-mcp230xx (⭐0)](https://github.com/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
-
 ### Sensors / Distance Ultrasonic
 
 *   [micropython-grove-ultrasonic-ranger (⭐1)](https://github.com/mores/TheMissingLink/tree/main/Seeed_MicroPython_UltrasonicRanger) - Driver for SeeedStudio's Grove Ultrasonic Ranger.
@@ -578,10 +588,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [freezeFS (⭐33)](https://github.com/bixb922/freezeFS) - Create self-extracting compressed or self-mounting archives for MicroPython.
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
-
-### Communications / Radio
-
-*   [micropython\_dcf77 (⭐4)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
 
 ### Mathematics / Waveform Generator
 
@@ -1836,10 +1842,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### IO / Keyboard
 
 *   [micropython-keyboard (⭐31)](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython Pyboard.
-
-### IO / Potentiometers
-
-*   [micropython-ad840x (⭐1)](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
 
 ### IO / Power Management
 
