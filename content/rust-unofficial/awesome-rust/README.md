@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 23, 2026](/content/2026/02/23/README.md)
+
+### Applications / Blockchain
+
+*   [datahaven-xyz/datahaven (⭐7.4k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
+
 ## [Feb 22, 2026](/content/2026/02/22/README.md)
 
 ### Applications / Graphics

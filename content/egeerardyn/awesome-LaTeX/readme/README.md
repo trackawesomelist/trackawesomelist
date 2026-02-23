@@ -18,39 +18,43 @@ Curated list of LaTeX awesomeness
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-*   [Contents](#contents)
-*   [Distributions](#distributions)
-*   [Docker Images](#docker-images)
-*   [Engines](#engines)
-    *   [LaTeX formulas on the web](#latex-formulas-on-the-web)
-*   [Editors](#editors)
-    *   [LaTeX-focused](#latex-focused)
-    *   [General purpose text editors](#general-purpose-text-editors)
-    *   [Online editors](#online-editors)
-*   [Bibliography tools](#bibliography-tools)
-*   [Build Tools](#build-tools)
-    *   [GitHub Actions](#github-actions)
-*   [Misc. Tools](#misc-tools)
-*   [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
-*   [Packages](#packages)
-    *   [References](#references)
-    *   [Tables](#tables)
-    *   [Graphics](#graphics)
-        *   [PSTricks](#pstricks)
-        *   [TikZ](#tikz)
-    *   [Source Code](#source-code)
-    *   [Typography](#typography)
-    *   [Presentations, Slides](#presentations-slides)
-*   [Templates](#templates)
-*   [Symbols](#symbols)
-*   [Resources](#resources)
-*   [Showcases](#showcases)
-*   [Tutorials](#tutorials)
-*   [Books](#books)
-*   [Blogs](#blogs)
-*   [Social media](#social-media)
-*   [Meta Awesome-LaTeX](#meta-awesome-latex)
-*   [Legend](#legend)
+*   [Awesome LaTeX  ](#awesome-latex--)
+    *   [Contents](#contents)
+    *   [Learning LaTeX](#learning-latex)
+    *   [Distributions](#distributions)
+    *   [Docker Images](#docker-images)
+    *   [Engines](#engines)
+        *   [LaTeX formulas on the web](#latex-formulas-on-the-web)
+    *   [Editors](#editors)
+        *   [LaTeX-focused](#latex-focused)
+        *   [General purpose text editors](#general-purpose-text-editors)
+        *   [Online editors](#online-editors)
+    *   [Bibliography tools](#bibliography-tools)
+    *   [Build Tools](#build-tools)
+        *   [GitHub Actions](#github-actions)
+    *   [Misc. Tools](#misc-tools)
+        *   [Quality Check Tools](#quality-check-tools)
+        *   [Tools centered around equations](#tools-centered-around-equations)
+    *   [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
+    *   [Packages](#packages)
+        *   [References](#references)
+        *   [Tables](#tables)
+        *   [Graphics](#graphics)
+            *   [PSTricks](#pstricks)
+            *   [TikZ](#tikz)
+        *   [Source Code](#source-code)
+        *   [Typography](#typography)
+        *   [Presentations, Slides](#presentations-slides)
+    *   [Templates](#templates)
+    *   [Symbols](#symbols)
+    *   [Resources](#resources)
+    *   [Showcases](#showcases)
+    *   [Tutorials](#tutorials)
+    *   [Books](#books)
+    *   [Blogs](#blogs)
+    *   [Social media](#social-media)
+    *   [Meta Awesome-LaTeX](#meta-awesome-latex)
+    *   [Legend](#legend)
 
 <!-- /TOC -->
 
@@ -68,7 +72,7 @@ Guides how to learn LaTeX
 
 When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.
 
-*   [reitzig/texlive-docker (⭐29)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
+*   [reitzig/texlive-docker (⭐30)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
 *   [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
 *   [dante-ev/docker-texlive (⭐114)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 
@@ -87,7 +91,7 @@ When one aims for a ready-to-run LaTeX environment without installing, Docker im
 *   [mathTeX](https://ctan.org/pkg/mathtex) - mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server. ![foss]
 *   [KaTeX](https://khan.GitHub.io/KaTeX/) - KaTeX is a math rendering library made by Khan Academy focusing on fast load times. All output is processed as plain HTML instead of fixed images. ![foss]
 *   [Franklin.jl](https://franklinjl.org/) - Static site generator with KaTeX support, code evaluation, LaTeX-like commands and optional pre-rendering, in Julia. ![foss]
-*   [xhub (⭐104)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss]
+*   [xhub (⭐105)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss]
 
 ## Editors
 
@@ -120,7 +124,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
     *   [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
 
 *   [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks)
-    *   [LaTeXing (⭐80)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
+    *   [LaTeXing (⭐81)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss]
     *   [LaTeXTools (⭐2k)](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
 
 *   [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss]
@@ -130,15 +134,15 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 *   [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss]
     *   [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
     *   [LaTeX Live Preview (⭐852)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
-    *   [vimtex (⭐6.1k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+    *   [vimtex (⭐6.2k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
 
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [TeXiFy-IDEA (⭐973)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+    *   [TeXiFy-IDEA (⭐969)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 *   [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
     *   [LaTeX Workshop (⭐12k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
     *   [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
-    *   [a-nau/latex-devcontainer (⭐29)](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
+    *   [a-nau/latex-devcontainer (⭐30)](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
 ### Online editors
 
@@ -146,11 +150,11 @@ Online editors that allow you to edit documents collaboratively.
 
 *   [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 *   [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
-*   [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
-*   [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
-*   [Modern LaTeX Editor (⭐5)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
-*   [Octree](https://useoctree.com) - Online editor with AI writing assistance.
+*   [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
+*   [Modern LaTeX Editor (⭐28)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
+*   [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 *   [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
+    *   [olcli (⭐2)](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 *   [WebLaTeX (⭐1.4k)](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 *   [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 *   [JaxEdit](https://zohooo.GitHub.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
@@ -166,8 +170,8 @@ Online editors that allow you to edit documents collaboratively.
 *   [Bibdesk](http://bibdesk.sourceforge.net) - Great bibliography editor for ![mac].
 *   [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![mac] ![windows] ![linux] ![foss]
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac] ![windows] ![linux]
-*   [betterbib (⭐833)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
-*   [OneCite (⭐45)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
+*   [betterbib (⭐832)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
+*   [OneCite (⭐56)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
 
 ## Build Tools
 
@@ -207,7 +211,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## LaTeX-compatible GUI tools
 
 *   [TikzEdt](https://www.tikzedt.org) (also: [GitHub repo (⭐10)](https://github.com/hchapman/tikzedt)) - WYSIWYG and text-based editor for TikZ pictures. ![foss]
-*   [TikZ-Editor (⭐195)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
+*   [TikZ-Editor (⭐198)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac] ![linux] ![foss]
 *   [IPE](https://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss]
 *   [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss]
@@ -241,7 +245,6 @@ TikZ is an awesome package with many plugins that allow you to create figures fr
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 *   [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
-*   [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
 *   [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 *   [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
 *   [PetarV-/TikZ (⭐1.4k)](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
@@ -265,8 +268,8 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 *   [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
 *   [Ultimate Beamer Theme List (⭐1.7k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
-*   [LaTeX Beamer Theme Overview (⭐44)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
-*   [TeXtured (⭐246)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
+*   [LaTeX Beamer Theme Overview (⭐45)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+*   [TeXtured (⭐251)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
 ## Symbols
 
@@ -293,7 +296,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 *   [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - Showcase of invitations typeset using LaTeX.
 *   [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.
 *   [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
-*   [Awesome LaTeX drawing (⭐1.9k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
+*   [Awesome LaTeX drawing (⭐2k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
 ## Tutorials
 

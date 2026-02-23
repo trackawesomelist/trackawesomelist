@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Feb 23, 2026](/content/2026/02/23/README.md)
+
+### ⚙️ System (24) / ✏️ Text (13)
+
+*   [MacNTop (⭐0)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
+
+    **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+    **Website:** [https://github.com/CorvidLabs/MacNTop (⭐0)](https://github.com/CorvidLabs/MacNTop)
+
+    **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
+
 ## [Feb 21, 2026](/content/2026/02/21/README.md)
 
 ### 💻 IDE (14) / ✏️ Text (13)
@@ -938,7 +950,7 @@
     </p>
     </details>
 
-### 📊 Menubar (51) / ✏️ Text (13)
+### 📊 Menubar (52) / ✏️ Text (13)
 
 *   [app-menu (⭐48)](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS.
 
@@ -6818,7 +6830,7 @@
     </p>
     </details>
 
-### 📊 Menubar (51) / ✏️ Text (13)
+### 📊 Menubar (52) / ✏️ Text (13)
 
 *   [Airpass (⭐589)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 
@@ -7761,7 +7773,7 @@
     </p>
     </details>
 
-### ⚙️ System (23) / ✏️ Text (13)
+### ⚙️ System (24) / ✏️ Text (13)
 
 *   [Apple Juice (⭐523)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
 

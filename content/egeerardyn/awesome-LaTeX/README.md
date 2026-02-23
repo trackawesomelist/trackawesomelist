@@ -6,23 +6,24 @@ Curated list of LaTeX awesomeness
 
 [ Daily / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Feb 23, 2026](/content/2026/02/23/README.md)
+
+### Online editors
+
+*   [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
+*   [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
+
 ## [Jan 08, 2026](/content/2026/01/08/README.md)
 
 ### Online editors
 
-*   [Modern LaTeX Editor (⭐5)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
+*   [Modern LaTeX Editor (⭐28)](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Tools centered around equations
 
 *   [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
-
-## [Dec 18, 2025](/content/2025/12/18/README.md)
-
-### Online editors
-
-*   [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 
 ## [Nov 26, 2025](/content/2025/11/26/README.md)
 
@@ -34,7 +35,7 @@ Curated list of LaTeX awesomeness
 
 ### Bibliography tools
 
-*   [OneCite (⭐45)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [OneCite (⭐56)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ## [Jul 17, 2025](/content/2025/07/17/README.md)
 
@@ -44,13 +45,7 @@ Curated list of LaTeX awesomeness
 
 ### Templates / TikZ
 
-*   [TeXtured (⭐246)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
-
-## [May 08, 2025](/content/2025/05/08/README.md)
-
-### Online editors
-
-*   [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
+*   [TeXtured (⭐251)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
@@ -84,13 +79,13 @@ Curated list of LaTeX awesomeness
 
 ### Showcases / TikZ
 
-*   [Awesome LaTeX drawing (⭐1.9k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
+*   [Awesome LaTeX drawing (⭐2k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### Templates / TikZ
 
-*   [LaTeX Beamer Theme Overview (⭐44)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+*   [LaTeX Beamer Theme Overview (⭐45)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
 
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
@@ -106,7 +101,7 @@ Curated list of LaTeX awesomeness
 
 ### Docker Images
 
-*   [reitzig/texlive-docker (⭐29)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
+*   [reitzig/texlive-docker (⭐30)](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
 *   [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
 *   [dante-ev/docker-texlive (⭐114)](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 
@@ -128,7 +123,7 @@ Curated list of LaTeX awesomeness
 *   [Atom](https://atom.io) [![Atom](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mehcode/awesome-atom) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Sublime Text](https://www.sublimetext.com) [![Sublime Text](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dreikanter/sublime-bookmarks)
-    *   [LaTeXing (⭐80)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [LaTeXing (⭐81)](https://github.com/LaTeXing/LaTeXing) - Free plug-in to edit LaTeX. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeXTools (⭐2k)](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/emacs-tw/awesome-emacs) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
@@ -136,13 +131,13 @@ Curated list of LaTeX awesomeness
 *   [Vim](https://www.vim.org) [![Vim](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mhinz/vim-galore) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeX Live Preview (⭐852)](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-    *   [vimtex (⭐6.1k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [vimtex (⭐6.2k)](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [TeXiFy-IDEA (⭐973)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [TeXiFy-IDEA (⭐969)](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [VS Code](https://code.visualstudio.com/) [![VS Code](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/viatsko/awesome-vscode) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LaTeX Workshop (⭐12k)](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
     *   [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-    *   [a-nau/latex-devcontainer (⭐29)](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+    *   [a-nau/latex-devcontainer (⭐30)](https://github.com/a-nau/latex-devcontainer) - Devcontainer setup for easy LaTeX usage without local installation ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Bibliography tools
 
@@ -221,7 +216,7 @@ Curated list of LaTeX awesomeness
 
 ### LaTeX formulas on the web
 
-*   [xhub (⭐104)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [xhub (⭐105)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ## [Jul 09, 2021](/content/2021/07/09/README.md)
 
@@ -282,7 +277,7 @@ Curated list of LaTeX awesomeness
     complete Command-Line-Interface, several GUIs and scripting capability.
     ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg)
-*   [betterbib (⭐833)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [betterbib (⭐832)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Build Tools
 
@@ -304,7 +299,7 @@ Curated list of LaTeX awesomeness
 
 ### LaTeX-compatible GUI tools
 
-*   [TikZ-Editor (⭐195)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [TikZ-Editor (⭐198)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [TikZiT](https://tikzit.GitHub.io) - GUI tool for creating graphs and string diagrams using PGF/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
@@ -318,7 +313,6 @@ Curated list of LaTeX awesomeness
 
 ### Graphics / TikZ
 
-*   [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
 *   [matlab2tikz (⭐1.7k)](https://github.com/matlab2tikz/matlab2tikz) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Resources / TikZ
@@ -456,8 +450,8 @@ Curated list of LaTeX awesomeness
 ### Online editors
 
 *   [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
-*   [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
 *   [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
+    *   [olcli (⭐2)](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Papeeria](https://papeeria.com) - Online editor with built-in git support.
 
 ### Resources / TikZ
