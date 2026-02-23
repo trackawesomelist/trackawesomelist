@@ -2,9 +2,34 @@
 
 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 102 · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 109 · 🏷️ LLM
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / Weekly / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
+
+## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
+
+### Plugins / Dart - Official
+
+*   Core
+    *   [`genkit`](https://pub.dev/packages/genkit) - A Dart SDK for Genkit, providing a unified interface for text generation, structured output, tool calling, and agentic workflows.
+*   Model / Embedding Plugins
+    *   [`genkit_google_genai`](https://pub.dev/packages/genkit_google_genai) - Google AI plugin for Genkit Dart.
+    *   [`genkit_anthropic`](https://pub.dev/packages/genkit_anthropic) - Anthropic plugin for Genkit Dart.
+    *   [`genkit_openai`](https://pub.dev/packages/genkit_openai) - OpenAI plugin for Genkit Dart.
+    *   [`genkit_chrome`](https://pub.dev/packages/genkit_chrome) - Chrome Prompt API (Gemini Nano) plugin for Genkit Dart.
+    *   [`genkit_firebase_ai`](https://pub.dev/packages/genkit_firebase_ai) - Firebase AI plugin for Genkit Dart.
+*   Other Plugins
+    *   [`genkit_mcp`](https://pub.dev/packages/genkit_mcp) - Model Context Protocol (MCP) plugin for Genkit Dart.
+    *   [`genkit_middleware`](https://pub.dev/packages/genkit_middleware) - Common middlewares (filesystem, skills, toolApproval) for Genkit Dart.
+    *   [`genkit_shelf`](https://pub.dev/packages/genkit_shelf) - Shelf HTTP Server integration for Genkit Dart.
+
+### Articles / Dart - Official
+
+*   [Understanding Model Context Protocol Through Building the Genkit for Dart MCP Plugin](https://koborin.ai/tech/mcp-deep-dive) - A deep dive into the MCP specification, sharing insights gained from implementing the MCP plugin for Genkit Dart.
+
+### Follow / Dart - Official
+
+*   [Genkit Dart GitHub (⭐23)](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -106,10 +131,6 @@
 *   [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2) - Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
-
-### Client Libraries / Dart - Official
-
-*   [`dart-client-for-genkit`](https://pub.dev/packages/genkit) - A type-safe Dart client library for calling Genkit flows with streaming support, authentication, and comprehensive error handling.
 
 ### Talks / Dart - Official
 
@@ -238,6 +259,7 @@
     *   [`@agentic/genkit`](https://docs.agentic.so/marketplace/ts-sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
     *   [`@auth0/ai-genkit`](https://genkit.dev/docs/plugins/auth0/) - Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.
     *   [`genkitx-langfuse`](https://github.com/marcelfolaron/genkitx-langfuse) - Plugin to integrate with Langfuse for telemetry and prompt management.
+    *   [`genkitx-posthog`](https://github.com/orchlab/genkitx-posthog) - Plugin to integrate with PostHog for telemetry and analytics.
 
 ### Tutorials / Dart - Official
 
@@ -247,4 +269,4 @@
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-*   [Genkit GitHub (⭐5.2k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
+*   [Genkit GitHub (⭐5.5k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
