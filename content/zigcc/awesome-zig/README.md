@@ -6,6 +6,16 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 24, 2026](/content/2026/02/24/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [peymanmortazavi/csv-zero (⭐10)](https://github.com/peymanmortazavi/csv-zero) - Zero allocation, SIMD-accelerated CSV iterator and emitter for Zig.
+
+### Interoperability / Build with Zig
+
+*   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
+
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 
 ### Systems Programming / Asynchronous Runtime

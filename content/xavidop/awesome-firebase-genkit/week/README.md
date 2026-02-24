@@ -23,13 +23,49 @@
     *   [`genkit_middleware`](https://pub.dev/packages/genkit_middleware) - Common middlewares (filesystem, skills, toolApproval) for Genkit Dart.
     *   [`genkit_shelf`](https://pub.dev/packages/genkit_shelf) - Shelf HTTP Server integration for Genkit Dart.
 
-### Articles / Dart - Official
+### Plugins / Java (Unofficial) - Community
+
+*   Core
+    *   [`genkit-java`](https://github.com/genkit-ai/genkit-java/packages) - An unofficial Java SDK for Genkit, providing Java support for building AI-powered applications.
+*   Model / Embedding Plugins
+    *   [`genkit-plugin-openai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai) - Plugin for OpenAI models (GPT-4o, GPT-4o-mini, etc.) and embeddings.
+    *   [`genkit-plugin-google-genai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai) - Plugin for Google Gemini models and Imagen image generation.
+    *   [`genkit-plugin-anthropic`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic) - Plugin for Anthropic Claude models.
+    *   [`genkit-plugin-aws-bedrock`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock) - Plugin for AWS Bedrock models (Amazon Nova, Claude, LLaMA, Mistral, etc.).
+    *   [`genkit-plugin-azure-foundry`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry) - Plugin for Azure AI Foundry models.
+    *   [`genkit-plugin-xai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai) - Plugin for XAI (x.ai) Grok models.
+    *   [`genkit-plugin-deepseek`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek) - Plugin for DeepSeek models.
+    *   [`genkit-plugin-cohere`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/cohere) - Plugin for Cohere Command models.
+    *   [`genkit-plugin-mistral`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mistral) - Plugin for Mistral AI models.
+    *   [`genkit-plugin-groq`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/groq) - Plugin for Groq ultra-fast inference.
+    *   [`genkit-plugin-ollama`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/ollama) - Plugin for local Ollama models.
+    *   [`genkit-plugin-compat-oai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/compat-oai) - Plugin for any OpenAI-compatible API endpoint.
+*   Vector Store Plugins
+    *   [`genkit-plugin-localvec`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/localvec) - Plugin for local file-based vector store for development.
+    *   [`genkit-plugin-firebase`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/firebase) - Plugin for Firebase (Firestore vector search, Cloud Functions, telemetry).
+    *   [`genkit-plugin-weaviate`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/weaviate) - Plugin for Weaviate vector database.
+    *   [`genkit-plugin-postgresql`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/postgresql) - Plugin for PostgreSQL with pgvector.
+    *   [`genkit-plugin-pinecone`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/pinecone) - Plugin for Pinecone vector database.
+*   Evaluator Plugins
+    *   [`genkit-plugin-evaluators`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/evaluators) - Plugin for pre-built RAGAS-style evaluators (faithfulness, relevancy, etc.).
+*   Other Plugins
+    *   [`genkit-plugin-jetty`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/jetty) - HTTP server plugin using Jetty 12.
+    *   [`genkit-plugin-spring`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/spring) - HTTP server plugin using Spring Boot.
+    *   [`genkit-plugin-mcp`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mcp) - Plugin for Model Context Protocol (MCP) client integration.
+
+### Solutions / Java (Unofficial) - Community
+
+*   [`Genkit Azure Function AI Foundry`](https://github.com/xavidop/genkit-azure-function-ai-foundry) - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
+*   [`Genkit AWS Lambda Bedrock`](https://github.com/xavidop/genkit-aws-lambda-bedrock) - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
+
+### Articles / Java (Unofficial) - Community
 
 *   [Understanding Model Context Protocol Through Building the Genkit for Dart MCP Plugin](https://koborin.ai/tech/mcp-deep-dive) - A deep dive into the MCP specification, sharing insights gained from implementing the MCP plugin for Genkit Dart.
 
-### Follow / Dart - Official
+### Follow / Java (Unofficial) - Community
 
 *   [Genkit Dart GitHub (⭐23)](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
+*   [Genkit Java GitHub (⭐7)](https://github.com/genkit-ai/genkit-java) - Unofficial GitHub repository for Genkit Java.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -40,7 +76,7 @@
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
-### Solutions / Dart - Official
+### Solutions / Java (Unofficial) - Community
 
 *   [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
 
@@ -117,51 +153,51 @@
 *   Monitoring Plugin:
     *   [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
 
-### Books / Dart - Official
+### Books / Java (Unofficial) - Community
 
 *   [Mastering Genkit: Go Edition](https://mastering-genkit.github.io/mastering-genkit-go/) - Build Production-Ready AI Applications with Go and Genkit.
 
-### Solutions / Dart - Official
+### Solutions / Java (Unofficial) - Community
 
 *   [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Gemini in your Slack workspace using Firebase & Genkit](https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c) - Learn how to integrate Gemini using Genkit as a Slackbot.
 *   [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2) - Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
-### Talks / Dart - Official
+### Talks / Java (Unofficial) - Community
 
 *   [Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Slides](https://speakerdeck.com/coborinai/dart) - Slides from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.
 *   [Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Video](https://youtu.be/AakdczWQLzY?si=S5aT29miICHWQepM) - Video from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Extending Your AI Application with Genkit MCP](https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e) - Learn how to integrate Google Maps using Genkit MCP client to query MCP servers for enhanced location-based AI features.
 *   [Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework](https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac) - A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
-### API References / Dart - Official
+### API References / Java (Unofficial) - Community
 
 *   [JavaScript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
 *   [Python](https://python.api.genkit.dev/) - Specs for the Python API.
 *   [Golang](https://pkg.go.dev/github.com/firebase/genkit/go) - Specs for the Golang API.
 
-### Talks / Dart - Official
+### Talks / Java (Unofficial) - Community
 
 *   [Supercharge your app with Genkit](https://www.youtube.com/watch?v=eVud8llb_W0) - A talk on how to supercharge your app with Genkit.
 *   [Accelerating Generative AI App Development with Flutter & Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Genkit with Flutter for rapid generative AI app development.
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Build Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
 *   [Genkit with Gemma using Ollama](https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
@@ -170,17 +206,17 @@
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Genkit in Node, Building a Weather Service with AI Integration](https://xavidop.me/firebase/gcp/2025-02-28-firebase-genkit-node-tool/) - Explore how to build a weather service using Genkit in Node.js using Express, GitHub Models and Tools.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
-### Solutions / Dart - Official
+### Solutions / Java (Unofficial) - Community
 
 *   [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
 
-### Videos / Dart - Official
+### Videos / Java (Unofficial) - Community
 
 *   [Getting started with Genkit (outdated)](https://www.youtube.com/watch?v=M8rfDySBBvM) - A video tutorial on how to get started with Genkit.
 *   [What are Genkit flows? (outdated)](https://youtu.be/ONR38NZK5FE) - Flows are a key concept in Genkit. Learn what makes them special, and how to use them.
@@ -190,31 +226,31 @@
 *   [Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated)](https://youtu.be/VFPsp7aURWA?t=152s) - Hang out with Nohe and Peter to learn more about Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.
 *   [Firebase After Hours #4 - Genkit: Tooltime (outdated)](https://youtu.be/01XOIhh2ibA) - Learn how to give LLMs superpowers by conneting the to the real world using tool calling.
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
-### Videos / Dart - Official
+### Videos / Java (Unofficial) - Community
 
 *   [Getting started with Genkit/JS 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - Learn how to get started with Genkit/JS 1.0.
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Genkit, and Google's Imagen 3.
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Orchestrating Firebase and AI: Genkit architecture example](https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing) - Presented in a lightning talk at GDG DevFest Tokyo 2024.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Orchestrating Firebase and AI: 8 Genkit Architecture Patterns](https://medium.com/@nozomi-koborinai/orchestrating-firebase-and-ai-8-genkit-architecture-patterns-12e44db40345) - A guide to 8 architecture patterns for integrating Firebase and AI using Genkit.
 *   [High-Precision Responses with Genkits Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693) - Learn how to integrate Google Search with Genkit.
@@ -226,13 +262,13 @@
 *   Evaluator Plugins
     *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Understanding Genkit flows with Czech language tricks](https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3) - Learn how to work with Genkit flows and use the features of Genkit UI.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
-### Articles / Dart - Official
+### Articles / Java (Unofficial) - Community
 
 *   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learn how to integrate Gemma2 with Genkit.
 *   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
@@ -261,11 +297,11 @@
     *   [`genkitx-langfuse`](https://github.com/marcelfolaron/genkitx-langfuse) - Plugin to integrate with Langfuse for telemetry and prompt management.
     *   [`genkitx-posthog`](https://github.com/orchlab/genkitx-posthog) - Plugin to integrate with PostHog for telemetry and analytics.
 
-### Tutorials / Dart - Official
+### Tutorials / Java (Unofficial) - Community
 
 *   [Slack Bot App](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08) - A tutorial on how to build a Slack Bot App with Genkit.
 
-### Follow / Dart - Official
+### Follow / Java (Unofficial) - Community
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.

@@ -8,9 +8,17 @@ A collection of awesome projects in Zig.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### Language Essentials / File Format Processing
+
+*   [peymanmortazavi/csv-zero (⭐10)](https://github.com/peymanmortazavi/csv-zero) - Zero allocation, SIMD-accelerated CSV iterator and emitter for Zig.
+
 ### Systems Programming / Asynchronous Runtime
 
 *   [neurocyte/thespian (⭐27)](https://github.com/neurocyte/thespian) - An actor library for Zig, C & C++ applications.
+
+### Interoperability / Build with Zig
+
+*   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/osmlab/awesome-openstreetmap/week/README.md) / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 
+## [Feb 24, 2026](/content/2026/02/24/README.md)
+
+### Tools / Web Tools
+
+*   [Ultra](https://overpass-ultra.us/) - Web based tool for making maps with a variety of data APIs such as overpass, postpass, qlever, ohsome, sophox, and more. ([Source Code](https://gitlab.com/trailstash/ultra))
+
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Editors / Mobile Editors
@@ -349,7 +355,7 @@
 
 ### Libraries / Java
 
-*   [OpenTripPlanner (⭐2.5k)](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
+*   [OpenTripPlanner (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
 *   [GraphHopper (⭐6.3k)](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
 
 ### Public APIs / Java
