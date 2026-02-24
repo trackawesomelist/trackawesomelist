@@ -399,6 +399,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [rhex (⭐167)](https://github.com/dpc/rhex) - hexagonal ascii roguelike
 *   [rsaarelm/magog (⭐384)](https://github.com/rsaarelm/magog) - A roguelike game.
 *   [SoftbearStudios/mk48 (⭐416)](https://github.com/SoftbearStudios/mk48) - Mk48.io is an online multiplayer naval combat game
+*   [Strophox/tetro-tui (⭐364)](https://github.com/Strophox/tetro-tui) \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
 *   [swatteau/sokoban-rs (⭐162)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
 *   [thetawavegame/thetawave-legacy (⭐196)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 *   [Thinkofname/rust-quake (⭐80)](https://github.com/Thinkofname/rust-quake) - Quake map renderer.
@@ -597,8 +598,8 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [netscanner (⭐1.6k)](https://github.com/Chleba/netscanner) - TUI Network Scanner
 *   [nickgerace/gfold (⭐386)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 *   [nivekuil/rip (⭐1.7k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
-*   [nushell/nushell (⭐38k)](https://github.com/nushell/nushell) - A new type of shell
-*   [nwiizo/tfmcp (⭐354)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
+*   [nushell/nushell (⭐39k)](https://github.com/nushell/nushell) - A new type of shell
+*   [nwiizo/tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
 *   [nwiizo/tfocus (⭐68)](https://github.com/nwiizo/tfocus) - Interactive tool for selecting and executing Terraform plan/apply operations
 *   [orhun/kmon (⭐2.9k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 *   [orhun/systeroid (⭐1.4k)](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/actions/workflow/status/orhun/systeroid/ci.yml?branch=main\&label=build)
@@ -2034,7 +2035,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [Daniel-Liu-c0deb0t/triple\_accel (⭐109)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)
 *   [fancy-regex/fancy-regex (⭐579)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 *   [greyblake/whatlang-rs (⭐1.1k)](https://github.com/greyblake/whatlang-rs) - Natural language detection library based on trigrams
-*   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
+*   [kreuzberg-dev/kreuzberg (⭐6.2k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 *   [Lucretiel/joinery (⭐94)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] - Generic string + iterable joining
 *   [mgeisler/textwrap (⭐514)](https://github.com/mgeisler/textwrap) \[[textwrap](https://crates.io/crates/textwrap)] - Word wrap text (with support for hyphenation)
 *   [null8626/decancer (⭐127)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] - A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)

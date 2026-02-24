@@ -23,7 +23,7 @@ If this list is not complete, you can [contribute][editreadme] to make it so. He
 
 The creators and maintainers of this list do not receive any form of payment to accept a change made by any contributor. This page is not an official Docker product in any way. It is a list of links to projects and is maintained by volunteers. Everybody is welcome to contribute. The goal of this repo is to index open-source projects, not to advertise for profit.
 
-All the links are monitored and tested with a home baked [Node.js script (⭐35k)](https://github.com/veggiemonk/awesome-docker/blob/master/.github/workflows/pull_request.yml)
+All the links are monitored and tested with a home baked [Node.js script (⭐36k)](https://github.com/veggiemonk/awesome-docker/blob/master/.github/workflows/pull_request.yml)
 
 # Contents <!-- omit in toc -->
 
@@ -219,7 +219,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐35k
 *   [Longshoreman (⭐420)](https://github.com/longshoreman/longshoreman) :skull: - Longshoreman automates application deployment using Docker. Just create a Docker repository (or use a service), configure the cluster using AWS or Digital Ocean (or whatever you like) and deploy applications using a Heroku-like CLI tool. By [longshoreman](https://github.com/longshoreman)
 *   [swarm-ansible (⭐58)](https://github.com/LombardiDaniel/swarm-ansible?tab=readme-ov-file) - Swarm-Ansible bootstraps a production-ready swarm cluster using ansible. Comes with tools to automate CI, help monitoring and traefik pre-configured for SSL certificates and simple-auth. Comes with a private registry and more!
 *   [SwarmManagement (⭐21)](https://github.com/hansehe/SwarmManagement) - Swarm Management is a python application, installed with pip. The application makes it easy to manage a Docker Swarm by configuring a single yaml file describing which stacks to deploy, and which networks, configs or secrets to create.
-*   [werf (⭐4.6k)](https://github.com/werf/werf) - werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps by [@flant](https://github.com/flant)
+*   [werf (⭐4.7k)](https://github.com/werf/werf) - werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps by [@flant](https://github.com/flant)
 
 ### Monitoring
 
@@ -275,7 +275,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐35k
 *   [Haven (⭐296)](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 *   [Helios (⭐2.2k)](https://github.com/spotify/helios) :skull: - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify][spotify]
 *   [Kontena (⭐1.5k)](https://github.com/kontena/kontena) :skull: - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
-*   [Kubernetes (⭐120k)](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
+*   [Kubernetes (⭐121k)](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
 *   [ManageIQ (⭐1.4k)](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
 *   [Mantl (⭐3k)](https://github.com/mantl/mantl) - :skull: Mantl is a modern platform for rapidly deploying globally distributed services
 *   [Marathon (⭐4k)](https://github.com/mesosphere/marathon) - :skull: Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
@@ -305,7 +305,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐35k
 
 ### Reverse Proxy
 
-*   [bunkerized-nginx (⭐10k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
+*   [BunkerWeb (⭐10k)](https://github.com/bunkerity/bunkerweb) - Open-source and next-gen Web Application Firewall (WAF). By [Bunkerity](https://www.bunkerity.com)
 *   [caddy-docker-proxy (⭐4.3k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
 *   [caddy-docker-upstreams (⭐36)](https://github.com/invzhi/caddy-docker-upstreams) - Docker upstreams module for Caddy, configured with container labels. By [@invzhi](https://github.com/invzhi)
 *   [Docker Dnsmasq Updater (⭐34)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
@@ -355,7 +355,8 @@ All the links are monitored and tested with a home baked [Node.js script (⭐35k
 *   [notary (⭐3.3k)](https://github.com/theupdateframework/notary) - a server and a client for running and interacting with trusted collections. By [@TUF](https://github.com/theupdateframework)
 *   [oscap-docker (⭐1.7k)](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By [OpenSCAP](https://github.com/OpenSCAP)
 *   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy\_dollar\_sign: - (previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
-*   [Syft (⭐8.3k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+*   [Syft (⭐8.4k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+*   [segspec (⭐13)](https://github.com/dormstern/segspec) - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [@dormstern](https://github.com/dormstern)
 *   [Sysdig Falco (⭐8.7k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 *   [Sysdig Secure](https://www.sysdig.com/solutions/cloud-detection-and-response-cdr) :heavy\_dollar\_sign: - Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.
 *   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy\_dollar\_sign: - Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.
@@ -365,7 +366,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐35k
 
 *   [docker-consul (⭐1.1k)](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 *   [docker-dns (⭐3)](https://github.com/bytesharky/docker-dns) - Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. `.docker`) on the host to simplify service discovery by [@bytesharky](https://github.com/bytesharky)
-*   [etcd (⭐51k)](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
+*   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
 *   [istio (⭐38k)](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@istio](https://github.com/istio)
 *   [proxy (⭐52)](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 *   [registrator (⭐4.7k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
@@ -479,15 +480,16 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [dockge (⭐22k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 *   [Komodo (⭐10k)](https://github.com/mbecker20/komodo) - A tool to build and deploy software on many servers
 *   [Kubevious (⭐1.7k)](https://github.com/kubevious/kubevious) - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by [@rubenhak](https://github.com/rubenhak).
-*   [Mafl (⭐666)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+*   [Mafl (⭐671)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 *   [netdata (⭐78k)](https://github.com/netdata/netdata) - Real-time performance monitoring
 *   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
-*   [Portainer (⭐36k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
+*   [Portainer (⭐37k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
 *   [Rapid Dashboard (⭐147)](https://github.com/ozlerhakan/rapid) - A simple query dashboard to use Docker Remote API by [@ozlerhakan](https://github.com/ozlerhakan/)
 *   [Seagull (⭐1.9k)](https://github.com/tobegit3hub/seagull) - Friendly Web UI to monitor docker daemon. by [@tobegit3hub](https://github.com/tobegit3hub)
 *   [Swarmpit (⭐3.4k)](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
 *   [Swirl (⭐667)](https://github.com/cuigh/swirl) - Swirl is a web management tool for Docker, focused on swarm cluster By [@cuigh](https://github.com/cuigh/)
 *   [Theia (⭐21k)](https://github.com/eclipse-theia/theia) - Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+*   [usulnet (⭐63)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [@fr4nsys](https://github.com/fr4nsys)
 *   [Yacht (⭐45)](https://github.com/SelfhostedPro/Yacht) :construction: - A Web UI for docker that focuses on templates and ease of use in order to make deployments as easy as possible. By [@SelfhostedPro](https://github.com/SelfhostedPro)
 
 ## Docker Images
@@ -556,7 +558,7 @@ Applications designed to help or simplify building **new** images
 ### Dockerfile
 
 *   [chaperone-docker (⭐66)](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
-*   [Dockerfile Generator (⭐186)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile Generator (⭐185)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
 *   [dockerfilegraph (⭐255)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
 *   [Dockershelf (⭐97)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job. Maintained by [@CollageLabs](https://github.com/CollageLabs).

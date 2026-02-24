@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [datahaven-xyz/datahaven (⭐7.4k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
 
+### Applications / Games
+
+*   [Strophox/tetro-tui (⭐364)](https://github.com/Strophox/tetro-tui) \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
+
 ### Applications / Productivity
 
 *   [aannoo/hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
@@ -100,7 +104,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Text processing
 
-*   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
+*   [kreuzberg-dev/kreuzberg (⭐6.2k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -699,7 +703,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nwiizo/tfmcp (⭐354)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
+*   [nwiizo/tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
 
 ### Libraries / Cloud
 
@@ -2033,7 +2037,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nushell/nushell (⭐38k)](https://github.com/nushell/nushell) - A new type of shell
+*   [nushell/nushell (⭐39k)](https://github.com/nushell/nushell) - A new type of shell
 *   [supercilex/fuc (⭐506)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Development tools / Profiling

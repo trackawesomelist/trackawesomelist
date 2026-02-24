@@ -12,7 +12,7 @@ A curated list of awesome Web Font Icons
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome (⭐433k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -40,6 +40,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
 *   [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
 *   [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries.
+*   [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
 
 ## Generic
 
@@ -84,7 +85,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 *   [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of \~1380 flat icons that offer complete coverage of the main Font Awesome icon set
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 *   [Icons8 Line Awesome (⭐1.3k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
-*   [Akar Icons (⭐418)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐419)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 *   [Tabler Icons (⭐20k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [Lucide](https://lucide.dev) - A fork of Feather Icons with more than 500 additional icons.
 *   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
@@ -111,7 +112,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 
 ## Merchants
 
-*   [Bitcoin-Icons (⭐118)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐120)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 *   [CMC Cryptocurrency Icons (⭐245)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 *   [Cryptocurrency Icons (⭐2.7k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 *   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
@@ -120,7 +121,7 @@ Please read the [contribution guidelines](https://github.com/vkarampinis/awesome
 
 *   [fontello](https://fontello.com/) - Icon fonts generator.
 *   [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-*   [svgtofont (⭐705)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐707)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 *   [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 *   [Unicon](https://unicon.webrenew.com/) - Browse 20,000+ icons and export as React, Vue, Svelte, or SVG.
 *   [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.

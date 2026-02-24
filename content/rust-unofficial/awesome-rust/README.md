@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 24, 2026](/content/2026/02/24/README.md)
+
+### Applications / Games
+
+*   [Strophox/tetro-tui (⭐364)](https://github.com/Strophox/tetro-tui) \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
+
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 
 ### Applications / Blockchain
@@ -126,7 +132,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Text processing
 
-*   [kreuzberg-dev/kreuzberg (⭐5.8k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
+*   [kreuzberg-dev/kreuzberg (⭐6.2k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -780,7 +786,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nwiizo/tfmcp (⭐354)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
+*   [nwiizo/tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
 
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
@@ -2259,7 +2265,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nushell/nushell (⭐38k)](https://github.com/nushell/nushell) - A new type of shell
+*   [nushell/nushell (⭐39k)](https://github.com/nushell/nushell) - A new type of shell
 *   [supercilex/fuc (⭐506)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Libraries / Video

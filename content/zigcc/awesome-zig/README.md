@@ -12,6 +12,10 @@ A collection of awesome projects in Zig.
 
 *   [peymanmortazavi/csv-zero (⭐10)](https://github.com/peymanmortazavi/csv-zero) - Zero allocation, SIMD-accelerated CSV iterator and emitter for Zig.
 
+### Network & Web / Network
+
+*   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
+
 ### Interoperability / Build with Zig
 
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
@@ -107,11 +111,11 @@ A collection of awesome projects in Zig.
 
 ### Data & Science / Database
 
-*   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
+*   [seqor/seqor (⭐11)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 
 ### Multimedia & Graphics / GUI
 
-*   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+*   [meszmate/zigzag (⭐156)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 

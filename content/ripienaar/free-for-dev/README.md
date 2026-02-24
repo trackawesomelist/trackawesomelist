@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 24, 2026](/content/2026/02/24/README.md)
+
+### PaaS
+
+*   [Clever Cloud](https://clever.cloud) — European PaaS with automated deployments, autoscaling, managed databases, and Git-based workflows. Includes €20 free credits at signup, a limited DEV plan with free MySQL and PostgreSQL databases, and free allowances for services like Heptapod and FS Buckets.
+
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 
 ### Storage and Media Processing

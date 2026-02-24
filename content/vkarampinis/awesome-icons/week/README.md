@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
+
+### Archive of Icons
+
+*   [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Generic
@@ -107,7 +113,7 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Akar Icons (⭐418)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐419)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -146,7 +152,7 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐118)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐120)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -223,7 +229,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐705)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐707)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 

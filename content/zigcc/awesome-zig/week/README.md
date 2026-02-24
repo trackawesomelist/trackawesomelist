@@ -16,6 +16,10 @@ A collection of awesome projects in Zig.
 
 *   [neurocyte/thespian (⭐27)](https://github.com/neurocyte/thespian) - An actor library for Zig, C & C++ applications.
 
+### Network & Web / Network
+
+*   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
+
 ### Interoperability / Build with Zig
 
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
@@ -76,7 +80,7 @@ A collection of awesome projects in Zig.
 
 ### Data & Science / Database
 
-*   [seqor/seqor (⭐8)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
+*   [seqor/seqor (⭐11)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 
 ### Data & Science / Machine Learning Framework
 
@@ -89,7 +93,7 @@ A collection of awesome projects in Zig.
 
 ### Multimedia & Graphics / GUI
 
-*   [meszmate/zigzag (⭐68)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+*   [meszmate/zigzag (⭐156)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
 ### Multimedia & Graphics / Image and Video Processing
 

@@ -6,6 +6,20 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
+
+### Reverse Proxy
+
+*   [BunkerWeb (⭐10k)](https://github.com/bunkerity/bunkerweb) - Open-source and next-gen Web Application Firewall (WAF). By [Bunkerity](https://www.bunkerity.com)
+
+### Security
+
+*   [segspec (⭐13)](https://github.com/dormstern/segspec) - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [@dormstern](https://github.com/dormstern)
+
+### Web / Other
+
+*   [usulnet (⭐63)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [@fr4nsys](https://github.com/fr4nsys)
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Security
@@ -185,7 +199,7 @@
 ### Security
 
 *   [Anchor Enterprise](https://anchore.com/) :heavy\_dollar\_sign: - Analyze images for CVE vulnerabilities and against custom security policies by [@Anchor](https://github.com/anchore)
-*   [Syft (⭐8.3k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+*   [Syft (⭐8.4k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 
@@ -256,7 +270,7 @@
 
 ### Web / Other
 
-*   [Mafl (⭐666)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+*   [Mafl (⭐671)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
@@ -537,7 +551,7 @@
 *   [Grafeas (⭐1.6k)](https://github.com/grafeas/grafeas) - A common API for metadata about containers, from image and build details to security vulnerabilities. By [grafeas](https://github.com/grafeas)
 *   [Longshoreman (⭐420)](https://github.com/longshoreman/longshoreman) :skull: - Longshoreman automates application deployment using Docker. Just create a Docker repository (or use a service), configure the cluster using AWS or Digital Ocean (or whatever you like) and deploy applications using a Heroku-like CLI tool. By [longshoreman](https://github.com/longshoreman)
 *   [SwarmManagement (⭐21)](https://github.com/hansehe/SwarmManagement) - Swarm Management is a python application, installed with pip. The application makes it easy to manage a Docker Swarm by configuring a single yaml file describing which stacks to deploy, and which networks, configs or secrets to create.
-*   [werf (⭐4.6k)](https://github.com/werf/werf) - werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps by [@flant](https://github.com/flant)
+*   [werf (⭐4.7k)](https://github.com/werf/werf) - werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps by [@flant](https://github.com/flant)
 
 ### Monitoring
 
@@ -582,7 +596,7 @@
 *   [Haven (⭐296)](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 *   [Helios (⭐2.2k)](https://github.com/spotify/helios) :skull: - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify](https://github.com/spotify)
 *   [Kontena (⭐1.5k)](https://github.com/kontena/kontena) :skull: - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
-*   [Kubernetes (⭐120k)](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
+*   [Kubernetes (⭐121k)](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
 *   [ManageIQ (⭐1.4k)](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
 *   [Mantl (⭐3k)](https://github.com/mantl/mantl) - :skull: Mantl is a modern platform for rapidly deploying globally distributed services
 *   [Marathon (⭐4k)](https://github.com/mesosphere/marathon) - :skull: Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
@@ -611,7 +625,6 @@
 
 ### Reverse Proxy
 
-*   [bunkerized-nginx (⭐10k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
 *   [Docker Dnsmasq Updater (⭐34)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
 *   [docker-flow-proxy (⭐321)](https://github.com/docker-flow/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@docker-flow](https://github.com/docker-flow)
 *   [docker-proxy (⭐284)](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
@@ -657,7 +670,7 @@
 ### Service Discovery
 
 *   [docker-consul (⭐1.1k)](https://github.com/gliderlabs/docker-consul) by [@progrium](https://github.com/progrium)
-*   [etcd (⭐51k)](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
+*   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
 *   [istio (⭐38k)](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@istio](https://github.com/istio)
 *   [proxy (⭐52)](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 *   [registrator (⭐4.7k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs](https://github.com/gliderlabs) and [@progrium](https://github.com/progrium)
@@ -749,7 +762,7 @@
 *   [Kubevious (⭐1.7k)](https://github.com/kubevious/kubevious) - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by [@rubenhak](https://github.com/rubenhak).
 *   [netdata (⭐78k)](https://github.com/netdata/netdata) - Real-time performance monitoring
 *   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
-*   [Portainer (⭐36k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
+*   [Portainer (⭐37k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
 *   [Rapid Dashboard (⭐147)](https://github.com/ozlerhakan/rapid) - A simple query dashboard to use Docker Remote API by [@ozlerhakan](https://github.com/ozlerhakan/)
 *   [Seagull (⭐1.9k)](https://github.com/tobegit3hub/seagull) - Friendly Web UI to monitor docker daemon. by [@tobegit3hub](https://github.com/tobegit3hub)
 *   [Swarmpit (⭐3.4k)](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
@@ -811,7 +824,7 @@
 ### Dockerfile / Other
 
 *   [chaperone-docker (⭐66)](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
-*   [Dockerfile Generator (⭐186)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile Generator (⭐185)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
 *   [dockerfilegraph (⭐255)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
 *   [Dockershelf (⭐97)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job. Maintained by [@CollageLabs](https://github.com/CollageLabs).
