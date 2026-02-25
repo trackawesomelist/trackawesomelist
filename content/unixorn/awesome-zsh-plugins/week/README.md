@@ -6,6 +6,20 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [awsmultiaccount (⭐0)](https://github.com/acidix/zsh-awsmultiaccount) - Manages AWS profiles and assuming roles in a multi-account organization. It provides helper functions to easily switch between AWS profiles and assume the OrganizationAccountAccessRole in different accounts. Requires the `aws` cli and [jq](https://stedolan.github.io/jq/)
+*   [k9s (⭐0)](https://github.com/acidix/zsh-k9s) - Provides an iteractive `$KUBECONFIG` selector for [k9s](https://k9scli.io/).
+*   [matecito (⭐0)](https://github.com/uvallasciani/matecito-zsh) - Detects your language and country to display quotes from local authors in your native language. Simple, offline, no noise.
+*   [mlir (⭐11)](https://github.com/oowekyala/mlir-zsh-plugin) - Adds goodies for [MLIR](https://mlir.llvm.org/) developers including tab completion of `mlir-opt` and colorizing its output.
+*   [ohmyai (⭐0)](https://github.com/briques/ohmyai-zsh) - AI-powered command suggestions for Zsh. Type what you want to do, press the hotkey, and get shell command suggestions from OpenAI.
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [hledger (⭐0)](https://github.com/belegaps/omz-hledger-plugin) - Provides aliases and completions for [hledger](https://hledger.org/), a powerful, double-entry accounting tool.
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -28,8 +42,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ash (⭐6)](https://github.com/NotNanook/Ash) - A no-bullshit, seamless way to use LLMs right inside your shell (`bash`, `zsh`). Supports OpenAI, Ollama and OpenRouter.
-*   [ask-opencode (⭐1)](https://github.com/andreacasarin/zsh-ask-opencode) - Integrates OpenCode AI with your shell, allowing you to generate shell commands using natural language. Press `Ctrl+O` to transform any text in your command line into optimized shell commands.
+*   [ash (⭐7)](https://github.com/NotNanook/Ash) - A no-bullshit, seamless way to use LLMs right inside your shell (`bash`, `zsh`). Supports OpenAI, Ollama and OpenRouter.
+*   [ask-opencode (⭐3)](https://github.com/andreacasarin/zsh-ask-opencode) - Integrates OpenCode AI with your shell, allowing you to generate shell commands using natural language. Press `Ctrl+O` to transform any text in your command line into optimized shell commands.
 *   [fnm (sukkaw) (⭐2)](https://github.com/SukkaW/zsh-fnm) - Provides enhancement to the Node.js version manager [`fnm`](https://fnm.vercel.app).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -64,7 +78,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zledit (⭐4)](https://github.com/Piotr1215/zledit) - Fuzzy jump to any token on ZSH command line with overlay hints, preview panel, and in-place editing. Requires [fzf (⭐78k)](https://github.com/junegunn/fzf).
+*   [zledit (⭐11)](https://github.com/Piotr1215/zledit) - Fuzzy jump to any token on ZSH command line with overlay hints, preview panel, and in-place editing. Requires [fzf (⭐78k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -83,7 +97,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [abbr-preview (⭐1)](https://github.com/cohml/zsh-abbr-preview) - Previews [abbr (⭐735)](https://github.com/olets/zsh-abbr) abbreviations as you type.
+*   [abbr-preview (⭐2)](https://github.com/cohml/zsh-abbr-preview) - Previews [abbr (⭐735)](https://github.com/olets/zsh-abbr) abbreviations as you type.
 *   [abbr (⭐735)](https://github.com/olets/zsh-abbr) - Manages auto-expanding abbreviations that expand inline when you hit space, inspired by the fish shell.
 *   [tmux (zpm-zsh) (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
 *   [tmux (zsh-contrib) (⭐1)](https://github.com/zsh-contrib/zsh-tmux) - Plugin for [tmux](https://tmux.github.io). Includes automatic window title updates based on running command, command name display during execution, job reference resolution (fg, %1) to actual command names and automatic title truncation (max 20 characters).
@@ -92,7 +106,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [ai-candy (⭐0)](https://github.com/SihaoLiu/ai-candy) - A responsive [oh-my-zsh](https://github.com/ohmyzsh) theme for the AI-assisted developer who works across containers, VMs, and bare metal. Includes decorators for OS, kernel info, whether it is a `ssh` session, `git` status, GitHub integration, AI tool status and smart caching.
 *   [bright-catpuccin (⭐2)](https://github.com/Tailung42/bright_catppuccin_zsh_theme) - A vibrant, modern ZSH prompt built on the beautiful Catppuccin Mocha palette with bright color vibes. Includes decorators for `git` status, python `venv`, conda env, smart path truncation, command execution time for long-running commands, optional username\@hostname, smart path truncation, background jobs and command exit status.
-*   [infinite (⭐2)](https://github.com/The-Infinitys/zsh-infinite) - A highly customizable and dynamic ZSH theme written in Rust. Infinite offers a powerful CLI tool to manage your ZSH prompt's appearance, allowing for dynamic content, sophisticated coloring, and unique visual separators.
+*   [infinite (⭐3)](https://github.com/The-Infinitys/zsh-infinite) - A highly customizable and dynamic ZSH theme written in Rust. Infinite offers a powerful CLI tool to manage your ZSH prompt's appearance, allowing for dynamic content, sophisticated coloring, and unique visual separators.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -112,17 +126,17 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-cmd (⭐74)](https://github.com/kylesnowschwartz/zsh-ai-cmd) - Natural language to shell commands with ghost text preview. Requires `curl`, [`jq`](https://stedolan.github.io/jq/) and an Anthropic API key.
+*   [ai-cmd (⭐78)](https://github.com/kylesnowschwartz/zsh-ai-cmd) - Natural language to shell commands with ghost text preview. Requires `curl`, [`jq`](https://stedolan.github.io/jq/) and an Anthropic API key.
 *   [ai-cmd (⭐3)](https://github.com/shanemcd/ai-cmd) - Generate shell commands from natural language using LLMs via [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [Ollama](https://ollama.ai/).
-*   [claude-code-shell (⭐19)](https://github.com/ArielTM/zsh-claude-code-shell) - Translates natural language comments into shell commands using [Claude Code](https://claude.ai/claude-code).
+*   [claude-code-shell (⭐26)](https://github.com/ArielTM/zsh-claude-code-shell) - Translates natural language comments into shell commands using [Claude Code](https://claude.ai/claude-code).
 *   [nota (⭐1)](https://github.com/0x61nas/nota.zsh) - Simple plugin to manage a list of notes.
-*   [pump (⭐0)](https://github.com/fab1o/pump-zsh) - Provides a configurable set of aliases, functions, and themes to supercharge your terminal workflow. Requires [jq](https://stedolan.github.io/jq/), [gum (⭐22k)](https://github.com/charmbracelet/gum), [glow (⭐23k)](https://github.com/charmbracelet/glow) and the [GitHub CLI](https://cli.github.com/).
-*   [vivid (⭐0)](https://github.com/zsh-contrib/zsh-vivid) - Plugin for [vivid (⭐2.1k)](https://github.com/sharkdp/vivid) integration that generates and exports `LS_COLORS` with theme support.
+*   [pump (⭐0)](https://github.com/fab1o/pump-zsh) - Provides a configurable set of aliases, functions, and themes to supercharge your terminal workflow. Requires [jq](https://stedolan.github.io/jq/), [gum (⭐23k)](https://github.com/charmbracelet/gum), [glow (⭐23k)](https://github.com/charmbracelet/glow) and the [GitHub CLI](https://cli.github.com/).
+*   [vivid (⭐0)](https://github.com/zsh-contrib/zsh-vivid) - Plugin for [vivid (⭐2.2k)](https://github.com/sharkdp/vivid) integration that generates and exports `LS_COLORS` with theme support.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [claude-code-zsh-completion (⭐6)](https://github.com/1160054/claude-code-zsh-completion) - Adds completions for Anthropic's Claude Code CLI with support for 120+ languages. Includes dynamic completion for MCP servers, plugins, and session IDs.
-*   [claudecode-completion (⭐5)](https://github.com/wbingli/zsh-claudecode-completion) - Minimal and always up-to-date zsh completions for [Claude Code CLI (⭐64k)](https://github.com/anthropics/claude-code).
+*   [claudecode-completion (⭐5)](https://github.com/wbingli/zsh-claudecode-completion) - Minimal and always up-to-date zsh completions for [Claude Code CLI (⭐70k)](https://github.com/anthropics/claude-code).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -170,7 +184,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [deja-vu (⭐5)](https://github.com/justyntemme/zsh-deja-vu) - Logs and retrieves command history based on the directory it was run in. Never forget that complex `docker` or `git` command you ran in a project folder weeks ago.
 *   [ding (⭐1)](https://github.com/jessetipton/ding) - Plays notification sounds when a long-running shell command completes.
 *   [git-worktree (alexiszamanidis) (⭐35)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐78k)](https://github.com/junegunn/fzf) tooling.
-*   [git-worktree (trthomps) (⭐1)](https://github.com/trthomps/git-worktree-zsh-plugin) - Enhanced `git worktree` management with bare repository support. This plugin provides convenient commands for working with `git` worktrees, making it easy to work on multiple branches simultaneously.
+*   [git-worktree (trthomps) (⭐2)](https://github.com/trthomps/git-worktree-zsh-plugin) - Enhanced `git worktree` management with bare repository support. This plugin provides convenient commands for working with `git` worktrees, making it easy to work on multiple branches simultaneously.
 *   [seedee (⭐7)](https://github.com/joknarf/seedee) - Navigate interactively through directories / history of visited directories using arrow keys from command line.
 *   [shell-ng (⭐8)](https://github.com/joknarf/shell-ng) - Combines several of [joknarf](https://github.com/joknarf/)'s other plugins - [selector (⭐14)](https://github.com/joknarf/selector), [nerdp (⭐5)](https://github.com/joknarf/nerdp), [redo (⭐12)](https://github.com/joknarf/redo), [seedee (⭐7)](https://github.com/joknarf/seedee) and [complete-ng (⭐5)](https://github.com/joknarf/complete-ng).
 
@@ -180,7 +194,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fishbone++ (⭐16)](https://github.com/EYH0602/Fishbonepp) - A theme influenced by [oh-my-fish (⭐11k)](https://github.com/oh-my-fish/oh-my-fish) theme fishbone and [oh-my-zsh](https://github.com/ohmyzsh) theme [typewritten (⭐934)](https://github.com/reobin/typewritten). Includes decorators for current directory, `git` status, exit status of last command.
+*   [fishbone++ (⭐16)](https://github.com/EYH0602/Fishbonepp) - A theme influenced by [oh-my-fish (⭐11k)](https://github.com/oh-my-fish/oh-my-fish) theme fishbone and [oh-my-zsh](https://github.com/ohmyzsh) theme [typewritten (⭐932)](https://github.com/reobin/typewritten). Includes decorators for current directory, `git` status, exit status of last command.
 *   [pumpkane (⭐0)](https://github.com/ColinZeDev/pumpkane-oh-my-zsh-theme) - A modern, colorful, and informative theme designed for clarity, aesthetics, and productivity. It features dynamic colors, `git` status integration, time-based coloring, and optional nickname display
 *   [yuni (⭐0)](https://github.com/skippyr/yuni) - A modern version of the macOS default ZSH theme, adding essential developer features the original theme lacked. Includes decorators for the exit code of failed commands, your user and host names, shortened current directory path, the active branch, and privilege decorators: `%` if you're a normal user, `#` if root, and `[!]` when you don't have permissions to modify the current directory. Works on macOS 14 Sonoma or later.
 
@@ -204,7 +218,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-user-switch (⭐0)](https://github.com/dipodidae/zsh-plugin-git-user-switch) - Switch between multiple GitHub user accounts. It automatically updates both your SSH configuration and GitHub CLI (gh) authentication..
-*   [llm-cli-autocomplete-tool (⭐3)](https://github.com/duoyuncloud/zsh-llm-cli-autocomplete-tool) - Advanced AI-powered ZSH plugin with LoRA fine-tuning, navigatable UI, and [Ollama](https://ollama.com) integration.
+*   [llm-cli-autocomplete-tool (⭐4)](https://github.com/duoyuncloud/zsh-llm-cli-autocomplete-tool) - Advanced AI-powered ZSH plugin with LoRA fine-tuning, navigatable UI, and [Ollama](https://ollama.com) integration.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -246,7 +260,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [rio (⭐0)](https://github.com/foxit64/zsh-theme-rio) - Minimalist theme with decorators for `git` status and current directory.
+*   [rio (⭐2)](https://github.com/foxit64/zsh-theme-rio) - Minimalist theme with decorators for `git` status and current directory.
 *   [zenith (husniadil) (⭐0)](https://github.com/husniadil/zenith-oh-my-zsh-theme) - A clean, modern Zsh theme designed for efficiency and aesthetics. Featuring a cool-toned color palette with intuitive Git status indicators, it keeps your terminal workflow smooth and distraction-free. Includes decorators for color-coded `git` status, exit status of last command and compact directory display.
 *   [zenith (waki285) (⭐1)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
 
@@ -260,22 +274,22 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [auto-venv (skylor0tang) (⭐6)](https://github.com/Skylor-Tang/auto-venv) - Automatically activates the Python virtual environment in the current directory or its parent directories.
 *   [disk-guard (⭐1)](https://github.com/TomfromBerlin/Zsh-Disk-Guard) - Warns you when you try to copy/move/rsync files and are running low on local disk space, and provides useful information and a nice progress bar for `cp` and `mv`.
-*   [ffexport (⭐1)](https://github.com/Pakrohk/ffexport.plugin.zsh) - Lightweight, ZSH-native video export manager — profile-driven [FFmpeg](https://www.ffmpeg.org) exports, persistent ZSH tab completion, profile import/export, and safe defaults for Instagram & YouTube workflows.
+*   [ffexport (⭐2)](https://github.com/Pakrohk/ffexport.plugin.zsh) - Lightweight, ZSH-native video export manager — profile-driven [FFmpeg](https://www.ffmpeg.org) exports, persistent ZSH tab completion, profile import/export, and safe defaults for Instagram & YouTube workflows.
 *   [git-cleanbranches (⭐0)](https://github.com/wu9o/ohmyzsh-cleanbranches) - A powerful unified clean up tool for `git` branches that uses [fzf (⭐78k)](https://github.com/junegunn/fzf) to find all branches that are safe to delete.
 *   [git-graph (⭐1)](https://github.com/Maks0u/git-graph) - Adds a pretty `git` graph.
 *   [jap (⭐2)](https://github.com/philipstuessel/jap) - Terminal automation framework.
 *   [macos-autoproxy (⭐137)](https://github.com/SukkaW/zsh-osx-autoproxy) - Configures proxy environment variables based on macOS's system preferences.
 *   [rura (⭐1)](https://github.com/kiki-ki/rura) - A simple ZSH plugin to save and jump to directories.
-*   [ssh-host (⭐5)](https://github.com/obolientsev/ssh-host) - Manage ssh with [fzf (⭐78k)](https://github.com/junegunn/fzf).
+*   [ssh-host (⭐6)](https://github.com/obolientsev/ssh-host) - Manage ssh with [fzf (⭐78k)](https://github.com/junegunn/fzf).
 *   [temperatures (⭐0)](https://github.com/groberth/temperatures-zsh) - A lightweight, zero-dependency plugin that shows your machine’s CPU and (optionally) GPU temperatures directly in your ZSH prompt. Originally designed for Raspberry Pi but works on any Linux system exposing `/sys/class/thermal/`.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [python-module-completion (⭐3)](https://github.com/UshioA/zsh-python-module-completion) - Intelligent tab completion for python -m commands with hierarchical module navigation and smart project detection.
+*   [python-module-completion (⭐4)](https://github.com/UshioA/zsh-python-module-completion) - Intelligent tab completion for python -m commands with hierarchical module navigation and smart project detection.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [quantum (⭐37)](https://github.com/calebephrem/quantum-zsh) - Sleek, dynamic ZSH theme built for speed, style, and shell supremacy. Whether you're deep in Git or just vibing in your terminal, Quantum adapts to your flow.
+*   [quantum (⭐38)](https://github.com/calebephrem/quantum-zsh) - Sleek, dynamic ZSH theme built for speed, style, and shell supremacy. Whether you're deep in Git or just vibing in your terminal, Quantum adapts to your flow.
 *   [r (⭐1)](https://github.com/rafalkaron/r-zsh-theme) - A simple yet informative ZSH theme.
 
 ## [Oct 20 - Oct 26, 2025](/content/2025/42/README.md)
@@ -288,7 +302,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cowsay (⭐4)](https://github.com/phucisstupid/cowsay.zsh) - Displays a joke with `cowsay` and `lolcat` every time you open a terminal.
+*   [cowsay (⭐4)](https://github.com/phucisstupid/cowsay.zsh) - Displays a joke with `cowsay` every time you open a terminal.
 *   [penv (⭐1)](https://github.com/Nhqml/penv-zsh-plugin) - Manages `uv` Python virtual environments stored in `~/.local/share/py-venv/`. Supports subcommands for listing, activating (shell and directory level), creating, deleting and explaining why an env is activated. Makes it easier to replace `pyenv` and `poetry` with `uv`.
 *   [timewarrior (ianmkenney) (⭐8)](https://github.com/ianmkenney/timewarrior_zsh_completion) - Tab completions for the [timewarrior](https://timewarrior.net/) time-tracking application.
 *   [timewarrior (svenXY) (⭐62)](https://github.com/svenXY/timewarrior) - Adds support for [timewarrior](https://timewarrior.net/), a time-tracking application.
@@ -310,7 +324,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [claude (⭐1)](https://github.com/HundredAcreStudio/zsh-claude) - AI-powered command suggestions and explanations for ZSH using Claude AI. Get intelligent shell command help with simple keybindings. Transform natural language into executable shell commands, or get detailed explanations of complex commands - all directly in your terminal with Claude AI integration.
+*   [claude (⭐2)](https://github.com/HundredAcreStudio/zsh-claude) - AI-powered command suggestions and explanations for ZSH using Claude AI. Get intelligent shell command help with simple keybindings. Transform natural language into executable shell commands, or get detailed explanations of complex commands - all directly in your terminal with Claude AI integration.
 *   [fzf (scaryrawr) (⭐2)](https://github.com/scaryrawr/fzf.zsh) - Adds keybindings for [fzf (⭐78k)](https://github.com/junegunn/fzf) inspired by [PatrickF1/fzf.fish (⭐2.5k)](https://github.com/PatrickF1/fzf.fish).
 *   [fzf-nav (⭐1)](https://github.com/ivomac/zsh-fzf-nav) - Defines an interactive file/directory navigator using [fzf (⭐78k)](https://github.com/junegunn/fzf). Offers multiple navigation modes, git integration, and customizable actions.
 *   [zsh-dev-navigator (⭐0)](https://github.com/dvigo/zsh-dev-navigator) - A minimal ZSH plugin that lets you quickly jump into your development directories with a single command.
@@ -532,7 +546,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [release-fetcher (⭐0)](https://github.com/Game4Move78/zsh-release-fetcher) - Fetches latest release and checks if you trust the identity used to sign the tag.
 *   [smart-insert (⭐5)](https://github.com/lgdevlop/zsh-smart-insert) - provides interactive widgets to search for files and content using [`fd`](https://github.com/sharkdp/fd), [`rg`](https://github.com/BurntSushi/ripgrep), and [`fzf`](https://github.com/junegunn/fzf). It inserts the result directly into your shell with optional command prefixes.
 *   [xdg-basedirs (⭐3)](https://github.com/krahlos/xdg-basedirs) - sets up the XDG base directories according to the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/latest/). This plugin ensures that your environment is configured properly for storing user data, cache,and configuration files.
-*   [yazi-mount (⭐0)](https://github.com/splixx05/zsh-yazi-mount) - Mount USB partitions via `udisksctl`, open them in [yazi (⭐32k)](https://github.com/sxyazi/yazi), and unmount them afterward – safe, clean, and user-friendly.
+*   [yazi-mount (⭐0)](https://github.com/splixx05/zsh-yazi-mount) - Mount USB partitions via `udisksctl`, open them in [yazi (⭐33k)](https://github.com/sxyazi/yazi), and unmount them afterward – safe, clean, and user-friendly.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -555,7 +569,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐78k)](https://github.com/junegunn/fzf), [bat (⭐57k)](https://github.com/sharkdp/bat) and [ripgrep (⭐59k)](https://github.com/BurntSushi/ripgrep).
+*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐78k)](https://github.com/junegunn/fzf), [bat (⭐57k)](https://github.com/sharkdp/bat) and [ripgrep (⭐60k)](https://github.com/BurntSushi/ripgrep).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -577,7 +591,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [simple-zsh-catppuccin (⭐1)](https://github.com/ezswan/simple-zsh-catppuccin) - Based on the [Catppuccin Mocha](https://catppuccin.com/) color scheme, adapted from the [Dracula (⭐290)](https://github.com/dracula/zsh) theme foundation. This theme features a simple and functional prompt with support for git status, time display, context, and directory information, enhanced with hex color support discovered by ezswan.
+*   [simple-zsh-catppuccin (⭐1)](https://github.com/ezswan/simple-zsh-catppuccin) - Based on the [Catppuccin Mocha](https://catppuccin.com/) color scheme, adapted from the [Dracula (⭐291)](https://github.com/dracula/zsh) theme foundation. This theme features a simple and functional prompt with support for git status, time display, context, and directory information, enhanced with hex color support discovered by ezswan.
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -611,7 +625,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [llm (⭐19)](https://github.com/eliyastein/llm-zsh-plugin) - Adds tab completions for the [LLM CLI tool](https://llm.datasette.io/).
+*   [llm (⭐20)](https://github.com/eliyastein/llm-zsh-plugin) - Adds tab completions for the [LLM CLI tool](https://llm.datasette.io/).
 *   [tailscale-ssh (⭐1)](https://github.com/Seraphin-/zsh-tailscale-ssh) - Provides host completion based off tailscale status. It automatically strips the MagicDNS suffix, if present.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -682,7 +696,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [brew-install (⭐1)](https://github.com/marceloclp/zsh-brew-install) - Installs and loads [brew](https://brew.sh) on WSL.
 *   [scad (⭐4)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐2.1k)](https://github.com/garabik/grc) and [jq (⭐34k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐28)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐79k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐30)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐80k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐5.9k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐1)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
 *   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh).
 
@@ -769,7 +783,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐79k)](https://github.com/astral-sh/uv).
+*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐80k)](https://github.com/astral-sh/uv).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -779,7 +793,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [adguard-helper (⭐1)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐150)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
+*   [adguard-helper (⭐1)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐156)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 *   [some-peco (⭐1)](https://github.com/MoeBensu/zsh-some-peco/) - Enhances your command-line experience with [peco (⭐7.9k)](https://github.com/peco/peco) i.e. providing quick directory navigation and history search.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -931,7 +945,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ez-compinit (⭐35)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
+*   [ez-compinit (⭐36)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
 *   [shellcolor (⭐6)](https://github.com/SaltedBlowfish/zsh-shellcolor) - Changes the terminal background color based on the presence of a `.shellcolor` in the current directory.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1071,9 +1085,9 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [conda (themysciradata) (⭐15)](https://github.com/ThemysciraData/conda.plugin.zsh) - Adds function to provide a prompt segment for [conda](https://conda.io) and aliases for some base functions.
 *   [conda (wardhanisukoco) (⭐1)](https://github.com/wardhanisukoco/zsh-plugin-conda/) - Automatically loads `conda` and provides functions for detecting `conda` versions for use in themes.
 *   [jrgit (⭐0)](https://github.com/jrocha-dev/ohmyzsh-plugin-jrgit) - Provides a suite of functions to streamline the Git user experience. It includes features for installing and configuring `git`, handling large files with Git LFS, improving diff outputs, and managing credentials and keys securely.
-*   [tab-title (p1r473) (⭐2)](https://github.com/p1r473/tab-title/) - Rename [tmux (⭐41k)](https://github.com/tmux/tmux/wiki) and [screen](https://www.gnu.org/software/screen/manual/screen.html) panes and windows.
+*   [tab-title (p1r473) (⭐2)](https://github.com/p1r473/tab-title/) - Rename [tmux (⭐42k)](https://github.com/tmux/tmux/wiki) and [screen](https://www.gnu.org/software/screen/manual/screen.html) panes and windows.
 *   [tab-title (trystan2k) (⭐52)](https://github.com/trystan2k/zsh-tab-title) - Set the terminal tab title according to current directory or running process. Forked from [termsupport.zsh (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/termsupport.zsh).
-*   [yazi-zoxide (⭐17)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐32k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
+*   [yazi-zoxide (⭐17)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐33k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1173,7 +1187,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dirbrowse (⭐3)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐29k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐30k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [touchplus (⭐4)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
 *   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐29k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
@@ -1208,8 +1222,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-switch-branch-skim (⭐1)](https://github.com/okhiroyuki/zsh-git-switch-branch-skim) - Allows you to switch `git` branches with [skim (⭐6.5k)](https://github.com/lotabout/skim)
-*   [select-history-skim (⭐1)](https://github.com/okhiroyuki/zsh-select-history-skim) Rummage through your history with [skim (⭐6.5k)](https://github.com/lotabout/skim).
+*   [git-switch-branch-skim (⭐1)](https://github.com/okhiroyuki/zsh-git-switch-branch-skim) - Allows you to switch `git` branches with [skim (⭐6.6k)](https://github.com/lotabout/skim)
+*   [select-history-skim (⭐1)](https://github.com/okhiroyuki/zsh-select-history-skim) Rummage through your history with [skim (⭐6.6k)](https://github.com/lotabout/skim).
 *   [tinted-shell (⭐82)](https://github.com/tinted-theming/tinted-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1410,7 +1424,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [inshellisense (⭐9.7k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
+*   [inshellisense (⭐9.8k)](https://github.com/microsoft/inshellisense) - Provides IDE style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports `bash`, `fish`, `zsh` and `pwsh` on the Windows, Linux, & MacOS operating systems.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1421,7 +1435,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [asdf (kiurchv) (⭐14)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐25k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
-*   [asdf (zimfw) (⭐12)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐25k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐575)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐575)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [asdf (zimfw) (⭐12)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐25k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐574)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐574)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [telepresence (⭐1)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 
@@ -1454,7 +1468,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [hebzsh (⭐2)](https://github.com/admons/hebzsh) - If a command is not found as typed in Hebrew, translates the command as if it was typed on a keyboard with a US English layout and tries again.
 *   [history-sync (vitobotta) (⭐25)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
 *   [history-sync (wulfgarpro) (⭐265)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
-*   [select-with-lf (⭐10)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐9k)](https://github.com/gokcehan/lf).
+*   [select-with-lf (⭐10)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐9.1k)](https://github.com/gokcehan/lf).
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
@@ -1661,7 +1675,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐429)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐1.1k)](https://github.com/sigoden/argc) and [jq (⭐33k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐431)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐1.1k)](https://github.com/sigoden/argc) and [jq (⭐34k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1682,7 +1696,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [fnm (dominik-schwabe) (⭐16)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐24k)](https://github.com/Schniz/fnm) if it is missing.
 *   [fnm (wintermi) (⭐3)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐24k)](https://github.com/Schniz/fnm).
 *   [iwd (⭐4)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
-*   [vivid (⭐12)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐2.1k)](https://github.com/sharkdp/vivid).
+*   [vivid (⭐12)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐2.2k)](https://github.com/sharkdp/vivid).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1717,7 +1731,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [fzf-packagemanager (⭐2)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐78k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 *   [lazy-load (⭐3)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
-*   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
+*   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your `tmux` configurations.
 *   [pipe (⭐1)](https://github.com/pipe-felipe/zsh-pipe-plugin) - A powerful ZSH plugin featuring **cross-distro system updates** and **cleanup** (supports `apt`, `dnf`, `pacman`, `zypper`, `homebrew`, and more), Docker container/volume management, and development environment enhancements. Simplifies system maintenance across multiple Linux distributions with intuitive commands. Extensible through a simple configuration system - see project README for details.
 *   [ssh-quickconnect (⭐2)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
 *   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐415)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
@@ -1885,12 +1899,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-full-autoupdate (⭐86)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐185k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
+*   [omz-full-autoupdate (⭐88)](https://github.com/Pilaton/OhMyZsh-full-autoupdate) - Automatically update [oh-my-zsh (⭐185k)](https://github.com/ohmyzsh/ohmyzsh) plugins and themes.
 *   [toolbox (⭐1)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [daivasmara (⭐88)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [daivasmara (⭐89)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 *   [gianu-alternative (⭐0)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
@@ -2010,12 +2024,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [yarn-extra-completion (⭐38)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐496)](https://github.com/lukechilds/zsh-better-npm-completion).
-*   [yt-dlp (⭐9)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐145k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐9)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐148k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
-*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐21k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐21k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐22k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐22k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 *   [happy-coding (⭐2)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐345)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
@@ -2102,7 +2116,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [communism (⭐29)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
-*   [fd-plugin (⭐10)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐41k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐10)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐42k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 *   [git-aliases (peterhurford) (⭐82)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
 *   [mysql-login (⭐0)](https://github.com/remino/omz-plugin-mysql-alias) - Adds alias for MySQL with login path.
@@ -2282,7 +2296,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [iterm2 (⭐10)](https://github.com/laggardkernel/zsh-iterm2) - Packs iTerm 2's ZSH integration scripts into a ZSH plugin to avoid polluting your $HOME directory, with a negligible time increase of only 2ms.
 *   [jenv-lazy (⭐7)](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of jEnv.
 *   [kitsunebook (⭐1)](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for [oh-my-zsh](https://ohmyz.sh).
-*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐41k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
+*   [last-working-dir-tmux (⭐1)](https://github.com/Curly-Mo/last-working-dir-tmux) - Keeps track of the last used working directory globally and per [tmux (⭐42k)](https://github.com/tmux/tmux) session and automatically jumps into it for new shells.
 *   [lesaint-git (⭐0)](https://github.com/lesaint/lesaint-git) - Replacement `git` plugin for [oh-my-zsh](https://ohmyz.sh)-compatible frameworks.
 *   [lesaint-mvn (⭐0)](https://github.com/lesaint/lesaint-mvn) - Maven plugins for [oh-my-zsh](https://ohmyz.sh).
 *   [lux (⭐34)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
@@ -2331,7 +2345,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [gitfast (⭐9)](https://github.com/tevren/gitfast-zsh-plugin) - Updated fork of the [oh-my-zsh](https://ohmyz.sh/) `gitfast` plugin.
 *   [gtr (⭐0)](https://github.com/Zocker1999NET/zsh-gtr) - Allows fast tagging of a release in `git` using the tag name \**release-YYYY-MM-DD-HH-MM*- and headline **Release YYYY-MM-DD HH:MM**.
 *   [gvm (dgnest) (⭐6)](https://github.com/dgnest/zsh-gvm-plugin) - A `gvm` (Go version manager) plugin for ZSH.
-*   [hacker-quotes (⭐100)](https://github.com/oldratlee/hacker-quotes) - Outputs a random hacker quote when you open a terminal.
+*   [hacker-quotes (⭐101)](https://github.com/oldratlee/hacker-quotes) - Outputs a random hacker quote when you open a terminal.
 *   [hangul (⭐268)](https://github.com/gomjellie/zsh-hangul) - Auto correct hangul(한글, korean) to English when it was supposed to be typed in English. 영어를 타이핑 해야되는데 한글로 타이핑된경우 자동으로 수정합니다.
 *   [laravel-au (⭐8)](https://github.com/Saleh7/laravel-au-zsh-plugin) - Adds aliases for [Laravel](https://laravel.com/) 6.
 *   [macos (zshzoo) (⭐24)](https://github.com/zshzoo/macos) - ZSH goodies for macOS users.
@@ -2371,7 +2385,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [vterm (⭐0)](https://github.com/randomphrase/vterm-zsh-plugin) - Lets you run `emacs` commands directly from [vterm (⭐96)](https://github.com/vterm/vterm) shell sessions.
 *   [yapipenv (⭐0)](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's `pip` environment if `pipenv` detects the presence of one.
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
-*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐29k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐41k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
+*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐29k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐42k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
 *   [zsh-in-docker (⭐1.1k)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐3)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
@@ -2410,7 +2424,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [project (gko) (⭐20)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
 *   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.4k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
 *   [session-sauce (⭐31)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐78k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐96)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐79k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐96)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐80k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2418,7 +2432,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [brew-services (⭐19)](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for [homebrew](https://brew.sh) services.
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 *   [cargo (⭐33)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
-*   [kubectl-fzf (⭐470)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐78k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
+*   [kubectl-fzf (⭐471)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐78k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
 *   [kubectl-plugin (⭐15)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 *   [rancher (⭐10)](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 *   [test-kitchen (⭐7)](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen (⭐1.9k)](https://github.com/test-kitchen/test-kitchen)).
@@ -2430,15 +2444,15 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [carapace (⭐1.1k)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions on demand, you have to explicitly run it to generate completions for a command.
+*   [carapace (⭐1.2k)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions on demand, you have to explicitly run it to generate completions for a command.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [activate-py-environment (⭐29)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
-*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐6.5k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
-*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐6.5k)](https://github.com/lotabout/skim)
+*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐6.6k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
+*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐6.6k)](https://github.com/lotabout/skim)
 *   [zbrowse (⭐19)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
 *   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐4.5k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
 *   [zinit-annex-submods (⭐7)](https://github.com/z-shell/z-a-submods) - [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
@@ -2606,7 +2620,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [021011 (⭐125)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 *   [arrow (⭐0)](https://github.com/milon/arrow-zsh-theme) - Minimal theme, includes `git` status decorations.
-*   [inthedeepspace (⭐0)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐315)](https://github.com/tyrannicaltoucan/vim-deep-space).
+*   [inthedeepspace (⭐0)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐318)](https://github.com/tyrannicaltoucan/vim-deep-space).
 *   [shiftys (⭐0)](https://github.com/shifty0g/shiftys-zsh-theme/) - Tweaked version of the kali theme.
 *   [ultimator (⭐0)](https://github.com/Ultimator14/ultimator-zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874)-like theme. Includes decorators for current directory, `user@host`, python virtualenv, background jobs, last command exit status, and `git` status information. Requires [zsh-git-prompt (⭐0)](https://github.com/Ultimator14/zsh-git-prompt) plugin and Nerdfonts.
 
@@ -2656,7 +2670,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐110)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐111)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2950,7 +2964,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [256color (⭐151)](https://github.com/chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen `TERM` environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
 *   [abbr-path (⭐12)](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
 *   [abbrev-alias (⭐121)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
-*   [actiona (⭐4)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐659)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
+*   [actiona (⭐4)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐664)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
 *   [alacritty (⭐11)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐62k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alias-tips (⭐809)](https://github.com/djui/alias-tips) - An [oh-my-zsh](https://ohmyz.sh/) plugin to help remembering those aliases you defined once.
 *   [allergen (⭐3)](https://github.com/stanislas/allergen) - A collection of custom ZSH plugins to use with Antigen.
@@ -2968,12 +2982,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [arduino (⭐6)](https://github.com/raghur/zsh-arduino) - Adds scripts to build, upload and monitor arduino sketches from a command line. Requires [`jq`](https://stedolan.github.io/jq/).
 *   [artisan (⭐647)](https://github.com/jessarcher/zsh-artisan) - Laravel `artisan` plugin for ZSH to help you to run `artisan` from anywhere in the project tree, with tab completion!
 *   [asciidoctor (⭐6)](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
-*   [asdf-direnv (⭐12)](https://github.com/redxtech/zsh-asdf-direnv) - Integration and completions for [asdf (⭐25k)](https://github.com/asdf-vm/asdf) and [direnv (⭐575)](https://github.com/asdf-community/asdf-direnv).
+*   [asdf-direnv (⭐12)](https://github.com/redxtech/zsh-asdf-direnv) - Integration and completions for [asdf (⭐25k)](https://github.com/asdf-vm/asdf) and [direnv (⭐574)](https://github.com/asdf-community/asdf-direnv).
 *   [asdf-prompt (⭐8)](https://github.com/CurryEleison/zsh-asdf-prompt) - Provides a function usable in prompts that displays version information for your current tool versions.
 *   [assume-role (⭐7)](https://github.com/weizard/assume-role) - Allows you to assume AWS IAM roles easily. Includes completions.
 *   [async (⭐810)](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in ZSH without requiring any external tools. Allows you to run multiple asynchronous jobs, enforce unique jobs (multiple instances of the same job will not run), flush all currently running jobs and create multiple workers (each with their own jobs).
 *   [atom-plugin (⭐5)](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - Based on the [Sublime (⭐6)](https://github.com/valentinocossar/sublime) plugin, lets you launch a file or folder in [Atom](https://atom.io) from [iTerm 2](https://iterm2.com).
-*   [atuin (⭐28k)](https://github.com/ellie/atuin) - Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
+*   [atuin (⭐2)](https://github.com/ellie/atuin) - Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 *   [aur-install (⭐2)](https://github.com/redxtech/zsh-aur-install) - Small plugin to install packages from the AUR.
 *   [auto-color-ls (⭐59)](https://github.com/gretzky/auto-color-ls) - Automatically list directories with `colorls`.
 *   [auto-fu.zsh (⭐436)](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>.
@@ -3010,7 +3024,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [browse-commit (⭐17)](https://github.com/adolfoabegg/browse-commit) - Lets you open any commit in your browser from the command line.
 *   [bruse (⭐2)](https://github.com/aubreypwd/zsh-plugin-bruse) - Makes it easy to `brew link` different versions of packages.
 *   [c (⭐4)](https://github.com/sebastiangraz/c) - Adds some `git` shortcuts.
-*   [calibre-zaw-source (⭐4)](https://github.com/junkblocker/calibre-zaw-source) - [Calibre - E-book management](https://calibre-ebook.com/) source for [zaw (⭐581)](https://github.com/zsh-users/zaw)
+*   [calibre-zaw-source (⭐4)](https://github.com/junkblocker/calibre-zaw-source) - [Calibre - E-book management](https://calibre-ebook.com/) source for [zaw (⭐583)](https://github.com/zsh-users/zaw)
 *   [caniuse (⭐20)](https://github.com/walesmd/caniuse.plugin.zsh) - Add [Can I Use](https://caniuse.com) support to ZSH.
 *   [careful\_rm (⭐34)](https://github.com/MikeDacre/careful_rm) - A wrapper for `rm` that adds trash/recycling and useful warnings.
 *   [case (⭐4)](https://github.com/rtuin/zsh-case) - A ZSH plugin that adds two aliases `tolower` and `toupper` to switch output case.
@@ -3079,7 +3093,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [elixir (⭐155)](https://github.com/gusaiani/elixir-oh-my-zsh) - Adds shortcuts for Elixir, IEX, Mix, Kiex and Phoenix.
 *   [emacs (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-emacs) - Make Emacs the default for CLI operations like editing git commit messages; set up handy aliases.
 *   [emoji-cli (⭐445)](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line.
-*   [emoji-fzf (⭐10)](https://github.com/pschmitt/emoji-fzf.zsh) - Configurable ZSH plugin for the excellent [emoji-fzf (⭐43)](https://github.com/noahp/emoji-fzf). It is heavily inspired by [emoji-cli (⭐445)](https://github.com/b4b4r07/emoji-cli).
+*   [emoji-fzf (⭐10)](https://github.com/pschmitt/emoji-fzf.zsh) - Configurable ZSH plugin for the excellent [emoji-fzf (⭐44)](https://github.com/noahp/emoji-fzf). It is heavily inspired by [emoji-cli (⭐445)](https://github.com/b4b4r07/emoji-cli).
 *   [enhancd (⭐2.7k)](https://github.com/b4b4r07/enhancd) - A simple tool that provides an enhanced `cd` command by memorizing all directories visited by a user and use it for the pathname resolution.
 *   [envrc (⭐4)](https://github.com/fabiogibson/envrc-zsh-plugin) - Automatically loads and unloads environment variables if a `.envrc` file is found in a directory.
 *   [escape-backtick (⭐1)](https://github.com/bezhermoso/zsh-escape-backtick) - Quickly insert escaped backticks when double-tapping "\`".
@@ -3103,7 +3117,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [functional (⭐140)](https://github.com/Tarrasch/zsh-functional) - ZSH higher order functions.
 *   [fuzzy-search-and-edit (⭐34)](https://github.com/seletskiy/zsh-fuzzy-search-and-edit) - ZSH plugin for fuzzy searching files and instantly opening a matched file on matched line.
 *   [fz (⭐562)](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z (⭐17k)](https://github.com/rupa/z)'s tab completion and lets you easily jump around among directories in your history.
-*   [fzf-finder (⭐22)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐78k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐57k)](https://github.com/sharkdp/bat) and [fd (⭐41k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
+*   [fzf-finder (⭐22)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐78k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐57k)](https://github.com/sharkdp/bat) and [fd (⭐42k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
 *   [fzf-history-search (⭐452)](https://github.com/joshskidmore/zsh-fzf-history-search) - Replaces `Ctrl+R` with an [fzf (⭐78k)](https://github.com/junegunn/fzf)-driven history search that includes date/times.
 *   [fzf-marks (⭐514)](https://github.com/urbainvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in `bash` and `zsh`, using the fuzzy finder [fzf (⭐78k)](https://github.com/junegunn/fzf).
 *   [fzf-pass (⭐7)](https://github.com/smeagol74/zsh-fzf-pass) - Better handling of passwords using [fzf (⭐78k)](https://github.com/junegunn/fzf) and [pass](https://www.passwordstore.org/).
@@ -3115,10 +3129,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [gcloud-project (⭐11)](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Projects.
 *   [gdbm (⭐1)](https://github.com/zdharma-continuum/zgdbm) - Adds GDBM as a plugin.
 *   [gentoo (⭐5)](https://github.com/MattiaG-afk/gentoo-ohmyzsh) - Adds some aliases and functions to work with Gentoo Linux.
-*   [geometry-datetime (⭐3)](https://github.com/desyncr/geometry-datetime) - [Geometry (⭐990)](https://github.com/geometry-zsh/geometry) datetime plugin. Shows datetime (`date` unix command) in your prompt.
-*   [geometry-hydrate (⭐2)](https://github.com/jedahan/geometry-hydrate) - [Geometry (⭐990)](https://github.com/geometry-zsh/geometry) plugin to remind you to hydrate.
-*   [geometry-npm-package-version (⭐2)](https://github.com/drager/geometry-npm-package-version) - [Geometry (⭐990)](https://github.com/geometry-zsh/geometry) plugin to display the current folder's npm package version.
-*   [geometry-rust-version (⭐3)](https://github.com/drager/geometry-rust-version) - [Geometry (⭐990)](https://github.com/geometry-zsh/geometry) plugin to display the current folder's Rust version when either a `.rs` or `Cargo.toml` is present.
+*   [geometry-datetime (⭐3)](https://github.com/desyncr/geometry-datetime) - [Geometry (⭐989)](https://github.com/geometry-zsh/geometry) datetime plugin. Shows datetime (`date` unix command) in your prompt.
+*   [geometry-hydrate (⭐2)](https://github.com/jedahan/geometry-hydrate) - [Geometry (⭐989)](https://github.com/geometry-zsh/geometry) plugin to remind you to hydrate.
+*   [geometry-npm-package-version (⭐2)](https://github.com/drager/geometry-npm-package-version) - [Geometry (⭐989)](https://github.com/geometry-zsh/geometry) plugin to display the current folder's npm package version.
+*   [geometry-rust-version (⭐3)](https://github.com/drager/geometry-rust-version) - [Geometry (⭐989)](https://github.com/geometry-zsh/geometry) plugin to display the current folder's Rust version when either a `.rs` or `Cargo.toml` is present.
 *   [ghost-zeus (⭐2)](https://github.com/fontno/ghost_zeus) - Lets you use [zeus (⭐3.3k)](https://github.com/burke/zeus) with normal rails commands.
 *   [git-add-remote (⭐14)](https://github.com/caarlos0/git-add-remote) - Easily add the upstream remote to your `git` fork.
 *   [git-branches (⭐10)](https://github.com/Schroefdop/git-branches) - Makes a menu of `git` branches you can switch to without having to type long branch names.
@@ -3152,7 +3166,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [hbt (⭐12)](https://github.com/lzambarda/hbt) - Heuristic ZSH suggestion system based on past command usage.
 *   [hints (⭐64)](https://github.com/joepvd/zsh-hints) - Display glob and parameter flags and other non completable info right under your editing buffer.
 *   [hipchat (⭐13)](https://github.com/robertzk/hipchat.zsh) - Send hipchat messages from the shell.
-*   [hist (⭐193)](https://github.com/marlonrichert/zsh-hist) - Edit your history in ZSH, without ever leaving the command line.
+*   [hist (⭐194)](https://github.com/marlonrichert/zsh-hist) - Edit your history in ZSH, without ever leaving the command line.
 *   [histdb (⭐1.4k)](https://github.com/larkery/zsh-histdb) - Stores your history in an SQLite database. Can be integrated with [zsh-autosuggestions (⭐35k)](https://github.com/zsh-users/zsh-autosuggestions).
 *   [history-enquirer (⭐100)](https://github.com/zthxxx/zsh-history-enquirer) - Enhances history search with more interaction and a multiline selection menu. Requires Node.js.
 *   [history-filter (⭐34)](https://github.com/MichaelAquilina/zsh-history-filter) - Allows you to specify patterns that will automatically exclude commands from being inserted into your permanent history. Particularly useful for preventing secrets being written.
@@ -3197,7 +3211,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [kubectl-config-switcher (⭐3)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
 *   [kubectx (ptavares) (⭐1)](https://github.com/ptavares/zsh-kubectx) - Installs and loads [kubectx (⭐19k)](https://github.com/ahmetb/kubectx).
 *   [kubectx (unixorn) (⭐7)](https://github.com/unixorn/kubectx-zshplugin) - Automatically installs [kubectx (⭐19k)](https://github.com/ahmetb/kubectx) and `kubens`.
-*   [kubernetes (⭐124)](https://github.com/Dbz/zsh-kubernetes) - Add [kubernetes](https://kubernetes.io) helper functions and aliases.
+*   [kubernetes (⭐125)](https://github.com/Dbz/zsh-kubernetes) - Add [kubernetes](https://kubernetes.io) helper functions and aliases.
 *   [lando (joshuabedford) (⭐8)](https://github.com/JoshuaBedford/lando-zsh) - A collection of alias functions to enable the use of the CLIs within [Lando](https://docs.lando.dev) without having to type lando to access them.
 *   [lando (mannuel) (⭐0)](https://github.com/mannuel/lando-alias-zsh) - Adds aliases for various [Lando](https://docs.lando.dev/basics/usage.html#default-commands/) commands.
 *   [laradock-workspace (⭐1)](https://github.com/rluders/laradock-workspace-zsh) - Provides an interface to [Laradock](http://laradock.io/)'s workspace.
@@ -3207,7 +3221,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [learn (⭐7)](https://github.com/MenkeTechnologies/zsh-learn) - Learning collection in MySQL/MariadB to save, query and quiz everything you learn.
 *   [liferay (⭐3)](https://github.com/david-gutierrez-mesa/liferay-zsh) - Adds scripts for [liferay (⭐2.2k)](https://github.com/liferay/liferay-portal) development.
 *   [linkfile (⭐2)](https://github.com/JaumeRF/linkfile-zsh) - Add shortcuts to your favorite directories.
-*   [linus-rants (⭐37)](https://github.com/bhayward93/Linus-rants-ZSH) - Outputs a random Linus Torvalds rant when opening a terminal.
+*   [linus-rants (⭐38)](https://github.com/bhayward93/Linus-rants-ZSH) - Outputs a random Linus Torvalds rant when opening a terminal.
 *   [listbox (⭐47)](https://github.com/gko/listbox) - Listbox element for shell.
 *   [locate-sublime-projects-cli (⭐1)](https://github.com/david-treblig/locate-sublime-projects-cli) - Allows searching for [Sublime Text](https://www.sublimetext.com) projects and opens them in Sublime.
 *   [loremipsum (⭐0)](https://github.com/pfahlr/zsh_plugin_loremipsum) - Generate lorem ipsum text on the command line. Gets its data from [lipsum.com](https://www.lipsum.com).
@@ -3226,14 +3240,14 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [monthrename (⭐1)](https://github.com/NotTheDr01ds/zsh-plugin-monthrename) - Renames month names to numbers in filenames.
 *   [mouse-status (⭐3)](https://github.com/gryffyn/mouse-status) - Changes mouse color based on status code, uses libratbag.
 *   [mylocation (⭐11)](https://github.com/fALKENdk/mylocation) - A plugin to show your current location based on your IP address.
-*   [n (⭐10)](https://github.com/gretzky/n.zsh) - Auto-switches node versions based on project environment using [n (⭐19k)](https://github.com/tj/n).
+*   [n (⭐10)](https://github.com/gretzky/n.zsh) - Auto-switches node versions based on project environment using [n (⭐20k)](https://github.com/tj/n).
 *   [namelink (⭐4)](https://github.com/jthat/zsh-namelink) - Provides an automatically synchronized mapping of filesystem entries (typically symbolic links) in a set of directories to their counterparts in the named directory hash.
 *   [navi (⭐6)](https://github.com/icatalina/zsh-navi-plugin/) - Plugin for [navi (⭐17k)](https://github.com/denisidoro/navi).
 *   [navigation-tools (⭐13)](https://github.com/zdharma-continuum/zsh-navigation-tools) - Adds `htop`-like kill, directory bookmarks browser, a multi-word incremental history searcher and more.
 *   [new-file-from-template (⭐15)](https://github.com/zpm-zsh/new-file-from-template) -  Generates file from template.
 *   [newvwp (⭐2)](https://github.com/aubreypwd/zsh-plugin-newvwp) - Spins up a new WordPress site using Valet.
 *   [nix-shell (⭐428)](https://github.com/chisui/zsh-nix-shell) - Plugin that lets you use ZSH as the default shell in a `nix-shell` environment.
-*   [nnvm (⭐4)](https://github.com/torifat/nnvm) - auto-switches node versions based on `.nvmrc`. Requires [n (⭐19k)](https://github.com/tj/n).
+*   [nnvm (⭐4)](https://github.com/torifat/nnvm) - auto-switches node versions based on `.nvmrc`. Requires [n (⭐20k)](https://github.com/tj/n).
 *   [node-env-installer (⭐2)](https://github.com/shiro-saber/node-env-installer) - Uses `nvm` to install new versions and modules for the current project.
 *   [node (⭐5)](https://github.com/srijanshetty/node.plugin.zsh) - Srijan Shetty's Node.js plugin for ZSH with caching of `nvm` completions and autoloading of `nvm` if present.
 *   [nodenv (jsahlen) (⭐4)](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load `nodenv` and its completions into the shell.
@@ -3316,7 +3330,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [replace-multiple-dots (⭐9)](https://github.com/momo-lab/zsh-replace-multiple-dots) - Converts `...` to `../..`
 *   [revolver (⭐161)](https://github.com/molovo/revolver) - A progress spinner for ZSH scripts.
 *   [riddle-me (⭐2)](https://github.com/vkolagotla/zsh-riddle-me) - Displays random riddles.
-*   [ripz (⭐24)](https://github.com/jedahan/ripz) - Reminds you of your aliases, so you use them more. Depends on [ripgrep (⭐59k)](https://github.com/BurntSushi/ripgrep).
+*   [ripz (⭐24)](https://github.com/jedahan/ripz) - Reminds you of your aliases, so you use them more. Depends on [ripgrep (⭐60k)](https://github.com/BurntSushi/ripgrep).
 *   [robo (⭐2)](https://github.com/shengyou/robo-zsh-plugin) - A ZSH plugin for [Robo (⭐2.7k)](https://github.com/consolidation/robo/).
 *   [rockz (⭐9)](https://github.com/aperezdc/rockz) - Lua + LuaRocks virtual environment manager based upon VirtualZ.
 *   [safe-paste (⭐13)](https://github.com/oz/safe-paste) - A safe-paste plugin. See Conrad Irwin's [bracketed-paste](https://cirw.in/blog/bracketed-paste) blog post.
@@ -3342,7 +3356,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [smile (⭐5)](https://github.com/fundor333/smile) - Adds function to display random smileys.
 *   [snippets (⭐41)](https://github.com/willghatch/zsh-snippets) - Command line snippet expansion.
 *   [solarized-man (⭐27)](https://github.com/zlsun/solarized-man) - A modified version of [Oh-My-ZSH](https://ohmyz.sh/)'s plugin colored-man-pages, optimized for the [solarized dark (⭐16k)](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) theme in the terminal.
-*   [spack (⭐2)](https://github.com/Game4Move78/zsh-spack) - Includes some useful aliases and functions for loading/unloading [Spack (⭐4.9k)](https://github.com/spack/spack)-generated modules. As it makes use of the `module` command it is much more efficient than `spack load`.
+*   [spack (⭐2)](https://github.com/Game4Move78/zsh-spack) - Includes some useful aliases and functions for loading/unloading [Spack (⭐5k)](https://github.com/spack/spack)-generated modules. As it makes use of the `module` command it is much more efficient than `spack load`.
 *   [ssh-connect (⭐115)](https://github.com/gko/ssh-connect) - A simple `ssh` manager.
 *   [ssh-plugin (⭐6)](https://github.com/paraqles/zsh-plugin-ssh) - Plugin for `ssh`.
 *   [sshukh (⭐8)](https://github.com/anatolykopyl/sshukh-zsh-plugin) - Will update your `known_hosts` file when you `ssh` into a server.
@@ -3430,7 +3444,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [z.lua (⭐3.1k)](https://github.com/skywind3000/z.lua) - A command line tool which helps you navigate faster by learning your habits. An alternative to [z.sh (⭐17k)](https://github.com/rupa/z) with Windows and posix shells support and various improvements. 10x faster than [fasd (⭐104)](https://github.com/whjvenyl/fasd) and autojump, 3x faster than [z.sh (⭐17k)](https://github.com/rupa/z).
 *   [zabb (⭐49)](https://github.com/Mellbourn/zabb) - `zabb` is a command that tries to figure out the shortest memorable abbreviation of a directory that is usable by [z (⭐33k)](https://github.com/ajeetdsouza/zoxide) to unambiguously jump to that directory.
 *   [zabrze (⭐44)](https://github.com/Ryooooooga/zabrze) - A ZSH abbreviation expansion plugin.
-*   [zaw (⭐581)](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
+*   [zaw (⭐583)](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
 *   [zce (⭐67)](https://github.com/hchbaw/zce.zsh) - Vim's EasyMotion / Emacs's ace-jump-mode for ZSH.
 *   [zcolors (⭐83)](https://github.com/marlonrichert/zcolors) - Uses your `$LS_COLORS` to generate a coherent theme for Git and your Zsh prompt, completions and [ZSH syntax highlighting (⭐22k)](https://github.com/zsh-users/zsh-syntax-highlighting).
 *   [zconvey (⭐5)](https://github.com/zdharma-continuum/zconvey) - Adds ability to send commands to other ZSH sessions, you can use this to `cd $PWD` on all active ZSH sessions, for example.
@@ -3450,7 +3464,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [zinit-annex-rust (⭐5)](https://github.com/zdharma-continuum/zinit-annex-rust) - [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) extension that that installs rust and cargo packages inside plugin directories.
 *   [zinit-annex-test (⭐0)](https://github.com/NorthIsMirror/z-a-test) - [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) extension that runs tests (via make test, for example) – if it finds any of them – after installing and updating a plugin or snippet.
 *   [zinit-annex-unscope (⭐2)](https://github.com/zdharma-continuum/zinit-annex-unscope) - Allows installing plugins for [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) without specifying the user name by querying the Github API.
-*   [zinit-console (⭐16)](https://github.com/z-shell/zinit-console) - A semigraphical (curses) consolette for the [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) plugin manager.
+*   [zinit-console (⭐17)](https://github.com/z-shell/zinit-console) - A semigraphical (curses) consolette for the [zinit (⭐4.4k)](https://github.com/zdharma-continuum/zinit) plugin manager.
 *   [zinsults (⭐18)](https://github.com/ahmubashshir/zinsults) - Prints insults if a command fails.
 *   [zjump (⭐11)](https://github.com/qoomon/zjump) - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.
 *   [zlitefetch (⭐6)](https://github.com/ippee/zlitefetch) - Lightweight system information plugin.
@@ -3501,7 +3515,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [extract (le0me55i) (⭐22)](https://github.com/le0me55i/zsh-extract) - Defines a function called extract that extracts the archive file you pass it, and supports a wide variety of archive filetypes.
 *   [extract (thetic) (⭐8)](https://github.com/thetic/extract) - Fork of the oh-my-zsh extract plugin.
 *   [fzf-gcloud (⭐26)](https://github.com/mbhynes/fzf-gcloud) - Fuzzy completion to navigate and preview all Google Cloud SDK `gcloud` CLI commands
-*   [fzf-tab-completion (⭐814)](https://github.com/lincheney/fzf-tab-completion) - Add tab completion for ZSH, `bash` & applications using GNU Readline.
+*   [fzf-tab-completion (⭐819)](https://github.com/lincheney/fzf-tab-completion) - Add tab completion for ZSH, `bash` & applications using GNU Readline.
 *   [fzf-zsh-completions (⭐169)](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for [fzf (⭐78k)](https://github.com/junegunn/fzf) and [ZSH](https://www.zsh.org/) that can be triggered by a trigger sequence that defaults to `**`.
 *   [git-annex (⭐16)](https://github.com/Schnouki/git-annex-zsh-completion) - Allows tab completion for most git-annex commands.
 *   [git-flow (⭐2.8k)](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for [git-flow (⭐27k)](http://github.com/nvie/gitflow).
@@ -3521,7 +3535,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [joe (⭐0)](https://github.com/corvofeng/joe-completion) - Adds completions for [joe (⭐2.9k)](https://github.com/karan/joe) gitignore editor.
 *   [jtool-completion (⭐0)](https://github.com/beaugalbraith/jtool-completion) - ZSH completions for jtool.
 *   [jx (⭐0)](https://github.com/haysclark/zsh-jx) - Adds tab completions for the Jenkins-X cli.
-*   [kafka (⭐67)](https://github.com/Dabz/kafka-zsh-completions) - Completions for Apache [kafka](https://kafka.apache.org).
+*   [kafka (⭐68)](https://github.com/Dabz/kafka-zsh-completions) - Completions for Apache [kafka](https://kafka.apache.org).
 *   [keybase (⭐20)](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://book.keybase.io/docs/cli).
 *   [kitty (⭐8)](https://github.com/redxtech/zsh-kitty) - Completions for [kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 *   [kompose (⭐4)](https://github.com/gantsign/zsh-plugins/tree/master/kompose) - Add tab completions for [Kompose](http://kompose.io/).
@@ -3537,8 +3551,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [node-ace (⭐5)](https://github.com/romch007/node-ace-zsh-completion) - Completions for `node ace`.
 *   [nova (⭐6)](https://github.com/rbirnie/oh-my-zsh-nova) - Provides auto-complete for nova.
 *   [npm-run (⭐54)](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
-*   [nx (⭐152)](https://github.com/jscutlery/nx-completion) - Completions for [nx](https://nx.dev). Requires [`jq`](https://stedolan.github.io/jq/).
-*   [okta (⭐1)](https://github.com/sirhc/okta.plugin.zsh) - Provides command line completions for the [`aws-okta`](https://github.com/segmentio/aws-okta) and [okta-awscli (⭐311)](https://github.com/jmhale/okta-awscli) commands.
+*   [nx (⭐154)](https://github.com/jscutlery/nx-completion) - Completions for [nx](https://nx.dev). Requires [`jq`](https://stedolan.github.io/jq/).
+*   [okta (⭐1)](https://github.com/sirhc/okta.plugin.zsh) - Provides command line completions for the [`aws-okta`](https://github.com/segmentio/aws-okta) and [okta-awscli (⭐312)](https://github.com/jmhale/okta-awscli) commands.
 *   [op (⭐10)](https://github.com/sirhc/op.plugin.zsh) - Tab completions for [1Password](https://1password.com/)'s [op](https://1password.com/downloads/command-line/) command line tool.
 *   [packer (⭐5)](https://github.com/wakeful/zsh-packer) - Adds tab completion for [packer](https://packer.io).
 *   [pandoc-completion (⭐14)](https://github.com/srijanshetty/zsh-pandoc-completion) - Pandoc completion plugin.
@@ -3548,7 +3562,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [pipenv (AlexGascon) (⭐1)](https://github.com/AlexGascon/pipenv-oh-my-zsh) - Enables aliases for the most common pipenv commands.
 *   [pipenv (gangleri) (⭐13)](https://github.com/gangleri/pipenv) - Completions for `pipenv`.
 *   [pmy (⭐151)](https://github.com/relastle/pmy) - General purpose context-aware ZSH completion engine powered by [fzf (⭐78k)](https://github.com/junegunn/fzf).
-*   [quickjump (⭐1)](https://github.com/fikovnik/zsh-quickjump) - Adds tab completion support for [skim (⭐6.5k)](https://github.com/lotabout/skim) for recent files and directories using [fasd (⭐104)](https://github.com/whjvenyl/fasd).
+*   [quickjump (⭐1)](https://github.com/fikovnik/zsh-quickjump) - Adds tab completion support for [skim (⭐6.6k)](https://github.com/lotabout/skim) for recent files and directories using [fasd (⭐104)](https://github.com/whjvenyl/fasd).
 *   [racket completion (⭐6)](https://github.com/racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
 *   [rake-completion (⭐8)](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
 *   [rhoas (⭐2)](https://github.com/craicoverflow/rhoas-zsh-plugin) - Adds completions for [rhoas](https://developers.redhat.com/products/red-hat-openshift-streams-for-apache-kafka/overview).
@@ -3707,7 +3721,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [doodleshell (⭐3)](https://github.com/cdodd/doodleshell-zsh-theme) - Minimalist theme, includes `git`, `terraform` and `aws` status decorations.
 *   [dp (⭐1)](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
 *   [dr4kk0nnys\_v2 (⭐0)](https://github.com/Dr4kk0nnys/Dr4kk0nnys_theme_ohmyzsh_v2/) - Works well on dark backgrounds, includes `git` status decorations.
-*   [dracula (⭐290)](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm 2, Sublime Text, Textmate, Terminal.app, Vim, Xcode, and ZSH.
+*   [dracula (⭐291)](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm 2, Sublime Text, Textmate, Terminal.app, Vim, Xcode, and ZSH.
 *   [dragon (jeop10) (⭐1)](https://github.com/jeop10/dragon) - Inspired by kali linux. Includes `git` status and working directory decorations.
 *   [dragon (sabertaximi) (⭐13)](https://github.com/sabertazimi/dragon-zsh-theme) - Minimalistic, includes `git` status information.
 *   [drkat (⭐3)](https://github.com/katrinaalaimo/drkat-zsh-theme) - Reminiscent of [Powerline (⭐15k)](https://github.com/powerline/powerline). Includes directory, `git` status, and hostname decorations.
@@ -3755,8 +3769,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [garrett (⭐159)](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 *   [gawaine (⭐3)](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires `rvm` & `git` plugins.
 *   [gbt (⭐557)](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train and [oh-my-zsh (⭐185k)](https://github.com/robbyrussell/oh-my-zsh) that runs much faster. Includes many different status cars. Includes a [prompt-forwarding (⭐557)](https://github.com/jtyr/gbt#prompt-forwarding) feature than enables the user to forward their user-defined prompt to a remote machine and have the same-looking prompt across all machines via SSH but also in Docker, Kubectl, Vagrant, MySQL or in Screen without the need to install anything remotely.
-*   [geometry (⭐990)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
-*   [geometryHostInfo (⭐1)](https://github.com/Fuzen-py/GeometryHostInfo) - Adds host info to the [geometry (⭐990)](https://github.com/geometry-zsh/geometry) theme.
+*   [geometry (⭐989)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
+*   [geometryHostInfo (⭐1)](https://github.com/Fuzen-py/GeometryHostInfo) - Adds host info to the [geometry (⭐989)](https://github.com/geometry-zsh/geometry) theme.
 *   [ghoti (⭐0)](https://github.com/lonr/ghoti) - Mimics the `fish-shell` default prompt. Includes `git` decorations.
 *   [gideon (⭐0)](https://github.com/userhiren/oh-my-zsh-gideon-theme) - Inspired by [avit (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/avit.zsh-theme), includes `git` decorations, IP address, host and path.
 *   [gimbo (⭐2)](https://github.com/gimbo/gimbo.zsh-theme) - A variant of [purepower (⭐312)](https://github.com/romkatv/dotfiles-public/blob/master/.purepower) with more features, a little eye candy and context-sensitive extra lines. Includes `git` status decorations, history number, username/hostname context, directory status, status of last command if it failed, and the Python virtualenv name if present.
@@ -3777,7 +3791,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [gops (⭐9)](https://github.com/noxer/gops) - Fast powerline-like prompt. Includes `git` status, current directory, root status decorations.
 *   [grayt (⭐3)](https://github.com/evanthegrayt/grayt-zsh-theme) - Simple yet informative theme that includes `git` decorations and the return status of the last command.
 *   [griffin (⭐0)](https://github.com/GriffinLedingham/griffin.zsh-theme) - Minimalist, includes `git` status decorations.
-*   [gruvbox (hgaiser) (⭐7)](https://github.com/hgaiser/gruvbox-zsh) - Sets colors from the [gruvbox (⭐15k)](https://github.com/morhetz/gruvbox) `vim` plugin.
+*   [gruvbox (hgaiser) (⭐8)](https://github.com/hgaiser/gruvbox-zsh) - Sets colors from the [gruvbox (⭐15k)](https://github.com/morhetz/gruvbox) `vim` plugin.
 *   [gruvbox (sbugzu) (⭐127)](https://github.com/sbugzu/gruvbox-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874), uses the same colors from the [gruvbox (⭐15k)](https://github.com/morhetz/gruvbox) `vim` plugin.
 *   [guezwhoz (⭐125)](https://github.com/guesswhozzz/guezwhoz-zshell) - Minimalist, includes `git` status decorations.
 *   [guri (⭐24)](https://github.com/victorfsf/guri) - A Simple and fast Oh-My-Zsh theme, based on [Pure (⭐14k)](https://github.com/sindresorhus/pure)'s design.
@@ -3792,7 +3806,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [hedroed-bureau (⭐0)](https://github.com/Hedroed/hedroed-bureau.zsh-theme) - Based on [bureau (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bureau), with added `git` status decorations and `npm` status.
 *   [helb (⭐0)](https://github.com/helb/helb.zshtheme) - Loosely based on Gentoo's old `bash` theme. Includes `git` information, return value of last command, and uses different username color and prompt char for users (`$`) and root (`#`).
 *   [hematite (⭐0)](https://github.com/bigdave/hematite) - Minimalist promot that tries to show only the status decorations that are actively useful at a given time.
-*   [hexagon (⭐3)](https://github.com/diogoazevedos/hexagon) - Minimalist ZSH theme based on [geometry (⭐990)](https://github.com/geometry-zsh/geometry).
+*   [hexagon (⭐3)](https://github.com/diogoazevedos/hexagon) - Minimalist ZSH theme based on [geometry (⭐989)](https://github.com/geometry-zsh/geometry).
 *   [hfulldate (⭐1)](https://github.com/fusion809/zsh-theme) - Displays time, date, OS (including distro if on Linux), directory and whether running as root.
 *   [hhktony (⭐0)](https://github.com/hhktony/hhktony.zsh-theme) - Inspired by robbyrussell theme + ssh connection status prompt.
 *   [hina (⭐1)](https://github.com/ucpr/hina) - Written in `golang`, includes `git` status decoration and kubernetes context.
@@ -3997,7 +4011,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [plantyhoe (⭐1)](https://github.com/totoroot/plantyhoe.zsh-theme) - Minimalist theme based on a love of plants and apples. Includes `git` status decorations.
 *   [platypus (⭐1)](https://github.com/fdv/platypus) - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
 *   [pointer (⭐1)](https://github.com/gpinkard/pointer-zsh-theme) - Shows working directory, the return status of the last command, and `git` current branch.
-*   [polyglot (⭐193)](https://github.com/agkozak/polyglot) - a dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `dash`, and busybox `ash` that uses basic ASCII symbols (and color, when possible) to show username, whether it is a local or remote `ssh` sesssion, abbreviated path, `git` branch and status, exit status of last command if non-zero, any virtual environment created with `virtualenv`, `venv`, `pipenv`, `poetry`, or `conda`.
+*   [polyglot (⭐194)](https://github.com/agkozak/polyglot) - a dynamic prompt for `zsh`, `bash`, `ksh93`, `mksh`, `pdksh`, `dash`, and busybox `ash` that uses basic ASCII symbols (and color, when possible) to show username, whether it is a local or remote `ssh` sesssion, abbreviated path, `git` branch and status, exit status of last command if non-zero, any virtual environment created with `virtualenv`, `venv`, `pipenv`, `poetry`, or `conda`.
 *   [poncho (⭐3)](https://github.com/RainyDayMedia/oh-my-zsh-poncho) - RDM's basic oh-my-zsh custom theme.
 *   [poor-programmer (⭐0)](https://github.com/vishaltelangre/poor-programmer.zsh-theme) - Programmer's theme with `git` status, ruby version and project path.
 *   [powerbash (⭐1)](https://github.com/erikschreier/powerbash-zsh) - Works well with dark terminal backgrounds, includes `git` status decorations.
@@ -4144,13 +4158,13 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [tq (⭐2)](https://github.com/kitian616/tq-zsh-theme) - Displays `git` status, time, requires a Powerline-compatible font.
 *   [traffic (⭐1)](https://github.com/fcce/traffic-zsh-theme) - A dark theme for ZSH.
 *   [trajan (⭐1)](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
-*   [trinity (⭐1)](https://github.com/de-luca/Trinity) - A simple theme based on [geometry (⭐990)](https://github.com/geometry-zsh/geometry). Includes `git` decorations.
+*   [trinity (⭐1)](https://github.com/de-luca/Trinity) - A simple theme based on [geometry (⭐989)](https://github.com/geometry-zsh/geometry). Includes `git` decorations.
 *   [tron (⭐0)](https://github.com/iDoTron/tron-zsh-theme) - Includes `git` status, working directory, time, user\@host and return status of last command decorations.
 *   [turs (⭐0)](https://github.com/eikendev/turs) - Fast, minimal [Purs (⭐264)](https://github.com/xcambar/purs)-inspired prompt.
 *   [tvline (⭐2)](https://github.com/thvitt/tvline) - Derived from the [agnoster](https://gist.github.com/agnoster/3712874) theme, adds powerline font enhancements.
 *   [twilight (⭐2)](https://github.com/Henryws/twilight-prompt) - Minimalist, but includes last command exit status, `git` status and `user@hostname` decorations.
 *   [type0 (⭐0)](https://github.com/MikereDD/type0_zsh-theme) - Inspired by [classyTouch (⭐55)](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) by yarisgutierrez. Includes `git` decorations.
-*   [typewritten (⭐934)](https://github.com/reobin/typewritten) - Minimal and informative theme that leaves room for what's important. Does asynchronous `git` decoration updates for speed.
+*   [typewritten (⭐932)](https://github.com/reobin/typewritten) - Minimal and informative theme that leaves room for what's important. Does asynchronous `git` decoration updates for speed.
 *   [ubunly (⭐31)](https://github.com/alejandromume/ubunly-zsh-theme) - Mimics the Kali Linux console. Note - this theme also rebinds a lot of keys and sets a bunch of ZSH options that themes should leave alone.
 *   [ubuntu-ish (⭐0)](https://github.com/Thesola10/zsh-ubuntu-ish) - Mimics the default Debian/Ubuntu `bash` prompt.
 *   [ubuntu-with-vitamins (⭐0)](https://github.com/ureesoriano/zsh-ubuntu-with-vitamins-zim-theme) - Mimics the default Ubuntu prompt, but with `git` decorations.
@@ -4173,7 +4187,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [xm (⭐0)](https://github.com/Shiaoming/xm) - Theme for dark terminals. Has `git` decorations.
 *   [xor (⭐1)](https://github.com/xor3n/xor-zsh-theme) - Self described as minimalistic and 'feature-poor', includes `git` decorations.
 *   [xremix (⭐1)](https://github.com/xremix/oh-my-zsh-xremix-theme) - An oh-my-zsh shell theme based on the Jreese theme plugin.
-*   [xris47 (⭐1)](https://github.com/ivan-ristovic/xris47.zsh-theme) - Fast, simple and streamlined theme. Works best with [tmux (⭐41k)](https://github.com/tmux/tmux/wiki) and [vim-airline (⭐18k)](https://github.com/vim-airline/vim-airline).
+*   [xris47 (⭐1)](https://github.com/ivan-ristovic/xris47.zsh-theme) - Fast, simple and streamlined theme. Works best with [tmux (⭐42k)](https://github.com/tmux/tmux/wiki) and [vim-airline (⭐18k)](https://github.com/vim-airline/vim-airline).
 *   [yairshefi (⭐1)](https://github.com/yaireclipse/yairshefi-ohmyzsh-theme) - Minimal theme with line separated prompts. Based on the [robbyrussell (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme.
 *   [yazpt (⭐7)](https://github.com/jakshin/yazpt) - A clean, fast, good-looking ZSH prompt theme that thoughtfully incorporates Git/Subversion/TFVC status info, integrates with popular plugin managers like Oh My Zsh, and is straightforward to customize and extend.
 *   [yechen (⭐0)](https://github.com/liyechen/yechen.zsh-theme) - Minimalist theme with `git` status decorations.
@@ -4211,11 +4225,11 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [completion-generator (⭐294)](https://github.com/RobSis/zsh-completion-generator) - Tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator to create a completion script.
 *   [oclif completion generator (⭐13)](https://github.com/MunifTanjim/oclif-plugin-completion) - Generates shell completions for commands lacking them.
-*   [zargparse (⭐12)](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
-*   [zsh-bench (⭐898)](https://github.com/romkatv/zsh-bench) - A benchmark for interactive ZSH. It measures user-visible latency of interactive `zsh`: input lag, command lag, etc.
+*   [zargparse (⭐13)](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
+*   [zsh-bench (⭐916)](https://github.com/romkatv/zsh-bench) - A benchmark for interactive ZSH. It measures user-visible latency of interactive `zsh`: input lag, command lag, etc.
 *   [zshdb (⭐322)](https://github.com/rocky/zshdb) - A ZSH debugger.
 *   [zshelldoc (⭐22)](https://github.com/zdharma-continuum/zshelldoc) - Doxygen for shell scripts. Parses ZSH and Bash scripts, outputs Asciidoc document with function lists, call trees, lists of exported variables, and more.
-*   [zunit (⭐219)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH.
+*   [zunit (⭐220)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH.
 
 ### Other Useful Lists / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -4227,7 +4241,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐487)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐488)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -4299,7 +4313,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐78k)](https://github.com/junegunn/fzf), [peco (⭐7.9k)](https://github.com/peco/peco), [zaw (⭐581)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐78k)](https://github.com/junegunn/fzf), [peco (⭐7.9k)](https://github.com/peco/peco), [zaw (⭐583)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐6k)](https://github.com/zplug/zplug#vs)
 
 ## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)

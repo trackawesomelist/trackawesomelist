@@ -1,12 +1,84 @@
 # Awesome List Updates on Mar 02 - Mar 08, 2026
 
-23 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Utility
+
+*   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
+
+## [2. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Data Analysis
+
+*   [pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+
+### GUI Development
+
+*   [urwid](https://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
+
+### Game Development
+
+*   [Pygame](https://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
+
+### HTML Manipulation
+
+*   [lxml](https://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
+*   [WeasyPrint](https://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
+
+### Image Processing
+
+*   [pymatting (⭐1.9k)](https://github.com/pymatting/pymatting) - A library for alpha matting.
+*   [scikit-image](https://scikit-image.org/) - A Python library for (scientific) image processing.
+
+### Internationalization
+
+*   [Babel](https://babel.pocoo.org/en/latest/) - An internationalization library for Python.
+
+### Science
+
+*   [astropy](https://www.astropy.org/) - A community Python library for Astronomy.
+
+## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Extensions
+
+*   [modal-layout-component (⭐0)](https://github.com/ArtemZhyto/Modal-layout-component) - Lightweight and accessible headless modal layout for Next.js with focus trapping.
+
+### Apps
+
+*   [DevToolKit (⭐0)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [wsdjeg/chat.nvim (⭐14)](https://github.com/wsdjeg/chat.nvim) - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
+
+### Colorscheme / Assembly
+
+*   [oskarnurm/koda.nvim (⭐226)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [awsmultiaccount (⭐0)](https://github.com/acidix/zsh-awsmultiaccount) - Manages AWS profiles and assuming roles in a multi-account organization. It provides helper functions to easily switch between AWS profiles and assume the OrganizationAccountAccessRole in different accounts. Requires the `aws` cli and [jq](https://stedolan.github.io/jq/)
+*   [k9s (⭐0)](https://github.com/acidix/zsh-k9s) - Provides an iteractive `$KUBECONFIG` selector for [k9s](https://k9scli.io/).
+*   [matecito (⭐0)](https://github.com/uvallasciani/matecito-zsh) - Detects your language and country to display quotes from local authors in your native language. Simple, offline, no noise.
+*   [mlir (⭐11)](https://github.com/oowekyala/mlir-zsh-plugin) - Adds goodies for [MLIR](https://mlir.llvm.org/) developers including tab completion of `mlir-opt` and colorizing its output.
+*   [ohmyai (⭐0)](https://github.com/briques/ohmyai-zsh) - AI-powered command suggestions for Zsh. Type what you want to do, press the hotkey, and get shell command suggestions from OpenAI.
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [hledger (⭐0)](https://github.com/belegaps/omz-hledger-plugin) - Provides aliases and completions for [hledger](https://hledger.org/), a powerful, double-entry accounting tool.
+
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
@@ -69,25 +141,25 @@
 
 *   [awesome-sec-filings (⭐2)](https://github.com/vibeyclaw/awesome-sec-filings) - A curated list of tools, data sources, libraries, and resources for working with SEC filings (13F, 10-K, 10-Q, 8-K).
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [usbpd (⭐23)](https://github.com/elagil/usbpd): USB-PD library and traits, supports Sink mode, with Source functionality planned.
 
-## [3. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
 *   [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
 
-## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Components
 
 *   [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
 
-## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [10. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -101,13 +173,13 @@
 
 *   [usulnet (⭐63)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [@fr4nsys](https://github.com/fr4nsys)
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [Veritensor (⭐65)](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 
-## [7. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Service Virtualization
 
@@ -117,13 +189,13 @@
 
 *   [And others (⭐107)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
-## [8. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [13. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Computational Fluid Dynamics
 
 *   [MFC (⭐318)](https://github.com/MFlowCode/MFC) - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -145,19 +217,19 @@
 
 *   [LuxShot (⭐0)](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lukebuild/LuxShot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [15. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tools / Web Tools
 
 *   [Ultra](https://overpass-ultra.us/) - Web based tool for making maps with a variety of data APIs such as overpass, postpass, qlever, ohsome, sophox, and more. ([Source Code](https://gitlab.com/trailstash/ultra))
 
-## [11. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [16. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
 
-## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [17. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -192,7 +264,7 @@
 
 *   [fastapi-alembic-sqlmodel-async (⭐1.3k)](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
 
-## [13. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [18. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / JWT-based (for JSON Endpoints)
 
@@ -202,13 +274,13 @@
 
 *   [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 
-## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [19. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [15. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [20. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / Dart - Official
 
@@ -269,7 +341,7 @@
 *   [Genkit Dart GitHub (⭐23)](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
 *   [Genkit Java GitHub (⭐7)](https://github.com/genkit-ai/genkit-java) - Unofficial GitHub repository for Genkit Java.
 
-## [16. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [21. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
@@ -287,7 +359,7 @@
 
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
@@ -297,13 +369,13 @@
 
 *   [cpp17\_in\_TTs (⭐1.2k)](https://github.com/tvaneerd/cpp17_in_TTs) - Descriptions of C++17 features, presented mostly in "Tony Tables".
 
-## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -313,7 +385,7 @@
 
 *   [MantleDB](https://mantledb.sh) — Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1 bucket (1MB limit) with a 72h inactivity scavenger policy.
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -331,7 +403,7 @@
 
 *   [boa-dev/boa (⭐6.9k)](https://github.com/boa-dev/boa) \[[boa\_engine](https://crates.io/crates/boa_engine)] - An experimental JavaScript lexer, parser and interpreter written in Rust.
 
-## [21. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [26. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### ⚙️ System (24) / ✏️ Text (13)
 
@@ -343,18 +415,22 @@
 
     **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
 
-## [22. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [27. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
 *   [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 
-## [23. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [28. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
 *   [hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
+
+### MCP Servers
+
+*   [BGPT MCP (⭐3)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 
 ---
 

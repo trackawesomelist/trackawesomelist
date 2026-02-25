@@ -12,6 +12,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 
+### MCP Servers
+
+*   [BGPT MCP (⭐3)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Development Tools & Utilities

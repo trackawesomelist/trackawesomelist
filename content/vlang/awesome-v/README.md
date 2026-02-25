@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 25, 2026](/content/2026/02/25/README.md)
+
+### Utility
+
+*   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
+
 ## [Feb 21, 2026](/content/2026/02/21/README.md)
 
 ### Command-line
@@ -868,5 +874,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [vig (⭐57)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐71k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐57)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐72k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐53)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.

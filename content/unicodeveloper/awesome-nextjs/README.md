@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Feb 25, 2026](/content/2026/02/25/README.md)
+
+### Extensions
+
+*   [modal-layout-component (⭐0)](https://github.com/ArtemZhyto/Modal-layout-component) - Lightweight and accessible headless modal layout for Next.js with focus trapping.
+
+### Apps
+
+*   [DevToolKit (⭐0)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
 ### Extensions
@@ -40,7 +50,7 @@
 
 ### Boilerplates
 
-*   [Next.js, Strapi Portfolio Starter (⭐23)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
+*   [Next.js, Strapi Portfolio Starter (⭐22)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 
 ## [Mar 14, 2025](/content/2025/03/14/README.md)
 
@@ -78,7 +88,7 @@
 ### Extensions
 
 *   [next-google-tag-manager (⭐48)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐425)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-api-decorators (⭐426)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -92,7 +102,7 @@
 ### Apps
 
 *   [Taxonomy (⭐19k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
-*   [shadcn/ui (⭐106k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+*   [shadcn/ui (⭐107k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## [Jun 30, 2023](/content/2023/06/30/README.md)
 
@@ -333,7 +343,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐473)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐471)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [Aug 15, 2020](/content/2020/08/15/README.md)
 
@@ -399,7 +409,7 @@
 
 ### Apps
 
-*   [Tottem (⭐978)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐979)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [May 27, 2020](/content/2020/05/27/README.md)
 
@@ -491,7 +501,7 @@
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐284)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐282)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [Nov 03, 2019](/content/2019/11/03/README.md)
 
@@ -647,7 +657,7 @@
 
 ### Apps
 
-*   [Urteile & Gesetze (⭐18)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+*   [Urteile & Gesetze (⭐19)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
 ## [Oct 06, 2018](/content/2018/10/06/README.md)
 
@@ -728,7 +738,7 @@
 ### Extensions
 
 *   [Next Plugin Graphql (⭐58)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐764)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next With Apollo (⭐763)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ## [Jan 24, 2018](/content/2018/01/24/README.md)
 
@@ -764,11 +774,11 @@
 
 ### Boilerplates
 
-*   [Next Express Bootstrap Boilerplate (⭐113)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
+*   [Next Express Bootstrap Boilerplate (⭐112)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ### Apps
 
-*   [Snape (⭐847)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐845)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [Dec 02, 2017](/content/2017/12/02/README.md)
@@ -871,7 +881,7 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐951)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐952)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [Next Simple Blog (⭐555)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 

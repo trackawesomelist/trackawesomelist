@@ -94,8 +94,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [mushroomtek (⭐0)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 *   [portctl (⭐13)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 *   [runner (⭐27)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-*   [symlinker (⭐9)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [stripshot (⭐0)](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
+*   [symlinker (⭐9)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [timingless (⭐0)](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 *   [vast (⭐29)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 *   [vcli (⭐3)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
@@ -340,7 +340,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [mui (⭐114)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [V UI (⭐2.5k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 *   [vgtk3 (⭐64)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-*   [vig (⭐57)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐71k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐57)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐72k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐53)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 *   [V-WebUI (⭐131)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
 *   [webview (⭐82)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
@@ -354,6 +354,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [range (⭐34)](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 *   [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 *   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+*   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 *   [vdotenv (⭐43)](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 *   [vhs (⭐4)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 *   [VInstall (⭐43)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
