@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Feb 25, 2026](/content/2026/02/25/README.md)
+
+### Productivity
+
+*   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
+
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 
 ### Productivity

@@ -340,6 +340,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ## Productivity
 
 *   [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
 *   [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 *   [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.

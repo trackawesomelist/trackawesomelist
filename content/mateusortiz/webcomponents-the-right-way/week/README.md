@@ -11,6 +11,7 @@ A curated list of awesome Web Components resources.
 ### Components
 
 *   [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
+*   [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 

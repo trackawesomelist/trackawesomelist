@@ -6,6 +6,12 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Feb 25, 2026](/content/2026/02/25/README.md)
+
+### Components
+
+*   [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
+
 ## [Feb 24, 2026](/content/2026/02/24/README.md)
 
 ### Components

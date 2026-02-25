@@ -10,6 +10,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
+*   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
