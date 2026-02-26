@@ -579,6 +579,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [fish-shell/fish-shell (⭐33k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [fork (⭐77)](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon)
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
+*   [gitbutlerapp/gitbutler (⭐20k)](https://github.com/gitbutlerapp/gitbutler) - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
 *   [gitui (⭐21k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
 *   [GQL (⭐3.5k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
 *   [httm (⭐1.6k)](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)

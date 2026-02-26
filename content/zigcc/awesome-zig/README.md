@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Feb 26, 2026](/content/2026/02/26/README.md)
+
+### Multimedia & Graphics / Image and Video Processing
+
+*   [foxnne/pixi (⭐1.3k)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
+
 ## [Feb 24, 2026](/content/2026/02/24/README.md)
 
 ### Language Essentials / File Format Processing

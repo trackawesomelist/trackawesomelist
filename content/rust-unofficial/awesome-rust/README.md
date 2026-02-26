@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 26, 2026](/content/2026/02/26/README.md)
+
+### Applications / System tools
+
+*   [gitbutlerapp/gitbutler (⭐20k)](https://github.com/gitbutlerapp/gitbutler) - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
+
 ## [Feb 25, 2026](/content/2026/02/25/README.md)
 
 ### Applications / Database

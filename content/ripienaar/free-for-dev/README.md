@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 26, 2026](/content/2026/02/26/README.md)
+
+### Storage and Media Processing
+
+*   [MConverter](https://mconverter.eu/) – Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
+
 ## [Feb 24, 2026](/content/2026/02/24/README.md)
 
 ### PaaS
@@ -5102,7 +5108,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design and UI
 
 *   [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
-*   [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. Two hundred eight supported formats including videos and gifs.
+*   [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. Two hundred eight supported formats including videos and gifs. Free for up to 10 conversions per day.
 *   [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.

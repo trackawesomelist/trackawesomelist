@@ -20,6 +20,10 @@ A collection of awesome projects in Zig.
 
 *   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
+### Multimedia & Graphics / Image and Video Processing
+
+*   [foxnne/pixi (⭐1.3k)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
+
 ### Interoperability / Build with Zig
 
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
