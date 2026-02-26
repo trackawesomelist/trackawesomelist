@@ -20,6 +20,10 @@ A collection of awesome projects in Zig.
 
 *   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
+### Network & Web / Web3 Framework
+
+*   [StrobeLabs/eth.zig (⭐0)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+
 ### Multimedia & Graphics / Image and Video Processing
 
 *   [foxnne/pixi (⭐1.3k)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
@@ -88,7 +92,7 @@ A collection of awesome projects in Zig.
 
 ### Data & Science / Machine Learning Framework
 
-*   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [zml (⭐3.2k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 *   [SilasMarvin/dnns-from-scratch-in-zig (⭐79)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
 
 ### Multimedia & Graphics / Graphics Library

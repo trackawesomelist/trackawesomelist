@@ -8,6 +8,10 @@ A collection of awesome projects in Zig.
 
 ## [Feb 26, 2026](/content/2026/02/26/README.md)
 
+### Network & Web / Web3 Framework
+
+*   [StrobeLabs/eth.zig (⭐0)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+
 ### Multimedia & Graphics / Image and Video Processing
 
 *   [foxnne/pixi (⭐1.3k)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
@@ -107,7 +111,7 @@ A collection of awesome projects in Zig.
 
 ### Data & Science / Machine Learning Framework
 
-*   [zml (⭐3.1k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [zml (⭐3.2k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 

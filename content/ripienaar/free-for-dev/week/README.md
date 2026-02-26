@@ -17,6 +17,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [MConverter](https://mconverter.eu/) – Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
 *   [MantleDB](https://mantledb.sh) — Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1 bucket (1MB limit) with a 72h inactivity scavenger policy.
 
+### Miscellaneous
+
+*   [Dadroit V Web](https://dadroit.com/vweb/) — In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Design and UI

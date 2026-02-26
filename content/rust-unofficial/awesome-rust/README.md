@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Feb 26, 2026](/content/2026/02/26/README.md)
 
+### Applications / Image processing
+
+*   [visioncortex/vtracer (⭐5.5k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+
 ### Applications / System tools
 
 *   [gitbutlerapp/gitbutler (⭐20k)](https://github.com/gitbutlerapp/gitbutler) - A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.
@@ -77,7 +81,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [openai/codex (⭐60k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐62k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
@@ -139,7 +143,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [ararog/vetis (⭐89)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
+*   [ararog/vetis (⭐97)](https://github.com/ararog/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
