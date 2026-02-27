@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 27, 2026](/content/2026/02/27/README.md)
+
+### Telegram
+
+*   [velegram (⭐0)](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
+
 ## [Feb 25, 2026](/content/2026/02/25/README.md)
 
 ### Utility

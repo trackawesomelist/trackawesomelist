@@ -315,6 +315,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Telegram
 
+*   [velegram (⭐0)](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
 *   [vgram (⭐149)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Text processing

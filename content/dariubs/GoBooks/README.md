@@ -6,20 +6,27 @@ List of Golang books
 
 [ Daily / [Weekly](/content/dariubs/GoBooks/week/README.md) / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
+## [Feb 27, 2026](/content/2026/02/27/README.md)
+
+### Advanced Books / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+
+*   Take a deep dive into Go's concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
+*   Be able to diagnose concurrency and performance issues using Go's profiler, execution tracing, and benchmarking tools.
+
 ## [Jan 29, 2026](/content/2026/01/29/README.md)
 
 ### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
 
-*   [Dev Books (⭐44)](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books
-*   [AI Books (⭐55)](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence
+*   [Dev Books (⭐61)](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books
+*   [AI Books (⭐65)](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence
 
 ## [Jan 28, 2026](/content/2026/01/28/README.md)
 
 ### Related Lists / [Tuxerrante repo on go exercises](https://github.com/tuxerrante/go_exercises)
 
-*   [JavaScript Books (⭐78)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript
-*   [PostgreSQL Books (⭐26)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL
-*   [Python Books (⭐14)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
+*   [JavaScript Books (⭐131)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript
+*   [PostgreSQL Books (⭐60)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL
+*   [Python Books (⭐22)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
 
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
@@ -62,8 +69,6 @@ List of Golang books
 *   Understand the differences between Concurrency and Parallelism.
 *   Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
 *   Understand the various concurrency interaction patterns and be able to apply the one that best fits the problem at hand.
-*   Take a deep dive into Go’s concurrency primitives and be able to apply them expertly but also avoid many of their gotchas.
-*   Be able to diagnose concurrency and performance issues using Go’s profiler, execution tracing, and benchmarking tools.
 *   Be able to identify when code needs optimizing, what needs optimizing and how.
 *   Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.
 

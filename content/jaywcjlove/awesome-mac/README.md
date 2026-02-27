@@ -8,6 +8,10 @@
 
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Scratch](https://www.ericli.io/scratch) - Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/erictli/scratch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Finance / Audio Record and Process
 
 *   [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
