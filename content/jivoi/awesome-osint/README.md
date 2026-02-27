@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Feb 27, 2026](/content/2026/02/27/README.md)
+
+### Speciality Search Engines
+
+*   [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+
+### Document and Slides Search
+
+*   [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
+
+### Username Check / GitHub
+
+*   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
+
+### Image Search / GitHub
+
+*   [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
+
 ## [Feb 26, 2026](/content/2026/02/26/README.md)
 
 ### Speciality Search Engines

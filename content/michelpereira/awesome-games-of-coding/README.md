@@ -2,15 +2,26 @@
 
 A curated list of games that can teach you how to learn a programming language.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.9K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 2.1K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/michelpereira/awesome-games-of-coding/week/README.md) / [Overview](/content/michelpereira/awesome-games-of-coding/readme/README.md) ]
+
+## [Feb 27, 2026](/content/2026/02/27/README.md)
+
+### Language Independent
+
+*   [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
+
+### JavaScript
+
+*   [Programming Game](https://programming-game.com) - A realtime survival MMORPG played via websockets. There's a super simple in browser [demo](https://programming-game.com/demo) that showcases how to play.
+*   [AdventureLand](https://adventure.land/) - Adventure Land is an experimental Indie MMORPG. Anyone can code up to 4 characters, let JavaScript do the grinding while you do something productive!
 
 ## [Jan 08, 2025](/content/2025/01/08/README.md)
 
 ### JavaScript
 
-*   [BitBurner (⭐886)](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
+*   [BitBurner (⭐1.4k)](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
 
 ## [Jun 19, 2024](/content/2024/06/19/README.md)
 
@@ -32,13 +43,10 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Miscellaneous
 
-*   [The Command Line Murders (⭐5.7k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
-*   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn S
-    QL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
-*   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret
-    codes and open as many chests as possible.
-*   [Learn Git Branching](https://learngitbranching.js.org/) - is the most visual and interactive way to learn Git on the web; where you'l
-    l be challenged with exciting levels.
+*   [The Command Line Murders (⭐6k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+*   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+*   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
+*   [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 *   [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 
 ## [Aug 22, 2021](/content/2021/08/22/README.md)
@@ -61,15 +69,9 @@ A curated list of games that can teach you how to learn a programming language.
 
 ## [Apr 12, 2021](/content/2021/04/12/README.md)
 
-### JavaScript
+### Python
 
-*   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
-
-## [Jan 18, 2021](/content/2021/01/18/README.md)
-
-### C Sharp
-
-*   [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
+*   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and JavaScript, and comes with a desktop-based command line tool.
 
 ## [Jan 17, 2021](/content/2021/01/17/README.md)
 
@@ -81,10 +83,6 @@ A curated list of games that can teach you how to learn a programming language.
 ### JavaScript
 
 *   [Screeps](https://screeps.com) - No point and clicking any longer! You write real JavaScript which controls your units autonomously. Any time, everywhere, even while you are offline.
-
-### Ruby
-
-*   [RubyWarrior](https://www.bloc.io/ruby-warrior) - A browser based game where you control your avatar through various levels filled with enemies using Ruby.
 
 ### Miscellaneous
 
@@ -100,7 +98,7 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Python
 
-*   [Robocode (⭐144)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
+*   [Robocode (⭐153)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
 ### Java
 

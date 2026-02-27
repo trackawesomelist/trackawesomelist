@@ -1,12 +1,83 @@
 # Awesome List Updates on Mar 02 - Mar 08, 2026
 
-37 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
+## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+
+### Articles
+
+*   [Keycloak User Federation with LDAP and Active Directory](https://www.iamdevbox.com/posts/keycloak-user-federation-with-ldap-and-active-directory/)
+
+### Community Extensions
+
+*   [Keycloak Cookieless IDP Extension (⭐1)](https://github.com/dominikschlosser/keycloak-cookieless-idp-extension)
+
+## [2. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+
+### Restaurants
+
+*   Bavel, Netherlands
+    *   [Vannu](https://www.restaurantvannu.nl/) - Fancy plantbased dining with locally sourced ingredients. They serve accompanying homemade juices as well.
+
+### Organizations and Activism
+
+*   [Animal Equality](https://animalequality.org/) - International organization documenting conditions in factory farms and running corporate campaigns to end animal exploitation
+*   [Mercy For Animals](https://mercyforanimals.org/) - Leading farmed animal protection organization using investigations, corporate engagement, and public education
+*   [The Humane League](https://thehumaneleague.org/) - Ending the abuse of animals raised for food through institutional and individual change campaigns
+*   [Veganuary](https://veganuary.com/) - Global campaign inspiring people to try vegan each January, with resources and recipes year-round
+*   [Vegan Outreach](https://veganoutreach.org/) - Grassroots advocacy reaching millions through outreach programs and the Vegan Mentor program
+
+### Documentaries
+
+*   [Dominion](https://www.dominionmovement.com/) - Feature-length documentary exposing standard practices in animal agriculture through drone footage and hidden cameras
+*   [Cowspiracy](https://www.cowspiracy.com/) - Groundbreaking environmental documentary exploring the impact of animal agriculture on the planet
+*   [The Game Changers](https://gamechangersmovie.com/) - Documentary following elite athletes and scientists exploring optimal nutrition through plant-based eating
+*   [Earthlings](http://www.nationearth.com/) - Comprehensive documentary about humanity's dependence on animals for economic purposes
+
+### Apps and Tools
+
+*   [HappyCow](https://www.happycow.net/) - Find vegan and vegetarian restaurants worldwide with community reviews and photos
+*   [abillion](https://www.abillion.com/) - Review plant-based products and restaurants while donating to animal welfare organizations with every review
+*   [Is It Vegan (⭐486)](https://github.com/hmontazeri/is-vegan) - Open source library and tool to check if a food ingredient or product is vegan
+
+## [3. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+
+### Language Independent
+
+*   [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
+
+### JavaScript
+
+*   [Programming Game](https://programming-game.com) - A realtime survival MMORPG played via websockets. There's a super simple in browser [demo](https://programming-game.com/demo) that showcases how to play.
+*   [AdventureLand](https://adventure.land/) - Adventure Land is an experimental Indie MMORPG. Anyone can code up to 4 characters, let JavaScript do the grinding while you do something productive!
+
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+
+### Books
+
+*   [Performance Engineering in Practice](https://www.manning.com/books/performance-engineering-in-practice) - Den Odell
+
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python With Jupyter](https://www.learnpythonwithjupyter.com) - Serena Bonaretti (PDF)
+
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-phare (⭐4)](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
+
+### Tools / Community providers
+
+*   [terradozer (⭐1)](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
+
+## [7. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
 
 ### Quick Start
 
@@ -23,7 +94,7 @@
 
 *   [Ruudjhuu/gridfinity\_build123d (⭐79)](https://github.com/Ruudjhuu/gridfinity_build123d) - Create gridfinity items with build123d
 
-## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 1\. App & Agent
 
@@ -63,7 +134,7 @@
     *   [Reflection, Tool Use, Planning and Multi-agent collaboration](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#reflection-tool-use-planning-and-multi-agent-collaboration)
     *   [Tool Use: LLM to Master APIs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#tool-use-llm-to-master-apis)
 
-## [3. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [9. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Hooks 🪝 / General
 
@@ -78,36 +149,49 @@
 *   [claude-tmux (⭐29)](https://github.com/nielsgroen/claude-tmux) by [Niels Groeneveld](https://github.com/nielsgroen) - Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support.
 *   [claude-esp (⭐3)](https://github.com/phiat/claude-esp) by [phiat](https://github.com/phiat) - Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session.
 
-## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
 *   [BGP.he.net](https://bgp.he.net) - Free BGP and network intelligence toolkit
+*   [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+
+### Document and Slides Search
+
+*   [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
+
+### Username Check / GitHub
+
+*   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
+
+### Image Search / GitHub
+
+*   [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 
 ### Other Resources / GitHub
 
 *   [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
 
-## [5. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [11. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Puzzle Games
 
 *   [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
 *   [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
-## [6. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [vectarine (⭐112)](https://github.com/vanyle/vectarine/) - Vectarine is a cross-platform game engine focusing on fast prototyping and having fun. Write games using Luau and extend the engine with Rust modules.
 
-## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Development
 
 *   [dbsafe (⭐9)](https://github.com/nethalo/dbsafe) - Pre-execution safety analysis for MySQL DDL/DML operations
 
-## [8. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [14. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### What is Workflow Automation?
 
@@ -392,19 +476,19 @@
 *   Clear documentation, community, or commercial backing
 *   Genuinely fits one of the listed categories — not general-purpose AI assistants
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com (⭐0)](https://github.com/TerryFYL/metareview)
 
-## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 
-## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [17. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Data Analysis
 
@@ -436,7 +520,7 @@
 
 *   [astropy](https://www.astropy.org/) - A community Python library for Astronomy.
 
-## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
@@ -446,17 +530,26 @@
 
 *   [DevToolKit (⭐0)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
 *   [wsdjeg/chat.nvim (⭐14)](https://github.com/wsdjeg/chat.nvim) - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
+*   [taigrr/neocrush.nvim (⭐10)](https://github.com/taigrr/neocrush.nvim) - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 
 ### Colorscheme / Assembly
 
 *   [oskarnurm/koda.nvim (⭐226)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Dependency Management / Quickfix
+
+*   [taigrr/glaze.nvim (⭐11)](https://github.com/taigrr/glaze.nvim) - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
+
+### Workflow / Stats Tracking
+
+*   [taigrr/blast.nvim (⭐1)](https://github.com/taigrr/blast.nvim) - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
+
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -470,7 +563,7 @@
 
 *   [hledger (⭐0)](https://github.com/belegaps/omz-hledger-plugin) - Provides aliases and completions for [hledger](https://hledger.org/), a powerful, double-entry accounting tool.
 
-## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
@@ -533,26 +626,26 @@
 
 *   [awesome-sec-filings (⭐2)](https://github.com/vibeyclaw/awesome-sec-filings) - A curated list of tools, data sources, libraries, and resources for working with SEC filings (13F, 10-K, 10-Q, 8-K).
 
-## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [usbpd (⭐23)](https://github.com/elagil/usbpd): USB-PD library and traits, supports Sink mode, with Source functionality planned.
 
-## [17. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [23. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
 *   [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ premium 3D icons across 80+ categories with transparent PNG backgrounds and animated video versions.
 
-## [18. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Components
 
 *   [`<notectl-editor>`](https://github.com/Samyssmile/notectl) - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
 *   [`<pdfjs-viewer-element>`](https://github.com/alekswebnet/pdfjs-viewer-element) - Custom element that embeds PDF.js default viewer.
 
-## [19. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [25. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -566,13 +659,13 @@
 
 *   [usulnet (⭐63)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [@fr4nsys](https://github.com/fr4nsys)
 
-## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [Veritensor (⭐65)](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 
-## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Service Virtualization
 
@@ -582,13 +675,13 @@
 
 *   [And others (⭐107)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
-## [22. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [28. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Computational Fluid Dynamics
 
 *   [MFC (⭐318)](https://github.com/MFlowCode/MFC) - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -611,23 +704,36 @@
 
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Finance / Audio Record and Process
+
+*   [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
+
+### Utilities / Audio Record and Process
+
+*   [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762) - Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.
+
 ### Utilities / Menu Bar Tools
 
+*   [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814) - Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.
 *   [LuxShot (⭐0)](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lukebuild/LuxShot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [24. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+### Utilities / Finder Tools
+
+*   [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223) - A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.
+
+## [30. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tools / Web Tools
 
 *   [Ultra](https://overpass-ultra.us/) - Web based tool for making maps with a variety of data APIs such as overpass, postpass, qlever, ohsome, sophox, and more. ([Source Code](https://gitlab.com/trailstash/ultra))
 
-## [25. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [31. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [ble-scale-sync (⭐4)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
 
-## [26. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [32. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -662,7 +768,7 @@
 
 *   [fastapi-alembic-sqlmodel-async (⭐1.3k)](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
 
-## [27. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [33. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / JWT-based (for JSON Endpoints)
 
@@ -672,14 +778,14 @@
 
 *   [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 
-## [28. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [34. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
 *   [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [29. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [35. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / Dart - Official
 
@@ -740,7 +846,7 @@
 *   [Genkit Dart GitHub (⭐23)](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
 *   [Genkit Java GitHub (⭐7)](https://github.com/genkit-ai/genkit-java) - Unofficial GitHub repository for Genkit Java.
 
-## [30. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [36. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
@@ -766,7 +872,7 @@
 
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
 
-## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
@@ -776,13 +882,17 @@
 
 *   [cpp17\_in\_TTs (⭐1.2k)](https://github.com/tvaneerd/cpp17_in_TTs) - Descriptions of C++17 features, presented mostly in "Tony Tables".
 
-## [32. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [38. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
-## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Multi-subject / Crypto or Blockchain relevant
+
+*   [Awesome RSSHub Routes (⭐210)](https://github.com/JackyST0/awesome-rsshub-routes) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/JackyST0/awesome-rsshub-routes) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -797,7 +907,7 @@
 
 *   [Dadroit V Web](https://dadroit.com/vweb/) — In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -829,7 +939,7 @@
 
 *   [boa-dev/boa (⭐6.9k)](https://github.com/boa-dev/boa) \[[boa\_engine](https://crates.io/crates/boa_engine)] - An experimental JavaScript lexer, parser and interpreter written in Rust.
 
-## [35. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [41. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### ⚙️ System (24) / ✏️ Text (13)
 
@@ -841,14 +951,14 @@
 
     **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/>   <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
 
-## [36. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [42. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
 *   [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 
-## [37. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [43. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 

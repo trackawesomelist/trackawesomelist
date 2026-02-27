@@ -11,6 +11,19 @@
 ### Speciality Search Engines
 
 *   [BGP.he.net](https://bgp.he.net) - Free BGP and network intelligence toolkit
+*   [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+
+### Document and Slides Search
+
+*   [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
+
+### Username Check / GitHub
+
+*   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
+
+### Image Search / GitHub
+
+*   [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 
 ### Other Resources / GitHub
 

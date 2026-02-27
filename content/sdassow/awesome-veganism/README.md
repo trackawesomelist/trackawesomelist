@@ -2,9 +2,37 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 56 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 79 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / [Overview](/content/sdassow/awesome-veganism/readme/README.md) ]
+
+## [Feb 27, 2026](/content/2026/02/27/README.md)
+
+### Restaurants
+
+*   Bavel, Netherlands
+    *   [Vannu](https://www.restaurantvannu.nl/) - Fancy plantbased dining with locally sourced ingredients. They serve accompanying homemade juices as well.
+
+### Organizations and Activism
+
+*   [Animal Equality](https://animalequality.org/) - International organization documenting conditions in factory farms and running corporate campaigns to end animal exploitation
+*   [Mercy For Animals](https://mercyforanimals.org/) - Leading farmed animal protection organization using investigations, corporate engagement, and public education
+*   [The Humane League](https://thehumaneleague.org/) - Ending the abuse of animals raised for food through institutional and individual change campaigns
+*   [Veganuary](https://veganuary.com/) - Global campaign inspiring people to try vegan each January, with resources and recipes year-round
+*   [Vegan Outreach](https://veganoutreach.org/) - Grassroots advocacy reaching millions through outreach programs and the Vegan Mentor program
+
+### Documentaries
+
+*   [Dominion](https://www.dominionmovement.com/) - Feature-length documentary exposing standard practices in animal agriculture through drone footage and hidden cameras
+*   [Cowspiracy](https://www.cowspiracy.com/) - Groundbreaking environmental documentary exploring the impact of animal agriculture on the planet
+*   [The Game Changers](https://gamechangersmovie.com/) - Documentary following elite athletes and scientists exploring optimal nutrition through plant-based eating
+*   [Earthlings](http://www.nationearth.com/) - Comprehensive documentary about humanity's dependence on animals for economic purposes
+
+### Apps and Tools
+
+*   [HappyCow](https://www.happycow.net/) - Find vegan and vegetarian restaurants worldwide with community reviews and photos
+*   [abillion](https://www.abillion.com/) - Review plant-based products and restaurants while donating to animal welfare organizations with every review
+*   [Is It Vegan (⭐486)](https://github.com/hmontazeri/is-vegan) - Open source library and tool to check if a food ingredient or product is vegan
 
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 

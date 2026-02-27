@@ -296,6 +296,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 *   [terraform-provider-openstack (⭐459)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 *   [terraform-provider-panos (⭐106)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+*   [terraform-provider-phare (⭐4)](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
 *   [terraform-provider-pingdom (⭐120)](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources. :skull:
 *   [terraform-provider-rancher2 (⭐288)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 *   [terraform-provider-scalr (⭐20)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
@@ -405,7 +406,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terracost (⭐336)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 *   [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
 *   [TerraDepot (⭐65)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [terradozer (⭐169)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
+*   [terradozer (⭐1)](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
 *   [terraeasy (⭐35)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
 *   [terraform-aws-clickops-notifier (⭐330)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 *   [terraform-bundle (⭐48k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
@@ -443,7 +444,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terrastate (⭐77)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 *   [terratag (⭐1k)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 *   [tf-init-booster (⭐8)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-*   [tf-profile (⭐163)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐164)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 *   [tf-summarize (⭐665)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 *   [tfaction (⭐376)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 *   [tfautomv (⭐879)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
@@ -476,13 +477,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [tfvar (⭐228)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 *   [tfvaultenv (⭐48)](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 *   [tfwrapper (⭐8)](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
-*   [tfmcp (⭐354)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
+*   [tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 *   [tgf (⭐109)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 *   [threatcl (⭐453)](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
 *   [tofuenv (⭐221)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 *   [tpm (⭐85)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 *   [travelgrunt (⭐69)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
-*   [trupositive (⭐3)](https://github.com/trupositive-ai/trupositive) - Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.
+*   [trupositive (⭐10)](https://github.com/trupositive-ai/trupositive) - Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.
 *   [validIaC (⭐234)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 *   [xterrafile (⭐66)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:
 *   [yj (⭐1k)](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
@@ -503,7 +504,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 *   [hcl-rs (⭐172)](https://github.com/martinohmann/hcl-rs) - HCL parsing and encoding libraries for rust with serde support
 *   [hcl4j (⭐73)](https://github.com/bertramdev/hcl4j) - HCL parser in Java
-*   [nu\_plugin\_hcl (⭐14)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐38k)](https://github.com/nushell/nushell)
+*   [nu\_plugin\_hcl (⭐14)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐39k)](https://github.com/nushell/nushell)
 *   [pyhcl (⭐340)](https://github.com/virtuald/pyhcl) - HCL parser in Python
 *   [python-hcl2 (⭐300)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 *   [rhcl (⭐15)](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser :skull:

@@ -29,9 +29,22 @@
 
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Finance / Audio Record and Process
+
+*   [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
+
+### Utilities / Audio Record and Process
+
+*   [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762) - Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.
+
 ### Utilities / Menu Bar Tools
 
+*   [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814) - Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.
 *   [LuxShot (⭐0)](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lukebuild/LuxShot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Finder Tools
+
+*   [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223) - A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 

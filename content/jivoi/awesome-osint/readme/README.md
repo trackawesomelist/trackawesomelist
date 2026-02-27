@@ -235,6 +235,7 @@ Thanks to our main contributors
 *   [Netlas.io](https://app.netlas.io/)
 *   [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.
 *   [OCCRP Aleph](https://aleph.occrp.org/)
+*   [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
 *   [Search Abuseipdb (⭐3)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 *   [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 *   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
@@ -269,6 +270,7 @@ Thanks to our main contributors
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 *   [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
+*   [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
 *   [Find-pdf-doc](http://www.findpdfdoc.com)
 *   [Free Full PDF](http://www.freefullpdf.com)
 *   [Offshore Leak Database](https://offshoreleaks.icij.org)
@@ -681,6 +683,7 @@ Thanks to our main contributors
 *   [Seekr (⭐751)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 *   [Sherlock (⭐73k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
+*   [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
 *   [Snoop (⭐3.7k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 *   [Social Analyzer (⭐22k)](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 *   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
@@ -1044,6 +1047,7 @@ Thanks to our main contributors
 *   [Image Identification Project](https://www.imageidentify.com)
 *   [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 *   [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
+*   [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 *   [Lycos Image Search](https://search.lycos.com)
 *   [PhotoBucket](https://photobucket.com)
 *   [PicTriev](http://www.pictriev.com) - a face search engine.

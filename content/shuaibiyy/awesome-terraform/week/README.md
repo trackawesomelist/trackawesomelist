@@ -6,6 +6,16 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-phare (⭐4)](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
+
+### Tools / Community providers
+
+*   [terradozer (⭐1)](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Tools / Community providers
@@ -20,7 +30,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [trupositive (⭐3)](https://github.com/trupositive-ai/trupositive) - Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.
+*   [trupositive (⭐10)](https://github.com/trupositive-ai/trupositive) - Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.
 
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
 
@@ -116,7 +126,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [tfmcp (⭐354)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
+*   [tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -504,13 +514,13 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Libraries / IDE
 
-*   [nu\_plugin\_hcl (⭐14)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐38k)](https://github.com/nushell/nushell)
+*   [nu\_plugin\_hcl (⭐14)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐39k)](https://github.com/nushell/nushell)
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Tools / Community providers
 
-*   [tf-profile (⭐163)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐164)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
@@ -857,7 +867,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [inframap (⭐2k)](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 *   [terracognita (⭐2.3k)](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
 *   [terracost (⭐336)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
-*   [terradozer (⭐169)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
 *   [tfcmt (⭐505)](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
