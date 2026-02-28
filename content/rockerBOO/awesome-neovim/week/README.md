@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### LSP
+
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
+
 ### AI / Diagnostics
 
 *   [wsdjeg/chat.nvim (⭐14)](https://github.com/wsdjeg/chat.nvim) - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
@@ -16,6 +20,10 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Assembly
 
 *   [oskarnurm/koda.nvim (⭐226)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
+
+### Media / Cursorline
+
+*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ### Dependency Management / Quickfix
 
@@ -73,11 +81,11 @@ Collections of awesome neovim plugins.
 ### Git / Quickfix
 
 *   [YouSame2/inlinediff-nvim (⭐17)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
-*   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐143)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐86)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Database / Automation
 

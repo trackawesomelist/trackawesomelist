@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 28, 2026](/content/2026/02/28/README.md)
+
+### Text processing
+
+*   [vsoup (⭐0)](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
 ### Telegram

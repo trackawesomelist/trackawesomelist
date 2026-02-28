@@ -159,7 +159,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [frugally-deep (⭐1.1k)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 *   [Genann (⭐2.2k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 *   [flashlight (⭐5.4k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 *   [Recast/Detour (⭐7.6k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [TensorFlow (⭐194k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
@@ -462,6 +462,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Infinity (⭐4.4k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
 *   [Kuzu (⭐3.7k)](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. \[MIT] [website](https://kuzudb.com/)
 *   [Kvrocks (⭐4.2k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+*   [Ladybug (⭐534)](https://github.com/LadybugDB/ladybug) - an embedded graph database built for query speed and scalability. \[MIT] [website](https://ladybugdb.com/)
 *   [LevelDB (⭐39k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 *   [libpg\_query (⭐1.4k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment. \[BSD-3-Clause]
 *   [libpqxx (⭐1.3k)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
@@ -627,7 +628,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Graphic User Interface*
 
 *   [Boden (⭐1.7k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Proprietary] [website](https://www.boden.io)
-*   [Brisk (⭐321)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
+*   [Brisk (⭐326)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 *   [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 *   [Elements (⭐3.7k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 *   [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. \[LGPL2]

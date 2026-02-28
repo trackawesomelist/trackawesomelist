@@ -1,12 +1,89 @@
 # Awesome List Updates on Feb 28, 2026
 
-7 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Text processing
+
+*   [vsoup (⭐0)](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Database
+
+*   [Ladybug (⭐534)](https://github.com/LadybugDB/ladybug) - an embedded graph database built for query speed and scalability. \[MIT] [website](https://ladybugdb.com/)
+
+## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
+
+### Projects
+
+*   [Google Wasefire (⭐153)](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience.
+*   [Apache Iggy (⭐3.8k)](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### LSP
+
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
+
+### Media / Cursorline
+
+*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Metabase](https://www.metabase.com/)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [AI Displacement Tracker (⭐1)](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
+
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+### Monitoring
+
+*   [Dynatrace](https://docs.dynatrace.com/docs/observe/infrastructure-observability/container-platform-monitoring) - :heavy\_dollar\_sign: Monitor containerized applications without installing agents or modifying your Run commands.
+
+### Dockerfile / Other
+
+*   [0xy](https://gitlab.com/0xy/dockerfiles)
+*   [arun-gupta (⭐250)](https://github.com/arun-gupta/docker-images)
+*   [awesome-startup (⭐64)](https://github.com/awesome-startup/docker-compose)
+*   [crosbymichael (⭐299)](https://github.com/crosbymichael/Dockerfiles)
+*   [jessfraz (⭐14k)](https://github.com/jessfraz/dockerfiles)
+*   [komljen (⭐585)](https://github.com/komljen/dockerfile-examples)
+*   [kstaken (⭐828)](https://github.com/kstaken/dockerfile-examples)
+*   [ondrejmo (⭐23)](https://github.com/ondrejmo/Dockerfiles)
+*   [vimagick (⭐3.2k)](https://github.com/vimagick/dockerfiles)
+
+### Metadata / Other
+
+*   [opencontainer (⭐4.2k)](https://github.com/opencontainers/image-spec/blob/main/annotations.md) - A convention and shared namespace for Docker labels defined by OCI Image Spec.
+
+### Testing / Other
+
+*   [dgoss (⭐5.9k)](https://github.com/goss-org/goss/tree/master/extras/dgoss) - A fast YAML based tool for validating docker containers.
+
+### Wrappers / Other
+
+*   [Ansible](https://docs.ansible.com/projects/ansible/latest/collections/community/general/docker_container_module.html) - Manage the life cycle of Docker containers. By RedHat.
+
+### CI Services / Other
+
+*   [CodeShip](https://www.cloudbees.com/blog/how-to-run-codeship-parallel-test-pipelines-efficiently-for-optimal-ci-parallelization) - :heavy\_dollar\_sign: Work with your established Docker workflows while automating your testing and deployment tasks with our hosted platform dedicated to speed and security.
+
+### CaaS / Other
+
+*   [Google Container Engine](https://docs.cloud.google.com/kubernetes-engine/docs) - :heavy\_dollar\_sign: Docker containers on Google Cloud Computing powered by [Kubernetes](https://kubernetes.io).
+
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Apache License
 
@@ -17,7 +94,7 @@
 *   [florist (⭐8)](https://github.com/AdaCore/florist/) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 *   [florist-blady (⭐7)](https://github.com/Blady-Com/florist) - A fork of Florist which is available as an Alire crate.
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -36,13 +113,13 @@
 
 *   [ACBr (Commercial Automation Brazil)](https://sourceforge.net/projects/acbr/) ([GitHub mirror (⭐73)](https://github.com/ProjetoACBr/ACBr), [Organization page in GitHub](https://github.com/Projeto-ACBr-Oficial). `[Delphi]` `[FPC]` Set of components and libraries for Delphi and Lazarus, designed to simplify the development of commercial automation systems in Brazil. It is widely used by developers who need to integrate their software with fiscal obligations and automation equipment
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [Michael-F-Bryan/mdbook-linkcheck (⭐167)](https://github.com/Michael-F-Bryan/mdbook-linkcheck) \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Office
 
@@ -128,7 +205,7 @@
 *   [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - The Steam Link app allows you to play your Steam games across all your computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [11. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
@@ -161,7 +238,7 @@
 
 *   [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 
-## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -176,7 +253,7 @@
 
 *   [ansible-lint](https://ansible.readthedocs.io/projects/lint/) — Checks playbooks for practices and behaviour that could potentially be improved.
 
-## [7. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Development Tools & Utilities
 

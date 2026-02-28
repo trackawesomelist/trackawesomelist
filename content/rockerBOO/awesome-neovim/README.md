@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 28, 2026](/content/2026/02/28/README.md)
+
+### LSP
+
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
+
+### Media / Cursorline
+
+*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
 ### AI / Diagnostics
@@ -79,13 +89,13 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐86)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Git / Quickfix
 
-*   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐143)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ## [Feb 10, 2026](/content/2026/02/10/README.md)
 

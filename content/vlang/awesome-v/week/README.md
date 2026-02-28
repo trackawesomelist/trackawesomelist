@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [velegram (⭐0)](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
 
+### Text processing
+
+*   [vsoup (⭐0)](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
+
 ### Utility
 
 *   [vanadium (⭐0)](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.

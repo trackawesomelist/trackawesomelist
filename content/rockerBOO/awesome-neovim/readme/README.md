@@ -212,6 +212,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [barreiroleo/ltex\_extra.nvim (⭐183)](https://github.com/barreiroleo/ltex_extra.nvim) - LTeX LSP extension providing external file handling (rules and dictionaries).
 *   [chojs23/ts-bridge (⭐32)](https://github.com/chojs23/ts-bridge) - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 *   [akioweh/lsp-document-highlight.nvim (⭐8)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 
 ### LSP Installer
 
@@ -1023,6 +1024,7 @@ then it is not supported:
 *   [neo451/feed.nvim (⭐197)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, Atom, JSON feed).
 *   [vyfor/cord.nvim (⭐560)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 *   [iamt4nk/smm.nvim (⭐30)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
+*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 <!--lint disable double-link -->
 
@@ -1407,7 +1409,7 @@ then it is not supported:
 *   [BibekBhusal0/nvim-git-utils (⭐7)](https://github.com/BibekBhusal0/nvim-git-utils) - Simple commands to make life easier while working with Git.
 *   [spacedentist/resolve.nvim (⭐47)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 *   [jceb/jiejie.nvim (⭐43)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
-*   [chojs23/ec (⭐97)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐143)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### GitHub
 
@@ -1621,7 +1623,7 @@ then it is not supported:
 *   [smoka7/multicursors.nvim (⭐637)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 *   [tigion/swap.nvim (⭐17)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 *   [XXiaoA/atone.nvim (⭐146)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
-*   [nemanjamalesija/smart-paste.nvim (⭐61)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐86)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Comment
 

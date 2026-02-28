@@ -331,6 +331,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [slugify (⭐3)](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 *   [text-processing (⭐6)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 *   [v-regex (⭐15)](https://github.com/spytheman/v-regex) - A simple regex library for V.
+*   [vsoup (⭐0)](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
 *   [vxml (⭐1)](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
 *   [whisker (⭐39)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 *   [lexical\_uuid (⭐4)](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Feb 28, 2026](/content/2026/02/28/README.md)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Metabase](https://www.metabase.com/)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [AI Displacement Tracker (⭐1)](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
+
 ## [Feb 25, 2026](/content/2026/02/25/README.md)
 
 ### Deep Learning Packages / Visualization Tools
@@ -353,7 +363,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐632)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐637)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 18, 2024](/content/2024/05/18/README.md)
 

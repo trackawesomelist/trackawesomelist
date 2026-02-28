@@ -10,7 +10,12 @@
 
 ### Deep Learning Packages / Visualization Tools
 
+*   [Metabase](https://www.metabase.com/)
 *   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com (⭐0)](https://github.com/TerryFYL/metareview)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [AI Displacement Tracker (⭐1)](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
 
@@ -317,7 +322,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐632)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐637)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 

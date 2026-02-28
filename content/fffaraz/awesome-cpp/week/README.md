@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### Database
+
+*   [Ladybug (⭐534)](https://github.com/LadybugDB/ladybug) - an embedded graph database built for query speed and scalability. \[MIT] [website](https://ladybugdb.com/)
+
 ### Miscellaneous
 
 *   [xjb (⭐26)](https://github.com/xjb714/xjb) - A fast float to string algorithm. \[Apache-2.0]
@@ -20,7 +24,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [Brisk (⭐321)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
+*   [Brisk (⭐326)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -2531,7 +2535,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Artificial Intelligence
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
