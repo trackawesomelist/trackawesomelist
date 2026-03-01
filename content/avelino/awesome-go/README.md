@@ -15,6 +15,15 @@ A curated list of awesome Go frameworks, libraries and software
 ### Authentication and Authorization
 
 *   [authgate (⭐26)](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
+*   [go-jwt (⭐1)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
+
+### Bot Building
+
+*   [TG (⭐45)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
+
+### Miscellaneous Data Structures and Algorithms
+
+*   [FSM (⭐17)](https://github.com/enetx/fsm) - FSM for Go.
 
 ### Date and Time
 
@@ -36,6 +45,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [cdns (⭐3)](https://github.com/junevm/cdns) - Change DNS servers effortlessly via terminal.
 
+### Performance
+
+*   [otelinji (⭐26)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
+
 ### Science and Data Analysis
 
 *   [hdf5 (⭐21)](https://github.com/scigolib/hdf5) - Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
@@ -46,6 +59,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Testing Frameworks
 
 *   [should (⭐36)](https://github.com/Kairum-Labs/should) - Testing library with zero dependencies, detailed struct diffs and human-readable error messages.
+
+### Regular Expressions
+
+*   [coregex (⭐125)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
@@ -3492,7 +3509,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Morphological Analyzers
 
 *   [snowball (⭐38)](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
-*   [spaGO (⭐1.8k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+*   [spaGO (⭐1.9k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### Slugifiers
 
@@ -4497,7 +4514,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [bayesian (⭐809)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐810)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐749)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.

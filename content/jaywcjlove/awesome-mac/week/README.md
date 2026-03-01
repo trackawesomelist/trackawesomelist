@@ -58,6 +58,10 @@
 
 *   [XGetter](https://xgetter.com/) - Media Downloader - Download video, audio from YouTube, Douyin, Facebook, Instagram, Twitter, TikTok and 60+ sites ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Input Methods / Audio Record and Process
+
+*   [LangSwitcher (⭐2)](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter. Select text typed in wrong layout, press ⇧⇧ and it's instantly converted. Supports EN/RU/DE/FR/ES. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reg2005/langSwitcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Voice-to-Text / Audio Record and Process
 
 *   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

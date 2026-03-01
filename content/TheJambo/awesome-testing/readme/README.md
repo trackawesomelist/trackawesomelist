@@ -49,6 +49,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Swagger Coverage Tool (⭐19)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 *   [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
 *   [Webhook Debugger (⭐0)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+*   [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 
 ### Security Testing
 
@@ -83,19 +84,34 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### UI & End-to-End Testing
 
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
+
 *   [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
+
 *   [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
+
 *   [Ferrum (⭐2k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
+
 *   [flutter-skill (⭐10)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
+
 *   [Hercules (⭐940)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
+
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
+
 *   [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
+
 *   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
+
 *   [playwright-bdd (⭐619)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+
 *   [UI Coverage Tool (⭐8)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+
+*   [TestDino](https://github.com/TestDinoHQ) - A Playwright‑focused test reporting and analytics platform that centralizes CI runs, classifies failures, and uses AI insights to help teams debug faster and ship more reliable releases.
 
 ### Test Management
 
@@ -121,6 +137,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Accessibility & Usability Testing
 
 *   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
+*   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+*   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Performance & Load Testing
 

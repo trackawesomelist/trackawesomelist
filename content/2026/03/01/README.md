@@ -1,18 +1,93 @@
 # Awesome List Updates on Mar 01, 2026
 
-9 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Ai](/content/abordage/awesome-ai/README.md)
+
+### AI Coding Agents / Claude Code
+
+*   [ruvnet/ruflo (⭐17k)](https://github.com/ruvnet/ruflo) — Agent orchestration for Claude ☆`16,601`
+
+## [2. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Databases / NoSQL Database Drivers
+
+*   [Kamva/mgm (⭐764)](https://github.com/Kamva/mgm) — Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver) ☆`764`
+
+## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+### Software / API Testing
+
+*   [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
+
+### Software / UI & End-to-End Testing
+
+*   [TestDino](https://github.com/TestDinoHQ) - A Playwright‑focused test reporting and analytics platform that centralizes CI runs, classifies failures, and uses AI insights to help teams debug faster and ship more reliable releases.
+
+### Software / Accessibility & Usability Testing
+
+*   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+*   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Input Methods / Audio Record and Process
+
+*   [LangSwitcher (⭐2)](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter. Select text typed in wrong layout, press ⇧⇧ and it's instantly converted. Supports EN/RU/DE/FR/ES. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reg2005/langSwitcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### universally from / multiple sources
+
+*   [NebulaPicker (⭐1)](https://github.com/djsilva99/nebulapicker) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/djsilva99/nebulapicker)
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Security and PKI
+
+*   [Smart Grow Vault](https://vault.smart-grow.app/) — Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
+
+### Log Management
+
+*   [Smart Grow Logs](https://logs.smart-grow.app/) — Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.
+
+### Email
+
+*   [Waitlio](https://waitlio.com/) — Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
+
+### Storage and Media Processing
+
+*   [QRtracer](https://qrtracer.io) – Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
+
+## [7. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
+- Name: [gitlab-ci-local (⭐3.7k)](https://github.com/firecow/gitlab-ci-local)
+
+  Description: Run your GitLab CI/CD pipelines locally instead of pushing to test your .gitlab-ci.yml
+
+  Features: Docker and shell executor, variable expansion, includes, caching, artifacts, services, parallel jobs
+
+  Supported repositories: GitLab
+
+  Documentation: [Documentation (⭐3.7k)](https://github.com/firecow/gitlab-ci-local#readme)
+
+  Price: [Open Source (⭐3.7k)](https://github.com/firecow/gitlab-ci-local) (MIT)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/firecow/gitlab-ci-local.svg)](https://github.com/firecow/gitlab-ci-local)
+
+
+
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### YAML
 
 *   [yamson (⭐4)](https://github.com/bohonghuang/yamson) - Fast YAML and JSON parsers for Common Lisp (not yet emitters). Apache2.0.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
@@ -21,6 +96,15 @@
 ### Authentication and Authorization
 
 *   [authgate (⭐26)](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
+*   [go-jwt (⭐1)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
+
+### Bot Building
+
+*   [TG (⭐45)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
+
+### Miscellaneous Data Structures and Algorithms
+
+*   [FSM (⭐17)](https://github.com/enetx/fsm) - FSM for Go.
 
 ### Date and Time
 
@@ -42,6 +126,10 @@
 
 *   [cdns (⭐3)](https://github.com/junevm/cdns) - Change DNS servers effortlessly via terminal.
 
+### Performance
+
+*   [otelinji (⭐26)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
+
 ### Science and Data Analysis
 
 *   [hdf5 (⭐21)](https://github.com/scigolib/hdf5) - Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
@@ -52,6 +140,10 @@
 ### Testing Frameworks
 
 *   [should (⭐36)](https://github.com/Kairum-Labs/should) - Testing library with zero dependencies, detailed struct diffs and human-readable error messages.
+
+### Regular Expressions
+
+*   [coregex (⭐125)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
@@ -66,13 +158,13 @@
 
 *   [Backrest (⭐5.5k)](https://github.com/garethgeorge/backrest) - Web-based UI and orchestrator for restic backup.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web
 
 *   [shouya/rss-funnel (⭐146)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -130,13 +222,13 @@
 
 *   [OpenMessaging (⭐287) (⭐287)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [5. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
+## [12. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
 ### Server Software / Media Servers
 
 *   [LiveKit](https://livekit.io) - Open-source WebRTC infrastructure for building scalable real-time audio and video applications.
 
-## [6. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [13. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Command Line Utilities
 
@@ -150,13 +242,13 @@
 
 *   **[ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)** - An annotation tool for genetic variants, predicting effects on genes, transcripts, and regulatory elements, which allows for custom database integration. \[ [paper-2010](https://doi.org/10.1093/nar/gkq603) | [web](https://annovar.openbioinformatics.org/en/latest/) ]
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Transportation
 
 *   [GATIS](https://dotbts.github.io/BPA/) - A data specification for active transportation infrastructure that is supported by the National Collaboration on Bicycle, Pedestrian, and Accessibility Infrastructure Data (NC-BPAID).
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fuzzy Finder / Assembly
 
@@ -166,7 +258,7 @@
 
 *   [taigrr/cyberpunk.nvim (⭐1)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [16. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Other Resources / Emoji
 

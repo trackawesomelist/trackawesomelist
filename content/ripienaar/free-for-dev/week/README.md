@@ -8,6 +8,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### Security and PKI
+
+*   [Smart Grow Vault](https://vault.smart-grow.app/) — Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
+
+### Log Management
+
+*   [Smart Grow Logs](https://logs.smart-grow.app/) — Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.
+
+### Email
+
+*   [Waitlio](https://waitlio.com/) — Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
+
 ### PaaS
 
 *   [Clever Cloud](https://clever.cloud) — European PaaS with automated deployments, autoscaling, managed databases, and Git-based workflows. Includes €20 free credits at signup, a limited DEV plan with free MySQL and PostgreSQL databases, and free allowances for services like Heptapod and FS Buckets.
@@ -16,6 +28,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [MConverter](https://mconverter.eu/) – Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
 *   [MantleDB](https://mantledb.sh) — Anonymous JSON storage for scripts and tiny apps. No signup required; uses Master AID for updates and Read-Only RID for public fetching. Free tier includes 1 bucket (1MB limit) with a 72h inactivity scavenger policy.
+*   [QRtracer](https://qrtracer.io) – Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
 
 ### Miscellaneous
 
@@ -1603,10 +1616,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Authentication, Authorization, and User Management
 
 *   [Aserto](https://www.aserto.com) - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.
-
-### PaaS
-
-*   [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
 
 ### Web Hosting
 
@@ -3230,10 +3239,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Management System
 
 *   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
-
-### PaaS
-
-*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 512MB memory, 2GB storage, and 0.1 CPU.
 
 ### Issue Tracking and Project Management
 

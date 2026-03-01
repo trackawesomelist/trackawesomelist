@@ -6,17 +6,23 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 [ Daily / [Weekly](/content/abordage/awesome-ai/week/README.md) / [Overview](/content/abordage/awesome-ai/readme/README.md) ]
 
+## [Mar 01, 2026](/content/2026/03/01/README.md)
+
+### AI Coding Agents / Claude Code
+
+*   [ruvnet/ruflo (⭐17k)](https://github.com/ruvnet/ruflo) — Agent orchestration for Claude ☆`16,601`
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
 ### AI Coding Agents / Claude Code
 
-*   [dtormoen/tsk-tsk (⭐140)](https://github.com/dtormoen/tsk-tsk) — Keeping your agents out of trouble with sandboxed coding agent automation ☆`140`
+*   [dtormoen/tsk-tsk (⭐140)](https://github.com/dtormoen/tsk-tsk) — Keeping your agents out of trouble with sandboxed coding agent automation ☆`142`
 
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### AI Coding Agents / Claude Code
 
-*   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`48`
+*   [joshsymonds/cc-tools (⭐47)](https://github.com/joshsymonds/cc-tools) — Claude Code tools ☆`49`
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -40,83 +46,82 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### AI Coding Agents / General Purpose
 
-*   [zylon-ai/private-gpt (⭐57k)](https://github.com/zylon-ai/private-gpt) — Chat with documents using LLMs ☆`57,132`
-*   [AntonOsika/gpt-engineer (⭐55k)](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`55,209`
-*   [Aider-AI/aider (⭐41k)](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`40,988`
-*   [QuivrHQ/quivr (⭐39k)](https://github.com/QuivrHQ/quivr) — RAG for GenAI in apps ☆`38,964`
-*   [plandex-ai/plandex (⭐15k)](https://github.com/plandex-ai/plandex) — AI coding agent for large projects ☆`15,036`
-*   [smol-ai/developer (⭐12k)](https://github.com/smol-ai/developer) — Embed a developer agent in apps ☆`12,197`
-*   [kuafuai/DevOpsGPT (⭐6k)](https://github.com/kuafuai/DevOpsGPT) — Multi-agent AI-driven development ☆`5,970`
-*   [stravu/crystal (⭐2.9k)](https://github.com/stravu/crystal) — Run multiple AI sessions in parallel ☆`2,954`
-*   [splx-ai/agentic-radar (⭐910)](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`915`
-*   [Nayjest/Gito (⭐181)](https://github.com/Nayjest/Gito) — AI-powered GitHub code review ☆`179`
+*   [zylon-ai/private-gpt (⭐57k)](https://github.com/zylon-ai/private-gpt) — Chat with documents using LLMs ☆`57,140`
+*   [AntonOsika/gpt-engineer (⭐55k)](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`55,210`
+*   [Aider-AI/aider (⭐41k)](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`41,057`
+*   [QuivrHQ/quivr (⭐39k)](https://github.com/QuivrHQ/quivr) — RAG for GenAI in apps ☆`38,967`
+*   [plandex-ai/plandex (⭐15k)](https://github.com/plandex-ai/plandex) — AI coding agent for large projects ☆`15,043`
+*   [smol-ai/developer (⭐12k)](https://github.com/smol-ai/developer) — Embed a developer agent in apps ☆`12,198`
+*   [kuafuai/DevOpsGPT (⭐6k)](https://github.com/kuafuai/DevOpsGPT) — Multi-agent AI-driven development ☆`5,971`
+*   [stravu/crystal (⭐2.9k)](https://github.com/stravu/crystal) — Run multiple AI sessions in parallel ☆`2,959`
+*   [splx-ai/agentic-radar (⭐916)](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`915`
+*   [Nayjest/Gito (⭐181)](https://github.com/Nayjest/Gito) — AI-powered GitHub code review ☆`181`
 *   [closedloop-technologies/autocomplete-sh (⭐130)](https://github.com/closedloop-technologies/autocomplete-sh) — LLM autocomplete in terminal ☆`130`
 
 ### AI Coding Agents / Claude Code
 
-*   [davila7/claude-code-templates (⭐21k)](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`21,402`
-*   [SuperClaude-Org/SuperClaude\_Framework (⭐21k)](https://github.com/SuperClaude-Org/SuperClaude_Framework) — Configuration framework for Claude Code ☆`21,037`
-*   [ruvnet/claude-flow (⭐14k)](https://github.com/ruvnet/claude-flow) — Agent orchestration for Claude ☆`15,114`
-*   [anthropics/claude-quickstarts (⭐15k)](https://github.com/anthropics/claude-quickstarts) — Quick start projects for Claude ☆`14,867`
-*   [slopus/happy (⭐13k)](https://github.com/slopus/happy) — Mobile/Web client for Codex and Claude ☆`13,694`
-*   [ryoppippi/ccusage (⭐11k)](https://github.com/ryoppippi/ccusage) — Analyze Claude Code usage stats ☆`11,079`
-*   [automazeio/ccpm (⭐7.4k)](https://github.com/automazeio/ccpm) — Project management for Claude Code ☆`7,480`
-*   [Maciek-roboblog/Claude-Code-Usage-Monitor (⭐6.6k)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Claude Code usage monitor ☆`6,693`
-*   [smtg-ai/claude-squad (⭐6.1k)](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents ☆`6,157`
-*   [anthropics/claude-code-action (⭐5.8k)](https://github.com/anthropics/claude-code-action) — Claude Code action for GitHub PRs ☆`5,883`
-*   [sirmalloc/ccstatusline (⭐4k)](https://github.com/sirmalloc/ccstatusline) — Custom statusline for Claude Code ☆`4,141`
-*   [OneRedOak/claude-code-workflows (⭐3.6k)](https://github.com/OneRedOak/claude-code-workflows) — Best workflows for Claude Code ☆`3,663`
-*   [nizos/tdd-guard (⭐1.8k)](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`1,779`
-*   [parruda/swarm (⭐1.6k)](https://github.com/parruda/swarm) — Ruby gems for AI agent systems ☆`1,649`
-*   [pchalasani/claude-code-tools (⭐1.5k)](https://github.com/pchalasani/claude-code-tools) — Productivity tools for Claude Code ☆`1,502`
-*   [Piebald-AI/tweakcc (⭐1.1k)](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code prompts ☆`1,176`
-*   [Owloops/claude-powerline (⭐786)](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline statusline for Claude Code ☆`801`
-*   [carlrannaberg/claudekit (⭐600)](https://github.com/carlrannaberg/claudekit) — Custom commands and hooks for Claude ☆`610`
-*   [claude-did-this/claude-hub (⭐356)](https://github.com/claude-did-this/claude-hub) — Webhook service for Claude + GitHub ☆`362`
-*   [JSONbored/claudepro-directory (⭐187)](https://github.com/JSONbored/claudepro-directory) — Searchable Claude Pro project collection ☆`188`
+*   [davila7/claude-code-templates (⭐21k)](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`21,605`
+*   [SuperClaude-Org/SuperClaude\_Framework (⭐21k)](https://github.com/SuperClaude-Org/SuperClaude_Framework) — Configuration framework for Claude Code ☆`21,070`
+*   [anthropics/claude-quickstarts (⭐15k)](https://github.com/anthropics/claude-quickstarts) — Quick start projects for Claude ☆`14,916`
+*   [slopus/happy (⭐13k)](https://github.com/slopus/happy) — Mobile/Web client for Codex and Claude ☆`13,862`
+*   [ryoppippi/ccusage (⭐11k)](https://github.com/ryoppippi/ccusage) — Analyze Claude Code usage stats ☆`11,117`
+*   [automazeio/ccpm (⭐7.4k)](https://github.com/automazeio/ccpm) — Project management for Claude Code ☆`7,501`
+*   [Maciek-roboblog/Claude-Code-Usage-Monitor (⭐6.6k)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Claude Code usage monitor ☆`6,716`
+*   [smtg-ai/claude-squad (⭐6.1k)](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents ☆`6,174`
+*   [anthropics/claude-code-action (⭐5.8k)](https://github.com/anthropics/claude-code-action) — Claude Code action for GitHub PRs ☆`5,922`
+*   [sirmalloc/ccstatusline (⭐4k)](https://github.com/sirmalloc/ccstatusline) — Custom statusline for Claude Code ☆`4,218`
+*   [OneRedOak/claude-code-workflows (⭐3.6k)](https://github.com/OneRedOak/claude-code-workflows) — Best workflows for Claude Code ☆`3,668`
+*   [nizos/tdd-guard (⭐1.8k)](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`1,782`
+*   [parruda/swarm (⭐1.6k)](https://github.com/parruda/swarm) — Ruby gems for AI agent systems ☆`1,653`
+*   [pchalasani/claude-code-tools (⭐1.5k)](https://github.com/pchalasani/claude-code-tools) — Productivity tools for Claude Code ☆`1,507`
+*   [Piebald-AI/tweakcc (⭐1.1k)](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code prompts ☆`1,184`
+*   [Owloops/claude-powerline (⭐786)](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline statusline for Claude Code ☆`853`
+*   [carlrannaberg/claudekit (⭐600)](https://github.com/carlrannaberg/claudekit) — Custom commands and hooks for Claude ☆`614`
+*   [claude-did-this/claude-hub (⭐356)](https://github.com/claude-did-this/claude-hub) — Webhook service for Claude + GitHub ☆`364`
+*   [JSONbored/claudepro-directory (⭐187)](https://github.com/JSONbored/claudepro-directory) — Searchable Claude Pro project collection ☆`189`
 *   [dazuiba/CCNotify (⭐155)](https://github.com/dazuiba/CCNotify) — Desktop notifications for Claude Code ☆`158`
 *   [Brads3290/cclogviewer (⭐69)](https://github.com/Brads3290/cclogviewer) — Review Claude Code .jsonl files with a nice HTML UI ☆`70`
 
 ### AI Coding Agents / Gemini CLI
 
-*   [google-gemini/gemini-cli (⭐95k)](https://github.com/google-gemini/gemini-cli) — AI agent with Gemini in terminal ☆`95,839`
-*   [google-gemini/cookbook (⭐17k)](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`16,596`
-*   [google-github-actions/run-gemini-cli (⭐1.8k)](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`1,808`
-*   [GewoonJaap/gemini-cli-openai (⭐842)](https://github.com/GewoonJaap/gemini-cli-openai) — Gemini CLI as OpenAI API endpoint ☆`844`
-*   [gzzhongqi/geminicli2api (⭐513)](https://github.com/gzzhongqi/geminicli2api) — Proxy converting Gemini CLI to OpenAI-compatible API ☆`529`
+*   [google-gemini/gemini-cli (⭐95k)](https://github.com/google-gemini/gemini-cli) — AI agent with Gemini in terminal ☆`96,030`
+*   [google-gemini/cookbook (⭐17k)](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`16,609`
+*   [google-github-actions/run-gemini-cli (⭐1.8k)](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`1,814`
+*   [GewoonJaap/gemini-cli-openai (⭐842)](https://github.com/GewoonJaap/gemini-cli-openai) — Gemini CLI as OpenAI API endpoint ☆`846`
+*   [gzzhongqi/geminicli2api (⭐513)](https://github.com/gzzhongqi/geminicli2api) — Proxy converting Gemini CLI to OpenAI-compatible API ☆`530`
 *   [nettee/gemini-cli-proxy (⭐132)](https://github.com/nettee/gemini-cli-proxy) — Gemini CLI as OpenAI-compatible API ☆`132`
 *   [openmule/gacua (⭐113)](https://github.com/openmule/gacua) — Out-of-the-box computer use agent ☆`113`
 *   [Brioch/gemini-openai-proxy (⭐51)](https://github.com/Brioch/gemini-openai-proxy) — Serve Gemini models via OpenAI API ☆`52`
 
 ### AI Coding Agents / PR & Review
 
-*   [qodo-ai/pr-agent (⭐10k)](https://github.com/qodo-ai/pr-agent) — AI-powered PR reviewer ☆`10,309`
-*   [sweepai/sweep (⭐7.6k)](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,642`
-*   [mattzcarey/shippie (⭐2.3k)](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,335`
+*   [qodo-ai/pr-agent (⭐10k)](https://github.com/qodo-ai/pr-agent) — AI-powered PR reviewer ☆`10,335`
+*   [sweepai/sweep (⭐7.6k)](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,643`
+*   [mattzcarey/shippie (⭐2.3k)](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,336`
 
 ### Generators / App
 
-*   [stackblitz-labs/bolt.diy (⭐19k)](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,053`
+*   [stackblitz-labs/bolt.diy (⭐19k)](https://github.com/stackblitz-labs/bolt.diy) — Prompt and deploy full-stack web apps ☆`19,062`
 
 ### IDE & Editor / Extensions
 
-*   [smallcloudai/refact (⭐3.5k)](https://github.com/smallcloudai/refact) — AI agent for engineering tasks ☆`3,504`
+*   [smallcloudai/refact (⭐3.5k)](https://github.com/smallcloudai/refact) — AI agent for engineering tasks ☆`3,505`
 
 ### IDE & Editor / Neovim
 
-*   [greggh/claude-code.nvim (⭐1.8k)](https://github.com/greggh/claude-code.nvim) — Claude Code integration for Neovim ☆`1,863`
+*   [greggh/claude-code.nvim (⭐1.8k)](https://github.com/greggh/claude-code.nvim) — Claude Code integration for Neovim ☆`1,870`
 
 ### IDE & Editor / Emacs
 
-*   [stevemolitor/claude-code.el (⭐622)](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`628`
+*   [stevemolitor/claude-code.el (⭐622)](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`632`
 
 ### SDKs & Libraries / Emacs
 
-*   [av/harbor (⭐2.5k)](https://github.com/av/harbor) — Run LLM backends and APIs easily ☆`2,470`
+*   [av/harbor (⭐2.5k)](https://github.com/av/harbor) — Run LLM backends and APIs easily ☆`2,475`
 
 ### SDKs & Libraries / Go
 
-*   [googleapis/go-genai (⭐1k)](https://github.com/googleapis/go-genai) — Google Gen AI SDK for Go ☆`1,033`
+*   [googleapis/go-genai (⭐1k)](https://github.com/googleapis/go-genai) — Google Gen AI SDK for Go ☆`1,038`
 
 ### SDKs & Libraries / PHP & Laravel
 
@@ -126,31 +131,31 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### AI Coding Agents / General Purpose
 
-*   [nomic-ai/gpt4all (⭐77k)](https://github.com/nomic-ai/gpt4all) — Run local LLMs on any device ☆`77,157`
+*   [nomic-ai/gpt4all (⭐77k)](https://github.com/nomic-ai/gpt4all) — Run local LLMs on any device ☆`77,162`
 *   [melih-unsal/DemoGPT (⭐1.9k)](https://github.com/melih-unsal/DemoGPT) — Create LLM agents with tools ☆`1,885`
 
 ### AI Coding Agents / Claude Code
 
 *   [Helmi/claude-simone (⭐545)](https://github.com/Helmi/claude-simone) — Project management for AI dev ☆`547`
-*   [johnlindquist/claude-hooks (⭐303)](https://github.com/johnlindquist/claude-hooks) — TypeScript hook system for Claude Code with type safety ☆`305`
-*   [nyatinte/ccexp (⭐250)](https://github.com/nyatinte/ccexp) — Terminal interface for Claude extensions ☆`250`
+*   [johnlindquist/claude-hooks (⭐303)](https://github.com/johnlindquist/claude-hooks) — TypeScript hook system for Claude Code with type safety ☆`306`
+*   [nyatinte/ccexp (⭐250)](https://github.com/nyatinte/ccexp) — Terminal interface for Claude extensions ☆`249`
 *   [ayoubben18/ab-method (⭐138)](https://github.com/ayoubben18/ab-method) — AI-powered software development ☆`137`
 *   [GowayLee/cchooks (⭐116)](https://github.com/GowayLee/cchooks) — A Python SDK for claude-code hooks ☆`118`
 *   [eckardt/cchistory (⭐101)](https://github.com/eckardt/cchistory) — Like the shell history command but for your Claude Code sessions. ☆`102`
-*   [sculptdotfun/viberank (⭐89)](https://github.com/sculptdotfun/viberank) — claude code leaderboard ☆`90`
+*   [sculptdotfun/viberank (⭐89)](https://github.com/sculptdotfun/viberank) — claude code leaderboard ☆`91`
 
 ### AI Coding Agents / Gemini CLI
 
-*   [Piebald-AI/gemini-cli-desktop (⭐272)](https://github.com/Piebald-AI/gemini-cli-desktop) — Desktop UI for Gemini CLI ☆`278`
+*   [Piebald-AI/gemini-cli-desktop (⭐272)](https://github.com/Piebald-AI/gemini-cli-desktop) — Desktop UI for Gemini CLI ☆`280`
 *   [amitkmaraj/gemini-cli-custom-slash-commands (⭐153)](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) — Custom slash commands for Gemini CLI ☆`156`
 
 ### AI Coding Agents / PR & Review
 
-*   [Yuyz0112/dewhale (⭐1.5k)](https://github.com/Yuyz0112/dewhale) — GitHub-powered AI development ☆`1,547`
+*   [Yuyz0112/dewhale (⭐1.5k)](https://github.com/Yuyz0112/dewhale) — GitHub-powered AI development ☆`1,548`
 
 ### IDE & Editor / Emacs
 
-*   [manzaltu/claude-code-ide.el (⭐1.4k)](https://github.com/manzaltu/claude-code-ide.el) — Claude Code IDE integration for Emacs ☆`1,375`
+*   [manzaltu/claude-code-ide.el (⭐1.4k)](https://github.com/manzaltu/claude-code-ide.el) — Claude Code IDE integration for Emacs ☆`1,379`
 
 ### SDKs & Libraries / PHP & Laravel
 
@@ -173,7 +178,7 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### Generators / Documentation
 
-*   [eli64s/readme-ai (⭐2.9k)](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,871`
+*   [eli64s/readme-ai (⭐2.9k)](https://github.com/eli64s/readme-ai) — README file generator, powered by AI. ☆`2,872`
 
 ### SDKs & Libraries / PHP & Laravel
 
@@ -207,7 +212,7 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### AI Coding Agents / General Purpose
 
-*   [pmusolino/AI-Git-Narrator (⭐116)](https://github.com/pmusolino/AI-Git-Narrator) — AI-generated Git commit messages ☆`116`
+*   [pmusolino/AI-Git-Narrator (⭐116)](https://github.com/pmusolino/AI-Git-Narrator) — AI-generated Git commit messages ☆`117`
 
 ## [Nov 18, 2025](/content/2025/11/18/README.md)
 
@@ -225,7 +230,7 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### AI Coding Agents / Gemini CLI
 
-*   [Theopsguide/gemini-code-flow (⭐139)](https://github.com/Theopsguide/gemini-code-flow) — AI dev orchestration for Gemini CLI ☆`141`
+*   [Theopsguide/gemini-code-flow (⭐139)](https://github.com/Theopsguide/gemini-code-flow) — AI dev orchestration for Gemini CLI ☆`144`
 
 ### IDE & Editor / Extensions
 
@@ -247,7 +252,7 @@ Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. A
 
 ### AI Coding Agents / General Purpose
 
-*   [Strawberry-Computer/vibe-compiler (⭐59)](https://github.com/Strawberry-Computer/vibe-compiler) — RAG for integrating GenAI in apps ☆`59`
+*   [Strawberry-Computer/vibe-compiler (⭐59)](https://github.com/Strawberry-Computer/vibe-compiler) — RAG for integrating GenAI in apps ☆`60`
 
 ## [Nov 01, 2025](/content/2025/11/01/README.md)
 

@@ -8,9 +8,22 @@ A curated list of testing resources
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### Software / API Testing
+
+*   [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
+
 ### Software / Service Virtualization
 
 *   [mockd (⭐2)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+
+### Software / UI & End-to-End Testing
+
+*   [TestDino](https://github.com/TestDinoHQ) - A Playwright‑focused test reporting and analytics platform that centralizes CI runs, classifies failures, and uses AI insights to help teams debug faster and ship more reliable releases.
+
+### Software / Accessibility & Usability Testing
+
+*   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+*   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Blogs / Mind Mapping & Documentation
 

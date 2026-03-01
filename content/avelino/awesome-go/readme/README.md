@@ -205,6 +205,8 @@ Please take a quick gander at the [contribution guidelines (⭐166k)](https://gi
     *   [Websites](#websites)
         *   [Tutorials](#tutorials)
         *   [Guided Learning](#guided-learning)
+    *   [Contribution](#contribution)
+    *   [License](#license)
 
 **[⬆ back to top](#contents)**
 
@@ -267,6 +269,7 @@ Please take a quick gander at the [contribution guidelines (⭐166k)](https://gi
 *   [go-guardian (⭐608)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 *   [go-iam (⭐34)](https://github.com/melvinodsa/go-iam) - Developer-first Identity and Access Management system with a simple UI.
 *   [go-jose (⭐481)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jwt (⭐1)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 *   [go-jwt (⭐17)](https://github.com/pardnchiu/go-jwt) - JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic refresh capabilities.
 *   [goiabada (⭐184)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 *   [gologin (⭐1.9k)](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
@@ -336,6 +339,7 @@ Please take a quick gander at the [contribution guidelines (⭐166k)](https://gi
 *   [telebot (⭐4.6k)](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
 *   [telego (⭐956)](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 *   [telegram-bot-api (⭐6.4k)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
+*   [TG (⭐45)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 *   [wayback (⭐2.1k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 **[⬆ back to top](#contents)**
@@ -623,6 +627,7 @@ additional ordered map implementations.
 
 *   [concurrent-writer (⭐58)](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
 *   [count-min-log (⭐68)](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
+*   [FSM (⭐17)](https://github.com/enetx/fsm) - FSM for Go.
 *   [fsm (⭐89)](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
 *   [genfuncs (⭐51)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 *   [go-generics (⭐85)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
@@ -1656,7 +1661,7 @@ additional ordered map implementations.
 
 *Libraries for Machine Learning.*
 
-*   [bayesian (⭐809)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐810)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [born (⭐44)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 *   [catboost-cgo (⭐24)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
 *   [CloudForest (⭐749)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
@@ -1957,7 +1962,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [porter2 (⭐47)](https://github.com/zhenjl/porter2) - Really fast Porter 2 stemmer.
 *   [RAKE.go (⭐123)](https://github.com/afjoseph/RAKE.Go) - Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE).
 *   [snowball (⭐38)](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
-*   [spaGO (⭐1.8k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+*   [spaGO (⭐1.9k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 *   [spelling-corrector (⭐2)](https://github.com/jorelosorio/spellingcorrector) - A spelling corrector for the Spanish language or create your own.
 
 ### Slugifiers
@@ -2181,6 +2186,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-instrument (⭐288)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 *   [jaeger (⭐22k)](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 *   [mm-go (⭐193)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
+*   [otelinji (⭐26)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
 *   [pixie (⭐6.4k)](https://github.com/pixie-labs/pixie) - No instrumentation tracing for Golang applications via eBPF.
 *   [profile (⭐2.1k)](https://github.com/pkg/profile) - Simple profiling support package for Go.
 *   [statsviz (⭐3.6k)](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
@@ -2614,6 +2620,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Regular Expressions
 
+*   [coregex (⭐125)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 *   [genex (⭐76)](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
 *   [go-wildcard (⭐100)](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
 *   [goregen (⭐92)](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.

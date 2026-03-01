@@ -8,6 +8,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
+### universally from / multiple sources
+
+*   [NebulaPicker (⭐1)](https://github.com/djsilva99/nebulapicker) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/djsilva99/nebulapicker)
+
 ### Toolbox / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Sponder](https://sponder.app/): Build custom RSS processing flows with keyword/regex filtering and feed merging; works with any RSS reader. ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
