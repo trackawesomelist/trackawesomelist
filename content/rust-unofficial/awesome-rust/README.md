@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [moyangzhan/mango-finder (⭐209)](https://github.com/moyangzhan/mango-finder) - Search your files using nature language
 
+### Applications / System tools
+
+*   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+
 ### Applications / Utilities
 
 *   [ruvnet/wifi-densepose (⭐18k)](https://github.com/ruvnet/wifi-densepose) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
@@ -139,11 +143,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [debba/tabularis (⭐192)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+*   [debba/tabularis (⭐342)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
 ### Libraries / Data processing
 
-*   [ironcalc/IronCalc (⭐3.7k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
+*   [ironcalc/IronCalc (⭐3.8k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
 
 ## [Feb 14, 2026](/content/2026/02/14/README.md)
 
@@ -522,7 +526,7 @@ A curated list of Rust code and resources.
 ### Libraries / Data processing
 
 *   [GoPlasmatic/datalogic-rs (⭐56)](https://github.com/GoPlasmatic/datalogic-rs) \[[datalogic-rs](https://crates.io/crates/datalogic-rs)] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.
-*   [pathwaycom/pathway (⭐59k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+*   [pathwaycom/pathway (⭐60k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 
 ### Libraries / Data structures
 
@@ -852,7 +856,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [cocoindex (⭐6.1k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+*   [cocoindex (⭐6.3k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
 ## [Mar 07, 2025](/content/2025/03/07/README.md)
 

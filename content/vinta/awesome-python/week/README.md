@@ -6,6 +6,25 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ [Daily](/content/vinta/awesome-python/README.md) / Weekly / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Code Analysis
+
+*   Code Analysis
+    *   [code-graph-rag (⭐2k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
+    *   [code2flow (⭐4.5k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
+    *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
+    *   [vulture (⭐4.3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
+
+### Specific Formats Processing
+
+*   PDF
+    *   [pdf\_oxide (⭐95)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
+    *   [pdfminer.six (⭐6.9k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
+    *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
+    *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Data Analysis
@@ -50,7 +69,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Science
 
-*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+*   [PathSim (⭐272)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 
 ### Specific Formats Processing
 
@@ -241,7 +260,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Data Analysis
 
-*   [pathway (⭐59k)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+*   [pathway (⭐60k)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
 *   [polars (⭐38k)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
 
 ### Data Visualization
@@ -307,7 +326,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Data Analysis
 
-*   [desbordante (⭐465)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+*   [desbordante (⭐466)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 
 ### GUI Development
 
@@ -329,21 +348,11 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [stable-baselines3 (⭐13k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
-## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
-
-### Specific Formats Processing
-
-*   PDF
-    *   [pdfminer.six (⭐6.9k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
-    *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
-    *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
-    *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
-
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
 ### Admin Panels
 
-*   [streamlit (⭐43k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+*   [streamlit (⭐44k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -384,10 +393,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Code Analysis
 
-*   Code Analysis
-    *   [code2flow (⭐4.5k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
-    *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
-    *   [vulture (⭐4.3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 *   Code Linters
     *   [flake8 (⭐3.8k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.3k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
@@ -665,7 +670,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Machine Learning
 
-*   [MindsDB (⭐38k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+*   [MindsDB (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -1121,7 +1126,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Deep Learning
 
 *   [keras (⭐64k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
-*   [pytorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
@@ -1333,7 +1338,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Built-in Classes Enhancement
 
 *   [attrs (⭐5.7k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.6k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
+*   [bidict (⭐1.6k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 
 ### Database Drivers
 

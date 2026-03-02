@@ -125,7 +125,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 *   [func-to-web (⭐377)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
 *   [jet-bridge (⭐1.8k)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
-*   [streamlit (⭐43k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+*   [streamlit (⭐44k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
 *   [wooey (⭐2.2k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ## Algorithms and Design Patterns
@@ -214,7 +214,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *Libraries for enhancing Python built-in classes.*
 
 *   [attrs (⭐5.7k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.6k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
+*   [bidict (⭐1.6k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 *   [box (⭐2.8k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 *   [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Data classes.
 *   [dotteddict (⭐222)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
@@ -244,6 +244,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis (⭐14k)](https://github.com/mre/awesome-static-analysis).*
 
 *   Code Analysis
+    *   [code-graph-rag (⭐2k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
     *   [code2flow (⭐4.5k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
     *   [vulture (⭐4.3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
@@ -340,11 +341,11 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 
 *   [aws-sdk-pandas (⭐4.1k)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 *   [datasette (⭐11k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
-*   [desbordante (⭐465)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+*   [desbordante (⭐466)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 *   [docling (⭐54k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
 *   [optimus (⭐1.5k)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
 *   [pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
-*   [pathway (⭐59k)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+*   [pathway (⭐60k)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
 *   [polars (⭐38k)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
 
 ## Data Validation
@@ -446,7 +447,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [jax (⭐35k)](https://github.com/google/jax) - a library for high-performance numerical computing with automatic differentiation and JIT compilation.
 *   [keras (⭐64k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [pytorch-lightning (⭐31k)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
-*   [pytorch (⭐97k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [stable-baselines3 (⭐13k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 *   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 *   [vllm (⭐71k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
@@ -749,7 +750,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [LangChain (⭐127k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 *   [LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
 *   [Metrics (⭐1.7k)](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
-*   [MindsDB (⭐38k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+*   [MindsDB (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [PraisonAI (⭐5.6k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
 *   [pydantic-ai (⭐15k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
 *   [RAGFlow (⭐74k)](https://github.com/infiniflow/ragflow) - An open-source RAG engine for document understanding and question answering with LLMs.
@@ -942,7 +943,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 *   [ObsPy (⭐1.3k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [Open Babel](https://open-babel.readthedocs.io/) - A chemical toolbox designed to speak the many languages of chemical data.
-*   [PathSim (⭐260)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+*   [PathSim (⭐272)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [PyMC (⭐9.5k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 *   [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
@@ -1003,6 +1004,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
     *   [XlsxWriter (⭐3.9k)](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
     *   [xlwings (⭐6)](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
 *   PDF
+    *   [pdf\_oxide (⭐95)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
     *   [pdfminer.six (⭐6.9k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
     *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
     *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.

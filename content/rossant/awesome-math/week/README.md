@@ -2,9 +2,15 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 13K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 14K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Youtube Series
+
+*   [Numberphile](https://www.youtube.com/@numberphile)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -26,8 +32,8 @@ A curated list of awesome mathematics resources
 
 ### Tools
 
-*   [MathFlow (⭐52)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
-*   [RunMat (⭐171)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+*   [MathFlow (⭐50)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+*   [RunMat (⭐188)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 
 ### Books
 
@@ -282,7 +288,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐382k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐383k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 

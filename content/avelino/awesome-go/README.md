@@ -8,13 +8,25 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
+### Audio and Music
+
+*   [music-theory (⭐452)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
+
 ### Miscellaneous Data Structures and Algorithms
 
 *   [combo (⭐2)](https://github.com/bobg/combo) - Combinatorial operations including permutations, combinations, and combinations-with-replacement.
 
+### Uncategorized
+
+*   [goffi (⭐22)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
+
 ### Utilities
 
 *   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+
+### Windows / Libraries for creating HTTP middlewares
+
+*   [windowsupdate (⭐14)](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 

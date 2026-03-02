@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 02, 2026](/content/2026/03/02/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [cDox](https://cdox.ca) — Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
+
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
 ### Security and PKI

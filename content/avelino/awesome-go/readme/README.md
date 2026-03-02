@@ -240,7 +240,7 @@ Please take a quick gander at the [contribution guidelines (⭐166k)](https://gi
 
 ## Audio and Music
 
-*Libraries for manipulating audio.*
+*Libraries for manipulating audio and music.*
 
 *   [beep (⭐517)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 *   [flac (⭐350)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
@@ -251,6 +251,7 @@ Please take a quick gander at the [contribution guidelines (⭐166k)](https://gi
 *   [id3v2 (⭐360)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 *   [malgo (⭐387)](https://github.com/gen2brain/malgo) - Mini audio library.
 *   [minimp3 (⭐133)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
+*   [music-theory (⭐452)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 *   [Oto (⭐1.9k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐827)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
@@ -1897,6 +1898,7 @@ additional ordered map implementations.
 *   [go-resiliency (⭐2.3k)](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 *   [go-unarr (⭐305)](https://github.com/gen2brain/go-unarr) - Decompression library for RAR, TAR, ZIP and 7z archives.
 *   [gofakeit (⭐5.3k)](https://github.com/brianvoe/gofakeit) - Random data generator written in go.
+*   [goffi (⭐22)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
 *   [gommit (⭐115)](https://github.com/antham/gommit) - Analyze git commit messages to ensure they follow defined patterns.
 *   [gopsutil (⭐12k)](https://github.com/shirou/gopsutil) - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
 *   [gosh (⭐36)](https://github.com/osamingo/gosh) - Provide Go Statistics Handler, Struct, Measure Method.
@@ -3171,6 +3173,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [d3d9 (⭐163)](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
 *   [go-ole (⭐1.3k)](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 *   [gosddl (⭐11)](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
+*   [windowsupdate (⭐14)](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
 
 **[⬆ back to top](#contents)**
 

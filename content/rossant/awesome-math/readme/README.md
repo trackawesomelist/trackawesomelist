@@ -2,7 +2,7 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 13K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 14K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / [Weekly](/content/rossant/awesome-math/week/README.md) / Overview ]
 
@@ -111,6 +111,7 @@ All resources are freely available except those with a 💲 icon.
 *   [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 *   [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 *   [NPTEL](https://www.youtube.com/@iit)
+*   [Numberphile](https://www.youtube.com/@numberphile)
 *   [PatrickJMT](https://www.youtube.com/@patrickjmt)
 *   [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
     *   [Precalculus - College Algebra/Trigonometry](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
@@ -136,7 +137,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Maxima](https://maxima.sourceforge.io/)
 *   [Sympy](https://www.sympy.org/)
 *   [Sagemath](http://www.sagemath.org/)
-*   [MathFlow (⭐52)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+*   [MathFlow (⭐50)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
 *   [Unit Converter](https://unitconverters.net)
 *   [GeoGebra](https://www.geogebra.org/?lang=en)
 *   [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
@@ -154,7 +155,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Midpoint Calculator](https://midpointcalculator.co)
 *   [Quartiles Calculator](https://quartilecalculator.net)
 *   [Corca Editor](https://corca.io/)
-*   [RunMat (⭐171)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+*   [RunMat (⭐188)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 *   [Structural Engineering Tools (SEPCO Engineering) (⭐0)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
 
 ## Questions and Answers
@@ -180,7 +181,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐382k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐383k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 *   [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 *   [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
