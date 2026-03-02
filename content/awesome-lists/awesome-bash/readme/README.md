@@ -12,7 +12,7 @@ A curated list of delightful Bash scripts and resources.
 
 > A curated list of delightful Bash scripts and resources.
 
-In addition to this list, you should read the list [awesome-shell (⭐36k)](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh (⭐17k)](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish (⭐4.8k)](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome (⭐437k)](https://github.com/sindresorhus/awesome).
+In addition to this list, you should read the list [awesome-shell (⭐37k)](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh (⭐17k)](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish (⭐4.8k)](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome (⭐437k)](https://github.com/sindresorhus/awesome).
 
 ## Contents <!-- omit in toc -->
 
@@ -53,7 +53,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 *   [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 *   [Pure Bash Bible (⭐41k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 *   [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
-*   [Safe ways to do things in bash (⭐4.7k)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
+*   [Safe ways to do things in bash (⭐4.8k)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
 
 ## Command-Line Productivity
 
@@ -63,11 +63,11 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 *   [bashhub-server (⭐318)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 *   [bashhub (⭐1.3k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 *   [bashmarks (⭐2k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
-*   [bashmount (⭐269)](https://github.com/jamielinux/bashmount) - Easily manage removable media.
+*   [bashmount (⭐274)](https://github.com/jamielinux/bashmount) - Easily manage removable media.
 *   [ble.sh (⭐4k)](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 *   [commacd (⭐370)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
 *   [forkrun (⭐180)](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
-*   [has (⭐799)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [has (⭐802)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 *   [hstr (⭐4.5k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 *   [sshrc (⭐505)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 *   [utility-bash-scripts (⭐470)](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
@@ -77,7 +77,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 
 *Custom prompts, color themes, etc.*
 
-*   [aphrodite-terminal-theme (⭐171)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
+*   [aphrodite-terminal-theme (⭐172)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
 *   [bash-powerline (⭐906)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up macOS terminal.
@@ -97,7 +97,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 
 *   [bocker (⭐13k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 *   [git-sh (⭐744)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
-*   [mkdkr (⭐380)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐381)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## Downloading and Serving
 
@@ -153,7 +153,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 *   [argbash (⭐1.5k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 *   [assert.sh (⭐493)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 *   [async-bash (⭐144)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
-*   [bats (⭐5.8k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bats (⭐5.9k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [bash3boilerplate (⭐2.2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
 *   [bashful (⭐618)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
 *   [bashify (⭐105)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
@@ -170,7 +170,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 *   [mo (⭐598)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 *   [semver\_bash (⭐268)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 *   [shellcheck (⭐39k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.
-*   [shellharden (⭐4.7k)](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
+*   [shellharden (⭐4.8k)](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
 *   [shfmt (⭐8.5k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.7k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 *   [DevOps-Bash-tools (⭐8.1k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
@@ -180,6 +180,7 @@ In addition to this list, you should read the list [awesome-shell (⭐36k)](http
 
 ## Just for fun
 
+*   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 *   [pokeget (⭐50)](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal.
 
 ## Community

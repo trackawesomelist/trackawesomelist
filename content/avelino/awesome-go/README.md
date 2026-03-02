@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 02, 2026](/content/2026/03/02/README.md)
+
+### Miscellaneous Data Structures and Algorithms
+
+*   [combo (⭐2)](https://github.com/bobg/combo) - Combinatorial operations including permutations, combinations, and combinations-with-replacement.
+
+### Utilities
+
+*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+
+### Go Tools / Libraries for creating HTTP middlewares
+
+*   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
+
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
 ### Artificial Intelligence

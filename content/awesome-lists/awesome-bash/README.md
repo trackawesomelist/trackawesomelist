@@ -6,6 +6,12 @@ A curated list of delightful Bash scripts and resources.
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Mar 02, 2026](/content/2026/03/02/README.md)
+
+### Just for fun
+
+*   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
+
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### Downloading and Serving
@@ -16,7 +22,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### Command-Line Productivity
 
-*   [bashmount (⭐269)](https://github.com/jamielinux/bashmount) - Easily manage removable media.
+*   [bashmount (⭐274)](https://github.com/jamielinux/bashmount) - Easily manage removable media.
 
 ## [Jul 26, 2025](/content/2025/07/26/README.md)
 
@@ -66,11 +72,11 @@ A curated list of delightful Bash scripts and resources.
 
 ### Books and Resources
 
-*   [Safe ways to do things in bash (⭐4.7k)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
+*   [Safe ways to do things in bash (⭐4.8k)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
 
 ### Shell Script Development
 
-*   [shellharden (⭐4.7k)](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
+*   [shellharden (⭐4.8k)](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
 
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
@@ -100,7 +106,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### Shell Script Development
 
-*   [bats (⭐5.8k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bats (⭐5.9k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [bunit (⭐202)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
 *   [modernish (⭐934)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
@@ -129,7 +135,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### Customization
 
-*   [aphrodite-terminal-theme (⭐171)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
+*   [aphrodite-terminal-theme (⭐172)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
 
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 
@@ -196,7 +202,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### For Developers
 
-*   [mkdkr (⭐380)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐381)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
@@ -245,7 +251,7 @@ A curated list of delightful Bash scripts and resources.
 *   [bashhub (⭐1.3k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 *   [bashmarks (⭐2k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
 *   [commacd (⭐370)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-*   [has (⭐799)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [has (⭐802)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 *   [hstr (⭐4.5k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 
 ### Customization

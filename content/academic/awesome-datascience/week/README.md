@@ -6,6 +6,13 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
+*   [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Deep Learning Packages / Visualization Tools
@@ -1190,15 +1197,15 @@
 *   [scikit-multilearn (⭐954)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐422)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐702)](https://github.com/larsmans/seqlearn)
+*   [scikit-rebate (⭐420)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐703)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐522)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐433)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐770)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
-*   [scikit-image (⭐6.4k)](https://github.com/scikit-image/scikit-image)
+*   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.4k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐380)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐381)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.1k)](https://github.com/rapidsai/cuml)
@@ -1209,7 +1216,7 @@
 *   [hyperlearn (⭐2.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
 *   [RuleFit (⭐440)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐947)](https://github.com/dswah/pyGAM)
+*   [pyGAM (⭐960)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1247,7 +1254,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐491)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐577)](https://github.com/google/qkeras)
+*   [qkeras (⭐578)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
