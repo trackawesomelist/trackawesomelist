@@ -6,6 +6,16 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Communication
+
+*   [Stoat](https://stoat.chat/) - Chat platform built with modern web tech. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/revoltchat)
+
+### IDEs
+
+*   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Productivity
@@ -106,7 +116,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Virtualization
 
-*   [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - The leading local virtualization platform for building, testing and demoing software using virtual machines. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - The leading local virtualization platform for building, testing and demoing software using virtual machines.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
@@ -190,7 +200,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Screen Capture
 
-*   [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/obsproject/obs-studio)
+*   [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/obsproject/obs-studio) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### System Utilities
 
@@ -224,7 +234,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### API Development
 
-*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak)
 
 ### File Management
 
@@ -262,7 +272,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [STranslate (⭐5.6k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [STranslate (⭐5.6k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
@@ -278,18 +288,18 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### IDEs
 
-*   [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zed-industries/zed)
+*   [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zed-industries/zed) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Remote Access
 
 *   [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
-*   [Moonlight (⭐16k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/moonlight-stream/moonlight-qt)
-*   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency.
+*   [Moonlight (⭐16k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/moonlight-stream/moonlight-qt) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
 *   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
 *   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
 *   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
-*   [Sunshine (⭐35k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine)
+*   [Sunshine (⭐35k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
 
 ### Screenshot
@@ -350,15 +360,15 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### IDEs
 
-*   [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing.
 *   [PearAI](https://trypear.ai/) - Open source AI code editor with curated integrations of multiple AI tools. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/peardocs/pearai) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [Windsurf](https://codeium.com/windsurf) - Agentic IDE with AI flows, multi-file editing and deep contextual awareness.
 
 ### Password Managers
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
-*   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager.
-*   [Vaultwarden (⭐55k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Vaultwarden (⭐55k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
 
 ### Terminal
 
@@ -449,13 +459,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### API Development
 
-*   [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/usebruno/bruno)
+*   [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/usebruno/bruno) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Communication
 
 *   [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/meetfranz/franz)
 *   [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/matrix-org)
-*   [Revolt](https://revolt.chat/) - Chat platform built with modern web tech. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/revoltchat)
 *   [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/element-hq/element-web)
 *   [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://telegram.org/apps)
 *   [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/threema-ch) ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
@@ -465,10 +474,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Productivity
 
 *   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/0pandadev/timelens)
-
-### Terminal
-
-*   [Hyper](https://hyper.is) - Terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vercel/hyper) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -550,7 +555,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Screenshot
 
-*   [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ShareX/ShareX)
+*   [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ShareX/ShareX) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Security
 
@@ -742,9 +747,9 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [Aseprite](https://www.aseprite.org/) - Professional pixel art and animation tool. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/aseprite/aseprite)
 *   [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization.
 *   [Blender](https://www.blender.org/) - Professional 3D creation suite. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://developer.blender.org/)
-*   [Figma](https://www.figma.com/) - Collaborative interface design tool.
+*   [Figma](https://www.figma.com/) - Collaborative interface design tool. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://krita.org/en/download/krita-desktop/)
-*   [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources.
 *   [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
 
 ### Local AI
@@ -764,7 +769,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Office Suites
 
 *   [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
-*   [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://www.libreoffice.org/about-us/source-code/)
+*   [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://www.libreoffice.org/about-us/source-code/) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
 *   [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
 *   [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ONLYOFFICE/DesktopEditors)
@@ -773,7 +778,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Password Managers
 
-*   [Bitwarden](https://bitwarden.com/) - Open-source password manager with encrypted vault. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bitwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Bitwarden](https://bitwarden.com/) - Open-source password manager with encrypted vault. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bitwarden)
 *   [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/padloc/padloc)
 
 ### Productivity

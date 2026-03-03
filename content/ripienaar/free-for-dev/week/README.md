@@ -12,6 +12,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [cDox](https://cdox.ca) — Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
 
+### Monitoring
+
+*   [FlareWarden](https://flarewarden.com) - Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
+
+### Generative AI
+
+*   [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 \[schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
+
+### Miscellaneous
+
+*   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Security and PKI

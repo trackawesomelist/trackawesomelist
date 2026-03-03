@@ -8,6 +8,10 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### Agent Skills 🤖 / General
+
+*   [Claude Scientific Skills (⭐11k)](https://github.com/K-Dense-AI/claude-scientific-skills) by [K-Dense](https://github.com/K-Dense-AI/) - "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
+
 ### Hooks 🪝 / General
 
 *   [parry (⭐3)](https://github.com/vaporif/parry) by [Dmytro Onypko](https://github.com/vaporif) - Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs for injection attacks, secrets, and data exfiltration attempts. \[NOTE: Early development phase but worth a look.].

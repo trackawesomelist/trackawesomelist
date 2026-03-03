@@ -38,7 +38,8 @@
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-zh.md)
+[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-zh.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/./README-ja.md)
 [![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/./README-ko.md)
 
 <!--rehype:style=text-align: center;-->
@@ -47,11 +48,11 @@ This project is now very large, and is very different from the original idea.
 Here, we collect awesome macOS software and arrange them into various categories.
 Feel free to **star** and **fork**.
 
-Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐99k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐99k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list.
 
 **Explanation**
 
-[English](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README.md) | [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-zh.md) | [한국어](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-ko.md) | [Awesome Command Line Apps](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/./command-line-apps.md)
+[English](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README.md) | [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-zh.md) | [한국어](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-ko.md) | [日本語](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-ja.md) | [Awesome Command Line Apps](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/./command-line-apps.md)
 
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
@@ -268,7 +269,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 *   [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
 *   [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
-*   [Stik (⭐107)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
+*   [Stik (⭐140)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 *   [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 *   [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 *   [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
@@ -1297,6 +1298,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 *   [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 *   [Assignee](https://assignee.app) - Simple, instant app switcher. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215\&ct=awesome-mac\&mt=8\&platform=mac)
+*   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 *   [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
 *   [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 *   [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)

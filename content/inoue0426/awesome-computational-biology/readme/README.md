@@ -2,7 +2,7 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 113 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 120 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / Overview ]
 
@@ -16,33 +16,53 @@ A curated collection of databases, software, and papers related to computational
 
 ***
 
+## Interface
+
+Browse and search the resources via the GitHub Pages UI: <https://inoue0426.github.io/awesome-computational-biology/>
+
+***
+
 ## Table of Contents
 
-*   [Databases](#databases)
-    *   [scRNA](#scrna)
-    *   [Compound](#compound)
-    *   [Pathway](#pathway)
-    *   [Mass Spectra](#mass-spectra)
-    *   [Protein](#protein)
-    *   [Genome](#genome)
-    *   [Disease](#disease)
-    *   [Interaction](#interaction)
-        *   [Drug-Gene Interaction](#drug-gene-interaction)
-        *   [Drug (Cell Line) Response](#drug-cell-line-response)
-        *   [Chemical-Protein Interaction](#chemical-protein-interaction)
-        *   [Protein-Protein Interaction](#protein-protein-interaction)
-        *   [Knowledge Graph](#knowledge-graph)
-    *   [Clinical Trial](#clinical-trial)
-*   [API](#api)
-*   [Preprocessing Tools](#preprocessing-tools)
-*   [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
-    *   [Drug Response Prediction](#drug-response-prediction)
-    *   [Drug Repurposing](#drug-repurposing)
-    *   [Drug Target Interaction](#drug-target-interaction)
-    *   [Compound-Protein Interaction](#compound-protein-interaction)
-    *   [Pre-trained Embedding](#pre-trained-embedding)
-    *   [LLM for Biology](#llm-for-biology)
-    *   [Foundation Models](#foundation-models)
+*   [Awesome Computational Biology](#awesome-computational-biology-)
+    *   [Table of Contents](#table-of-contents)
+    *   [Databases](#databases)
+        *   [scRNA](#scrna)
+        *   [Compound](#compound)
+        *   [Pathway](#pathway)
+        *   [Mass Spectra](#mass-spectra)
+        *   [Protein](#protein)
+        *   [Genome](#genome)
+        *   [Disease](#disease)
+        *   [Interaction](#interaction)
+            *   [Drug-Gene Interaction](#drug-gene-interaction)
+            *   [Drug (Cell Line) Response](#drug-cell-line-response)
+            *   [Chemical-Protein Interaction](#chemical-protein-interaction)
+            *   [Protein-Protein Interaction](#protein-protein-interaction)
+            *   [Knowledge Graph](#knowledge-graph)
+        *   [Clinical Trial](#clinical-trial)
+    *   [Benchmarks & Datasets](#benchmarks--datasets)
+    *   [API](#api)
+    *   [Preprocessing Tools](#preprocessing-tools)
+    *   [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
+        *   [Drug Discovery](#drug-discovery)
+            *   [Drug Response Prediction](#drug-response-prediction)
+            *   [Drug Repurposing](#drug-repurposing)
+            *   [Drug Target Interaction](#drug-target-interaction)
+            *   [Compound-Protein Interaction](#compound-protein-interaction)
+            *   [Molecular Generation](#molecular-generation)
+        *   [LLM for Biology](#llm-for-biology)
+        *   [Foundation Models](#foundation-models)
+            *   [Single-cell Foundation Models](#single-cell-foundation-models)
+                *   [Transcriptomics Foundation Models](#transcriptomics-foundation-models)
+                *   [Spatial Foundation Models](#spatial-foundation-models)
+                *   [Multi-Omics Foundation Models](#multi-omics-foundation-models)
+                *   [Domain Alignment](#domain-alignment)
+            *   [Protein Foundation Models](#protein-foundation-models)
+                *   [Pre-trained Embedding](#pre-trained-embedding)
+                *   [Protein Structure Prediction and Design](#protein-structure-prediction-and-design)
+            *   [Multi-Modal Foundation Models](#multi-modal-foundation-models)
+            *   [Genomics Foundation Models](#genomics-foundation-models)
 
 ***
 
@@ -50,7 +70,9 @@ A curated collection of databases, software, and papers related to computational
 
 ### scRNA
 
+*   [CZ CELLxGENE](https://cellxgene.cziscience.com/) — Single-cell dataset repository and interactive explorer from the Chan Zuckerberg Initiative.
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) — Public functional genomics database.
+*   [Human Cell Atlas](https://www.humancellatlas.org/) — Open global atlas of all cells in the human body.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) — Public database for single-cell RNA.
 *   [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) — Public database for single-cell RNA.
 
@@ -60,13 +82,14 @@ A curated collection of databases, software, and papers related to computational
 *   [ChEBI](https://www.ebi.ac.uk/chebi/) — Database focused on small chemical compounds.
 *   [ChEMBL](https://www.ebi.ac.uk/chembl/) — Bioactive molecules with drug-like properties.
 *   [ChemSpider](http://www.chemspider.com/) — Chemical structure database.
+*   [HMDB (Human Metabolome Database)](https://hmdb.ca/) — Comprehensive database of small molecule metabolites found in the human body.
 *   [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 *   [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
 *   [Rhea](https://www.rhea-db.org/) — Database of chemical reactions.
+*   [DrugCentral](http://drugcentral.org/) — Online drug compendium with drug mode of action and indication information.
 *   [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) — Collections of drug repurposing data (drug, MoA, target, etc).
 *   [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) — Drug-target, target-disease, and drug-disease datasets.
 *   [ZINC ligand discovery database](https://zinc.docking.org/) — Free database of commercially-available compounds for virtual screening.
-*   [MoleculeNet](http://moleculenet.ai/) — Benchmark datasets for molecular machine learning.
 
 ### Pathway
 
@@ -93,9 +116,13 @@ A curated collection of databases, software, and papers related to computational
 *   [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 *   [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
 *   [CATH database](https://www.cathdb.info/) — Hierarchical classification of protein domain structures.
+*   [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab) — Structural Antibody Database containing all antibody structures in the PDB.
+*   [OADB (Observed Antibody Space Database)](http://opig.stats.ox.ac.uk/webapps/oas/) — Database of antibody sequences from immune repertoire sequencing.
 
 ### Genome
 
+*   [ENCODE](https://www.encodeproject.org/) — Encyclopedia of DNA Elements; regulatory and functional genomic elements across the genome.
+*   [Ensembl](https://www.ensembl.org/) — Genome browser and annotation database for vertebrate and other eukaryotic genomes.
 *   [Human Genome Resources at NCBI](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) — Database for genomics, proteomics, transcriptomics, and systems biology.
 *   [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) — NCBI's database of genetic sequences.
 *   [UCSC Genome Browser](https://genome.ucsc.edu/) — UCSC's genome browser.
@@ -106,11 +133,15 @@ A curated collection of databases, software, and papers related to computational
 *   [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) — Resource on somatic mutations in cancers.
 *   [MGnify](https://www.ebi.ac.uk/metagenomics/) — Resource for metagenomic and metatranscriptomic data.
 *   [JASPAR](http://jaspar.genereg.net/) — Database of transcription factor binding profiles.
+*   [gnomAD](https://gnomad.broadinstitute.org/) — Genome Aggregation Database; genetic variation from large-scale sequencing projects.
+*   [Rfam](https://rfam.org/) — Database of RNA families with sequence alignments and consensus structures.
 
 ### Disease
 
 *   [KEGG DRUG](https://www.genome.jp/kegg/drug/) — Comprehensive, approved drug information.
 *   [DrugBank](https://go.drugbank.com/) — Database of drugs and targets (University of Alberta).
+*   [DisGeNET](https://www.disgenet.org/) — Database of gene-disease associations integrating expert-curated and GWAS data.
+*   [OMIM (Online Mendelian Inheritance in Man)](https://www.omim.org/) — Comprehensive database of human genes and genetic disorders.
 
 ### Interaction
 
@@ -119,7 +150,6 @@ A curated collection of databases, software, and papers related to computational
 *   [DGIdb](https://www.dgidb.org/) — Drug-gene interactions and the druggable genome.
 *   [Comparative Toxicogenomics Database](http://ctdbase.org/) — Chemical-gene interactions, chemical-disease and gene-disease associations, chemical-phenotype associations.
 *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html) — Dataset of drug-gene interactions.
-*   [Therapeutics Data Commons](https://tdcommons.ai/) — Datasets for drug-target, response, drug-drug interaction, etc.
 
 #### Drug (Cell Line) Response
 
@@ -133,21 +163,20 @@ A curated collection of databases, software, and papers related to computational
 *   [STITCH](http://stitch.embl.de/) — Chemical-protein interactions.
 *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) — Compounds and target database.
 *   [PDBBind](https://www.pdbbind-plus.org.cn/) — Binding affinity data for biomolecular complexes.
-*   [CrossDocked2020](https://arxiv.org/abs/2001.01037) — Large-scale dataset for structure-based virtual screening.
 
 #### Protein-Protein Interaction
 
 *   [STRING](https://string-db.org/) — PPI networks for multiple organisms.
 *   [BioGRID](https://thebiogrid.org/) — Protein, genetic, and chemical interactions.
 *   [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) — Human protein-protein interaction database.
+*   [IntAct](https://www.ebi.ac.uk/intact/home) — Open-source molecular interaction database and analysis system from EMBL-EBI.
 
 #### Knowledge Graph
 
-*   [Drug Mechanism Database (DrugMechDB) (⭐67)](https://github.com/SuLab/DrugMechDB/tree/2.0.1) — Mechanisms of action from drug to disease.
-*   [DRKG (⭐670)](https://github.com/gnn4dr/DRKG) — Large-scale biological knowledge graph for drug discovery.
-*   [Hetionet (⭐340)](https://github.com/hetio/hetionet) — Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
-*   [OpenBioLink (⭐157)](https://github.com/OpenBioLink/OpenBioLink) — Benchmark datasets for biological knowledge graph completion.
-*   [PrimeKG (⭐697)](https://github.com/mims-harvard/PrimeKG) — Multi-modal precision medicine knowledge graph integrating clinical, genetic, and drug data.
+*   [Drug Mechanism Database (DrugMechDB) (⭐69)](https://github.com/SuLab/DrugMechDB/tree/2.0.1) — Mechanisms of action from drug to disease.
+*   [DRKG (⭐671)](https://github.com/gnn4dr/DRKG) — Large-scale biological knowledge graph for drug discovery.
+*   [Hetionet (⭐343)](https://github.com/hetio/hetionet) — Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
+*   [PrimeKG (⭐706)](https://github.com/mims-harvard/PrimeKG) — Multi-modal precision medicine knowledge graph integrating clinical, genetic, and drug data.
 
 ### Clinical Trial
 
@@ -155,6 +184,21 @@ A curated collection of databases, software, and papers related to computational
 *   [ICD10](https://icd.who.int/browse10/2019/en) — International Classification of Diseases, 10th revision.
 *   [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) — European clinical trial database.
 *   [MIMIC-IV](https://mimic.mit.edu/) — Freely accessible critical care database.
+
+***
+
+## Benchmarks & Datasets
+
+*   [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) — Curated binding affinity datasets for protein–ligand interaction benchmarking.
+*   [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across \~900 cancer cell lines for >400 compounds.
+*   [CrossDocked2020](https://arxiv.org/abs/2001.01037) — Large-scale dataset for structure-based virtual screening.
+*   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for \~1000 human cancer cell lines and hundreds of compounds.
+*   [GuacaMol (⭐500)](https://github.com/BenevolentAI/guacamol) — Benchmark suite for generative molecular design models.
+*   [MoleculeNet](http://moleculenet.ai/) — Benchmark datasets for molecular machine learning.
+*   [MOSES (⭐957)](https://github.com/molecularsets/moses) — Benchmarking platform for molecular generation models.
+*   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Drug sensitivity benchmark across 60 diverse human cancer cell lines.
+*   [OpenBioLink (⭐158)](https://github.com/OpenBioLink/OpenBioLink) — Benchmark datasets for biological knowledge graph completion.
+*   [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) — Unified benchmark suite covering ADMET, drug-target interaction, drug response, and more.
 
 ***
 
@@ -173,19 +217,28 @@ A curated collection of databases, software, and papers related to computational
 
 ## Preprocessing Tools
 
-*   [Chemistry Development Kit (⭐568)](https://github.com/cdk/cdk) — Cheminformatics software & machine learning tools.
-*   [FlashDeconv (⭐10)](https://github.com/cafferychen777/flashdeconv) — High-performance spatial transcriptomics deconvolution (\~1M spots in \~3 min).
+*   [Chemistry Development Kit (⭐571)](https://github.com/cdk/cdk) — Cheminformatics software & machine learning tools.
+*   [Biopython](https://biopython.org/) — Collection of Python tools for biological computation including sequence analysis, structure parsing, and database access.
+*   [FlashDeconv (⭐13)](https://github.com/cafferychen777/flashdeconv) — High-performance spatial transcriptomics deconvolution (\~1M spots in \~3 min).
 *   [RDKit (⭐3.3k)](https://github.com/rdkit/rdkit) — Cheminformatics software & machine learning toolkit.
-*   [ChatSpatial (⭐11)](https://github.com/cafferychen777/ChatSpatial) — MCP server for spatial transcriptomics analysis via natural language.
+*   [DeepChem (⭐6.6k)](https://github.com/deepchem/deepchem) — Deep learning library for drug discovery, quantum chemistry, and materials science.
+*   [ChatSpatial (⭐18)](https://github.com/cafferychen777/ChatSpatial) — MCP server for spatial transcriptomics analysis via natural language.
 *   [Scanpy](https://scanpy.readthedocs.io/en/stable/) — Python library for scRNA-seq analysis.
 *   [Seurat](https://satijalab.org/seurat/) — R library for scRNA-seq analysis.
+*   [scvi-tools](https://scvi-tools.org/) — Probabilistic models for single-cell omics data analysis.
+*   [CellTypist (⭐457)](https://github.com/Teichlab/celltypist) — Automated cell type annotation for scRNA-seq.
 *   [Squidpy](https://squidpy.readthedocs.io/) — Python library for spatial single-cell analysis.
+*   [GROMACS](https://www.gromacs.org/) — Molecular dynamics simulation package for biochemical molecules.
+*   [MDAnalysis](https://www.mdanalysis.org/) — Python library for analyzing and altering molecular dynamics simulation trajectories.
+*   [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 
 ***
 
 ## Machine Learning Tasks and Models
 
-### Drug Response Prediction
+### Drug Discovery
+
+#### Drug Response Prediction
 
 *   [drGAT (⭐1)](https://github.com/inoue0426/drGAT) — Attention-based model for drug response prediction with gene explainability.
 *   [MOFGCN (⭐6)](https://github.com/weiba/MOFGCN/tree/main) — GCN + heterogeneous network.
@@ -193,42 +246,114 @@ A curated collection of databases, software, and papers related to computational
 *   [DGDRP (⭐0)](https://github.com/minwoopak/heteronet) — Multi-view embedding neural network.
 *   [DeepAEG (⭐3)](https://github.com/zhejiangzhuque/DeepAEG) — GNN embedding + attention mechanism.
 
-### Drug Repurposing
+#### Drug Repurposing
 
 *   [DeepPurpose (⭐1.1k)](https://github.com/kexinhuang12345/DeepPurpose) — Deep learning library for drug repurposing.
 
-### Drug Target Interaction
+#### Drug Target Interaction
 
 *   [NeoDTI (⭐77)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
 *   [DTINet (⭐185)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
-*   [DeepDTA (⭐291)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
-*   [GraphDTA (⭐292)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
-*   [MolTrans (⭐224)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.
-*   [DrugBAN (⭐140)](https://github.com/peizhenbai/DrugBAN) — Bilinear attention network for interpretable DTI prediction.
+*   [DeepDTA (⭐293)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
+*   [GraphDTA (⭐293)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
+*   [MolTrans (⭐225)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.
+*   [DrugBAN (⭐138)](https://github.com/peizhenbai/DrugBAN) — Bilinear attention network for interpretable DTI prediction.
 
-### Compound-Protein Interaction
+#### Compound-Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) — Drug discovery via compound-protein interaction and machine learning.
-*   [TransformerCPI (⭐152)](https://github.com/lifanchen-simm/transformerCPI) — CPI prediction using Transformer.
+*   [TransformerCPI (⭐153)](https://github.com/lifanchen-simm/transformerCPI) — CPI prediction using Transformer.
 
-### Pre-trained Embedding
+#### Molecular Generation
 
-*   [Evolutionary Scale Modeling (ESM) (⭐4k)](https://github.com/facebookresearch/esm) — Protein embeddings.
-*   [ChemBERTa-2 (⭐486)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
+*   [REINVENT (⭐370)](https://github.com/MolecularAI/Reinvent) — Reinforcement learning for de novo drug design.
+*   [MolGPT (⭐169)](https://github.com/devalab/molgpt) — Transformer-based model for molecular generation.
+*   [Molecular Transformer (⭐413)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
+*   [TargetDiff (⭐323)](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 
 ### LLM for Biology
 
 *   [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) — LLM for chemical & molecular science.
 *   [BioGPT (⭐4.5k)](https://github.com/microsoft/BioGPT) — LLM for biomedical text generation.
-*   [GeneGPT (⭐420)](https://github.com/ncbi/GeneGPT) — LLM for biomedical information, integrated with various APIs.
-*   [GenePT (⭐308)](https://github.com/yiqunchen/GenePT) — Foundation LLM for single-cell data.
-*   [scPRINT (⭐138)](https://github.com/cantinilab/scPRINT) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
+*   [GeneGPT (⭐423)](https://github.com/ncbi/GeneGPT) — LLM for biomedical information, integrated with various APIs.
+*   [GenePT (⭐310)](https://github.com/yiqunchen/GenePT) — Foundation LLM for single-cell data.
+*   [scPRINT (⭐142)](https://github.com/cantinilab/scPRINT) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
+*   [ClawBio (⭐106)](https://github.com/ClawBio/ClawBio) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 
 ### Foundation Models
 
-*   [scFoundation (⭐390)](https://github.com/biomap-research/scFoundation) — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
+#### Single-cell Foundation Models
+
+##### Transcriptomics Foundation Models
+
+*   [scFoundation (⭐392)](https://github.com/biomap-research/scFoundation) — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
 *   [scGPT (⭐1.5k)](https://github.com/bowang-lab/scGPT) — Transformer-based foundation model pretrained on millions of single-cell profiles.
-*   [BulkFormer (⭐41)](https://github.com/KangBoming/BulkFormer) — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
+*   [Geneformer](https://huggingface.co/ctheodoris/Geneformer) — Context-aware, attention-based deep learning model pretrained on a large corpus of single-cell transcriptomes.
+*   [BulkFormer (⭐42)](https://github.com/KangBoming/BulkFormer) — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
+*   [scBERT (⭐347)](https://github.com/TencentAILabHealthcare/scBERT) — BERT-based foundation model pretrained on large-scale scRNA-seq data for cell type annotation.
+*   [CellPLM (⭐101)](https://github.com/OmicsML/CellPLM) — Cell pre-trained language model with inter-cell transformer architecture for diverse single-cell analysis tasks.
+
+##### Spatial Foundation Models
+
+*   [GigaPath (⭐578)](https://github.com/prov-gigapath/prov-gigapath) — Slide-level digital pathology foundation model pretrained on 1.3 billion pathology image tokens from whole-slide images.
+*   [UNI (⭐681)](https://github.com/mahmoodlab/UNI) — General-purpose self-supervised pathology foundation model trained on 100K+ whole-slide images for diverse computational pathology tasks.
+*   [CONCH (⭐472)](https://github.com/mahmoodlab/CONCH) — Vision-language foundation model for computational pathology trained with contrastive captioning on pathology image–text pairs.
+*   [Phikon](https://huggingface.co/owkin/phikon) — ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
+
+##### Multi-Omics Foundation Models
+
+*   [scMulan (⭐62)](https://github.com/SuperBianC/scMulan) — Single-cell multi-omic language model pretrained on \~10M cells spanning transcriptomics, epigenomics, and proteomics for cross-omics transfer tasks.
+*   [totalVI (⭐1.6k)](https://github.com/scverse/scvi-tools) — Probabilistic framework for joint analysis of paired scRNA-seq and protein (CITE-seq) data enabling multi-modal cell state representation across single-cell datasets.
+*   [MultiVI (⭐1.6k)](https://github.com/scverse/scvi-tools) — Multi-modal variational autoencoder for integrating paired and unpaired single-cell RNA-seq and ATAC-seq measurements into a unified latent space.
+*   [MIRA (⭐67)](https://github.com/cistrome/MIRA) — Probabilistic multimodal topic model jointly modeling single-cell transcriptomics and chromatin accessibility for regulatory network inference.
+*   [GLUE (⭐455)](https://github.com/gao-lab/GLUE) — Graph-Linked Unified Embedding framework for unpaired single-cell multi-omics data integration across RNA, ATAC, methylation, and protein modalities.
+*   [BABEL (⭐47)](https://github.com/wukevin/babel) — Cross-modality translation model enabling prediction between scRNA-seq and scATAC-seq profiles without requiring paired single-cell measurements.
+*   [Multigrate (⭐31)](https://github.com/theislab/multigrate) — Asymmetric multi-omics variational autoencoder for integrating single-cell data across RNA, ATAC, and protein modalities with missing-modality support.
+*   [MOFA+ (⭐384)](https://github.com/bioFAM/MOFA2) — Multi-Omics Factor Analysis framework identifying shared axes of variation across bulk and single-cell datasets including RNA, ATAC, proteomics, methylation, and copy number.
+*   [GeneCompass (⭐111)](https://github.com/xCompass-AI/GeneCompass) — Large-scale foundation model integrating DNA regulatory sequences and single-cell transcriptomics from 120M+ cells across multiple species for gene regulation prediction.
+*   [UnitedNet (⭐52)](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet) — Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.
+*   [SpatialGlue](https://github.com/zhanglabtools/SpatialGlue) — Graph attention network for spatial multi-omics integration jointly embedding spatial transcriptomics with chromatin accessibility or proteomics.
+*   [MIDAS (⭐62)](https://github.com/labomics/midas) — Mosaic integration and differential accessibility model for single-cell multi-omics data that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
+
+##### Domain Alignment
+
+*   [scArches (⭐399)](https://github.com/theislab/scarches) — Transfer learning framework for mapping new single-cell datasets onto pre-trained reference atlases across batches, conditions, and modalities.
+*   [TOSICA](https://github.com/JackieHanlaopo/TOSICA) — Transformer-based framework for one-stop interpretable cell-type annotation supporting cross-dataset and cross-species transfer.
+
+#### Protein Foundation Models
+
+##### Pre-trained Embedding
+
+*   [Evolutionary Scale Modeling (ESM) (⭐4k)](https://github.com/facebookresearch/esm) — Protein embeddings.
+*   [ChemBERTa-2 (⭐487)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
+
+##### Protein Structure Prediction and Design
+
+*   [AlphaFold3 (⭐7.7k)](https://github.com/google-deepmind/alphafold3) — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
+*   [Boltz-1 (⭐3.8k)](https://github.com/jwohlwend/boltz) — Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.
+*   [Chai-1 (⭐1.9k)](https://github.com/chaidiscovery/chai-lab) — Unified molecular structure prediction model covering proteins, nucleic acids, small molecules, and complexes.
+*   [ESM3 (⭐2.3k)](https://github.com/evolutionaryscale/esm) — Multimodal protein language model that jointly reasons over sequence, structure, and function for generative protein design and engineering.
+*   [ESMFold (⭐4k)](https://github.com/facebookresearch/esm) — Fast protein structure prediction using language model embeddings.
+*   [RFdiffusion (⭐2.8k)](https://github.com/RosettaCommons/RFdiffusion) — Generative model for protein backbone design using diffusion.
+*   [ProteinMPNN (⭐1.6k)](https://github.com/dauparas/ProteinMPNN) — Deep learning model for protein sequence design given backbone structure.
+*   [OmegaFold (⭐613)](https://github.com/HeliXonProtein/OmegaFold) — High-resolution de novo protein structure prediction from sequence.
+*   [RoseTTAFold (⭐2.2k)](https://github.com/RosettaCommons/RoseTTAFold) — Three-track neural network for protein structure prediction.
+
+#### Multi-Modal Foundation Models
+
+*   [CHIEF (⭐688)](https://github.com/hms-dbmi/CHIEF) — Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
+*   [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_g_14) — CLIP-based vision-language foundation model for biomedical images and text trained on PubMed figure–caption pairs.
+
+#### Genomics Foundation Models
+
+*   [Nucleotide Transformer (⭐831)](https://github.com/instadeepai/nucleotide-transformer) — Foundation model for genomic sequences across multiple species.
+*   [DNABERT (⭐744)](https://github.com/jerryji1993/DNABERT) — Pre-trained bidirectional encoder for DNA sequence analysis.
+*   [DNABERT-2 (⭐460)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
+*   [Enformer (⭐15k)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
+*   [Basenji (⭐466)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
+*   [Caduceus (⭐226)](https://github.com/kuleshov-group/caduceus) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
+*   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
+*   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
 ***
 

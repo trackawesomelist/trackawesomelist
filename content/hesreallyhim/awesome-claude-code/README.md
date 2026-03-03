@@ -6,6 +6,12 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Mar 03, 2026](/content/2026/03/03/README.md)
+
+### Agent Skills 🤖 / General
+
+*   [Claude Scientific Skills (⭐11k)](https://github.com/K-Dense-AI/claude-scientific-skills) by [K-Dense](https://github.com/K-Dense-AI/) - "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
+
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
 ### Hooks 🪝 / General

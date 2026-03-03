@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Network & Web / Network
+
+*   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Language Essentials / File Format Processing
@@ -66,7 +72,7 @@ A collection of awesome projects in Zig.
 
 ### Fundamentals / Package and Version Manager
 
-*   [asdf-community/asdf-zig (⭐75)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
+*   [asdf-community/asdf-zig (⭐77)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
 
 ### Fundamentals / Utility
 
@@ -97,7 +103,7 @@ A collection of awesome projects in Zig.
 
 ### Multimedia & Graphics / Graphics Library
 
-*   [zsdl3 (⭐12)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐13)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ### Multimedia & Graphics / GUI
 

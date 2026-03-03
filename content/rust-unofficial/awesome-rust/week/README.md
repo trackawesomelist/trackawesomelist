@@ -20,6 +20,10 @@ A curated list of Rust code and resources.
 
 *   [ruvnet/wifi-densepose (⭐18k)](https://github.com/ruvnet/wifi-densepose) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
 
+### Applications / Web
+
+*   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
+
 ### Development tools / Build system
 
 *   [rolldown/rolldown (⭐13k)](https://github.com/rolldown/rolldown) - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
