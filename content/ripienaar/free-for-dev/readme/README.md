@@ -267,7 +267,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [DB-IP](https://db-ip.com/api/free) - Free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.
 *   [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces
 *   [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
-*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 *   [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
 *   [Doczilla](https://www.doczilla.app/) — SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 *   [Doppio](https://doppio.sh/) — Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
@@ -284,6 +284,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
 *   [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
 *   [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
 *   [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
 *   [Insomnia](https://insomnia.rest) - Open-source API client for designing and testing APIs, it supports REST and GraphQL
 *   [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.

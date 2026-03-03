@@ -1,12 +1,42 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2026
 
-22 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### FPS
+
+*   [Barrett (⭐20)](https://github.com/lunarmeadow/barrett/) - Advanced and featureful Rise of the Triad source port for modern systems.
+*   [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
+*   [idTech4A++ (Harmattan Edition) (⭐518)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
+*   [jfsw (⭐92)](https://github.com/jonof/jfsw/) - Port of the 3D Realms game "Shadow Warrior".
+*   [jftekwar (⭐26)](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
+*   [jfwhaven (⭐25)](https://github.com/jonof/jfwhaven) - No-promises port of the Capstone Software game "Witchaven".
+*   [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
+*   [Raze (⭐835)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
+
+### Racing
+
+*   [dRally (⭐70)](https://github.com/urxp/dRally) - Open Source Engine / Death Rally \[1996]
+*   [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
+*   [hi-octane202x (⭐7)](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
+*   [tube64 (⭐19)](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
+
+### Simulator
+
+*   [Descent3 (⭐3k)](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
+
+### Strategy
+
+*   [Flame (⭐83)](https://github.com/DiaLight/Flame) - Dungeon Keeper II partial recompilation with bug fixes.
+*   [OpenDungeonsPlus (⭐16)](https://github.com/tomluchowski/OpenDungeonsPlus) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+*   [OpenTPW (⭐145)](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
+
+## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Communication
 
@@ -16,13 +46,13 @@
 
 *   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [3. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Network
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 
-## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [4. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### scRNA
 
@@ -145,14 +175,14 @@
 *   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 *   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [terraform-ai-skills (⭐1)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.
 
-## [5. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [6. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
@@ -199,19 +229,19 @@
 
 *   [Omnara (⭐2.6k)](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
 
-## [6. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
 *   [Numberphile](https://www.youtube.com/@numberphile)
 
-## [7. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [8. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Browser Extensions & Utilities
 
 *   [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 
-## [8. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Code Analysis
 
@@ -230,7 +260,12 @@
     *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
 
 ### Tools for Teams and Collaboration
 
@@ -248,13 +283,13 @@
 
 *   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [11. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
 *   [FinRpt](https://arxiv.org/abs/2511.07322) - Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation.
 
-## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [12. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
@@ -270,13 +305,13 @@
 
 *   [CodeLift: Introduction to Diffy for Visual Regression Testing](https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing) - Catch visual and functional issues before they reach production.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Business logic
 
 *   [Servactory (⭐34)](https://github.com/servactory/servactory) - A set of tools for building reliable service objects of any complexity.
 
-## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Audio and Music
 
@@ -306,7 +341,15 @@
 
 *   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
+
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [ad-si/Woxi](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 
 ### Applications / File manager
 
@@ -324,9 +367,18 @@
 
 *   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
 
+### Development tools / Workflow Automation
+
+*   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+
 ### Development tools / Build system
 
 *   [rolldown/rolldown (⭐13k)](https://github.com/rolldown/rolldown) - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
+
+### Libraries / Artificial Intelligence
+
+*   [raphaelmansuy/edgequake (⭐1.3k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 
 ### Libraries / GUI
 
@@ -338,17 +390,29 @@
     *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
     *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Pixley Reader (⭐4)](https://github.com/Applacat/PixleyReader) - A dedicated reader for browsing Markdown specs, docs, and changelogs generated by AI tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Applacat/PixleyReader) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6758722045?platform=mac)
 
+### Browsers / Audio Record and Process
+
+*   [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Cleanup and Uninstall
+
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Window Management
 
 *   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+### QuickLook Plugins / System Related Tools
+
+*   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Startup / Cursorline
 
@@ -358,19 +422,23 @@
 
 *   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 
-## [17. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [18. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Just for fun
 
 *   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 
-## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+
+### Utilities
+
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 
 ### Additional Resources
 
 *   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
 
-## [19. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [20. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Development
 
@@ -380,20 +448,20 @@
 
 *   [LastSaaS (⭐43)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 
-## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Skylos (⭐323)](https://github.com/duriantaco/skylos) — Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.
 
-## [21. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 *   [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 
-## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [23. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 

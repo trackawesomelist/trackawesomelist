@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [protoc-gen-httpgo (⭐17)](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
 
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
+
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
 ### Audio and Music

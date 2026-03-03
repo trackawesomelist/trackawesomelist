@@ -8,9 +8,21 @@
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
+### Browsers / Audio Record and Process
+
+*   [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Cleanup and Uninstall
+
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Window Management
 
 *   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### QuickLook Plugins / System Related Tools
+
+*   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
@@ -83,6 +95,10 @@
 *   [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - Philips Hue light management in the menu bar with multi-room support. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
+### Utilities / Cleanup and Uninstall
+
+*   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
+
 ### Utilities / General Tools
 
 *   [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - Add watermarks to the desktop, ideal for recording videos. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
@@ -103,7 +119,6 @@
 ### Utilities / System Related Tools
 
 *   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Keep your Mac awake. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)
-*   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
 
 ### Remote Login Software / System Related Tools
 
@@ -886,7 +901,7 @@
 
 *   [buzz (⭐18k)](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chidiwilliams/buzz)
 
-### Utilities / General Tools
+### Utilities / Cleanup and Uninstall
 
 *   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
 
@@ -928,7 +943,7 @@
 *   [Matrix](https://matrix.org/) - An open network for secure, decentralised communication! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [Misskey](https://misskey-hub.net/) - 🌎 A completely free and open interplanetary microblogging platform 🚀 [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/misskey-dev/misskey)
 
-### Utilities / System Related Tools
+### Utilities / Cleanup and Uninstall
 
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -1074,7 +1089,7 @@
 
 ## [Jul 23, 2024](/content/2024/07/23/README.md)
 
-### Utilities / System Related Tools
+### Utilities / Cleanup and Uninstall
 
 *   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alienator88/Pearcleaner)
 
@@ -3388,7 +3403,7 @@
 
 ## [Jul 27, 2018](/content/2018/07/27/README.md)
 
-### Utilities / General Tools
+### Utilities / Cleanup and Uninstall
 
 *   [Mac Cache Cleaner (⭐247)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -3613,6 +3628,11 @@
 
 *   [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/getlantern/lantern)
 
+### Utilities / Cleanup and Uninstall
+
+*   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / To-Do Lists
 
 *   [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
@@ -3630,11 +3650,9 @@
 
 ### Utilities / System Related Tools
 
-*   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [gfxCardStatus](https://gfx.io/) - Monitor graphics card usage and battery impact. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced system monitor for menubar.
 *   [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
-*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 
 ### Gaming Software / System Related Tools
@@ -3884,6 +3902,10 @@
 *   [BeardedSpice (⭐2.8k)](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/beardedspice/beardedspice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sfsam/itsycal)
 
+### Utilities / Cleanup and Uninstall
+
+*   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
+
 ### Utilities / File Organization Tools
 
 *   [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
@@ -3928,7 +3950,6 @@
 
 ### Utilities / System Related Tools
 
-*   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 *   [iStats (⭐2.5k)](https://github.com/Chris911/iStats) - Command-line system information tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Chris911/iStats)
 *   [Mounty](http://enjoygineering.com/mounty/) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nitroshare/nitroshare-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

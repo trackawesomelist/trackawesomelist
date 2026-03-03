@@ -8,9 +8,22 @@ A curated list of Rust code and resources.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
+### Applications
+
+*   [ad-si/Woxi](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+
 ### Applications / Web
 
 *   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
+
+### Development tools / Workflow Automation
+
+*   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+
+### Libraries / Artificial Intelligence
+
+*   [raphaelmansuy/edgequake (⭐1.3k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
@@ -139,7 +152,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Blockchain
 
-*   [pragma-org/amaru (⭐99)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
+*   [pragma-org/amaru (⭐100)](https://github.com/pragma-org/amaru) - A Cardano node client written in Rust.
 
 ### Development tools / Profiling
 

@@ -8,6 +8,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
+### APIs, Data, and ML
+
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
+
 ### Monitoring
 
 *   [FlareWarden](https://flarewarden.com) - Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
@@ -390,10 +395,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
 
 ## [Jul 22, 2025](/content/2025/07/22/README.md)
-
-### APIs, Data, and ML
-
-*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 
 ### Education and Career Development
 

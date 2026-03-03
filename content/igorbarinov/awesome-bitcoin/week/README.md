@@ -8,6 +8,10 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### Utilities
+
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
+
 ### Additional Resources
 
 *   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.

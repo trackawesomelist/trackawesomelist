@@ -54,6 +54,7 @@ A curated list of bitcoin services and tools for software developers
 *   [Bitcoin Serverless Donations (⭐4)](https://github.com/tombennet/bitcoin-serverless-donations) - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 *   [BTC Tooling (⭐32)](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 *   [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 
 ## Blockchain API and Web services
 
@@ -255,7 +256,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
 
 ***

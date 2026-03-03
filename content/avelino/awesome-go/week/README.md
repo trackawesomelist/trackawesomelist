@@ -36,6 +36,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Artificial Intelligence

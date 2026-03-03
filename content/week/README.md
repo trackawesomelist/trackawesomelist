@@ -47,19 +47,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LastSaaS (⭐43)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 
-#### [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
-
-##### Additional Resources
-
-*   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
-
-#### [6. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+#### [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ##### Just for fun
 
 *   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 
-#### [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Startup / Cursorline
 
@@ -69,13 +63,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 
-#### [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Business logic
 
 *   [Servactory (⭐34)](https://github.com/servactory/servactory) - A set of tools for building reliable service objects of any complexity.
 
-#### [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+#### [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ##### Tools and frameworks (a-z↓)
 
@@ -91,13 +85,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CodeLift: Introduction to Diffy for Visual Regression Testing](https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing) - Catch visual and functional issues before they reach production.
 
-#### [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### LLMs
 
 *   [FinRpt](https://arxiv.org/abs/2511.07322) - Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation.
 
-#### [11. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Code Analysis
 
@@ -116,44 +110,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
-#### [12. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Browser Extensions & Utilities
 
 *   [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 
-#### [13. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [12. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Youtube Series
 
 *   [Numberphile](https://www.youtube.com/@numberphile)
 
-#### [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Tools / Community providers
 
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [terraform-ai-skills (⭐1)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.
 
-#### [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Tools for Teams and Collaboration
-
-*   [cDox](https://cdox.ca) — Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
-
-##### Monitoring
-
-*   [FlareWarden](https://flarewarden.com) - Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
-
-##### Generative AI
-
-*   [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 \[schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
-
-##### Miscellaneous
-
-*   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
-
-#### [16. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+#### [14. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ##### scRNA
 
@@ -276,85 +252,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 *   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
-#### [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
-
-*   [Pixley Reader (⭐4)](https://github.com/Applacat/PixleyReader) - A dedicated reader for browsing Markdown specs, docs, and changelogs generated by AI tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Applacat/PixleyReader) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6758722045?platform=mac)
-
-##### Utilities / Window Management
-
-*   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / File manager
-
-*   [moyangzhan/mango-finder (⭐209)](https://github.com/moyangzhan/mango-finder) - Search your files using nature language
-
-##### Applications / System tools
-
-*   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
-
-##### Applications / Utilities
-
-*   [ruvnet/wifi-densepose (⭐18k)](https://github.com/ruvnet/wifi-densepose) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
-
-##### Applications / Web
-
-*   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
-
-##### Development tools / Build system
-
-*   [rolldown/rolldown (⭐13k)](https://github.com/rolldown/rolldown) - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
-
-##### Libraries / GUI
-
-*   [longbridge/gpui-component (⭐11k)](https://github.com/longbridge/gpui-component) \[[gpui-component](https://crates.io/crates/gpui-component)] - UI components for building fantastic desktop applications using GPUI.
-
-##### Libraries / Network programming
-
-*   RPC
-    *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
-    *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
-
-#### [19. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Audio and Music
-
-*   [music-theory (⭐452)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
-
-##### Miscellaneous Data Structures and Algorithms
-
-*   [combo (⭐2)](https://github.com/bobg/combo) - Combinatorial operations including permutations, combinations, and combinations-with-replacement.
-
-##### Generators
-
-*   [protoc-gen-httpgo (⭐17)](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
-
-##### Uncategorized
-
-*   [goffi (⭐22)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
-
-##### Utilities
-
-*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
-
-##### Windows / Libraries for creating HTTP middlewares
-
-*   [windowsupdate (⭐14)](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
-
-##### Go Tools / Libraries for creating HTTP middlewares
-
-*   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
-
-#### [20. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [15. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Network & Web / Network
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 
-#### [21. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [16. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Agent Skills 🤖 / General
 
@@ -401,7 +305,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Omnara (⭐2.6k)](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
 
-#### [22. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [17. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Communication
 
@@ -410,6 +314,170 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### IDEs
 
 *   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
+#### [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+
+##### Utilities
+
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
+
+##### Additional Resources
+
+*   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
+
+#### [19. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+##### FPS
+
+*   [Barrett (⭐20)](https://github.com/lunarmeadow/barrett/) - Advanced and featureful Rise of the Triad source port for modern systems.
+*   [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
+*   [idTech4A++ (Harmattan Edition) (⭐518)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
+*   [jfsw (⭐92)](https://github.com/jonof/jfsw/) - Port of the 3D Realms game "Shadow Warrior".
+*   [jftekwar (⭐26)](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
+*   [jfwhaven (⭐25)](https://github.com/jonof/jfwhaven) - No-promises port of the Capstone Software game "Witchaven".
+*   [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
+*   [Raze (⭐835)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
+
+##### Racing
+
+*   [dRally (⭐70)](https://github.com/urxp/dRally) - Open Source Engine / Death Rally \[1996]
+*   [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
+*   [hi-octane202x (⭐7)](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
+*   [tube64 (⭐19)](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
+
+##### Simulator
+
+*   [Descent3 (⭐3k)](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
+
+##### Strategy
+
+*   [Flame (⭐83)](https://github.com/DiaLight/Flame) - Dungeon Keeper II partial recompilation with bug fixes.
+*   [OpenDungeonsPlus (⭐16)](https://github.com/tomluchowski/OpenDungeonsPlus) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+*   [OpenTPW (⭐145)](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
+
+#### [20. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
+
+##### Tools for Teams and Collaboration
+
+*   [cDox](https://cdox.ca) — Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
+
+##### Monitoring
+
+*   [FlareWarden](https://flarewarden.com) - Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
+
+##### Generative AI
+
+*   [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 \[schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
+
+##### Miscellaneous
+
+*   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
+
+#### [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [Pixley Reader (⭐4)](https://github.com/Applacat/PixleyReader) - A dedicated reader for browsing Markdown specs, docs, and changelogs generated by AI tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Applacat/PixleyReader) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6758722045?platform=mac)
+
+##### Browsers / Audio Record and Process
+
+*   [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Cleanup and Uninstall
+
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Window Management
+
+*   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### QuickLook Plugins / System Related Tools
+
+*   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [22. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications
+
+*   [ad-si/Woxi](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+
+##### Applications / File manager
+
+*   [moyangzhan/mango-finder (⭐209)](https://github.com/moyangzhan/mango-finder) - Search your files using nature language
+
+##### Applications / System tools
+
+*   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+
+##### Applications / Utilities
+
+*   [ruvnet/wifi-densepose (⭐18k)](https://github.com/ruvnet/wifi-densepose) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
+
+##### Applications / Web
+
+*   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
+
+##### Development tools / Workflow Automation
+
+*   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+
+##### Development tools / Build system
+
+*   [rolldown/rolldown (⭐13k)](https://github.com/rolldown/rolldown) - A JavaScript/TypeScript bundler written in Rust intended to serve as the future bundler in Vite.
+
+##### Libraries / Artificial Intelligence
+
+*   [raphaelmansuy/edgequake (⭐1.3k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+
+##### Libraries / GUI
+
+*   [longbridge/gpui-component (⭐11k)](https://github.com/longbridge/gpui-component) \[[gpui-component](https://crates.io/crates/gpui-component)] - UI components for building fantastic desktop applications using GPUI.
+
+##### Libraries / Network programming
+
+*   RPC
+    *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
+    *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
+
+#### [23. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Audio and Music
+
+*   [music-theory (⭐452)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
+
+##### Miscellaneous Data Structures and Algorithms
+
+*   [combo (⭐2)](https://github.com/bobg/combo) - Combinatorial operations including permutations, combinations, and combinations-with-replacement.
+
+##### Generators
+
+*   [protoc-gen-httpgo (⭐17)](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
+
+##### Uncategorized
+
+*   [goffi (⭐22)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
+
+##### Utilities
+
+*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+
+##### Windows / Libraries for creating HTTP middlewares
+
+*   [windowsupdate (⭐14)](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
+
+##### Go Tools / Libraries for creating HTTP middlewares
+
+*   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
+
+##### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
 
 ---
 
@@ -634,7 +702,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Alternative Internet](/content/redecentralize/alternative-internet/README.md) - ([Source ⭐ 5.4K, 📝 25&#x2F;09&#x2F;15 ](https://github.com/redecentralize/alternative-internet)) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md) - ([Source ⭐ 214, 📝 02&#x2F;09 ](https://github.com/aorumbayev/awesome-algorand)) - ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
-- [Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md) - ([Source ⭐ 1.3K, 📝 03&#x2F;02 ](https://github.com/igorbarinov/awesome-bitcoin)) - A curated list of bitcoin services and tools for software developers
+- [Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md) - ([Source ⭐ 1.3K, 📝 03&#x2F;03 ](https://github.com/igorbarinov/awesome-bitcoin)) - A curated list of bitcoin services and tools for software developers
 - [Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md) - ([Source ⭐ 1.1K, 📝 02&#x2F;07 ](https://github.com/steven2358/awesome-blockchain-ai)) - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 - [Awesome Corda](/content/chainstack/awesome-corda/README.md) - ([Source ⭐ 67, 📝 21&#x2F;08&#x2F;10 ](https://github.com/chainstack/awesome-corda)) - A curated list of awesome Corda resources
 - [Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md) - ([Source ⭐ 996, 📝 01&#x2F;26 ](https://github.com/croqaz/awesome-decentralized)) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
@@ -808,7 +876,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Esports](/content/Strift/awesome-esports/README.md) - ([Source ⭐ 45, 📝 23&#x2F;09&#x2F;23 ](https://github.com/Strift/awesome-esports)) - A curated list of open-source projects related to esports.
 - [Awesome Flame](/content/flame-engine/awesome-flame/README.md) - ([Source ⭐ 1.3K, 📝 02&#x2F;26 ](https://github.com/flame-engine/awesome-flame)) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 - [Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md) - ([Source ⭐ 1.3K, 📝 02&#x2F;08 ](https://github.com/stevinz/awesome-game-engine-dev)) - Awesome list of resources for Game Engine Development.
-- [Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md) - ([Source ⭐ 1.3K, 📝 02&#x2F;18 ](https://github.com/radek-sprta/awesome-game-remakes)) - Actively maintained open-source game remakes.
+- [Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md) - ([Source ⭐ 1.3K, 📝 03&#x2F;03 ](https://github.com/radek-sprta/awesome-game-remakes)) - Actively maintained open-source game remakes.
 - [Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md) - ([Source ⭐ 2.1K, 📝 02&#x2F;27 ](https://github.com/michelpereira/awesome-games-of-coding)) - A curated list of games that can teach you how to learn a programming language.
 - [Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md) - ([Source ⭐ 919, 📝 16&#x2F;07&#x2F;07 ](https://github.com/hzoo/awesome-gametalks)) - :speech_balloon: A curated list of gaming talks (development, design, etc)
 - [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source ⭐ 4.4K, 📝 02&#x2F;08 ](https://github.com/gbdev/awesome-gbdev)) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.

@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 03, 2026](/content/2026/03/03/README.md)
+
+### Utilities
+
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
+
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
 ### Additional Resources

@@ -8,6 +8,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### APIs, Data, and ML
+
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
+
 ### Tools for Teams and Collaboration
 
 *   [cDox](https://cdox.ca) — Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
@@ -324,10 +329,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [It tools](https://it-tools.tech/) - Useful tools for developer and people working in IT.
 
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
-
-### APIs, Data, and ML
-
-*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
 
 ### Messaging and Streaming
 

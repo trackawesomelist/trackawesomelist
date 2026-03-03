@@ -151,6 +151,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Utilities](#utilities)
     *   [Clipboard Tools](#clipboard-tools)
     *   [Menu Bar Tools](#menu-bar-tools)
+    *   [Cleanup and Uninstall](#cleanup-and-uninstall)
     *   [File Organization Tools](#file-organization-tools)
     *   [General Tools](#general-tools)
     *   [To-Do Lists](#to-do-lists)
@@ -984,6 +985,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 *   [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 *   [Station](https://getstation.com/) - An open-source browser providing a single place for all of your web applications. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
+*   [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware][Freeware Icon]
 *   [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
     *   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 *   [Web (⭐654)](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
@@ -1153,6 +1155,18 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 *   [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
+### Cleanup and Uninstall
+
+*   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
+*   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
+*   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
+*   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+*   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
+*   [Mac Cache Cleaner (⭐247)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon]
+*   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+
 ### File Organization Tools
 
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
@@ -1173,7 +1187,6 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 ### General Tools
 
 *   [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-*   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
 *   [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 *   [DevKnife](https://devknife.app) - A native Mac app for dozens of daily dev tasks, from network scans to JSON formatting.
 *   [DevToysMac (⭐9.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -1186,7 +1199,6 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 *   [LaunchNext (⭐2.2k)](https://github.com/RoversX/LaunchNext) - Classic Launchpad experience, relive old macOS. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 *   [lo-rain](https://lo.cafe/lo-rain) - Create a customizable rain over your desktop and apps, with splash over the dock.
-*   [Mac Cache Cleaner (⭐247)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 *   [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 *   [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 *   [NextDNS](https://nextdns.io/) - The new firewall for the modern Internet. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853?platform=mac)
@@ -1380,14 +1392,10 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [AlDente](https://apphousekitchen.com/) - Battery charge limiter for MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 *   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Keep your Mac awake. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)
 *   [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github\&utm_medium=referral\&utm_campaign=githubproject) - Free ad blocker for Safari.![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
-*   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 *   [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/) - Check Apple Silicon app compatibility. [![Open-Source Software][OSS Icon]](https://github.com/ThatGuySam/doesitarm) ![Freeware][Freeware Icon]
 *   [AirBattery](https://lihaoyun6.github.io/airbattery/) - View all device batteries in the Dock, menu bar, or widgets. [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
 *   [Background Music (⭐19k)](https://github.com/kyleneideck/BackgroundMusic) - Control app volumes and record system audio. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
-*   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
-*   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 *   [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Mac battery information and statistics.
-*   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 *   [Dayflow (⭐5.8k)](https://github.com/JerryZLiu/Dayflow) - Screen activity timeline with AI support. [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 *   [DockAnchor (⭐392)](https://github.com/bwya77/DockAnchor) - Lock the macOS Dock to a single screen in a multi-monitor setup. [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 *   [everythingByMdfind (⭐136)](https://github.com/appledragon/everythingByMdfind) - Fast file search using Spotlight. [![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
@@ -1406,9 +1414,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
 *   [Mounty](http://enjoygineering.com/mounty/) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
 *   [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
-*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon]
 *   [OnyX](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
-*   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 *   [stats (⭐37k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 *   [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
@@ -1451,6 +1457,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 *   [QLMarkdown (⭐2.4k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+*   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 *   [quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 *   [Syntax Highlight (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 

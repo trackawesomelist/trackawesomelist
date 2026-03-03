@@ -1,12 +1,48 @@
 # Awesome List Updates on Mar 03, 2026
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### FPS
+
+*   [Barrett (⭐20)](https://github.com/lunarmeadow/barrett/) - Advanced and featureful Rise of the Triad source port for modern systems.
+*   [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
+*   [idTech4A++ (Harmattan Edition) (⭐518)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
+*   [jfsw (⭐92)](https://github.com/jonof/jfsw/) - Port of the 3D Realms game "Shadow Warrior".
+*   [jftekwar (⭐26)](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
+*   [jfwhaven (⭐25)](https://github.com/jonof/jfwhaven) - No-promises port of the Capstone Software game "Witchaven".
+*   [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
+*   [Raze (⭐835)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
+
+### Racing
+
+*   [dRally (⭐70)](https://github.com/urxp/dRally) - Open Source Engine / Death Rally \[1996]
+*   [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
+*   [hi-octane202x (⭐7)](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
+*   [tube64 (⭐19)](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
+
+### Simulator
+
+*   [Descent3 (⭐3k)](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
+
+### Strategy
+
+*   [Flame (⭐83)](https://github.com/DiaLight/Flame) - Dungeon Keeper II partial recompilation with bug fixes.
+*   [OpenDungeonsPlus (⭐16)](https://github.com/tomluchowski/OpenDungeonsPlus) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+*   [OpenTPW (⭐145)](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
+
+## [2. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+
+### Utilities
+
+*   [BTC Airgap Bridge (⭐3)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
+
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Communication
 
@@ -16,37 +52,66 @@
 
 *   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [2. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [4. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Agent Skills 🤖 / General
 
 *   [Claude Scientific Skills (⭐11k)](https://github.com/K-Dense-AI/claude-scientific-skills) by [K-Dense](https://github.com/K-Dense-AI/) - "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [5. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Network & Web / Network
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Generators
 
 *   [protoc-gen-httpgo (⭐17)](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [ad-si/Woxi](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 
 ### Applications / Web
 
 *   [agrinman/tunnelto (⭐6.1k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+### Development tools / Workflow Automation
+
+*   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+
+### Libraries / Artificial Intelligence
+
+*   [raphaelmansuy/edgequake (⭐1.3k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Browsers / Audio Record and Process
+
+*   [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Cleanup and Uninstall
+
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
 *   [Convoker (⭐3)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+### QuickLook Plugins / System Related Tools
+
+*   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [9. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### scRNA
 
@@ -169,7 +234,12 @@
 *   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 *   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+*   [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
 
 ### Monitoring
 
@@ -183,7 +253,7 @@
 
 *   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
