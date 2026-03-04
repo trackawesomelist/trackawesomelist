@@ -16,6 +16,10 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
     *   [vulture (⭐4.3k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 
+### Machine Learning
+
+*   [Instructor (⭐12k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
+
 ### Specific Formats Processing
 
 *   PDF
@@ -1263,7 +1267,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### File Manipulation
 
-*   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
+*   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) A cross-platform, object-oriented path library.
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 

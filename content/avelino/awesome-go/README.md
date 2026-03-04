@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [uniwidth (⭐4)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
 
+### Utilities
+
+*   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
 ### Generators

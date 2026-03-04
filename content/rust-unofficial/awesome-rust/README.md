@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
+### Applications / Finance
+
+*   [nautechsystems/nautilus\_trader (⭐20k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
+
 ### Applications / Text editors
 
 *   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.

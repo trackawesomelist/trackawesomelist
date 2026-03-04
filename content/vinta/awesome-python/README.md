@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Mar 04, 2026](/content/2026/03/04/README.md)
+
+### Machine Learning
+
+*   [Instructor (⭐12k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
+
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
 ### Code Analysis
@@ -1301,7 +1307,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### File Manipulation
 
-*   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
+*   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) A cross-platform, object-oriented path library.
 
 ## [Aug 04, 2018](/content/2018/08/04/README.md)
 

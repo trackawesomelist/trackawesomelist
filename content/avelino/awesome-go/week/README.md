@@ -35,6 +35,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+*   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ### Windows / Libraries for creating HTTP middlewares
 
