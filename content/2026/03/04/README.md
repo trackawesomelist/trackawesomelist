@@ -1,12 +1,35 @@
-# Track Awesome Opensource Apps Updates Daily
+# Awesome List Updates on Mar 04, 2026
 
-:house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) · ⭐ 3.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ Daily / [Weekly](/content/unicodeveloper/awesome-opensource-apps/week/README.md) / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
 
-## [Mar 04, 2026](/content/2026/03/04/README.md)
+
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Stream Processing
+
+*   [signals (⭐9)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
+
+### Utility/Miscellaneous
+
+*   [uniwidth (⭐4)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Text editors
+
+*   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+
+## [3. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+
+### Getting started
+
+*   [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
+*   [Browser support for WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
+
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### What do we have:
 
@@ -701,3 +724,36 @@
 
   Contributors: [Parveshiiii](https://github.com/Parveshiiii)
 
+
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Storage and Media Processing
+
+*   [FileShot.io](https://fileshot.io) — Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.
+
+### IDE and Code Editing
+
+*   [OnlineGDB](https://onlinegdb.com) - A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Startup / Cursorline
+
+*   [Kurama622/profile.nvim (⭐70)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
+
+## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+### Software / Identity Management - LDAP
+
+*   [LTB Self-Service Password](https://www.ltb-project.org/documentation/self-service-password.html) - Web interface to change and reset LDAP passwords. ([Source Code (⭐1.3k)](https://github.com/ltb-project/self-service-password)) `GPL-3.0` `PHP`
+
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [edit-select (⭐5)](https://github.com/Michael-Matta1/zsh-edit-select) - Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.
+
+---
+
+- Next: [Mar 03, 2026](/content/2026/03/03/README.md)

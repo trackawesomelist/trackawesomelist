@@ -6,1684 +6,698 @@
 
 [ [Daily](/content/unicodeveloper/awesome-opensource-apps/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
 
-## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
-### Node.js
+### What do we have:
 
-- Name: [ShotOG (⭐2)](https://github.com/nicepkg/shotog)
+- Project Name: [2048 (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)
 
-  Description: Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Built with Hono + Satori on Cloudflare Workers.
+  Contributors: [Krunal](https://github.com/gitkp11)
 
-  Link: <https://shotog.2214962083.workers.dev>
 
+- Project Name: [AI chatbot](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Artificial-intelligence_bot)
 
+  Contributors: [umar abdullahi](https://github.com/umarbrowser)
 
-## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
-### Electron
+- Project Name: [AI for guess the number (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number)
 
-- Name: [ShellLeap (⭐0)](https://github.com/shareefsakk2/shellleap)
+  Contributors: [Omar Sameh](https://github.com/ShadowHunter15)
 
-  Description: Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault
 
-  Link: <https://shareefsakk2.github.io/shellleap/>
+- Project Name: [Address locator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Location_Of_Adress)
 
+  Contributors: [Chris](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
 
-### Lua
+- Project Name: [Asymmetric Encryption](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/asymmetric_cryptography)
 
-- Name: [BunkerWeb (⭐9.9k)](https://github.com/bunkerity/bunkerweb)
+  Contributors: [victor matheus](https://github.com/victormatheusc)
 
-  Description: A next-generation, open-source Web Application Firewall (WAF).
 
-  Link: <https://www.bunkerweb.io>
+- Project Name: [Attachment Unique Mail](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Attachment_Unique_Mail)
 
+  Contributors: [Arnav Dandekar](https://github.com/4rnv)
 
 
-## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+- Project Name: [Automated calendar](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/automated_calendar)
 
-### ReactJS
+  Contributors: [J.A. Hernández](https://github.com/jesusalberto18)
 
-- Name: [Unbroken](https://unbroken-app.com/)
 
-  Description: Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books
+- Project Name: [Automated emails](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/automated_email)
 
-  Link: <https://unbroken-app.com/>
+  Contributors: [Suvigya](https://github.com/SuvigyaJain1)
 
 
+- Project Name: [Battery\_notification (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)
 
-## [May 22 - May 28, 2023](/content/2023/21/README.md)
+  Contributors: [Krishna Sharma](https://github.com/krishnasharma1386)
 
-### Rails
 
-- Name: [Cartes.io API (⭐126)](https://github.com/M-Media-Group/Cartes.io)
+- Project Name: [Better\_CSV\_Storage (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage)
 
-  Description: Free, anonymous, and live maps for anyone and everything.
+  Contributors: [Bhargav Kuvadiya](https://github.com/techdobz)
 
-  Link: <https://app.cartes.io>
 
+- Project Name: [Bitcoin price GUI](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Bitcoin-Price-GUI)
 
+  Contributors: [Amirul Abu](https://github.com/amirulabu)
 
-### ReactJS
 
-- Name: [React Admin](https://www.wrappixel.com/templates/category/react-templates/?ref=232)
+- Project Name: [CLI Calculator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/cli_calculator)
 
-  Description: Download Free React Templates by WrapPixel
+  Contributors: [Willian GL](https://github.com/williangl)
 
-  Link: [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/react-templates/?ref=232)
 
+- Project Name: [COVID visualiser (real-time) ](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/covid_visualiser)
 
-- Name: [React Admin Templates](https://adminmart.com/templates/react/?ref=6)
+  Contributors: [Tushar Gupta](https://github.com/tushar5526)
 
-  Description: Download Best Free and Premium React Templates from AdminMart
 
-  Link: [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6)
+- Project Name: [CSV to Excel (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)
 
+  Contributors: [xemeds](https://github.com/xemeds)
 
 
-### VueJS
+- Project Name: [Caesar Cipher](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/caesar_cipher)
 
-- Name: [VueJs Admin](https://www.wrappixel.com/templates/category/vuejs-templates/?ref=232)
+  Contributors: [epi052](https://github.com/epi052)
 
-  Description: Download Free VueJs Templates by WrapPixel
 
-  Link: [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/vuejs-templates/?ref=232)
+- Project Name: [Checksum tool](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Checksum)
 
+  Contributors: [Austin Ewens](https://github.com/aewens)
 
-- Name: [VueJs Admin Templates](https://adminmart.com/templates/vuejs/?ref=6)
 
-  Description: Download Best Free and Premium VueJs Templates from AdminMart
+- Project Name: [Clean\_up\_photo](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Clean_up_photo_directory)
 
-  Link: [https://adminmart.com/](https://adminmart.com/templates/vuejs/?ref=6)
+  Contributors: [sritanmay001](https://github.com/sritanmy001)
 
 
+- Project Name: [Codechef autosubmitter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Codechef-Code-Submitter)
 
-## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
+  Contributors: [Harshit Mahajan](https://github.com/hmahajan99)
 
-### C#
 
-- Name: [Libation (⭐5.2k)](https://github.com/rmcrackan/Libation)
+- Project Name: [Codeforces Checker](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/codeforcesChecker)
 
-  Description: Audible Audiobook manager and library.
+  Contributors: [Jinesh Parakh](https://github.com/jineshparakh)
 
-  Link: [https://github.com/rmcrackan/Libation (⭐5.2k)](https://github.com/rmcrackan/Libation)
 
+- Project Name: [Colored B\&W Image Converter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Color_to_BW_Converter)
 
+  Contributors: [Nitish Srivastava](https://github.com/nitish-iiitd)
 
-## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
-### Go
+- Project Name: [Contact 'Leads' Distribution](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Contact-Distribution)
 
-- Name: [Kopia](https://kopia.io/)
+  Contributors: [Tiago Cordeiro](https://github.com/tiagocordeiro)
 
-  Description: Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice.
 
-  Link: [https://github.com/kopia/kopia (⭐13k)](https://github.com/kopia/kopia)
+- Project Name: [Countdown (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)
 
+  Contributors: [Jeremias Gomes](https://github.com/j3r3mias)
 
 
-## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
+- Project Name: [csv\_to\_json (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)
 
-### C++
+  Contributors: [MoiZ](https://github.com/TechBoyy6)
 
-- Name: [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
 
-  Description: Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
+- Project Name: [Cricket Matches web Scraper](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/CricBuzz_Score_Update)
 
-  Link: [https://github.com/sumatrapdfreader/sumatrapdf (⭐16k)](https://github.com/sumatrapdfreader/sumatrapdf)
+  Contributors: [Divy Ranjan](https://github.com/divyranjan17)
 
 
+- Project Name: [Crypt socket](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Crypt_Socket)
 
-## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
+  Contributors: [Willian GL](https://github.com/williangl)
 
-### ReactJS
 
-- Name: [PopCritic (⭐76)](https://github.com/theabbie/PopCritic)
+- Project Name: [Cryptocurrency Converter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Cryptocurrency-converter)
 
-  Description: Movies Reviewed by people, for people.
+  Contributors: [AdnCodz](https://github.com/AdnCodez)
 
-  Link: <https://popcritic.web.app/>
 
-  : 
+- Project Name: [Cryptocurrency Prices (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices)
 
-  : 
+  Contributors: [xemeds](https://github.com/xemeds)
 
-  : 
 
+- Project Name: [Current City Weather](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Current_City_Weather)
 
+  Contributors: [Jesse Bridge](https://github.com/jessebridge)
 
-## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
-### Laravel
+- Project Name: [DNA Analysis Toolkit (⭐13)](https://github.com/shmlkv/dna-claude-analysis)
 
-- Name: [WinterCMS (⭐1.5k)](https://github.com/wintercms/winter)
+  Contributors: [shmlkv](https://github.com/shmlkv)
 
-  Description: CMS platform built on Laravel
 
-  Link: <https://wintercms.com/>
+- Project Name: [DOH DIG](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/DOH-Dig/)
 
+  Contributors: [Ryan](https://github.com/awsumco)
 
 
-## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
+- Project Name: [Database-As-Storage (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage)
 
-### Laravel
+  Contributors: [Bhargav Kuvadiya](https://github.com/techdobz)
 
-- Name: [Taskord](https://gitlab.com/taskord/taskord)
 
-  Description: Get things done socially with community of makers.
+- Project Name: [Directory Tree Visualizer (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator)
 
-  Link: <https://taskord.com>
+  Contributors: [Harpreet Singh Saluja](https://github.com/hssaluja25/)
 
-  : 
 
+- Project Name: [Directory organizer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Directory-organizer)
 
+  Contributors: [Athul P](https://github.com/athulpn)
 
-## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
-### Laravel
+- Project Name: [Download Page as PDF (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)
 
-- Name: [Tinre (⭐70)](https://github.com/devpri/tinre)
+  Contributors: [Jeremias Gomes](https://github.com/j3r3mias)
 
-  Description: A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS.
 
-  Link: [https://github.com/devpri/tinre (⭐70)](https://github.com/devpri/tinre)
+- Project Name: [Elasticsearch snapshot (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot)
 
-  : 
+  Contributors: [Joe Ryan](https://github.com/joeryan)
 
 
+- Project Name: [English Theasaurus (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasauras/)
 
-## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
+  Contributors: [Ansh Dhingra](https://github.com/anshdhinhgra47)
 
-### Django
 
-- Name: [Django-shop (⭐3.3k)](https://github.com/awesto/django-shop)
+- Project Name: [Excel Files Merger](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Excel_Files_Merger)
 
-  Description: A Django based shop system
+  Contributors: [Andrei N](https://github.com/Andrei-Niculae)
 
-  Link: <https://django-shop.readthedocs.io/en/latest/index.html>
 
+- Project Name: [Excel to List](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Excel_to_ListofList)
 
-- Name: [Django Project](https://www.djangoproject.com/)
+  Contributors: [Nitish Srivastava](https://github.com/nitish-iiitd)
 
-  Description: Official Django Website and Documentation
 
-  Link: <https://www.djangoproject.com/>
+- Project Name: [Extended\_ip\_address\_info](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/extended_ip_address_info)
 
+  Contributors: [hafpaf](https://github.com/hafpaf)
 
 
-### Electron
+- Project Name: [Face Recognition (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Face_recognition)
 
-- Name: [Lavendel](http://github.com/timo-cmd/lavendel)
+  Contributors: [LOKESH KHURANA](https://github.com/theluvvkhurana)
 
-  Description: Cross platform desktop app >2.5kb containing a cute timer
 
-  Link: <https://github.com/timo-cmd/Lavendel>
+- Project Name: [Fibonacci\_Sequence\_Generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Fibonacci_Sequence_Generator)
 
+  Contributors: [John Wesley Kommala](https://github.com/JohnWesleyK)
 
 
-## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
+- Project Name: [File Carving (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving)
 
-### Android
+  Contributors: [Yeryeong Kim](https://github.com/icarusicarus/)
 
-- Name: [InstaGrabber](https://github.com/austinhuang0131/instagrabber)
 
-  Description: Open source alternative Instagram client.
+- Project Name: [File Encrypt Decrypt](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/file-encrypt-decrypt)
 
-  Link: <https://instagrabber.austinhuang.me>
+  Contributors: [Aditya Arakeri](https://github.com/adityaarakeri)
 
 
+- Project Name: [FileMagic Organizer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/./FileMagic_Organizer)
 
-## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
+  Contributors: [malivinayak](https://github.com/malivinayak)
 
-### Android
 
-- Name: [Simple Random Stock (⭐7)](https://github.com/WillWcchan/Simple-Random-Stock)
+- Project Name: [File Organizer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/File-Organizer)
 
-  Description: A simple application that will randomly select stocks for you.
+  Contributors: [Ayush Bhardwaj](https://github.com/hastagAB)
 
-  Link: <https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock>
 
+- Project Name: [File Sharing Bot](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/File-Sharing-Bot)
 
+  Contributors: [Darshan Patel](https://github.com/DarshanPatel11)
 
-## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
-### Ruby
+- Project Name: [File explorer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/File-Explorer-Dialog-Box)
 
-- Name: [Lazylead](https://lazylead.org)
+  Contributors: [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
 
-  Description: Self-hosted application that allows automate (without admin access) daily actions with ticketing systems (Jira, GitHub, Trello) like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar.
 
-  Link: [https://github.com/dgroup/lazylead (⭐74)](https://github.com/dgroup/lazylead)
+- Project Name: [Find PhoneNumber in String](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Find-PhoneNumber-in-String)
 
+  Contributors: [Austin Zuniga](https://github.com/AustinZuniga)
 
 
-## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
+- Project Name: [Flash card quizzer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Flash-card-Challenge)
 
-### ReactJS
+  Contributors: [Utkarsh Sharma](https://github.com/Utkarsh1308)
 
-- Name: [Feednext (⭐321)](https://github.com/feednext/feednext)
 
-  Description: A central source of object reviewing
+- Project Name: [Folder Locker and hider (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)
 
-  Link: <https://feednext.io>
+  Contributors: [Prajjwal Pathak](https://github.com/pyguru123)
 
 
+- Project Name: [Folder Manager](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Folder_Manager)
 
-## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
+  Contributors: [Harsh Raj](https://github.com/DeadProgrammer0)
 
-### Electron
 
-- Name: [ExifCleaner](https://exifcleaner.com)
+- Project Name: [Frammed text generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/FramedText)
 
-  Description: Cross platform desktop app to remove exif metadata from images
+  Contributors: [jcdwalle](https://github.com/jcdwalle)
 
-  Link: <https://exifcleaner.com>
 
+- Project Name: [Get Time By TimeZone (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)
 
+  Contributors: [Parth Shah](https://github.com/codingis4noobs)
 
-## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
-### ReactJS
+- Project Name: [git\_automation (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)
 
-- Name: [Dnote (⭐3k)](https://github.com/dnote/dnote)
+  Contributors: [loge1998](https://github.com/loge1998)
 
-  Description: A simple command line notebook with a web interface
 
-  Link: <https://www.getdnote.com>
+- Project Name: [Github repo creator (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)
 
+  Contributors: [Harish Tiwari ](https://github.com/optimist2309)
 
 
-## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
+- Project Name: [Github Review Bot (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github-Review-Bot)
 
-### VueJS
+  Contributors: [Gaurav Giri](https://github.com/gaurovgiri)
 
-- Name: [vue-music163 (⭐96)](https://github.com/pluto1114/vue-music163)
 
-  Description: A Vue.js app for music
+- Project Name: [GithubBot (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)
 
-  Link: 
+  Contributors: [Abhilasha](https://github.com/Abhilasha06)
 
 
+- Project Name: [Gmail Mailing Script](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/mailing)
 
-## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
+  Contributors: [mayank-kapur](https://github.com/kapurm17)
 
-### Laravel
 
-- Name: [Unifiedtransform (⭐3k)](https://github.com/changeweb/Unifiedtransform)
+- Project Name: [Google Meet Joiner (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)
 
-  Description: A School Management Software.
+  Contributors: [JohanSanSebastian](https://github.com/JohanSanSebastian)
 
-  Link: <https://changeweb.github.io/Unifiedtransform/>
 
-  : 
+- Project Name: [HTML Table to List](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/HTML_Table_to_List)
 
+  Contributors: [Nitish Srivastava](https://github.com/nitish-iiitd)
 
 
-### Rails
+- Project Name: [Handwrting DNN recognizer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Handwriting_Recognizer)
 
-- Name: [Spree (⭐15k)](https://github.com/spree/spree)
+  Contributors: [Chris](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
-  Description: E-commerce Solution
 
-  Link: <http://spreecommerce.com>
+- Project Name: [Harry Potter Cloak (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak)
 
+  Contributors: [thesmartdeveloperr](https://github.com/thesmartdeveloperr)
 
 
-### React Native
+- Project Name: [IMDB TV Series Info Extractor](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/imdb_episode_ratings)
 
-- Name: [Ulangi (⭐451)](https://github.com/ulangi/ulangi)
+  Contributors: [Yash Raj Sarrof](https://github.com/yashYRS)
 
-  Description: A flashcard app to learn language with different learning methods
 
-  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.ulangi)
+- Project Name: [IMDBQuerier](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/IMDBQuerier)
 
+  Contributors: [Burak Bekci](https://github.com/Bekci)
 
 
-## [Dec 09 - Dec 15, 2019](/content/2019/49/README.md)
+- Project Name: [IP Address  (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ipaddress)
 
-### ReactJS
+  Contributors: [Xenium](https://github.com/xeniumcode)
 
-- Name: [Filestash (⭐14k)](https://github.com/mickael-kerjean/filestash)
 
-  Description: A Dropbox like file manager built in React
+- Project Name: [Image Compressor (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)
 
-  Link: <https://filestash.app>
+  Contributors: [Prathima Kadari](https://github.com/prathimacode-hub)
 
 
+- Project Name: [Image To PDF](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/images2pdf)
 
-## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
+  Contributors: [msaoudallah](https://github.com/msaoudallah)
 
-### Meteor
 
-- Name: [titra (⭐456)](https://github.com/kromitgmbh/titra)
+- Project Name: [Image Watermarker (batch)](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/imageWatermarker)
 
-  Description: An open source project time-tracking app
+  Contributors: [Remco Halman](https://github.com/remcohalman)
 
-  Link: <https://titra.io/>
 
+- Project Name: [Image circle formatter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Image-Circulator)
 
+  Contributors: [Berk Gureken](https://github.com/bureken)
 
-## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
 
-### Firebase
+- Project Name: [Independent RSA Communication Algorithm (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)
 
-- Name: [PriceTrack (⭐136)](https://github.com/duyetdev/pricetrack)
+  Contributors: [Miguel Santos](https://github.com/wi6n3l)
 
-  Description: API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
 
-  Link: 
+- Project Name: [Instadp Web Scrapper](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/InstadpShower)
 
+  Contributors: [Psychiquest](https://github.com/psychiquest)
 
 
-## [Oct 08 - Oct 14, 2018](/content/2018/41/README.md)
+- Project Name: [Instagram Video Downloader (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)
 
-### Django
+  Contributors: [Shobhit Bhosure](https://github.com/shobhit99)
 
-- Name: [Travel Mate Server (⭐51)](https://github.com/project-travel-mate/server)
 
-  Description: Django based document management system with OCR, indexing, full text searching, previewing and more
+- Project Name: [JSON file to YAML convertor (⭐1)](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)
 
-  Link: [App on PlayStore](https://goo.gl/1iAq94)
+  Contributors: [Saksham Basandrai](https://github.com/saksham117)
 
 
+- Project Name: [Keylogger](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Keylogger)
 
-## [Aug 20 - Aug 26, 2018](/content/2018/34/README.md)
+  Contributors: [Preet Mishra](https://github.com/preetmishra)
 
-### ReactJS
 
-- Name: [Kitematic (⭐12k)](https://github.com/docker/kitematic)
+- Project Name: [Medium Article Downloader](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/medium_article_downloader)
 
-  Description: Visual Docker Container Management on Mac & Windows
+  Contributors: [coolsonu39](https://github.com/coolsonu39)
 
-  Link: [https://github.com/docker/kitematic (⭐12k)](https://github.com/docker/kitematic)
 
+- Project Name: [Minecraft Server in background](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Minecraft_server_in_background)
 
+  Contributors: [Max von Forell](https://github.com/mvforell)
 
-## [Jun 11 - Jun 17, 2018](/content/2018/24/README.md)
 
-### ReactJS
+- Project Name: [Own IP locator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Location_Of_Own_IP_Adress)
 
-- Name: [react-handsontable (⭐518)](https://github.com/handsontable/react-handsontable)
+  Contributors: [Chris](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
-  Description: A React wrapper for the the Handsontable spreadsheet component.
 
-  Link: <https://handsontable.com>
+- Project Name: [PDF2text](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/PDF2text)
 
-  : 
+  Contributors: [QuangPH](https://github.com/quangph-1686a)
 
-  : 
 
-  : 
+- Project Name: [PDFsplitter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/PDFsplitter)
 
+  Contributors: [Prathamesh-Ghatole](https://github.com/Prathamesh-Ghatole)
 
 
-### VueJS
+- Project Name: [PX to REM (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)
 
-- Name: [vue-handsontable-official (⭐740)](https://github.com/handsontable/vue-handsontable-official)
+  Contributors: [Atthaphon Urairat](https://github.com/uatthaphon)
 
-  Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
 
-  Link: <https://handsontable.com>
+- Project Name: [Pdf to AudioBook Converter (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)
 
-  : 
+  Contributors: [Ayesha Gull](https://github.com/ayeshag7/)
 
 
+- Project Name: [Plagiarism\_detector (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)
 
-## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
+  Contributors: [Akshita Singhal](https://github.com/akshitasinghal4444)
 
-### Android
 
-- Name: [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK)
+- Project Name: [Port Scanner](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Port_Scanner)
 
-  Description: Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website.
+  Contributors: [Plutoberth](https://github.com/Plutoberth)
 
-  Link: <https://play.google.com/store/apps/details?id=com.applozic.messenger>
 
+- Project Name: [Pressure\_Converter (⭐0)](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)
 
+  Contributors: [E-Wave](https://github.com/E-wave112)
 
-## [Apr 16 - Apr 22, 2018](/content/2018/16/README.md)
 
-### Django
+- Project Name: [Pretty CSV](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Pretty-CSV)
 
-- Name: [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms)
+  Contributors: [Frizz925](https://github.com/Frizz925)
 
-  Description: Django based document management system with OCR, indexing, full text searching, previewing and more
 
-  Link: <https://www.mayan-edms.com/>
+- Project Name: [PyRecorder](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/PyRecorder)
 
+  Contributors: [Rocky Jain](https://github.com/jainrocky)
 
 
-## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
+- Project Name: [py\_based\_music\_player (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/py_based_music_player)
 
-### ReactJS
+  Contributors: [Bhargav Kuvadiya](https://github.com/techdobz)
 
-- Name: [Github Desktop (⭐21k)](https://github.com/desktop/desktop)
 
-  Description: Git client on Mac & Windows
+- Project Name: [Py\_Cleaner](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Py_Cleaner)
 
-  Link: <https://desktop.github.com>
+  Contributors: [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
 
 
+- Project Name: [Python Algebra Solver](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Algebra-Solver)
 
-## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
+  Contributors: [Sengxay Xayachack](https://github.com/frankxayachack)
 
-### React Native
 
-- Name: [Whatsapp Clone](https://github.com/VctrySam/whatsapp)
+- Project Name: [RSA Algorithm (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)
 
-  Description: Whatsapp Clone app built with React Native
+  Contributors: [Chinmay Rane](https://github.com/Chinmayrane16)
 
-  Link: [Demo](https://youtu.be/UQYsVd-rI54)
 
+- Project Name: [RSA Key Pair Generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/RSA-key-pairs)
 
-- Name: [London React (⭐51)](https://github.com/JoeStanton/london-react)
+  Contributors: [Aditya Parikh](https://github.com/obiwan69)
 
-  Description: React Native app for the London React Meetup
 
-  Link: 
+- Project Name: [Random Password Generators](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Random_Password_Generator)
 
+  Contributors: [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)
 
 
-### C#
+- Project Name: [Random name generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Random_Names_Generator)
 
-- Name: [MySQL Database Library (⭐4)](https://github.com/Ezeji/MySQL-Database-Library)
+  Contributors: [Ayush Bhardwaj](https://github.com/hastagAB)
 
-  Description: C# tool for seamless MySQL connection and CRUD operations
 
-  Link: <https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009>
+- Project Name: [Random\_Email\_Generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Random_Email_Generator)
 
+  Contributors: [Shubham Garg](https://github.com/shub-garg)
 
 
-## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
+- Project Name: [Remove-Duplicate-Files](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Remove-Duplicate-Files)
 
-### Laravel
+  Contributors: [Aayushi Varma](https://github.com/aayuv17)
 
-- Name: [AbuseIO (⭐227)](https://github.com/AbuseIO/AbuseIO)
 
-  Description: Abuse Management for network operators
+- Project Name: [Rock-Paper-Scissor Game (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)
 
-  Link: <https://abuse.io>
+  Contributors: [Punit Sakre](https://github.com/punitsakre23)
 
 
+- Project Name: [send\_whatsapp\_message](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/send_whatsapp_message)
 
-## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
+  Contributors: [Mukesh Prasad](https://github.com/mukeshprasad)
 
-### Laravel
 
-- Name: [Laracom (⭐2k)](https://github.com/jsdecena/laracom)
+- Project Name: [Send messages to sqs in parallel](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/send_sqs_messages_in_parallel)
 
-  Description: FREE E-Commerce Software
+  Contributors: [Jinam Shah](https://github.com/jinamshah)
 
-  Link: <https://laracom.net>
 
+- Project Name: [Server Ping](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Ping_Server)
 
+  Contributors: [prince](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
-## [Dec 04 - Dec 10, 2017](/content/2017/49/README.md)
 
-### Android
+- Project Name: [Signature photo to PNG converter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/signature2png)
 
-- Name: [Easy Password (⭐36)](https://github.com/hanjoongcho/aaf-easypassword)
+  Contributors: [Rodolfo Ferro](https://github.com/RodolfoFerro)
 
-  Description: A password manager using a single lock pattern for various type passwords management.
 
-  Link: <https://play.google.com/store/apps/details?id=io.github.hanjoongcho.easypassword>
+- Project Name: [Simple Webpage Parser](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/SimpleWebpageParser)
 
+  Contributors: [Nitish Srivastava](https://github.com/nitish-iiitd)
 
 
-## [Nov 20 - Nov 26, 2017](/content/2017/47/README.md)
+- Project Name: [Slideshare downloader](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Slideshare-Downloader)
 
-### Laravel
+  Contributors: [Chris Goes](https://github.com/GhostofGoes)
 
-- Name: [Akaunting (⭐9.6k)](https://github.com/akaunting/akaunting)
 
-  Description: Free and Online Accounting Software
+- Project Name: [SMS your location](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/SmsYourLocation)
 
-  Link: <https://akaunting.com>
+  Contributors: [prince](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
 
+- Project Name: [Spotify Downloader](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/spotify_downloader)
 
-## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
+  Contributors: [Sagar Patel](https://github.com/sagar627)
 
-### React Native
 
-- Name: [Standard Notes (⭐821)](https://github.com/standardnotes/mobile)
+- Project Name: [Squid installer for Ubuntu](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Squid-Proxy-Installer-for-Ubuntu16)
 
-  Description: A simple and private notes app
-
-  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes)
-
-
-
-## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
-
-### Laravel
-
-- Name: [Admin Architect (⭐212)](http://github.com/adminarchitect/core)
-
-  Description: Administration Framework. Active Admin for Laravel
-
-  Link: <http://adminarchitect.com>
-
-
-
-## [Oct 16 - Oct 22, 2017](/content/2017/42/README.md)
-
-### Android
-
-- Name: [Easy Photo Map (⭐42)](https://github.com/hanjoongcho/aaf-easyphotomap)
-
-  Description: Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo.
-
-  Link: <https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap>
-
-
-
-## [Oct 02 - Oct 08, 2017](/content/2017/40/README.md)
-
-### Laravel
-
-- Name: [Despark's igniCMS (⭐13)](https://github.com/despark/igni-core)
-
-  Description: Easy to use featherlight CMS, which provides you with a shortcut to bootstrapping the backend of PHP (Laravel), MySQL based projects.
-
-  Link: <https://despark.com/>
-
-
-
-### Amber
-
-- Name: [Crystal ANN (⭐48)](https://github.com/crystal-community/crystal-ann)
-
-  Description: Web site to announce new [Crystal](https://crystal-lang.org/) projects, blog posts, updates and other work activities
-
-  Link: <https://crystal-ann.com>
-
-
-
-## [Sep 04 - Sep 10, 2017](/content/2017/36/README.md)
-
-### ReactJS
-
-- Name: [Picatic - Ticketing Selling (⭐44)](https://github.com/picatic/picatic-examples/tree/master/react-checkout)
-
-  Description: Ticketing widget built with create-react-app
-
-  Link: <http://developer.picatic.com/>
-
-
-
-## [Aug 21 - Aug 27, 2017](/content/2017/34/README.md)
-
-### Laravel
-
-- Name: [Handesk (⭐1.4k)](https://github.com/BadChoice/handesk)
-
-  Description: A Powerful Laravel Help Desk and Lead Management App.
-
-  Link: 
-
-
-- Name: [Multitrust (⭐1.4k)](https://github.com/BadChoice/handesk)
-
-  Description: Latest roles and permission for multi-auth or single-auth.
-
-  Link: <https://hellolaravel.org/mk/multitrust/>
-
-
-
-### Android
-
-- Name: [Easy Diary (⭐530)](https://github.com/hanjoongcho/aaf-easydiary)
-
-  Description: This is a diary application optimized to user experience.
-
-  Link: <https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary>
-
-
-
-## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
-
-### Laravel
-
-- Name: [Antvel](https://github.com/ant-vel/App)
-
-  Description: Laravel eCommerce
-
-  Link: <http://antvel.com>
-
-
-
-## [Jul 10 - Jul 16, 2017](/content/2017/28/README.md)
-
-### Laravel
-
-- Name: [Voten (⭐1.3k)](https://github.com/voten-co/voten)
-
-  Description: Voten.co is a real-time social bookmarking platform for the 21st century
-
-  Link: [https://voten.co](https://voten.co/)
-
-
-
-### ReactJS
-
-- Name: [How to GraphQL (⭐8.7k)](https://github.com/howtographql/howtographql)
-
-  Description: The Fullstack Tutorial for GraphQL
-
-  Link: <https://www.howtographql.com>
-
-
-
-### Firebase
-
-- Name: [Fun Retro](https://github.com/funretro/distributed)
-
-  Description: Fun Retro is a distributed retrospective app that is easy and simple to use.
-
-  Link: 
-
-
-
-## [Apr 03 - Apr 09, 2017](/content/2017/14/README.md)
-
-### Laravel
-
-- Name: [Openlaravel (⭐120)](https://github.com/ammezie/openlaravel)
-
-  Description: A collection of open source projects built using Laravel
-
-  Link: <http://openlaravel.com>
-
-
-
-## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
-
-### React Native
-
-- Name: [Civis Face](https://github.com/civisanalytics/CivisFace)
-
-  Description: An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly.
-
-  Link: [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA)
-
-
-
-## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
-
-### React Native
-
-- Name: [Yahoo Finance (⭐2.1k)](https://github.com/7kfpun/FinanceReactNative)
-
-  Description: iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). Data is pulled from Yahoo Finance.
-
-  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance)
-
-
-- Name: [Pokemon Go Clone (⭐15)](https://github.com/VctrySam/Pokemon)
-
-  Description: Pokemon Go in React Native.
-
-  Link: [Demo](https://youtu.be/RG6FFL2ny3s)
-
-
-- Name: [BBC News (⭐210)](https://github.com/joeltrew/BBCNews-React-Native)
-
-  Description: An unofficial basic implementation of the BBC News app built using React Native.
-
-  Link: 
-
-
-- Name: [FC Barca App](https://github.com/VctrySam/FCBarca)
-
-  Description: FC Barcelona in React Native.
-
-  Link: [Demo](https://youtu.be/PIk_u2cHKjE)
-
-
-- Name: [AirBnb Clone](https://github.com/VctrySam/AirBnb)
-
-  Description: An Airbnb Clone in React Native.
-
-  Link: [Demo](https://www.youtube.com/watch?v=CJLBFYHb4f8)
-
-
-- Name: [Assemblies (⭐360)](https://github.com/buildreactnative/assemblies)
-
-  Description: A developer-focused Meetup clone built with React Native.
-
-  Link: 
-
-
-- Name: [21mobile (⭐161)](https://github.com/sonnylazuardi/21mobile)
-
-  Description: Cinema 21 movie schedule app built with react native, graphql, redux
-
-  Link: [21mobile.sonnylab.com](http://21mobile.sonnylab.com)
-
-
-- Name: [Dribbble (⭐2.1k)](https://github.com/catalinmiron/react-native-dribbble-app)
-
-  Description: Dribbble app built with React Native
-
-  Link: 
-
-
-- Name: [Snapchat Clone](https://github.com/VctrySam/SnapChat)
-
-  Description: SnapChat clone written with React Native
-
-  Link: [Demo](https://www.youtube.com/watch?v=sStf_ZbTXss)
-
-
-
-## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
-
-### VueJS
-
-- Name: [Attendant (⭐75)](https://github.com/phppirate/attendant)
-
-  Description: Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron
-
-
-
-## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
-
-### Laravel
-
-- Name: [MIT-2014-2015-YEARBOOK (⭐3)](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK)
-
-  Description: E-YearBook for 2014/2015 UNILAG MIT students
-
-  Link: [http://unilagmitfaces.ml](http://unilagmitfaces.ml/)
+  Contributors: [Berkay Demir](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/)
 
   : 
 
 
+- Project Name: [SSH Host adder (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)
 
-### ReactJS
+  Contributors: [NinoDoko](https://github.com/NinoDoko)
 
-- Name: [docue (⭐9)](https://github.com/kevgathuku/docue)
 
-  Description: Document Management System With React Frontend
+- Project Name: [Steg\_Tool (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)
 
-  Link: <https://docue.herokuapp.com>
+  Contributors: [Shankar JP](https://github.com/shankarjp)
 
 
-- Name: [MERNMAP (⭐10)](https://github.com/iamraphson/mernmap)
+- Project Name: [sudoku-solver (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver)
 
-  Description: An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers
+  Contributors: [Rishabh Umrao](https://github.com/ayedaemon)
 
-  Link: [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/)
 
+- Project Name: [Subtitle downloader](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Subtitle-downloader)
 
+  Contributors: [Kaushlendra Pratap](https://github.com/kaushl1998)
 
-## [Dec 05 - Dec 11, 2016](/content/2016/49/README.md)
 
-### Laravel
+- Project Name: [TTS - Text to Speech Mp3 (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TTS_Text_to_Speech_Mp3)
 
-- Name: [Laravel GitScrum (⭐2.9k)](https://github.com/renatomarinho/laravel-gitscrum)
+  Contributors: [Antonio Andrade](https://github.com/xAndrade)
 
-  Description: GitScrum is a project to help developer team.
 
-  Link: 
+- Project Name: [Take Screenshot](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Take_screenshot)
 
+  Contributors: [Moad Mohammed Elhebri](https://github.com/moadmmh)
 
 
-## [Nov 21 - Nov 27, 2016](/content/2016/47/README.md)
+- Project Name: [Tambola\_Ticket\_Generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Tambola_Ticket_Generator)
 
-### ReactJS
+  Contributors: [Amandeep\_Singh](https://github.com/Synster)
 
-- Name: [Itsquiz-wall (⭐520)](https://github.com/WebbyLab/itsquiz-wall)
 
-  Description: Isomorphic "Quiz Wall" for itsquiz.com
+- Project Name: [Test Your Internet Speed (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)
 
-  Link: <https://itsquiz.com>
+  Contributors: [TheSmartDeveloperr](https://github.com/thesmartdeveloperr)
 
 
-- Name: [SoundRedux - SoundCloud Client (⭐5k)](https://github.com/andrewngu/sound-redux)
+- Project Name: [TicTacToe AI and 2 players (⭐4)](https://github.com/ShadowHunter15/Awesome-Python-Scripts/tree/master/TicTacToe_AI_and_2_players)
 
-  Description: Isomorphic "Quiz Wall" for itsquiz.com
+  Contributors: [Omar Sameh](https://github.com/ShadowHunter15)
 
-  Link: <https://soundredux.io>
 
+- Project Name: [To Do Bot](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/To%20Do%20Bot)
 
-- Name: [React-Powered Hacker News Client (⭐2.3k)](https://github.com/insin/react-hn)
+  Contributors: [Darshan Patel](https://github.com/DarshanPatel11)
 
-  Description: React-Powered Hacker News Client
 
-  Link: <https://react-hn.appspot.com>
+- Project Name: [Top\_News](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Top_News)
 
+  Contributors: [Attupatil](https://github.com/Attupatil)
 
-- Name: [Calypso (⭐13k)](https://github.com/Automattic/wp-calypso)
 
-  Description: The new JavaScript- and API-powered WordPress.com
+- Project Name: [Translate CLI (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)
 
-  Link: <https://developer.wordpress.com/calypso>
+  Contributors: [Rodrigo Oliveira](https://github.com/rodrigocam)
 
 
-- Name: [Trello tribute (⭐2.5k)](https://github.com/bigardone/phoenix-trello)
+- Project Name: [URL shortener](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/url_shortener)
 
-  Description: A clone of Trello with React and Phoenix
+  Contributors: [Sam Ebison](https://github.com/ebsa491)
 
-  Link: <https://phoenix-trello.herokuapp.com>
 
+- Project Name: [Upload Files to S3](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Upload_files_to_s3)
 
-- Name: [In-Browser Playground](https://github.com/fatiherikli/fil)
+  Contributors: [Jayram Nai](https://github.com/jramnai)
 
-  Description: A playground for in-browser interpreters. Built with React/Redux.
 
-  Link: <http://fatiherikli.github.io/fil>
+- Project Name: [Vinegère Cipher](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/vigenere_cipher)
 
+  Contributors: [victoni](https://github.com/victoni)
 
-- Name: [Spectacle (⭐10k)](https://github.com/FormidableLabs/spectacle)
 
-  Description: A React library for Deck/Slide Presentations.
+- Project Name: [Web proxy](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Proxy-Request)
 
-  Link: [http://stack.formidable.com/spectacle (⭐10k)](https://github.com/FormidableLabs/spectacle)
+  Contributors: [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
 
 
-- Name: [Google Map Clustering (⭐200)](https://github.com/istarkov/google-map-clustering-example)
+- Project Name: [Website Url Detector](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Website_Url_Detector)
 
-  Description: A Google Map Clustering Example
+  Contributors: [sonniki](https://github.com/sonniki)
 
-  Link: <http://istarkov.github.io/google-map-clustering-example>
 
+- Project Name: [Website blocker](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Website-Blocker)
 
-- Name: [Perseus (⭐1.5k)](https://github.com/Khan/perseus)
+  Contributors: [Ayush Bhardwaj](https://github.com/hastagAB)
 
-  Description: Perseus is Khan Academy's new exercise question editor and renderer
 
-  Link: <http://khan.github.io/perseus>
+- Project Name: [WiFi Password Viewer](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Wifi-Password)
 
+  Contributors: [Sagar Patel](https://github.com/sagar627)
 
-- Name: [Favesound-redux (⭐1.6k)](https://github.com/rwieruch/favesound-redux)
 
-  Description: The SoundCloud Client in React + Redux made with passion!
+- Project Name: [Wikipedia-Search (⭐2.3k)](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)
 
-  Link: <http://www.robinwieruch.de/the-soundcloud-client-in-react-redux>
+  Contributors: [Nissaar](https://github.com/Nissaar)
 
 
+- Project Name: [Word Frequency Counter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Word_Frequency_Counter)
 
-## [Nov 14 - Nov 20, 2016](/content/2016/46/README.md)
+  Contributors: [sonniki](https://github.com/sonniki)
 
-### ReactJS
 
-- Name: [Cerebro (⭐8.5k)](https://github.com/KELiON/cerebro)
+- Project Name: [Word generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Word-generator)
 
-  Description: One-input productivity booster
+  Contributors: [TGLIDE](https://github.com/TGlide)
 
-  Link: <http://www.cerebroapp.com>
 
+- Project Name: [Work log generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Work_Log_Generator)
 
+  Contributors: [Maël Pedretti](https://github.com/73VW)
 
-## [Nov 07 - Nov 13, 2016](/content/2016/45/README.md)
 
-### Laravel
+- Project Name: [X Scrapper](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/X_Scrapper)
 
-- Name: [FlarepointCRM (⭐2.3k)](https://github.com/Bottelet/Flarepoint-crm)
+  Contributors: [Shreeram](https://github.com/iamshreeram)
 
-  Description: Self-hosted CRM platform built with Laravel 5
 
-  Link: 
+- Project Name: [YTS Torrents](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/yts_torrents)
 
+  Contributors: [Mayank Nader](https://github.com/makkoncept)
 
-- Name: [Ribbbon (⭐665)](https://github.com/canvasowl/ribbbon)
 
-  Description: A project management system for Artisans
+- Project Name: [Yoda-speak Translator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/speak_like_yoda)
 
-  Link: 
+  Contributors: [sonniki](https://github.com/sonniki)
 
 
-- Name: [SЁCU (⭐33)](https://github.com/secusu/secusu)
+- Project Name: [Youtube video downloader](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Youtube_Video_Downloader)
 
-  Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
+  Contributors: [Christopher He](https://github.com/hecris)
 
-  Link: <https://secu.su/>
 
+- Project Name: [Zabbix API](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/zabbix_api)
 
-- Name: [Confomo (⭐73)](https://github.com/mattstauffer/confomo)
+  Contributors: [msg4sunny](https://github.com/msg4sunny)
 
-  Description: A service that facilitates meeting Twitter friends at conferences
 
-  Link: 
+- Project Name: [Zip password cracker](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/zip_password_cracker)
 
+  Contributors: [umar abdullahi](https://github.com/umarbrowser)
 
-- Name: [File Manager (⭐2.1k)](https://github.com/UniSharp/laravel-filemanager)
 
-  Description: A File manager (for CKEditor and TinyMCE) with multi-users support.
+- Project Name: [Task Scheduler](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Task-Scheduler)
 
-  Link: 
+  Contributors: [heysagnik](https://github.com/heysagnik)
 
 
-- Name: [FlyMyShop (⭐61)](https://github.com/aasisvinayak/flymyshop)
+- Project Name: [PDF Password Decypter](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/PDF_Password_Decrypter)
 
-  Description: An e-commerce platform for online merchants.
+  Contributors: [parthasdey2304](https://github.com/parthasdey2304)
 
-  Link: <https://flymyshop.com>
 
+- Project Name: [Password Strength Checker](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/Password_Strength-checker)
 
+  Contributors: [Parveshiiii](https://github.com/Parveshiiii)
 
-## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
 
-### Firebase
+- Project Name: [QR Code Generator](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md/QR-code-generator)
 
-- Name: [Friendlychat (⭐1.8k)](https://github.com/firebase/friendlychat)
-
-  Description: Firebase codelab for building a cross-platform chat app
-
-  Link: 
-
-
-- Name: [Friendlypix (⭐721)](https://github.com/firebase/friendlypix)
-
-  Description: FriendlyPix is a cross-platform Firebase example app
-
-  Link: 
-
-
-- Name: [Firefeed (⭐457)](https://github.com/firebase/firefeed)
-
-  Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
-
-  Link: 
-
-
-
-## [Sep 12 - Sep 18, 2016](/content/2016/37/README.md)
-
-### Laravel
-
-- Name: [DevTv (⭐26)](https://github.com/iamraphson/DEV-TV)
-
-  Description: DevTv is your online Video Subscription Platform
-
-  Link: [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/)
-
-
-
-### ReactJS
-
-- Name: [microapps-donation (⭐24)](https://github.com/iamraphson/microapps-donation)
-
-  Description: A single page application that allows people to donate money
-
-  Link: [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/)
-
-
-
-## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
-
-### Laravel
-
-- Name: [Condor (⭐21)](https://github.com/condorrocks/condor)
-
-  Description: Service monitor that watches diverse statuses, and elegantly reports every drift
-
-  Link: [https://condor.rocks](https://condor.rocks/)
-
-
-
-## [Jul 25 - Jul 31, 2016](/content/2016/30/README.md)
-
-### Laravel
-
-- Name: [Airflix (⭐438)](https://github.com/wells/airflix)
-
-  Description: A near-netflix Clone
-
-  Link: 
-
-
-- Name: [Vuedo (⭐2.3k)](https://github.com/vuedo/vuedo)
-
-  Description: Vuedo is blog platform, built with Laravel and Vue.js.
-
-  Link: <https://vuejsfeed.com>
-
-
-
-## [Jul 04 - Jul 10, 2016](/content/2016/27/README.md)
-
-### Laravel
-
-- Name: [Gitamin (⭐348)](https://github.com/GitaminHQ/Gitamin)
-
-  Description: A self-hosted git repository management software
-
-  Link: <http://gitamin.com>
-
-
-
-## [Jun 27 - Jul 03, 2016](/content/2016/26/README.md)
-
-### Laravel
-
-- Name: [Laraadmin (⭐1.6k)](https://github.com/dwijitsolutions/laraadmin)
-
-  Description: CRM for quickstart Admin based applications
-
-  Link: [http://laraadmin.com](http://laraadmin.com/)
-
-
-
-## [Jun 20 - Jun 26, 2016](/content/2016/25/README.md)
-
-### Android
-
-- Name: [Plaid (⭐16k)](https://github.com/nickbutcher/plaid)
-
-  Description: An app that showcases Material Design
-
-  Link: <https://play.google.com/store/apps/details?id=io.plaidapp>
-
-
-- Name: [Google I/O Scheduler (⭐22k)](https://github.com/google/iosched)
-
-  Description: Offcial Android app for Google I/O
-
-  Link: <https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched>
-
-
-- Name: [Project Frisbee (⭐265)](https://github.com/gdg-x/frisbee)
-
-  Description: All GDG content in one place
-
-  Link: <https://play.google.com/store/apps/details?id=org.gdg.frisbee.android>
-
-
-- Name: [Wallsplash (⭐787)](https://github.com/mikepenz/wallsplash-android)
-
-  Description: Wallsplash is the cutting edge wallpaper app for your device!
-
-  Link: <https://play.google.com/store/apps/details?id=com.mikepenz.unsplash>
-
-
-
-## [May 09 - May 15, 2016](/content/2016/19/README.md)
-
-### Meteor
-
-- Name: [Wekan (⭐21k)](https://github.com/wekan/wekan)
-
-  Description: The open-source Trello-like kanban
-
-  Link: <https://wekan.io/>
-
-
-
-## [Apr 18 - Apr 24, 2016](/content/2016/16/README.md)
-
-### Laravel
-
-- Name: [Larasocial (⭐275)](https://github.com/msalom28/Larasocial)
-
-  Description: A Social Network Application
-
-  Link: <http://larasocial.info>
-
-
-- Name: [Aimeos (⭐8.5k)](https://github.com/aimeos/aimeos-laravel)
-
-  Description: Ecommerce package for high performance online shops
-
-  Link: <https://aimeos.org/Laravel>
-
-
-
-### Rails
-
-- Name: [Copycopter (⭐677)](https://github.com/copycopter/copycopter-server)
-
-  Description: A service for editing the copy text of a Rails application.
-
-  Link: <http://copycopter.com>
-
-
-
-## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
-
-### Laravel
-
-- Name: [Katana (⭐381)](https://github.com/themsaid/katana)
-
-  Description: Laravel static site/blog generator with markdown support
-
-  Link: 
-
-
-- Name: [CoasterCMS (⭐387)](https://github.com/web-feet/coastercms)
-
-  Description: Coaster CMS Project
-
-  Link: <http://www.coastercms.org>
-
-
-- Name: [Statamic](https://github.com/statamic)
-
-  Description: Flat File CMS
-
-  Link: <https://statamic.com>
-
-
-
-### Django
-
-- Name: [Django-CMS (⭐11k)](https://github.com/divio/django-cms)
-
-  Description: Easy to use and developer friendly CMS
-
-  Link: <http://www.django-cms.org>
-
-
-- Name: [Django-fiber (⭐665)](https://github.com/ridethepony/django-fiber)
-
-  Description: A simple, user-friendly CMS for all your Django projects
-
-  Link: <http://ridethepony.org>
-
-
-- Name: [Feincms (⭐1.1k)](https://github.com/feincms/feincms)
-
-  Description: A Django-based CMS with a focus on extensibility and concise code
-
-  Link: <http://www.feincms.org>
-
-
-- Name: [Mezzanine (⭐4.8k)](https://github.com/stephenmcd/mezzanine)
-
-  Description: CMS framework for Django
-
-  Link: <http://mezzanine.jupo.org>
-
-
-- Name: [Wagtail (⭐20k)](https://github.com/torchbox/wagtail)
-
-  Description: A Django content management system focused on flexibility and user experience
-
-  Link: <http://wagtail.io>
-
-
-- Name: [Django-leonardo (⭐99)](https://github.com/django-leonardo/django-leonardo)
-
-  Description: CMS for everyone, easy to deploy and scale, robust modular system with many packages
-
-  Link: <https://www.leonardo-cms.org>
-
-
-
-## [Mar 28 - Apr 03, 2016](/content/2016/13/README.md)
-
-### Laravel
-
-- Name: [Koel (⭐17k)](https://github.com/phanan/koel)
-
-  Description: A personal music streaming server that works
-
-  Link: <http://koel.phanan.net>
-
-
-- Name: [Laravel Tricks (⭐964)](https://github.com/CodepadME/laravel-tricks)
-
-  Description: Laravel Tips and Tricks
-
-  Link: <http://laravel-tricks.com>
-
-
-- Name: [Larasites](https://github.com/we-are-next/larasites.com)
-
-  Description: Showcasing the best websites made with Laravel & Lumen
-
-  Link: <https://www.larasites.com>
-
-
-- Name: [Flarum (⭐16k)](https://github.com/flarum/flarum)
-
-  Description: Delightfully simple forum software
-
-  Link: <http://flarum.org>
-
-
-- Name: [LavaliteCMS (⭐2.9k)](https://github.com/LavaLite/cms)
-
-  Description: CMS built on Laravel 5.2
-
-  Link: <http://www.lavalite.org>
-
-
-- Name: [AsgardCMS (⭐789)](https://github.com/AsgardCms/Platform)
-
-  Description: A modular multilingual CMS built with Laravel 5
-
-  Link: <http://asgardcms.com>
-
-
-- Name: [KodiCMS (⭐165)](https://github.com/KodiCMS/kodicms-laravel)
-
-  Description: The CMS built on Laravel 5.2
-
-  Link: <http://laravel.kodicms.ru>
-
-
-- Name: [BoostrapCMS (⭐2.5k)](https://github.com/BootstrapCMS/CMS)
-
-  Description: A PHP CMS powered by Laravel 5 and Sentry
-
-  Link: 
-
-
-- Name: [Quarx (⭐493)](https://github.com/YABhq/Quarx)
-
-  Description: A CMS for Laravel Apps
-
-  Link: 
-
-
-- Name: [Oez (⭐31)](https://github.com/gaaarfild/0ez)
-
-  Description: Lightweight Blogging CMS
-
-  Link: 
-
-
-- Name: [Deployer (⭐914)](https://github.com/REBELinBLUE/deployer)
-
-  Description: A free and open source deployment tool
-
-  Link: <http://phpdeployment.org>
-
-
-- Name: [PHPhub (⭐1.8k)](https://github.com/summerblue/phphub)
-
-  Description: Chinese PHP Community
-
-  Link: <http://phphub.org>
-
-
-- Name: [Techademia (⭐19)](https://github.com/andela-fokosun/Checkpoint4)
-
-  Description: Organize Your Youtube Videos to Learn
-
-  Link: <http://techademia.herokuapp.com>
-
-
-- Name: [Laravel.com](https://github.com/laravel/laravel.com)
-
-  Description: Official Website and Documentation of Laravel
-
-  Link: <https://laravel.com>
-
-
-
-### Rails
-
-- Name: [SprintApp (⭐297)](https://github.com/macfanatic/SprintApp)
-
-  Description: Time tracking and Project Management App
-
-  Link: <http://www.sprintapp.com>
-
-
-
-### Meteor
-
-- Name: [Rocket.Chat (⭐45k)](https://github.com/RocketChat/Rocket.Chat)
-
-  Description: A web chat platform
-
-  Link: <https://rocket.chat>
-
-
-- Name: [ColourCode](https://github.com/tamino-martinius/colourco.de)
-
-  Description: An online colour code app
-
-  Link: <http://www.colourco.de>
-
-
-- Name: [ReactionCommerce (⭐12k)](https://github.com/reactioncommerce/reaction)
-
-  Description: A JavaScript Ecommerce App
-
-  Link: <https://reactioncommerce.com>
-
-
-- Name: [CoderMania (⭐50)](https://github.com/Elfoslav/codermania)
-
-  Description: An E-Learning Platform
-
-  Link: <http://www.codermania.com>
-
-
-- Name: [Telescope (⭐180)](https://github.com/TelescopeJS/Telescope)
-
-  Description: Lauch Sites Easily
-
-  Link: <http://www.telescopeapp.org>
-
-
-- Name: [Loop Pulse (⭐8)](https://github.com/clionelabs/looppulse.web.manage)
-
-  Description: Data Analysis Platform
-
-  Link: <http://www.looppulse.com>
-
-
-
-## [Mar 21 - Mar 27, 2016](/content/2016/12/README.md)
-
-### Laravel
-
-- Name: [Invoice Ninja (⭐9.5k)](https://github.com/invoiceninja/invoiceninja)
-
-  Description: Invoice Generation System
-
-  Link: <https://www.invoiceninja.com>
-
-
-- Name: [Faveo (⭐1.2k)](https://github.com/ladybirdweb/faveo-helpdesk)
-
-  Description: Helpdesk Ticketing System
-
-  Link: <http://www.faveohelpdesk.com>
-
-
-- Name: [Timegrid (⭐973)](https://github.com/timegridio/timegrid)
-
-  Description: Online Reservation Platform
-
-  Link: [https://demo.timegrid.io](https://demo.timegrid.io/)
-
-
-- Name: [Laravel.io (⭐2.5k)](https://github.com/laravelio/laravel.io)
-
-  Description: Laravel Community Portal
-
-  Link: <http://laravel.io>
-
-
-- Name: [Attendize (⭐4.2k)](https://github.com/Attendize/Attendize)
-
-  Description: Ticket selling and event management platform
-
-  Link: <https://www.attendize.com>
-
-
-- Name: [PyroCMS (⭐3.2k)](https://github.com/pyrocms/pyrocms)
-
-  Description: PHP CMS
-
-  Link: <https://www.pyrocms.com>
-
-
-- Name: [WardRobeCMS (⭐16)](https://github.com/wardrobecms/wardrobe)
-
-  Description: A minimal blogging application
-
-  Link: <http://wardrobecms.com>
-
-
-- Name: [MicroweberCMS (⭐3.4k)](https://github.com/microweber/microweber)
-
-  Description: Drag and Drop CMS and online shop
-
-  Link: <https://microweber.com>
-
-
-- Name: [TypiCMS (⭐1.6k)](https://github.com/TypiCMS/Base)
-
-  Description: Multilingual and modular CMS built with Laravel 5.2
-
-  Link: 
-
-
-- Name: [FullyCMS (⭐491)](https://github.com/sseffa/fullycms)
-
-  Description: Multi Language Content Management System
-
-  Link: 
-
-
-- Name: [LaraShop (⭐75)](https://github.com/ZENLIX/LaraShop)
-
-  Description: A Simple PHP Shop CMS
-
-  Link: <http://it-toys.com>
-
-
-- Name: [92five (⭐1.2k)](https://github.com/chintanbanugaria/92five)
-
-  Description: Self-hosted Project Management App
-
-  Link: <http://92fiveapp.com>
-
-
-- Name: [Paperwork](https://github.com/twostairs/paperwork)
-
-  Description: OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
-  Link: <http://paperwork.rocks>
-
-
-- Name: [Podcastwala (⭐141)](https://github.com/modestkdr/Podcastwala)
-
-  Description: Podcast System
-
-  Link: 
-
-
-- Name: [Laravel Snippets (⭐331)](https://github.com/basco-johnkevin/laravelsnippets)
-
-  Description: A repository of useful code snippets for Laravel PHP framework
-
-  Link: 
-
-
-- Name: [Freelancer Notes (⭐56)](https://github.com/porimol/freelancer-notes)
-
-  Description: Freelancer Notes
-
-  Link: 
-
-
-- Name: [Critter (⭐61)](https://github.com/msurguy/critterapp)
-
-  Description: Mini-twitter-like app
-
-  Link: <http://demos.maxoffsky.com/critter>
-
-
-- Name: [Cachet (⭐15k)](https://github.com/CachetHQ/Cachet)
-
-  Description: Open Source Status Page System
-
-  Link: [https://cachethq.io (⭐15k)](https://github.com/CachetHQ/Cachet)
-
-
-- Name: [Scrumwala (⭐266)](https://github.com/modestkdr/Scrumwala)
-
-  Description: Your very own Scrum/Agile web app for personal use
-
-  Link: 
-
-
-- Name: [SnipeIT (⭐13k)](https://github.com/snipe/snipe-it)
-
-  Description: IT Asset/license Management System
-
-  Link: <http://snipeitapp.com>
-
-
-- Name: [Neontsunami (⭐4)](https://github.com/dwightwatson/neontsunami)
-
-  Description: Personal Website and blog
-
-  Link: <http://www.neontsunami.com>
-
-
-- Name: [Nahid.co (⭐27)](https://github.com/nahid/nahid.co)
-
-  Description: Personal Portfolio and blog project
-
-  Link: <http://nahid.co>
-
-
-- Name: [Laramap](https://github.com/laramap/laramap.com)
-
-  Description: A Map of Laravel Developers
-
-  Link: <https://laramap.com>
-
-
-- Name: [Learn Party (⭐11)](https://github.com/andela-jkariuki/checkpoint-four-learn-party)
-
-  Description: A Dead Simple Learning Management System
-
-  Link: <https://learn-party.herokuapp.com>
-
-
-- Name: [BookStack (⭐18k)](https://github.com/ssddanbrown/BookStack)
-
-  Description: A platform to create documentation/wiki content
-
-  Link: <https://www.bookstackapp.com>
-
-
-- Name: [Gruik (⭐318)](https://github.com/grena/gruik)
-
-  Description: An open-source markdown note-taking web app
-
-  Link: <http://gruik.io>
-
-
-
-### Rails
-
-- Name: [Helpy](http://helpy.io)
-
-  Description: Mobile First Helpdesk Application
-
-  Link: <http://helpy.io>
-
-
-- Name: [Coderwall (⭐857)](https://github.com/coderwall/coderwall-legacy)
-
-  Description: Professional network for Software
-
-  Link: [engineers (⭐857)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
-
-
-- Name: [Sharetribe (⭐2.4k)](https://github.com/sharetribe/sharetribe)
-
-  Description: A Marketplace Platform
-
-  Link: <https://www.sharetribe.com>
-
-
-- Name: [Spina (⭐14)](https://github.com/denkGroot/Spina)
-
-  Description: A beautiful CMS for Rails Developers
-
-  Link: <http://www.spinacms.com>
-
-
-- Name: [Loomio (⭐2.5k)](https://github.com/loomio/loomio)
-
-  Description: Make decisions together
-
-  Link: <https://www.loomio.org>
-
-
-- Name: [Rails port of OpenstreetMap (⭐2.6k)](https://github.com/openstreetmap/openstreetmap-website)
-
-  Description: Open Street Map
-
-  Link: <http://www.openstreetmap.org>
-
-
-- Name: [Help](https://github.com/netguru/help)
-
-  Description: Small help request system
-
-  Link: 
-
-
-- Name: [OpenSourceBilling](http://www.opensourcerails.com/open-source-billing)
-
-  Description: Beautiful Simple Billing Software
-
-  Link: <http://opensourcebilling.org>
-
-
-- Name: [Hours (⭐1k)](https://github.com/DefactoSoftware/Hours)
-
-  Description: Time registration that doesn't suck
-
-  Link: <https://happyhours.io>
-
-
-- Name: [OpenProject (⭐14k)](https://github.com/opf/openproject)
-
-  Description: Project Management System
-
-  Link: <https://www.openproject.org>
-
-
-- Name: [Huginn (⭐49k)](https://github.com/cantino/huginn)
-
-  Description: Agent system that perform tasks online for you
-
-  Link: 
-
-
-- Name: [Discourse (⭐46k)](https://github.com/discourse/discourse)
-
-  Description: A Platform for Community Discussion
-
-  Link: <http://www.discourse.org>
-
-
-- Name: [Squash (⭐978)](https://github.com/SquareSquash/web)
-
-  Description: Collection of tools that helps developers find and kill bugs
-
-  Link: <http://squash.io>
-
-
-- Name: [Eventx (⭐20)](https://github.com/andela/eventx)
-
-  Description: Event Management System without Hassle
-
-  Link: <http://www.eventtx.com>
-
-
-- Name: [Fulcrum (⭐1.5k)](https://github.com/fulcrum-agile/fulcrum)
-
-  Description: Agile Project Management Tool
-
-  Link: <http://wholemeal.co.nz/projects/fulcrum.html>
-
-
-- Name: [RedMine (⭐2.4k)](https://github.com/edavis10/redmine)
-
-  Description: Project Management Application
-
-  Link: <http://www.redmine.org>
-
-
-- Name: [Diaspora (⭐14k)](https://github.com/diaspora/diaspora)
-
-  Description: Distributed Social Network
-
-  Link: <https://diasporafoundation.org>
-
-
-
-### Django
-
-- Name: [Shoop (⭐2.4k)](https://github.com/shoopio/shoop)
-
-  Description: E-commerce Platform
-
-  Link: <https://shoop.io>
+  Contributors: [Parveshiiii](https://github.com/Parveshiiii)
 

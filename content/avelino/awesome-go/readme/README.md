@@ -2415,6 +2415,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [machine (⭐165)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 *   [nibbler (⭐14)](https://github.com/naughtygopher/nibbler) - A lightweight package for micro batch processing.
 *   [ro (⭐584)](https://github.com/samber/ro) - Reactive Programming: declarative and composable API for event-driven applications.
+*   [signals (⭐9)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 *   [stream (⭐92)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 *   [StreamSQL (⭐54)](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
@@ -2660,6 +2661,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [petrovich (⭐51)](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
 *   [radix (⭐196)](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 *   [TySug (⭐19)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
+*   [uniwidth (⭐4)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
 *   [w2vgrep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder".
 
 **[⬆ back to top](#contents)**

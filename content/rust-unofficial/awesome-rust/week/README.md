@@ -10,7 +10,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [ad-si/Woxi](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+*   [ad-si/Woxi (⭐511)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 
 ### Applications / File manager
 
@@ -19,6 +19,10 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+
+### Applications / Text editors
+
+*   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 
 ### Applications / Utilities
 
@@ -116,7 +120,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [cong-or/hud (⭐135)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
+*   [cong-or/hud (⭐142)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
 ### Development tools / Tunnel
 
