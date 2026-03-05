@@ -22,6 +22,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
+*   [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml)
 *   [sherlock (⭐52)](https://github.com/jonaylor89/sherlock-rs) \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 
 ### Applications / System tools
@@ -34,7 +35,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [ruvnet/wifi-densepose (⭐18k)](https://github.com/ruvnet/wifi-densepose) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
+*   [ruvnet/RuView (⭐28k)](https://github.com/ruvnet/RuView) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
 
 ### Applications / Web
 
@@ -2803,7 +2804,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Bartib](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐817)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ### Development tools / IDEs
 
@@ -4304,7 +4305,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [dust](https://github.com/bootandy/dust) - A more intuitive version of du
+*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of du
 
 ### Applications / Utilities
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 05, 2026](/content/2026/03/05/README.md)
+
+### LSP / Diagnostics
+
+*   [Kurama622/clean-diagnostic (⭐4)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
 ### Startup / Cursorline
@@ -1685,7 +1691,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Thiago4532/mdmath.nvim (⭐207)](https://github.com/Thiago4532/mdmath.nvim) - A Markdown equation previewer, using Kitty Graphics Protocol.
+*   [Thiago4532/mdmath.nvim (⭐207)](https://github.com/Thiago4532/mdmath.nvim) - A Markdown equation previewer, using kitty Graphics Protocol.
 
 ### Colorscheme / Assembly
 
@@ -2420,7 +2426,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [NeViRAIDE/nekifoch.nvim (⭐16)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+*   [NeViRAIDE/nekifoch.nvim (⭐16)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing kitty terminal font settings.
 
 ## [May 07, 2024](/content/2024/05/07/README.md)
 
@@ -2927,7 +2933,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [3rd/image.nvim (⭐1.9k)](https://github.com/3rd/image.nvim) - Add image support through Kitty's graphics protocol or ueberzugpp.
+*   [3rd/image.nvim (⭐1.9k)](https://github.com/3rd/image.nvim) - Add image support through kitty's graphics protocol or ueberzugpp.
 
 ### Preconfigured Configuration / Automation
 
@@ -3121,7 +3127,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Assembly
 
-*   [IndianBoy42/tree-sitter-just (⭐180)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐31k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐180)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐32k)](https://github.com/casey/just).
 
 ### Snippet / Assembly
 
@@ -3354,7 +3360,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [mikesmithgh/kitty-scrollback.nvim (⭐823)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐823)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your kitty scrollback buffer. Ameowzing.
 
 ### Git / Quickfix
 
@@ -5238,7 +5244,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [jvgrootveld/telescope-zoxide (⭐367)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐367)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐34k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

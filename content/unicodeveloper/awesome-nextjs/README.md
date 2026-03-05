@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Mar 05, 2026](/content/2026/03/05/README.md)
+
+### Boilerplates
+
+*   [Kaiforge Lite (⭐0)](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
+
 ## [Feb 25, 2026](/content/2026/02/25/README.md)
 
 ### Extensions
@@ -26,7 +32,7 @@
 
 ### Extensions
 
-*   [ShotOG (⭐2)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+*   [ShotOG (⭐3)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ### Apps
 

@@ -16,7 +16,7 @@
 
 [Next.js (⭐138k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -144,6 +144,7 @@
 *   [NextJS Chargebee Subscription (⭐20)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 *   [Next.js Enterprise (⭐7.3k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 *   [Start UI \[web\] (⭐1.7k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+*   [Kaiforge Lite (⭐0)](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 
 ## Extensions
 
@@ -182,7 +183,7 @@
 *   [Vercel AI SDK (⭐22k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 *   [CopilotKit (⭐29k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 *   [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
-*   [ShotOG (⭐2)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+*   [ShotOG (⭐3)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ## Apps
 
