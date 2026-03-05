@@ -197,7 +197,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 *   [MacVim (⭐7.8k)](https://github.com/macvim-dev/macvim) - the text editor Vim - for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 *   [micro](https://micro-editor.github.io) - Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
-*   [Neovim (⭐96k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
+*   [Neovim (⭐97k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 *   [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 *   [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple distraction-free notepad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 *   [Sublime Text](http://www.sublimetext.com/3) - A popular, clean, and sleek editor with a plugin management system. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -384,6 +384,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 *   [CoilPad](https://coilpad.com) - Native macOS Python scratchpad designed for instant prototyping and interactive learning. ![Freeware][Freeware Icon]
 *   [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
+*   [Swifka (⭐22)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 *   [Configs (⭐180)](https://github.com/iHongRen/configEditor) - Configuration file manager for quickly viewing, editing and managing config files. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 *   [CubicBezier (⭐167)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 *   [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool. ![Open-Source Software][OSS Icon]
@@ -958,6 +959,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 
 *   [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 *   [buzz (⭐18k)](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
+*   [OpenTypeless (⭐15)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 *   [Ottex](https://ottex.ai) - Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly — gmail.com → email, Obsidian → markdown, etc.
 *   [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 *   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
@@ -1063,6 +1065,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 *   [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 *   [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
+*   [VPN Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 *   [Windscribe](https://windscribe.com) - Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time.
 *   [Tailscale](https://tailscale.com/) - Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
 
@@ -1161,20 +1164,20 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
-*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 *   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 *   [Mac Cache Cleaner (⭐247)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
-*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon]
+*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Scans files by size so you can quickly find space hogs. ![Freeware][Freeware Icon]
 *   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 
 ### File Organization Tools
 
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
-*   [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. ![Freeware][Freeware Icon]
+*   [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 *   [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 *   [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
-*   [Keka](https://www.keka.io) - File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
+*   [Keka](https://www.keka.io) - Open-source compression and extraction tool with broad format support. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
 *   [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 *   [Modal File Manager (⭐162)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 *   [Oka Unarchiver](https://okaapps.com/product/1441507725) - Support RAR format, batch decompression of archives, password-protected archives, click one button to extract & archive.. [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922\&ct=github)
@@ -1250,7 +1253,7 @@ Any comments, suggestions? [Let us know! (⭐99k)](https://github.com/jaywcjlove
 *   [escrcpy (⭐8.5k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android devices, powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 *   [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 *   [Focus Firewall](https://focusfirewall.com) - A minimalist focus app to block social media and other distractions during work. [![App Store][app-store Icon]](\[https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8\&platform=mac]\(https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8\&platform=mac\))
-*   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
+*   [FnKeyboard (⭐5)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 *   [Freeter](https://freeter.io/) - Open-source app that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 *   [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 *   [HapticKey (⭐1.7k)](https://github.com/niw/HapticKey/releases) - A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]

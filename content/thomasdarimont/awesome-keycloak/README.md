@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Mar 05, 2026](/content/2026/03/05/README.md)
+
+### Community Extensions
+
+*   [Pin Code Authenticator for Keycloak ACR/LOA (⭐0)](https://github.com/ldesroch/keycloak-pin-code-authenticator)
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
 ### Articles
@@ -904,7 +910,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐888)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐898)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [Jun 05, 2019](/content/2019/06/05/README.md)
 

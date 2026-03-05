@@ -20,6 +20,10 @@ A curated list of Rust code and resources.
 
 *   [nautechsystems/nautilus\_trader (⭐20k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
 
+### Applications / Security tools
+
+*   [sherlock (⭐52)](https://github.com/jonaylor89/sherlock-rs) \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
+
 ### Applications / System tools
 
 *   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
@@ -271,7 +275,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [LargeModGames/spotatui (⭐370)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
+*   [LargeModGames/spotatui (⭐434)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
 ### Development tools / Static analysis
 
@@ -871,7 +875,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [television (⭐4.2k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
+*   [television (⭐4.3k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
 
 ### Applications / Web Servers
 
@@ -1627,7 +1631,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐12k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [ast-grep (⭐13k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -2134,7 +2138,7 @@ A curated list of Rust code and resources.
 
 ### Applications / File manager
 
-*   [broot (⭐12k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 
 ### Applications / System tools
 
@@ -2799,7 +2803,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Bartib (⭐812)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ### Development tools / IDEs
 
@@ -3593,7 +3597,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/bat (⭐57k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐58k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
@@ -3826,7 +3830,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [grex (⭐8k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+*   [grex (⭐8.1k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 *   [vishaltelangre/ff (⭐344)](https://github.com/vishaltelangre/ff) - Find files (ff) by name!
 *   [xsv](https://crates.io/crates/xsv) - A fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
 
@@ -3849,10 +3853,10 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐904)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐906)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐2.1k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [git-journal (⭐644)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
-*   [just (⭐31k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [just (⭐32k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) - code completion for Rust
 
 ### Development tools / Build system
@@ -4254,7 +4258,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐34k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐2.9k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
@@ -4300,7 +4304,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of du
+*   [dust](https://github.com/bootandy/dust) - A more intuitive version of du
 
 ### Applications / Utilities
 

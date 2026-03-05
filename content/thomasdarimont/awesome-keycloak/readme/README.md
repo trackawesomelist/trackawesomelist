@@ -283,6 +283,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Custom Attribute IDP Linking (⭐34)](https://github.com/sd-f/keycloak-custom-attribute-idp-linking)
 *   [KETE - Event forwarding](https://fortunen.github.io/kete)
 *   [Keycloak Cookieless IDP Extension (⭐1)](https://github.com/dominikschlosser/keycloak-cookieless-idp-extension)
+*   [Pin Code Authenticator for Keycloak ACR/LOA (⭐0)](https://github.com/ldesroch/keycloak-pin-code-authenticator)
 
 ## Integrations
 
@@ -298,7 +299,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐101)](https://github.com/InseeFr/Keycloak-FranceConnect)
 *   [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 *   [Keycloak Python Client (⭐57)](https://github.com/keycloak-client/keycloak-client)
-*   [Keycloak Terraform Provider (⭐888)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐898)](https://github.com/mrparkers/terraform-provider-keycloak)
 *   [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *   [React/NextJS Keycloak Bindings (⭐567)](https://github.com/panz3r/react-keycloak)
 *   [NextJS + tailwind + keycloak integration (⭐9)](https://github.com/santiblanko/keycloak-nextjs-auth)

@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 05, 2026](/content/2026/03/05/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Swifka (⭐22)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Voice-to-Text / Audio Record and Process
+
+*   [OpenTypeless (⭐15)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [VPN Bypass (⭐15)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GeiserX/VPN-Bypass) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
 ### Browsers / Audio Record and Process
@@ -14,7 +28,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node\_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClearDisk (⭐39)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
@@ -183,7 +197,7 @@
 
 ### Utilities / Productivity
 
-*   [FnKeyboard (⭐2)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FnKeyboard (⭐5)](https://github.com/kotique123/FnKeyboard) - A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kotique123/FnKeyboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
@@ -965,7 +979,7 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Neovim (⭐96k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Neovim (⭐97k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Client / Other Tools
 
@@ -2106,7 +2120,7 @@
 
 ### Utilities / File Organization Tools
 
-*   [Keka](https://www.keka.io) - File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/keka/id470158793?platform=mac)
+*   [Keka](https://www.keka.io) - Open-source compression and extraction tool with broad format support. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/keka/id470158793?platform=mac)
 *   [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
@@ -2949,7 +2963,7 @@
 
 ### Utilities / File Organization Tools
 
-*   [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Finder Tools
 
@@ -3631,7 +3645,7 @@
 ### Utilities / Cleanup and Uninstall
 
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OmniDiskSweeper](https://www.omnigroup.com/more) - Scans files by size so you can quickly find space hogs. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / To-Do Lists
 

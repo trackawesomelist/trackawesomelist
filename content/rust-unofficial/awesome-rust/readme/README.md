@@ -201,7 +201,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [Festival (⭐313)](https://github.com/hinto-janai/festival) - A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [figsoda/mmtc (⭐99)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] - Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
 *   [Glicol (⭐2.9k)](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
-*   [LargeModGames/spotatui (⭐370)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
+*   [LargeModGames/spotatui (⭐434)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 *   [mierak/rmpc (⭐2.3k)](https://github.com/mierak/rmpc) \[[rmpc](https://crates.io/crates/rmpc)] - A modern and configurable, terminal based MPD Client with album art support
 *   [ncspot (⭐6.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/actions/workflows/ci.yml/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 *   [OpenMeters (⭐89)](https://github.com/httpsworldview/openmeters) - Fast, simple, and professional audio metering/visualization for Linux written in Rust.
@@ -365,7 +365,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 ### File manager
 
-*   [broot (⭐12k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [FileSSH (⭐206)](https://github.com/JayanAXHF/FileSSH) - A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more! ![crates.io](https://img.shields.io/crates/v/filessh)
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [moyangzhan/mango-finder (⭐209)](https://github.com/moyangzhan/mango-finder) - Search your files using nature language
@@ -492,8 +492,8 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [aannoo/hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 *   [agent-of-empires (⭐870)](https://github.com/njbrake/agent-of-empires) - A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [![CI](https://github.com/njbrake/agent-of-empires/actions/workflows/ci.yml/badge.svg)](https://github.com/njbrake/agent-of-empires/actions)
 *   [aichat (⭐9.4k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-*   [ast-grep (⭐12k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
-*   [Bartib (⭐812)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [ast-grep (⭐13k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [Bartib](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 *   [CookCLI (⭐1.1k)](https://github.com/cooklang/CookCLI) - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
 *   [espanso (⭐13k)](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 *   [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
@@ -548,6 +548,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [reaction](https://framagit.org/ppom/reaction) - Scan logs and take action: an alternative to fail2ban
 *   [ripasso (⭐813)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
 *   [rustscan (⭐19k)](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions)
+*   [sherlock (⭐52)](https://github.com/jonaylor89/sherlock-rs) \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 *   [ssh-vault (⭐496)](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
 *   [SystemVll/TAuth (⭐138)](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
 
@@ -560,7 +561,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 
 ### System tools
 
-*   [ajeetdsouza/zoxide (⭐33k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐34k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [anylinuxfs (⭐1.1k)](https://github.com/nohajc/anylinuxfs) - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
 *   [atuin (⭐28k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 *   [bandwhich (⭐12k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -578,7 +579,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [ddh (⭐484)](https://github.com/darakian/ddh) - Fast duplicate file finder
 *   [deshaw/procfd (⭐75)](https://github.com/deshaw/procfd) \[[procfd](https://crates.io/crates/procfd)] - Linux lsof replacement to list open file descriptors for processes
 *   [diskonaut (⭐3k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
-*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of du
+*   [dust](https://github.com/bootandy/dust) - A more intuitive version of du
 *   [eza-community/eza (⭐20k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 *   [fish-shell/fish-shell (⭐33k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [fork (⭐77)](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon)
@@ -619,7 +620,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [pueue (⭐6.1k)](https://github.com/nukesor/pueue) - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/Nukesor/pueue/actions/workflows/test.yml/badge.svg)](https://github.com/nukesor/pueue/actions)
 *   [qarmin/czkawka (⭐29k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 *   [redox-os/ion (⭐1.6k)](https://github.com/redox-os/ion) - Next-generation system shell
-*   [sharkdp/bat (⭐57k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐58k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 *   [sharkdp/fd (⭐42k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 *   [sitkevij/hex (⭐559)](https://github.com/sitkevij/hex) - A colorized hexdump terminal utility.
 *   [skim (⭐6.6k)](https://github.com/skim-rs/skim) - A fuzzy finder
@@ -659,7 +660,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [cchexcode/complate (⭐46)](https://github.com/cchexcode/complate) - An in-terminal text templating tool designed for standardizing messages (like for GIT commits). [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/cchexcode/complate/actions/workflows/release.yml/badge.svg)](https://github.com/cchexcode/complate/actions)
 *   [dathere/qsv (⭐3.5k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
 *   [dominikwilkowski/cfonts (⭐1.8k)](https://github.com/dominikwilkowski/cfonts) \[[cfonts](https://crates.io/crates/cfonts)] - Sexy ANSI fonts for the console ![build badge](https://github.com/dominikwilkowski/cfonts/actions/workflows/testing.yml/badge.svg)
-*   [grex (⭐8k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+*   [grex (⭐8.1k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 *   [Lisprez/so\_stupid\_search (⭐175)](https://github.com/Lisprez/so_stupid_search) - A simple and fast string search tool for human beings
 *   [loki\_text (⭐4)](https://github.com/roquess/loki_text) \[[loki\_text](https://crates.io/crates/loki_text)] - String manipulation library with pattern searching, text transformation, and multiple string search algorithms (KMP, Boyer-Moore, Aho-Corasick, etc.)
 *   [Melody (⭐4.7k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
@@ -706,7 +707,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [suckit (⭐793)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 *   [Tabiew (⭐2.7k)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 *   [Tail Tales (⭐13)](https://github.com/davidmoreno/tailtales) - A TUI log viewer with logfmt support. [![Crate](https://img.shields.io/crates/v/tailtales.svg?logo=rust)](https://crates.io/crates/tailtales)
-*   [television (⭐4.2k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
+*   [television (⭐4.3k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
 *   [tversteeg/emplace (⭐283)](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines
 *   [vamolessa/verco (⭐224)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
 *   [vaultwarden (⭐55k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
@@ -772,7 +773,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [biome (⭐24k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 *   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐904)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐906)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [cloudflare/foundations (⭐1.6k)](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
 *   [comtrya (⭐603)](https://github.com/comtrya/comtrya) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 *   [create-rust-app (⭐1.6k)](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
@@ -792,7 +793,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [hot-lib-reloader (⭐737)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 *   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
-*   [just (⭐31k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [just (⭐32k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [mask (⭐1.6k)](https://github.com/jacobdeichert/mask) - A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 *   [Module Linker (⭐255)](https://github.com/fiatjaf/module-linker) - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 *   [ptags (⭐138)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
