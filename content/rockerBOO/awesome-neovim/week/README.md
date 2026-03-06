@@ -20,6 +20,7 @@ Collections of awesome neovim plugins.
 ### Code Runner / Quickfix
 
 *   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [mikeboiko/nvim-flow (⭐3)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 

@@ -6,6 +6,12 @@ A curated list of awesome Lit resources.
 
 [ [Daily](/content/web-padawan/awesome-lit/README.md) / Weekly / [Overview](/content/web-padawan/awesome-lit/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### Extensions
+
+*   [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Component Libraries
@@ -269,7 +275,7 @@ A curated list of awesome Lit resources.
 *   [Furo Webcomponents (⭐12)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 *   [Fusion Web Components (⭐13)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 *   [Ignite UI Web Components (⭐168)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-*   [Medblocks UI (⭐67)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Medblocks UI (⭐68)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 *   [One Platform Components (⭐31)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 *   [Playground Elements (⭐640)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 *   [Stripe Elements (⭐84)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.

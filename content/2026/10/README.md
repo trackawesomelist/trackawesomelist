@@ -1,12 +1,390 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2026
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Command-line
+
+*   [dnshammer (⭐0)](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
+
+## [2. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+
+### Extensions
+
+*   [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
+
+## [3. Htaccess](/content/phanan/htaccess/week/README.md)
+
+### Rewrite and Redirection / Force www
+
+### Force www
+
+```apacheconf
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^example\.com [NC]
+RewriteRule ^(.*)$ https://www.example.com/$1 [L,R=301,NC]
+```
+
+### Rewrite and Redirection / Force non-www
+
+### Force non-www
+
+It’s [still](https://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](https://yes-www.org/) [debate](https://no-www.org/) whether www or non-www is the way to go, so if you happen to be a fan of bare domains, here you go:
+
+```apacheconf
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+RewriteRule ^(.*)$ https://example.com/$1 [L,R=301]
+```
+
+### Rewrite and Redirection / Remove Trailing Slash
+
+### Remove Trailing Slash
+
+This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (except for actual directories), e.g. `https://www.example.com/blog/` to `https://www.example.com/blog`. This is important for SEO, since it’s [recommended](https://overit.com/blog/canonical-urls) to have a canonical URL for every page.
+
+```apacheconf
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+```
+
+[Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
+
+### Rewrite and Redirection / Redirect an Entire Site
+
+### Redirect an Entire Site
+
+```apacheconf
+Redirect 301 / https://newsite.com/
+```
+
+This way does it with links intact. That is `www.oldsite.com/some/crazy/link.html` will become `www.newsite.com/some/crazy/link.html`. This is extremely helpful when you are just “moving” a site to a new domain. [Source](https://css-tricks.com/snippets/htaccess/301-redirects/)
+
+### Rewrite and Redirection / Redirect Using RedirectMatch
+
+### Redirect Using RedirectMatch
+
+```apacheconf
+RedirectMatch 301 /subdirectory(.*) https://www.newsite.com/newfolder/$1
+RedirectMatch 301 ^/(.*).htm$ /$1.html
+RedirectMatch 301 ^/200([0-9])/([^01])(.*)$ /$2$3
+RedirectMatch 301 ^/category/(.*)$ /$1
+RedirectMatch 301 ^/(.*)/htaccesselite-ultimate-htaccess-article.html(.*) /htaccess/htaccess.html
+RedirectMatch 301 ^/(.*).html/1/(.*) /$1.html$2
+RedirectMatch 301 ^/manual/(.*)$ https://www.php.net/manual/$1
+RedirectMatch 301 ^/old-directory/(.*)$ /new-directory/$1
+RedirectMatch 301 ^/z/(.*)$ https://static.askapache.com/$1
+```
+
+[Source](https://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
+
+### Rewrite and Redirection / Alias “Clean” URLs
+
+### Alias “Clean” URLs
+
+This snippet lets you use “clean” URLs -- those without a PHP extension, e.g. `example.com/users` instead of `example.com/users.php`.
+
+```apacheconf
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+```
+
+[Source](https://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
+
+### Security / Deny All Access
+
+### Deny All Access
+
+```apacheconf
+Require all denied
+```
+
+But wait, this will lock you out from your content as well! Thus introducing...
+
+### Security / Deny All Access Except Yours
+
+### Deny All Access Except Yours
+
+```apacheconf
+Require all denied
+Require ip xxx.xxx.xxx.xxx
+```
+
+`xxx.xxx.xxx.xxx` is your IP. If you replace the last three digits with `0/12` for example, this will specify a range of IPs within the same network, thus saving you the trouble to list all allowed IPs separately. [Source](https://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
+
+Now of course there's a reversed version:
+
+### Security / Allow All Access Except Spammers'
+
+### Allow All Access Except Spammers'
+
+```apacheconf
+Require all granted
+Require not ip xxx.xxx.xxx.xxx
+Require not ip xxx.xxx.xxx.xxy
+```
+
+### Security / Disable Image Hotlinking
+
+### Disable Image Hotlinking
+
+```apacheconf
+RewriteEngine on
+# Remove the following line if you want to block blank referrer too
+RewriteCond %{HTTP_REFERER} !^$
+
+RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
+RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico)$ - [NC,F,L]
+
+# If you want to display a “blocked” banner in place of the hotlinked image,
+# replace the above rule with:
+# RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico) https://example.com/blocked.png [R,L]
+```
+
+### Security / Disable Image Hotlinking for Specific Domains
+
+### Disable Image Hotlinking for Specific Domains
+
+Sometimes you want to disable image hotlinking from some bad guys only.
+
+```apacheconf
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite2\.com [NC,OR]
+RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico)$ - [NC,F,L]
+
+# If you want to display a “blocked” banner in place of the hotlinked image,
+# replace the above rule with:
+# RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico) https://example.com/blocked.png [R,L]
+```
+
+### Security / Block Visitors by Referrer
+
+### Block Visitors by Referrer
+
+This denies access for all users who are coming from (referred by) a specific domain.
+[Source](https://www.htaccess-guide.com/deny-visitors-by-referrer/)
+
+```apacheconf
+RewriteEngine on
+# Options +FollowSymlinks
+RewriteCond %{HTTP_REFERER} somedomain\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} anotherdomain\.com
+RewriteRule .* - [F]
+```
+
+### Security / Block Specific User Agents
+
+### Block Specific User Agents
+
+This will block specific user agents from accessing your site, useful for blocking scrapers and bad bots.
+
+```apacheconf
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} BadBot [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} EvilScraper [NC]
+RewriteRule .* - [F,L]
+```
+
+### Security / Content Security Policy (CSP)
+
+### Content Security Policy (CSP)
+
+A Content Security Policy header helps mitigate cross-site scripting (XSS) and other code injection attacks by declaring which dynamic resources are allowed to load.
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self'"
+</IfModule>
+```
+
+Adjust the directives to fit your needs. See the [CSP reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) for all available directives.
+
+### Security / Prevent MIME Type Sniffing
+
+### Prevent MIME Type Sniffing
+
+This prevents browsers from trying to guess ("sniff") the MIME type of a resource, which can have security implications. The browser will trust what the server says and block the resource if it doesn't match the expected type.
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+```
+
+### Security / Set Referrer Policy
+
+### Set Referrer Policy
+
+Control how much referrer information is included with requests. This helps protect user privacy by preventing the full URL from leaking to external sites.
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+```
+
+### Security / Set Permissions Policy
+
+### Set Permissions Policy
+
+Restrict which browser features your site can use, such as camera, microphone, geolocation, etc.
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header set Permissions-Policy "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+</IfModule>
+```
+
+### Performance / Remove Server Signature
+
+### Remove Server Signature
+
+Prevent Apache from exposing its version number and OS information in HTTP headers and error pages.
+
+```apacheconf
+ServerSignature Off
+```
+
+### Performance / Set Cache-Control Headers
+
+### Set Cache-Control Headers
+
+`Cache-Control` headers provide more fine-grained control over browser caching than Expires headers. You can use both together for maximum compatibility.
+
+```apacheconf
+<IfModule mod_headers.c>
+    # Cache CSS and JS for 1 year
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "max-age=31536000, public"
+    </FilesMatch>
+
+    # Cache images for 1 month
+    <FilesMatch "\.(jpe?g|png|gif|webp|avif|svg|ico)$">
+        Header set Cache-Control "max-age=2592000, public"
+    </FilesMatch>
+
+    # Cache fonts for 1 month
+    <FilesMatch "\.(woff2?|ttf|otf)$">
+        Header set Cache-Control "max-age=2592000, public"
+    </FilesMatch>
+
+    # Do not cache HTML
+    <FilesMatch "\.(html|htm)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+    </FilesMatch>
+</IfModule>
+```
+
+### Miscellaneous / Turn eTags Off
+
+### Turn eTags Off
+
+By removing the `ETag` header, you disable caches and browsers from being able to validate files, so they are forced to rely on your `Cache-Control` and `Expires` header. [Source](https://www.askapache.com/htaccess/apache-speed-etags.html)
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
+```
+
+### Miscellaneous / Custom Error Pages
+
+### Custom Error Pages
+
+```apacheconf
+ErrorDocument 500 "Houston, we have a problem."
+ErrorDocument 401 https://error.example.com/mordor.html
+ErrorDocument 404 /errors/halflife3.html
+```
+
+### Miscellaneous / Custom Maintenance Page
+
+### Custom Maintenance Page
+
+Redirect all traffic to a maintenance page while still allowing access from a specific IP address.
+
+```apacheconf
+RewriteEngine on
+RewriteCond %{REMOTE_ADDR} !^xxx\.xxx\.xxx\.xxx
+RewriteCond %{REQUEST_URI} !/maintenance.html$ [NC]
+RewriteCond %{REQUEST_URI} !\.(css|js|png|jpe?g|gif|svg|ico)$ [NC]
+RewriteRule .* /maintenance.html [R=503,L]
+```
+
+Replace `xxx.xxx.xxx.xxx` with your IP address to retain access while the site is under maintenance.
+
+### Miscellaneous / Enable CORS
+
+### Enable CORS
+
+Enable Cross-Origin Resource Sharing (CORS) for your site, allowing other domains to make requests to your server.
+
+```apacheconf
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+</IfModule>
+```
+
+To restrict access to specific domains, replace `*` with the domain, e.g. `https://example.com`.
+
+### Miscellaneous / Set Custom MIME Types
+
+### Set Custom MIME Types
+
+Define custom MIME types for file formats that Apache may not recognize by default.
+
+```apacheconf
+AddType application/manifest+json .webmanifest
+AddType application/wasm .wasm
+AddType application/x-ndjson .ndjson
+AddType text/vtt .vtt
+```
+
+### Miscellaneous / Switch to Another PHP Version
+
+### Switch to Another PHP Version
+
+If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.
+
+```apacheconf
+AddHandler application/x-httpd-php84 .php
+
+# Alternatively, you can use AddType
+AddType application/x-httpd-php84 .php
+```
+
+### Miscellaneous / Serve WebP/AVIF Images
+
+### Serve WebP/AVIF Images
+
+If a modern format image (AVIF or WebP) with the same name exists alongside the original jpg/png, it will be served instead. AVIF is preferred over WebP when the browser supports both.
+
+```apacheconf
+RewriteEngine On
+
+# Serve AVIF if supported and available
+RewriteCond %{HTTP_ACCEPT} image/avif
+RewriteCond %{DOCUMENT_ROOT}/$1.avif -f
+RewriteRule (.+)\.(jpe?g|png)$ $1.avif [T=image/avif,E=accept:1]
+
+# Otherwise, serve WebP if supported and available
+RewriteCond %{HTTP_ACCEPT} image/webp
+RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+```
+
+## [4. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Clean up of files and directories
 
@@ -46,14 +424,14 @@
 
 *   [Thymus](https://github.com/blademd/thymus) - An interactive browser & editor for network configuration files.
 
-## [2. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [5. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`go-typeql`](https://github.com/CaliLuke/go-typeql) - A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.
 *   [`skills`](https://github.com/CaliLuke/skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -65,7 +443,7 @@
 
 ### Biology
 
-*   [htslib](https://github.com/samtools/htslib) - A C library for reading/writing high-throughput sequencing data. \[MIT/BSD] [website](http://www.htslib.org/)
+*   [htslib (⭐910)](https://github.com/samtools/htslib) - A C library for reading/writing high-throughput sequencing data. \[MIT/BSD] [website](http://www.htslib.org/)
 
 ### CLI
 
@@ -73,19 +451,19 @@
 
 ### Compression
 
-*   [cmix](https://github.com/byronknoll/cmix) - A lossless data compression program that aims for the highest compression ratios at the cost of speed. \[GPL-3.0]
-*   [LZSSE-SIMDe](https://github.com/nemequ/LZSSE-SIMDe) - A portable SIMD implementation of LZSSE compression. \[BSD-2-Clause]
+*   [cmix (⭐694)](https://github.com/byronknoll/cmix) - A lossless data compression program that aims for the highest compression ratios at the cost of speed. \[GPL-3.0]
+*   [LZSSE-SIMDe (⭐19)](https://github.com/nemequ/LZSSE-SIMDe) - A portable SIMD implementation of LZSSE compression. \[BSD-2-Clause]
 *   [Zopfli (⭐3.6k)](https://github.com/google/zopfli) - A compression library that performs very good but slow deflate/zlib compression. \[Apache-2.0]
 
 ### Concurrency
 
-*   [libcu++](https://github.com/NVIDIA/libcudacxx) - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. \[Apache-2.0]
-*   [nvthreads](https://github.com/HewlettPackard/nvthreads) - A library for enabling efficient and persistent threading in C/C++. \[LGPL-2.1]
+*   [libcu++ (⭐2.3k)](https://github.com/NVIDIA/libcudacxx) - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. \[Apache-2.0]
+*   [nvthreads (⭐26)](https://github.com/HewlettPackard/nvthreads) - A library for enabling efficient and persistent threading in C/C++. \[LGPL-2.1]
 
 ### Containers
 
 *   [CRoaring (⭐1.8k)](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. \[Apache-2.0]
-*   [fifo\_map](https://github.com/nlohmann/fifo_map) - A FIFO-ordered associative container for C++. \[MIT]
+*   [fifo\_map (⭐209)](https://github.com/nlohmann/fifo_map) - A FIFO-ordered associative container for C++. \[MIT]
 *   [ordered-map (⭐567)](https://github.com/Tessil/ordered-map) - A C++ hash map and hash set which preserves the order of insertion. \[MIT]
 
 ### Cryptography
@@ -99,11 +477,11 @@
 ### Database
 
 *   [constexpr-sql (⭐141)](https://github.com/mkitzan/constexpr-sql) - A compile-time SQL query parser and executor in C++17. \[MIT]
-*   [NuDB](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. \[Boost]
+*   [NuDB (⭐409)](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. \[Boost]
 
 ### Data visualization
 
-*   [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - A C++ wrapper around the matplotlib Python plotting library. \[MIT]
+*   [matplotlib-cpp (⭐4.7k)](https://github.com/lava/matplotlib-cpp) - A C++ wrapper around the matplotlib Python plotting library. \[MIT]
 
 ### Debug
 
@@ -127,7 +505,7 @@
 
 ### Logging
 
-*   [logfault](https://github.com/jgaa/logfault) - A simple, elegant and efficient C++ header-only logging library. \[MIT]
+*   [logfault (⭐63)](https://github.com/jgaa/logfault) - A simple, elegant and efficient C++ header-only logging library. \[MIT]
 
 ### Machine Learning
 
@@ -139,7 +517,7 @@
 *   [Fastor (⭐832)](https://github.com/romeric/Fastor) - A lightweight high performance tensor algebra framework for modern C++. \[MIT]
 *   [geogram (⭐2.4k)](https://github.com/BrunoLevy/geogram) - A programming library of geometric algorithms. \[BSD-3-Clause]
 *   [std-simd (⭐639)](https://github.com/VcDevel/std-simd) - A portable implementation of std::experimental::simd for C++. \[BSD-3-Clause]
-*   [libdivide](https://github.com/ridiculousfish/libdivide) - Optimized integer division for C/C++ using libdivide. \[zlib] [website](https://libdivide.com)
+*   [libdivide (⭐1.3k)](https://github.com/ridiculousfish/libdivide) - Optimized integer division for C/C++ using libdivide. \[zlib] [website](https://libdivide.com)
 *   [fpsqrt (⭐94)](https://github.com/chmike/fpsqrt) - Fast fixed point and floating point square root for C. \[MIT]
 *   [fastmod (⭐341)](https://github.com/lemire/fastmod) - Header-only fast C/C++ library for computing remainders and modular reductions. \[Apache-2.0]
 *   [Spectra (⭐835)](https://github.com/yixuan/spectra) - A C++ library for large scale eigenvalue problems, built on top of Eigen. \[MPL2] [website](https://spectralib.org)
@@ -153,45 +531,48 @@
 
 ### Networking
 
+*   [OpenDDS (⭐1.5k)](https://github.com/objectcomputing/OpenDDS) - An open source C++ implementation of the Object Management Group (OMG) Data Distribution Service (DDS). \[Apache2]
 *   [easyhttpcpp (⭐168)](https://github.com/sony/easyhttpcpp) - A cross-platform HTTP client library providing a caching facility from Sony. \[MIT]
 *   [GameNetworkingSockets (⭐9.3k)](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). \[BSD-3-Clause]
 *   [wepoll (⭐1.1k)](https://github.com/piscisaureus/wepoll) - A Windows epoll wrapper based on Winsock. \[BSD-2-Clause]
 
 ### Physics
 
-*   [tungsten](https://github.com/tunabrain/tungsten) - A high-performance physically based renderer in C++. \[zlib]
+*   [tungsten (⭐1.8k)](https://github.com/tunabrain/tungsten) - A high-performance physically based renderer in C++. \[zlib]
 
 ### Regular Expression
 
-*   [Pawn.Regex](https://github.com/urShadow/Pawn.Regex) - A Pawn plugin that provides support for regular expressions using C++11 std::regex. \[MIT]
+*   [Pawn.Regex (⭐47)](https://github.com/urShadow/Pawn.Regex) - A Pawn plugin that provides support for regular expressions using C++11 std::regex. \[MIT]
 
 ### Scripting
 
 *   [MuJS](https://codeberg.org/ccxvii/mujs) - An embeddable Javascript interpreter in C. \[ISC] [website](http://mujs.com)
-*   [hobbes](https://github.com/Morgan-Stanley/hobbes) - A language and an embedded JIT compiler from Morgan Stanley. \[Apache-2.0]
+*   [hobbes (⭐1.2k)](https://github.com/Morgan-Stanley/hobbes) - A language and an embedded JIT compiler from Morgan Stanley. \[Apache-2.0]
 
 ### Serialization
 
-*   [fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a serialization library and RPC framework. \[Apache-2.0]
+*   [fbthrift (⭐2.7k)](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a serialization library and RPC framework. \[Apache-2.0]
 
 ### Video
 
-*   [libuvc](https://github.com/libuvc/libuvc) - A cross-platform library for USB video devices. \[BSD]
+*   [libuvc (⭐1.1k)](https://github.com/libuvc/libuvc) - A cross-platform library for USB video devices. \[BSD]
 
 ### Web Application Framework
 
-*   [aeronet](https://github.com/sjanel/aeronet) - High-performance, modular C++ HTTP/1.1, HTTP/2 and WebSocket microservices framework focused on performance and scalability. \[MIT]
+*   [aeronet (⭐34)](https://github.com/sjanel/aeronet) - High-performance, modular C++ HTTP/1.1, HTTP/2 and WebSocket microservices framework focused on performance and scalability. \[MIT]
 *   [httpserver.h (⭐1.9k)](https://github.com/jeremycw/httpserver.h) - A single-header HTTP server library for C. \[MIT]
 *   [libhttp (⭐1k)](https://github.com/lammertb/libhttp) - A cross-platform HTTP and HTTPS library in C/C++. \[MIT]
 
 ### Miscellaneous
 
-*   [Dragonbox](https://github.com/jk-jeon/dragonbox) - Reference implementation of a new float-to-string conversion algorithm in C++. \[Apache2/BSL-1.0]
+*   [Dragonbox (⭐798)](https://github.com/jk-jeon/dragonbox) - Reference implementation of a new float-to-string conversion algorithm in C++. \[Apache2/BSL-1.0]
+*   [Gear-Lib (⭐3.2k)](https://github.com/gozfree/gear-lib) - A collection of basic libraries in POSIX C for embedded and network service development. \[MIT]
+*   [single\_file\_libs (⭐9.8k)](https://github.com/r-lyeh/single_file_libs) - C/C++ open-source libraries with minimal dependencies. \[Various]
 *   [spy (⭐157)](https://github.com/jfalcou/spy) - A C++17 constexpr library for detecting OS, compiler, architecture, and SIMD at compile time. \[MIT]
 *   [licensepp (⭐429)](https://github.com/amrayn/licensepp) - A software license management library for C++ projects. \[Apache-2.0]
-*   [tinydir](https://github.com/cxong/tinydir) - A lightweight, portable, and easy to integrate C directory and file reader. \[BSD-2-Clause]
+*   [tinydir (⭐865)](https://github.com/cxong/tinydir) - A lightweight, portable, and easy to integrate C directory and file reader. \[BSD-2-Clause]
 *   [Cello (⭐7.1k)](https://github.com/orangeduck/Cello) - Higher level programming in C, including generic data structures and polymorphism. \[BSD-2-Clause] [website](http://libcello.org/)
-*   [dyno](https://github.com/ldionne/dyno) - A C++ library for runtime polymorphism with value semantics. \[Boost]
+*   [dyno (⭐1k)](https://github.com/ldionne/dyno) - A C++ library for runtime polymorphism with value semantics. \[Boost]
 *   [PolyHook (⭐924)](https://github.com/stevemk14ebr/PolyHook) - A C++ x86/x64 hooking library. \[MIT]
 *   [Verdigris (⭐673)](https://github.com/woboq/verdigris) - A header-only library that allows using Qt without the need for moc. \[MIT]
 *   [Flicks (⭐1.4k)](https://github.com/OculusVR/Flicks) - A unit of time defined by Facebook/Oculus for exact representation of common frame rates. \[BSD]
@@ -208,7 +589,7 @@
 ### Build Systems
 
 *   [awesome-cmake (⭐5.3k)](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake scripts, modules, and resources.
-*   [boost-cmake](https://github.com/Orphis/boost-cmake) - CMake modules for Boost libraries. \[BSD-3-Clause]
+*   [boost-cmake (⭐408)](https://github.com/Orphis/boost-cmake) - CMake modules for Boost libraries. \[BSD-3-Clause]
 *   [cmake-examples (⭐1.2k)](https://github.com/pr0g/cmake-examples) - A collection of useful CMake examples for various scenarios. \[MIT]
 
 ### Static Code Analysis
@@ -238,34 +619,34 @@
 
 *   [awesome-ld-preload (⭐911)](https://github.com/gaul/awesome-ld-preload) - A curated list of resources related to LD\_PRELOAD.
 *   [awesome-static-analysis (⭐14k)](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages.
-*   [cpp\_functional\_programming](https://github.com/graninas/cpp_functional_programming) - A list of materials and links for C++ functional programming.
+*   [cpp\_functional\_programming (⭐700)](https://github.com/graninas/cpp_functional_programming) - A list of materials and links for C++ functional programming.
 *   [algorithms\_and\_data\_structures (⭐6.1k)](https://github.com/mandliya/algorithms_and_data_structures) - Implementation of algorithms and data structures in C++.
 
-## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Kaiforge Lite (⭐0)](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 
-## [5. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [tmux-grip](https://github.com/leohenon/tmux-grip) Pin tmux sessions to fixed numbered slots with direct key jumps and a popup manager
 
-## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Pin Code Authenticator for Keycloak ACR/LOA (⭐0)](https://github.com/ldesroch/keycloak-pin-code-authenticator)
 
-## [7. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
 *   [dj-control-room](https://github.com/yassi/dj-control-room) - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
 
-## [8. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 4
 
@@ -275,7 +656,7 @@
 
 *   [Neovim](https://github.com/Mathijs-Bakker/godotdev.nvim) - A batteries-included Neovim plugin for Godot 4.x game development. Use Neovim as a fully featured external editor for Godot, with minimal setup.
 
-## [9. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [12. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Accessibility (A11y) / Ruby
 
@@ -302,25 +683,25 @@
 *   [Zero Dark Matrix](https://chromewebstore.google.com/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 *   [Material UI Theme](https://chromewebstore.google.com/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
 
-## [10. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / Menu Bar
 
 *   [dwarvesf/hidden (⭐13k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`13,437`
 
-## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
 *   [JARVIS (⭐3)](https://github.com/hyhmrright/JARVIS): Self-hosted AI assistant platform with RAG, multi-LLM support (DeepSeek/OpenAI/Anthropic), plugin SDK, and multi-channel gateway (Slack/Discord/Telegram). Built with FastAPI and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/hyhmrright/JARVIS?style=social)
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Dashboard (⭐5)](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png) lightweight, customizable, client-side RSS feeds dashboard.
 
-## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [16. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Quality Assurance
 
@@ -330,7 +711,7 @@
 *   [Chrome Open Multiple URLs](https://chromewebstore.google.com/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text.
 *   [Chrome Revolver](https://chromewebstore.google.com/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs.
 
-## [14. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
@@ -340,21 +721,21 @@
 
 *   ["Top ten reasons why I wonâ€™t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 *   [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 
-## [16. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [19. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
 *   [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
 *   [Browser support for WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 
-## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### What do we have:
 
@@ -1051,19 +1432,19 @@
 
 
 
-## [18. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Identity Management - LDAP
 
 *   [LTB Self-Service Password](https://www.ltb-project.org/documentation/self-service-password.html) - Web interface to change and reset LDAP passwords. ([Source Code (⭐1.3k)](https://github.com/ltb-project/self-service-password)) `GPL-3.0` `PHP`
 
-## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [edit-select (⭐5)](https://github.com/Michael-Matta1/zsh-edit-select) - Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.
 
-## [20. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [23. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
@@ -1093,7 +1474,7 @@
 *   [OpenDungeonsPlus (⭐16)](https://github.com/tomluchowski/OpenDungeonsPlus) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
 *   [OpenTPW (⭐145)](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
 
-## [21. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [24. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Communication
 
@@ -1103,7 +1484,7 @@
 
 *   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [22. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [25. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / String Processing
 
@@ -1113,7 +1494,7 @@
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 
-## [23. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [26. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### scRNA
 
@@ -1236,14 +1617,14 @@
 *   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 *   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [27. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [terraform-ai-skills (⭐1)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.
 
-## [25. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [28. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
@@ -1290,13 +1671,13 @@
 
 *   [Omnara (⭐2.6k)](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
 
-## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
 *   [Numberphile](https://www.youtube.com/@numberphile)
 
-## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [30. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Visual Testing
 
@@ -1306,7 +1687,7 @@
 
 *   [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 
-## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Code Analysis
 
@@ -1329,7 +1710,7 @@
     *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1360,13 +1741,13 @@
 
 *   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
 
-## [30. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [33. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
 *   [FinRpt](https://arxiv.org/abs/2511.07322) - Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation.
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [34. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
@@ -1382,13 +1763,13 @@
 
 *   [CodeLift: Introduction to Diffy for Visual Regression Testing](https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing) - Catch visual and functional issues before they reach production.
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Business logic
 
 *   [Servactory (⭐34)](https://github.com/servactory/servactory) - A set of tools for building reliable service objects of any complexity.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1451,7 +1832,7 @@
 
 *   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -1469,6 +1850,10 @@
 ### Applications / Finance
 
 *   [nautechsystems/nautilus\_trader (⭐20k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
+
+### Applications / Productivity
+
+*   [max-sixty/worktrunk (⭐2.8k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
 
 ### Applications / Security tools
 
@@ -1514,7 +1899,7 @@
     *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
     *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -1552,7 +1937,7 @@
 
 *   [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP / Diagnostics
 
@@ -1566,14 +1951,15 @@
 ### Code Runner / Quickfix
 
 *   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [mikeboiko/nvim-flow (⭐3)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
-## [37. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [40. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Just for fun
 
 *   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 
-## [38. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [41. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -1583,7 +1969,7 @@
 
 *   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
 
-## [39. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [42. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Development
 
@@ -1593,13 +1979,13 @@
 
 *   [LastSaaS (⭐43)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 
-## [40. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [43. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Skylos (⭐323)](https://github.com/duriantaco/skylos) — Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.
 
-## [41. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [44. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tools
 
@@ -1610,7 +1996,7 @@
 *   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 *   [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 

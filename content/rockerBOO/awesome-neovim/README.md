@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 06, 2026](/content/2026/03/06/README.md)
+
+### Code Runner / Quickfix
+
+*   [mikeboiko/nvim-flow (⭐3)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+
 ## [Mar 05, 2026](/content/2026/03/05/README.md)
 
 ### LSP / Diagnostics

@@ -139,6 +139,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [`@lit-app/state`](https://www.npmjs.com/package/@lit-app/state) - Lean and simple global State management for Lit 2.
 *   [`@shoelace-style/localize`](https://github.com/shoelace-style/localize) - A micro library for localizing custom elements, providing directives for Lit.
 *   [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lightweight reactive state management for Lit 2.
+*   [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
 *   [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
 *   [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 *   [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
@@ -184,7 +185,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [Ignite UI Web Components (⭐168)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
 *   [LRNWebComponents (⭐269)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
 *   [M3E (⭐57)](https://github.com/matraic/m3e) - Web Components implementing Material 3 Expressive.
-*   [Medblocks UI (⭐67)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Medblocks UI (⭐68)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 *   [Microsoft Graph Toolkit (⭐1k)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 *   [Mutation testing elements (⭐27)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 *   [One Platform Components (⭐31)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
@@ -330,7 +331,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome (⭐437k)](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list!**
 
 ***
 

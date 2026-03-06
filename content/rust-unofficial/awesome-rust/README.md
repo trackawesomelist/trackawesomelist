@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [sabiql (⭐124)](https://github.com/riii111/sabiql) \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml)
 
+### Applications / Productivity
+
+*   [max-sixty/worktrunk (⭐2.8k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
+
 ## [Mar 05, 2026](/content/2026/03/05/README.md)
 
 ### Applications / Security tools

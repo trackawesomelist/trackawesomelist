@@ -6,6 +6,12 @@ A curated list of awesome Lit resources.
 
 [ Daily / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / [Overview](/content/web-padawan/awesome-lit/readme/README.md) ]
 
+## [Mar 06, 2026](/content/2026/03/06/README.md)
+
+### Extensions
+
+*   [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
+
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
 ### Component Libraries
@@ -246,7 +252,7 @@ A curated list of awesome Lit resources.
 
 *   [ESP Web Tools (⭐621)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
 *   [Ignite UI Web Components (⭐168)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-*   [Medblocks UI (⭐67)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Medblocks UI (⭐68)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
 *   [Vidstack Elements (⭐3.4k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 
 ### Tools / Building
