@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 06, 2026](/content/2026/03/06/README.md)
+
+### Language Essentials / String Processing
+
+*   [atman/zg](https://codeberg.org/atman/zg) - Provides Unicode text processing for Zig projects. It works correctly with the Russian language and other languages.
+
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
 ### Network & Web / Network

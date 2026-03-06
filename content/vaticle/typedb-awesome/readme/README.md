@@ -2,7 +2,7 @@
 
 A curated list of awesome TypeDB frameworks libraries, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/typedb/typedb-awesome) · ⭐ 72 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/typedb/typedb-awesome) · ⭐ 74 · 🏷️ Databases
 
 [ [Daily](/content/vaticle/typedb-awesome/README.md) / [Weekly](/content/vaticle/typedb-awesome/week/README.md) / Overview ]
 
@@ -37,6 +37,8 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 *   [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
 *   [`Blitz-ORM`](https://github.com/Blitzapps/blitz-orm) - Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB.
+*   [`go-typeql`](https://github.com/CaliLuke/go-typeql) - A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.
+*   [`skills`](https://github.com/CaliLuke/skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 *   [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 *   [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
 *   [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 06, 2026](/content/2026/03/06/README.md)
+
+### Tools
+
+*   [Frostbyte MCP (⭐0)](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
 ### Datasets / Book Deals (Affiliated)

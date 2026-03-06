@@ -8,6 +8,10 @@ A collection of awesome projects in Zig.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### Language Essentials / String Processing
+
+*   [atman/zg](https://codeberg.org/atman/zg) - Provides Unicode text processing for Zig projects. It works correctly with the Russian language and other languages.
+
 ### Network & Web / Network
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.

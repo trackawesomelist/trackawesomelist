@@ -132,6 +132,10 @@ Please, contribute about "agents"
 
 *   [ADK-Rust (⭐123)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
+### Tools
+
+*   [Frostbyte MCP (⭐0)](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+
 ### Workflow
 
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -672,6 +676,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [RunMat (⭐188)](https://github.com/runmat-org/runmat)                                                 | Fast MATLAB-syntax runtime with automatic CPU/GPU execution and fused array kernels.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [Turbostream (⭐14)](https://github.com/turboline-ai/turbostream)                                      | A terminal UI for experimenting with custom rule engines and selective LLM analysis on real-time data streams, without worrying about streaming infra or backpressure.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [WFGY ProblemMap (⭐1.5k)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)          | Open source “failure atlas” of 16 recurring issues in LLM and RAG pipelines, with observable symptoms and suggested fixes for data science teams.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [Deploybase](https://deploybase.ai/)                                                                  | Track real-time GPU and LLM pricing across all cloud and inference providers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## Literature and Media
 

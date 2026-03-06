@@ -8,6 +8,10 @@
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### Tools
+
+*   [Frostbyte MCP (⭐0)](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
