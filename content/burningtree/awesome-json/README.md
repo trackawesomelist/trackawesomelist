@@ -91,6 +91,7 @@ A curated list of awesome JSON libraries and resources.
 *   [CSV to JSON](https://alef.website/tools/csv-to-json) - Easy, privacy-friendly and offline-first online csv to json converter
 *   [geojson.io](https://geojson.io/) - Simply edit GeoJSON map data.
 *   [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
+*   [Format JSON Online](https://formatjsononline.com/) - Free tool to format, validate, minify, filter, and convert JSON. Fast, secure, and built for developers.
 
 ### Schema Specifications
 
