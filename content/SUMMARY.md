@@ -4,13 +4,13 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Python](/content/content/vinta/awesome-python/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
-  - [Public Apis](/content/content/public-apis/public-apis/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
+  - [Public Apis](/content/content/public-apis/public-apis/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
-  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
   - [Awesome Cpp](/content/content/fffaraz/awesome-cpp/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
