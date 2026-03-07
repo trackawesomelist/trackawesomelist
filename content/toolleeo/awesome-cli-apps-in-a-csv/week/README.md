@@ -8,9 +8,23 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### AI terminal command generator
+
+*   [Blitzdenk (⭐5)](https://github.com/Lommix/blitzdenk) - A minimal multi purpose personal AI TUI.
+
+### Chat and instant messaging
+
+*   [Endcord (⭐626)](https://github.com/mzivic7/endcord) - Discord TUI client.
+*   [Gomphotherium (⭐103)](https://github.com/mrusme/gomphotherium) - A command line Mastodon client.
+*   [gurk (⭐1.2k)](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal.
+
 ### Clean up of files and directories
 
 *   [NTC](https://codeberg.org/ItsZariep/ntc) - A program that, based on the contents of a folder, create tabs (subfolders inside the selected folder) and displays their contents.
+
+### Command launchers
+
+*   [Steam TUI (⭐992)](https://github.com/dmadisetti/steam-tui) - A simple TUI client for steamcmd, allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 
 ### DevOps
 
@@ -41,10 +55,44 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [Brick Game emulator (⭐22)](https://github.com/ilyakurdyukov/brickgame-4bit) - Brick Game emulator that uses 4-bit microcontroller from Holtek.
 *   [Brogue CE](https://sites.google.com/site/broguegame/) - Single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.
 *   [csol (⭐97)](https://github.com/nielssp/csol) - Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon.
+*   [DOOM-ASCII (⭐815)](https://github.com/wojciech-graj/doom-ascii) - Text-based DOOM running in terminal without sound.
+*   [Gameboy Emulator (⭐1.6k)](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - A PHP Terminal GameBoy Emulator.
+*   [go-life (⭐144)](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life, implemented in Go.
+*   [Micro Snake (⭐36)](https://github.com/troglobit/snake) - A small snake game, utilizing ANSI escape sequences to draw the board.
+*   [Micro Tetris (⭐162)](https://github.com/troglobit/tetris) - One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
+*   [Moon-Buggy (⭐105)](https://github.com/seehuhn/moon-buggy) - Game where you drive a car across the moon and jump over craters.
+*   [MyMan](https://sourceforge.net/projects/myman/) - Video game for color and monochrome text terminals in the genre of Namco's Pac-Man.
+*   [nchess (⭐19)](https://github.com/billyvinning/nchess) - Chess in the terminal, written in C (player vs player in the same terminal).
+*   [nInvaders](http://ninvaders.sourceforge.net/) - Game of Space Invaders for terminal.
+*   [Noughts & Crosses (Tic Tac Toe) (⭐14)](https://github.com/vyalovvldmr/onx) - Noughts & Crosses client-server online game with your partner through websockets.
+*   [nSnake (⭐218)](https://github.com/alexdantas/nSnake) - The classic snake game in terminal with textual interface.
+*   [nudoku (⭐363)](https://github.com/jubalh/nudoku) - ncurses based sudoku game.
+*   [snake (⭐113)](https://github.com/wick3dr0se/snake) - A minimal TUI snake game written in pure BASH v5\_1+.
+*   [Square Tic Tac Toe (⭐961)](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) - A game like Tic Tac Toe, but you have to form a square with 4 corners instead of a line.
+*   [SSHTron (⭐2.5k)](https://github.com/zachlatta/sshtron) - Multiplayer lightcycle game that runs through SSH.
+*   [sudoku-rs (⭐25)](https://github.com/MitchelPaulin/sudoku-rs) - Sudoku game for the terminal, built with tui-rs.
+*   [Sweeper (⭐5)](https://github.com/igor47/sweeper) - Basic ncurses Minesweeper game, wirtten in python, using curtsies library.
+*   [tty-solitaire (⭐334)](https://github.com/mpereira/tty-solitaire) - Solitaire game for the terminal ncurses based.
+*   [Wocogo](https://codeberg.org/kedlubnowski/wocogo) - Terminal word game that challenges players to combine given segments into existing words, uses rich library.
+*   [Wordle (⭐2)](https://github.com/m-dango/raku-wordle/) - Wordle game, written in Raku.
+*   [Zigtris (⭐28)](https://github.com/ringtailsoftware/zigtris) - Terminal tetris game.
+*   [Zoridor (⭐14)](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game.
+
+### Learning and didactic tools
+
+*   [Maze TUI (⭐75)](https://github.com/agl-alexglopez/maze-tui) - Build mazes, solve them with various algorithms and visualize them.
 
 ### Networking
 
-*   [Thymus](https://github.com/blademd/thymus) - An interactive browser & editor for network configuration files.
+*   [Thymus (⭐26)](https://github.com/blademd/thymus) - An interactive browser & editor for network configuration files.
+
+### Note taking
+
+*   [Diary (⭐72)](https://github.com/actuday6418/Diary) - A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
+
+### Online search and resources
+
+*   [MAL-Cli (⭐137)](https://github.com/L4z3x/mal-cli) - A terminal interface for the official myanimelist api written in Rust and Ratatui.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -310,7 +358,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Learning and didactic tools
 
-*   [bashmate](https://github.com/algobuddha/bashmate) - CLI tool to learn bash command with your natural language.
+*   [bashmate (⭐4)](https://github.com/algobuddha/bashmate) - CLI tool to learn bash command with your natural language.
 
 ### Networking
 
@@ -620,7 +668,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Networking
 
-*   [oama](https://github.com/pdobsan/oama) - OAuth credential Manager.
+*   [oama (⭐237)](https://github.com/pdobsan/oama) - OAuth credential Manager.
 
 ### Online search and resources
 
@@ -922,7 +970,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Graphics
 
 *   [astroterm (⭐1.8k)](https://github.com/da-luce/astroterm) - A planetarium for your terminal. Explore stars, planets, constellations, and more!
-*   [gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features.
+*   [gowall (⭐2k)](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction, image upsacling with Adversarial Networks  and more image processing features.
 *   [greentext (⭐33)](https://github.com/jasonuc/greentext) - A CLI tool for creating green-text memes.
 
 ### Networking
@@ -1509,7 +1557,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 *   [generate-ip](https://generate-ip.org) - Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses.
 *   [geolocate](https://geolocatejs.org) - Fetch IP geolocation data.
-*   [packemon](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+*   [packemon (⭐296)](https://github.com/ddddddO/packemon) - TUI tool and Go library for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 
 ### Password managers
 
@@ -2363,12 +2411,12 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 *   [havn (⭐311)](https://github.com/mrjackwills/havn) - A fast configurable port scanner with reasonable defaults.
 *   [humble-explorer (⭐80)](https://github.com/koenvervloesem/humble-explorer) - Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
-*   [liboping](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
+*   [liboping (⭐208)](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
 *   [trippy (⭐6.6k)](https://github.com/fujiapple852/trippy) - A network diagnostic tool.
 
 ### Office tools
 
-*   [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
+*   [patat (⭐2.7k)](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
 *   [pysentation (⭐263)](https://github.com/mimseyedi/pysentation) - pysentation is a CLI for displaying Python presentations.
 
 ### Online search and resources
@@ -2731,9 +2779,9 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Networking
 
-*   [recon](https://github.com/jreisinger/recon) - Gather public info about network hosts.
+*   [recon (⭐22)](https://github.com/jreisinger/recon) - Gather public info about network hosts.
 *   [ssh-menu (⭐15)](https://github.com/antonjah/ssh-menu) - A very simple terminal tool that renders an interactive menu with your ssh profiles listed.
-*   [sshed](https://github.com/trntv/sshed) - sshed is a ssh config editor and bookmarks manager.
+*   [sshed (⭐159)](https://github.com/trntv/sshed) - sshed is a ssh config editor and bookmarks manager.
 *   [sshx (⭐7.3k)](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web.
 *   [tunblkctl (⭐39)](https://github.com/azhuchkov/tunblkctl) - Command-line frontend for Tunnelblick.
 
@@ -2976,7 +3024,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 *   [Frogmouth (⭐3.1k)](https://github.com/Textualize/frogmouth) - A Markdown viewer / browser for the terminal.
 *   [lowdown](https://kristaps.bsd.lv/lowdown/) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
-*   [mdcat](https://github.com/swsnr/mdcat) - cat for Markdown
+*   [mdcat (⭐2.4k)](https://github.com/swsnr/mdcat) - cat for Markdown
 *   [mdformat (⭐726)](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 
 ### Package managers
@@ -3210,7 +3258,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 ### Networking
 
 *   [sslh (⭐5k)](https://github.com/yrutschle/sslh) - A ssl/ssh multiplexer (Applicative Protocol Multiplexer) that allows, for example, to share SSH and HTTPS on the same port.
-*   [SSM](https://github.com/elliot40404/ssm) - A simple SSH manager.
+*   [SSM (⭐49)](https://github.com/elliot40404/ssm) - A simple SSH manager.
 
 ### Religion
 
@@ -4328,7 +4376,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [Rustcat (⭐804)](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 *   [speedtest-net (⭐624)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [termishare (⭐37)](https://github.com/qnkhuat/termishare) - Peer to peer terminal sharing.
-*   [TStream](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
+*   [TStream (⭐269)](https://github.com/qnkhuat/tstream) - Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.
 *   [ttyd (⭐11k)](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 *   [Tunnelmole (⭐1.8k)](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
 *   [Wishlist (⭐1.5k)](https://github.com/charmbracelet/wishlist) - With Wishlist you can have a single entrypoint for multiple SSH endpoints.
@@ -4337,11 +4385,11 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Note taking
 
-*   [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
+*   [cadmus (⭐171)](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 *   [dn (⭐249)](https://github.com/tomlockwood/dn) - Daily notes command line tool.
 *   [dnote (⭐3k)](https://github.com/dnote/dnote) - A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 *   [eureka (⭐860)](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
-*   [Geeknote](https://github.com/jeffkowalski/geeknote) - A command line client for Evernote that can be use on Linux, FreeBSD and OS X.
+*   [Geeknote (⭐390)](https://github.com/jeffkowalski/geeknote) - A command line client for Evernote that can be use on Linux, FreeBSD and OS X.
 *   [idea (⭐268)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 *   [jot (⭐603)](https://github.com/araekiel/jot) - Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.
 *   [kb (⭐3.4k)](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.

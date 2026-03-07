@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 07, 2026](/content/2026/03/07/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [OrlovEvgeny/serde.zig (⭐8)](https://github.com/OrlovEvgeny/serde.zig) - Comptime serialization framework for Zig supporting JSON, MessagePack, TOML, YAML, ZON, and CSV.
+
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
 ### Language Essentials / String Processing
@@ -64,11 +70,11 @@ A collection of awesome projects in Zig.
 
 ### Fundamentals / Linters
 
-*   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
+*   [forketyfork/zwanzig (⭐11)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
 
 ### Fundamentals / Utility
 
-*   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
+*   [forketyfork/architect (⭐24)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 

@@ -12,6 +12,10 @@ A collection of awesome projects in Zig.
 
 *   [atman/zg](https://codeberg.org/atman/zg) - Provides Unicode text processing for Zig projects. It works correctly with the Russian language and other languages.
 
+### Language Essentials / File Format Processing
+
+*   [OrlovEvgeny/serde.zig (⭐8)](https://github.com/OrlovEvgeny/serde.zig) - Comptime serialization framework for Zig supporting JSON, MessagePack, TOML, YAML, ZON, and CSV.
+
 ### Network & Web / Network
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
@@ -50,11 +54,11 @@ A collection of awesome projects in Zig.
 
 ### Fundamentals / Linters
 
-*   [forketyfork/zwanzig (⭐9)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
+*   [forketyfork/zwanzig (⭐11)](https://github.com/forketyfork/zwanzig) - Static analyzer for Zig with CFG-based checks (leaks, double-free, optional unwrap, stack escapes).
 
 ### Fundamentals / Utility
 
-*   [forketyfork/architect (⭐18)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
+*   [forketyfork/architect (⭐24)](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
 
 ### Data & Science / Large Language Model
 
