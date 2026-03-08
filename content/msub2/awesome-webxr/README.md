@@ -2,9 +2,27 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 256 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 261 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/msub2/awesome-webxr/week/README.md) / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Mar 08, 2026](/content/2026/03/08/README.md)
+
+### Standout Projects
+
+*   [XRSH](https://xrsh.isvery.ninja) - Linux virtual machines running inside WebXR to enable live-scripting, packages and prototyping inside an in-VR shell. [\[repo\]](https://codeberg.org/xrsh/xrsh)
+
+### Development / Other
+
+*   [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers. [\[repo\]](https://codeberg.org/coderofsalvation/xrfragment)
+
+### Social Spaces / Other
+
+*   [w3dge](https://w3dge.io/) - A platform for gatherings and virtual showcases with AI integration.
+
+### Web3XR / Engines
+
+*   [Hyperfy (⭐282)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -17,11 +35,7 @@ All things WebXR.
 
 ### Development / Frameworks and Libraries
 
-*   [JSAR-DOM (⭐76)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
-
-### Development / Other
-
-*   [XR Fragments](https://codeberg.org/coderofsalvation/xrfragment) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
+*   [JSAR-DOM (⭐81)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
@@ -34,12 +48,6 @@ All things WebXR.
 ### Audio
 
 *   [Fathom VR](https://www.letsfathom.com/vr) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
-
-## [Oct 05, 2024](/content/2024/10/05/README.md)
-
-### Development / Engines
-
-*   [iR Engine (⭐92)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -84,11 +92,6 @@ All things WebXR.
 
 *   [MetaVRse](https://metavrse.com/) - Enterprise-focused metaverse creation company. Parent company of MetaVRse Engine, MetaVRse Studio, and MetaVRse Properties such as TheMall.
 
-### Development / Engines
-
-*   [MetaVRse Engine](https://metavrse.com/engine) - Web-based tool designed to make XR and 3D content creation. No-code/low-code template system, automatic embedding for business and education.
-    *   [Official Documentation](https://metavrse.com/api/index.html)
-
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### Development / Frameworks and Libraries
@@ -101,11 +104,6 @@ All things WebXR.
 ### Monetization / Other
 
 *   [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
-
-### Web3XR / Realms
-
-*   [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
-*   [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
 
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
@@ -145,27 +143,11 @@ All things WebXR.
 
 *   [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
 
-## [Oct 07, 2022](/content/2022/10/07/README.md)
-
-### Web3XR / Realms
-
-*   [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
-
 ## [Jun 27, 2022](/content/2022/06/27/README.md)
 
 ### Communities / Forums
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
-
-## [May 15, 2022](/content/2022/05/15/README.md)
-
-### Art
-
-*   [SoulPaint](https://hatsumi.netlify.app/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
-
-### Companies and Cooperatives / Reddit
-
-*   [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
 
 ## [May 07, 2022](/content/2022/05/07/README.md)
 
@@ -175,9 +157,9 @@ All things WebXR.
 
 ### Avatars
 
-*   [Exokit Avatars (⭐76)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐9)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐77)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐10)](https://github.com/msub2/avatars).
 
-### YouTube / Realms
+### YouTube / Galleries
 
 *   [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
 
@@ -207,20 +189,14 @@ All things WebXR.
 *   [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 *   [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
-## [Sep 18, 2021](/content/2021/09/18/README.md)
-
-### Web3XR / Galleries
-
-*   [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
-
 ## [Sep 17, 2021](/content/2021/09/17/README.md)
 
 ### Companies and Cooperatives / Reddit
 
 *   [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
-*   [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
+*   [Vhite Rabbit](https://vhiterabbit.com/) - WebXR development studio behind games such as Archery Evolution and Boulderworld.
 
-### YouTube / Realms
+### YouTube / Galleries
 
 *   [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
 
@@ -248,7 +224,7 @@ All things WebXR.
 
 ## [Sep 12, 2021](/content/2021/09/12/README.md)
 
-### YouTube / Realms
+### YouTube / Galleries
 
 *   [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 *   [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
@@ -259,7 +235,6 @@ All things WebXR.
 ### Companies and Cooperatives / Reddit
 
 *   [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
-*   [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 *   [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 
 ## [Aug 17, 2021](/content/2021/08/17/README.md)
@@ -267,10 +242,6 @@ All things WebXR.
 ### Companies and Cooperatives / Reddit
 
 *   [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-
-### Social Spaces / Other
-
-*   [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 
 ## [Aug 14, 2021](/content/2021/08/14/README.md)
 
@@ -295,7 +266,6 @@ All things WebXR.
 
 ### Avatars
 
-*   [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 *   [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
 ### Communities / Forums
@@ -315,7 +285,7 @@ All things WebXR.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
     *   [WebXR Export (⭐1.2k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐600)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [SimpleWebXR (⭐607)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -325,9 +295,9 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐196)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐197)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐30k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.5k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐30k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.6k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
@@ -349,8 +319,3 @@ All things WebXR.
 ### Web3XR / Galleries
 
 *   [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
-
-### Web3XR / Realms
-
-*   [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
-*   [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
