@@ -6,6 +6,13 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ [Daily](/content/Scottcjn/awesome-agents/README.md) / Weekly / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
+
+### License / Part of the Elyan Labs Ecosystem
+
+*   [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+*   [GitHub](https://github.com/Scottcjn)
+
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### Platforms
@@ -31,20 +38,9 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [Letta (⭐21k)](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 *   [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 
-### Video and Media
+### License / Part of the Elyan Labs Ecosystem
 
-*   [BoTTube](https://bottube.ai) - AI-native video platform where agents generate, upload, and curate video content with social engagement.
-*   [Runway](https://runwayml.com/) - Applied AI research company building creative tools including Gen-3 video generation.
-*   [Pika](https://pika.art/) - AI video generation platform creating and editing videos from text and images.
-*   [InVideo AI](https://invideo.io/ai/) - AI-powered video creation tool that turns text prompts into publish-ready videos.
-*   [LTX Studio](https://ltx.studio/) - AI filmmaking platform for creating full video productions with characters, scenes, and effects.
-*   [HeyGen](https://www.heygen.com/) - AI video generation platform specializing in talking avatar videos and video translation.
-*   [Synthesia](https://www.synthesia.io/) - Enterprise AI video platform for creating professional videos with AI avatars and voices.
-*   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
-*   [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
-*   [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
-*   [ComfyUI (⭐103k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
-*   [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
+*   [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
 
 ### Social and Community
 
@@ -61,10 +57,10 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Frameworks
 
-*   [LangChain (⭐126k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LangChain (⭐127k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
 *   [CrewAI (⭐44k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
-*   [Autogen (⭐54k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
+*   [Autogen (⭐55k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐27k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐38k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
 *   [Haystack (⭐24k)](https://github.com/deepset-ai/haystack) - End-to-end NLP framework for building production-ready LLM applications and agents.
@@ -94,6 +90,20 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
 *   [LMOS](https://github.com/eclipse-lmos/lmos) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 *   [ANP (⭐1.2k)](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
+
+### Video and Media
+
+*   [Runway](https://runwayml.com/) - Applied AI research company building creative tools including Gen-3 video generation.
+*   [Pika](https://pika.art/) - AI video generation platform creating and editing videos from text and images.
+*   [InVideo AI](https://invideo.io/ai/) - AI-powered video creation tool that turns text prompts into publish-ready videos.
+*   [LTX Studio](https://ltx.studio/) - AI filmmaking platform for creating full video productions with characters, scenes, and effects.
+*   [HeyGen](https://www.heygen.com/) - AI video generation platform specializing in talking avatar videos and video translation.
+*   [Synthesia](https://www.synthesia.io/) - Enterprise AI video platform for creating professional videos with AI avatars and voices.
+*   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
+*   [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
+*   [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
+*   [ComfyUI (⭐105k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
+*   [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
 
 ### Blockchain and Rewards
 

@@ -8,14 +8,35 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
+### Software / Analytics
+
+*   [Shaper](https://taleshape.com/shaper/docs) - Build Data Dashboards all in SQL. Powered by DuckDB. ([Demo](https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt), [Source Code (⭐989)](https://github.com/taleshape-com/shaper)) `MPL-2.0` `Docker/Nodejs/Python/Go`
+
+### Software / Communication - Custom Communication Systems
+
+*   [Tuwunel](https://tuwunel.chat) - High-performance and feature-rich chat server for Matrix, and the successor to conduwuit (fork of Conduit). ([Demo](https://try.tuwunel.chat/), [Source Code (⭐1.6k)](https://github.com/matrix-construct/tuwunel)) `Apache-2.0` `deb/Docker/Nix/Rust`
+
+### Software / Document Management - E-books
+
+*   [Calibre Web Automated (⭐5k)](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
+
 ### Software / Knowledge Management Tools
 
 *   [Atomic Server](https://atomicserver.eu/) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/), [Source Code (⭐1.5k)](https://github.com/ontola/atomic-server)) `MIT` `Docker/Rust`
 *   [memEx](https://codeberg.org/shibao/memEx) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
 
+### Software / Media Management
+
+*   [Deleterr (⭐271)](https://github.com/rfsbraz/deleterr) - Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. `MIT` `Docker`
+*   [TrackWatch](https://trackwatch.emlopezr.com) `⚠` - Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar). ([Source Code (⭐15)](https://github.com/emlopezr/trackwatch)) `MIT` `Docker`
+
 ### Software / Miscellaneous
 
 *   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
+
+### Software / Task Management & To-do Lists
+
+*   [OpenHabitTracker](https://openhabittracker.net) - Track habits, tasks and notes with time tracking, calendar view and completion statistics. ([Demo](https://pwa.openhabittracker.net), [Source Code (⭐213)](https://github.com/Jinjinov/OpenHabitTracker)) `GPL-3.0` `Docker`
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -2000,7 +2021,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Analytics
 
-*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐32k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐33k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 
 ### Software / Network Utilities
 

@@ -2028,24 +2028,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [simutrans (⭐77)](https://github.com/simutrans/simutrans) - Simutrans is a freeware and open-source transportation simulator. :flower\_playing\_cards:
 *   [Syndicate Wars (⭐205)](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.
 
-#### [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Knowledge Management Tools
-
-*   [Atomic Server](https://atomicserver.eu/) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/), [Source Code (⭐1.5k)](https://github.com/ontola/atomic-server)) `MIT` `Docker/Rust`
-*   [memEx](https://codeberg.org/shibao/memEx) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
-
-##### Software / Miscellaneous
-
-*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
-
-#### [46. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### System Tools / Menu Bar
-
-*   [dwarvesf/hidden (⭐13k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`13,461`
-
-#### [47. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [45. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Tools / Community providers
 
@@ -2053,13 +2036,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [terraform-ai-skills (⭐1)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.
 
-#### [48. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [46. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ##### Resources / Starforged
 
 *   [Starforged Progress Cards](https://jeremyteeter.itch.io/ironsworn-starforged-progress-cards) - Printable progress tracking cards for Starforged in standard "poker" card size
 
-#### [49. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [47. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Standout Projects
 
@@ -2077,7 +2060,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [Hyperfy (⭐282)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
 
-#### [50. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [48. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -2130,7 +2113,39 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
 
-#### [51. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Analytics
+
+*   [Shaper](https://taleshape.com/shaper/docs) - Build Data Dashboards all in SQL. Powered by DuckDB. ([Demo](https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt), [Source Code (⭐989)](https://github.com/taleshape-com/shaper)) `MPL-2.0` `Docker/Nodejs/Python/Go`
+
+##### Software / Communication - Custom Communication Systems
+
+*   [Tuwunel](https://tuwunel.chat) - High-performance and feature-rich chat server for Matrix, and the successor to conduwuit (fork of Conduit). ([Demo](https://try.tuwunel.chat/), [Source Code (⭐1.6k)](https://github.com/matrix-construct/tuwunel)) `Apache-2.0` `deb/Docker/Nix/Rust`
+
+##### Software / Document Management - E-books
+
+*   [Calibre Web Automated (⭐5k)](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
+
+##### Software / Knowledge Management Tools
+
+*   [Atomic Server](https://atomicserver.eu/) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/), [Source Code (⭐1.5k)](https://github.com/ontola/atomic-server)) `MIT` `Docker/Rust`
+*   [memEx](https://codeberg.org/shibao/memEx) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
+
+##### Software / Media Management
+
+*   [Deleterr (⭐271)](https://github.com/rfsbraz/deleterr) - Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. `MIT` `Docker`
+*   [TrackWatch](https://trackwatch.emlopezr.com) `⚠` - Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar). ([Source Code (⭐15)](https://github.com/emlopezr/trackwatch)) `MIT` `Docker`
+
+##### Software / Miscellaneous
+
+*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
+
+##### Software / Task Management & To-do Lists
+
+*   [OpenHabitTracker](https://openhabittracker.net) - Track habits, tasks and notes with time tracking, calendar view and completion statistics. ([Demo](https://pwa.openhabittracker.net), [Source Code (⭐213)](https://github.com/Jinjinov/OpenHabitTracker)) `GPL-3.0` `Docker`
+
+#### [50. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -2165,6 +2180,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ##### Applications / System tools
 
 *   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+*   [sharkdp/hexyl (⭐10k)](https://github.com/sharkdp/hexyl) \[[hexyl](https://crates.io/crates/hexyl)] - A command-line hex viewer with colored output for different byte categories [![CICD](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml)
 
 ##### Applications / Text editors
 
@@ -2214,13 +2230,26 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
     *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
     *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
 
+#### [51. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### System Tools / Menu Bar
+
+*   [dwarvesf/hidden (⭐13k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`13,474`
+
+#### [52. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+
+##### License / Part of the Elyan Labs Ecosystem
+
+*   [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+*   [GitHub](https://github.com/Scottcjn)
+
 ---
 
 - Next: [Mar 02 - Mar 08, 2026](&#x2F;content&#x2F;2026&#x2F;9&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 276K 📝 03&#x2F;07) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 276K 📝 03&#x2F;08) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 284K 📝 03&#x2F;04) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 3. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 383K 📝 02&#x2F;27) - :books: Freely available programming books
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 166K 📝 03&#x2F;06) - A curated list of awesome Go frameworks, libraries and software
@@ -2279,7 +2308,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 ### Artificial Intelligence
 
-- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 2, 📝 02&#x2F;22 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
+- [Awesome Agents](/content/Scottcjn/awesome-agents/README.md) - ([Source ⭐ 2, 📝 03&#x2F;08 ](https://github.com/Scottcjn/awesome-agents)) - A curated list of AI agent platforms, frameworks, protocols, tools, and resources
 
 ### Back-End Development
 
@@ -2810,7 +2839,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;19 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 920, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 276K, 📝 03&#x2F;07 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 276K, 📝 03&#x2F;08 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!

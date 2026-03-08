@@ -1,12 +1,19 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2026
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+
+### License / Part of the Elyan Labs Ecosystem
+
+*   [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+*   [GitHub](https://github.com/Scottcjn)
+
+## [2. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -24,36 +31,57 @@
 
 *   [Hyperfy (⭐282)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
 
-## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Starforged
 
 *   [Starforged Progress Cards](https://jeremyteeter.itch.io/ironsworn-starforged-progress-cards) - Printable progress tracking cards for Starforged in standard "poker" card size
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Analytics
+
+*   [Shaper](https://taleshape.com/shaper/docs) - Build Data Dashboards all in SQL. Powered by DuckDB. ([Demo](https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt), [Source Code (⭐989)](https://github.com/taleshape-com/shaper)) `MPL-2.0` `Docker/Nodejs/Python/Go`
+
+### Software / Communication - Custom Communication Systems
+
+*   [Tuwunel](https://tuwunel.chat) - High-performance and feature-rich chat server for Matrix, and the successor to conduwuit (fork of Conduit). ([Demo](https://try.tuwunel.chat/), [Source Code (⭐1.6k)](https://github.com/matrix-construct/tuwunel)) `Apache-2.0` `deb/Docker/Nix/Rust`
+
+### Software / Document Management - E-books
+
+*   [Calibre Web Automated (⭐5k)](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
 
 ### Software / Knowledge Management Tools
 
 *   [Atomic Server](https://atomicserver.eu/) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/), [Source Code (⭐1.5k)](https://github.com/ontola/atomic-server)) `MIT` `Docker/Rust`
 *   [memEx](https://codeberg.org/shibao/memEx) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
 
+### Software / Media Management
+
+*   [Deleterr (⭐271)](https://github.com/rfsbraz/deleterr) - Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. `MIT` `Docker`
+*   [TrackWatch](https://trackwatch.emlopezr.com) `⚠` - Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar). ([Source Code (⭐15)](https://github.com/emlopezr/trackwatch)) `MIT` `Docker`
+
 ### Software / Miscellaneous
 
 *   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
 
-## [4. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+### Software / Task Management & To-do Lists
+
+*   [OpenHabitTracker](https://openhabittracker.net) - Track habits, tasks and notes with time tracking, calendar view and completion statistics. ([Demo](https://pwa.openhabittracker.net), [Source Code (⭐213)](https://github.com/Jinjinov/OpenHabitTracker)) `GPL-3.0` `Docker`
+
+## [5. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### Desktop
 
 *   [EasyPostman (⭐580)](https://github.com/lakernote/EasyPostman) - An open-source API debugging and performance testing tool inspired by Postman and a simplified JMeter
 
-## [5. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [6. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Platforms
 
 *   [Iotellect](https://iotellect.com/) - Low-code IoT/IIoT platform for industrial automation, SCADA, BMS and remote monitoring. Supports MQTT, OPC-UA, Modbus and 100+ protocols with visual development tools and edge-cloud integration.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -66,25 +94,25 @@
 *   [vue-timepicker (⭐6)](https://github.com/manos02/vue3-time-picker) - A lightweight, customizable timepicker component for Vue 3 with TypeScript support. Supports single/range selection, multiple formats, easy styling, validation and more.
 *   [vue-superselect (⭐23)](https://github.com/nemanjamalesija/vue-superselect) - Headless, accessible, TypeScript-first select/combobox for Vue 3 with dual compound component and composable APIs.
 
-## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Development
 
 *   [cli-owm (⭐0)](https://github.com/monkeypants/cli-owm) - Command-line tool that renders OnlineWardleyMaps DSL text to SVG. Pipes stdin to stdout, ships as npm package and standalone binaries. Uses the OnlineWardleyMaps parser.
 
-## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [dnshammer (⭐0)](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 
-## [9. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [10. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Extensions
 
 *   [`@tanstack/lit-table`](https://tanstack.com/table/latest/docs/framework/lit/lit-table) - Headless UI for building powerful tables & datagrids with Lit.
 
-## [10. Htaccess](/content/phanan/htaccess/week/README.md)
+## [11. Htaccess](/content/phanan/htaccess/week/README.md)
 
 ### Rewrite and Redirection / Force www
 
@@ -450,7 +478,7 @@ RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
 
-## [11. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [12. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### AI terminal command generator
 
@@ -538,14 +566,14 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [MAL-Cli (⭐137)](https://github.com/L4z3x/mal-cli) - A terminal interface for the official myanimelist api written in Rust and Ratatui.
 
-## [12. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [13. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`go-typeql`](https://github.com/CaliLuke/go-typeql) - A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.
 *   [`skills`](https://github.com/CaliLuke/skills) - A collection of agent skills, including a TypeDB skill for agent workflows.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -736,31 +764,31 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [cpp\_functional\_programming (⭐700)](https://github.com/graninas/cpp_functional_programming) - A list of materials and links for C++ functional programming.
 *   [algorithms\_and\_data\_structures (⭐6.1k)](https://github.com/mandliya/algorithms_and_data_structures) - Implementation of algorithms and data structures in C++.
 
-## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Kaiforge Lite (⭐0)](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [tmux-grip](https://github.com/leohenon/tmux-grip) Pin tmux sessions to fixed numbered slots with direct key jumps and a popup manager
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Pin Code Authenticator for Keycloak ACR/LOA (⭐0)](https://github.com/ldesroch/keycloak-pin-code-authenticator)
 
-## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [18. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
 *   [dj-control-room](https://github.com/yassi/dj-control-room) - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
 
-## [18. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [19. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 4
 
@@ -770,7 +798,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [Neovim](https://github.com/Mathijs-Bakker/godotdev.nvim) - A batteries-included Neovim plugin for Godot 4.x game development. Use Neovim as a fully featured external editor for Godot, with minimal setup.
 
-## [19. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [20. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Accessibility (A11y) / Ruby
 
@@ -797,19 +825,19 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [Zero Dark Matrix](https://chromewebstore.google.com/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 *   [Material UI Theme](https://chromewebstore.google.com/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
 
-## [20. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / Menu Bar
 
-*   [dwarvesf/hidden (⭐13k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`13,461`
+*   [dwarvesf/hidden (⭐13k)](https://github.com/dwarvesf/hidden) — Ultra-light utility to hide menu bar icons ☆`13,474`
 
-## [21. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [22. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Dashboard (⭐5)](https://github.com/Rozhovetskyi/Dashboard) - ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png) lightweight, customizable, client-side RSS feeds dashboard.
 
-## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [23. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Quality Assurance
 
@@ -819,7 +847,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [Chrome Open Multiple URLs](https://chromewebstore.google.com/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text.
 *   [Chrome Revolver](https://chromewebstore.google.com/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs.
 
-## [23. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [24. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
@@ -829,21 +857,21 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   ["Top ten reasons why I wonâ€™t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 
-## [24. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [25. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 *   [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 
-## [25. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [26. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
 *   [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) - MDN wiki for the WebExtensions API.
 *   [Browser support for WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 
-## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [27. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### What do we have:
 
@@ -1540,13 +1568,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 
 
-## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [28. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Identity Management - LDAP
 
 *   [LTB Self-Service Password](https://www.ltb-project.org/documentation/self-service-password.html) - Web interface to change and reset LDAP passwords. ([Source Code (⭐1.3k)](https://github.com/ltb-project/self-service-password)) `GPL-3.0` `PHP`
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1560,7 +1588,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [ooh-matron (⭐0)](https://github.com/hulleyrob/ohmyzsh-theme-ooh-matron) - Real time prompt with decorators for exit status of last command, username\@hostname, IP address and `git` status.
 *   [sentinelx (⭐0)](https://github.com/Robinx0/sentinelX-theme) - A lightweight, high-fidelity Zsh theme optimized for penetration testing and red teaming. It provides real-time situational awareness and process tracking for long-running security tools. Includes decorators for `git` status, a live process spinner, VPN status, root status and last command duration.
 
-## [29. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [30. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Adventure
 
@@ -1628,7 +1656,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [simutrans (⭐77)](https://github.com/simutrans/simutrans) - Simutrans is a freeware and open-source transportation simulator. :flower\_playing\_cards:
 *   [Syndicate Wars (⭐205)](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game.
 
-## [30. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [31. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Communication
 
@@ -1638,7 +1666,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/vscodium/vscodium) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [31. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [32. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / String Processing
 
@@ -1652,7 +1680,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 
-## [32. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [33. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### scRNA
 
@@ -1775,7 +1803,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [Evo (⭐1.5k)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 *   [HyenaDNA (⭐764)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
-## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
@@ -1783,7 +1811,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [terraform-ai-skills (⭐1)](https://github.com/anmolnagpal/terraform-ai-skills) - AI-powered skill for GitHub Copilot, Claude, and ChatGPT that automates bulk Terraform module management — provider upgrades, workflow standardization, and releases across 10–200+ repositories on AWS, GCP, Azure, and DigitalOcean.
 
-## [34. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [35. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Agent Skills 🤖 / General
 
@@ -1830,13 +1858,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [Omnara (⭐2.6k)](https://github.com/omnara-ai/omnara) by [Ishaan Sehgal](https://github.com/ishaansehgal99) - A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
 
-## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [36. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
 *   [Numberphile](https://www.youtube.com/@numberphile)
 
-## [36. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [37. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Visual Testing
 
@@ -1846,7 +1874,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 
-## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [38. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Code Analysis
 
@@ -1869,7 +1897,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
     *   [PyPDF2 (⭐9.8k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1900,13 +1928,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
 
-## [39. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [40. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
 *   [FinRpt](https://arxiv.org/abs/2511.07322) - Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation.
 
-## [40. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [41. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
@@ -1922,13 +1950,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [CodeLift: Introduction to Diffy for Visual Regression Testing](https://codelift.ai/resources/tech-articles/introduction-diffy-visual-regression-testing) - Catch visual and functional issues before they reach production.
 
-## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Business logic
 
 *   [Servactory (⭐34)](https://github.com/servactory/servactory) - A set of tools for building reliable service objects of any complexity.
 
-## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1991,7 +2019,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -2026,6 +2054,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ### Applications / System tools
 
 *   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+*   [sharkdp/hexyl (⭐10k)](https://github.com/sharkdp/hexyl) \[[hexyl](https://crates.io/crates/hexyl)] - A command-line hex viewer with colored output for different byte categories [![CICD](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml)
 
 ### Applications / Text editors
 
@@ -2075,7 +2104,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
     *   [remoc-rs/remoc (⭐221)](https://github.com/remoc-rs/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/remoc-rs/remoc/actions/workflows/rust.yml)
     *   [smallnest/rpcx-rs (⭐134)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.
 
-## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -2128,7 +2157,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP / Diagnostics
 
@@ -2152,13 +2181,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [joryeugene/dadbod-grip.nvim (⭐4)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 
-## [46. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [47. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Just for fun
 
 *   [Bash Screensavers (⭐893)](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 
-## [47. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [48. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -2169,7 +2198,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
 
-## [48. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Development
 
@@ -2179,13 +2208,13 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [LastSaaS (⭐43)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
 
-## [49. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [50. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Skylos (⭐323)](https://github.com/duriantaco/skylos) — Dead code detection, security scanning, secrets detection, and code quality analysis for Python, TypeScript, and Go. Framework-aware analysis with 98% recall. Includes CI/CD GitHub Action, VS Code extension, and MCP server for AI agent integration.
 
-## [50. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [51. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tools
 
@@ -2196,7 +2225,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 *   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 *   [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 
-## [51. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [52. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 

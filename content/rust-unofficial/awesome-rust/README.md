@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [dora-rs/dora (⭐3k)](https://github.com/dora-rs/dora) \[[dora-cli](https://crates.io/crates/dora-cli)] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs [![CI](https://github.com/dora-rs/dora/workflows/CI/badge.svg)](https://github.com/dora-rs/dora/actions)
 
+### Applications / System tools
+
+*   [sharkdp/hexyl (⭐10k)](https://github.com/sharkdp/hexyl) \[[hexyl](https://crates.io/crates/hexyl)] - A command-line hex viewer with colored output for different byte categories [![CICD](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml)
+
 ### Libraries / Artificial Intelligence
 
 *   [liquidos-ai/AutoAgents (⭐423)](https://github.com/liquidos-ai/AutoAgents) \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.

@@ -41,6 +41,7 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [git-ai-project/git-ai (⭐1.2k)](https://github.com/git-ai-project/git-ai) - A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.
+*   [sharkdp/hexyl (⭐10k)](https://github.com/sharkdp/hexyl) \[[hexyl](https://crates.io/crates/hexyl)] - A command-line hex viewer with colored output for different byte categories [![CICD](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/hexyl/actions/workflows/CICD.yml)
 
 ### Applications / Text editors
 

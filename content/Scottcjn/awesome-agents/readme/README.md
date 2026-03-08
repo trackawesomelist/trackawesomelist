@@ -10,6 +10,8 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 # Awesome Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat-square\&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05IDE2LjE3TDQuODMgMTJsLTEuNDIgMS40MUw5IDE5IDIxIDdsLTEuNDEtMS40MXoiLz48L3N2Zz4=)](https://github.com/Scottcjn/Rustchain/blob/main/BCOS.md)
+
 > A curated list of AI agent platforms, frameworks, protocols, tools, and resources.
 
 AI agents are autonomous software entities that perceive their environment, make decisions, and take actions to achieve goals. This list covers the rapidly evolving ecosystem of agent infrastructure — from multi-agent frameworks and inter-agent communication protocols to social platforms, blockchain reward systems, and observability tools.
@@ -60,10 +62,10 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Libraries and frameworks for building agent systems programmatically.*
 
-*   [LangChain (⭐126k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LangChain (⭐127k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
 *   [CrewAI (⭐44k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
-*   [Autogen (⭐54k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
+*   [Autogen (⭐55k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐27k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐38k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
 *   [Haystack (⭐24k)](https://github.com/deepset-ai/haystack) - End-to-end NLP framework for building production-ready LLM applications and agents.
@@ -110,7 +112,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
 *   [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
 *   [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
-*   [ComfyUI (⭐103k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
+*   [ComfyUI (⭐105k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
 *   [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
 
 ## Social and Community
@@ -228,4 +230,12 @@ This list is maintained by [Elyan Labs](https://github.com/Scottcjn). Built with
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Scottcjn](https://github.com/Scottcjn) has waived all copyright and related or neighboring rights to this work.
+
+***
+
+### Part of the Elyan Labs Ecosystem
+
+*   [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+*   [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+*   [GitHub](https://github.com/Scottcjn)
 
