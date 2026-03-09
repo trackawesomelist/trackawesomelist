@@ -6,6 +6,16 @@
 
 [ [Daily](/content/georgezouq/awesome-ai-in-finance/README.md) / Weekly / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
+
+### Data Sources / Crypto Currencies
+
+*   [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### LLMs
@@ -120,7 +130,7 @@
 
 ### Traditional Market / Alternative Data
 
-*   🌟🌟🌟 [OpenBB (⭐61k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+*   🌟🌟🌟 [OpenBB (⭐63k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
 ## [Jun 10 - Jun 16, 2024](/content/2024/24/README.md)
 
@@ -154,7 +164,7 @@
 
 ### Courses & Books & Blogs
 
-*   [MLSys-NYU-2022 (⭐547)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [MLSys-NYU-2022 (⭐548)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 *   [Train and Deploy a Serverless API to predict crypto prices (⭐877)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
@@ -225,7 +235,7 @@
 
 ### Time Series Data
 
-*   [Chaos Genius (⭐773)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+*   [Chaos Genius (⭐774)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -499,7 +509,7 @@
 ### Visualizing / Plugins
 
 *   [playground (⭐13k)](https://github.com/tensorflow/playground) - Play with neural networks.
-*   [netron (⭐32k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [netron (⭐33k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### GYM Environment / Plugins
 

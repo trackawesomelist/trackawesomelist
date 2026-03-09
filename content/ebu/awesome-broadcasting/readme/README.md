@@ -34,7 +34,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
     *   [Podcasting](#podcasting)
     *   [Radio Production](#radio-production)
     *   [Rundown Automation](#rundown-automation)
-    *   [SCTE-35](#scte-35)
+    *   [SCTE-35 & SCTE-104](#scte-35--scte-104)
     *   [Software-defined radio](#software-defined-radio)
     *   [Streaming](#streaming)
     *   [Subtitling](#subtitling)
@@ -46,25 +46,26 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Animation, Graphics & Video Playout
 
-*   [Aurena (⭐132)](https://github.com/thaytan/aurena) - A network distributed media playback system.
+*   [Aurena (⭐131)](https://github.com/thaytan/aurena) - A network distributed media playback system.
 *   [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
-*   [Bridge (⭐61)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
+*   [Bridge (⭐67)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
 *   [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
-*   [ffplayout (⭐542)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
+*   [ffplayout (⭐549)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 *   [Macadam (⭐119)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐5)](https://github.com/Streampunk/sevruga)) graphics.
 *   [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
 *   [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
-*   [Open Playout Automation (⭐205)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [OGraf (⭐60)](https://github.com/ebu/ograf) - Open specification for HTML based Graphics, used in live television and post production workflows.
+*   [Open Playout Automation (⭐210)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 *   [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
-*   [Sofie - TV Automation (⭐407)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
-*   [SPX - Graphics Controller (⭐389)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
-*   [StreamShapers - Ferryman (⭐21)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
-*   [Studio TV Player (⭐57)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
+*   [Sofie - TV Automation (⭐412)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+*   [SPX - Graphics Controller (⭐399)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+*   [StreamShapers - Ferryman (⭐25)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
+*   [Studio TV Player (⭐56)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Clocks & Studio Screens
 
-*   [OATIS (⭐3)](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
-*   [OnAirScreen (⭐108)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
+*   [OATIS (⭐4)](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
+*   [OnAirScreen (⭐112)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 *   [PiClock (⭐33)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 *   [PiClock Advanced (⭐8)](https://github.com/ael/piclock_advanced) - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
 *   [PiRSClock-Full (⭐25)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
@@ -80,8 +81,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Communication
 
-*   [Intercom Manager (⭐60)](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend (⭐49)](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
-*   [DYI intercom (⭐70)](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
+*   [Intercom Manager (⭐65)](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend (⭐53)](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
+*   [DYI intercom (⭐74)](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
 ## Companion Screens
 
@@ -99,9 +100,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Control Systems
 
 *   [BUG](https://bbc.github.io/bug/) - Broadcast Universal Gateway - Control a wide range of broadcast and network equipment from your browser.
-*   [Bitfocus Companion (⭐2k)](https://github.com/bitfocus/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections).
-*   [Lawo EmberPlus (⭐130)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
-*   [MIDIMonster (⭐570)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
+*   [Bitfocus Companion (⭐2.1k)](https://github.com/bitfocus/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections).
+*   [Lawo EmberPlus (⭐133)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
+*   [MIDIMonster (⭐579)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
 ## Distributed Media Processing
 
@@ -117,7 +118,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 *   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 *   [DVBlast](https://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
 *   [dvbshout (⭐10)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
-*   [Opencaster (⭐72)](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
+*   [Opencaster (⭐73)](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 *   [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
 *   [ts2mpa (⭐5)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 *   [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
@@ -139,7 +140,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 *   [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 *   [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
 *   [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends to a streaming server.
-*   [EBU LIST (⭐122)](https://github.com/ebu/pi-list) - Live IP Software Toolkit to assist EBU members in the implementation of IP based facilities.
+*   [EBU LIST (⭐126)](https://github.com/ebu/pi-list) - Live IP Software Toolkit to assist EBU members in the implementation of IP based facilities.
 *   [Icecast](https://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
 *   [IRIS Broadcast (⭐10)](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - A project founded in Sweden to publish Open Source software for professional radio broadcasts.
 *   [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
@@ -160,81 +161,81 @@ A curated list of amazingly awesome open source resources for broadcasters.
 *   [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 *   [Mixxx](https://mixxx.org/) - A free, open source DJ software.
 *   [Peaks.js](https://codeberg.org/chrisn/peaks.js) - Browser-based audio waveform visualisation.
-*   [rx-player (⭐926)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
+*   [rx-player (⭐929)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 *   [VLC](https://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
 
-*   [BMXlib (⭐28)](https://github.com/ebu/bmx) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
-*   [EBUCore (⭐24)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
-*   [jebu-core (⭐2)](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
-*   [libadm (⭐47)](https://github.com/ebu/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
-*   [libklvanc (⭐68)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
-*   [MAJ API (⭐20)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
-*   [SDPoker (⭐18)](https://github.com/AMWA-TV/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
+*   [BMXlib (⭐32)](https://github.com/ebu/bmx) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
+*   [EBUCore (⭐25)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
+*   [jebu-core (⭐3)](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
+*   [libadm (⭐49)](https://github.com/ebu/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libklvanc (⭐69)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
+*   [MAJ API (⭐19)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
+*   [SDPoker (⭐19)](https://github.com/AMWA-TV/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 *   [TV-Anytime (⭐16)](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
 ## Monitoring & Quality Control
 
-*   [a\_Multiview (⭐6)](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
+*   [a\_Multiview (⭐8)](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
 *   [BeaqleJS (⭐93)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 *   [Jack Meter (⭐46)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 *   [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
-*   [LTC-tools (⭐83)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+*   [LTC-tools (⭐85)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 *   [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 *   [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
-*   [MXF Inspect (⭐49)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
-*   [Pi Audio Monitor (⭐169)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
-*   [Photon (⭐247)](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
-*   [QCTools (⭐355)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
-*   [Rotter (⭐54)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
+*   [MXF Inspect (⭐50)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [Pi Audio Monitor (⭐177)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
+*   [Photon (⭐248)](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
+*   [QCTools (⭐360)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
+*   [Rotter (⭐55)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 *   [silan (⭐39)](https://github.com/x42/silan) -  Audiofile silence analyzer.
 *   [SilentJack (⭐24)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 *   [Sonic Visualiser](https://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
-*   [VMAF (⭐5.2k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+*   [VMAF (⭐5.3k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 *   [Wisual (⭐24)](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ## Multimedia content processing
 
-*   [AvTranscoder (⭐167)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
-*   [Beam Coder (⭐414)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
+*   [AvTranscoder (⭐166)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
+*   [Beam Coder (⭐417)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 *   [Bento4 (⭐2.4k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
-*   [Brave (⭐683)](https://github.com/bbc/brave) - Basic Real-time AV Editor - lets you preview, mix, and route live audio and video streams on the cloud.
-*   [Codem-isoboxer (⭐118)](https://github.com/Dash-Industry-Forum/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Brave (⭐686)](https://github.com/bbc/brave) - Basic Real-time AV Editor - lets you preview, mix, and route live audio and video streams on the cloud.
+*   [Codem-isoboxer (⭐119)](https://github.com/Dash-Industry-Forum/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 *   [Dynamorse (⭐48)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
-*   [EBU ADM Renderer (⭐93)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
-*   [FFmbc (⭐199)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
+*   [EBU ADM Renderer (⭐95)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
+*   [FFmbc (⭐200)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
 *   [FFmpeg](https://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 *   [Flowblade (⭐3k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 *   [Kelvinadon (⭐19)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 *   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
-*   [L-SMASH (⭐246)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐247)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 *   [LibAV (⭐1.1k)](https://github.com/libav/libav) - Open source audio and video processing tools.
-*   [libbw64 (⭐37)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐39)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 *   [libear (⭐36)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
-*   [Libebur128 (⭐460)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
+*   [Libebur128 (⭐470)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 *   [Loudness Validator (⭐16)](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 *   [MP4Box.js (⭐2.4k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 *   [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
-*   [OBS-Studio (⭐69k)](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
+*   [OBS-Studio (⭐71k)](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
 *   [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 *   [rgain3 (⭐57)](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 *   [rtmp (⭐139)](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 *   [SoX](https://sourceforge.net/projects/sox/) - The Swiss Army knife of sound processing programs.
-*   [SVT Encore (⭐310)](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
+*   [SVT Encore (⭐317)](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 *   [TuttleOFX (⭐186)](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 *   [UPipe (⭐1)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 *   [VideoContext (⭐1.4k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
-*   [Voctomix (⭐624)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+*   [Voctomix (⭐629)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ## Network & Storage Testing
 
 *   [BBC Media Storage Meter](https://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
-*   [Fio (⭐6k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐6.1k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
-*   [SMPTE 2110-20 Analyzer (⭐85)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
+*   [SMPTE 2110-20 Analyzer (⭐86)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 *   [Wireshark dissector for TSL UMD protocol V3.1, V4 (⭐6)](https://github.com/roddypratt/tslumd-wireshark) - Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.
 *   [Wireshark dissectors for Video Routers (⭐16)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
 *   [Examples of SMPTE ST 2110 pcap files (⭐24)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
@@ -245,22 +246,22 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 *   [AMWA NMOS Testing Tool](https://specs.amwa.tv/nmos-testing/) - Automated test suites for the AMWA NMOS family of specifications, as used in the [JT-NM Tested](https://www.jt-nm.org/jt-nm-tested) programme
 *   [BBC NMOS Joint Reference Implementation (⭐13)](https://github.com/bbc/nmos-joint-ri) - A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool.
-*   [DELTACAST IP Virtual Card NMOS samples (⭐6)](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp (⭐176)](https://github.com/sony/nmos-cpp).
-*   [Easy-NMOS (⭐81)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
-*   [nmos-cpp (⭐176)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
-*   [nmos-device-control-mock (⭐8)](https://github.com/AMWA-TV/nmos-device-control-mock) - A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.
-*   [nmos-js (⭐38)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
+*   [DELTACAST IP Virtual Card NMOS samples (⭐6)](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp (⭐178)](https://github.com/sony/nmos-cpp).
+*   [Easy-NMOS (⭐82)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
+*   [nmos-cpp (⭐178)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+*   [nmos-device-control-mock (⭐9)](https://github.com/AMWA-TV/nmos-device-control-mock) - A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.
+*   [nmos-js (⭐39)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 *   [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
-*   [NVIDIA NMOS Library (⭐18)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
+*   [NVIDIA NMOS Library (⭐19)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
 ## Podcasting
 
-*   [AntennaPod (⭐7.5k)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
-*   [Anytime Podcast Player (⭐572)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
-*   [Castopod (⭐809)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
+*   [AntennaPod (⭐7.7k)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
+*   [Anytime Podcast Player (⭐585)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
+*   [Castopod (⭐826)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
 *   [gPodder](https://gpodder.github.io/) - Media aggregator and podcast client.
-*   [Podlove Publisher (⭐305)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher/)).
-*   [Podlove Web Player (⭐88)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player/)).
+*   [Podlove Publisher (⭐303)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress.
+*   [Podlove Web Player (⭐90)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player.
 *   [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
 
 ## Radio Production
@@ -272,18 +273,19 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 *   [LibreTime](https://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 *   [Liquidsoap (⭐1.6k)](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 *   [OpenBroadcaster](https://www.openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
-*   [RAAR (⭐20)](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
-*   [Rivendell (⭐226)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+*   [RAAR (⭐21)](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
+*   [Rivendell (⭐231)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## Rundown Automation
 
-*   [OnTime (⭐796)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
-*   [SuperConductor (⭐317)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
+*   [OnTime (⭐842)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
+*   [SuperConductor (⭐324)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
-## SCTE-35
+## SCTE-35 & SCTE-104
 
-*   [threefive (⭐13)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
-*   [x9k3 (⭐6)](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
+*   [threefive (⭐19)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
+*   [wireshark-scte (⭐2)](https://github.com/m1tk4/wireshark-scte) - SCTE-104 protocol dissector for Wireshark.
+*   [x9k3 (⭐7)](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
 
@@ -296,7 +298,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 ## Streaming
 
 *   [Owncast (⭐11k)](https://github.com/owncast/owncast) - Selfhosted video streaming platform (<https://owncast.online/>)
-*   [PeerTube (⭐14k)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
+*   [PeerTube (⭐15k)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
 
 ## Subtitling
 
@@ -305,21 +307,22 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 *   [EBU-TT-D W3C XML Schema (⭐9)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 *   [EBU-TT Live Interoperability Toolkit (⭐27)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
 *   [GStreamer TTML subtitling package (⭐19)](https://github.com/BBC-archive/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
-*   [imscJS (⭐87)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐89)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 *   [IRT EBU-TT-D Application Samples (⭐13)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
 *   [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 *   [Subtitling Conversion Framework (SCF) (⭐58)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 *   [Timed Text Toolkit (ttt) (⭐80)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+*   [ttconv (⭐226)](https://github.com/sandflow/ttconv) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 
 ## Video Production
 
 *   [AutoMix (⭐9)](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.
-*   [MOS-connection (⭐24)](https://github.com/Sofie-Automation/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+*   [MOS-connection (⭐25)](https://github.com/Sofie-Automation/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 *   [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 *   [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 *   [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 *   [TallyArbiter](https://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
-*   [vMix-EmberPlus (⭐4)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
+*   [vMix-EmberPlus (⭐5)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
 # Resources
 

@@ -85,7 +85,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 *   [Financial AI in Practice](https://www.manning.com/books/financial-ai-in-practice) - A book about creating profitable, regulation-compliant financial applications.
 *   [Investing for Programmers](https://www.manning.com/books/investing-for-programmers) - A book about maximizing your portfolio, analyzing markets, and making data-driven investment decisions using Python and generative AI
 *   [Mastering Python for Finance (⭐442)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
-*   [MLSys-NYU-2022 (⭐547)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [MLSys-NYU-2022 (⭐548)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 *   [Train and Deploy a Serverless API to predict crypto prices (⭐877)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## Strategies & Research
@@ -108,7 +108,7 @@ Price and Volume process with Technology Analysis Indices
 *   [zenbrain (⭐51)](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 *   [DeepLearningNotes (⭐379)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
 *   [stock\_market\_reinforcement\_learning (⭐799)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
-*   [Chaos Genius (⭐773)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+*   [Chaos Genius (⭐774)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 *   [mlforecast (⭐1.2k)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 
 ### Portfolio Management
@@ -177,12 +177,14 @@ Price and Volume process with Technology Analysis Indices
 *   [yahoo-finance (⭐1.4k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 *   [Tushare (⭐14k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 *   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+*   [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
 #### Crypto Currencies
 
 *   [CryptoInscriber (⭐52)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 *   [CoinPulse (⭐0)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 *   [Gekko-Datasets (⭐174)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+*   [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
 
 #### News Data
 
@@ -213,7 +215,7 @@ For Back Test & Live trading
 **System**
 
 *   [the0 (⭐164)](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
-*   🌟🌟🌟 [OpenBB (⭐61k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+*   🌟🌟🌟 [OpenBB (⭐63k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 *   🌟🌟 [zipline (⭐19k)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 *   🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 *   [rqalpha (⭐6.2k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
@@ -264,7 +266,7 @@ Do it in real world!
 ### Visualizing
 
 *   [playground (⭐13k)](https://github.com/tensorflow/playground) - Play with neural networks.
-*   [netron (⭐32k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [netron (⭐33k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 *   [KLineChart (⭐3.6k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
 ### GYM Environment
