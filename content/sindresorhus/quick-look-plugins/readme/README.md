@@ -46,11 +46,11 @@ Run `brew install qlstephen` or [download manually (⭐2.8k)](https://github.com
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
-### [QLMarkdown (⭐2.2k)](https://github.com/sbarex/QLMarkdown)
+### [QLMarkdown (⭐2.4k)](https://github.com/sbarex/QLMarkdown)
 
 > Preview Markdown files
 
-Run `brew install --cask qlmarkdown` or [download manually (⭐2.2k)](https://github.com/sbarex/QLMarkdown/releases/latest)
+Run `brew install --cask qlmarkdown` or [download manually (⭐2.4k)](https://github.com/sbarex/QLMarkdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLMarkdown.png)](https://github.com/sbarex/QLMarkdown)
 
@@ -98,6 +98,14 @@ Run `brew install qlvideo` or [download manually (⭐3.3k)](https://github.com/M
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
+### [Source Code Preview](https://anybox.ltd/source-code-preview) 💰
+
+> Includes 10+ color themes and syntax highlighting for 50+ languages, including JavaScript, Python, Java, CSS, and JSON.
+
+Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id6759270528).
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/SourceCodePreview.png)](https://anybox.ltd/source-code-preview)
+
 ### [Peek](https://bigzlabs.com/peek) 💰
 
 > Peek allows you to copy and find text, jump to line numbers, render Github-flavored Markdown with a generated table of contents, restore scroll positions, highlight syntax, & more in the Quick Look previews of over 300 file extensions.
@@ -116,11 +124,11 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
-### [FluxMarkdown (⭐21)](https://github.com/xykong/flux-markdown)
+### [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown)
 
 > Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
 
-Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐21)](https://github.com/xykong/flux-markdown/releases/latest)
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐56)](https://github.com/xykong/flux-markdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
 

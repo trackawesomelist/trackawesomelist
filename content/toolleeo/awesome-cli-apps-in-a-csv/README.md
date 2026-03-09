@@ -6,16 +6,65 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ Daily / [Weekly](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md) / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Mar 09, 2026](/content/2026/03/09/README.md)
+
+### Chat and instant messaging
+
+*   [Instagram CLI (⭐1.7k)](https://github.com/supreme-gg-gg/instagram-cli) - Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot).
+*   [nchat (⭐1.6k)](https://github.com/d99kris/nchat) - Terminal Telegram, WhatsApp and Signal client for LInux and macOS.
+*   [nostratui (⭐5)](https://github.com/adamm-xyz/nostratui) - TUI for browsing Nostr posts, written in Rust.
+*   [nostui (⭐64)](https://github.com/akiomik/nostui) - TUI client for Nostr.
+*   [Sclack (⭐2.5k)](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
+*   [siggo (⭐327)](https://github.com/derricw/siggo) - TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages).
+*   [slack-term (⭐6.6k)](https://github.com/erroneousboat/slack-term) - Slack client for the  terminal.
+*   [tgt (⭐841)](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
+*   [tuisky (⭐159)](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
+*   [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
+*   [Zulip Terminal (⭐818)](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
+
+### Containerization and virtualization
+
+*   [EMU2 (⭐451)](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
+
+### DevOps
+
+*   [Amazon EC2 Instance Selector (⭐927)](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+
+### Fuzzy finders and option pickers
+
+*   [Fnf (⭐46)](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
+
+### Games
+
+*   [tinytetris (⭐3.2k)](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris game.
+
+### Graphics
+
+*   [asciiMOL (⭐406)](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
+*   [GiF for CLI (⭐2.9k)](https://github.com/google/gif-for-cli) - Convert a GIF, short video or a query into ASCII art.
+
+### Networking
+
+*   [bluetui (⭐2.6k)](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
+
+### Note taking
+
+*   [Captain's Log (⭐363)](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
+
+### Time trackers
+
+*   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
+
 ## [Mar 07, 2026](/content/2026/03/07/README.md)
 
 ### AI terminal command generator
 
-*   [Blitzdenk (⭐5)](https://github.com/Lommix/blitzdenk) - A minimal multi purpose personal AI TUI.
+*   [Blitzdenk (⭐5)](https://github.com/Lommix/blitzdenk) - A minimal multi provider coding agent and personal AI TUI; Similar to tools like opencode or claudecode; Written in Rust.
 
 ### Chat and instant messaging
 
-*   [Endcord (⭐626)](https://github.com/mzivic7/endcord) - Discord TUI client.
-*   [Gomphotherium (⭐103)](https://github.com/mrusme/gomphotherium) - A command line Mastodon client.
+*   [Endcord (⭐626)](https://github.com/mzivic7/endcord) - Lightweight and feature rich Discord TUI client, running entirely in terminal, built with python and ncurses library.
+*   [Gomphotherium (⭐103)](https://github.com/mrusme/gomphotherium) - A command line Mastodon client, offering a CLI and TUI with usage similar to rainbowstream; Intended to be used at 80 characters width maximum, ideally inside tmux as a sidebar-style program.
 *   [gurk (⭐1.2k)](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal.
 
 ### Command launchers
@@ -43,9 +92,9 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [Sweeper (⭐5)](https://github.com/igor47/sweeper) - Basic ncurses Minesweeper game, wirtten in python, using curtsies library.
 *   [tty-solitaire (⭐334)](https://github.com/mpereira/tty-solitaire) - Solitaire game for the terminal ncurses based.
 *   [Wocogo](https://codeberg.org/kedlubnowski/wocogo) - Terminal word game that challenges players to combine given segments into existing words, uses rich library.
-*   [Wordle (⭐2)](https://github.com/m-dango/raku-wordle/) - Wordle game, written in Raku.
-*   [Zigtris (⭐28)](https://github.com/ringtailsoftware/zigtris) - Terminal tetris game.
-*   [Zoridor (⭐14)](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game.
+*   [Wordle (⭐2)](https://github.com/m-dango/raku-wordle/) - Implementation of Wordle game hosted by The New York Times, written in Raku.
+*   [Zigtris (⭐28)](https://github.com/ringtailsoftware/zigtris) - Minimal terminal tetris game written in Zig.
+*   [Zoridor (⭐14)](https://github.com/ringtailsoftware/zoridor) - Terminal and web version of the Quoridor board game for terminal and web.
 
 ### Learning and didactic tools
 
@@ -3666,7 +3715,7 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ### Data transfer
 
-*   [yt-dlp (⭐148k)](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
+*   [yt-dlp (⭐150k)](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ### Graphics
 

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 09, 2026](/content/2026/03/09/README.md)
+
+### Monitoring
+
+*   [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
+
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
 ### Storage and Media Processing
@@ -886,12 +892,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Artifact Repos
 
 *   [RepoForge](https://repoforge.io) - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.
-
-## [Oct 28, 2024](/content/2024/10/28/README.md)
-
-### IDE and Code Editing
-
-*   [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ## [Oct 24, 2024](/content/2024/10/24/README.md)
 
@@ -3571,7 +3571,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them, and publish them on npm.
-*   [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
 
 ## [Sep 26, 2021](/content/2021/09/26/README.md)
 
@@ -4646,7 +4645,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Monitoring
 
-*   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
+*   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 3-minute intervals, public statuspage.
 
 ## [Jul 02, 2020](/content/2020/07/02/README.md)
 
