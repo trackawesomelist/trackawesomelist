@@ -8,9 +8,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
+### Bloom and Cuckoo Filters
+
+*   [ribbonGo (⭐3)](https://github.com/RibbonGo/ribbonGo) - First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.
+
 ### Queues
 
 *   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 

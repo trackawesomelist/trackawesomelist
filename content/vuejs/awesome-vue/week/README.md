@@ -6,6 +6,16 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [@oneflowui/ui (⭐1)](https://github.com/qixi54/oneui) - Vue 3 + TypeScript component library for task management views, featuring Table, Kanban, Gantt timeline, Gallery, AI Chat, Dashboard charts, Rich Text Editor, MermaidChart and more. 75+ components out of the box.
+
+### Components & Libraries / UI Components
+
+*   [@ioi-dev/vue-table (⭐0)](https://github.com/Rawand-Hawez/ioi-vue-table) - Performance-first Vue 3 datatable with virtualization, selection, editing, and CSV export.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### Projects Using Vue.js / Open Source
@@ -30,7 +40,7 @@
 
 *   [Vue DevTools (⭐2.8k)](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications.
 *   [unplugin-icons (⭐4.8k)](https://github.com/unplugin/unplugin-icons) - On-demand icon loader supporting all known popular icon sets
-*   [vue-i18n (⭐2.6k)](https://github.com/intlify/vue-i18n) - Internationalization plugin for Vue.js
+*   [vue-i18n (⭐2.7k)](https://github.com/intlify/vue-i18n) - Internationalization plugin for Vue.js
 
 ### Resources / Community
 

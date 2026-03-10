@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 10, 2026](/content/2026/03/10/README.md)
+
+### Bloom and Cuckoo Filters
+
+*   [ribbonGo (⭐3)](https://github.com/RibbonGo/ribbonGo) - First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
 ### Queues

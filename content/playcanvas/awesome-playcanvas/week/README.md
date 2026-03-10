@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Tutorials
+
+*   [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
@@ -50,7 +56,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
 *   [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
-*   [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game.
+*   [Simply City](https://simplycity.live) - An open-world multiplayer GTA-like driving game.
 
 ### Product Configurators / YouTube Playables
 
@@ -61,14 +67,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f\&tab=-1) - Exterior views for residential property listings.
 *   [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 *   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
-*   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
+*   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 *   [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
 *   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 *   [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
 *   [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 *   [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
-*   [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
+*   [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 *   [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 
 ### AR/VR/XR / YouTube Playables
@@ -92,7 +98,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### 3D Gaussian Splatting / YouTube Playables
 
-*   [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+*   [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 
 ## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
 
@@ -158,7 +164,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Documentation
 
-*   [API Reference](https://api.playcanvas.com/) - API Reference Site.
+*   [API Reference](https://api.playcanvas.com/) - Complete engine API documentation.
 
 ### Games / IO Games
 
@@ -173,7 +179,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.6k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.6k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -245,7 +251,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
+*   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
@@ -269,7 +275,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / Browser Games
 
-*   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
+*   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150th anniversary.
 *   [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
@@ -295,7 +301,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Tutorials
 
-*   [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write ups of 2 PlayCanvas visualization applications.
+*   [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write-ups of 2 PlayCanvas visualization applications.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -321,7 +327,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Games / IO Games
 
 *   [Tribals](https://tribals.io/) - First-person multiplayer survival game.
-*   [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
+*   [Warbands](https://www.warbands.io/) - 3D multiplayer first-person shooter.
 
 ### Automotive / YouTube Playables
 
@@ -357,7 +363,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / IO Games
 
-*   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
+*   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first-person shooter.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -401,7 +407,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Automotive / YouTube Playables
 
-*   [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Arriya in 3D (Japanese - requires sign in).
+*   [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Ariya in 3D (Japanese - requires sign in).
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -448,7 +454,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Games / IO Games
 
 *   [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
-*   [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
+*   [Venge](https://venge.io/) - 3D multiplayer first-person shooter.
 
 ### Automotive / YouTube Playables
 
@@ -458,19 +464,19 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / Browser Games
 
-*   [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
+*   [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old-school bubble shooter game.
 *   [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 *   [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
 *   [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 *   [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
-*   [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
+*   [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden-themed 2D match-3 game.
 *   [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
 *   [Hoop Royale](https://play.famobi.com/hoop-royale) - Maneuver the ring around the ball.
 *   [Mahjong World](https://play.famobi.com/mahjong-world) - 3D Mahjong puzzle game.
 *   [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 *   [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
-*   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
+*   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power-ups.
 
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
 
@@ -482,7 +488,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / IO Games
 
-*   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
+*   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -507,7 +513,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / Browser Games
 
-*   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
+*   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics-based puzzle game.
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
@@ -535,7 +541,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Games / Browser Games
 
-*   [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
+*   [Monopoly](https://benbean.tech/monopoly-io/) - The classic board game recreated in a 3D video game.
 
 ### Games / IO Games
 
@@ -557,7 +563,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Tutorials
 
-*   [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics based game.
+*   [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics-based game.
 
 ### Interactive Experiences
 
@@ -614,12 +620,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
 *   [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
-*   [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 *   [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
 
 ### Extensions and Utilities
 
-*   [playcanvas-ar (⭐248)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐248)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARToolkit.
 *   [playcanvas-p2.js (⭐24)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-spine (⭐51)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐67)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
@@ -633,14 +638,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Seemore](https://playcanv.as/p/MflWvdTW/) - Collaboration with ARM to promote mobile WebGL.
 *   [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
 *   [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
-*   [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
+*   [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slot machine.
 
 ### Games / Browser Games
 
 *   [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 *   [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 *   [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
-*   [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
+*   [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power-ups to defeat waves of hostile ships.
 *   [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.

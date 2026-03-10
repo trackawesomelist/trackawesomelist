@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 10, 2026](/content/2026/03/10/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
+
 ## [Mar 07, 2026](/content/2026/03/07/README.md)
 
 ### Language Essentials / File Format Processing
@@ -58,7 +64,7 @@ A collection of awesome projects in Zig.
 
 ### Data & Science / Large Language Model
 
-*   [nullclaw/nullclaw (⭐1.3k)](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
+*   [nullclaw/nullclaw (⭐6.1k)](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
@@ -1125,10 +1131,8 @@ A collection of awesome projects in Zig.
 *   [karlseguin/log.zig (⭐171)](https://github.com/karlseguin/log.zig) - A structured logger for Zig.
 *   [mattyhall/tomlz (⭐43)](https://github.com/mattyhall/tomlz) - A well-tested TOML parsing library for Zig.
 *   [mitchellh/zig-libxml2 (⭐86)](https://github.com/mitchellh/zig-libxml2) - Libxml2 built using Zig build system.
-*   [travisstaloch/protobuf-zig (⭐52)](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in Zig.
 *   [sam701/zig-toml (⭐97)](https://github.com/sam701/zig-toml) - Zig TOML (v1.0.0) parser.
 *   [ziglibs/s2s (⭐157)](https://github.com/ziglibs/s2s) - A Zig binary serialization format.
-*   [Arwalk/zig-protobuf (⭐383)](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 *   [goto-bus-stop/ziguid (⭐8)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying with Zig.
 *   [kivikakk/libpcre.zig (⭐37)](https://github.com/kivikakk/libpcre.zig) - Zig bindings to libpcre.
 *   [kivikakk/koino (⭐153)](https://github.com/kivikakk/koino) - CommonMark + GFM compatible Markdown parser and renderer.
@@ -1136,6 +1140,8 @@ A collection of awesome projects in Zig.
 *   [winksaville/zig-parse-number (⭐2)](https://github.com/winksaville/zig-parse-number) - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 *   [demizer/markzig (⭐14)](https://github.com/demizer/markzig) - Pure Zig Markdown Parser.
 *   [thejoshwolfe/hexdump-zip (⭐10)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
+*   [travisstaloch/protobuf-zig (⭐52)](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in Zig.
+*   [Arwalk/zig-protobuf (⭐383)](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 
 ### Language Essentials / Date, Time and Timezones
 
