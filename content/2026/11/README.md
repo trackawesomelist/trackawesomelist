@@ -6,7 +6,22 @@
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [1. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+
+### Online editors
+
+*   [SciTeX Cloud (⭐0)](https://github.com/ywatanabe1989/scitex-cloud) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+### Bibliography tools
+
+*   [CrossRef Local (⭐2)](https://github.com/ywatanabe1989/crossref-local) - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [OpenAlex Local (⭐0)](https://github.com/ywatanabe1989/openalex-local) - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+### Misc. Tools
+
+*   [SciTeX Writer (⭐2)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -27,12 +42,6 @@
 ### Community / Blogs
 
 *   [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
-
-## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
-
-### CSS Regression Testing / Dart
-
-*   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
 
 ## [3. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
@@ -1449,6 +1458,14 @@ git restore --staged <file-name>
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
+### Web Monitoring / GitHub
+
+*   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff)
+
+### Privacy Focused Search Engines
+
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+
 ### Data Breach Search Engines
 
 *   [Leaker (⭐271)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
@@ -1469,6 +1486,10 @@ git restore --staged <file-name>
 
 *   [BuscaPaginasBlancas (⭐0)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
 
+### Web History and Website Capture / GitHub
+
+*   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+
 ### Threat Intelligence / GitHub
 
 *   [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
@@ -1478,6 +1499,10 @@ git restore --staged <file-name>
 ### AI Client / Other Tools
 
 *   [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/augmentedmike/miniclaw-os)
+
+### Audio and Video Tools / File Sharing
+
+*   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -1530,6 +1555,10 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 ### Applications
 
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
+
+### Applications / Text editors
+
+*   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
 
 ### Development tools / Workflow Automation
 

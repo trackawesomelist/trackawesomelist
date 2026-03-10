@@ -1,12 +1,43 @@
 # Awesome List Updates on Mar 10, 2026
 
-10 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Privacy Focused Search Engines
+
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+
+### Web History and Website Capture / GitHub
+
+*   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+
+### Online editors
+
+*   [SciTeX Cloud (⭐0)](https://github.com/ywatanabe1989/scitex-cloud) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+### Bibliography tools
+
+*   [CrossRef Local (⭐2)](https://github.com/ywatanabe1989/crossref-local) - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [OpenAlex Local (⭐0)](https://github.com/ywatanabe1989/openalex-local) - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+### Misc. Tools
+
+*   [SciTeX Writer (⭐2)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -28,19 +59,19 @@
 
 *   [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 
-## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [5. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### CSS Regression Testing / Dart
 
 *   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [6. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Language Essentials / File Format Processing
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bloom and Cuckoo Filters
 
@@ -50,25 +81,29 @@
 
 *   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+### Applications / Text editors
+
+*   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
+
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [SikkerAPI](https://sikkerapi.com) — Free IP Reputation & Threat Intelligence, powered by a globally distributed high interaction honeypot network and community reported abuse incidents. 1,000 free IP lookups, TAXII indicators & reports per day, pull 5,000 fresh IPs from our blacklists daily and monitor your own CIDR ranges (/16) free free.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Tutorials
 
 *   [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -78,7 +113,7 @@
 
 *   [@ioi-dev/vue-table (⭐0)](https://github.com/Rawand-Hawez/ioi-vue-table) - Performance-first Vue 3 datatable with virtualization, selection, editing, and CSV export.
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [12. Tips](/content/git-tips/tips/README.md)
 
 ## Table of Contents
 ## Basic Operations
@@ -1403,7 +1438,7 @@ git restore <file-name>
 git restore --staged <file-name>
 ```
 
-## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
 ### 人工智能
 

@@ -226,7 +226,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [ChainX (⭐328)](https://github.com/chainx-org/ChainX) - Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
 *   [coinbase-pro-rs (⭐156)](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client, supports sync/async/websocket
-*   [datahaven-xyz/datahaven (⭐7.4k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
+*   [datahaven-xyz/datahaven (⭐8k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
 *   [Diem (⭐17k)](https://github.com/diem/diem) - Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 *   [dusk-network/rusk (⭐198)](https://github.com/dusk-network/rusk) - Reference implementation of Dusk, a privacy-focused, scalable FMI for real-world assets (RWA) and compliant financial applications. [![Build Status](https://github.com/dusk-network/rusk/actions/workflows/rusk_ci.yml/badge.svg)](https://github.com/dusk-network/rusk/actions/workflows/rusk_ci.yml)
 *   [electrumrs (⭐1.3k)](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server.
@@ -493,7 +493,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 ### Productivity
 
 *   [0xdea/jiggy (⭐21)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
-*   [aannoo/hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
+*   [aannoo/hcom (⭐124)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 *   [agent-of-empires (⭐870)](https://github.com/njbrake/agent-of-empires) - A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [![CI](https://github.com/njbrake/agent-of-empires/actions/workflows/ci.yml/badge.svg)](https://github.com/njbrake/agent-of-empires/actions)
 *   [aichat (⭐9.4k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [ast-grep (⭐13k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
@@ -655,6 +655,7 @@ See also [A comparison of operating systems written in Rust (⭐831)](https://gi
 *   [helix (⭐43k)](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 *   [ilai-deutel/kibi (⭐1.9k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/actions/workflows/ci.yml/badge.svg)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 *   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+*   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
 *   [Lapce (⭐38k)](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 *   [mathall/rim (⭐629)](https://github.com/mathall/rim) - Vim-like text editor.
 *   [ox (⭐3.7k)](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!

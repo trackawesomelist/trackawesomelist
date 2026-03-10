@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
 
+### Applications / Text editors
+
+*   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
+
 ### Development tools / Workflow Automation
 
 *   [cachix/devenv (⭐6.5k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
@@ -113,7 +117,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Blockchain
 
-*   [datahaven-xyz/datahaven (⭐7.4k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
+*   [datahaven-xyz/datahaven (⭐8k)](https://github.com/datahaven-xyz/datahaven) - AI-First Decentralized Storage secured by EigenLayer.
 
 ### Applications / Database
 
@@ -130,7 +134,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [aannoo/hcom (⭐86)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
+*   [aannoo/hcom (⭐124)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
 *   [farion1231/cc-switch (⭐20k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
 
 ### Applications / System tools

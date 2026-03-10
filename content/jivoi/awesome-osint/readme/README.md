@@ -172,6 +172,7 @@ Thanks to our main contributors
 *   [iZito](http://www.izito.com)
 *   [Myallsearch](http://www.myallsearch.com)
 *   [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
 *   [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Privacy Focused Search Engines
@@ -186,6 +187,7 @@ Thanks to our main contributors
 *   [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 *   [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 *   [Startpage](https://www.startpage.com/) - The world’s most private search engine.
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
 *   [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
 ## [↑](#-table-of-contents) Data Breach Search Engines
@@ -1030,6 +1032,7 @@ Thanks to our main contributors
 *   [stored.website](https://stored.website)
 *   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 *   [Wayback Machine Archiver (⭐3.2k)](https://github.com/jsvine/waybackpack)
+*   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 *   [waybackpy (⭐565)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [↑](#-table-of-contents) Language Tools

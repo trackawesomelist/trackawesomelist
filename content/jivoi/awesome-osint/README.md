@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Mar 10, 2026](/content/2026/03/10/README.md)
+
+### Privacy Focused Search Engines
+
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+
+### Web History and Website Capture / GitHub
+
+*   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
 ### Data Breach Search Engines

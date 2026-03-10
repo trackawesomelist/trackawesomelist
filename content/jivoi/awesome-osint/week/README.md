@@ -8,6 +8,10 @@
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
+### Privacy Focused Search Engines
+
+*   [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine.
+
 ### Data Breach Search Engines
 
 *   [Leaker (⭐271)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
@@ -27,6 +31,10 @@
 ### People Investigations / GitHub
 
 *   [BuscaPaginasBlancas (⭐0)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
+
+### Web History and Website Capture / GitHub
+
+*   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 
 ### Web Monitoring / GitHub
 
