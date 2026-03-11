@@ -1,24 +1,58 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2026
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+
+### 🏆 Top 100 by Stars / Workflow Frameworks
+
+*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,910`
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Books
+
+*   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Analytics
+
+*   [Scout (⭐22)](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
+
+### API
+
+*   [YouTubeKit (⭐118)](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
+
+### App Store
+
+*   [Flare (⭐62)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
+
+### Text / Barcode
+
+*   [GMarkdown (⭐60)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
+
+### UI / Barcode
+
+*   [CircularRangeSlider (⭐30)](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
+
+## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### SDKs and Libraries
 
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
-## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Test Management / Miscellaneous
 
 *   [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Online editors / Third-party APIs
 
@@ -26,7 +60,7 @@
     *   helps run Fiveam tests with the right exit code.
     *   integrated with Roswell.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -95,7 +129,7 @@
 
 *   [YAML (⭐456) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Benchmarks & Datasets
 
@@ -150,20 +184,20 @@
 
 *   [Borzoi (⭐228)](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
 
-## [6. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [feberts/python-game-server (⭐2)](https://github.com/feberts/python-game-server#readme) - A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.
 
-## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
 *   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 *   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -173,7 +207,7 @@
 
 *   [FirstData (⭐137)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 
-## [9. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring
 
@@ -213,7 +247,7 @@
 *   [Depot :yen:](https://depot.dev) - Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. [Done in seconds](https://depot.dev/#benchmarks).
 *   [Screwdriver :yen:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 
-## [10. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -223,7 +257,7 @@
 
 *   [Xquik MCP (⭐14)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 
-## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [14. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
@@ -238,7 +272,7 @@
 
 *   [SciTeX Writer (⭐2)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -260,19 +294,23 @@
 
 *   [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 
-## [13. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [16. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+
+### Fundamentals / Utility
+
+*   [zlist (⭐11)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 
 ### Language Essentials / File Format Processing
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 
-## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
 *   [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -282,7 +320,7 @@
 
 *   [@ioi-dev/vue-table (⭐0)](https://github.com/Rawand-Hawez/ioi-vue-table) - Performance-first Vue 3 datatable with virtualization, selection, editing, and CSV export.
 
-## [16. Tips](/content/git-tips/tips/week/README.md)
+## [19. Tips](/content/git-tips/tips/week/README.md)
 
 ## Table of Contents
 ## Basic Operations
@@ -1607,7 +1645,7 @@ git restore <file-name>
 git restore --staged <file-name>
 ```
 
-## [17. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [20. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### 人工智能
 
@@ -1618,7 +1656,7 @@ git restore --staged <file-name>
 *   [深度学习500问 (⭐57k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 *   [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
-## [18. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [21. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Chat and instant messaging
 
@@ -1629,18 +1667,35 @@ git restore --staged <file-name>
 *   [Sclack (⭐2.5k)](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
 *   [siggo (⭐327)](https://github.com/derricw/siggo) - TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages).
 *   [slack-term (⭐6.6k)](https://github.com/erroneousboat/slack-term) - Slack client for the  terminal.
-*   [tgt (⭐841)](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
+*   [tgt (⭐859)](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 *   [tuisky (⭐159)](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
 *   [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
 *   [Zulip Terminal (⭐818)](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
+
+### Clean up of files and directories
+
+*   [image-sorter (⭐44)](https://github.com/jgalat/image-sorter) - Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
 
 ### Containerization and virtualization
 
 *   [EMU2 (⭐451)](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 
+### Data transfer
+
+*   [Managarr (⭐714)](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing your arr servers.
+
 ### DevOps
 
 *   [Amazon EC2 Instance Selector (⭐927)](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+*   [PUG (⭐665)](https://github.com/leg100/pug) - TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files).
+
+### File deletion and trash bin (alternatives to rm)
+
+*   [RecoverPy (⭐1.7k)](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
+
+### Font management
+
+*   [Iconic Fonts (⭐66)](https://github.com/iconicFonts/iconic-fonts) - A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
 
 ### Fuzzy finders and option pickers
 
@@ -1653,27 +1708,78 @@ git restore --staged <file-name>
 ### Graphics
 
 *   [asciiMOL (⭐406)](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
+*   [cmdpxl (⭐547)](https://github.com/knosmos/cmdpxl) - Command-line image editor (edit pixels, save images, undo function, fill tool and filters).
+*   [Favicon Editor (⭐1)](https://github.com/xyproto/favicon-editor) - Minimalist grayscale favicon editor for the terminal.
 *   [GiF for CLI (⭐2.9k)](https://github.com/google/gif-for-cli) - Convert a GIF, short video or a query into ASCII art.
+
+### Learning and didactic tools
+
+*   [Physics TUI (⭐23)](https://github.com/ClaudioRMalvino/physics_TUI) - TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter.
+*   [wb (⭐13)](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
 
 ### Networking
 
 *   [bluetui (⭐2.6k)](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
+*   [MQTT TUI (⭐643)](https://github.com/EdJoPaTo/mqttui) - MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
+*   [NetworkManager](https://developer.gnome.org/NetworkManager/stable/nmtui.html) - Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices).
 
 ### Note taking
 
 *   [Captain's Log (⭐363)](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
 
+### Online search and resources
+
+*   [pola (⭐0)](https://github.com/Sethispr/pola) - A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
+*   [sftui (⭐4)](https://github.com/AdamWHY2K/steam_friends_list_tui) - Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen).
+
+### Package managers
+
+*   [pkm (⭐62)](https://github.com/wick3dr0se/pkm) - A super minimal TUI package manager wrapper written in BASH v4-2+.
+*   [TUI-SHOP (⭐69)](https://github.com/Gcat101/tui-shop) - TUI-SHOP allows you to browse and install apps directly
+
+### Password managers
+
+*   [Tlock (⭐202)](https://github.com/eklairs/tlock) - Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS).
+
+### Programming
+
+*   [PesterExplorer (⭐23)](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
+
+### Science
+
+*   [terminalperiodictable (⭐140)](https://github.com/velorek1/terminalperiodictable) - Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
+
+### Sound and music
+
+*   [asak (⭐351)](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback TUI written in Rust.
+*   [gadacz (⭐38)](https://github.com/rareitems/gadacz) - Audiobook player (and other audio files) TUI.
+*   [jellyfin-tui (⭐415)](https://github.com/dhonus/jellyfin-tui) - Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
+*   [MOC](https://moc.daper.net/download) - Console audio player for LINUX/UNIX.
+*   [nap](https://nap.sourceforge.net/) - Linux napster client.
+*   [RadioGoGo (⭐154)](https://github.com/Zi0P4tch0/RadioGoGo) - Go-powered CLI to surf global radio waves with TUI.
+*   [soundcloud2000 (⭐1.4k)](https://github.com/grobie/soundcloud2000) - A terminal client for soundcloud.
+
+### System tools
+
+*   [Marstui-rustio (⭐14)](https://github.com/schooldanlp6/marstui-rustio) - A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything.
+
 ### Time trackers
 
 *   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
+*   [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 
-## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+### Utilities
+
+*   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
+*   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
+
+## [22. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Miscellaneous
 
 *   [raffalib-python (⭐0)](https://github.com/raffaem/raffalib-python) - [STATA](https://www.stata.com/)-like logging capabilities by [@raffaem](https://github.com/raffaem).
 
-## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Web Monitoring / GitHub
 
@@ -1711,7 +1817,11 @@ git restore --staged <file-name>
 
 *   [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Databases
+
+*   [TablePro (⭐894)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/datlechin/TablePro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Client / Other Tools
 
@@ -1721,13 +1831,13 @@ git restore --staged <file-name>
 
 *   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing, Prototyping & Mocking / React
 
 *   [mockd (⭐2)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1737,7 +1847,7 @@ git restore --staged <file-name>
 
 *   [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
 
-## [24. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [27. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -1749,7 +1859,11 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/SourceCodePreview.png)](https://anybox.ltd/source-code-preview)
 
-## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Blockchain
+
+*   [tronlib (⭐0)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
 
 ### Bloom and Cuckoo Filters
 
@@ -1759,6 +1873,14 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
 
+### Security
+
+*   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
+
+### Version Control
+
+*   [ggc (⭐266)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
@@ -1767,7 +1889,7 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -1782,11 +1904,15 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 *   [cachix/devenv (⭐6.5k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
 *   [jj-vcs/jj (⭐26k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 
+### Development tools / Formatters
+
+*   [astral-sh/ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+
 ### Libraries / Artificial Intelligence
 
 *   [memvid/memvid (⭐13k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 
-## [27. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -1800,13 +1926,13 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [ttconv (⭐226)](https://github.com/sandflow/ttconv) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 
-## [28. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 
-## [29. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [32. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 

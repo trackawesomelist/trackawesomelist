@@ -8,9 +8,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
+### Blockchain
+
+*   [tronlib (⭐0)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
+
 ### Bloom and Cuckoo Filters
 
 *   [ribbonGo (⭐4)](https://github.com/RibbonFilter/ribbonGo) - First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.
+
+### Security
+
+*   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
+
+### Version Control
+
+*   [ggc (⭐266)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
 ## [Mar 10, 2026](/content/2026/03/10/README.md)
 
