@@ -35,6 +35,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
     *   [Sandbox](#sandbox)
     *   [Miscellaneous](#miscellaneous)
 *   [CI](#ci)
+*   [Test Management](#test-management)
 *   [Trainings & Courses](#trainings--courses)
 *   [Videos](#videos)
     *   [Talks](#talks)
@@ -75,7 +76,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Plugins
 
-*   [gatling-sbt-plugin (⭐108)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐109)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 *   [gatling-build-plugin (⭐3)](https://github.com/gatling/gatling-build-plugin) - An SBT plugin to share common settings across Gatling's projects' builds.
 *   [gatling-maven-plugin (⭐38)](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
 *   [gatling-gradle-plugin (⭐30)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
@@ -110,7 +111,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Reporting
 
-*   [gatling-report (⭐124)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+*   [gatling-report (⭐125)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 *   [gatling2allure (⭐6)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 *   [gatling-elasticsearch (⭐16)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
@@ -122,7 +123,6 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Miscellaneous
 
 *   [dakiya (⭐37)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
-*   [gatling.g8](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 *   [gatling-template.g8 (⭐3)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
@@ -130,9 +130,12 @@ A curated collection of resources covering all aspects of load testing using [Ga
 *   [Gatling Jenkins Plugin (⭐36)](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 *   [run-gatling (⭐5)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
+## Test Management
+
+*   [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
+
 ## Trainings & Courses
 
-*   [Gatling Academy](https://academy.gatling.io/)
 *   [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
 *   [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
@@ -161,15 +164,15 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 *   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 *   [Awesome Testing (⭐2.2k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-*   [Awesome JMeter (⭐771)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome JMeter (⭐772)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 *   [Awesome Tsung (⭐23)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome k6 (⭐741)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
-*   [Awesome Locust (⭐110)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome k6 (⭐743)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome Locust (⭐111)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ### Other
 
-*   [How They Load Test (⭐149)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐230)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐151)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐234)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## Contributing
 

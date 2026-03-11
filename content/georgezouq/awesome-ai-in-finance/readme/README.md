@@ -43,6 +43,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 *   🌟🌟 [nofx (⭐11k)](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 *   [TradingAgents (⭐31k)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 *   🌟 [FinRobot (⭐6.3k)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
 
 ## LLMs
 
@@ -177,6 +178,7 @@ Price and Volume process with Technology Analysis Indices
 *   [yahoo-finance (⭐1.4k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 *   [Tushare (⭐14k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 *   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+*   [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 *   [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
 #### Crypto Currencies

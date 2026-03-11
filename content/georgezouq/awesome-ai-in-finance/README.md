@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 11, 2026](/content/2026/03/11/README.md)
+
+### Agents
+
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
+
+### Data Sources / Traditional Markets
+
+*   [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
+
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
 ### Data Sources / Traditional Markets

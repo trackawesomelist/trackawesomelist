@@ -8,8 +8,13 @@
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
+### Agents
+
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
+
 ### Data Sources / Traditional Markets
 
+*   [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 *   [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
 ### Data Sources / Crypto Currencies

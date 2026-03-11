@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Online editors / Third-party APIs
+
+*   [CI-utils (⭐24)](https://github.com/neil-lindquist/CI-Utils) (low activity) - a set of utilities and examples for working on continuous integration platforms, including a run script for the Fiveam test library.
+    *   helps run Fiveam tests with the right exit code.
+    *   integrated with Roswell.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### YAML
@@ -21,11 +29,11 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Utils / Third-party APIs
 
-*   [cl-cancel (⭐1)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
+*   [cl-cancel (⭐5)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
 
 ### Event processing / Third-party APIs
 
-*   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
+*   [cl-nats (⭐11)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
     *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
@@ -2723,6 +2731,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [SLIMA (⭐65)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
+    *   *notice: at the time of writing, SLIMA is a bit lagging behind Slime and Swank's latest changes. It works for us with [Slime 2.27 (⭐2k)](https://github.com/slime/slime/releases/tag/v2.27). Tested on SBCL 2.5.8 and SBCL 2.1.11.debian.*
 
 ## [Mar 18 - Mar 24, 2019](/content/2019/11/README.md)
 

@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Mar 11, 2026](/content/2026/03/11/README.md)
+
+### Examples
+
+*   [feberts/python-game-server (⭐2)](https://github.com/feberts/python-game-server#readme) - A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.
+
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
 ### Examples
@@ -44,7 +50,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [dsplce-co/supabase-plus (⭐67)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
+*   [dsplce-co/supabase-plus (⭐66)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
 
 ### Tools
 
@@ -142,11 +148,11 @@ A curated list of awesome READMEs
 *   [Flutter Engine (⭐175k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
 *   [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
 *   [Linux cryptography (⭐221k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
-*   [Neovim (⭐96k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
+*   [Neovim (⭐97k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
 *   [Oh My Zsh (⭐185k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐73k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
-*   [Tauri (⭐103k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
-*   [VS Code (⭐182k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
+*   [Tauri (⭐104k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
+*   [VS Code (⭐183k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ### Articles
 

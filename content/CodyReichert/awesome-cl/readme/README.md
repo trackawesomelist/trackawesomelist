@@ -1675,7 +1675,7 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 *   [STMX (⭐256)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL][8].
 *   [Blackbird](https://orthecreedence.github.io/blackbird/) - a Promise implementation for Common Lisp [MIT][200].
     *   see also [promise](https://codeberg.org/Shinmera/promise) - a basic promise datastructure, with timeouts. ZLIB.
-*   [cl-cancel (⭐1)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
+*   [cl-cancel (⭐5)](https://github.com/atgreen/cl-cancel) -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
 
 See also:
 
@@ -1700,7 +1700,7 @@ See also:
 *   [deeds](https://codeberg.org/shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib][33].
 *   [cl-flow (⭐52)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT][200].
 *   [event-glue (⭐21)](https://github.com/orthecreedence/event-glue) - simple eventing abstraction. No dependencies. It can be used anywhere you need a generic event handling system. [MIT][200].
-*   [cl-nats (⭐3)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
+*   [cl-nats (⭐11)](https://github.com/atgreen/cl-nats) -  A full-featured NATS messaging client for Common Lisp. MIT. *With LLM*.
     *   Pub/Sub, request/reply, TLS 1.3, auto-reconnect, cluster discovery, Keep-Alive, cancellation.
 
 ## Job processing
@@ -1897,6 +1897,7 @@ Tools:
 *   [SLIMA (⭐65)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT][200].
+    *   *notice: at the time of writing, SLIMA is a bit lagging behind Slime and Swank's latest changes. It works for us with [Slime 2.27 (⭐2k)](https://github.com/slime/slime/releases/tag/v2.27). Tested on SBCL 2.5.8 and SBCL 2.1.11.debian.*
 
 ## Sublime Text
 
@@ -1945,6 +1946,10 @@ Tools:
     *   compared to icl: has an interactive debugger, has a `!` shell shortcut, has an `%edit` command, has classic readline-based autocompletion (icl has a drop-down), not based on Slynk, can't connect to a running Lisp image.
 *   [sbcli (⭐105)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3][2].
 *   [magic-ed (⭐26)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT][200].
+
+<!-- See also: -->
+
+<!-- * [cl-web-editor](https://git.sr.ht/~hajovonta/cl-web-editor) - a simple in-browser editor that does on-the-fly form validation and instant REPL results. MIT. -->
 
 ## Online editors
 
@@ -2023,6 +2028,12 @@ Editor utilities:
 
 *   [Slite (⭐60)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0][89]
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
+
+CI utilities:
+
+*   [CI-utils (⭐24)](https://github.com/neil-lindquist/CI-Utils) (low activity) - a set of utilities and examples for working on continuous integration platforms, including a run script for the Fiveam test library.
+    *   helps run Fiveam tests with the right exit code.
+    *   integrated with Roswell.
 
 For more: [Sabra Crolleton's extensive test frameworks comparison](https://sabracrolleton.github.io/testing-framework).
 

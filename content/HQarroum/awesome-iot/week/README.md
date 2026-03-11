@@ -8,9 +8,14 @@
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
+### Hardware
+
+*   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
+*   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Software for running a PiSpot Watch (composed of a Raspberry Pi Zero and a PaPiRus Zero) for the company GPConnect.
+
 ### Software / Miscellaneous
 
-*   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - A Raspberry Pi captive portal that creates a WiFi hotspot displaying a customizable web page to connected users using hostapd, dnsmasq, and nginx. Useful for events, marketing, and education.
+*   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
