@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Mar 12, 2026](/content/2026/03/12/README.md)
+
+### Adventure starters and scenarios / Starforged
+
+*   [New Canaan Run](https://jaderavens.itch.io/new-canaan-run) - Six sector starters for smugglers in The 'Verse.
+
 ## [Mar 08, 2026](/content/2026/03/08/README.md)
 
 ### Resources / Starforged

@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Mar 12, 2026](/content/2026/03/12/README.md)
+
+### Utilities
+
+*   [boj-server (⭐1)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
+
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
 ### Command-line
@@ -34,13 +40,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [timingless (⭐0)](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
+*   [timingless (⭐1)](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 
 ## [Feb 20, 2026](/content/2026/02/20/README.md)
 
 ### Command-line
 
-*   [vlsh (⭐13)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
+*   [vlsh (⭐19)](https://github.com/vlshcc/vlsh) - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 
 ## [Feb 16, 2026](/content/2026/02/16/README.md)
 

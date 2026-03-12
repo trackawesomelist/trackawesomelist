@@ -6,6 +6,16 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Boilerplates
+
+*   [A11y Starter Kit (⭐2)](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: <https://a11y-starter-kit.vercel.app/>
+
+### Apps
+
+*   [FIM Agent (⭐109)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### Boilerplates
@@ -43,7 +53,7 @@
 ### Extensions
 
 *   [Vercel AI SDK (⭐22k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
-*   [CopilotKit (⭐29k)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+*   [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 
 ## [Jun 23 - Jun 29, 2025](/content/2025/25/README.md)
 

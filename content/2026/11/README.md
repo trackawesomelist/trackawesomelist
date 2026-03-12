@@ -1,24 +1,64 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2026
 
-32 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Papers / 2026
+
+*   [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Utilities
+
+*   [boj-server (⭐1)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
+
+## [3. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+
+### API
+
+*   [NEXARDA](https://www.nexarda.com/api) - Games and price data.
+
+### Dataset / Related
+
+*   [NEXARDA Franchises](https://www.nexarda.com/pages/complete-list-of-video-game-franchises) - Franchises data from [nexarda.com](https://www.nexarda.com).
+*   [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
+*   [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
+
+## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Adventure starters and scenarios / Starforged
+
+*   [New Canaan Run](https://jaderavens.itch.io/new-canaan-run) - Six sector starters for smugglers in The 'Verse.
+
+## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Boilerplates
+
+*   [A11y Starter Kit (⭐2)](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: <https://a11y-starter-kit.vercel.app/>
+
+### Apps
+
+*   [FIM Agent (⭐109)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+
+## [6. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### 🏆 Top 100 by Stars / Workflow Frameworks
 
 *   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,910`
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Books
 
 *   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Analytics
 
@@ -32,6 +72,10 @@
 
 *   [Flare (⭐62)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 
+### Cryptography / Barcode
+
+*   [JWSETKit (⭐66)](https://github.com/amosavian/JWSETKit) - JOSE library with JWS, JWT, JWE, and JWK support.
+
 ### Text / Barcode
 
 *   [GMarkdown (⭐60)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
@@ -40,19 +84,24 @@
 
 *   [CircularRangeSlider (⭐30)](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
 
-## [4. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+### Utility / Barcode
+
+*   [swift-build (⭐49)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
+*   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
+
+## [9. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### SDKs and Libraries
 
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
-## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [10. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Test Management / Miscellaneous
 
 *   [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Online editors / Third-party APIs
 
@@ -60,7 +109,7 @@
     *   helps run Fiveam tests with the right exit code.
     *   integrated with Roswell.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -129,7 +178,7 @@
 
 *   [YAML (⭐456) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [13. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Benchmarks & Datasets
 
@@ -184,20 +233,20 @@
 
 *   [Borzoi (⭐228)](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
 
-## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [14. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [feberts/python-game-server (⭐2)](https://github.com/feberts/python-game-server#readme) - A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.
 
-## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [15. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
 *   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 *   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 
-## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -207,7 +256,7 @@
 
 *   [FirstData (⭐137)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [17. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring
 
@@ -247,7 +296,7 @@
 *   [Depot :yen:](https://depot.dev) - Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. [Done in seconds](https://depot.dev/#benchmarks).
 *   [Screwdriver :yen:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 
-## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -257,7 +306,7 @@
 
 *   [Xquik MCP (⭐14)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 
-## [14. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [19. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
@@ -272,7 +321,7 @@
 
 *   [SciTeX Writer (⭐2)](https://github.com/ywatanabe1989/scitex-writer) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -294,7 +343,7 @@
 
 *   [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 
-## [16. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [21. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Utility
 
@@ -304,13 +353,17 @@
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 
-## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+### Systems Programming / Compilers and Interpreters
+
+*   [zish (⭐1)](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
+
+## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
 *   [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -320,7 +373,7 @@
 
 *   [@ioi-dev/vue-table (⭐0)](https://github.com/Rawand-Hawez/ioi-vue-table) - Performance-first Vue 3 datatable with virtualization, selection, editing, and CSV export.
 
-## [19. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
 
 ## Table of Contents
 ## Basic Operations
@@ -1645,7 +1698,7 @@ git restore <file-name>
 git restore --staged <file-name>
 ```
 
-## [20. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### 人工智能
 
@@ -1656,7 +1709,7 @@ git restore --staged <file-name>
 *   [深度学习500问 (⭐57k)](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 *   [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
-## [21. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [26. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Chat and instant messaging
 
@@ -1773,13 +1826,13 @@ git restore --staged <file-name>
 *   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
 *   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
 
-## [22. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Miscellaneous
 
 *   [raffalib-python (⭐0)](https://github.com/raffaem/raffalib-python) - [STATA](https://www.stata.com/)-like logging capabilities by [@raffaem](https://github.com/raffaem).
 
-## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Web Monitoring / GitHub
 
@@ -1817,7 +1870,7 @@ git restore --staged <file-name>
 
 *   [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
@@ -1825,19 +1878,25 @@ git restore --staged <file-name>
 
 ### AI Client / Other Tools
 
+*   [Apple On-Device OpenAI (⭐787)](https://github.com/gety-ai/apple-on-device-openai) - Creates an OpenAI-compatible API server from Apple on-device Foundation Models for local use. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gety-ai/apple-on-device-openai) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/augmentedmike/miniclaw-os)
 
 ### Audio and Video Tools / File Sharing
 
+*   [Petrichor (⭐1.3k)](https://github.com/kushalpandya/Petrichor) - Offline music player with broad format support, lyrics, playlists, and queue management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kushalpandya/Petrichor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+### Utilities / Menu Bar Tools
+
+*   [Claude God](https://claudegod.app) - Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/Claude-God) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [30. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing, Prototyping & Mocking / React
 
 *   [mockd (⭐2)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1847,7 +1906,7 @@ git restore --staged <file-name>
 
 *   [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
 
-## [27. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [32. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -1859,7 +1918,7 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/SourceCodePreview.png)](https://anybox.ltd/source-code-preview)
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
@@ -1889,11 +1948,15 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
+
+### Applications / Blockchain
+
+*   [tempoxyz/tempo (⭐829)](https://github.com/tempoxyz/tempo) - A blockchain built for stablecoin payments at scale, with EVM compatibility, sub-second finality, and native smart account features, built on the Reth SDK
 
 ### Applications / Text editors
 
@@ -1912,7 +1975,7 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [memvid/memvid (⭐13k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 
-## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -1926,13 +1989,13 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 *   [ttconv (⭐226)](https://github.com/sandflow/ttconv) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 
-## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [36. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 
-## [32. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [37. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -1946,6 +2009,11 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 ### Data Sources / Crypto Currencies
 
 *   [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
+
+### Others / Plugins
+
+*   [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
+*   [Registry Broker (⭐10)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 
 ---
 

@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 12, 2026](/content/2026/03/12/README.md)
+
+### Systems Programming / Compilers and Interpreters
+
+*   [zish (⭐1)](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
+
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
 ### Fundamentals / Utility
@@ -54,7 +60,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Network
 
-*   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
+*   [zigtls (⭐1)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
 ### Interoperability / Build with Zig
 
@@ -151,11 +157,11 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [seqor/seqor (⭐11)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
+*   [seqor/seqor (⭐14)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 
 ### Multimedia & Graphics / GUI
 
-*   [meszmate/zigzag (⭐156)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+*   [meszmate/zigzag (⭐201)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 

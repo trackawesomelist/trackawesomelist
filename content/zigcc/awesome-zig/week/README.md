@@ -16,6 +16,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 
+### Systems Programming / Compilers and Interpreters
+
+*   [zish (⭐1)](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### Language Essentials / String Processing
@@ -42,7 +46,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Network
 
-*   [zigtls (⭐0)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
+*   [zigtls (⭐1)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
 ### Network & Web / Web3 Framework
 
@@ -112,7 +116,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [seqor/seqor (⭐11)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
+*   [seqor/seqor (⭐14)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 
 ### Data & Science / Machine Learning Framework
 
@@ -125,7 +129,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / GUI
 
-*   [meszmate/zigzag (⭐156)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+*   [meszmate/zigzag (⭐201)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 
 ### Multimedia & Graphics / Image and Video Processing
 

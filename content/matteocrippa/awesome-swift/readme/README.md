@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |     Updated    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1086   | March 11, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1089   | March 11, 2026 |
 
 In parternship with:
 
@@ -436,7 +436,7 @@ In parternship with:
 *   [Beethoven (⭐865)](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
 *   [FDSoundActivatedRecorder (⭐297)](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
 *   [FDWaveformView (⭐1.3k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
-*   [FluidAudio (⭐1.6k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.
+*   [FluidAudio (⭐1.6k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.
 *   [ModernAVPlayer (⭐292)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 *   [MusicKit (⭐622)](https://github.com/0thernet/MusicKit) - A framework for composing and transforming music.
 *   [Soundable (⭐95)](https://github.com/lcardevnas/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
@@ -1262,6 +1262,7 @@ In parternship with:
 *   [CryptoSwift (⭐11k)](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 *   [IDZSwiftCommonCrypto (⭐478)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
 *   [JOSESwift (⭐222)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JWSETKit (⭐66)](https://github.com/amosavian/JWSETKit) - JOSE library with JWS, JWT, JWE, and JWK support.
 *   [RNCryptor (⭐3.4k)](https://github.com/RNCryptor/RNCryptor) - CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.
 *   [SCrypto (⭐38)](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 *   [Siphash (⭐264)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
@@ -1702,7 +1703,7 @@ In parternship with:
 [back to top](#readme)
 
 *   [Stencil (⭐2.4k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
-*   [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 *   [Temple (⭐38)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
 
 #### TextField
@@ -1767,7 +1768,7 @@ In parternship with:
 *   [CollectionViewSlantedLayout (⭐2.3k)](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout to show slanted content.
 *   [Drag and Drop UICollectionView (⭐530)](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 *   [FSPagerView (⭐7.4k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-*   [Gliding Collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
+*   [Gliding Collection (⭐1.5k)](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
 *   [GoodProvider (⭐29)](https://github.com/GoodRequest/GRProvider) - 🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.
 *   [GravitySlider (⭐1.1k)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐267)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
@@ -1785,20 +1786,20 @@ In parternship with:
 *   [CollapsibleTableSectionViewController (⭐355)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 *   [DGElasticPullToRefresh (⭐3.8k)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh.
 *   [DiffableDataSources (⭐858)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
-*   [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+*   [DTTableViewManager (⭐455)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 *   [ExpandableCell (⭐771)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
 *   [FDTextFieldTableViewCell (⭐25)](https://github.com/fulldecent/FDTextFieldTableViewCell) - Adds a UITextField to the cell and places it correctly.
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 *   [GridView (⭐855)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
 *   [HGPlaceholders (⭐2.3k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 *   [OKTableViewLiaison (⭐84)](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews.
-*   [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
+*   [ParallaxHeader (⭐1k)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 *   [Persei (⭐3.4k)](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 *   [PullToRefreshSwift (⭐537)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 *   [QuickTableViewController (⭐559)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 *   [ReverseExtension (⭐1.7k)](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.
 *   [SelectionList (⭐124)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
-*   [Shoyu](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
+*   [Shoyu (⭐279)](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
 *   [SwiftyComments (⭐226)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 *   [SwipeCellKit (⭐6.3k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 *   [WLEmptyState (⭐319)](https://github.com/WizelineLabs/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
@@ -1865,6 +1866,7 @@ In parternship with:
 *   [Solar (⭐609)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 *   [SpriteKit+Spring (⭐250)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 *   [Sugar (⭐1.1k)](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
+*   [swift-build (⭐49)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
 *   [swift-protobuf (⭐4.9k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 *   [SwiftAutoGUI (⭐79)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 *   [SwiftBoost (⭐211)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
@@ -1879,6 +1881,7 @@ In parternship with:
 *   [Swiftx (⭐221)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 *   [SwiftyUtils (⭐563)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 *   [Swiftz (⭐3.3k)](https://github.com/typelift/Swiftz) - Functional programming.
+*   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
 *   [Then (⭐4.4k)](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
 *   [TSAO (⭐140)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 *   [URLQueryItemEncoder (⭐65)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.

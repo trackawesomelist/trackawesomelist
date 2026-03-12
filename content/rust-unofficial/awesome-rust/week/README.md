@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
 
+### Applications / Blockchain
+
+*   [tempoxyz/tempo (⭐829)](https://github.com/tempoxyz/tempo) - A blockchain built for stablecoin payments at scale, with EVM compatibility, sub-second finality, and native smart account features, built on the Reth SDK
+
 ### Applications / Text editors
 
 *   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
@@ -46,7 +50,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Finance
 
-*   [nautechsystems/nautilus\_trader (⭐20k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
+*   [nautechsystems/nautilus\_trader (⭐21k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
 
 ### Applications / Industrial automation
 
@@ -131,7 +135,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [Strophox/tetro-tui (⭐364)](https://github.com/Strophox/tetro-tui) \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
+*   [Strophox/tetro-tui (⭐377)](https://github.com/Strophox/tetro-tui) \[[tetro-tui](https://crates.io/crates/tetro-tui)] - A cross-platform terminal game where tetrominos fall and stack.
 
 ### Applications / Image processing
 
@@ -234,7 +238,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Text processing
 
-*   [kreuzberg-dev/kreuzberg (⭐6.2k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
+*   [kreuzberg-dev/kreuzberg (⭐6.7k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -820,7 +824,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nwiizo/tfmcp (⭐355)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
+*   [nwiizo/tfmcp (⭐357)](https://github.com/nwiizo/tfmcp) - Terraform MCP Tool - CLI for AI assistants to manage Terraform environments via Model Context Protocol.
 
 ### Libraries / Cloud
 

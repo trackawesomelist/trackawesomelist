@@ -6,6 +6,17 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Mar 12, 2026](/content/2026/03/12/README.md)
+
+### Cryptography / Barcode
+
+*   [JWSETKit (⭐66)](https://github.com/amosavian/JWSETKit) - JOSE library with JWS, JWT, JWE, and JWK support.
+
+### Utility / Barcode
+
+*   [swift-build (⭐49)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
+*   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
+
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
 ### Analytics
@@ -38,7 +49,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Audio
 
-*   [FluidAudio (⭐1.6k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.
+*   [FluidAudio (⭐1.6k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -317,7 +328,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UITableView / Barcode
 
-*   [Shoyu](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
+*   [Shoyu (⭐279)](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
 
 ### Walkthrough / Barcode
 
@@ -1710,7 +1721,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UITableView / Barcode
 
-*   [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+*   [DTTableViewManager (⭐455)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
 ## [Jan 31, 2019](/content/2019/01/31/README.md)
 
@@ -1863,7 +1874,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UICollectionView / Barcode
 
-*   [Gliding Collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
+*   [Gliding Collection (⭐1.5k)](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
 
 ## [Nov 10, 2018](/content/2018/11/10/README.md)
 
@@ -2737,7 +2748,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### UITableView / Barcode
 
 *   [GridView (⭐855)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
-*   [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
+*   [ParallaxHeader (⭐1k)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 
 ### Utility / Barcode
 
@@ -3065,7 +3076,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Template / Barcode
 
-*   [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
