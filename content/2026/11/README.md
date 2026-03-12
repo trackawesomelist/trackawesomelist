@@ -50,7 +50,7 @@
 
 ### 🏆 Top 100 by Stars / Workflow Frameworks
 
-*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,910`
+*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,911`
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1711,6 +1711,16 @@ git restore --staged <file-name>
 
 ## [26. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
+### AI / ChatGPT
+
+*   [Elroy (⭐53)](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
+*   [tenere (⭐650)](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama\_cpp, ollama) written in Rust.
+
+### Calculators
+
+*   [TuringTape (⭐4)](https://github.com/cmspeedrunner/TuringTape) - Turing machine.
+*   [Vectro (⭐18)](https://github.com/gurgeous/vectro) - RPN (reversible polish notation) calculator for your terminal.
+
 ### Chat and instant messaging
 
 *   [Instagram CLI (⭐1.7k)](https://github.com/supreme-gg-gg/instagram-cli) - Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot).
@@ -1729,22 +1739,53 @@ git restore --staged <file-name>
 
 *   [image-sorter (⭐44)](https://github.com/jgalat/image-sorter) - Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
 
+### Commands cheatsheet and snippets
+
+*   [gocheat (⭐325)](https://github.com/Achno/gocheat) - Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases.
+
 ### Containerization and virtualization
 
 *   [EMU2 (⭐451)](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 
+### Copy/paste and clipboard
+
+*   [clipse (⭐937)](https://github.com/savedra1/clipse) - TUI-based clipboard manager application written in Go.
+
+### Data management
+
+*   [chndlr (⭐11)](https://github.com/bharatvaj/chndlr) - Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
+*   [ttyplot (⭐1.3k)](https://github.com/tenox7/ttyplot) - A realtime plotting utility for terminals with data input from stdin/pipe.
+
+### Data management - Tabular data
+
+*   [levite (⭐8)](https://github.com/RauliL/levite) - A TUI spreadsheet application that uses an RPN formulas and features a Vi-friendly interface.
+
 ### Data transfer
 
 *   [Managarr (⭐714)](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing your arr servers.
+*   [termscp (⭐2.8k)](https://github.com/veeso/termscp) - A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
+*   [ytdl-tui (⭐32)](https://github.com/darky/ytdl-tui) - TUI for downloading Youtube videos.
 
 ### DevOps
 
 *   [Amazon EC2 Instance Selector (⭐927)](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
 *   [PUG (⭐665)](https://github.com/leg100/pug) - TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files).
 
+### Email
+
+*   [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
+
 ### File deletion and trash bin (alternatives to rm)
 
 *   [RecoverPy (⭐1.7k)](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
+
+### File manager
+
+*   [Better tree (⭐153)](https://github.com/LeperGnome/bt) - Interactive tree-like terminal file manager.
+
+### Financial tools
+
+*   [Bagels (⭐2.7k)](https://github.com/EnhancedJax/Bagels) - TUI application where you  can track and analyse your money flow.
 
 ### Font management
 
@@ -1756,7 +1797,13 @@ git restore --staged <file-name>
 
 ### Games
 
+*   [Par Infinite Minesweeper (⭐9)](https://github.com/paulrobello/par_infini_sweeper) - Minesweeper TUI.
 *   [tinytetris (⭐3.2k)](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris game.
+
+### Git and accessories
+
+*   [PReam-Team (⭐11)](https://github.com/nikoladucak/pream-team/) - A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
+*   [Smart Commit (⭐5)](https://github.com/eL1fe/smart-commit) - Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow).
 
 ### Graphics
 
@@ -1779,11 +1826,20 @@ git restore --staged <file-name>
 ### Note taking
 
 *   [Captain's Log (⭐363)](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
+*   [pdiary (⭐44)](https://github.com/manipuladordedados/pdiary) - A simple terminal diary journal application written in Python with encryption support.
+*   [Toney (⭐168)](https://github.com/SourcewareLab/Toney) - A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing.
+
+### Office tools
+
+*   [SSH-Slides (⭐134)](https://github.com/ivantsepp/ssh-slides) - SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
 
 ### Online search and resources
 
+*   [PagerDuty TUI (⭐11)](https://github.com/Mk555/pagerduty-tui) - Minimalistic terminal UI to manage triggered incidents.
 *   [pola (⭐0)](https://github.com/Sethispr/pola) - A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
+*   [Reddittui (⭐201)](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit.
 *   [sftui (⭐4)](https://github.com/AdamWHY2K/steam_friends_list_tui) - Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen).
+*   [tblogs (⭐62)](https://github.com/ezeoleaf/tblogs) - Read and browse development blogs with this TUI from your terminal.
 
 ### Package managers
 
@@ -1794,12 +1850,28 @@ git restore --staged <file-name>
 
 *   [Tlock (⭐202)](https://github.com/eklairs/tlock) - Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS).
 
+### Productivity
+
+*   [hnjobs (⭐36)](https://github.com/mwinters0/hnjobs) - Console tool to find the best match on Who's Hiring.
+*   [multranslate (⭐55)](https://github.com/Lifailon/multranslate) - A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection.
+
 ### Programming
 
 *   [PesterExplorer (⭐23)](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
+*   [QuickStart (⭐3)](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node\_js, Bash and more.
+
+### RSS
+
+*   [Canard (⭐166)](https://github.com/mrusme/canard) - A command line TUI client for the Journalist RSS aggregator.
+*   [Terminal-yt (⭐43)](https://github.com/jooooscha/terminal-yt) - A small newsboat-inspired terminal youtube manager written in Rust; (fetches video from atom and RSS feeds, opens them in a video player)
+
+### Religion
+
+*   [CatenaVetus (⭐16)](https://github.com/jimbob88/CatenaVetus) - A TUI for reading the Church Fathers.
 
 ### Science
 
+*   [Bibiman](https://codeberg.org/lukeflo/bibiman) - A TUI for fast and simple interacting with your BibLaTeX database.
 *   [terminalperiodictable (⭐140)](https://github.com/velorek1/terminalperiodictable) - Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
 
 ### Sound and music
@@ -1811,20 +1883,51 @@ git restore --staged <file-name>
 *   [nap](https://nap.sourceforge.net/) - Linux napster client.
 *   [RadioGoGo (⭐154)](https://github.com/Zi0P4tch0/RadioGoGo) - Go-powered CLI to surf global radio waves with TUI.
 *   [soundcloud2000 (⭐1.4k)](https://github.com/grobie/soundcloud2000) - A terminal client for soundcloud.
+*   [Toutui (⭐169)](https://github.com/AlbanDAVID/Toutui) - A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading).
+
+### System monitoring
+
+*   [tuihub (⭐22)](https://github.com/ashis0013/tuihub) - TUI to manage todos and getting handy information on machine usage and time.
 
 ### System tools
 
 *   [Marstui-rustio (⭐14)](https://github.com/schooldanlp6/marstui-rustio) - A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything.
+
+### Terminals
+
+*   [Textual Web (⭐1.4k)](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser.
+*   [tvterm (⭐276)](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal (Unix and Windows).
 
 ### Time trackers
 
 *   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
 *   [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 
+### Todo managers
+
+*   [Taskline (⭐313)](https://github.com/perryrh0dan/taskline) - Tasks, boards & notes for the command-line habitat.
+*   [TUI Project Manager (⭐34)](https://github.com/NicoDblc/TUI_ProjectManager) - Simple TUI todo list written in Rust.
+
+### Torrent
+
+*   [nyaa (⭐622)](https://github.com/Beastwick18/nyaa) - A nyaa TUI for browsing and downloading torrents.
+
 ### Utilities
 
 *   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
 *   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
+
+### Video
+
+*   [VLC](https://code.videolan.org/videolan/vlc) - VLC media player and multimedia engine; Can play most multimedia files: files, discs, streams, devices; It's also able to convert, encode, stream and manipulate streams into numerous formats.
+
+### Viewers
+
+*   [hygg (⭐272)](https://github.com/kruserr/hygg) - Minimalistic Vim-like TUI document reader.
+
+### Web browser
+
+*   [ELinks (⭐581)](https://github.com/rkd77/elinks) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
 
 ## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -1931,6 +2034,10 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 ### Queues
 
 *   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
+
+### Science and Data Analysis
+
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
 
 ### Security
 

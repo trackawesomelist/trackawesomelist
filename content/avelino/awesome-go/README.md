@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 12, 2026](/content/2026/03/12/README.md)
+
+### Science and Data Analysis
+
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
+
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
 ### Blockchain
@@ -2573,7 +2579,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐3k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
@@ -4994,7 +5000,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Science and Data Analysis
 
-*   [assocentity](https://github.com/ndabAP/assocentity) - Package assocentity returns the average distance from words to a given entity.
 *   [bradleyterry (⭐11)](https://github.com/seanhagen/bradleyterry) - Provides a Bradley-Terry Model for pairwise comparisons.
 *   [calendarheatmap (⭐411)](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap in plain Go inspired by Github contribution activity.
 *   [chart (⭐774)](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.

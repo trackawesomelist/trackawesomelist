@@ -1715,166 +1715,13 @@ git restore --staged <file-name>
 
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
-#### [24. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Blockchain
-
-*   [tronlib (⭐0)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
-
-##### Bloom and Cuckoo Filters
-
-*   [ribbonGo (⭐4)](https://github.com/RibbonFilter/ribbonGo) - First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.
-
-##### Queues
-
-*   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
-
-##### Security
-
-*   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
-
-##### Version Control
-
-*   [ggc (⭐266)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
-
-##### Other Software / Libraries for creating HTTP middlewares
-
-*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
-
-##### Benchmarks / Libraries for creating HTTP middlewares
-
-*   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
-
-#### [25. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [24. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Books
 
 *   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
 
-#### [26. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### 🏆 Top 100 by Stars / Workflow Frameworks
-
-*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,910`
-
-#### [27. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
-
-##### Chat and instant messaging
-
-*   [Instagram CLI (⭐1.7k)](https://github.com/supreme-gg-gg/instagram-cli) - Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot).
-*   [nchat (⭐1.6k)](https://github.com/d99kris/nchat) - Terminal Telegram, WhatsApp and Signal client for LInux and macOS.
-*   [nostratui (⭐5)](https://github.com/adamm-xyz/nostratui) - TUI for browsing Nostr posts, written in Rust.
-*   [nostui (⭐64)](https://github.com/akiomik/nostui) - TUI client for Nostr.
-*   [Sclack (⭐2.5k)](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
-*   [siggo (⭐327)](https://github.com/derricw/siggo) - TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages).
-*   [slack-term (⭐6.6k)](https://github.com/erroneousboat/slack-term) - Slack client for the  terminal.
-*   [tgt (⭐859)](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
-*   [tuisky (⭐159)](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
-*   [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
-*   [Zulip Terminal (⭐818)](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
-
-##### Clean up of files and directories
-
-*   [image-sorter (⭐44)](https://github.com/jgalat/image-sorter) - Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
-
-##### Containerization and virtualization
-
-*   [EMU2 (⭐451)](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
-
-##### Data transfer
-
-*   [Managarr (⭐714)](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing your arr servers.
-
-##### DevOps
-
-*   [Amazon EC2 Instance Selector (⭐927)](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
-*   [PUG (⭐665)](https://github.com/leg100/pug) - TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files).
-
-##### File deletion and trash bin (alternatives to rm)
-
-*   [RecoverPy (⭐1.7k)](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
-
-##### Font management
-
-*   [Iconic Fonts (⭐66)](https://github.com/iconicFonts/iconic-fonts) - A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
-
-##### Fuzzy finders and option pickers
-
-*   [Fnf (⭐46)](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
-
-##### Games
-
-*   [tinytetris (⭐3.2k)](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris game.
-
-##### Graphics
-
-*   [asciiMOL (⭐406)](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
-*   [cmdpxl (⭐547)](https://github.com/knosmos/cmdpxl) - Command-line image editor (edit pixels, save images, undo function, fill tool and filters).
-*   [Favicon Editor (⭐1)](https://github.com/xyproto/favicon-editor) - Minimalist grayscale favicon editor for the terminal.
-*   [GiF for CLI (⭐2.9k)](https://github.com/google/gif-for-cli) - Convert a GIF, short video or a query into ASCII art.
-
-##### Learning and didactic tools
-
-*   [Physics TUI (⭐23)](https://github.com/ClaudioRMalvino/physics_TUI) - TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter.
-*   [wb (⭐13)](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
-
-##### Networking
-
-*   [bluetui (⭐2.6k)](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
-*   [MQTT TUI (⭐643)](https://github.com/EdJoPaTo/mqttui) - MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
-*   [NetworkManager](https://developer.gnome.org/NetworkManager/stable/nmtui.html) - Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices).
-
-##### Note taking
-
-*   [Captain's Log (⭐363)](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
-
-##### Online search and resources
-
-*   [pola (⭐0)](https://github.com/Sethispr/pola) - A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
-*   [sftui (⭐4)](https://github.com/AdamWHY2K/steam_friends_list_tui) - Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen).
-
-##### Package managers
-
-*   [pkm (⭐62)](https://github.com/wick3dr0se/pkm) - A super minimal TUI package manager wrapper written in BASH v4-2+.
-*   [TUI-SHOP (⭐69)](https://github.com/Gcat101/tui-shop) - TUI-SHOP allows you to browse and install apps directly
-
-##### Password managers
-
-*   [Tlock (⭐202)](https://github.com/eklairs/tlock) - Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS).
-
-##### Programming
-
-*   [PesterExplorer (⭐23)](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
-
-##### Science
-
-*   [terminalperiodictable (⭐140)](https://github.com/velorek1/terminalperiodictable) - Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
-
-##### Sound and music
-
-*   [asak (⭐351)](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback TUI written in Rust.
-*   [gadacz (⭐38)](https://github.com/rareitems/gadacz) - Audiobook player (and other audio files) TUI.
-*   [jellyfin-tui (⭐415)](https://github.com/dhonus/jellyfin-tui) - Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
-*   [MOC](https://moc.daper.net/download) - Console audio player for LINUX/UNIX.
-*   [nap](https://nap.sourceforge.net/) - Linux napster client.
-*   [RadioGoGo (⭐154)](https://github.com/Zi0P4tch0/RadioGoGo) - Go-powered CLI to surf global radio waves with TUI.
-*   [soundcloud2000 (⭐1.4k)](https://github.com/grobie/soundcloud2000) - A terminal client for soundcloud.
-
-##### System tools
-
-*   [Marstui-rustio (⭐14)](https://github.com/schooldanlp6/marstui-rustio) - A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything.
-
-##### Time trackers
-
-*   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
-*   [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
-
-##### Utilities
-
-*   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
-*   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
-
-#### [28. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [25. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### Agents
 
@@ -1894,7 +1741,7 @@ git restore --staged <file-name>
 *   [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 *   [Registry Broker (⭐10)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 
-#### [29. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+#### [26. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ##### Boilerplates
 
@@ -1904,13 +1751,13 @@ git restore --staged <file-name>
 
 *   [FIM Agent (⭐109)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 
-#### [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [27. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ##### Adventure starters and scenarios / Starforged
 
 *   [New Canaan Run](https://jaderavens.itch.io/new-canaan-run) - Six sector starters for smugglers in The 'Verse.
 
-#### [31. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+#### [28. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ##### API
 
@@ -1922,7 +1769,7 @@ git restore --staged <file-name>
 *   [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
 *   [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
 
-#### [32. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [29. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Databases
 
@@ -1942,7 +1789,7 @@ git restore --staged <file-name>
 
 *   [Claude God](https://claudegod.app) - Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/Claude-God) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [33. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [30. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Analytics
 
@@ -1973,7 +1820,7 @@ git restore --staged <file-name>
 *   [swift-build (⭐49)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
 *   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
 
-#### [34. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [31. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -2000,13 +1847,13 @@ git restore --staged <file-name>
 
 *   [memvid/memvid (⭐13k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 
-#### [35. Awesome V](/content/vlang/awesome-v/README.md)
+#### [32. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Utilities
 
 *   [boj-server (⭐1)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 
-#### [36. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [33. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Fundamentals / Utility
 
@@ -2020,11 +1867,271 @@ git restore --staged <file-name>
 
 *   [zish (⭐1)](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
 
-#### [37. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [34. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2026
 
 *   [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
+
+#### [35. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Blockchain
+
+*   [tronlib (⭐0)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
+
+##### Bloom and Cuckoo Filters
+
+*   [ribbonGo (⭐4)](https://github.com/RibbonFilter/ribbonGo) - First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.
+
+##### Queues
+
+*   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
+
+##### Science and Data Analysis
+
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
+
+##### Security
+
+*   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
+
+##### Version Control
+
+*   [ggc (⭐266)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
+
+##### Other Software / Libraries for creating HTTP middlewares
+
+*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+
+##### Benchmarks / Libraries for creating HTTP middlewares
+
+*   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+
+#### [36. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### 🏆 Top 100 by Stars / Workflow Frameworks
+
+*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,911`
+
+#### [37. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+##### AI / ChatGPT
+
+*   [Elroy (⭐53)](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
+*   [tenere (⭐650)](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama\_cpp, ollama) written in Rust.
+
+##### Calculators
+
+*   [TuringTape (⭐4)](https://github.com/cmspeedrunner/TuringTape) - Turing machine.
+*   [Vectro (⭐18)](https://github.com/gurgeous/vectro) - RPN (reversible polish notation) calculator for your terminal.
+
+##### Chat and instant messaging
+
+*   [Instagram CLI (⭐1.7k)](https://github.com/supreme-gg-gg/instagram-cli) - Instagram from your terminal; It allows you to use social media more intentionally (chat, stay updated with post and stories without falling into endless brainrot).
+*   [nchat (⭐1.6k)](https://github.com/d99kris/nchat) - Terminal Telegram, WhatsApp and Signal client for LInux and macOS.
+*   [nostratui (⭐5)](https://github.com/adamm-xyz/nostratui) - TUI for browsing Nostr posts, written in Rust.
+*   [nostui (⭐64)](https://github.com/akiomik/nostui) - TUI client for Nostr.
+*   [Sclack (⭐2.5k)](https://github.com/haskellcamargo/sclack) - CLI client for Slack.
+*   [siggo (⭐327)](https://github.com/derricw/siggo) - TUI for signal-cli, written in Go, vim-style ux (quick messages, emoji support, configurable contacts, filter messages).
+*   [slack-term (⭐6.6k)](https://github.com/erroneousboat/slack-term) - Slack client for the  terminal.
+*   [tgt (⭐859)](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
+*   [tuisky (⭐159)](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
+*   [WeeChat](https://weechat.org/) - Fast and light chat client, customizable and extensible with scripts.
+*   [Zulip Terminal (⭐818)](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client with TUI.
+
+##### Clean up of files and directories
+
+*   [image-sorter (⭐44)](https://github.com/jgalat/image-sorter) - Terminal user interface for sorting images using key bindings written in Rust; It requires w3m to render the images.
+
+##### Commands cheatsheet and snippets
+
+*   [gocheat (⭐325)](https://github.com/Achno/gocheat) - Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases.
+
+##### Containerization and virtualization
+
+*   [EMU2 (⭐451)](https://github.com/dmsc/emu2) - A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
+
+##### Copy/paste and clipboard
+
+*   [clipse (⭐937)](https://github.com/savedra1/clipse) - TUI-based clipboard manager application written in Go.
+
+##### Data management
+
+*   [chndlr (⭐11)](https://github.com/bharatvaj/chndlr) - Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
+*   [ttyplot (⭐1.3k)](https://github.com/tenox7/ttyplot) - A realtime plotting utility for terminals with data input from stdin/pipe.
+
+##### Data management - Tabular data
+
+*   [levite (⭐8)](https://github.com/RauliL/levite) - A TUI spreadsheet application that uses an RPN formulas and features a Vi-friendly interface.
+
+##### Data transfer
+
+*   [Managarr (⭐714)](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing your arr servers.
+*   [termscp (⭐2.8k)](https://github.com/veeso/termscp) - A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
+*   [ytdl-tui (⭐32)](https://github.com/darky/ytdl-tui) - TUI for downloading Youtube videos.
+
+##### DevOps
+
+*   [Amazon EC2 Instance Selector (⭐927)](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
+*   [PUG (⭐665)](https://github.com/leg100/pug) - TUI for Terraform (perform tasks in parallel, manage state resources, calculate costs, automatically loads workspace variable files).
+
+##### Email
+
+*   [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
+
+##### File deletion and trash bin (alternatives to rm)
+
+*   [RecoverPy (⭐1.7k)](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data by inspecting disk blocks directly.
+
+##### File manager
+
+*   [Better tree (⭐153)](https://github.com/LeperGnome/bt) - Interactive tree-like terminal file manager.
+
+##### Financial tools
+
+*   [Bagels (⭐2.7k)](https://github.com/EnhancedJax/Bagels) - TUI application where you  can track and analyse your money flow.
+
+##### Font management
+
+*   [Iconic Fonts (⭐66)](https://github.com/iconicFonts/iconic-fonts) - A collection of over 50 patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
+
+##### Fuzzy finders and option pickers
+
+*   [Fnf (⭐46)](https://github.com/leo-arch/fnf) - An interactive fuzzy finder for the terminal; As you type a query, fnf  filters candidates and instantly updates the sorted list.
+
+##### Games
+
+*   [Par Infinite Minesweeper (⭐9)](https://github.com/paulrobello/par_infini_sweeper) - Minesweeper TUI.
+*   [tinytetris (⭐3.2k)](https://github.com/taylorconor/tinytetris) - 80x23 terminal tetris game.
+
+##### Git and accessories
+
+*   [PReam-Team (⭐11)](https://github.com/nikoladucak/pream-team/) - A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
+*   [Smart Commit (⭐5)](https://github.com/eL1fe/smart-commit) - Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow).
+
+##### Graphics
+
+*   [asciiMOL (⭐406)](https://github.com/dewberryants/asciiMol) - Curses based ASCII molecule viewer for terminals.
+*   [cmdpxl (⭐547)](https://github.com/knosmos/cmdpxl) - Command-line image editor (edit pixels, save images, undo function, fill tool and filters).
+*   [Favicon Editor (⭐1)](https://github.com/xyproto/favicon-editor) - Minimalist grayscale favicon editor for the terminal.
+*   [GiF for CLI (⭐2.9k)](https://github.com/google/gif-for-cli) - Convert a GIF, short video or a query into ASCII art.
+
+##### Learning and didactic tools
+
+*   [Physics TUI (⭐23)](https://github.com/ClaudioRMalvino/physics_TUI) - TUI for physics reference and calculations, providing interactive access to physics equations, definitions, and calculator organized by chapter.
+*   [wb (⭐13)](https://github.com/MertGunduz/wb) - A TUI vocabulary notebook app for Linux based devices.
+
+##### Networking
+
+*   [bluetui (⭐2.6k)](https://github.com/pythops/bluetui) - A TUI for managing bluetooth devices on Linux.
+*   [MQTT TUI (⭐643)](https://github.com/EdJoPaTo/mqttui) - MQTT Client written in rust (Subscribe to a MQTT topic or publish something quickly).
+*   [NetworkManager](https://developer.gnome.org/NetworkManager/stable/nmtui.html) - Will connect any network device when a connection for that device becomes available, unless it is disabled, by managing the primary network connection and other network interfaces (Ethernet, Wi-Fi and Mobile Broadband devices).
+
+##### Note taking
+
+*   [Captain's Log (⭐363)](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool (daily entries saved as md files, tags for organizing entries, browse tags, calendar view, encrypted logs, storage using a git repository).
+*   [pdiary (⭐44)](https://github.com/manipuladordedados/pdiary) - A simple terminal diary journal application written in Python with encryption support.
+*   [Toney (⭐168)](https://github.com/SourcewareLab/Toney) - A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing.
+
+##### Office tools
+
+*   [SSH-Slides (⭐134)](https://github.com/ivantsepp/ssh-slides) - SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+
+##### Online search and resources
+
+*   [PagerDuty TUI (⭐11)](https://github.com/Mk555/pagerduty-tui) - Minimalistic terminal UI to manage triggered incidents.
+*   [pola (⭐0)](https://github.com/Sethispr/pola) - A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
+*   [Reddittui (⭐201)](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit.
+*   [sftui (⭐4)](https://github.com/AdamWHY2K/steam_friends_list_tui) - Real-time command-line interface for viewing your Steam friends list (monitor online status, current games and last seen).
+*   [tblogs (⭐62)](https://github.com/ezeoleaf/tblogs) - Read and browse development blogs with this TUI from your terminal.
+
+##### Package managers
+
+*   [pkm (⭐62)](https://github.com/wick3dr0se/pkm) - A super minimal TUI package manager wrapper written in BASH v4-2+.
+*   [TUI-SHOP (⭐69)](https://github.com/Gcat101/tui-shop) - TUI-SHOP allows you to browse and install apps directly
+
+##### Password managers
+
+*   [Tlock (⭐202)](https://github.com/eklairs/tlock) - Two-Factor Authentication Tokens Manager in Terminal (Windows, Linux and MacOS).
+
+##### Productivity
+
+*   [hnjobs (⭐36)](https://github.com/mwinters0/hnjobs) - Console tool to find the best match on Who's Hiring.
+*   [multranslate (⭐55)](https://github.com/Lifailon/multranslate) - A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection.
+
+##### Programming
+
+*   [PesterExplorer (⭐23)](https://github.com/HeyItsGilbert/PesterExplorer) - A TUI to explore Pester results (prints tests results as they're running).
+*   [QuickStart (⭐3)](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node\_js, Bash and more.
+
+##### RSS
+
+*   [Canard (⭐166)](https://github.com/mrusme/canard) - A command line TUI client for the Journalist RSS aggregator.
+*   [Terminal-yt (⭐43)](https://github.com/jooooscha/terminal-yt) - A small newsboat-inspired terminal youtube manager written in Rust; (fetches video from atom and RSS feeds, opens them in a video player)
+
+##### Religion
+
+*   [CatenaVetus (⭐16)](https://github.com/jimbob88/CatenaVetus) - A TUI for reading the Church Fathers.
+
+##### Science
+
+*   [Bibiman](https://codeberg.org/lukeflo/bibiman) - A TUI for fast and simple interacting with your BibLaTeX database.
+*   [terminalperiodictable (⭐140)](https://github.com/velorek1/terminalperiodictable) - Periodic table TUI for GNU/linux systems coded in C with no extra dependencies.
+
+##### Sound and music
+
+*   [asak (⭐351)](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback TUI written in Rust.
+*   [gadacz (⭐38)](https://github.com/rareitems/gadacz) - Audiobook player (and other audio files) TUI.
+*   [jellyfin-tui (⭐415)](https://github.com/dhonus/jellyfin-tui) - Jellyfin client (music streaming); Offers a self-hosted terminal music player with modern features.
+*   [MOC](https://moc.daper.net/download) - Console audio player for LINUX/UNIX.
+*   [nap](https://nap.sourceforge.net/) - Linux napster client.
+*   [RadioGoGo (⭐154)](https://github.com/Zi0P4tch0/RadioGoGo) - Go-powered CLI to surf global radio waves with TUI.
+*   [soundcloud2000 (⭐1.4k)](https://github.com/grobie/soundcloud2000) - A terminal client for soundcloud.
+*   [Toutui (⭐169)](https://github.com/AlbanDAVID/Toutui) - A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading).
+
+##### System monitoring
+
+*   [tuihub (⭐22)](https://github.com/ashis0013/tuihub) - TUI to manage todos and getting handy information on machine usage and time.
+
+##### System tools
+
+*   [Marstui-rustio (⭐14)](https://github.com/schooldanlp6/marstui-rustio) - A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything.
+
+##### Terminals
+
+*   [Textual Web (⭐1.4k)](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser.
+*   [tvterm (⭐276)](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal (Unix and Windows).
+
+##### Time trackers
+
+*   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - A feature-rich clock/ timer/ pattern-based time manager in terminal with curated text-art.
+*   [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
+
+##### Todo managers
+
+*   [Taskline (⭐313)](https://github.com/perryrh0dan/taskline) - Tasks, boards & notes for the command-line habitat.
+*   [TUI Project Manager (⭐34)](https://github.com/NicoDblc/TUI_ProjectManager) - Simple TUI todo list written in Rust.
+
+##### Torrent
+
+*   [nyaa (⭐622)](https://github.com/Beastwick18/nyaa) - A nyaa TUI for browsing and downloading torrents.
+
+##### Utilities
+
+*   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
+*   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
+
+##### Video
+
+*   [VLC](https://code.videolan.org/videolan/vlc) - VLC media player and multimedia engine; Can play most multimedia files: files, discs, streams, devices; It's also able to convert, encode, stream and manipulate streams into numerous formats.
+
+##### Viewers
+
+*   [hygg (⭐272)](https://github.com/kruserr/hygg) - Minimalistic Vim-like TUI document reader.
+
+##### Web browser
+
+*   [ELinks (⭐581)](https://github.com/rkd77/elinks) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
 
 ---
 
@@ -2034,7 +2141,7 @@ git restore --staged <file-name>
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 384K 📝 03&#x2F;10) - :books: Freely available programming books
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 276K 📝 03&#x2F;08) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 166K 📝 03&#x2F;11) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 166K 📝 03&#x2F;12) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 284K 📝 03&#x2F;04) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 100K 📝 03&#x2F;12) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 118K 📝 03&#x2F;10) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2078,9 +2185,9 @@ git restore --staged <file-name>
 44. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65K 📝 02&#x2F;08) - :zap: Delightful Node.js packages and resources
 45. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5.7K 📝 03&#x2F;04) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 46. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source](https://github.com/CodyReichert/awesome-cl) ⭐ 2.9K 📝 03&#x2F;11) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-47. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.8K 📝 02&#x2F;27) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-48. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source](https://github.com/mjhea0/awesome-fastapi) ⭐ 11K 📝 02&#x2F;24) - A curated list of awesome things related to FastAPI
-49. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.4K 📝 03&#x2F;11) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+47. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.4K 📝 03&#x2F;12) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+48. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.8K 📝 02&#x2F;27) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+49. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source](https://github.com/mjhea0/awesome-fastapi) ⭐ 11K 📝 02&#x2F;24) - A curated list of awesome things related to FastAPI
 50. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source](https://github.com/zigcc/awesome-zig) ⭐ 2.1K 📝 03&#x2F;12) - A collaborative list of awesome Zig libraries and resources. 
 
 ## All Tracked List
@@ -2277,7 +2384,7 @@ git restore --staged <file-name>
 - [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
 - [Awesome Ci](/content/ligurio/awesome-ci/README.md) - ([Source ⭐ 4K, 📝 03&#x2F;01 ](https://github.com/ligurio/awesome-ci)) - The list of continuous integration services and tools
 - [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 19K, 📝 03&#x2F;01 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;11 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;12 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Awesome Devenv](/content/jondot/awesome-devenv/README.md) - ([Source ⭐ 2.4K, 📝 22&#x2F;09&#x2F;20 ](https://github.com/jondot/awesome-devenv)) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [Awesome Devtools](/content/moimikey/awesome-devtools/README.md) - ([Source ⭐ 366, 📝 23&#x2F;12&#x2F;26 ](https://github.com/moimikey/awesome-devtools)) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 9.8K, 📝 25&#x2F;06&#x2F;19 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
@@ -2765,7 +2872,7 @@ git restore --staged <file-name>
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 402, 📝 02&#x2F;24 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 02&#x2F;08 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 166K, 📝 03&#x2F;11 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 166K, 📝 03&#x2F;12 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 3, 📝 03&#x2F;11 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.

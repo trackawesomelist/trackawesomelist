@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
 
+### Science and Data Analysis
+
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
+
 ### Security
 
 *   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
@@ -2349,7 +2353,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐3k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -4640,7 +4644,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Science and Data Analysis
 
-*   [assocentity](https://github.com/ndabAP/assocentity) - Package assocentity returns the average distance from words to a given entity.
 *   [bradleyterry (⭐11)](https://github.com/seanhagen/bradleyterry) - Provides a Bradley-Terry Model for pairwise comparisons.
 *   [calendarheatmap (⭐411)](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap in plain Go inspired by Github contribution activity.
 *   [chart (⭐774)](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.

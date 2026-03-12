@@ -998,7 +998,7 @@ additional ordered map implementations.
 *   [dot (⭐87)](https://github.com/dotchain/dot/) - distributed sync using operational transformation/OT.
 *   [doublejump (⭐108)](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash.
 *   [dragonboat (⭐5.3k)](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
-*   [Dragonfly (⭐3k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 *   [drmaa (⭐51)](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
 *   [dynamolock](https://cirello.io/dynamolock) - DynamoDB-backed distributed locking implementation.
 *   [dynatomic (⭐17)](https://github.com/tylfin/dynatomic) - A library for using DynamoDB as an atomic counter.
@@ -2254,12 +2254,12 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *Libraries for scientific computing and data analyzing.*
 
-*   [assocentity](https://github.com/ndabAP/assocentity) - Package assocentity returns the average distance from words to a given entity.
 *   [bradleyterry (⭐11)](https://github.com/seanhagen/bradleyterry) - Provides a Bradley-Terry Model for pairwise comparisons.
 *   [calendarheatmap (⭐411)](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap in plain Go inspired by Github contribution activity.
 *   [chart (⭐774)](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
 *   [dataframe-go (⭐1.3k)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 *   [decimal (⭐44)](https://github.com/db47h/decimal) - Package decimal implements arbitrary-precision decimal floating-point arithmetic.
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
 *   [evaler (⭐50)](https://github.com/soniah/evaler) - Simple floating point arithmetic expression evaluator.
 *   [ewma (⭐451)](https://github.com/VividCortex/ewma) - Exponentially-weighted moving averages.
 *   [geom (⭐55)](https://github.com/skelterjohn/geom) - 2D geometry for golang.

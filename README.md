@@ -102,6 +102,138 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
 
+#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Science and Data Analysis
+
+*   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
+
+#### [12. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+
+##### AI / ChatGPT
+
+*   [Elroy (⭐53)](https://github.com/elroy-bot/elroy) - AI personal assistant that remembers and sets goals.
+*   [tenere (⭐650)](https://github.com/pythops/tenere) - A TUI for LLMs (ChatGPT, llama\_cpp, ollama) written in Rust.
+
+##### Calculators
+
+*   [TuringTape (⭐4)](https://github.com/cmspeedrunner/TuringTape) - Turing machine.
+*   [Vectro (⭐18)](https://github.com/gurgeous/vectro) - RPN (reversible polish notation) calculator for your terminal.
+
+##### Commands cheatsheet and snippets
+
+*   [gocheat (⭐325)](https://github.com/Achno/gocheat) - Customizable TUI cheatsheet for keybindings, hotkeys, gestures and aliases.
+
+##### Copy/paste and clipboard
+
+*   [clipse (⭐937)](https://github.com/savedra1/clipse) - TUI-based clipboard manager application written in Go.
+
+##### Data management
+
+*   [chndlr (⭐11)](https://github.com/bharatvaj/chndlr) - Replacement for xdg-open; It determines the appropriate application to open a file or URL based on user-defined rules in configuration.
+*   [ttyplot (⭐1.3k)](https://github.com/tenox7/ttyplot) - A realtime plotting utility for terminals with data input from stdin/pipe.
+
+##### Data management - Tabular data
+
+*   [levite (⭐8)](https://github.com/RauliL/levite) - A TUI spreadsheet application that uses an RPN formulas and features a Vi-friendly interface.
+
+##### Data transfer
+
+*   [termscp (⭐2.8k)](https://github.com/veeso/termscp) - A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
+*   [ytdl-tui (⭐32)](https://github.com/darky/ytdl-tui) - TUI for downloading Youtube videos.
+
+##### Email
+
+*   [abook](https://abook.sourceforge.io/) - TUI addressbook with Mutt mail client integration (runs on Linux, FreeBSD and other UNIXes).
+
+##### File manager
+
+*   [Better tree (⭐153)](https://github.com/LeperGnome/bt) - Interactive tree-like terminal file manager.
+
+##### Financial tools
+
+*   [Bagels (⭐2.7k)](https://github.com/EnhancedJax/Bagels) - TUI application where you  can track and analyse your money flow.
+
+##### Games
+
+*   [Par Infinite Minesweeper (⭐9)](https://github.com/paulrobello/par_infini_sweeper) - Minesweeper TUI.
+
+##### Git and accessories
+
+*   [PReam-Team (⭐11)](https://github.com/nikoladucak/pream-team/) - A TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories.
+*   [Smart Commit (⭐5)](https://github.com/eL1fe/smart-commit) - Customizable CLI tool for creating consistent Git commits using interactive prompts (automatic commit type suggestions, CI integration, GPG signing, push support, and local configuration for a streamlined commit workflow).
+
+##### Note taking
+
+*   [pdiary (⭐44)](https://github.com/manipuladordedados/pdiary) - A simple terminal diary journal application written in Python with encryption support.
+*   [Toney (⭐168)](https://github.com/SourcewareLab/Toney) - A fast, lightweight, terminal-based note-taking TUI app built with Bubbletea; Offers markdown rendering, file navigation and native Neovim editing.
+
+##### Office tools
+
+*   [SSH-Slides (⭐134)](https://github.com/ivantsepp/ssh-slides) - SSH server that hosts terminal-based presentations where your viewers can follow along in their own terminals.
+
+##### Online search and resources
+
+*   [PagerDuty TUI (⭐11)](https://github.com/Mk555/pagerduty-tui) - Minimalistic terminal UI to manage triggered incidents.
+*   [Reddittui (⭐201)](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit.
+*   [tblogs (⭐62)](https://github.com/ezeoleaf/tblogs) - Read and browse development blogs with this TUI from your terminal.
+
+##### Productivity
+
+*   [hnjobs (⭐36)](https://github.com/mwinters0/hnjobs) - Console tool to find the best match on Who's Hiring.
+*   [multranslate (⭐55)](https://github.com/Lifailon/multranslate) - A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection.
+
+##### Programming
+
+*   [QuickStart (⭐3)](https://github.com/squach90/homebrew-quickstart) - CLI to quickly create projects in HTML, Python, Node\_js, Bash and more.
+
+##### RSS
+
+*   [Canard (⭐166)](https://github.com/mrusme/canard) - A command line TUI client for the Journalist RSS aggregator.
+*   [Terminal-yt (⭐43)](https://github.com/jooooscha/terminal-yt) - A small newsboat-inspired terminal youtube manager written in Rust; (fetches video from atom and RSS feeds, opens them in a video player)
+
+##### Religion
+
+*   [CatenaVetus (⭐16)](https://github.com/jimbob88/CatenaVetus) - A TUI for reading the Church Fathers.
+
+##### Science
+
+*   [Bibiman](https://codeberg.org/lukeflo/bibiman) - A TUI for fast and simple interacting with your BibLaTeX database.
+
+##### Sound and music
+
+*   [Toutui (⭐169)](https://github.com/AlbanDAVID/Toutui) - A TUI Audiobookshelf Client for Linux and macOS (supports audiobooks and podcasts, play directly without downloading).
+
+##### System monitoring
+
+*   [tuihub (⭐22)](https://github.com/ashis0013/tuihub) - TUI to manage todos and getting handy information on machine usage and time.
+
+##### Terminals
+
+*   [Textual Web (⭐1.4k)](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser.
+*   [tvterm (⭐276)](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal (Unix and Windows).
+
+##### Todo managers
+
+*   [Taskline (⭐313)](https://github.com/perryrh0dan/taskline) - Tasks, boards & notes for the command-line habitat.
+*   [TUI Project Manager (⭐34)](https://github.com/NicoDblc/TUI_ProjectManager) - Simple TUI todo list written in Rust.
+
+##### Torrent
+
+*   [nyaa (⭐622)](https://github.com/Beastwick18/nyaa) - A nyaa TUI for browsing and downloading torrents.
+
+##### Video
+
+*   [VLC](https://code.videolan.org/videolan/vlc) - VLC media player and multimedia engine; Can play most multimedia files: files, discs, streams, devices; It's also able to convert, encode, stream and manipulate streams into numerous formats.
+
+##### Viewers
+
+*   [hygg (⭐272)](https://github.com/kruserr/hygg) - Minimalistic Vim-like TUI document reader.
+
+##### Web browser
+
+*   [ELinks (⭐581)](https://github.com/rkd77/elinks) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
+
 ### [Mar 11, 2026](/content/2026/03/11/README.md)
 
 
@@ -323,7 +455,67 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
-#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Books
+
+*   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
+
+#### [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+##### Agents
+
+*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
+
+##### Data Sources / Traditional Markets
+
+*   [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
+
+#### [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Developer Tools / Databases
+
+*   [TablePro (⭐894)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/datlechin/TablePro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+##### Analytics
+
+*   [Scout (⭐22)](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
+
+##### API
+
+*   [YouTubeKit (⭐118)](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
+
+##### App Store
+
+*   [Flare (⭐62)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
+
+##### Text / Barcode
+
+*   [GMarkdown (⭐60)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
+
+##### UI / Barcode
+
+*   [CircularRangeSlider (⭐30)](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
+
+#### [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Development tools / Workflow Automation
+
+*   [jj-vcs/jj (⭐26k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
+
+##### Development tools / Formatters
+
+*   [astral-sh/ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+
+#### [16. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Fundamentals / Utility
+
+*   [zlist (⭐11)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
+
+#### [17. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Blockchain
 
@@ -341,19 +533,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ggc (⭐266)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
-#### [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Books
-
-*   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
-
-#### [13. Awesome Go](/content/abordage/awesome-go/README.md)
+#### [18. Awesome Go](/content/abordage/awesome-go/README.md)
 
 ##### 🏆 Top 100 by Stars / Workflow Frameworks
 
-*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,910`
+*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,911`
 
-#### [14. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+#### [19. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ##### Clean up of files and directories
 
@@ -434,60 +620,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Roku-tui (⭐18)](https://github.com/winsbe01/roku-cli) - A command line TUI remote for Roku.
 *   [wego (⭐8.4k)](https://github.com/schachmat/wego) - Weather app for the terminal.
-
-#### [15. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
-
-##### Agents
-
-*   [AgentFund (⭐1)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
-
-##### Data Sources / Traditional Markets
-
-*   [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
-
-#### [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Developer Tools / Databases
-
-*   [TablePro (⭐894)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/datlechin/TablePro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-##### Analytics
-
-*   [Scout (⭐22)](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
-
-##### API
-
-*   [YouTubeKit (⭐118)](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
-
-##### App Store
-
-*   [Flare (⭐62)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
-
-##### Text / Barcode
-
-*   [GMarkdown (⭐60)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
-
-##### UI / Barcode
-
-*   [CircularRangeSlider (⭐30)](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
-
-#### [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Development tools / Workflow Automation
-
-*   [jj-vcs/jj (⭐26k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
-
-##### Development tools / Formatters
-
-*   [astral-sh/ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
-
-#### [19. Awesome Zig](/content/zigcc/awesome-zig/README.md)
-
-##### Fundamentals / Utility
-
-*   [zlist (⭐11)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 
 ### [Mar 10, 2026](/content/2026/03/10/README.md)
 
@@ -1903,19 +2035,13 @@ git restore --staged <file-name>
 
 *   [Wayback-Archive (⭐4)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 
-#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Other Software / Libraries for creating HTTP middlewares
-
-*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
-
-#### [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Audio and Video Tools / File Sharing
 
 *   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -1925,11 +2051,17 @@ git restore --staged <file-name>
 
 *   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
 
-#### [13. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [12. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Language Essentials / File Format Processing
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
+
+#### [13. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Other Software / Libraries for creating HTTP middlewares
+
+*   [onWatch (⭐277)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 
 ---
 
@@ -1939,7 +2071,7 @@ git restore --staged <file-name>
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 384K 📝 03&#x2F;10) - :books: Freely available programming books
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 276K 📝 03&#x2F;08) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 166K 📝 03&#x2F;11) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 166K 📝 03&#x2F;12) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 284K 📝 03&#x2F;04) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 100K 📝 03&#x2F;12) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 118K 📝 03&#x2F;10) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1983,9 +2115,9 @@ git restore --staged <file-name>
 44. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source](https://github.com/sindresorhus/awesome-nodejs) ⭐ 65K 📝 02&#x2F;08) - :zap: Delightful Node.js packages and resources
 45. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source](https://github.com/AboutRSS/ALL-about-RSS) ⭐ 5.7K 📝 03&#x2F;04) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 46. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source](https://github.com/CodyReichert/awesome-cl) ⭐ 2.9K 📝 03&#x2F;11) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-47. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.8K 📝 02&#x2F;27) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-48. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source](https://github.com/mjhea0/awesome-fastapi) ⭐ 11K 📝 02&#x2F;24) - A curated list of awesome things related to FastAPI
-49. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.4K 📝 03&#x2F;11) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+47. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.4K 📝 03&#x2F;12) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+48. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.8K 📝 02&#x2F;27) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+49. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source](https://github.com/mjhea0/awesome-fastapi) ⭐ 11K 📝 02&#x2F;24) - A curated list of awesome things related to FastAPI
 50. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source](https://github.com/zigcc/awesome-zig) ⭐ 2.1K 📝 03&#x2F;12) - A collaborative list of awesome Zig libraries and resources. 
 
 ## All Tracked List
@@ -2182,7 +2314,7 @@ git restore --staged <file-name>
 - [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
 - [Awesome Ci](/content/ligurio/awesome-ci/README.md) - ([Source ⭐ 4K, 📝 03&#x2F;01 ](https://github.com/ligurio/awesome-ci)) - The list of continuous integration services and tools
 - [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 19K, 📝 03&#x2F;01 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;11 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;12 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Awesome Devenv](/content/jondot/awesome-devenv/README.md) - ([Source ⭐ 2.4K, 📝 22&#x2F;09&#x2F;20 ](https://github.com/jondot/awesome-devenv)) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [Awesome Devtools](/content/moimikey/awesome-devtools/README.md) - ([Source ⭐ 366, 📝 23&#x2F;12&#x2F;26 ](https://github.com/moimikey/awesome-devtools)) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 9.8K, 📝 25&#x2F;06&#x2F;19 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
@@ -2670,7 +2802,7 @@ git restore --staged <file-name>
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 402, 📝 02&#x2F;24 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 02&#x2F;08 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 166K, 📝 03&#x2F;11 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 166K, 📝 03&#x2F;12 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 3, 📝 03&#x2F;11 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
