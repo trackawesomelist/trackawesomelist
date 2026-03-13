@@ -56,6 +56,7 @@ Awesome list of computational biology.
 
 *   [OpenFold (⭐3.3k)](https://github.com/aqlaboratory/openfold) — Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.
 *   [SaProt](https://github.com/westlake-reup/SaProt) — Structure-aware protein language model using structure-aware tokens that encode both sequence and backbone geometry for improved function prediction.
+*   [EvoDiff (⭐664)](https://github.com/microsoft/evodiff) — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. \[ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
 
 ### Genomics Foundation Models / Protein Structure Prediction and Design
 

@@ -21,6 +21,10 @@
 *   [Usage4Claude (⭐218)](https://github.com/f-is-h/Usage4Claude) - Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f-is-h/Usage4Claude) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Priyans-hu/tokenmeter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Productivity
+
+*   [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/unsecretised/rustcast) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
 ### AI Client / Other Tools

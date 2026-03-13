@@ -8,6 +8,18 @@ A curated list of awesome GIF resources.
 
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
+### General Tools
+
+*   [ImageMagick](https://imagemagick.org/script/index.php)
+
+### Utilities
+
+*   [Gifit (⭐134)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
+
+### Libraries / Swift
+
+*   [SwiftyGif (⭐2.3k)](https://github.com/alexiscreuzot/SwiftyGif) - High performance & easy to use Gif engine.
+
 ### Online Tools / Swift
 
 *   [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
@@ -43,12 +55,6 @@ A curated list of awesome GIF resources.
 
 *   [msf\_gif (⭐230)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
-## [Oct 07, 2020](/content/2020/10/07/README.md)
-
-### Libraries / Swift
-
-*   [SwiftyGif (⭐2.3k)](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
-
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
 
 ### Utilities
@@ -77,12 +83,6 @@ A curated list of awesome GIF resources.
 
 *   [gifski (⭐5.4k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 
-## [Mar 17, 2018](/content/2018/03/17/README.md)
-
-### Online Tools / Swift
-
-*   [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur.
-
 ## [Jun 05, 2017](/content/2017/06/05/README.md)
 
 ### Online Tools / Swift
@@ -99,17 +99,12 @@ A curated list of awesome GIF resources.
 
 ## [Feb 04, 2017](/content/2017/02/04/README.md)
 
-### General Tools
-
-*   [ImageMagick](http://www.imagemagick.org/script/index.php)
-
 ### Utilities
 
 *   [Gifgen (⭐562)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 *   [Screengif (⭐1.3k)](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
 *   [Gifline (⭐69)](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
 *   [Tty2gif (⭐160)](https://github.com/z24/tty2gif) - Record scripts and their outputs into both binary and GIF formats.
-*   [Gifit (⭐134)](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video.
 *   [Ccapture.js (⭐3.7k)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 *   [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 
@@ -153,7 +148,6 @@ A curated list of awesome GIF resources.
 
 ### GUI / Swift
 
-*   [Glyph](http://www.glyph.video/) - Tool for generating seamlessly looping GIFs and cinemagraphs from videos.
 *   [Qgifer](https://sourceforge.net/projects/qgifer/)
 
 ### Hosting / Swift

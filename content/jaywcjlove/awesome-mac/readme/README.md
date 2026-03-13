@@ -35,8 +35,10 @@
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee\&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
-[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x\&logoColor=white)](https://x.com/jaywcjlove)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/README-zh.md)
 [![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/./README-ja.md)
@@ -1302,6 +1304,7 @@ Any comments, suggestions? [Let us know! (⭐100k)](https://github.com/jaywcjlov
 *   [Pomodoro Cycle (⭐90)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [Raycast](https://raycast.com?via=ae02) - Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.
+*   [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 *   [SuperCorners](https://supercorners.vercel.app/) - Make your screen corners more powerful — turn Hot Corners into efficient workflow triggers. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 *   [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.

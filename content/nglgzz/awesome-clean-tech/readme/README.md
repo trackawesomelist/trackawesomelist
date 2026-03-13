@@ -2,7 +2,7 @@
 
 A community curated list of awesome clean tech companies
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 377 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 456 · 🏷️ Business
 
 [ [Daily](/content/nglgzz/awesome-clean-tech/README.md) / [Weekly](/content/nglgzz/awesome-clean-tech/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A community curated list of awesome clean tech companies
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-*Contributions to this list are welcome! Just edit the [README.md (⭐377)](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
+*Contributions to this list are welcome! Just edit the [README.md (⭐455)](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
@@ -276,10 +276,13 @@ The format for companies is the following:
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - curated list of \~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
 *   [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than $1 billion in committed capital, to build companies that will help stop climate change.
+*   [Carbon Badge](https://carbon-badge.com) - Website carbon footprint calculator based on the Sustainable Web Design Model v4.
 *   [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 *   [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 *   [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
+*   [DPP Tool](https://dpp-tool.com) - Digital Product Passport generator for EU ESPR regulation compliance.
+*   [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
 *   [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 *   [Norrsken Foundation](https://www.norrsken.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 

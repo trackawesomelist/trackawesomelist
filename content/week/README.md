@@ -1536,91 +1536,26 @@ git restore --staged <file-name>
 *   [Depot :yen:](https://depot.dev) - Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. [Done in seconds](https://depot.dev/#benchmarks).
 *   [Screwdriver :yen:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 
-#### [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
-
-##### Research & Knowledge Retrieval
-
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐3)](https://github.com/connerlambden/bgpt-mcp)
-
-##### Datasets / Book Deals (Affiliated)
-
-*   [FirstData (⭐137)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
-
-#### [15. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+#### [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ##### Projects
 
 *   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 *   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 
-#### [16. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+#### [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ##### Software / Miscellaneous
 
 *   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 
-#### [17. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+#### [16. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ##### Examples
 
 *   [feberts/python-game-server (⭐2)](https://github.com/feberts/python-game-server#readme) - A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.
 
-#### [18. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
-
-##### Benchmarks & Datasets
-
-*   [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
-*   [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
-*   [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
-*   [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
-*   [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
-*   [FLIP (Fitness Landscape Inference for Proteins) (⭐117)](https://github.com/J-SNACKKB/FLIP) — Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.
-*   [LINCS L1000](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data) — Gene expression profiles (978 landmark genes) for >20,000 chemical and genetic perturbations across cell lines.
-*   [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
-*   [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
-*   [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
-*   [ProteinGym (⭐395)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
-*   [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
-*   [scIB (Single-cell Integration Benchmarks) (⭐408)](https://github.com/theislab/scib) — Comprehensive benchmarking framework for single-cell data integration methods.
-*   [SIDER (Side Effect Resource)](http://sideeffects.embl.de/) — Database of 1,430 approved drugs with their recorded adverse drug reactions across 27 system-organ classes.
-*   [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
-*   [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of \~500K cells from 24 organs and tissues across multiple donors.
-*   [TAPE (Tasks Assessing Protein Embeddings) (⭐733)](https://github.com/songlab-cal/tape) — Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.
-*   [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across \~11,000 patients.
-*   [Tox21](https://tripod.nih.gov/tox21/challenge/) — 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
-*   [UK Biobank](https://www.ukbiobank.ac.uk/) — Large-scale biomedical database of \~500K participants with genetic, imaging, and health data for population genetics and disease studies.
-
-##### Preprocessing Tools
-
-*   [scVelo (⭐490)](https://github.com/theislab/scvelo) — RNA velocity estimation for single-cell transcriptomics, inferring the direction and speed of cell differentiation.
-
-##### Drug Response Prediction
-
-*   [RECOVER (⭐24)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
-
-##### Molecular Generation
-
-*   [DiffDock (⭐1.5k)](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
-
-##### LLM for Biology
-
-*   [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
-
-##### Single-cell Foundation Models / Transcriptomics Foundation Models
-
-*   [UCE (⭐246)](https://github.com/snap-stanford/UCE) — Universal Cell Embeddings: zero-shot single-cell embedding model trained on 36M cells across species, tissues, and assays without fine-tuning.
-*   [GEARS (⭐342)](https://github.com/snap-stanford/GEARS) — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
-
-##### Protein Foundation Models / Protein Structure Prediction and Design
-
-*   [OpenFold (⭐3.3k)](https://github.com/aqlaboratory/openfold) — Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.
-*   [SaProt](https://github.com/westlake-reup/SaProt) — Structure-aware protein language model using structure-aware tokens that encode both sequence and backbone geometry for improved function prediction.
-
-##### Genomics Foundation Models / Protein Structure Prediction and Design
-
-*   [Borzoi (⭐228)](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
-
-#### [19. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -1689,7 +1624,7 @@ git restore --staged <file-name>
 
 *   [YAML (⭐456) (⭐453)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [20. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [18. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Online editors / Third-party APIs
 
@@ -1697,25 +1632,25 @@ git restore --staged <file-name>
     *   helps run Fiveam tests with the right exit code.
     *   integrated with Roswell.
 
-#### [21. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+#### [19. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ##### Test Management / Miscellaneous
 
 *   [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
 
-#### [22. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+#### [20. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ##### SDKs and Libraries
 
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
-#### [23. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [21. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Books
 
 *   [Practical Guide to Bare Metal C++ (⭐14)](https://github.com/arobenko/bare_metal_cpp)
 
-#### [24. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### Agents
 
@@ -1735,13 +1670,13 @@ git restore --staged <file-name>
 *   [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 *   [Registry Broker (⭐10)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 
-#### [25. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [23. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ##### Adventure starters and scenarios / Starforged
 
 *   [New Canaan Run](https://jaderavens.itch.io/new-canaan-run) - Six sector starters for smugglers in The 'Verse.
 
-#### [26. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+#### [24. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ##### API
 
@@ -1753,7 +1688,7 @@ git restore --staged <file-name>
 *   [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
 *   [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
 
-#### [27. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [25. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Analytics
 
@@ -1784,31 +1719,25 @@ git restore --staged <file-name>
 *   [swift-build (⭐49)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
 *   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
 
-#### [28. Awesome V](/content/vlang/awesome-v/README.md)
+#### [26. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Utilities
 
 *   [boj-server (⭐1)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 
-#### [29. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [27. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2026
 
 *   [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
 
-#### [30. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### 🏆 Top 100 by Stars / Workflow Frameworks
-
-*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,911`
-
-#### [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Note Taking / Cursorline
 
 *   [gmcusaro/ma.nvim (⭐4)](https://github.com/gmcusaro/ma.nvim) - Minimal Markdown knowledge management with relational note navigation and safe file operations.
 
-#### [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+#### [29. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ##### Boilerplates
 
@@ -1822,108 +1751,7 @@ git restore --staged <file-name>
 
 *   [FIM Agent (⭐109)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 
-#### [33. Awesome Gif](/content/davisonio/awesome-gif/README.md)
-
-##### Online Tools / Swift
-
-*   [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
-
-##### Scripts / YouTube video to GIF
-
-*   Download it via yt-dlp and then convert it.
-
-#### [34. Awesome Irc](/content/davisonio/awesome-irc/README.md)
-
-##### Clients
-
-*   [![Textual-icon](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source (⭐1.9k)](https://github.com/Codeux-Software/Textual)) `macOS`
-*   [![LimeChat-icon](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source (⭐1.6k)](https://github.com/psychs/limechat)) `macOS` `iOS`
-*   [![HexChat-icon](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐3.3k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
-*   [![KiwiIRC-icon](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source (⭐955)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
-*   [![CIRC-icon](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source (⭐387)](https://github.com/flackr/circ)) `Chrome`
-*   [![Quassel-icon](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source (⭐763)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-*   [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
-*   [![Smuxi-icon](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source (⭐183)](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-*   [![KvIRC-icon](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source (⭐286)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-*   [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source (⭐54)](https://github.com/KDE/konversation)) `Linux`
-*   [![sic-icon](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux` `macOS`
-*   [![irssi-icon](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-*   [![RevolutionIRC-icon](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
-*   [![AdiIRC-icon](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-*   [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
-*   [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
-*   [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source (⭐185)](https://github.com/ObsidianIRC/ObsidianIRC)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
-*   [XChat](https://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
-*   [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
-*   [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
-
-##### Bouncers / Hosted
-
-*   [![IRCCloud-icon](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
-    *   [iOS App (⭐290)](https://github.com/irccloud/ios) - Official. `Objective-C`
-    *   [Android App (⭐306)](https://github.com/irccloud/android) - Official. `Java`
-    *   [Nimbus (⭐152)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
-
-##### Bouncers / Self-hosted
-
-*   [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source (⭐1.2k)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
-*   [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐2.1k)](https://github.com/znc/znc)) `C++`
-*   [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
-*   [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source (⭐6.2k)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-*   [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source (⭐3.3k)](https://github.com/weechat/weechat)) `Linux` `macOS`
-*   [psyBNC](https://psybnc.org/) - Multi-user, permanent IRC bouncer with encryption support. `Linux`
-
-##### Daemons / Self-hosted
-
-*   [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source (⭐3.1k)](https://github.com/ergochat/ergo))
-*   [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source (⭐501)](https://github.com/unrealircd/unrealircd))
-
-##### Encryption / Self-hosted
-
-*   [irssi-otr (⭐185)](https://github.com/cryptodotis/irssi-otr) - Off-the-Record (OTR) messaging plugin for irssi. `C`
-*   [weechat-otr (⭐134)](https://github.com/mmb/weechat-otr) - Off-the-Record (OTR) messaging plugin for WeeChat. `Python`
-*   [FiSH-irssi (⭐128)](https://github.com/falsovsky/FiSH-irssi) - Blowfish encryption in ECB/CBC modes with Diffie-Hellman key exchange for irssi. `C`
-
-##### Frameworks / Bridges
-
-*   [Dis4IRC (⭐103)](https://github.com/zachbr/Dis4IRC) - Discord ↔ IRC. `Kotlin`
-*   [toxirc (⭐23)](https://github.com/e0ff/toxirc) - Tox ↔ IRC. `C`
-
-##### Channels / Platforms
-
-*   [#Ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
-
-#### [35. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Developer Tools / Developer Utilities
-
-*   [Itsyconnect (⭐75)](https://github.com/nickustinov/itsyconnect-macos) - App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyconnect-macos)
-
-##### Developer Tools / Databases
-
-*   [TablePro (⭐894)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/datlechin/TablePro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Design and Product / Other Tools
-
-*   [Mottie](https://recouse.me/apps/mottie/) - A native Lottie animation player with Quick Look extension for dotLottie files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400\&ct=awesome-mac\&mt=8)
-
-##### AI Client / Other Tools
-
-*   [Apple On-Device OpenAI (⭐787)](https://github.com/gety-ai/apple-on-device-openai) - Creates an OpenAI-compatible API server from Apple on-device Foundation Models for local use. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gety-ai/apple-on-device-openai) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/augmentedmike/miniclaw-os)
-
-##### Audio and Video Tools / File Sharing
-
-*   [Petrichor (⭐1.3k)](https://github.com/kushalpandya/Petrichor) - Offline music player with broad format support, lyrics, playlists, and queue management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kushalpandya/Petrichor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Menu Bar Tools
-
-*   [Claude God](https://claudegod.app) - Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/Claude-God) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Usage4Claude (⭐218)](https://github.com/f-is-h/Usage4Claude) - Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f-is-h/Usage4Claude) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Priyans-hu/tokenmeter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [36. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [30. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -1951,7 +1779,7 @@ git restore --staged <file-name>
 
 *   [memvid/memvid (⭐13k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 
-#### [37. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [31. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Blockchain
 
@@ -1991,7 +1819,7 @@ git restore --staged <file-name>
 
 *   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
-#### [38. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [32. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Fundamentals / Utility
 
@@ -2009,7 +1837,7 @@ git restore --staged <file-name>
 
 *   [zish (⭐1)](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
 
-#### [39. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [33. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Polars plugins / Data Manipulation
 
@@ -2019,7 +1847,7 @@ git restore --staged <file-name>
 
 *   [raffalib-python (⭐0)](https://github.com/raffaem/raffalib-python) - [STATA](https://www.stata.com/)-like logging capabilities by [@raffaem](https://github.com/raffaem).
 
-#### [40. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+#### [34. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ##### AI / ChatGPT
 
@@ -2319,6 +2147,209 @@ git restore --staged <file-name>
 
 *   [sdcv (⭐354)](https://github.com/Dushistov/sdcv) - Simple, cross-platform, text-based utility for working with dictionaries in StarDict format.
 
+#### [35. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+
+##### More Resources / Social Impact
+
+*   [Carbon Badge](https://carbon-badge.com) - Website carbon footprint calculator based on the Sustainable Web Design Model v4.
+*   [DPP Tool](https://dpp-tool.com) - Digital Product Passport generator for EU ESPR regulation compliance.
+*   [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
+
+#### [36. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+##### Research & Knowledge Retrieval
+
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐5)](https://github.com/connerlambden/bgpt-mcp)
+
+##### Datasets / Book Deals (Affiliated)
+
+*   [FirstData (⭐137)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+
+#### [37. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+
+##### General Tools
+
+*   [ImageMagick](https://imagemagick.org/script/index.php)
+
+##### Utilities
+
+*   [Gifit (⭐134)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
+
+##### Libraries / Swift
+
+*   [SwiftyGif (⭐2.3k)](https://github.com/alexiscreuzot/SwiftyGif) - High performance & easy to use Gif engine.
+
+##### Online Tools / Swift
+
+*   [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
+
+##### Scripts / YouTube video to GIF
+
+*   Download it via yt-dlp and then convert it.
+
+#### [38. Awesome Food](/content/jzarca01/awesome-food/README.md)
+
+##### Cookbooks
+
+*   [tasty-cooking (⭐7)](https://github.com/douvy/tasty-cooking) - A collection of high-quality and easy-to-follow recipes with best-in-class minimalist responsive design, focused on speed, accessibility, and visual appeal.
+
+#### [39. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+
+##### Clients
+
+*   [![Textual-icon](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source (⭐1.9k)](https://github.com/Codeux-Software/Textual)) `macOS`
+*   [![LimeChat-icon](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source (⭐1.6k)](https://github.com/psychs/limechat)) `macOS` `iOS`
+*   [![HexChat-icon](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐3.3k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+*   [![KiwiIRC-icon](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source (⭐955)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+*   [![CIRC-icon](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source (⭐387)](https://github.com/flackr/circ)) `Chrome`
+*   [![Quassel-icon](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source (⭐763)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
+*   [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+*   [![Smuxi-icon](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source (⭐183)](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
+*   [![KvIRC-icon](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source (⭐286)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+*   [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source (⭐54)](https://github.com/KDE/konversation)) `Linux`
+*   [![sic-icon](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux` `macOS`
+*   [![irssi-icon](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
+*   [![RevolutionIRC-icon](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
+*   [![AdiIRC-icon](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
+*   [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+*   [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
+*   [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source (⭐185)](https://github.com/ObsidianIRC/ObsidianIRC)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+*   [XChat](https://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
+*   [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
+*   [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
+
+##### Bouncers / Hosted
+
+*   [![IRCCloud-icon](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
+    *   [iOS App (⭐290)](https://github.com/irccloud/ios) - Official. `Objective-C`
+    *   [Android App (⭐306)](https://github.com/irccloud/android) - Official. `Java`
+    *   [Nimbus (⭐152)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
+
+##### Bouncers / Self-hosted
+
+*   [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source (⭐1.2k)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+*   [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐2.1k)](https://github.com/znc/znc)) `C++`
+*   [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
+*   [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source (⭐6.2k)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
+*   [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source (⭐3.3k)](https://github.com/weechat/weechat)) `Linux` `macOS`
+*   [psyBNC](https://psybnc.org/) - Multi-user, permanent IRC bouncer with encryption support. `Linux`
+
+##### Daemons / Self-hosted
+
+*   [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source (⭐3.1k)](https://github.com/ergochat/ergo))
+*   [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source (⭐501)](https://github.com/unrealircd/unrealircd))
+
+##### Encryption / Self-hosted
+
+*   [irssi-otr (⭐185)](https://github.com/cryptodotis/irssi-otr) - Off-the-Record (OTR) messaging plugin for irssi. `C`
+*   [weechat-otr (⭐134)](https://github.com/mmb/weechat-otr) - Off-the-Record (OTR) messaging plugin for WeeChat. `Python`
+*   [FiSH-irssi (⭐128)](https://github.com/falsovsky/FiSH-irssi) - Blowfish encryption in ECB/CBC modes with Diffie-Hellman key exchange for irssi. `C`
+
+##### Frameworks / Bridges
+
+*   [Dis4IRC (⭐103)](https://github.com/zachbr/Dis4IRC) - Discord ↔ IRC. `Kotlin`
+*   [toxirc (⭐23)](https://github.com/e0ff/toxirc) - Tox ↔ IRC. `C`
+
+##### Channels / Platforms
+
+*   [#Ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
+
+#### [40. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+
+##### Benchmarks & Datasets
+
+*   [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
+*   [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
+*   [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
+*   [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
+*   [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
+*   [FLIP (Fitness Landscape Inference for Proteins) (⭐117)](https://github.com/J-SNACKKB/FLIP) — Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.
+*   [LINCS L1000](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data) — Gene expression profiles (978 landmark genes) for >20,000 chemical and genetic perturbations across cell lines.
+*   [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
+*   [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
+*   [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
+*   [ProteinGym (⭐395)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
+*   [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
+*   [scIB (Single-cell Integration Benchmarks) (⭐408)](https://github.com/theislab/scib) — Comprehensive benchmarking framework for single-cell data integration methods.
+*   [SIDER (Side Effect Resource)](http://sideeffects.embl.de/) — Database of 1,430 approved drugs with their recorded adverse drug reactions across 27 system-organ classes.
+*   [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
+*   [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of \~500K cells from 24 organs and tissues across multiple donors.
+*   [TAPE (Tasks Assessing Protein Embeddings) (⭐733)](https://github.com/songlab-cal/tape) — Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.
+*   [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across \~11,000 patients.
+*   [Tox21](https://tripod.nih.gov/tox21/challenge/) — 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
+*   [UK Biobank](https://www.ukbiobank.ac.uk/) — Large-scale biomedical database of \~500K participants with genetic, imaging, and health data for population genetics and disease studies.
+
+##### Preprocessing Tools
+
+*   [scVelo (⭐490)](https://github.com/theislab/scvelo) — RNA velocity estimation for single-cell transcriptomics, inferring the direction and speed of cell differentiation.
+
+##### Drug Response Prediction
+
+*   [RECOVER (⭐24)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
+
+##### Molecular Generation
+
+*   [DiffDock (⭐1.5k)](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
+
+##### LLM for Biology
+
+*   [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
+
+##### Single-cell Foundation Models / Transcriptomics Foundation Models
+
+*   [UCE (⭐246)](https://github.com/snap-stanford/UCE) — Universal Cell Embeddings: zero-shot single-cell embedding model trained on 36M cells across species, tissues, and assays without fine-tuning.
+*   [GEARS (⭐342)](https://github.com/snap-stanford/GEARS) — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
+
+##### Protein Foundation Models / Protein Structure Prediction and Design
+
+*   [OpenFold (⭐3.3k)](https://github.com/aqlaboratory/openfold) — Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.
+*   [SaProt](https://github.com/westlake-reup/SaProt) — Structure-aware protein language model using structure-aware tokens that encode both sequence and backbone geometry for improved function prediction.
+*   [EvoDiff (⭐664)](https://github.com/microsoft/evodiff) — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. \[ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
+
+##### Genomics Foundation Models / Protein Structure Prediction and Design
+
+*   [Borzoi (⭐228)](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
+
+#### [41. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Developer Tools / Developer Utilities
+
+*   [Itsyconnect (⭐75)](https://github.com/nickustinov/itsyconnect-macos) - App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyconnect-macos)
+
+##### Developer Tools / Databases
+
+*   [TablePro (⭐894)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/datlechin/TablePro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Design and Product / Other Tools
+
+*   [Mottie](https://recouse.me/apps/mottie/) - A native Lottie animation player with Quick Look extension for dotLottie files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400\&ct=awesome-mac\&mt=8)
+
+##### AI Client / Other Tools
+
+*   [Apple On-Device OpenAI (⭐787)](https://github.com/gety-ai/apple-on-device-openai) - Creates an OpenAI-compatible API server from Apple on-device Foundation Models for local use. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gety-ai/apple-on-device-openai) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/augmentedmike/miniclaw-os)
+
+##### Audio and Video Tools / File Sharing
+
+*   [Petrichor (⭐1.3k)](https://github.com/kushalpandya/Petrichor) - Offline music player with broad format support, lyrics, playlists, and queue management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kushalpandya/Petrichor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Menu Bar Tools
+
+*   [Claude God](https://claudegod.app) - Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/Claude-God) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Usage4Claude (⭐218)](https://github.com/f-is-h/Usage4Claude) - Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f-is-h/Usage4Claude) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Priyans-hu/tokenmeter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Productivity
+
+*   [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/unsecretised/rustcast) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [42. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### 🏆 Top 100 by Stars / Workflow Frameworks
+
+*   [apache/casbin (⭐20k)](https://github.com/apache/casbin) — Authorization library for Go ☆`19,913`
+
 ---
 
 - Next: [Mar 09 - Mar 15, 2026](&#x2F;content&#x2F;2026&#x2F;10&#x2F;README.md)
@@ -2441,7 +2472,7 @@ git restore --staged <file-name>
 ### Business
 
 - [Awesome Billing](/content/kdeldycke/awesome-billing/README.md) - ([Source ⭐ 1.2K, 📝 01&#x2F;26 ](https://github.com/kdeldycke/awesome-billing)) - 💰 Billing & Payments knowledge for cloud platforms
-- [Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md) - ([Source ⭐ 377, 📝 23&#x2F;04&#x2F;25 ](https://github.com/nglgzz/awesome-clean-tech)) - A community curated list of awesome clean tech companies
+- [Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md) - ([Source ⭐ 456, 📝 03&#x2F;13 ](https://github.com/nglgzz/awesome-clean-tech)) - A community curated list of awesome clean tech companies
 - [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;09 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
 - [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source ⭐ 2.4K, 📝 25&#x2F;06&#x2F;09 ](https://github.com/kdeldycke/awesome-engineering-team-management)) - 👔 How to transition from software development to engineering management
 - [Awesome Indie](/content/mezod/awesome-indie/README.md) - ([Source ⭐ 9.5K, 📝 22&#x2F;01&#x2F;09 ](https://github.com/mezod/awesome-indie)) - Resources for independent developers to make money
@@ -2831,7 +2862,7 @@ git restore --staged <file-name>
 - [Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md) - ([Source ⭐ 754, 📝 24&#x2F;04&#x2F;21 ](https://github.com/Codepoints/awesome-codepoints)) - Awesome Code Points
 - [Awesome Coins](/content/Zheaoli/awesome-coins/README.md) - ([Source ⭐ 3.6K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/Zheaoli/awesome-coins)) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md) - ([Source ⭐ 13K, 📝 24&#x2F;12&#x2F;08 ](https://github.com/lnishan/awesome-competitive-programming)) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md) - ([Source ⭐ 120, 📝 03&#x2F;11 ](https://github.com/inoue0426/awesome-computational-biology)) - Awesome list of computational biology.
+- [Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md) - ([Source ⭐ 120, 📝 03&#x2F;13 ](https://github.com/inoue0426/awesome-computational-biology)) - Awesome list of computational biology.
 - [Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md) - ([Source ⭐ 152, 📝 25&#x2F;11&#x2F;24 ](https://github.com/stevesong/awesome-connectivity-info)) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 14K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 593, 📝 02&#x2F;20 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
@@ -2849,7 +2880,7 @@ git restore --staged <file-name>
 - [Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md) - ([Source ⭐ 557, 📝 25&#x2F;07&#x2F;14 ](https://github.com/angrykoala/awesome-esolangs)) - Curated list of awesome Esoteric languages and resources
 - [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 27K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 - [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 58K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [Awesome Food](/content/jzarca01/awesome-food/README.md) - ([Source ⭐ 123, 📝 22&#x2F;12&#x2F;15 ](https://github.com/jzarca01/awesome-food)) - A curated list of food related projects on Github
+- [Awesome Food](/content/jzarca01/awesome-food/README.md) - ([Source ⭐ 221, 📝 03&#x2F;13 ](https://github.com/jzarca01/awesome-food)) - A curated list of food related projects on Github
 - [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 83K, 📝 25&#x2F;12&#x2F;06 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 - [Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md) - ([Source ⭐ 296, 📝 24&#x2F;08&#x2F;07 ](https://github.com/DataDaoDe/awesome-foss-apps)) - A curated list of awesome production grade free and open source software organized by category
 - [Awesome Framer](/content/podo/awesome-framer/README.md) - ([Source ⭐ 515, 📝 18&#x2F;06&#x2F;06 ](https://github.com/podo/awesome-framer)) - A curated list of awesome things related to Framer prototyping tool

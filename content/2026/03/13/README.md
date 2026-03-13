@@ -1,12 +1,32 @@
 # Awesome List Updates on Mar 13, 2026
 
-10 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+## [1. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+
+### Protein Foundation Models / Protein Structure Prediction and Design
+
+*   [EvoDiff (⭐664)](https://github.com/microsoft/evodiff) — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. \[ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
+
+## [2. Awesome Food](/content/jzarca01/awesome-food/README.md)
+
+### Cookbooks
+
+*   [tasty-cooking (⭐7)](https://github.com/douvy/tasty-cooking) - A collection of high-quality and easy-to-follow recipes with best-in-class minimalist responsive design, focused on speed, accessibility, and visual appeal.
+
+## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+
+### More Resources / Social Impact
+
+*   [Carbon Badge](https://carbon-badge.com) - Website carbon footprint calculator based on the Sustainable Web Design Model v4.
+*   [DPP Tool](https://dpp-tool.com) - Digital Product Passport generator for EU ESPR regulation compliance.
+*   [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
+
+## [4. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ### AI / ChatGPT
 
@@ -133,19 +153,19 @@
 
 *   [sdcv (⭐354)](https://github.com/Dushistov/sdcv) - Simple, cross-platform, text-based utility for working with dictionaries in StarDict format.
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Polars plugins / Data Manipulation
 
 *   [diffly (⭐12)](https://github.com/Quantco/diffly) - Python utility for programatically identifying differences between Polars DataFrames including schema differences, row-level mismatches, and column value changes by [@Quantco](https://github.com/Quantco).
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [6. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Language Essentials / Parser Library
 
 *   [OrlovEvgeny/zigquery (⭐1)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
@@ -156,13 +176,13 @@
 
 *   [tparse (⭐1.2k)](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. Compatible with go test flags.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Workflow Automation
 
 *   [Wilfred/difftastic (⭐24k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -177,7 +197,11 @@
 *   [Usage4Claude (⭐218)](https://github.com/f-is-h/Usage4Claude) - Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f-is-h/Usage4Claude) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Priyans-hu/tokenmeter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+### Utilities / Productivity
+
+*   [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/unsecretised/rustcast) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [10. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
@@ -238,7 +262,19 @@
 
 *   [#Ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
-## [8. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [11. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+
+### General Tools
+
+*   [ImageMagick](https://imagemagick.org/script/index.php)
+
+### Utilities
+
+*   [Gifit (⭐134)](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
+
+### Libraries / Swift
+
+*   [SwiftyGif (⭐2.3k)](https://github.com/alexiscreuzot/SwiftyGif) - High performance & easy to use Gif engine.
 
 ### Online Tools / Swift
 
@@ -248,13 +284,13 @@
 
 *   Download it via yt-dlp and then convert it.
 
-## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
 *   [Frontman (⭐170)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Note Taking / Cursorline
 

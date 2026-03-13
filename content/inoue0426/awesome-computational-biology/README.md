@@ -6,6 +6,12 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Mar 13, 2026](/content/2026/03/13/README.md)
+
+### Protein Foundation Models / Protein Structure Prediction and Design
+
+*   [EvoDiff (⭐664)](https://github.com/microsoft/evodiff) — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. \[ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
+
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
 ### Benchmarks & Datasets

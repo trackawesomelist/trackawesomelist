@@ -2,9 +2,17 @@
 
 A community curated list of awesome clean tech companies
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 377 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 456 · 🏷️ Business
 
 [ [Daily](/content/nglgzz/awesome-clean-tech/README.md) / Weekly / [Overview](/content/nglgzz/awesome-clean-tech/readme/README.md) ]
+
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### More Resources / Social Impact
+
+*   [Carbon Badge](https://carbon-badge.com) - Website carbon footprint calculator based on the Sustainable Web Design Model v4.
+*   [DPP Tool](https://dpp-tool.com) - Digital Product Passport generator for EU ESPR regulation compliance.
+*   [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
