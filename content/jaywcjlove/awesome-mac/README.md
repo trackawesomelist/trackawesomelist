@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 13, 2026](/content/2026/03/13/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Itsyconnect (⭐75)](https://github.com/nickustinov/itsyconnect-macos) - App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyconnect-macos)
+
+### Design and Product / Other Tools
+
+*   [Mottie](https://recouse.me/apps/mottie/) - A native Lottie animation player with Quick Look extension for dotLottie files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400\&ct=awesome-mac\&mt=8)
+
+### Utilities / Menu Bar Tools
+
+*   [Usage4Claude (⭐218)](https://github.com/f-is-h/Usage4Claude) - Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/f-is-h/Usage4Claude) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Priyans-hu/tokenmeter) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
 ### AI Client / Other Tools
@@ -212,7 +227,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Poirot (⭐15)](https://github.com/LeonardoCardoso/Poirot) - A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LeonardoCardoso/Poirot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Poirot (⭐90)](https://github.com/LeonardoCardoso/Poirot) - A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LeonardoCardoso/Poirot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screen Recording
 

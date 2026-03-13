@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 13, 2026](/content/2026/03/13/README.md)
+
+### Security
+
+*   [leakhound (⭐13)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
+*   [pii-shield (⭐45)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+
+### Testing Frameworks
+
+*   [tparse (⭐1.2k)](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. Compatible with go test flags.
+
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
 ### Science and Data Analysis
@@ -193,7 +204,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [box-cli-maker (⭐616)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
+*   [box-cli-maker (⭐618)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 

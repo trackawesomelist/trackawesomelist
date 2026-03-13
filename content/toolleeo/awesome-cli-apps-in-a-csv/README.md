@@ -6,6 +6,133 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 [ Daily / [Weekly](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md) / [Overview](/content/toolleeo/awesome-cli-apps-in-a-csv/readme/README.md) ]
 
+## [Mar 13, 2026](/content/2026/03/13/README.md)
+
+### AI / ChatGPT
+
+*   [Ferrules (⭐579)](https://github.com/aminediro/ferrules) - Modern, fast, document parser written in Rust designed to generate LLM-ready documents.
+
+### AI terminal command generator
+
+*   [LazyShell (⭐32)](https://github.com/bernoussama/lazyshell) - AI CLI tool that generates and executes shell commands using AI.
+*   [Octomind (⭐38)](https://github.com/muvon/octomind) - Sessions-based AI coding agent with extensible architecture, smart codebase understanding and no AI provider lock-in.
+
+### Conversion
+
+*   [scss-to-css (⭐14)](https://github.com/adamlui/scss-to-css/#readme) - Recursively compile all SCSS files into minified CSS.
+
+### Data management - JSON/YAML/etc.
+
+*   [Frontmatter CLI Tool (⭐12)](https://github.com/marad/frontmatter) - CLI tool for managing YAML frontmatter in text files; Built with Go and optimized for performance with large files.
+*   [jf (⭐41)](https://github.com/sayanarijit/jf) - A small utility to safely format and print JSON objects in the commandline.
+
+### Editors
+
+*   [vicut (⭐45)](https://github.com/km-clay/vicut) - Vim-based, scriptable and headless text editor for the command line, it can be used to extract fields, edit text files in-place and apply global substitutions and more.
+
+### File finding (alternatives to find)
+
+*   [crtag (⭐2)](https://github.com/CarrotyLemons/crtag) - CLI for searching directories by tag (UNIX and OS).
+
+### Financial tools
+
+*   [Finance Tracker (⭐33)](https://github.com/shen-kit/finance-tracker-tui/) - TUI financial tracker written in Go, using sqlite database.
+*   [gocost (⭐61)](https://github.com/madalinpopa/gocost) - Simple TUI application to manage monthly expenses; Built with Go and Bubble Tea framework.
+
+### Games
+
+*   [Bashtaker (⭐1)](https://github.com/EC2854/bashtaker) - Demake of Helltaker (videogame) written in bash.
+*   [CTetris++ (⭐3)](https://github.com/Jejis06/CTetris/tree/master) - Feature-rich Tetris game written in C++ that runs in terminal with customizable visual styles and smooth gameplay.
+*   [what-is-sequence-game (⭐0)](https://github.com/akgondber/what-is-sequence-game) - Game consisting in remembering sequence of appearing items and try to restore them in right order.
+*   [word-blazer (⭐3)](https://github.com/mmed-hajnasr/word-blazer) - TUI labyrinth game that takes advantage of multiple graph algortihms.
+
+### Git and accessories
+
+*   [AI Git Narrator (⭐118)](https://github.com/pmusolino/AI-Git-Narrator) - Command-line tool for generating Git commit messages and PR descriptions with AI based on Git diffs and commits. Supports staged/unstaged changes and customizable AI parameters.
+*   [Git Activity Visualization (⭐4)](https://github.com/dakennedyd/activity) - Creates a git activity heat map in the command line.
+*   [mamegrep (⭐8)](https://github.com/sile/mamegrep) - An interactive terminal interface for 'git grep' to easily edit search patterns and view results.
+*   [pomodev (⭐1)](https://github.com/dhruv1710/pomodev) - CLI for Pomodoro timer with built-in Git integration (auot git commit prompt after each work sessions).
+*   [repo-verify-utils (⭐0)](https://github.com/jaggzh/repo-verify-utils) - Utility collection to help examine what repositories and scopes yout GitHub identity has access to.
+
+### Learning and didactic tools
+
+*   [Countryfetch (⭐268)](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country.
+
+### Networking
+
+*   [AutoRecon (⭐5.9k)](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+*   [fwtui (⭐53)](https://github.com/Beny406/fwtui) - TUI built in Go to help you manage UFW rules with ease.
+*   [generate-ip (⭐19)](https://github.com/adamlui/js-utils/tree/main/generate-ip/#readme) - Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses.
+*   [geolocate (⭐19)](https://github.com/adamlui/js-utils/tree/main/geolocate/#readme) - Fetch IP geolocation data.
+*   [goto (⭐513)](https://github.com/grafviktor/goto) - A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers, binaries included.
+
+### Package managers
+
+*   [godyl](https://idelchi.github.io/godyl/) - Helps with batch-downloading, checksum verifying and installing statically compiled binaries from GitHub, GitLab, URLs, Go projects.
+
+### Process viewers and monitoring (alternatives to top)
+
+*   [vitals (⭐34)](https://github.com/AngelJumbo/vitals) - System usage visualizer and top replacement for Linux.
+
+### Productivity
+
+*   [Profile Fox (⭐3)](https://github.com/talwrii/profile-fox) - Opens new tabs in a specific firefox profile.
+
+### Programming
+
+*   [DevTUI (⭐543)](https://github.com/skatkov/devtui) - All-in-one terminal toolkit that consolidates everyday developer utilities into a unified TUI and CLI.
+*   [minify.js (⭐6)](https://github.com/adamlui/minify.js/#readme) - Recursively minify all JavaScript files.
+*   [Rusty Forge (⭐2)](https://github.com/konni332/rustyforge) - Minimal build manager for C/C++ projects written in Rust; It automates compiling binaries and libraries, sopports parallel builds, profiles, features and manages a build cache.
+
+### Shells
+
+*   [SSHop (⭐13)](https://github.com/Skullsneeze/sshop) - An SSH connection helper that let's you hop to a server with ease.
+
+### Sound and music
+
+*   [Mplay (⭐9)](https://github.com/unpythonic-coder/mplay) - Full featured music player for the command line, inspired by cplay.
+
+### System monitoring
+
+*   [Bashmark (⭐2)](https://github.com/Samrat079/Bashmark) - Terminal based benchmarking utility for testing CPU and GPU performance.
+
+### System tools
+
+*   [fyora (⭐15)](https://github.com/wenbang24/fyora) - Intuitive declarative dotfile management.
+
+### Terminals
+
+*   [vtm (⭐3.3k)](https://github.com/directvt/vtm) - Virtual terminal multiplexer delivered as a single executable; It runs in native Windows or standard consoles, wraps any CLI app and supports infinite nesting to create a text-based desktop that bridges the gap between TUI and GUI.
+
+### Text processing
+
+*   [xcut (⭐7)](https://github.com/kyotalab/xcut) - A flexible field extractor and filter tool for the command line (extended version of the Unix cut command).
+
+### Text search and replace (alternatives to sed)
+
+*   [frep (⭐7)](https://github.com/thomasschafer/frep) - Fast find-and-replace tool; search and replace in files in directories or process stdin.
+
+### Time trackers
+
+*   [MyDoro (⭐11)](https://github.com/Balaji01-4D/my-doro) - Modern Pomodoro timer for the terminal (work/break intervals, different themes, and a distraction-free CLI experience).
+
+### Typing test and practice
+
+*   [LEARNTYPE (⭐12)](https://github.com/harkaitz/tcl-learntype) - Small CLI program for children (4/5 years old) to learn typing.
+*   [typtea (⭐226)](https://github.com/ashish0kumar/typtea) - Minimal terminal-based typing speed tester with support for dozens of programming languages.
+
+### Utilities
+
+*   [gust (⭐29)](https://github.com/josephburgess/gust) - Command line weather app written in Go.
+
+### Web development
+
+*   [tldx (⭐1.8k)](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool.
+
+### Writing
+
+*   [sdcv (⭐354)](https://github.com/Dushistov/sdcv) - Simple, cross-platform, text-based utility for working with dictionaries in StarDict format.
+
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
 ### AI / ChatGPT
@@ -1893,14 +2020,9 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 
 ## [May 08, 2024](/content/2024/05/08/README.md)
 
-### Conversion
-
-*   [scss-to-css](https://scsstocss.org) - Recursively compile all SCSS files into minified CSS.
-
 ### Networking
 
 *   [generate-ip](https://generate-ip.org) - Randomly generate, format, and validate IPv4 + IPv6 + MAC addresses.
-*   [geolocate](https://geolocatejs.org) - Fetch IP geolocation data.
 
 ### Password managers
 
@@ -2393,7 +2515,6 @@ The largest Awesome Curated list of command line programs (CLI/TUI) with source 
 *   [Cppcheck](http://cppcheck.net/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behavior and dangerous coding constructs.
 *   [Frama-C](https://frama-c.com/) - Open source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software.
 *   [Leetcode-go (⭐12)](https://github.com/Manan-Prakash-Singh/leetcode-go) - A simple CLI tool for searching, downloading and submitting problems to LeetCode.
-*   [minify.js](https://minify-js.org) - Recursively minify all JavaScript files.
 *   [mk (⭐122)](https://github.com/pycontribs/mk) - mk is a CLI tool that aims to ease contribution to any open source project by hiding repository implementation details from the casual contributor.
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get an error. Supported languages: Python, Node.js, Ruby, Go, and Java.
 

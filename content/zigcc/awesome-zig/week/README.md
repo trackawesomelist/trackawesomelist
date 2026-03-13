@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [zlist (⭐11)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 
+### Language Essentials / Parser Library
+
+*   [OrlovEvgeny/zigquery (⭐1)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+
 ### Language Essentials / File Format Processing
 
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.

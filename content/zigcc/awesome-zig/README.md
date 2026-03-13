@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Mar 13, 2026](/content/2026/03/13/README.md)
+
+### Language Essentials / Parser Library
+
+*   [OrlovEvgeny/zigquery (⭐1)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
 ### Systems Programming / Compilers and Interpreters
