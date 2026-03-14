@@ -347,6 +347,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 *   [civ-klon (⭐21)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
 *   [eepers (⭐443)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐31k)](https://github.com/raysan5/raylib)).
+*   [gade (⭐29)](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
+*   [gade-sdl (⭐0)](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade (⭐29)](https://github.com/ellamosi/gade) using [SDLAda (⭐128)](https://github.com/Lucretia/sdlada).
 
 ## Frameworks
 
@@ -433,6 +435,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [bbt (⭐18)](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 *   [gnatbdd (⭐7)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 *   [scripted-testing (⭐2)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
+*   [testy (⭐2)](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada (⭐17)](https://github.com/tomekw/tada).
 
 ### Logging
 
@@ -810,6 +813,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [ada-3ds (⭐4)](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
+*   [blackvideo-mini-player (⭐2)](https://github.com/BlackBlazent/blackvideo-mini-player) - A stand-alone lightweight auxiliary video player support for [`BlackVideo`](https://github.com/BlackBlazent/BlackVideo).
 
 ### Automation
 

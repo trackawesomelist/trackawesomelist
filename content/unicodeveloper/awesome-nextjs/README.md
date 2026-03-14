@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Mar 14, 2026](/content/2026/03/14/README.md)
+
+### Extensions
+
+*   [@farming-labs/docs (⭐32)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
 ### Extensions

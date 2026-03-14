@@ -6,6 +6,21 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Games / Apache License
+
+*   [gade (⭐29)](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
+*   [gade-sdl (⭐0)](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade (⭐29)](https://github.com/ellamosi/gade) using [SDLAda (⭐128)](https://github.com/Lucretia/sdlada).
+
+### Unit Test, Testing / Apache License
+
+*   [testy (⭐2)](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada (⭐17)](https://github.com/tomekw/tada).
+
+### Multimedia / Apache License
+
+*   [blackvideo-mini-player (⭐2)](https://github.com/BlackBlazent/blackvideo-mini-player) - A stand-alone lightweight auxiliary video player support for [`BlackVideo`](https://github.com/BlackBlazent/BlackVideo).
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Build and Package / Apache License
