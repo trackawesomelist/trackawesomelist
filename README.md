@@ -1601,6 +1601,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md) - ([Source ⭐ 1.1K, 📝 03&#x2F;10 ](https://github.com/christian-bromann/awesome-selenium)) - A curated list of delightful Selenium resources.
 - [Awesome Tap](/content/sindresorhus/awesome-tap/README.md) - ([Source ⭐ 634, 📝 25&#x2F;11&#x2F;24 ](https://github.com/sindresorhus/awesome-tap)) - Useful resources for the Test Anything Protocol
 - [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source ⭐ 2.2K, 📝 03&#x2F;06 ](https://github.com/TheJambo/awesome-testing)) - A curated list of testing resources
+- [Mock Server](https://mockserver.in) - Mock APIs instantly — AI responses, live traffic logs, no Docker, no config
 
 ### Theory
 
