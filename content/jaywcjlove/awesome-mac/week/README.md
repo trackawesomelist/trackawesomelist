@@ -34,6 +34,10 @@
 *   [Petrichor (⭐1.3k)](https://github.com/kushalpandya/Petrichor) - Offline music player with broad format support, lyrics, playlists, and queue management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kushalpandya/Petrichor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Spotifly (⭐69)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Voice-to-Text / Audio Record and Process
+
+*   [FnKey (⭐27)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/evoleinik/fnkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Menu Bar Tools
 
 *   [Claude God](https://claudegod.app) - Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/Claude-God) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

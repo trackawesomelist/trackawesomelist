@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
+
+### Public Data Resources / Resilience and Natural Hazards
+
+*   [Earthquake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earthquakes going back to 2150 BC to the present with geographic information.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Planning Data Specifications / Transportation
@@ -52,7 +58,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Planning Management and Administrative Tools and Platforms
 
-*   [Notion](https://www.notion.com/) - A modular, all‑in‑one workspace that unifies note‑taking, documents, databases, and project views that can be used to create shared adminstrative resources and simple sites quickly by teams and individuals as shown in a [Technology Division webinar](https://youtu.be/sxwsThQP9to?t=2277).
+*   [Notion](https://www.notion.com/) - A modular, all‑in‑one workspace that unifies note‑taking, documents, databases, and project views that can be used to create shared administrative resources and simple sites quickly by teams and individuals as shown in a [Technology Division webinar](https://youtu.be/sxwsThQP9to?t=2277).
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -64,8 +70,8 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Digital Twins Tools and Platforms
 
-*   [OpenTwins](https://ertis-research.github.io/opentwins/) - An open source platform designed to facilitate the development of digital twins and is characterised by the exclusive use of open source components.
-*   [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - Omiverse is a platform of APIs, SDKs, and services that enable developers to easily integrate Universal Scene Description (OpenUSD) and NVIDIA RTX rendering technologies into existing software tools and simulation workflows.
+*   [OpenTwins](https://ertis-research.github.io/opentwins/) - An open source platform designed to facilitate the development of digital twins and is characterized by the exclusive use of open source components.
+*   [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - Omniverse is a platform of APIs, SDKs, and services that enable developers to easily integrate Universal Scene Description (OpenUSD) and NVIDIA RTX rendering technologies into existing software tools and simulation workflows.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -89,7 +95,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a clound based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
+*   [Forma](https://www.autodesk.com/products/forma/overview) - Autodesk Forma is a cloud based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -132,7 +138,7 @@ Community list of data & technology resources concerning the built environment a
 ### Vendor Data Resources / Urban Observation
 
 *   [EcoCounter](https://www.eco-counter.com/) - Since 1997, Eco-Counter has developed unique and innovative solutions to count pedestrians and cyclists that vary infrared sensors to computer vision based counters.
-*   [VivaCity](https://vivacitylabs.com/north-america/) - Viva provies transportation monitoring solutions that help identify near-miss behavior on streets and multimodal counts.
+*   [VivaCity](https://vivacitylabs.com/north-america/) - Viva provides transportation monitoring solutions that help identify near-miss behavior on streets and multimodal counts.
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -169,7 +175,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
-*   [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continusous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
+*   [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continuous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -193,7 +199,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Built Environment
 
-*   [CyberCity3d](https://www.cybercity3d.com/) - Offers a diverse range of digital city models from stero imagery and keeps an extensive library in 130 cities.
+*   [CyberCity3d](https://www.cybercity3d.com/) - Offers a diverse range of digital city models from stereo imagery and keeps an extensive library in 130 cities.
 *   [PLW Model Works](https://plwmodelworks.com/industries/) -  Combines geospatial modeling expertise to create highly detailed, photo-accurate 3D polygonal city models for different industries.
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
@@ -210,7 +216,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Land Use and Land Cover
 
-*   [National Zoning Atlas](https://www.zoningatlas.org/) - This colloborative project is working depict key aspects of zoning codes in an online, user-friendly map to enable cross jurisdiction comparison's of land use regulations. This project was further explored a Planning Webcasts [here](https://www.youtube.com/watch?v=XBWAXHDPM8Q\&ab_channel=PlanningWebcast) and [here](https://www.youtube.com/watch?v=WjWe2U313gE\&ab_channel=PlanningWebcast).
+*   [National Zoning Atlas](https://www.zoningatlas.org/) - This collaborative project is working to depict key aspects of zoning codes in an online, user-friendly map to enable cross jurisdiction comparisons of land use regulations. This project was further explored a Planning Webcasts [here](https://www.youtube.com/watch?v=XBWAXHDPM8Q\&ab_channel=PlanningWebcast) and [here](https://www.youtube.com/watch?v=WjWe2U313gE\&ab_channel=PlanningWebcast).
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
@@ -420,7 +426,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
-*   [Felt](https://felt.com/) - A web based mapping application that enables multple users to colloboratively edit and view in data in real-time.
+*   [Felt](https://felt.com/) - A web based mapping application that enables multiple users to collaboratively edit and view data in real-time.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
@@ -541,7 +547,7 @@ Community list of data & technology resources concerning the built environment a
 ### Platforms and Software Resources / Planning Management and Administrative Tools and Platforms
 
 *   [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
-*   [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
+*   [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for government (provider is technically a public agency).
 *   [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
@@ -737,7 +743,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Learning to Code
 
-*   [Urban Informatics & Visualization-Berkeley (⭐241)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
+*   [Urban Informatics & Visualization-Berkeley (⭐241)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Notebook examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
@@ -843,10 +849,6 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Energy and Natural Resources
 
 *   [NREL Solar Radiation](https://nsrdb.nrel.gov/) - The National Solar Radiation Database (NSRDB) is a serially complete collection of hourly and half-hourly values of meteorological data and the three most common measurements of solar radiation: global horizontal, direct normal and diffuse horizontal irradiance.
-
-### Public Data Resources / Resilience and Natural Hazards
-
-*   [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 

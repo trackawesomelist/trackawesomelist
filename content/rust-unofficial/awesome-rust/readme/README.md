@@ -166,7 +166,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [MaidSafe](https://github.com/maidsafe) - A decentralized platform.
 *   [mdBook (⭐21k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/actions/workflows/main.yml/badge.svg)](https://github.com/rust-lang/mdBook/actions)
 *   [Mega (⭐437)](https://github.com/web3infra-foundation/mega) - A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.
-*   [Michael-F-Bryan/mdbook-linkcheck (⭐167)](https://github.com/Michael-F-Bryan/mdbook-linkcheck) \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
+*   [Michael-F-Bryan/mdbook-linkcheck (⭐168)](https://github.com/Michael-F-Bryan/mdbook-linkcheck) \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
 *   [mirrord (⭐5k)](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
 *   [nicohman/eidolon (⭐132)](https://github.com/nicohman/eidolon) - A steam and drm-free game registry and launcher for linux and macosx
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
@@ -401,6 +401,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [gorilla-devs/ferium (⭐1.4k)](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 *   [HactarCE/Hyperspeedcube (⭐115)](https://github.com/HactarCE/Hyperspeedcube) - A modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving
 *   [lifthrasiir/angolmois-rust (⭐104)](https://github.com/lifthrasiir/angolmois-rust) - A minimalistic music video game which supports the BMS format
+*   [louis-e/arnis (⭐8.8k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
 *   [maras-archive/rsnake (⭐143)](https://github.com/maras-archive/rsnake) - Snake.
 *   [mcthesw/game-save-manager (⭐1k)](https://github.com/mcthesw/game-save-manager) - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml)
 *   [mtkennerly/ludusavi (⭐5.2k)](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
@@ -513,7 +514,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [pier-cli/pier (⭐594)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 *   [screenpipe (⭐17k)](https://github.com/screenpipe/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
 *   [ShadoySV/work-break (⭐22)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/ShadoySV/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/actions/workflows/release.yml)
-*   [tambourine-voice (⭐297)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐311)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 *   [tassiovirginio/try-rs (⭐204)](https://github.com/tassiovirginio/try-rs) \[[try-rs](https://crates.io/crates/try-rs)] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.
 *   [yashs662/rust\_kanban (⭐253)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
@@ -778,6 +779,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 
 ## Development tools
 
+*   [armgabrielyan/deadbranch (⭐54)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [ATAC (⭐3.5k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐3.2k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 *   [biome (⭐24k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
@@ -1337,7 +1339,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
 *   Science
     *   [Axect/Peroxide (⭐674)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐159)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐179)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐179)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐99)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐78)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations

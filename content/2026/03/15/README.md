@@ -1,18 +1,64 @@
 # Awesome List Updates on Mar 15, 2026
 
-9 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Networking / DNS
+
+*   [FenkoHQ/dnsmonster (⭐352)](https://github.com/FenkoHQ/dnsmonster) — Passive DNS Capture and Monitoring Toolkit ☆`352`
+
+## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+
+### Tools / Vulnerable Applications for practice
+
+*   [Injured Android - CTF (⭐744)](https://github.com/B3nac/InjuredAndroid)
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Third-party APIs
+
+*   [threads-go (⭐5)](https://github.com/tirthpatell/threads-go) - Go client library for the Meta Threads API with OAuth 2.0, rate limiting, and type-safe error handling.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Games
+
+*   [louis-e/arnis (⭐8.8k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+
+### Development tools / Workflow Automation
+
+*   [armgabrielyan/deadbranch (⭐54)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
+
+## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Web Crawling
+
+*   [crawl4ai (⭐62k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
+
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### Turn YouTube into Podcast / Crypto or Blockchain relevant
+
+*   [RSSYes](https://rssyes.com/youtube-to-podcast) : Convert YouTube channels into podcast RSS feeds ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Public Data Resources / Resilience and Natural Hazards
+
+*   [Earthquake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earthquakes going back to 2150 BC to the present with geographic information.
+
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
 *   [Ziran (⭐2)](https://github.com/taoq-ai/ziran): Open-source security testing framework for AI agents. Discovers dangerous tool chain compositions via graph analysis, detects execution-level side effects, and runs multi-phase trust exploitation campaigns. ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 
-## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Test Management
 
@@ -23,13 +69,13 @@
 *   [ai-natural-language-tests (⭐11)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐20)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
 *   [Tiercel (⭐2.8k)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -56,13 +102,17 @@
 
 *   [n8n (⭐179k) (⭐177k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Terminal Apps / Databases
 
 *   [Awal Terminal (⭐4)](https://github.com/AwalTerminal/Awal-terminal) - LLM-native terminal emulator with AI components, multi-provider profiles, voice input, and Metal GPU rendering. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AwalTerminal/Awal-terminal) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+### Voice-to-Text / Audio Record and Process
+
+*   [FnKey (⭐27)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/evoleinik/fnkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ### Brokers
 
@@ -81,7 +131,7 @@
 
 *   [QuIXI (⭐4)](https://github.com/ixian-platform/QuIXI) - Bridge between the Ixian decentralized P2P network and MQTT/REST. Enables encrypted peer-to-peer messaging for IoT devices with post-quantum security (ML-KEM + AES-256 + ChaCha20).
 
-## [7. Awesome_jetbrains_plugins](/content/clutcher/awesome_jetbrains_plugins/README.md)
+## [14. Awesome_jetbrains_plugins](/content/clutcher/awesome_jetbrains_plugins/README.md)
 
 ### UI
 
@@ -181,7 +231,7 @@
 *   [Lingma](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
     *   Alibaba Cloud AI coding assistant. Provides code completion, multi-file editing, and chat capabilities.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -193,7 +243,7 @@
 *   [op (⭐0)](https://github.com/zsh-contrib/zsh-op) - Seamless 1Password CLI integration. Manage environment variables and SSH keys from 1Password with automatic caching, fast shell initialization, and a configuration-driven workflow.
 *   [pjfzf (⭐0)](https://github.com/K021/pjfzf) - A project directory navigator powered by [fzf (⭐79k)](https://github.com/junegunn/fzf). Registers base directories and navigates their subdirectories with frecency-based sorting and file preview.
 
-## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [16. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 

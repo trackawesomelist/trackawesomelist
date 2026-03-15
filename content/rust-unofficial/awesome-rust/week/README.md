@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [tempoxyz/tempo (⭐829)](https://github.com/tempoxyz/tempo) - A blockchain built for stablecoin payments at scale, with EVM compatibility, sub-second finality, and native smart account features, built on the Reth SDK
 
+### Applications / Games
+
+*   [louis-e/arnis (⭐8.8k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+
 ### Applications / System tools
 
 *   [anylinuxfs-gui (⭐53)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
@@ -26,6 +30,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
+*   [armgabrielyan/deadbranch (⭐54)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [cachix/devenv (⭐6.5k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
 *   [jj-vcs/jj (⭐26k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 *   [Wilfred/difftastic (⭐24k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
@@ -128,7 +133,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Michael-F-Bryan/mdbook-linkcheck (⭐167)](https://github.com/Michael-F-Bryan/mdbook-linkcheck) \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
+*   [Michael-F-Bryan/mdbook-linkcheck (⭐168)](https://github.com/Michael-F-Bryan/mdbook-linkcheck) \[[mdbook-linkcheck](https://crates.io/crates/mdbook-linkcheck)] - A backend for mdbook which will check your links for you.
 
 ### Applications / Blockchain
 
@@ -216,7 +221,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tambourine-voice (⭐297)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐311)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 
 ### Applications / Utilities
 
@@ -1271,7 +1276,7 @@ A curated list of Rust code and resources.
 
 *   Science
     *   [Axect/Peroxide (⭐674)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐159)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐179)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐179)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐99)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐78)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations

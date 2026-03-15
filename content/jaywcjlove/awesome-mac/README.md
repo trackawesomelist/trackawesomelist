@@ -12,6 +12,10 @@
 
 *   [Awal Terminal (⭐4)](https://github.com/AwalTerminal/Awal-terminal) - LLM-native terminal emulator with AI components, multi-provider profiles, voice input, and Metal GPU rendering. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AwalTerminal/Awal-terminal) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Voice-to-Text / Audio Record and Process
+
+*   [FnKey (⭐27)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/evoleinik/fnkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
 ### Developer Tools / Developer Utilities
