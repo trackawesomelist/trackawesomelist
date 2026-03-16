@@ -271,7 +271,7 @@ Please take a quick gander at the [contribution guidelines (⭐167k)](https://gi
 *   [go-guardian (⭐610)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 *   [go-iam (⭐34)](https://github.com/melvinodsa/go-iam) - Developer-first Identity and Access Management system with a simple UI.
 *   [go-jose (⭐487)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
-*   [go-jwt (⭐1)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
+*   [go-jwt (⭐2)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 *   [go-jwt (⭐17)](https://github.com/pardnchiu/go-jwt) - JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic refresh capabilities.
 *   [goiabada (⭐185)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 *   [gologin (⭐1.9k)](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
@@ -793,7 +793,7 @@ additional ordered map implementations.
 
 ### Database Schema Migration
 
-*   [atlas (⭐8.1k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐8.2k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐48)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐149)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
@@ -1044,7 +1044,7 @@ additional ordered map implementations.
 *   [rain (⭐1.1k)](https://github.com/cenkalti/rain) - BitTorrent client and library.
 *   [redis-lock (⭐1.7k)](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis.
 *   [resgate](https://resgate.io/) - Realtime API Gateway for building REST, real time, and RPC APIs, where all clients are synchronized seamlessly.
-*   [ringpop-go (⭐875)](https://github.com/uber/ringpop-go) - Scalable, fault-tolerant application-layer sharding for Go applications.
+*   [rpcplatform (⭐1)](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
 *   [rpcx (⭐8.3k)](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 *   [Semaphore (⭐95)](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 *   [sleuth (⭐386)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ (⭐11k)](https://github.com/zeromq/libzmq)).
@@ -1673,7 +1673,7 @@ additional ordered map implementations.
 
 *Libraries for Machine Learning.*
 
-*   [bayesian (⭐810)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐811)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [born (⭐48)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 *   [catboost-cgo (⭐25)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
 *   [CloudForest (⭐750)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
@@ -2639,7 +2639,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Regular Expressions
 
-*   [coregex (⭐125)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
+*   [coregex (⭐146)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 *   [genex (⭐76)](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
 *   [go-wildcard (⭐100)](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
 *   [goregen (⭐92)](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.

@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [paste-guard (⭐0)](https://github.com/stefanoamorelli/zsh-paste-guard) - Detects pasted commands and requires a confirmation phrase before execution to prevent clipboard injection attacks (MITRE ATT\&CK T1204.004). Reads confirmation from `/dev/tty` so attackers cannot embed the confirmation in the payload.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

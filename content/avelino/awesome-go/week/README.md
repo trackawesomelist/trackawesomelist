@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [GoSQLX (⭐50)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
 
+### Distributed Systems
+
+*   [rpcplatform (⭐1)](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Blockchain
@@ -133,7 +137,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Authentication and Authorization
 
 *   [authgate (⭐39)](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
-*   [go-jwt (⭐1)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
+*   [go-jwt (⭐2)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 
 ### Bot Building
 
@@ -180,7 +184,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Regular Expressions
 
-*   [coregex (⭐125)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
+*   [coregex (⭐146)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
@@ -3769,7 +3773,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [atlas (⭐8.1k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐8.2k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐48)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [darwin (⭐149)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [go-fixtures (⭐31)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
@@ -3888,7 +3892,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [rain (⭐1.1k)](https://github.com/cenkalti/rain) - BitTorrent client and library.
 *   [redis-lock (⭐1.7k)](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis.
 *   [resgate](https://resgate.io/) - Realtime API Gateway for building REST, real time, and RPC APIs, where all clients are synchronized seamlessly.
-*   [ringpop-go (⭐875)](https://github.com/uber/ringpop-go) - Scalable, fault-tolerant application-layer sharding for Go applications.
 *   [rpcx (⭐8.3k)](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 *   [Semaphore (⭐95)](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 *   [sleuth (⭐386)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ (⭐11k)](https://github.com/zeromq/libzmq)).
@@ -4291,7 +4294,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [bayesian (⭐810)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐811)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐750)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐907)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.

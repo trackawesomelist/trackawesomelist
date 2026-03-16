@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Development tools / Workflow Automation
+
+*   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Applications
@@ -163,7 +169,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [shouya/rss-funnel (⭐146)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
+*   [shouya/rss-funnel (⭐149)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 
 ### Libraries / Scripting
 
@@ -209,7 +215,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [vortix (⭐366)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐384)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
 ### Applications / Database
 
@@ -233,7 +239,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [tag1consulting/feste (⭐73)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+*   [tag1consulting/feste (⭐76)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 
 ### Libraries / Caching
 
@@ -241,7 +247,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [rust-native-tls/rust-native-tls (⭐539)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐540)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
 ### Libraries / Data processing
 

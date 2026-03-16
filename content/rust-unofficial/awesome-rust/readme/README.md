@@ -188,7 +188,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [tiny (⭐1.1k)](https://github.com/osa1/tiny) - A terminal IRC client
 *   [Typst (⭐52k)](https://github.com/typst/typst) - A markup-based typesetting system [![crates.io](https://img.shields.io/crates/v/typst.svg)](https://crates.io/crates/typst)
 *   [UpVPN (⭐407)](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
-*   [vortix (⭐366)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐384)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 *   [vproxy (⭐374)](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server [![crates.io](https://img.shields.io/crates/v/vproxy.svg)](https://crates.io/crates/vproxy)
 *   [wasmer (⭐20k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/actions/workflows/build.yml/badge.svg)](https://github.com/wasmerio/wasmer/actions)
 *   [Weld (⭐319)](https://github.com/serayuzgur/weld) - Full fake REST API generator
@@ -751,7 +751,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [MASQ-Project/Node (⭐193)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 *   [Plume-org/Plume (⭐2.2k)](https://github.com/Plume-org/Plume) - ActivityPub federating blogging application
 *   [Redlib (⭐3.2k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5.2k)](https://github.com/libreddit/libreddit)
-*   [shouya/rss-funnel (⭐146)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
+*   [shouya/rss-funnel (⭐149)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 *   [SinTan1729/Chhoto URL (⭐733)](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[![release](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml/badge.svg)](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml)
 *   [Stoatchat (⭐2.8k)](https://github.com/stoatchat/stoatchat) - User-first chat platform built with modern web technologies.
 
@@ -816,6 +816,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [Rustup (⭐6.8k)](https://github.com/rust-lang/rustup) - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/actions/workflows/ci.yaml/badge.svg)](https://github.com/rust-lang/rustup/actions)
 *   [scriptisto (⭐1.1k)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 *   [typos (⭐3.8k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
+*   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 *   [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 *   [Wilfred/difftastic (⭐24k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
 
@@ -1127,7 +1128,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [rust-ml/linfa (⭐4.6k)](https://github.com/rust-ml/linfa) - Machine learning framework.
 *   [sipemu/anofox-regression (⭐3)](https://github.com/sipemu/anofox-regression) \[[anofox-regression](https://crates.io/crates/anofox-regression)] - Statistical regression models (OLS, Elastic Net, GLM, Quantile & Isotonic) with R-like inference (p-values, confidence & prediction intervals) and Wasm support.
 *   [smartcorelib/smartcore (⭐894)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
-*   [tag1consulting/feste (⭐73)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+*   [tag1consulting/feste (⭐76)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 *   [tensorflow/rust (⭐5.5k)](https://github.com/tensorflow/rust) - Bindings for TensorFlow.
 
 #### OpenAI
@@ -1391,7 +1392,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [libOctavo/octavo (⭐141)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
 *   [orion-rs/orion (⭐716)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
 *   [racum/rust-djangohashers (⭐59)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] - Port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
-*   [rust-native-tls/rust-native-tls (⭐539)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐540)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 *   [rust-openssl (⭐1.6k)](https://github.com/rust-openssl/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
 *   [RustCrypto/hashes (⭐2.2k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
 *   [rustls/rustls (⭐7.3k)](https://github.com/rustls/rustls) - Implementation of TLS

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 16, 2026](/content/2026/03/16/README.md)
+
+### Development tools / Workflow Automation
+
+*   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
 ### Applications / Games
@@ -178,7 +184,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [shouya/rss-funnel (⭐146)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
+*   [shouya/rss-funnel (⭐149)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 
 ## [Feb 28, 2026](/content/2026/02/28/README.md)
 
@@ -299,7 +305,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [vortix (⭐366)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐384)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
 ### Applications / Utilities
 
@@ -307,11 +313,11 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [tag1consulting/feste (⭐73)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+*   [tag1consulting/feste (⭐76)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 
 ### Libraries / Cryptography
 
-*   [rust-native-tls/rust-native-tls (⭐539)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐540)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 

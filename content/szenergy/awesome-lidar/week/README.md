@@ -6,6 +6,15 @@
 
 [ [Daily](/content/szenergy/awesome-lidar/README.md) / Weekly / [Overview](/content/szenergy/awesome-lidar/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Algorithms / Ground segmentation
+
+*   [GSeg3D ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/html/2603.04208v1) - High-precision grid-based ground segmentation for LiDAR point clouds designed for safety-critical robotics and autonomous driving.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐49)](https://github.com/dfki-ric/ground_segmentation) ![](https://img.shields.io/github/stars/dfki-ric/ground_segmentation?color=yellow\&style=flat-square\&logo=github)
+    *   [ROS2 integration ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐74)](https://github.com/dfki-ric/ground_segmentation_ros2) ![](https://img.shields.io/github/stars/dfki-ric/ground_segmentation_ros2?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=GXLTOoJbOhQ)
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Conventions
@@ -21,12 +30,12 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [KISS-SLAM ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/kiss2025iros.pdf) - KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system that just works.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐485)](https://github.com/PRBonn/kiss-slam) ![](https://img.shields.io/github/stars/PRBonn/kiss-slam?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐498)](https://github.com/PRBonn/kiss-slam) ![](https://img.shields.io/github/stars/PRBonn/kiss-slam?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [FAST-LIO2 ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2010.08196) - Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.3k)](https://github.com/hku-mars/FAST_LIO/tree/ROS2) ![](https://img.shields.io/github/stars/hku-mars/FAST_LIO?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.4k)](https://github.com/hku-mars/FAST_LIO/tree/ROS2) ![](https://img.shields.io/github/stars/hku-mars/FAST_LIO?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=2XNd7P6Qc2s)
 *   [MOLA ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://ingmec.ual.es/~jlblanco/papers/EMCEI_2024_Aguilar.pdf) - Modular system for Localization and Mapping, providing LiDAR Odometry (LO), LiDAR-inertial Odometry (LIO), SLAM, localization-only modes, and geo-referencing.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐861)](https://github.com/MOLAorg/mola) ![](https://img.shields.io/github/stars/MOLAorg/mola?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐872)](https://github.com/MOLAorg/mola) ![](https://img.shields.io/github/stars/MOLAorg/mola?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=sbakEOnsL6Y)
 
 ### Related awesome / LIDAR-other-sensor calibration
@@ -36,7 +45,7 @@
 ### Others / LIDAR-other-sensor calibration
 
 *   [Lichtblick suite](https://github.com/lichtblick-suite) - Lichtblick is an open-source alternative to Foxglove Studio for visualizing and analyzing robotics data.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐722)](https://github.com/lichtblick-suite/lichtblick) ![](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐786)](https://github.com/lichtblick-suite/lichtblick) ![](https://img.shields.io/github/stars/lichtblick-suite/lichtblick?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [Rerun](https://rerun.io/) - Rerun is a tool for time-aware multimodal data stack and visualizations.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐10k)](https://github.com/rerun-io/rerun) ![](https://img.shields.io/github/stars/rerun-io/rerun?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/@rerundotio/videos)
@@ -52,14 +61,14 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [RESPLE ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2504.11580) - Recursive Spline Estimation for LiDAR-Based Odometry
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐208)](https://github.com/ASIG-X/RESPLE) ![](https://img.shields.io/github/stars/ASIG-X/RESPLE?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐217)](https://github.com/ASIG-X/RESPLE) ![](https://img.shields.io/github/stars/ASIG-X/RESPLE?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=3-xLRRT25ys)
 
 ### Related awesome / LIDAR-other-sensor calibration
 
-*   [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐203)](https://github.com/hogyun2/awesome-lidar-place-recognition) ![](https://img.shields.io/github/stars/hogyun2/awesome-lidar-place-recognition?color=yellow\&style=flat-square\&logo=github)
-*   [Awesome-LiDAR-MOS ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐43)](https://github.com/neng-wang/Awesome-LiDAR-MOS) ![](https://img.shields.io/github/stars/neng-wang/Awesome-LiDAR-MOS?color=yellow\&style=flat-square\&logo=github) Moving Object Segmentation
-*   [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐276)](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) ![](https://img.shields.io/github/stars/sjtuyinjie/awesome-LiDAR-Visual-SLAM?color=yellow\&style=flat-square\&logo=github)
+*   [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐204)](https://github.com/hogyun2/awesome-lidar-place-recognition) ![](https://img.shields.io/github/stars/hogyun2/awesome-lidar-place-recognition?color=yellow\&style=flat-square\&logo=github)
+*   [Awesome-LiDAR-MOS ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐42)](https://github.com/neng-wang/Awesome-LiDAR-MOS) ![](https://img.shields.io/github/stars/neng-wang/Awesome-LiDAR-MOS?color=yellow\&style=flat-square\&logo=github) Moving Object Segmentation
+*   [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐285)](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) ![](https://img.shields.io/github/stars/sjtuyinjie/awesome-LiDAR-Visual-SLAM?color=yellow\&style=flat-square\&logo=github)
 
 ### Others / LIDAR-other-sensor calibration
 
@@ -78,7 +87,7 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Transformer ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2306.08045.pdf)- Efficient 3D Semantic Segmentation with Superpoint Transformer
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐945)](https://github.com/drprojects/superpoint_transformer) ![](https://img.shields.io/github/stars/drprojects/superpoint_transformer?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐970)](https://github.com/drprojects/superpoint_transformer) ![](https://img.shields.io/github/stars/drprojects/superpoint_transformer?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=2qKhpQs9gJw)
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
@@ -100,12 +109,12 @@
 ### Libraries
 
 *   [PyTorch Geometric ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐23k)](https://github.com/rusty1s/pytorch_geometric) ![](https://img.shields.io/github/stars/rusty1s/pytorch_geometric?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐24k)](https://github.com/rusty1s/pytorch_geometric) ![](https://img.shields.io/github/stars/rusty1s/pytorch_geometric?color=yellow\&style=flat-square\&logo=github)
 
 ### Algorithms / Basic matching algorithms
 
 *   [Iterative closest point (ICP) ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐343)](https://github.com/pglira/simpleICP) ![](https://img.shields.io/github/stars/pglira/simpleICP?color=yellow\&style=flat-square\&logo=github) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐347)](https://github.com/pglira/simpleICP) ![](https://img.shields.io/github/stars/pglira/simpleICP?color=yellow\&style=flat-square\&logo=github) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.8k)](https://github.com/ethz-asl/libpointmatcher) ![](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?color=yellow\&style=flat-square\&logo=github) - libpointmatcher, a modular library implementing the ICP algorithm.
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 *   [Normal distributions transform ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
@@ -124,29 +133,29 @@
 *   [Frustum PointNets ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.7k)](https://github.com/charlesq34/frustum-pointnets) ![](https://img.shields.io/github/stars/charlesq34/frustum-pointnets?color=yellow\&style=flat-square\&logo=github)
 *   [LIDAR-MOS ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐672)](https://github.com/PRBonn/LiDAR-MOS) ![](https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐678)](https://github.com/PRBonn/LiDAR-MOS) ![](https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 *   [SuperPoint Graph ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐797)](https://github.com/loicland/superpoint_graph) ![](https://img.shields.io/github/stars/loicland/superpoint_graph?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐798)](https://github.com/loicland/superpoint_graph) ![](https://img.shields.io/github/stars/loicland/superpoint_graph?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 *   [RandLA-Net ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.5k)](https://github.com/QingyongHu/RandLA-Net) ![](https://img.shields.io/github/stars/QingyongHu/RandLA-Net?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
 *   [Automatic labelling ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐189)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) ![](https://img.shields.io/github/stars/Amsterdam-AI-Team/Urban_PointCloud_Processing?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐190)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) ![](https://img.shields.io/github/stars/Amsterdam-AI-Team/Urban_PointCloud_Processing?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=qMj_WM6D0vI)
 
 ### Algorithms / Ground segmentation
 
-*   [Plane Seg ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐181)](https://github.com/ori-drs/plane_seg) ![](https://img.shields.io/github/stars/ori-drs/plane_seg?color=yellow\&style=flat-square\&logo=github) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+*   [Plane Seg ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐183)](https://github.com/ori-drs/plane_seg) ![](https://img.shields.io/github/stars/ori-drs/plane_seg?color=yellow\&style=flat-square\&logo=github) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 *   [LineFit Graph ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐785)](https://github.com/lorenwel/linefit_ground_segmentation) ![](https://img.shields.io/github/stars/lorenwel/linefit_ground_segmentation?color=yellow\&style=flat-square\&logo=github)
 *   [Patchwork ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐575)](https://github.com/LimHyungTae/patchwork) ![](https://img.shields.io/github/stars/LimHyungTae/patchwork?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐580)](https://github.com/LimHyungTae/patchwork) ![](https://img.shields.io/github/stars/LimHyungTae/patchwork?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=rclqeDi4gow)
 *   [Patchwork++ ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐417)](https://github.com/url-kaist/patchwork-plusplus-ros) ![](https://img.shields.io/github/stars/url-kaist/patchwork-plusplus-ros?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐422)](https://github.com/url-kaist/patchwork-plusplus-ros) ![](https://img.shields.io/github/stars/url-kaist/patchwork-plusplus-ros?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=fogCM159GRk)
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
@@ -158,16 +167,16 @@
 *   [Cartographer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐7.8k)](https://github.com/cartographer-project/cartographer) ![](https://img.shields.io/github/stars/cartographer-project/cartographer?color=yellow\&style=flat-square\&logo=github) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐995)](https://github.com/PRBonn/semantic_suma/) ![](https://img.shields.io/github/stars/PRBonn/semantic_suma?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐998)](https://github.com/PRBonn/semantic_suma/) ![](https://img.shields.io/github/stars/PRBonn/semantic_suma?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐717)](https://github.com/PRBonn/OverlapNet) ![](https://img.shields.io/github/stars/PRBonn/OverlapNet?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐720)](https://github.com/PRBonn/OverlapNet) ![](https://img.shields.io/github/stars/PRBonn/OverlapNet?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=YTfliBco6aw)
 *   [LIO-SAM ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.5k)](https://github.com/TixiaoShan/LIO-SAM) ![](https://img.shields.io/github/stars/TixiaoShan/LIO-SAM?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.6k)](https://github.com/TixiaoShan/LIO-SAM) ![](https://img.shields.io/github/stars/TixiaoShan/LIO-SAM?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=A0H8CoORZJU)
 *   [Removert ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐623)](https://github.com/irapkaist/removert) ![](https://img.shields.io/github/stars/irapkaist/removert?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐627)](https://github.com/irapkaist/removert) ![](https://img.shields.io/github/stars/irapkaist/removert?color=yellow\&style=flat-square\&logo=github)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Algorithms / Object detection and object tracking
@@ -182,7 +191,7 @@
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐118)](https://github.com/peiyunh/WYSIWYG) ![](https://img.shields.io/github/stars/peiyunh/WYSIWYG?color=yellow\&style=flat-square\&logo=github)
 *   [urban\_road\_filter ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://doi.org/10.3390/s22010194)-
     Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐347)](https://github.com/jkk-research/urban_road_filter) ![](https://img.shields.io/github/stars/jkk-research/urban_road_filter?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐348)](https://github.com/jkk-research/urban_road_filter) ![](https://img.shields.io/github/stars/jkk-research/urban_road_filter?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=T2qi4pldR-E)
 *   [detection\_by\_tracker ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://www.semanticscholar.org/paper/3D-LIDAR-Multi-Object-Tracking-for-Autonomous-and-Rachman/bafc8fcdee9b22708491ea1293524ece9e314851) - 3D-LIDAR Multi Object Tracking for Autonomous Driving: Multi-target Detection and Tracking under Urban Road Uncertainties, also used in Autoware Universe
     *   [GitHub ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
@@ -190,19 +199,19 @@
 
 ### Algorithms / LIDAR-other-sensor calibration
 
-*   [OpenCalib ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐3k)](https://github.com/PJLab-ADG/SensorsCalibration) ![](https://img.shields.io/github/stars/PJLab-ADG/SensorsCalibration?color=yellow\&style=flat-square\&logo=github) - A Multi-sensor Calibration Toolbox for Autonomous Driving
+*   [OpenCalib ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐3.1k)](https://github.com/PJLab-ADG/SensorsCalibration) ![](https://img.shields.io/github/stars/PJLab-ADG/SensorsCalibration?color=yellow\&style=flat-square\&logo=github) - A Multi-sensor Calibration Toolbox for Autonomous Driving
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2205.14087)
 
 ### Related awesome / LIDAR-other-sensor calibration
 
 *   [Awesome point cloud analysis ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.2k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme) ![](https://img.shields.io/github/stars/Yochengliu/awesome-point-cloud-analysis?color=yellow\&style=flat-square\&logo=github)
-*   [Awesome robotics ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐6k)](https://github.com/Kiloreux/awesome-robotics#readme) ![](https://img.shields.io/github/stars/Kiloreux/awesome-robotics?color=yellow\&style=flat-square\&logo=github)
+*   [Awesome robotics ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐6.2k)](https://github.com/Kiloreux/awesome-robotics#readme) ![](https://img.shields.io/github/stars/Kiloreux/awesome-robotics?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome robotics libraries ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.8k)](https://github.com/jslee02/awesome-robotics-libraries#readme) ![](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome ROS 2 ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2k)](https://github.com/fkromer/awesome-ros2#readme) ![](https://img.shields.io/github/stars/fkromer/awesome-ros2?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [Awesome artificial intelligence ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐13k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme) ![](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome computer vision ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐23k)](https://github.com/jbhuang0604/awesome-computer-vision#readme) ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?color=yellow\&style=flat-square\&logo=github)
-*   [Awesome machine learning ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐71k)](https://github.com/josephmisiti/awesome-machine-learning#readme) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?color=yellow\&style=flat-square\&logo=github)
-*   [Awesome deep learning ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐27k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?color=yellow\&style=flat-square\&logo=github)
+*   [Awesome machine learning ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning#readme) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?color=yellow\&style=flat-square\&logo=github)
+*   [Awesome deep learning ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐28k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome reinforcement learning ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐9.6k)](https://github.com/aikorea/awesome-rl/#readme) ![](https://img.shields.io/github/stars/aikorea/awesome-rl?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome SLAM datasets ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.9k)](https://github.com/youngguncho/awesome-slam-datasets#readme) ![](https://img.shields.io/github/stars/youngguncho/awesome-slam-datasets?color=yellow\&style=flat-square\&logo=github)
 *   [Awesome electronics ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐7.4k)](https://github.com/kitspace/awesome-electronics#readme) ![](https://img.shields.io/github/stars/kitspace/awesome-electronics?color=yellow\&style=flat-square\&logo=github)
@@ -215,7 +224,7 @@
 *   [Pcx ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.5k)](https://github.com/keijiro/Pcx) ![](https://img.shields.io/github/stars/keijiro/Pcx?color=yellow\&style=flat-square\&logo=github) - Point cloud importer/renderer for Unity.
 *   [Bpy ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.1k)](https://github.com/uhlik/bpy) ![](https://img.shields.io/github/stars/uhlik/bpy?color=yellow\&style=flat-square\&logo=github) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
 *   [Semantic Segmentation Editor ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.9k)](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ![](https://img.shields.io/github/stars/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor?color=yellow\&style=flat-square\&logo=github) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
-*   [3D Bounding Box Annotation Tool ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐796)](https://github.com/walzimmer/3d-bat) ![](https://img.shields.io/github/stars/walzimmer/3d-bat?color=yellow\&style=flat-square\&logo=github) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
+*   [3D Bounding Box Annotation Tool ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐802)](https://github.com/walzimmer/3d-bat) ![](https://img.shields.io/github/stars/walzimmer/3d-bat?color=yellow\&style=flat-square\&logo=github) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 *   [Photogrammetry importer ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.3k)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) ![](https://img.shields.io/github/stars/SBCV/Blender-Addon-Photogrammetry-Importer?color=yellow\&style=flat-square\&logo=github) - Blender addon to import reconstruction results of several libraries.
@@ -277,7 +286,7 @@
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐87)](https://github.com/OSSDC/OSSDC-SIM) ![](https://img.shields.io/github/stars/OSSDC/OSSDC-SIM?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐672)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/github/stars/tier4/AWSIM?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐685)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/github/stars/tier4/AWSIM?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
@@ -286,7 +295,7 @@
 
 *   [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐113)](https://github.com/utiasASRL/pyboreas) ![](https://img.shields.io/github/stars/utiasASRL/pyboreas?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐116)](https://github.com/utiasASRL/pyboreas) ![](https://img.shields.io/github/stars/utiasASRL/pyboreas?color=yellow\&style=flat-square\&logo=github)
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -301,7 +310,7 @@
 ### Others / LIDAR-other-sensor calibration
 
 *   [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐66)](https://github.com/foxglove/studio) ![](https://img.shields.io/github/stars/foxglove/studio?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐68)](https://github.com/foxglove/studio) ![](https://img.shields.io/github/stars/foxglove/studio?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
 *   [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐5.6k)](https://github.com/cnr-isti-vclab/meshlab) ![](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?color=yellow\&style=flat-square\&logo=github)
@@ -361,7 +370,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐309)](https://github.com/Ford/AVData) ![](https://img.shields.io/github/stars/Ford/AVData?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐307)](https://github.com/Ford/AVData) ![](https://img.shields.io/github/stars/Ford/AVData?color=yellow\&style=flat-square\&logo=github)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -419,10 +428,10 @@
 ### Libraries
 
 *   [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐5k)](https://github.com/NVIDIAGameWorks/kaolin/) ![](https://img.shields.io/github/stars/NVIDIAGameWorks/kaolin?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐5.1k)](https://github.com/NVIDIAGameWorks/kaolin/) ![](https://img.shields.io/github/stars/NVIDIAGameWorks/kaolin?color=yellow\&style=flat-square\&logo=github)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.05063.pdf)
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
-    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐3.5k)](https://github.com/pyvista/pyvista) ![](https://img.shields.io/github/stars/pyvista/pyvista?color=yellow\&style=flat-square\&logo=github)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐3.6k)](https://github.com/pyvista/pyvista) ![](https://img.shields.io/github/stars/pyvista/pyvista?color=yellow\&style=flat-square\&logo=github)
     *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://joss.theoj.org/papers/10.21105/joss.01450)
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
@@ -515,7 +524,7 @@
 
 *   [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐709)](https://github.com/ros-drivers/velodyne) ![](https://img.shields.io/github/stars/ros-drivers/velodyne?color=yellow\&style=flat-square\&logo=github)
+    *   [ROS driver ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐711)](https://github.com/ros-drivers/velodyne) ![](https://img.shields.io/github/stars/ros-drivers/velodyne?color=yellow\&style=flat-square\&logo=github)
     *   [C++/Python library ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐51)](https://github.com/valgur/velodyne_decoder) ![](https://img.shields.io/github/stars/valgur/velodyne_decoder?color=yellow\&style=flat-square\&logo=github)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
     *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/Ouster-lidar)
