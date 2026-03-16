@@ -62,10 +62,10 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Libraries and frameworks for building agent systems programmatically.*
 
-*   [LangChain (⭐127k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
-*   [LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
+*   [LangChain (⭐130k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LlamaIndex (⭐48k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
 *   [CrewAI (⭐46k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
-*   [Autogen (⭐55k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
+*   [Autogen (⭐56k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐27k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐39k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
 *   [Haystack (⭐24k)](https://github.com/deepset-ai/haystack) - End-to-end NLP framework for building production-ready LLM applications and agents.
@@ -77,12 +77,12 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Rivet (⭐4.5k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐27k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
 *   [Coinbase AgentKit (⭐1.1k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
-*   [Vercel AI SDK (⭐22k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
+*   [Vercel AI SDK (⭐23k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
 *   [Instructor (⭐13k)](https://github.com/instructor-ai/instructor) - Library for structured data extraction from LLMs using Pydantic models.
 *   [Camel (⭐16k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
 *   [Agency Swarm (⭐4k)](https://github.com/VRSEN/agency-swarm) - Framework for creating collaborative swarms of AI agents based on the agency model.
 *   [TaskWeaver (⭐6.1k)](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
-*   [Mastra (⭐21k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
+*   [Mastra (⭐22k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 *   [Agno (⭐39k)](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
 
 ## Agent-to-Agent Protocols
@@ -138,6 +138,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [wRTC Token (Solana)](https://solscan.io/token/12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZGf5i4X) - Wrapped RTC token bridged to Solana with a Raydium liquidity pool.
 *   [wRTC Token (Base)](https://basescan.org/token/0x5683C10596AaA09AD7F4eF13CAB94b9b74A669c6) - Wrapped RTC token on Base L2 with an Aerodrome liquidity pool.
 *   [x402 Payment Protocol (⭐5.6k)](https://github.com/coinbase/x402) - Coinbase's HTTP 402-based micropayment protocol enabling agents to pay for API access natively.
+*   [x402-proxy (⭐1)](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 *   [Fetch.ai (⭐124)](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
 *   [Autonolas (⭐115)](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
 *   [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.

@@ -6,6 +6,28 @@
 
 [ [Daily](/content/georgezouq/awesome-ai-in-finance/README.md) / Weekly / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Agents
+
+*   🌟 [ATLAS (⭐804)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+
+### Courses & Books & Blogs
+
+*   [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
+
+### Others / Plugins
+
+*   [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
+
+### Data Sources / Prediction Markets
+
+*   [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
+
+### Exchange API / Plugins
+
+*   [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Agents
@@ -38,7 +60,7 @@
 
 *   [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts using pattern recognition algorithms
 
-### Traditional Market / Alternative Data
+### Traditional Market / Prediction Markets
 
 *   [the0 (⭐199)](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
 
@@ -48,9 +70,9 @@
 
 *   [WorldMonitor (⭐22k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
-### Research Tools / Alternative Data
+### Research Tools / Prediction Markets
 
-*   [WFGY (⭐1.5k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
+*   [WFGY (⭐1.6k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -138,7 +160,7 @@
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
-### Traditional Market / Alternative Data
+### Traditional Market / Prediction Markets
 
 *   🌟🌟🌟 [OpenBB (⭐63k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
@@ -179,7 +201,7 @@
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
-### Research Tools / Alternative Data
+### Research Tools / Prediction Markets
 
 *   [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 
@@ -249,7 +271,7 @@
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
-### Research Tools / Alternative Data
+### Research Tools / Prediction Markets
 
 *   [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 
@@ -290,7 +312,7 @@
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
-### Traditional Market / Alternative Data
+### Traditional Market / Prediction Markets
 
 *   [lean (⭐18k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
@@ -359,13 +381,13 @@
 *   [CryptoInscriber (⭐52)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 *   [Gekko-Datasets (⭐174)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
-### Research Tools / Alternative Data
+### Research Tools / Prediction Markets
 
 *   🌟🌟 [TensorTrade (⭐6k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 *   [JAQS (⭐633)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 *   [empyrical (⭐1.5k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 
-### Traditional Market / Alternative Data
+### Traditional Market / Prediction Markets
 
 *   🌟🌟 [zipline (⭐19k)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 *   [rqalpha (⭐6.2k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
@@ -377,7 +399,7 @@
 *   [CoinMarketCapBacktesting (⭐3)](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting) - Tests bt and Quantopian Zipline as backtesting frameworks for coin trading strategy.
 *   [Gekko-BacktestTool (⭐232)](https://github.com/xFFFFF/Gekko-BacktestTool) - Batch backtest, import and strategy params optimalization for Gekko Trading Bot.
 
-### Crypto Currencies / Alternative Data
+### Crypto Currencies / Prediction Markets
 
 *   [zenbot (⭐8.3k)](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
 *   [bot18 (⭐205)](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
@@ -485,18 +507,18 @@
 
 *   [yahoo-finance (⭐1.4k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 
-### Research Tools / Alternative Data
+### Research Tools / Prediction Markets
 
 *   [pyfolio (⭐6.3k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 *   [alphalens (⭐4.2k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 *   [zvt (⭐4k)](https://github.com/zvtvz/zvt) - Zero vector trader.
 
-### Traditional Market / Alternative Data
+### Traditional Market / Prediction Markets
 
 *   🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 *   [pylivetrader (⭐681)](https://github.com/alpacahq/pylivetrader) - Python live trade execution library with zipline interface.
 
-### Crypto Currencies / Alternative Data
+### Crypto Currencies / Prediction Markets
 
 *   [QuantResearchDev (⭐32)](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
 *   [abu (⭐16k)](https://github.com/bbfamily/abu) - A quant trading system base on python.

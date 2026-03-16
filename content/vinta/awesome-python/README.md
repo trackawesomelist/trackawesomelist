@@ -6,6 +6,12 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Mar 16, 2026](/content/2026/03/16/README.md)
+
+### Machine Learning
+
+*   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
+
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
 ### Web Crawling
