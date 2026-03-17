@@ -12,6 +12,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
 
+### Text Editors
+
+*   [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
+
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
 ### Communication

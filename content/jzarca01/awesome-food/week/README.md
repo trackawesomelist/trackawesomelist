@@ -6,6 +6,40 @@ A curated list of food related projects on Github
 
 [ [Daily](/content/jzarca01/awesome-food/README.md) / Weekly / [Overview](/content/jzarca01/awesome-food/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Food-related projects
+
+*   [Tandoor Recipes (⭐8.1k)](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+*   [grocy (⭐8.8k)](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+*   [Nextcloud Cookbook (⭐614)](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
+*   [Recipya (⭐389)](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
+*   [Open Food Facts (⭐951)](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
+*   [Veganify (⭐65)](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
+
+### Cookbooks
+
+*   [HowToCook (⭐99k)](https://github.com/Anduin2017/HowToCook) - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+*   [the-sourdough-framework (⭐3.5k)](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you make the best possible sourdough bread at home.
+
+### Plant-Based
+
+*   [vegan\_recipes (⭐48)](https://github.com/rochacbruno/vegan_recipes) - A collection of 100% vegan recipes.
+*   [recipes (⭐48)](https://github.com/hrs/recipes) - Actual food recipes in Markdown. All vegetarian, mostly vegan.
+*   [recipes (⭐34)](https://github.com/mathias/recipes) - A collection of mostly vegan recipes. Creative Commons licensed.
+*   [awesome-veganism (⭐80)](https://github.com/sdassow/awesome-veganism) - A curated list of resources, pointers, and tips related to veganism.
+
+### Things to read / Forums and chat groups
+
+*   [/r/veganrecipes](https://www.reddit.com/r/veganrecipes/) - A community for sharing and discovering plant-based recipes.
+*   [/r/EatCheapAndHealthy](https://www.reddit.com/r/EatCheapAndHealthy/) - Tips and recipes for eating well on a budget.
+
+### Videos / Plant-based cuisine
+
+*   [Avant-Garde Vegan](https://www.youtube.com/c/avantgardevegan) - Creative and visually stunning plant-based recipes by Gaz Oakley
+*   [Pick Up Limes](https://www.youtube.com/c/PickUpLimes) - Nutritious plant-based recipes with a focus on balanced eating and meal prep
+*   [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Flavorful vegan recipes inspired by global cuisines
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Cookbooks

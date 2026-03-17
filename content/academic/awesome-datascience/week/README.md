@@ -6,11 +6,17 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Tools
+
+*   [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐3)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐5)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -32,11 +38,11 @@
 ### Deep Learning Packages / Visualization Tools
 
 *   [Metabase](https://www.metabase.com/)
-*   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com (⭐0)](https://github.com/TerryFYL/metareview)
+*   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [AI Displacement Tracker (⭐1)](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
+*   [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
 
@@ -189,7 +195,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐652)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐664)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -343,7 +349,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐637)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐639)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -1208,29 +1214,29 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐954)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐955)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐420)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐703)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐522)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐433)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐770)](https://github.com/rsteca/sklearn-deap)
+*   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐704)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐434)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.4k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐381)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐382)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.1k)](https://github.com/rapidsai/cuml)
-*   [causalml (⭐5.7k)](https://github.com/uber/causalml)
+*   [causalml (⭐5.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
-*   [Sparkit-learn (⭐1.2k)](https://github.com/lensacom/sparkit-learn)
+*   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐440)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐960)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐442)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐979)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1238,10 +1244,10 @@
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.8k)](https://github.com/pytorch/audio)
-*   [ignite (⭐4.7k)](https://github.com/pytorch/ignite)
+*   [ignite (⭐4.8k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.7k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐362)](https://github.com/ctallec/pyvarinf)
-*   [GPyTorch (⭐3.8k)](https://github.com/cornellius-gp/gpytorch)
+*   [GPyTorch (⭐3.9k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.4k)](https://github.com/catalyst-team/catalyst)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
@@ -1269,7 +1275,7 @@
 *   [Hera (⭐490)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
 *   [qkeras (⭐578)](https://github.com/google/qkeras)
-*   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
+*   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
 ### Deep Learning Packages / Visualization Tools

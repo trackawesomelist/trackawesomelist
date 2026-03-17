@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
+### Game Development
+
+*   [gogpu (⭐180)](https://github.com/gogpu/gogpu) - GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to \~20, zero CGO (GoGPU ecosystem: [gg (⭐77)](https://github.com/gogpu/gg), [ui (⭐64)](https://github.com/gogpu/ui), [wgpu (⭐67)](https://github.com/gogpu/wgpu), [naga (⭐28)](https://github.com/gogpu/naga)).
+
 ### GUI
 
 *   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
@@ -143,7 +147,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Audio and Music
 
-*   [music-theory (⭐452)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
+*   [music-theory (⭐454)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -151,7 +155,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Uncategorized
 
-*   [goffi (⭐22)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
+*   [goffi (⭐30)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
 
 ### Utilities
 

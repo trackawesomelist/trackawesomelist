@@ -12,94 +12,94 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
-Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
+> The **#10 most-starred repo on GitHub**. Put your product where Python developers discover tools. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/README.md/SPONSORSHIP.md).
 
-*   [Awesome Python](#awesome-python)
-    *   [Admin Panels](#admin-panels)
-    *   [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    *   [ASGI Servers](#asgi-servers)
-    *   [Asynchronous Programming](#asynchronous-programming)
-    *   [Audio](#audio)
-    *   [Authentication](#authentication)
-    *   [Build Tools](#build-tools)
-    *   [Built-in Classes Enhancement](#built-in-classes-enhancement)
-    *   [Caching](#caching)
-    *   [CMS](#cms)
-    *   [Code Analysis](#code-analysis)
-    *   [Command-line Interface Development](#command-line-interface-development)
-    *   [Command-line Tools](#command-line-tools)
-    *   [Computer Vision](#computer-vision)
-    *   [Configuration Files](#configuration-files)
-    *   [Cryptography](#cryptography)
-    *   [Data Analysis](#data-analysis)
-    *   [Data Validation](#data-validation)
-    *   [Data Visualization](#data-visualization)
-    *   [Database Drivers](#database-drivers)
-    *   [Database](#database)
-    *   [Date and Time](#date-and-time)
-    *   [Debugging Tools](#debugging-tools)
-    *   [Deep Learning](#deep-learning)
-    *   [DevOps Tools](#devops-tools)
-    *   [Distributed Computing](#distributed-computing)
-    *   [Distribution](#distribution)
-    *   [Documentation](#documentation)
-    *   [Downloader](#downloader)
-    *   [Editor Plugins and IDEs](#editor-plugins-and-ides)
-    *   [Email](#email)
-    *   [Environment Management](#environment-management)
-    *   [File Manipulation](#file-manipulation)
-    *   [Functional Programming](#functional-programming)
-    *   [Game Development](#game-development)
-    *   [Geolocation](#geolocation)
-    *   [GUI Development](#gui-development)
-    *   [Hardware](#hardware)
-    *   [HTML Manipulation](#html-manipulation)
-    *   [HTTP Clients](#http-clients)
-    *   [Image Processing](#image-processing)
-    *   [Implementations](#implementations)
-    *   [Interactive Interpreter](#interactive-interpreter)
-    *   [Internationalization](#internationalization)
-    *   [Job Scheduler](#job-scheduler)
-    *   [Logging](#logging)
-    *   [Machine Learning](#machine-learning)
-    *   [Miscellaneous](#miscellaneous)
-    *   [Natural Language Processing](#natural-language-processing)
-    *   [Network Virtualization](#network-virtualization)
-    *   [ORM](#orm)
-    *   [Package Management](#package-management)
-    *   [Package Repositories](#package-repositories)
-    *   [Penetration testing](#penetration-testing)
-    *   [Permissions](#permissions)
-    *   [Processes](#processes)
-    *   [Quantum Computing](#quantum-computing)
-    *   [Recommender Systems](#recommender-systems)
-    *   [Refactoring](#refactoring)
-    *   [RESTful API](#restful-api)
-    *   [Robotics](#robotics)
-    *   [RPC Servers](#rpc-servers)
-    *   [Science](#science)
-    *   [Search](#search)
-    *   [Serialization](#serialization)
-    *   [Serverless Frameworks](#serverless-frameworks)
-    *   [Shell](#shell)
-    *   [Specific Formats Processing](#specific-formats-processing)
-    *   [Static Site Generator](#static-site-generator)
-    *   [Task Queues](#task-queues)
-    *   [Template Engine](#template-engine)
-    *   [Testing](#testing)
-    *   [Text Processing](#text-processing)
-    *   [URL Manipulation](#url-manipulation)
-    *   [Video](#video)
-    *   [Web Asset Management](#web-asset-management)
-    *   [Web Content Extracting](#web-content-extracting)
-    *   [Web Crawling](#web-crawling)
-    *   [Web Frameworks](#web-frameworks)
-    *   [WebSocket](#websocket)
-    *   [WSGI Servers](#wsgi-servers)
+# Categories
+
+*   [Admin Panels](#admin-panels)
+*   [Algorithms and Design Patterns](#algorithms-and-design-patterns)
+*   [ASGI Servers](#asgi-servers)
+*   [Asynchronous Programming](#asynchronous-programming)
+*   [Audio](#audio)
+*   [Authentication](#authentication)
+*   [Build Tools](#build-tools)
+*   [Built-in Classes Enhancement](#built-in-classes-enhancement)
+*   [Caching](#caching)
+*   [CMS](#cms)
+*   [Code Analysis](#code-analysis)
+*   [Command-line Interface Development](#command-line-interface-development)
+*   [Command-line Tools](#command-line-tools)
+*   [Computer Vision](#computer-vision)
+*   [Configuration Files](#configuration-files)
+*   [Cryptography](#cryptography)
+*   [Data Analysis](#data-analysis)
+*   [Data Validation](#data-validation)
+*   [Data Visualization](#data-visualization)
+*   [Database Drivers](#database-drivers)
+*   [Database](#database)
+*   [Date and Time](#date-and-time)
+*   [Debugging Tools](#debugging-tools)
+*   [Deep Learning](#deep-learning)
+*   [DevOps Tools](#devops-tools)
+*   [Distributed Computing](#distributed-computing)
+*   [Distribution](#distribution)
+*   [Documentation](#documentation)
+*   [Downloader](#downloader)
+*   [Editor Plugins and IDEs](#editor-plugins-and-ides)
+*   [Email](#email)
+*   [Environment Management](#environment-management)
+*   [File Manipulation](#file-manipulation)
+*   [Functional Programming](#functional-programming)
+*   [Game Development](#game-development)
+*   [Geolocation](#geolocation)
+*   [GUI Development](#gui-development)
+*   [Hardware](#hardware)
+*   [HTML Manipulation](#html-manipulation)
+*   [HTTP Clients](#http-clients)
+*   [Image Processing](#image-processing)
+*   [Implementations](#implementations)
+*   [Interactive Interpreter](#interactive-interpreter)
+*   [Internationalization](#internationalization)
+*   [Job Scheduler](#job-scheduler)
+*   [Logging](#logging)
+*   [Machine Learning](#machine-learning)
+*   [Miscellaneous](#miscellaneous)
+*   [Natural Language Processing](#natural-language-processing)
+*   [Network Virtualization](#network-virtualization)
+*   [ORM](#orm)
+*   [Package Management](#package-management)
+*   [Package Repositories](#package-repositories)
+*   [Penetration testing](#penetration-testing)
+*   [Permissions](#permissions)
+*   [Processes](#processes)
+*   [Quantum Computing](#quantum-computing)
+*   [Recommender Systems](#recommender-systems)
+*   [Refactoring](#refactoring)
+*   [RESTful API](#restful-api)
+*   [Robotics](#robotics)
+*   [RPC Servers](#rpc-servers)
+*   [Science](#science)
+*   [Search](#search)
+*   [Serialization](#serialization)
+*   [Serverless Frameworks](#serverless-frameworks)
+*   [Shell](#shell)
+*   [Specific Formats Processing](#specific-formats-processing)
+*   [Static Site Generator](#static-site-generator)
+*   [Task Queues](#task-queues)
+*   [Template Engine](#template-engine)
+*   [Testing](#testing)
+*   [Text Processing](#text-processing)
+*   [URL Manipulation](#url-manipulation)
+*   [Video](#video)
+*   [Web Asset Management](#web-asset-management)
+*   [Web Content Extracting](#web-content-extracting)
+*   [Web Crawling](#web-crawling)
+*   [Web Frameworks](#web-frameworks)
+*   [WebSocket](#websocket)
+*   [WSGI Servers](#wsgi-servers)
 *   [Resources](#resources)
     *   [Newsletters](#newsletters)
     *   [Podcasts](#podcasts)
-*   [Contributing](#contributing)
 
 ***
 
@@ -233,7 +233,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis (⭐14k)](https://github.com/mre/awesome-static-analysis).*
 
 *   Code Analysis
-    *   [code-graph-rag (⭐2k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
+    *   [code-graph-rag (⭐2.1k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
     *   [code2flow (⭐4.5k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
     *   [vulture (⭐4.4k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
@@ -366,7 +366,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [pyqtgraph (⭐4.3k)](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 *   [seaborn (⭐14k)](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
 *   [UltraPlot (⭐278)](https://github.com/ultraplot/UltraPlot) - Matplotlib wrapper for publication-ready scientific figures with minimal code. Includes advanced subplot management, panel layouts, and batteries-included geoscience plotting.
-*   [vispy (⭐3.5k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
+*   [vispy (⭐3.6k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
 
 ## Database
 
@@ -732,6 +732,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for Machine Learning. Also see [awesome-machine-learning (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
+*   [Agno (⭐39k)](https://github.com/agno-agi/agno) - Open-source Python library for building AI agents and agentic systems.
 *   [diffusers (⭐33k)](https://github.com/huggingface/diffusers) - A library that provides pretrained diffusion models for generating and editing images, audio, and video.
 *   [gym (⭐37k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 *   [Feature-engine (⭐2.2k)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
@@ -742,7 +743,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [Metrics (⭐1.7k)](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 *   [MindsDB (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
-*   [PraisonAI (⭐5.6k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐5.7k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
 *   [pydantic-ai (⭐15k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
 *   [RAGFlow (⭐75k)](https://github.com/infiniflow/ragflow) - An open-source RAG engine for document understanding and question answering with LLMs.
 *   [rasa (⭐21k)](https://github.com/RasaHQ/rasa) - An open-source machine learning framework for automated text and voice-based conversations.
@@ -934,7 +935,7 @@ Inspired by [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php).
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 *   [ObsPy (⭐1.3k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [Open Babel](https://open-babel.readthedocs.io/) - A chemical toolbox designed to speak the many languages of chemical data.
-*   [PathSim (⭐272)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+*   [PathSim (⭐334)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [PyMC (⭐9.5k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 *   [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.

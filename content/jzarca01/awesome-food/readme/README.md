@@ -18,6 +18,7 @@ A curated list of food related projects on Github
 
 *   [Food-related projects](#food-related-projects)
 *   [Cookbooks](#cookbooks)
+*   [Plant-Based](#plant-based)
 *   [API for Food services](#api-for-food-services)
     *   [Only available for French market](#only-available-for-french-market)
 *   [Sport nutrition](#sport-nutrition)
@@ -28,6 +29,7 @@ A curated list of food related projects on Github
 *   [Videos](#videos)
     *   [Italian cuisine](#italian-cuisine)
     *   [Asian cuisine](#asian-cuisine)
+    *   [Plant-based cuisine](#plant-based-cuisine)
 
 ## Food-related projects
 
@@ -47,6 +49,12 @@ A curated list of food related projects on Github
 *   [hasgluten (⭐66)](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 *   [diy-proofing-box (⭐10)](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 *   [Mealie (⭐12k)](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
+*   [Tandoor Recipes (⭐8.1k)](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+*   [grocy (⭐8.8k)](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+*   [Nextcloud Cookbook (⭐614)](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
+*   [Recipya (⭐389)](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
+*   [Open Food Facts (⭐951)](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
+*   [Veganify (⭐65)](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 *   [RasPiBrew (⭐192)](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
 
 ## Cookbooks
@@ -67,6 +75,15 @@ A curated list of food related projects on Github
 *   [Chowdown (⭐655)](https://github.com/clarklab/chowdown) - A simple, plaintext markdown recipe database for hackers.
 *   [Cooking-Recipes (⭐31)](https://github.com/Donearm/Cooking-Recipes) - Mostly italian recipes.
 *   [bagels (⭐28)](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
+*   [HowToCook (⭐99k)](https://github.com/Anduin2017/HowToCook) - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+*   [the-sourdough-framework (⭐3.5k)](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you make the best possible sourdough bread at home.
+
+## Plant-Based
+
+*   [vegan\_recipes (⭐48)](https://github.com/rochacbruno/vegan_recipes) - A collection of 100% vegan recipes.
+*   [recipes (⭐48)](https://github.com/hrs/recipes) - Actual food recipes in Markdown. All vegetarian, mostly vegan.
+*   [recipes (⭐34)](https://github.com/mathias/recipes) - A collection of mostly vegan recipes. Creative Commons licensed.
+*   [awesome-veganism (⭐80)](https://github.com/sdassow/awesome-veganism) - A curated list of resources, pointers, and tips related to veganism.
 
 ## Addresses
 
@@ -114,6 +131,8 @@ A curated list of food related projects on Github
 *   [/r/AskCulinary](https://www.reddit.com/r/AskCulinary/) - /r/AskCulinary provides expert guidance for your specific cooking problems to help people of all skill levels become better cooks, to increase understanding of cooking, and to share valuable culinary knowledge.
 *   [/r/recipes](https://www.reddit.com/r/recipes/) - Improve and share your cooking repertoire with recipes from reddit's community.
 *   [/r/IndianFood](https://www.reddit.com/r/IndianFood/) - Indian Food is your step by step guide to simple and delicious home cooking. From regional Indian cuisine to popular dishes from around the globe, our community's focus is to make cooking easy.
+*   [/r/veganrecipes](https://www.reddit.com/r/veganrecipes/) - A community for sharing and discovering plant-based recipes.
+*   [/r/EatCheapAndHealthy](https://www.reddit.com/r/EatCheapAndHealthy/) - Tips and recipes for eating well on a budget.
 
 ## Courses and MOOCs
 
@@ -131,6 +150,12 @@ A curated list of food related projects on Github
 
 *   [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 *   [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
+
+### Plant-based cuisine
+
+*   [Avant-Garde Vegan](https://www.youtube.com/c/avantgardevegan) - Creative and visually stunning plant-based recipes by Gaz Oakley
+*   [Pick Up Limes](https://www.youtube.com/c/PickUpLimes) - Nutritious plant-based recipes with a focus on balanced eating and meal prep
+*   [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Flavorful vegan recipes inspired by global cuisines
 
 ## Contribute
 

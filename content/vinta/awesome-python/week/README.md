@@ -10,6 +10,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Machine Learning
 
+*   [Agno (⭐39k)](https://github.com/agno-agi/agno) - Open-source Python library for building AI agents and agentic systems.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
@@ -23,7 +24,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Code Analysis
 
 *   Code Analysis
-    *   [code-graph-rag (⭐2k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
+    *   [code-graph-rag (⭐2.1k)](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
     *   [code2flow (⭐4.5k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     *   [prospector (⭐2.1k)](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
     *   [vulture (⭐4.4k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
@@ -85,7 +86,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Science
 
-*   [PathSim (⭐272)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
+*   [PathSim (⭐334)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 
 ### Specific Formats Processing
 
@@ -319,7 +320,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Machine Learning
 
-*   [PraisonAI (⭐5.6k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐5.7k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### ORM
 
@@ -469,7 +470,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   [pygraphviz (⭐834)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 *   [pyqtgraph (⭐4.3k)](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 *   [seaborn (⭐14k)](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
-*   [vispy (⭐3.5k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
+*   [vispy (⭐3.6k)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
 
 ### Database
 
