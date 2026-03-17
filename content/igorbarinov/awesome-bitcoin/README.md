@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 17, 2026](/content/2026/03/17/README.md)
+
+### C Libraries
+
+*   [UltrafastSecp256k1 (⭐20)](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
+
 ## [Mar 07, 2026](/content/2026/03/07/README.md)
 
 ### Utilities
@@ -67,7 +73,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Rust Libraries
 
-*   [Bithoven (⭐41)](https://github.com/ChrisCho-H/bithoven) -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
+*   [Bithoven (⭐42)](https://github.com/ChrisCho-H/bithoven) -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 
 ### Playgrounds
 
@@ -77,7 +83,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Utilities
 
-*   [BTC Tooling (⭐32)](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
+*   [BTC Tooling (⭐33)](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 
 ## [Jan 08, 2025](/content/2025/01/08/README.md)
 
@@ -89,7 +95,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Privacy projects
 
-*   [Joinmarket (⭐820)](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
+*   [Joinmarket (⭐821)](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
 *   [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
 
 ## [Aug 05, 2024](/content/2024/08/05/README.md)
@@ -203,8 +209,8 @@ A curated list of bitcoin services and tools for software developers
 
 ### JavaScript Libraries
 
-*   [noble-curves (⭐889)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
-*   [noble-secp256k1 (⭐865)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+*   [noble-curves (⭐891)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐867)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 
@@ -224,13 +230,13 @@ A curated list of bitcoin services and tools for software developers
 
 ### Swift libraries
 
-*   [secp256k1.swift (⭐148)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+*   [secp256k1.swift (⭐149)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## [Mar 23, 2023](/content/2023/03/23/README.md)
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐235)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐237)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [Mar 12, 2023](/content/2023/03/12/README.md)
 
@@ -295,7 +301,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Utilities
 
-*   [Nigiri (⭐326)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [Nigiri (⭐327)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 *   [hal (⭐213)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
@@ -314,7 +320,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐313)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐311)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 
 ## [Jul 20, 2020](/content/2020/07/20/README.md)
 
@@ -350,7 +356,7 @@ A curated list of bitcoin services and tools for software developers
 
 *   [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 *   [Pycoin (⭐1.4k)](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
-*   [bx (⭐632)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
+*   [bx (⭐633)](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
 *   [txwatcher (⭐50)](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 *   [hellobitcoin (⭐255)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 *   [HD Wallet Scanner (⭐35)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
@@ -383,15 +389,15 @@ A curated list of bitcoin services and tools for software developers
 
 ### Playgrounds
 
-*   [Bitcoin IDE (⭐220)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
-*   [blockchain-demo (⭐5.6k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
+*   [Bitcoin IDE (⭐221)](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
+*   [blockchain-demo (⭐5.7k)](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 *   [Bitcoin Script Debugger (⭐59)](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
 
 ### Blockchain dump
 
 *   [BitcoinDatabaseGenerator (⭐127)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 *   [Blockparser+SQL (⭐60)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
-*   [BitcoinABE (⭐980)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
+*   [BitcoinABE (⭐979)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 
 ### Full nodes
 
@@ -404,8 +410,8 @@ A curated list of bitcoin services and tools for software developers
 *   [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 *   [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
 *   [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI (⭐163)](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
-*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐689)](https://github.com/chaincodelabs/bitcoin-curriculum).
-*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐372)](https://github.com/chaincodelabs/lightning-curriculum).
+*   [Bitcoin Protocol Development Curriculum - Chaincode Labs (⭐692)](https://github.com/chaincodelabs/bitcoin-curriculum).
+*   [Lightning Network Protocol Development Curriculum - Chaincode Labs (⭐374)](https://github.com/chaincodelabs/lightning-curriculum).
 
 ### Additional Resources
 

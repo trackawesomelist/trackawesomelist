@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [EmailGuard](https://emailguard.lazrek.net/) — Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
 
+### Forms
+
+*   [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### APIs, Data, and ML

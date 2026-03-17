@@ -12,6 +12,14 @@
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
+<p align="center">
+  Proudly maintained by:
+  <a href="https://jneidel.com">
+    <img width="24px" src="https://jneidel.com/img/logo.png" alt="jneidel.com logo">
+    <span>jneidel.com</span>
+  </a>
+</p>
+
 ***
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -182,6 +190,7 @@ Inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) lis
 *   [is-up-cli (⭐368)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐39)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [diff2html-cli (⭐588)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [mk (⭐122)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Text Editors
 
@@ -252,6 +261,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 *   [decompose (⭐126)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -346,6 +356,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [notesmd-cli (⭐1.2k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [journalot (⭐73)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 *   [rucola (⭐479)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Finance
 
@@ -357,6 +368,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [cash-cli (⭐264)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐4.4k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 *   [ticker (⭐6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [lakshmi (⭐137)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Presentations
 
@@ -440,6 +452,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [pipe\_exec (⭐77)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 *   [envio (⭐929)](https://github.com/envio-cli/envio) - Manage environment variables securely.
+*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### System Interaction Utilities
 
@@ -592,6 +605,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [cpy-cli (⭐361)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 *   [rename-cli (⭐170)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 *   [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+*   [nomino (⭐708)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 
 ### Disk Usage
 
@@ -631,6 +645,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [ncp (⭐37)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 *   [share (⭐49)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 *   [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Directory Listing
 
@@ -692,7 +707,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [git-all-branches (⭐9)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 *   [czg (⭐1.5k)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 *   [shallow-backup (⭐1.3k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-*   [Lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+*   [lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 *   [gitui (⭐22k)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 *   [ggc (⭐272)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
@@ -717,6 +732,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [imgur-uploader-cli (⭐61)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.7k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 *   [optimizt (⭐161)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+*   [freeze (⭐4.4k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Gif Creation
 

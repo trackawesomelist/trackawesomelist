@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 17, 2026](/content/2026/03/17/README.md)
+
+### Forms
+
+*   [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
+
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
 ### Email

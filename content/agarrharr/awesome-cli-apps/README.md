@@ -6,6 +6,44 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Mar 17, 2026](/content/2026/03/17/README.md)
+
+### Development / Chat
+
+*   [mk (⭐122)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+
+### Development / Docker
+
+*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+
+### Productivity / Note Taking and Lists
+
+*   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
+
+### Productivity / Finance
+
+*   [lakshmi (⭐137)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+
+### Utilities / Shell Utilities
+
+*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+
+### Files and Directories / Deleting, Copying, and Renaming
+
+*   [nomino (⭐708)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+
+### Files and Directories / File Sync/Sharing
+
+*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
+
+### Version Control / Git
+
+*   [lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+
+### Images / Emoji
+
+*   [freeze (⭐4.4k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
 ### Development / Database
@@ -444,10 +482,6 @@
 ### Files and Directories / Directory Navigation
 
 *   [tere (⭐1.8k)](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
-
-### Version Control / Git
-
-*   [Lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
 ## [Jul 30, 2023](/content/2023/07/30/README.md)
 

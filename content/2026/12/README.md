@@ -1,12 +1,69 @@
 # Awesome List Updates on Mar 23 - Mar 29, 2026
 
-19 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Internet of Things (IoT)
+
+*   [SOLECTRUS](https://solectrus.de) - Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations. ([Demo](https://demo.solectrus.de), [Source Code (⭐147)](https://github.com/solectrus/solectrus)) `AGPL-3.0` `Docker`
+
+### Software / Media Management
+
+*   [MKVPriority (⭐59)](https://github.com/kennethsible/mkvpriority) - Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. `MIT` `Python/Docker`
+
+## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Godot Shader Warmup (⭐6)](https://github.com/Koisuji02/GodotShaderWarmup) - Extension for pre-warming shaders at startup to prevent runtime stuttering caused by shader compilation (works well also integrated with [engine shader baker](https://docs.godotengine.org/en/stable/tutorials/performance/pipeline_compilations.html#shader-baker); see `report.pdf` in the repository to view results).
+
+## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Tools / Starforged
+
+*   [Sticky Starforged](https://jaderavens.itch.io/sticky-starforged) - Print Starforged progress tracks, clocks, and more directly onto sticky notes
+
+### Resources / Starforged
+
+*   [Condensed Truths](https://jaderavens.itch.io/condensed-truths) - Single-page truths worksheets for Ironsworn, Starforged & Sundered Isles
+
+## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Graphics / Assets/Placeholders
+
+*   :free: [Quaternius](https://quaternius.com/) - Thousands of free CC0 low-poly 3D models and animated characters.
+
+## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+
+### C Libraries
+
+*   [UltrafastSecp256k1 (⭐20)](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
+
+## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [dupl (⭐365)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
+
+### Multiple languages / [Other](#other-1)
+
+*   [Code-Graph-RAG](https://code-graph-rag.com) — Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and stores them in Memgraph. Supports 11 programming languages with a unified graph schema and enables natural language querying and editing of code structure and relationships. Functions as an MCP server for AI assistant integration.
+*   [diesel-guard (⭐104)](https://github.com/ayarotsky/diesel-guard) — Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents downtime caused by unsafe schema changes.
+*   [jQAssistant](https://jqassistant.org/) — jQAssistant is a plugin based software analytics platform which allows scanning code structures and metadata from repositories into a Neo4j graph database.  The gathered data can be used for ad-hoc exploration using queries, visualization or defining rules for continuous architecture validation.
+
+### Other / [Other](#other-1)
+
+*   [axe-core](https://www.deque.com/axe/) — Accessibility engine for automated Web UI testing. Tests HTML against WCAG 2.0, 2.1, and 2.2 guidelines. Used by Google Lighthouse, Microsoft Accessibility Insights, and thousands of organizations worldwide.
+*   [Pa11y](https://pa11y.org/) — Automated accessibility testing tool that runs HTML CodeSniffer or axe-core from the command line. Supports CI/CD integration, multiple reporters, and testing against WCAG 2.1 AA standards.
+*   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
+*   **write-good** :warning: — A linter with a focus on eliminating "weasel words".
+
+## [7. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### AI / ChatGPT
 
@@ -126,19 +183,19 @@
 
 *   [ELinks](http://elinks.cz/) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
 
-## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Workflow Automation
 
 *   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 
-## [4. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Guidelines
 
@@ -160,7 +217,7 @@
 
 *   [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 
-## [5. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [11. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Ground segmentation
 
@@ -169,13 +226,17 @@
     *   [ROS2 integration ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐74)](https://github.com/dfki-ric/ground_segmentation_ros2) ![](https://img.shields.io/github/stars/dfki-ric/ground_segmentation_ros2?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=GXLTOoJbOhQ)
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [paste-guard (⭐0)](https://github.com/stefanoamorelli/zsh-paste-guard) - Detects pasted commands and requires a confirmation phrase before execution to prevent clipboard injection attacks (MITRE ATT\&CK T1204.004). Reads confirmation from `/dev/tty` so attackers cannot embed the confirmation in the payload.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Development / Chat
+
+*   [mk (⭐122)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Development / Database
 
@@ -188,6 +249,7 @@
 ### Development / Docker
 
 *   [decompose (⭐126)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Development / Npm
 
@@ -210,6 +272,11 @@
 
 *   [notesmd-cli (⭐1.2k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [rucola (⭐479)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
+
+### Productivity / Finance
+
+*   [lakshmi (⭐137)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Utilities / Calendars
 
@@ -223,6 +290,7 @@
 ### Utilities / Shell Utilities
 
 *   [envio (⭐929)](https://github.com/envio-cli/envio) - Manage environment variables securely.
+*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### Utilities / Markdown
 
@@ -245,6 +313,10 @@
 
 *   [sc-im (⭐5.4k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
+### Files and Directories / Deleting, Copying, and Renaming
+
+*   [nomino (⭐708)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+
 ### Files and Directories / Files
 
 *   [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
@@ -252,6 +324,7 @@
 ### Files and Directories / File Sync/Sharing
 
 *   [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Files and Directories / Directory Listing
 
@@ -264,11 +337,13 @@
 
 ### Version Control / Git
 
+*   [lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [gibr (⭐109)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### Images / Emoji
 
 *   [optimizt (⭐161)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+*   [freeze (⭐4.4k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Screensavers / Image Conversion
 
@@ -290,19 +365,19 @@
 
 *   [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 
-## [8. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [14. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Blockchain and Rewards
 
 *   [x402-proxy (⭐1)](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 
-## [9. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [15. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Email
 
 *   [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
 
-## [10. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [16. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
@@ -316,7 +391,7 @@
 
 *   [HighReach](https://highreach.ai/) - Generates platform-ready video, image, and UGC ad creatives from product URLs for Meta, TikTok, and Google. `#paid`
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -330,31 +405,43 @@
 
 *   [rpcplatform (⭐1)](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
 
-## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
+### GUI
+
+*   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+
+### Images
+
+*   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
+
+## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [JavaScript Info](https://javascript.info) - Modern JavaScript tutorial with simple explanations.
 
-## [14. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [20. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [Mer-cli (⭐6)](https://github.com/iotmertech/iot-data-generator) - A high-performance IoT data generator written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads with Handlebars templates.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [EmailGuard](https://emailguard.lazrek.net/) — Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
 
-## [16. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+### Forms
+
+*   [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
+
+## [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -376,7 +463,7 @@
 
 *   [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -403,13 +490,13 @@
 *   [Bread Dataset Viewer (⭐2)](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 *   [Bread WandB Viewer (⭐3)](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Search
 
 *   [Cake/Elasticsearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 
-## [19. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [25. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 

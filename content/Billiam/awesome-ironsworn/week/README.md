@@ -6,6 +6,16 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Tools / Starforged
+
+*   [Sticky Starforged](https://jaderavens.itch.io/sticky-starforged) - Print Starforged progress tracks, clocks, and more directly onto sticky notes
+
+### Resources / Starforged
+
+*   [Condensed Truths](https://jaderavens.itch.io/condensed-truths) - Single-page truths worksheets for Ironsworn, Starforged & Sundered Isles
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Adventure starters and scenarios / Starforged

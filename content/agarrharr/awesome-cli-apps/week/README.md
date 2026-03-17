@@ -8,6 +8,10 @@
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### Development / Chat
+
+*   [mk (⭐122)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+
 ### Development / Database
 
 *   [rdsai-cli (⭐47)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
@@ -19,6 +23,7 @@
 ### Development / Docker
 
 *   [decompose (⭐126)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Development / Npm
 
@@ -41,6 +46,11 @@
 
 *   [notesmd-cli (⭐1.2k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [rucola (⭐479)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
+
+### Productivity / Finance
+
+*   [lakshmi (⭐137)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Utilities / Calendars
 
@@ -54,6 +64,7 @@
 ### Utilities / Shell Utilities
 
 *   [envio (⭐929)](https://github.com/envio-cli/envio) - Manage environment variables securely.
+*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### Utilities / Markdown
 
@@ -76,6 +87,10 @@
 
 *   [sc-im (⭐5.4k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
+### Files and Directories / Deleting, Copying, and Renaming
+
+*   [nomino (⭐708)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+
 ### Files and Directories / Files
 
 *   [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
@@ -83,6 +98,7 @@
 ### Files and Directories / File Sync/Sharing
 
 *   [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Files and Directories / Directory Listing
 
@@ -95,11 +111,13 @@
 
 ### Version Control / Git
 
+*   [lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 *   [gibr (⭐109)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### Images / Emoji
 
 *   [optimizt (⭐161)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+*   [freeze (⭐4.4k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Screensavers / Image Conversion
 
@@ -429,10 +447,6 @@
 ### Files and Directories / Directory Navigation
 
 *   [tere (⭐1.8k)](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
-
-### Version Control / Git
-
-*   [Lazygit (⭐74k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 

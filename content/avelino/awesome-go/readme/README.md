@@ -1417,6 +1417,7 @@ additional ordered map implementations.
 *   [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 *   [go-sciter (⭐2.6k)](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 *   [Goey](https://bitbucket.org/rj/goey/src/master/) - Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
+*   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
 *   [goradd/html5tag (⭐13)](https://github.com/goradd/html5tag) - Library for outputting HTML5 tags.
 *   [gotk3 (⭐2.2k)](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
 *   [gowd (⭐436)](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW\.js. Cross platform.
@@ -1468,6 +1469,7 @@ additional ordered map implementations.
 *   [darkroom (⭐236)](https://github.com/gojek/darkroom) - An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 *   [geopattern (⭐1.3k)](https://github.com/pravj/geopattern) - Create beautiful generative image patterns from a string.
 *   [gg (⭐4.7k)](https://github.com/fogleman/gg) - 2D rendering in pure Go.
+*   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
 *   [gift (⭐1.8k)](https://github.com/disintegration/gift) - Package of image processing filters.
 *   [gltf (⭐276)](https://github.com/qmuntal/gltf) - Efficient and robust glTF 2.0 reader, writer and validator.
 *   [go-cairo (⭐151)](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.
@@ -2860,7 +2862,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-problemdetails (⭐18)](https://github.com/mvmaasakkers/go-problemdetails) - Go package for working with Problem Details.
 *   [go-qr (⭐47)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [go-rate (⭐406)](https://github.com/beefsack/go-rate) - Timed rate limiter for Go.
-*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+*   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
 *   [go-sitemap-generator (⭐229)](https://github.com/ikeikeikeike/go-sitemap-generator) - XML Sitemap generator written in Go.
 *   [go-trigger (⭐249)](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
 *   [go-tripper (⭐15)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.

@@ -82,11 +82,13 @@ made by you on those sites when using these links*
 *   [Starforged Sectors Discord Bot (⭐1)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 *   [Starforged Numbers Spreadsheet](https://www.dropbox.com/s/ge40xrazw0c9ng1/Starforged%20Public%20v2.5.numbers?dl=0) - Spreadsheet for Starforged solo play
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
+*   [Sticky Starforged](https://jaderavens.itch.io/sticky-starforged) - Print Starforged progress tracks, clocks, and more directly onto sticky notes
 *   [TheOracle (⭐39)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
+*   [Condensed Truths](https://jaderavens.itch.io/condensed-truths) - Single-page truths worksheets for Ironsworn, Starforged & Sundered Isles
 *   [DataForged (⭐214)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 *   [DataSworn (⭐147)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Eidolon Flight Manual](https://jaderavens.itch.io/eidolon-flight-manual) - Comprehensive play aid and sector maps for drift pilots in the Forge

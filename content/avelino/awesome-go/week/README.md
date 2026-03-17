@@ -20,6 +20,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [rpcplatform (⭐1)](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
 
+### GUI
+
+*   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+
+### Images
+
+*   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Blockchain
@@ -109,7 +117,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+*   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
 *   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ### Routers / Libraries for creating HTTP middlewares

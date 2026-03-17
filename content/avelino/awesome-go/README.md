@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 17, 2026](/content/2026/03/17/README.md)
+
+### GUI
+
+*   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+
+### Images
+
+*   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
+
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
 ### Configuration
@@ -145,7 +155,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-safecast (⭐83)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
+*   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
 
 ### Windows / Libraries for creating HTTP middlewares
 
