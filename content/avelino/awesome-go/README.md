@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [goai (⭐0)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 
+### Email
+
+*   [go-imap (⭐96)](https://github.com/BrianLeishman/go-imap) - Batteries-included IMAP client with auto-reconnect, OAuth2, IDLE support, and built-in MIME parsing.
+
+### Utility/Miscellaneous
+
+*   [ahocorasick (⭐4)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Game Development

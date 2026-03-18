@@ -638,7 +638,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [douyin (⭐11k)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 
-*   [MyIP (⭐9.8k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+*   [MyIP (⭐9.9k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 
 *   [fylepad (⭐291)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
@@ -1035,6 +1035,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 *   [Vue3 Pivottable (⭐10)](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 *   [GridSheet (⭐188)](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
 *   [@witqq/spreadsheet (⭐7)](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
+*   [Jordium Gantt Vue3 (⭐70)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
 
 #### Notification
 
@@ -1188,7 +1189,7 @@ Tooltips / popovers
 *   [vnodes (⭐140)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 *   [v-network-graph (⭐632)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 *   [coya (⭐75)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
-*   [vue-skia (⭐324)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐325)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [vue-flow (⭐6.4k)](https://github.com/bcakmakoglu/vue-flow) - Interactive, customizeabe, graph & flowchart editor for Vue3
 
 #### Social Sharing
@@ -1401,7 +1402,7 @@ Tooltips / popovers
 *   [FormVuelar (⭐299)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 *   [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
 *   [@vuito/vue (⭐5)](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
-*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.7k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 *   [vorms (⭐729)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 *   [regle (⭐409)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
 *   [validation-composable (⭐20)](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
@@ -1695,7 +1696,7 @@ Payment utilities.
 
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
-*   [Vite (⭐78k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐79k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [Create Vue (⭐4.3k)](https://github.com/vuejs/create-vue)
 *   [vuesion (⭐2.9k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.

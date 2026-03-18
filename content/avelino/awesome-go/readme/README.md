@@ -1077,6 +1077,7 @@ additional ordered map implementations.
 *   [email-verifier (⭐1.5k)](https://github.com/AfterShip/email-verifier) - A Go library for email verification without sending any emails.
 *   [go-dkim (⭐99)](https://github.com/toorop/go-dkim) - DKIM library, to sign & verify email.
 *   [go-email-normalizer (⭐77)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
+*   [go-imap (⭐96)](https://github.com/BrianLeishman/go-imap) - Batteries-included IMAP client with auto-reconnect, OAuth2, IDLE support, and built-in MIME parsing.
 *   [go-imap (⭐2.3k)](https://github.com/emersion/go-imap) - IMAP library for clients and servers.
 *   [go-mail (⭐1.3k)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 *   [go-message (⭐441)](https://github.com/emersion/go-message) - Streaming library for the Internet Message Format and mail messages.
@@ -2673,6 +2674,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Utility/Miscellaneous
 
+*   [ahocorasick (⭐4)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
 *   [go-runewidth (⭐682)](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
 *   [kace (⭐21)](https://github.com/codemodus/kace) - Common case conversions covering common initialisms.
 *   [lancet (⭐5.3k)](https://github.com/duke-git/lancet) - A comprehensive, Lodash-like utility library for Go

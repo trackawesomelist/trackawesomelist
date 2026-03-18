@@ -8,6 +8,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### Fundamentals / Text Editors
+
+*   [FalsePattern/ZigBrains](https://codeberg.org/FalsePattern/ZigBrains) - JetBrains IDEs (CLion, IntelliJ IDEA and others) plugin for Zig.
+
 ### Language Essentials / Data Structure and Algorithm
 
 *   [OrlovEvgeny/lo.zig (⭐19)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
@@ -641,7 +645,6 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Text Editors
 
-*   [FalsePattern/ZigBrains (⭐221)](https://github.com/FalsePattern/ZigBrains) - JetBrains IDEs (CLion, IntelliJ IDEA and others) plugin for Zig.
 *   [jinzhongjia/znvim (⭐26)](https://github.com/jinzhongjia/znvim) - Neovim remote rpc client implementation with Zig.
 *   [zigtools/zls (⭐4.6k)](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! [installation](https://zigtools.org/zls/install/)
 

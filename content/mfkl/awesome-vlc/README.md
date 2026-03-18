@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/mfkl/awesome-vlc/week/README.md) / [Overview](/content/mfkl/awesome-vlc/readme/README.md) ]
 
+## [Mar 18, 2026](/content/2026/03/18/README.md)
+
+### VLC web & lua extensions
+
+*   [vlc-auto-dir-enqueue-prev-next (⭐2)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Tutorials

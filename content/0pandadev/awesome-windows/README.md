@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Mar 18, 2026](/content/2026/03/18/README.md)
+
+### Text Editors
+
+*   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Text Editors

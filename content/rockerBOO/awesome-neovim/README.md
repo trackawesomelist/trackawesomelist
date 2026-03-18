@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 18, 2026](/content/2026/03/18/README.md)
+
+### Utility / Cursorline
+
+*   [emrearmagan/dockyard.nvim (⭐14)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+
 ## [Mar 14, 2026](/content/2026/03/14/README.md)
 
 ### AI / Diagnostics
@@ -63,31 +69,31 @@ Collections of awesome neovim plugins.
 
 ### Startup / Cursorline
 
-*   [leo-alvarenga/homecoming.nvim (⭐3)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
+*   [leo-alvarenga/homecoming.nvim (⭐4)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 
 ### Code Runner / Quickfix
 
-*   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [hadishahpuri/nvimlaunch (⭐8)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
 ### Fuzzy Finder / Assembly
 
-*   [dtormoen/neural-open.nvim (⭐24)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐51)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 ### Colorscheme / Assembly
 
-*   [taigrr/cyberpunk.nvim (⭐1)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+*   [taigrr/cyberpunk.nvim (⭐3)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 
 ## [Feb 28, 2026](/content/2026/02/28/README.md)
 
 ### LSP
 
-*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐42)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐12)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
@@ -140,35 +146,35 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [nickjvandyke/opencode.nvim (⭐2.7k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐2.9k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Prgebish/sigil.nvim (⭐28)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+*   [Prgebish/sigil.nvim (⭐30)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
 ### Buffers / Assembly
 
-*   [TheLazyCat00/workspaces-nvim (⭐6)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+*   [TheLazyCat00/workspaces-nvim (⭐8)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 
 ### Terminal Integration / CSV Files
 
-*   [TheLazyCat00/runner-nvim (⭐6)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+*   [TheLazyCat00/runner-nvim (⭐7)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 
 ### Git / Quickfix
 
-*   [YouSame2/inlinediff-nvim (⭐22)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
+*   [YouSame2/inlinediff-nvim (⭐24)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 
 ## [Feb 13, 2026](/content/2026/02/13/README.md)
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐86)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐93)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Git / Quickfix
 
-*   [chojs23/ec (⭐143)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐153)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ## [Feb 10, 2026](/content/2026/02/10/README.md)
 

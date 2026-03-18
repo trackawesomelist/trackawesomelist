@@ -1,12 +1,48 @@
 # Awesome List Updates on Mar 18, 2026
 
-12 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Text Editors
+
+*   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### Data Processing and ETL
+
+*   [smarter\_csv (⭐1.5k)](https://github.com/tilo/smarter_csv) - Fast Ingestion of CSV files into hashes with automatic header handling, type conversion, clean-up, and protection against Ruby CSV's [silent data corruption](https://dev.to/tilo_sloboda/10-ways-rubys-csvread-can-silently-corrupt-or-lose-your-data-1g02). Also exports CSV.
+
+## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+
+### Graph Machine Learning / Others
+
+*   [TRL (⭐18k)](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+
+## [4. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+
+### VLC web & lua extensions
+
+*   [vlc-auto-dir-enqueue-prev-next (⭐2)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
+
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [Jordium Gantt Vue3 (⭐70)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Utility / Cursorline
+
+*   [emrearmagan/dockyard.nvim (⭐14)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Maritime / GitHub
 
@@ -16,25 +52,37 @@
 
 *   [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
 
-## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [8. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### CSS Regression Testing / Dart
 
 *   [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [9. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Fundamentals / Text Editors
+
+*   [FalsePattern/ZigBrains](https://codeberg.org/FalsePattern/ZigBrains) - JetBrains IDEs (CLion, IntelliJ IDEA and others) plugin for Zig.
 
 ### Language Essentials / Data Structure and Algorithm
 
 *   [OrlovEvgeny/lo.zig (⭐19)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
 *   [goai (⭐0)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+### Email
+
+*   [go-imap (⭐96)](https://github.com/BrianLeishman/go-imap) - Batteries-included IMAP client with auto-reconnect, OAuth2, IDLE support, and built-in MIME parsing.
+
+### Utility/Miscellaneous
+
+*   [ahocorasick (⭐4)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
+
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web
 
@@ -42,7 +90,7 @@
     website crawler, auditor, offline archiver, and AI-ready markdown exporter with CI/CD quality gating
     [![CI](https://github.com/janreges/siteone-crawler/workflows/CI/badge.svg)](https://github.com/janreges/siteone-crawler/actions)
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -54,15 +102,15 @@
 
 ### AI Client / Other Tools
 
-*   [Fazm](https://fazm.ai) - Open-source, voice-controlled AI computer agent that controls your entire macOS desktop through natural language. Any app, file, or workflow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/m13v/fazm)
+*   [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/m13v/fazm)
 
-## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [bagnabit2warc (⭐0)](https://github.com/internetarchive/bagnabit2warc) - Convert a [bag-nabit (⭐37)](https://github.com/harvard-lil/bag-nabit) dataset stored in a ZIP into a full-content WARC.
 
-## [8. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
+## [14. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
 
 ### Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
 
@@ -101,7 +149,7 @@
 
 *   [Basic Horse Care Guide for Beginners - Daily Checklist](https://madbarn.com/basic-horse-care-guide/) - Covers most aspects of horse care from diet and veterinary care, to shelter access daily oversight. Also has an option to download the content as a free PDF.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [Usepkg](https://github.com/gynamics/zsh-usepkg)
 
@@ -126,21 +174,21 @@
 
 *   [expand-space (⭐0)](https://github.com/spqw/zsh-alias-expand-space) - Expand command-position `zsh` aliases when you press space.
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
 *   [redc (⭐134)](https://github.com/wgpsec/redc) - Next-generation red team infrastructure automation tool built on Terraform, supporting multi-cloud deployment (Alibaba Cloud, Tencent Cloud, AWS, etc.) with one-command deployment for creating, configuring, and destroying red team environments.
 *   [ReleaseRun Terraform Security Scanner](https://releaserun.com/tools/terraform-security/) - Free browser-based scanner for `.tf` files. Checks hardcoded credentials, open ports to 0.0.0.0/0, public S3/RDS, unencrypted storage, missing deletion\_protection. A-F grade. No install required.
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [17. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
 *   [DockProbe (⭐2)](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, \~50MB RAM. By [DeepOn](https://github.com/deep-on).
 *   [Maintenant (⭐83)](https://github.com/kolapsis/maintenant) - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By [kolapsis](https://github.com/kolapsis).
 
-## [12. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 

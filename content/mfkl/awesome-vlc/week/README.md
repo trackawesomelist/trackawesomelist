@@ -8,6 +8,10 @@
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### VLC web & lua extensions
+
+*   [vlc-auto-dir-enqueue-prev-next (⭐2)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
+
 ### Tutorials
 
 *   [LibVLC LLM Skill (⭐2)](https://github.com/mfkl/libvlc-skill) - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.

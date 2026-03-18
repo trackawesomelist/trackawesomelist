@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Components & Libraries / UI Components
+
+*   [Jordium Gantt Vue3 (⭐70)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Components & Libraries / Frameworks
@@ -376,7 +382,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MyIP (⭐9.8k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+*   [MyIP (⭐9.9k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 *   [fylepad (⭐291)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Components & Libraries / UI Components
@@ -605,7 +611,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vite (⭐78k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐79k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [electron-vite-vue (⭐4.9k)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
@@ -758,7 +764,7 @@
 
 *   [tanstack-table (⭐28k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐19)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐324)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐325)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐38)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -1215,7 +1221,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.7k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 

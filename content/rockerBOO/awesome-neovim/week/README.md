@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Utility / Cursorline
+
+*   [emrearmagan/dockyard.nvim (⭐14)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### AI / Diagnostics
@@ -35,7 +41,7 @@ Collections of awesome neovim plugins.
 ### Startup / Cursorline
 
 *   [Kurama622/profile.nvim (⭐70)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
-*   [leo-alvarenga/homecoming.nvim (⭐3)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
+*   [leo-alvarenga/homecoming.nvim (⭐4)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 
 ### Debugging / CSV Files
 
@@ -43,7 +49,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [hadishahpuri/nvimlaunch (⭐2)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [hadishahpuri/nvimlaunch (⭐8)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 *   [mikeboiko/nvim-flow (⭐3)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
 ### Database / Automation
@@ -54,7 +60,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [nemanjamalesija/ts-expand-hover.nvim (⭐33)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
+*   [nemanjamalesija/ts-expand-hover.nvim (⭐42)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 
 ### AI / Diagnostics
 
@@ -63,16 +69,16 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [dtormoen/neural-open.nvim (⭐24)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐51)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 ### Colorscheme / Assembly
 
 *   [oskarnurm/koda.nvim (⭐247)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
-*   [taigrr/cyberpunk.nvim (⭐1)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+*   [taigrr/cyberpunk.nvim (⭐3)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player (⭐7)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐12)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ### Dependency Management / Quickfix
 
@@ -100,7 +106,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [nickjvandyke/opencode.nvim (⭐2.7k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐2.9k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 
 ### Programming Languages Support / Diagnostics
 
@@ -108,7 +114,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Prgebish/sigil.nvim (⭐28)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+*   [Prgebish/sigil.nvim (⭐30)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
 ### Fuzzy Finder / Assembly
 
@@ -116,7 +122,7 @@ Collections of awesome neovim plugins.
 
 ### Buffers / Assembly
 
-*   [TheLazyCat00/workspaces-nvim (⭐6)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+*   [TheLazyCat00/workspaces-nvim (⭐8)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 
 ### Utility / Cursorline
 
@@ -125,16 +131,16 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [TheLazyCat00/runner-nvim (⭐6)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+*   [TheLazyCat00/runner-nvim (⭐7)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 
 ### Git / Quickfix
 
-*   [YouSame2/inlinediff-nvim (⭐22)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
-*   [chojs23/ec (⭐143)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [YouSame2/inlinediff-nvim (⭐24)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
+*   [chojs23/ec (⭐153)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐86)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐93)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Database / Automation
 

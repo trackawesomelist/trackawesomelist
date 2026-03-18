@@ -24,6 +24,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [rpcplatform (⭐1)](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
 
+### Email
+
+*   [go-imap (⭐96)](https://github.com/BrianLeishman/go-imap) - Batteries-included IMAP client with auto-reconnect, OAuth2, IDLE support, and built-in MIME parsing.
+
 ### Game Development
 
 *   [gogpu (⭐180)](https://github.com/gogpu/gogpu) - GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to \~20, zero CGO (GoGPU ecosystem: [gg (⭐77)](https://github.com/gogpu/gg), [ui (⭐64)](https://github.com/gogpu/ui), [wgpu (⭐67)](https://github.com/gogpu/wgpu), [naga (⭐28)](https://github.com/gogpu/naga)).
@@ -35,6 +39,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Images
 
 *   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
+
+### Utility/Miscellaneous
+
+*   [ahocorasick (⭐4)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
