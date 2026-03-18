@@ -6,6 +6,12 @@ A curated list of delightful Selenium resources.
 
 [ [Daily](/content/christian-bromann/awesome-selenium/README.md) / Weekly / [Overview](/content/christian-bromann/awesome-selenium/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### CSS Regression Testing / Dart
+
+*   [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### CSS Regression Testing / Dart

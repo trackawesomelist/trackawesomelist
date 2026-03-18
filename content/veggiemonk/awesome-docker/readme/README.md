@@ -179,7 +179,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [habitus (⭐1.4k)](https://github.com/cloud66-oss/habitus) :ice\_cube: - A Build Flow Tool for Docker.
 *   [kompose (⭐10k)](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
 *   [LLM Harbor (⭐2.5k)](https://github.com/av/harbor) - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
-*   [plash](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
+*   [plash (⭐387)](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 *   [podman-compose (⭐6k)](https://github.com/containers/podman-compose) - A script to run docker-compose.yml using podman.
 *   [Smalte (⭐36)](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container. By [roquie](https://github.com/roquie)
 *   [Stitchocker (⭐30)](https://github.com/alexaandrov/stitchocker) - A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services. By [alexaandrov](https://github.com/alexaandrov).
@@ -215,6 +215,8 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 *   [Docker-Flow-Monitor (⭐88)](https://github.com/docker-flow/docker-flow-monitor) :ice\_cube: - Reconfigures Prometheus when a new service is updated or deployed automatically.
 
+*   [DockProbe (⭐2)](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, \~50MB RAM. By [DeepOn](https://github.com/deep-on).
+
 *   [DockProc](https://gitlab.com/n0r1sk/dockproc) - I/O monitoring for containers on processlevel.
 
 *   [dockprom (⭐6.5k)](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager.
@@ -237,13 +239,15 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 *   [Logspout (⭐4.7k)](https://github.com/gliderlabs/logspout) :ice\_cube: - Log routing for Docker container logs.
 
+*   [Maintenant (⭐83)](https://github.com/kolapsis/maintenant) - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By [kolapsis](https://github.com/kolapsis).
+
 *   [monit-docker (⭐34)](https://github.com/decryptus/monit-docker) :ice\_cube: - Monitor docker containers resources usage or status and execute docker commands or inside containers. \[decryptus]\[decryptus].
 
 *   [NexClipper (⭐565)](https://github.com/NexClipper/NexClipper) :ice\_cube: - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes.
 
 *   [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack (⭐539)](https://github.com/uschtwill/docker_monitoring_logging_alerting) :ice\_cube: - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in [Automated Nginx Reverse Proxy (jwilder's)][nginxproxy].
 
-*   [Sidekick](https://github.com/runsidekick/sidekick) :ice\_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
+*   [Sidekick (⭐1.6k)](https://github.com/runsidekick/sidekick) :ice\_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
 
 *   [SwarmAlert (⭐22)](https://github.com/gpulido/SwarmAlert) :ice\_cube: - Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.
 
@@ -256,7 +260,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [Calico][calico] - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 *   [Flannel (⭐9.4k)](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [coreos][coreos].
 *   [Freeflow (⭐632)](https://github.com/Microsoft/Freeflow) :ice\_cube: - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By [Microsoft](https://github.com/Microsoft).
-*   [MyIP (⭐9.8k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
+*   [MyIP (⭐9.9k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
 *   [netshoot (⭐10k)](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues.
 *   [Pipework (⭐4.3k)](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [jpetazzo][jpetazzo].
 
@@ -288,7 +292,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [Empire (⭐2.7k)](https://github.com/remind101/empire) :ice\_cube: - A PaaS built on top of Amazon EC2 Container Service (ECS).
 *   [Exoframe (⭐1.1k)](https://github.com/exoframejs/exoframe) - A self-hosted tool that allows simple one-command deployments using Docker.
 *   [Hephy Workflow (⭐419)](https://github.com/teamhephy/workflow) :ice\_cube: - Open source PaaS for Kubernetes that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications. Fork of [Deis Workflow (⭐1.3k)](https://github.com/deis/workflow).
-*   [Krane](https://github.com/krane/krane) :ice\_cube: - Toolset for managing container workloads on remote servers.
+*   [Krane (⭐82)](https://github.com/krane/krane) :ice\_cube: - Toolset for managing container workloads on remote servers.
 *   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) :ice\_cube: - :yen: An application development platform that creates local environments that can then be deployed and scaled in the cloud.
 *   [OpenShift][openshift] - An open source PaaS built on [Kubernetes][kubernetes] and optimized for Dockerized app development and deployment by [Red Hat](https://www.redhat.com/en)
 *   [Tsuru (⭐5.3k)](https://github.com/tsuru/tsuru) - Tsuru is an extensible and open source Platform as a Service software.
@@ -301,7 +305,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [Docker Dnsmasq Updater (⭐35)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
 *   [docker-flow-proxy (⭐320)](https://github.com/docker-flow/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [docker-flow][docker-flow].
 *   [fabio (⭐7.3k)](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [magiconair](https://github.com/magiconair) (Frank Schroeder).
-*   [idle-less](https://github.com/tvup/idle-less) - Reverse proxy with automatic Wake-on-LAN — wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By [tvup](https://github.com/tvup).
+*   [idle-less (⭐13)](https://github.com/tvup/idle-less) - Reverse proxy with automatic Wake-on-LAN — wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By [tvup](https://github.com/tvup).
 *   [Let's Encrypt Nginx-proxy Companion (⭐7.7k)](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By [JrCs](https://github.com/JrCs).
 *   [mesh-router (⭐9)](https://github.com/Yundera/mesh-router) - Free domain(nsl.sh) provider for Docker containers with automatic HTTPS routing. Uses Wireguard VPN to securely route subdomain requests across networks. Ideal for self-hosted NAS and cloud deployments. By [Yundera](https://github.com/Yundera).
 *   [Nginx Proxy Manager (⭐32k)](https://github.com/jc21/nginx-proxy-manager) - A beautiful web interface for proxying web based services with SSL. By [jc21](https://github.com/jc21).
@@ -314,9 +318,9 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 *   [cri-o (⭐5.6k)](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface by [cri-o](https://github.com/cri-o).
 *   [lxc (⭐5.1k)](https://github.com/lxc/lxc) - LXC - Linux Containers.
-*   [podman](https://github.com/containers/libpod) - Libpod is a library used to create container pods. Home of Podman.
+*   [podman (⭐31k)](https://github.com/containers/libpod) - Libpod is a library used to create container pods. Home of Podman.
 *   [rlxc (⭐18)](https://github.com/brauner/rlxc) :ice\_cube: - LXC binary written in Rust.
-*   [runtime-tools](https://github.com/opencontainers/runtime-tools) - Oci-runtime-tool is a collection of tools for working with the OCI runtime specification.
+*   [runtime-tools (⭐475)](https://github.com/opencontainers/runtime-tools) - Oci-runtime-tool is a collection of tools for working with the OCI runtime specification.
 
 ### Security
 
@@ -330,26 +334,26 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [CIS Docker Benchmark (⭐524)](https://github.com/dev-sec/cis-docker-benchmark) :ice\_cube: - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [dev-sec](https://github.com/dev-sec).
 *   [Clair (⭐11k)](https://github.com/quay/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [coreos][coreos].
 *   [crowdsec-blocklist-import (⭐178)](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By [wolffcatskyy](https://github.com/wolffcatskyy).
-*   [Dagda](https://github.com/eliasgranderubio/dagda) :ice\_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [eliasgranderubio](https://github.com/eliasgranderubio).
+*   [Dagda (⭐1.2k)](https://github.com/eliasgranderubio/dagda) :ice\_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [eliasgranderubio](https://github.com/eliasgranderubio).
 *   [Deepfence Enterprise](https://deepfence.io) - :yen: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
 *   [Deepfence Threat Mapper (⭐5.2k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
 *   [docker-bench-security (⭐9.6k)](https://github.com/docker/docker-bench-security) - Script that checks for dozens of common best-practices around deploying Docker containers in production. By [docker][docker].
 *   [docker-explorer (⭐553)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions.
 *   [dvwassl (⭐6)](https://github.com/Peco602/dvwassl) :ice\_cube: - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [Peco602][peco602].
-*   [KICS](https://github.com/checkmarx/kics) - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By [Checkmarx](https://github.com/Checkmarx).
-*   [oscap-docker](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By [OpenSCAP](https://github.com/OpenSCAP).
+*   [KICS (⭐2.6k)](https://github.com/checkmarx/kics) - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By [Checkmarx](https://github.com/Checkmarx).
+*   [oscap-docker (⭐1.7k)](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By [OpenSCAP](https://github.com/OpenSCAP).
 *   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) - :yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
-*   [segspec (⭐13)](https://github.com/dormstern/segspec) - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [dormstern](https://github.com/dormstern).
+*   [segspec (⭐15)](https://github.com/dormstern/segspec) - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [dormstern](https://github.com/dormstern).
 *   [Syft (⭐8.5k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 *   [Sysdig Falco (⭐8.7k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 *   [Sysdig Secure](https://www.sysdig.com/solutions/cloud-detection-and-response-cdr) - :yen: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.
 *   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) - :yen: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.
-*   [Trivy (⭐32k)](https://github.com/aquasecurity/trivy) - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
+*   [Trivy (⭐33k)](https://github.com/aquasecurity/trivy) - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
 
 ### Service Discovery
 
 *   [docker-consul (⭐1.1k)](https://github.com/gliderlabs/docker-consul) by [progrium][progrium]
-*   [docker-dns](https://github.com/bytesharky/docker-dns) - Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. `.docker`) on the host to simplify service discovery.
+*   [docker-dns (⭐3)](https://github.com/bytesharky/docker-dns) - Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. `.docker`) on the host to simplify service discovery.
 *   [etcd (⭐52k)](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [etcd-io](https://github.com/etcd-io) (former part of CoreOS).
 *   [istio (⭐38k)](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices.
 *   [registrator (⭐4.7k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [gliderlabs][gliderlabs] and [progrium][progrium].
@@ -403,10 +407,10 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [DockSTARTer (⭐2.5k)](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker by [GhostWriters](https://github.com/GhostWriters).
 *   [dprs (⭐36)](https://github.com/durableprogramming/dprs) - A developer-focused TUI for managing Docker containers with real-time log streaming and container management. Built with Rust. By [durableprogramming](https://github.com/durableprogramming).
 *   [dry (⭐3.2k)](https://github.com/moncho/dry) - An interactive CLI for Docker containers.
-*   [goManageDocker](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box.
+*   [goManageDocker (⭐633)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box.
 *   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [jesseduffield](https://github.com/jesseduffield).
 *   [lazyjournal (⭐1.2k)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/dozzle) but for the terminal with support for fuzzy find, regex and output coloring.
-*   [oxker (⭐1.5k)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui (⭐19k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐1.2k)](https://github.com/fussybeaver/bollard),.
+*   [oxker (⭐1.6k)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui (⭐19k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐1.2k)](https://github.com/fussybeaver/bollard),.
 
 ##### CLI tools
 
@@ -450,12 +454,12 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 *   [MultiDocker (⭐56)](https://github.com/marty90/multidocker) :ice\_cube: - Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
-*   [Powerline-Docker](https://github.com/adrianmo/powerline-docker) :ice\_cube: - A Powerline segment for showing the status of Docker containers.
+*   [Powerline-Docker (⭐61)](https://github.com/adrianmo/powerline-docker) :ice\_cube: - A Powerline segment for showing the status of Docker containers.
 
 #### Web
 
 *   [Arcane (⭐5k)](https://github.com/getarcaneapp/arcane) - An easy and modern Docker management platform, built with everybody in mind. By [getarcaneapp](https://github.com/getarcaneapp).
-*   [CASA](https://github.com/knrdl/casa) - Outsource the administration of a handful of containers to your co-workers,.
+*   [CASA (⭐84)](https://github.com/knrdl/casa) - Outsource the administration of a handful of containers to your co-workers,.
 *   [Container Web TTY (⭐258)](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty [wrfly](https://github.com/wrfly).
 *   [dockemon (⭐759)](https://github.com/ProductiveOps/dokemon) :ice\_cube: - Docker Container Management GUI.
 *   [Docker Registry Browser (⭐676)](https://github.com/klausmeyer/docker-registry-browser) - Web Interface for the Docker Registry HTTP API v2.
@@ -464,16 +468,16 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [dockge (⭐22k)](https://github.com/louislam/dockge) - Easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
 *   [Komodo (⭐11k)](https://github.com/mbecker20/komodo) - A tool to build and deploy software on many servers.
 *   [Kubevious (⭐1.7k)](https://github.com/kubevious/kubevious) :ice\_cube: - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.
-*   [Mafl (⭐671)](https://github.com/hywax/mafl) - Minimalistic flexible homepage.
+*   [Mafl (⭐676)](https://github.com/hywax/mafl) - Minimalistic flexible homepage.
 *   [netdata (⭐78k)](https://github.com/netdata/netdata) - Real-time performance monitoring.
-*   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/OctoLinker) :ice\_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
+*   [OctoLinker (⭐5.3k)](https://github.com/OctoLinker/OctoLinker) :ice\_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
 *   [Portainer (⭐37k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters.
-*   [Rapid Dashboard](https://github.com/ozlerhakan/rapid) :ice\_cube: - A simple query dashboard to use Docker Remote API.
+*   [Rapid Dashboard (⭐147)](https://github.com/ozlerhakan/rapid) :ice\_cube: - A simple query dashboard to use Docker Remote API.
 *   [Seagull (⭐1.9k)](https://github.com/tobegit3hub/seagull) :ice\_cube: - Friendly Web UI to monitor docker daemon.
 *   [Swarmpit (⭐3.4k)](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
 *   [Swirl (⭐668)](https://github.com/cuigh/swirl) :ice\_cube: - Swirl is a web management tool for Docker, focused on swarm cluster By [cuigh](https://github.com/cuigh/).
 *   [Theia (⭐21k)](https://github.com/eclipse-theia/theia) - Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
-*   [usulnet (⭐63)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [fr4nsys](https://github.com/fr4nsys).
+*   [usulnet (⭐81)](https://github.com/fr4nsys/usulnet) - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [fr4nsys](https://github.com/fr4nsys).
 
 ## Docker Images
 
@@ -619,7 +623,7 @@ Services to securely store your Docker images.
 *   [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 *   [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
 *   [Docket (⭐709)](https://github.com/netvarun/docket) :ice\_cube: - Custom docker registry that allows for lightning fast deploys through bittorrent.
-*   [Dragonfly (⭐3k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
+*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 *   [GCP Artifact Registry :yen:](https://cloud.google.com/artifact-registry/docs) Fast, private Docker image storage on Google Cloud Platform.
 *   [Gitea Container Registry](https://docs.gitea.com/usage/packages/container) - Integrated Docker registry in Gitea, ideal for private, small-scale image hosting.
 *   [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry) - GitHub's solution for storing and managing Docker images, with tight integration into GitHub Actions.
@@ -815,7 +819,7 @@ Services to securely store your Docker images.
 *   [Awesome Compose (⭐44k)](https://github.com/docker/awesome-compose) - Docker Compose samples.
 *   [Awesome Kubernetes (⭐16k)](https://github.com/ramitsurana/awesome-kubernetes) by [ramitsurana][ramitsurana]
 *   [Awesome Linux Container (⭐2k)](https://github.com/Friz-zy/awesome-linux-containers) more general about container than this repo, by [Friz-zy](https://github.com/Friz-zy).
-*   [Awesome Selfhosted (⭐276k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [Kickball](https://github.com/Kickball)
+*   [Awesome Selfhosted (⭐280k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [Kickball](https://github.com/Kickball)
 *   [Awesome Sysadmin (⭐33k)](https://github.com/n1trux/awesome-sysadmin) by [n1trux](https://github.com/n1trux)
 *   [ToolsOfTheTrade (⭐17k)](https://github.com/cjbarber/ToolsOfTheTrade) a list of SaaS and On premise applications by [cjbarber](https://github.com/cjbarber)
 

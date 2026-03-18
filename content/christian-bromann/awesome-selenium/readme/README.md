@@ -12,7 +12,7 @@ A curated list of delightful Selenium resources.
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
@@ -98,6 +98,8 @@ Inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) lis
 *   [WebdriverCSS (⭐610)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 *   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
+
+*   [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
 ### Containers
 

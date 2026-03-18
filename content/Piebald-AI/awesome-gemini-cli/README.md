@@ -6,6 +6,21 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Mar 18, 2026](/content/2026/03/18/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
+
+### Commands & Extensions
+
+*   [ATXP (⭐7)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
+
+### Development Tools & Utilities
+
+*   [agnix (⭐102)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+*   [Gemini Dockerized CLI (⭐3)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
+
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
 ### Agent Orchestration & CLI Tools
@@ -39,12 +54,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Agent Orchestration & CLI Tools
 
 *   [hcom (⭐124)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
-
-## [Feb 12, 2026](/content/2026/02/12/README.md)
-
-### Development Tools & Utilities
-
-*   [**agnix**](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 
 ## [Feb 05, 2026](/content/2026/02/05/README.md)
 
@@ -97,12 +106,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Documentation & Examples
 
 *   [Gemini CLI Tips by Addy Osmani (⭐2.3k)](https://github.com/addyosmani/gemini-cli-tips) - \~30 pro-tips for effectively using Gemini CLI for agentic coding.
-
-## [Nov 28, 2025](/content/2025/11/28/README.md)
-
-### Development Tools & Utilities
-
-*   [**Gemini Dockerized CLI**](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 
 ## [Nov 27, 2025](/content/2025/11/27/README.md)
 

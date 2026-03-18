@@ -1,12 +1,107 @@
 # Awesome List Updates on Mar 23 - Mar 29, 2026
 
-30 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Maritime / GitHub
+
+*   [Hormuz Tracker (⭐1)](https://github.com/johnsmalls22-rgb/hormuz-tracker) - Real-time Strait of Hormuz vessel tracking with AIS data, dark ship detection, oil prices, and carrier positions.
+
+### Threat Intelligence / GitHub
+
+*   [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
+
+## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+
+### CSS Regression Testing / Dart
+
+*   [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
+
+## [3. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+
+### Language Essentials / Data Structure and Algorithm
+
+*   [OrlovEvgeny/lo.zig (⭐19)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / IDEs
+
+*   [Nimbalyst](https://nimbalyst.com/) - A visual workspace for managing AI coding sessions, tasks, and project files.
+
+### Design and Product / Screen Recording
+
+*   [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
+
+### AI Client / Other Tools
+
+*   [Fazm](https://fazm.ai) - Open-source, voice-controlled AI computer agent that controls your entire macOS desktop through natural language. Any app, file, or workflow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/m13v/fazm)
+
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Tools & Software / Utilities
+
+*   [bagnabit2warc (⭐0)](https://github.com/internetarchive/bagnabit2warc) - Convert a [bag-nabit (⭐37)](https://github.com/harvard-lil/bag-nabit) dataset stored in a ZIP into a full-content WARC.
+
+## [6. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+
+### Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
+
+*   The information, links and resources provided here are for educational and informational purposes only, and not intended to be a substitute for professional veterinary advice, diagnosis, or treatment.
+*   Always seek the advice of your veterinarian or other qualified animal health provider with any questions you may have regarding a medical condition or the health of your animal.
+*   Never disregard professional veterinary advice or delay in seeking it because of something you have read in this material.
+*   If you think your animal has a medical emergency, call or visit your veterinarian or local animal hospital immediately.
+*   Do not self-medicate your animal, always consult a veterinarian for medical advice and treatment.
+
+### Common Resources for all animals / Care & Treatment
+
+*   [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. ***Intended only for non-emergency animal health queries.***
+
+### Cats / Cat Books
+
+*   🆓 Essential Guides by Cats Protection:
+    *   [🆓 Essential Guide 1, Caring for your cat - Cats Protection](https://www.cats.org.uk/media/rvpf24h5/caring-for-your-cat-2025.pdf)
+    *   [🆓 Essential Guide 2, Bringing your cat home - Cats Protection](https://www.cats.org.uk/media/cypfc3nz/bringing-your-cat-home-2025.pdf)
+    *   [🆓 Essential Guide 3, Moving house - Cats Protection](https://www.cats.org.uk/media/4krfpztk/moving-house-2025.pdf)
+    *   [🆓 Essential Guide 4, Feeding and obesity - Cats Protection](https://www.cats.org.uk/media/s1ffaczy/feeding-and-obesity-2025.pdf)
+    *   [🆓 Essential Guide 5, Keeping your cat safe - Cats Protection](https://www.cats.org.uk/media/d4nfuqsi/keeping-your-cat-safe-2025.pdf)
+    *   [🆓 Essential Guide 6, End of life, grief and loss - Cats Protection](https://www.cats.org.uk/media/t0hnrau1/end-of-life-grief-and-loss-2025.pdf)
+    *   [🆓 Essential Guide 7, Microchipping - Cats Protection](https://www.cats.org.uk/media/mujlzm13/microchipping-2025.pdf)
+    *   [🆓 Essential Guide 8, Neutering - Cats Protection](https://www.cats.org.uk/media/sn5dd54p/neutering-2025.pdf)
+    *   [🆓 Essential Guide 9, Understanding your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/qaklxqm5/understanding-cat-behaviour-2025.pdf)
+    *   [🆓 Essential Guide 10, Managing your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/lbdflus5/managing-cat-behaviour-2025.pdf)
+    *   [🆓 Essential Guide 11, Cats living together - Cats Protection](https://www.cats.org.uk/media/bhlj1ntp/cats-living-together-2025.pdf)
+    *   [🆓 Essential Guide 12, Indoor and outdoor cats - Cats Protection](https://www.cats.org.uk/media/ed1bri0v/indoor-and-outdoor-cats-2025.pdf)
+    *   [🆓 Essential Guide 13, Elderly cats - Cats Protection](https://www.cats.org.uk/media/dkqjvau1/elderly-cats-2025.pdf)
+    *   [🆓 Essential Guide 14, Cats and people - Cats Protection](https://www.cats.org.uk/media/3x0dv5pr/cats-and-people-2025.pdf)
+    *   [🆓 Essential Guide 15, Caring for your kitten - Cats Protection](https://www.cats.org.uk/media/1ecfurys/caring-for-your-kitten-2025.pdf)
+    *   [🆓 Essential Guide 16, Feral cats - Cats Protection](https://www.cats.org.uk/media/ik0k4xe2/feral-cats-2025.pdf)
+    *   [🆓 Essential Guide 17, Pregnant cats, birth and the care of young kittens](https://www.cats.org.uk/media/vtfjwa3l/pregnant-cats-2025.pdf)
+
+### Horses / Horse Care & Treatment
+
+*   [Basic Horse Care Guide for Beginners - Daily Checklist](https://madbarn.com/basic-horse-care-guide/) - Covers most aspects of horse care from diet and veterinary care, to shelter access daily oversight. Also has an option to download the content as a free PDF.
+
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tools / Community providers
+
+*   [redc (⭐134)](https://github.com/wgpsec/redc) - Next-generation red team infrastructure automation tool built on Terraform, supporting multi-cloud deployment (Alibaba Cloud, Tencent Cloud, AWS, etc.) with one-command deployment for creating, configuring, and destroying red team environments.
+*   [ReleaseRun Terraform Security Scanner](https://releaserun.com/tools/terraform-security/) - Free browser-based scanner for `.tf` files. Checks hardcoded credentials, open ports to 0.0.0.0/0, public S3/RDS, unencrypted storage, missing deletion\_protection. A-F grade. No install required.
+
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Monitoring
+
+*   [DockProbe (⭐2)](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, \~50MB RAM. By [DeepOn](https://github.com/deep-on).
+*   [Maintenant (⭐83)](https://github.com/kolapsis/maintenant) - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By [kolapsis](https://github.com/kolapsis).
+
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Google Fonts Replacements
 
@@ -16,7 +111,7 @@
 
 *   [OpenWhispr (⭐1.9k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
 
-## [2. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [10. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -50,25 +145,25 @@
 *   [Pick Up Limes](https://www.youtube.com/c/PickUpLimes) - Nutritious plant-based recipes with a focus on balanced eating and meal prep
 *   [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Flavorful vegan recipes inspired by global cuisines
 
-## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [11. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Benedictum (⭐3)](https://github.com/Beneking102/benedictum) - Latin-themed Brainfuck derivative where source code reads as prayer.
 
-## [4. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [12. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Tutorials
 
 *   [LibVLC LLM Skill (⭐2)](https://github.com/mfkl/libvlc-skill) - A Claude Code plugin that gives AI coding assistants deep knowledge of the libvlc API (both 3.x and 4.x), the multimedia framework behind VLC media player.
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tools
 
 *   [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Internet of Things (IoT)
 
@@ -78,13 +173,13 @@
 
 *   [MKVPriority (⭐59)](https://github.com/kennethsible/mkvpriority) - Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. `MIT` `Python/Docker`
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [15. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Godot Shader Warmup (⭐6)](https://github.com/Koisuji02/GodotShaderWarmup) - Extension for pre-warming shaders at startup to prevent runtime stuttering caused by shader compilation (works well also integrated with [engine shader baker](https://docs.godotengine.org/en/stable/tutorials/performance/pipeline_compilations.html#shader-baker); see `report.pdf` in the repository to view results).
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Starforged
 
@@ -94,19 +189,19 @@
 
 *   [Condensed Truths](https://jaderavens.itch.io/condensed-truths) - Single-page truths worksheets for Ironsworn, Starforged & Sundered Isles
 
-## [9. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
 *   :free: [Quaternius](https://quaternius.com/) - Thousands of free CC0 low-poly 3D models and animated characters.
 
-## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### C Libraries
 
 *   [UltrafastSecp256k1 (⭐20)](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [19. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -125,7 +220,7 @@
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 *   **write-good** :warning: — A linter with a focus on eliminating "weasel words".
 
-## [12. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [20. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### AI / ChatGPT
 
@@ -245,23 +340,29 @@
 
 *   [ELinks](http://elinks.cz/) - Fork of ELinks, feature-rich text mode web browser(http, ftp); Can render both frames and tables, it's customizable and can be extended via scripts.
 
-## [13. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [topjohnwu/Magisk (⭐59k)](https://github.com/topjohnwu/Magisk) - A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications
 
+### Applications / Web
+
+*   [janreges/siteone-crawler (⭐691)](https://github.com/janreges/siteone-crawler) \[[siteone-crawler](https://crates.io/crates/siteone-crawler)] - All-in-one
+    website crawler, auditor, offline archiver, and AI-ready markdown exporter with CI/CD quality gating
+    [![CI](https://github.com/janreges/siteone-crawler/workflows/CI/badge.svg)](https://github.com/janreges/siteone-crawler/actions)
+
 ### Development tools / Workflow Automation
 
 *   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 
-## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [23. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Guidelines
 
@@ -283,7 +384,7 @@
 
 *   [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 
-## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [24. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Ground segmentation
 
@@ -292,13 +393,33 @@
     *   [ROS2 integration ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐74)](https://github.com/dfki-ric/ground_segmentation_ros2) ![](https://img.shields.io/github/stars/dfki-ric/ground_segmentation_ros2?color=yellow\&style=flat-square\&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
     *   [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/watch?v=GXLTOoJbOhQ)
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### [Usepkg](https://github.com/gynamics/zsh-usepkg)
+
+*   `zsh`
+*   `git` (optional, if you want to clone git repositories from internet)
+*   `curl` (optional, if you want to fetch a script file by url)
+
+### [zinit-4](https://github.com/psprint/Zinit-4)
+
+*   Action complete – press `Alt-Shift-A` and `Alt-Shift-C` to complete plugin names and ice modifiers,
+*   Themes – set `$ZITHEM`E to one of default, blue and gold to set a color set to use for Zinit 4 messages,
+
+### [zshing](https://github.com/zakariaGatter/zshing)
+
+*   Keep track of and configure your plugins right in your `~/.zshrc`
+
+### Prerequisites
+
+*   [Monaspace (⭐19k)](https://github.com/githubnext/monaspace) - Monaspace is five interchangable type families, each of which is packaged into three distinct formats. You can install all of them side-by-side; their family names are distinct by family and format.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [expand-space (⭐0)](https://github.com/spqw/zsh-alias-expand-space) - Expand command-position `zsh` aliases when you press space.
 *   [paste-guard (⭐0)](https://github.com/stefanoamorelli/zsh-paste-guard) - Detects pasted commands and requires a confirmation phrase before execution to prevent clipboard injection attacks (MITRE ATT\&CK T1204.004). Reads confirmation from `/dev/tty` so attackers cannot embed the confirmation in the payload.
 
-## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [26. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Chat
 
@@ -431,13 +552,13 @@
 
 *   [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 
-## [19. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [27. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Blockchain and Rewards
 
 *   [x402-proxy (⭐1)](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 
-## [20. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [28. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Email
 
@@ -447,7 +568,7 @@
 
 *   [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
 
-## [21. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [29. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
@@ -461,7 +582,11 @@
 
 *   [HighReach](https://highreach.ai/) - Generates platform-ready video, image, and UGC ad creatives from product URLs for Meta, TikTok, and Google. `#paid`
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [goai (⭐0)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 
 ### Configuration
 
@@ -487,26 +612,26 @@
 
 *   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
 
-## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [Agno (⭐39k)](https://github.com/agno-agi/agno) - Open-source Python library for building AI agents and agentic systems.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [JavaScript Info](https://javascript.info) - Modern JavaScript tutorial with simple explanations.
 
-## [25. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [33. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [Mer-cli (⭐6)](https://github.com/iotmertech/iot-data-generator) - A high-performance IoT data generator written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads with Handlebars templates.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -516,7 +641,7 @@
 
 *   [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
 
-## [27. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -543,7 +668,7 @@
 
 *   [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -570,17 +695,27 @@
 *   [Bread Dataset Viewer (⭐2)](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 *   [Bread WandB Viewer (⭐3)](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 
-## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Search
 
 *   [Cake/Elasticsearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 
-## [30. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [38. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
+*   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
 *   [Untether (⭐7)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
+
+### Commands & Extensions
+
+*   [ATXP (⭐7)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
+
+### Development Tools & Utilities
+
+*   [agnix (⭐102)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+*   [Gemini Dockerized CLI (⭐3)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 
 ---
 
