@@ -2875,7 +2875,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goback (⭐50)](https://github.com/carlescere/goback) - Go simple exponential backoff package.
 *   [goctx (⭐10)](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 *   [godaemon (⭐495)](https://github.com/VividCortex/godaemon) - Utility to write daemons.
-*   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 *   [godropbox (⭐4.2k)](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
 *   [gofn (⭐51)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 *   [golarm (⭐54)](https://github.com/msempere/golarm) - Fire alarms with system events.
@@ -3565,6 +3565,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoDays](https://www.godays.io/) - Berlin, Germany.
 *   [GoLab](https://golab.io/) - Florence, Italy.
 *   [GopherCon](https://www.gophercon.com/) - Varied Locations Each Year, USA.
+*   [GopherCon Africa](https://gophercon.africa/) - Nairobi, Kenya.
 *   [GopherCon Australia](https://gophercon.com.au/) - Sydney, Australia.
 *   [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, Brazil.
 *   [GopherCon China](https://gophercon.com.cn) - Shanghai, China.

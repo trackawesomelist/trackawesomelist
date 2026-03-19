@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### Security and PKI
+
+*   [IntoDNS.ai](https://intodns.ai) — DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
+
 ### Email
 
 *   [EmailGuard](https://emailguard.lazrek.net/) — Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.

@@ -1,33 +1,53 @@
 # Awesome List Updates on Mar 19, 2026
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [glzr-io/glazewm (⭐12k)](https://github.com/glzr-io/glazewm) - A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Security and PKI
+
+*   [IntoDNS.ai](https://intodns.ai) — DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
+
+## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+### Software / Monitoring & Status Pages
+
+*   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.8k)](https://github.com/cstate/cstate))
+*   [CheckCle](https://checkcle.io) - Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ([Source Code (⭐2.4k)](https://github.com/operacle/checkcle)) `MIT` `Docker`
+*   [Gatus](https://gatus.io) - Automated service health dashboard. ([Demo](https://status.twin.sh), [Source Code (⭐10k)](https://github.com/TwiN/gatus)) `Apache-2.0` `Docker/K8S`
+*   [Kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Source Code (⭐4.8k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
+*   [KuvaszUptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. ([Demo](https://kuvasz-uptime.dev/demo/), [Source Code (⭐502)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
+*   [Nezha](https://nezha.wiki/en_US/) - Lightweight, servers & websites monitoring and O\&M tool. ([Source Code (⭐9.8k)](https://github.com/nezhahq/nezha)) `Apache-2.0` `Go/Shell`
+*   [OneUptime](https://oneuptime.com) - A comprehensive solution for monitoring and managing your online services. ([Source Code (⭐6.7k)](https://github.com/oneuptime/oneuptime)) `Apache-2.0` `Docker`
+
+## [4. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Productivity
 
 *   [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/johannesjo/super-productivity)
 
-## [2. Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/README.md)
+## [5. Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/README.md)
 
 ### Development / Quality Check
 
 *   [PHP Code Sniffer (⭐1.5k)](https://github.com/PHPCSStandards/PHP_CodeSniffer)
     *   [PHP Laravel Code Sniffer Rule (⭐40)](https://github.com/PatricNox/laravel-phpcs)
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Live Cyber Threat Maps
 
 *   [World Monitor Tech](https://tech.worldmonitor.app) - Live cyber threat intelligence dashboard combining CISA advisories, active malware campaigns, CVE feeds, and global cyber event heatmaps alongside geopolitical and military context.
-
-### Domain and IP Research / GitHub
-
-*   [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 
 ### Geospatial Research and Mapping Tools / GitHub
 
@@ -37,13 +57,17 @@
 
 *   [OpenGraph Intel (OGI) (⭐76)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Advanced Console UIs
 
 *   [loom (⭐75)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon Africa](https://gophercon.africa/) - Nairobi, Kenya.
+
+## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Radio
 
@@ -57,13 +81,13 @@
 
 *   [100 Days 100 IoT Projects (⭐274)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### AI and Agents
 
 *   [agno (⭐39k)](https://github.com/agno-agi/agno) - Open-source Python library for building AI agents and agentic systems.
 *   [autoresearch (⭐42k)](https://github.com/karpathy/autoresearch) - AI agents running autonomous research experiments on single-GPU LLM training.
-*   [instructor (⭐12k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
+*   [instructor (⭐13k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
 *   [langchain (⭐130k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 *   [llama\_index (⭐48k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
 *   [praisonai (⭐5.7k)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
@@ -350,7 +374,7 @@
 
 *   [uwsgi (⭐3.5k)](https://github.com/unbit/uwsgi) - A project aims at developing a full stack for building hosting services, written in C.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -513,7 +537,11 @@
 
 
 
-## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### How-to guides
+
+*   [Fix slow Libreoffice](https://forum.qubes-os.org/t/fix-slow-libreoffice/38035) - Help libre office work faster.
 
 ### VM-Hardening
 
@@ -524,7 +552,7 @@
 *   [Mullvad VPN setup guide 4.3](https://forum.qubes-os.org/t/mullvad-vpn-app-4-3-and-4-2-setup-guide/25107) - This guide explains how to setup a VPN with Mullvad app on Qubes OS 4.2 and Qubes 4.3 using a Fedora template.
 *   [Mullvad VPN AppVM](https://privsec.dev/posts/qubes/using-mullvad-vpn-on-qubes-os/) - Create a Mullvad VPN AppVM
 
-## [9. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
+## [12. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
 
 ### Common Resources for all animals / Books
 
@@ -586,13 +614,13 @@
 *   [The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf)
 *   [The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf)
 
-## [10. Magictools](/content/ellisonleao/magictools/README.md)
+## [13. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [steamworks-ffi-node (⭐39)](https://github.com/ArtyProf/steamworks-ffi-node) - a Node.js wrapper for Steamworks SDK.
 
-## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Shell Utilities
 
@@ -602,19 +630,19 @@
 
 *   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 
-## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [15. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Agents
 
 *   [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### ASP.NET
 
 *   [ASP.NET MVC Music Store](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/mvc-music-store/mvc-music-store-part-1)
 
-## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [17. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Commands & Extensions
 

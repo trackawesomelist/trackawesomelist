@@ -126,6 +126,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Reverse Tethering & Screen Mirroring Qube for Android Device](https://forum.qubes-os.org/t/reverse-tethering-screen-mirroring-qube-for-android-device/28920) - Control your Android Device from Qubes OS while providing Network to the Android Device.
 *   [How to migrate qubes to a new computer ](https://forum.qubes-os.org/t/how-to-efficiently-migrate-qubes-to-a-new-computer-with-a-direct-network-connection/23203/2) - How to efficiently migrate qubes to a new computer with a direct network connection
 *   [USB MFP printer/scanner](https://forum.qubes-os.org/t/how-to-get-a-usb-mfp-printer-scanner-working-in-r4-2/24520) - How to get a USB MFP printer/scanner working in R4.2
+*   [Fix slow Libreoffice](https://forum.qubes-os.org/t/fix-slow-libreoffice/38035) - Help libre office work faster.
 
 ## Templates
 

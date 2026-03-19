@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [loom (⭐75)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon Africa](https://gophercon.africa/) - Nairobi, Kenya.
+
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 
 ### Artificial Intelligence
@@ -151,7 +155,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 

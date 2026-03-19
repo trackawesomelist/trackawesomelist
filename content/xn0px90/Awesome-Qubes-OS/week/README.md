@@ -8,6 +8,10 @@ A curated list of awesome qubes os links
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### How-to guides
+
+*   [Fix slow Libreoffice](https://forum.qubes-os.org/t/fix-slow-libreoffice/38035) - Help libre office work faster.
+
 ### VM-Hardening
 
 *   [Apparmor profile](https://forum.qubes-os.org/t/apparmor-profile-for-qubes-available/38891) - Create Apparmor profile.

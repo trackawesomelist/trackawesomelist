@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 19, 2026](/content/2026/03/19/README.md)
+
+### Security and PKI
+
+*   [IntoDNS.ai](https://intodns.ai) — DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Forms

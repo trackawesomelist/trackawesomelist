@@ -48,6 +48,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [ahocorasick (⭐4)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
 
+### Conferences / Libraries for creating HTTP middlewares
+
+*   [GopherCon Africa](https://gophercon.africa/) - Nairobi, Kenya.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Blockchain
@@ -138,7 +142,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
-*   [godoclive (⭐17)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ### Routers / Libraries for creating HTTP middlewares
 

@@ -136,7 +136,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 ## Applications
 
-*   [ad-si/Woxi (⭐511)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+*   [ad-si/Woxi (⭐551)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 *   [alacritty (⭐63k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 *   [Andromeda (⭐791)](https://github.com/tryandromeda/andromeda) - JavaScript & TypeScript runtime built from the ground up in Rust 🦀 and powered by The Nova Engine.
 *   [arimxyer/models (⭐262)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
@@ -152,6 +152,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [fcsonline/drill (⭐2.3k)](https://github.com/fcsonline/drill) - A HTTP load testing application inspired by Ansible syntax
 *   [fend (⭐963)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend/actions/workflows/actions.yml)
 *   [Fractalide (⭐890)](https://github.com/fractalide/fractalide) - Simple microservices
+*   [glzr-io/glazewm (⭐12k)](https://github.com/glzr-io/glazewm) - A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands
 *   [google/mdbook-i18n-helpers (⭐205)](https://github.com/google/mdbook-i18n-helpers) \[[mdbook-i18n-helpers](https://crates.io/crates/mdbook-i18n-helpers)] - Internationalization and rendering extensions for mdbook.
 *   [habitat (⭐2.8k)](https://github.com/habitat-sh/habitat) - A tool created by Chef to build, deploy, and manage applications.
 *   [Herd (⭐118)](https://github.com/imjacobclark/Herd) - an experimental HTTP load testing application
@@ -658,7 +659,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [gchp/iota (⭐1.7k)](https://github.com/gchp/iota) - A simple text editor
 *   [helix (⭐43k)](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 *   [ilai-deutel/kibi (⭐1.9k)](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/actions/workflows/ci.yml/badge.svg)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
-*   [Inkwell (⭐64)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+*   [Inkwell (⭐100)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 *   [ki-editor/ki-editor (⭐802)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
 *   [Lapce (⭐38k)](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 *   [mathall/rim (⭐629)](https://github.com/mathall/rim) - Vim-like text editor.
@@ -787,7 +788,7 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [ATAC (⭐3.5k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐3.2k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 *   [biome (⭐24k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
-*   [block/goose (⭐32k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [block/goose (⭐33k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
 *   [cachix/devenv (⭐6.5k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
 *   [clog-tool/clog-cli (⭐906)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
@@ -809,8 +810,8 @@ See also [A comparison of operating systems written in Rust (⭐838)](https://gi
 *   [git-journal (⭐644)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
 *   [hot-lib-reloader (⭐739)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
-*   [j178/prek (⭐6.7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
-*   [jj-vcs/jj (⭐26k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
+*   [j178/prek (⭐7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+*   [jj-vcs/jj (⭐27k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 *   [just (⭐32k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [mask (⭐1.6k)](https://github.com/jacobdeichert/mask) - A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 *   [Module Linker (⭐254)](https://github.com/fiatjaf/module-linker) - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
@@ -1011,7 +1012,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 *   [Bencher (⭐807)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 *   [bheisler/criterion.rs (⭐5.4k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
 *   [Bytehound (⭐4.8k)](https://github.com/koute/bytehound) - A memory profiler for Linux
-*   [cong-or/hud (⭐142)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
+*   [cong-or/hud (⭐147)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 *   [Divan (⭐1.4k)](https://github.com/nvzqz/divan) - Simple yet powerful benchmarking library with allocation profiling
 *   [ellisonch/rust-stopwatch (⭐84)](https://github.com/ellisonch/rust-stopwatch) - A stopwatch library
 *   FlameGraphs
@@ -1128,7 +1129,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [Mottl/lightgb3-rs (⭐50)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
 *   [perpetual-ml/perpetual (⭐664)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 *   [ramsyana/RustTensor (⭐69)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
-*   [raphaelmansuy/edgequake (⭐1.3k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+*   [raphaelmansuy/edgequake (⭐1.5k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 *   [rust-ml/linfa (⭐4.6k)](https://github.com/rust-ml/linfa) - Machine learning framework.
 *   [sipemu/anofox-regression (⭐3)](https://github.com/sipemu/anofox-regression) \[[anofox-regression](https://crates.io/crates/anofox-regression)] - Statistical regression models (OLS, Elastic Net, GLM, Quantile & Isotonic) with R-like inference (p-values, confidence & prediction intervals) and Wasm support.
 *   [smartcorelib/smartcore (⭐897)](https://github.com/smartcorelib/smartcore) - Machine Learning Library \[![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)]
