@@ -10,19 +10,22 @@ List of curated, practical information resources to care for dogs, cats, fishes,
 
 ![Banner image](https://github.com/omkar-foss/awesome-animal-care/raw/main/images/banner.png)
 
-# Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 🐾
+# Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-The goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people.
+Goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people. I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. Hope this list proves useful to all animal lovers!
 
-I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. I hope this list proves useful to all animal lovers!
+**Disclaimer: PLEASE READ THIS BEFORE PROCEEDING**
 
-Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
+*   The information, links and resources provided here are for educational and informational purposes only, and not intended to be a substitute for professional veterinary advice, diagnosis, or treatment.
+*   Always seek the advice of your veterinarian or other qualified animal health provider with any questions you may have regarding a medical condition or the health of your animal.
+*   Never disregard professional veterinary advice or delay in seeking it because of something you have read in this material.
+*   If you think your animal has a medical emergency, call or visit your veterinarian or local animal hospital immediately.
+*   Do not self-medicate your animal, always consult a veterinarian for medical advice and treatment.
 
 ## Contents
 
-*   [Disclaimer: PLEASE READ THIS BEFORE PROCEEDING](#disclaimer-please-read-this-before-proceeding)
 *   [Common Resources for all animals](#common-resources-for-all-animals)
     *   [Books](#books)
     *   [Care & Treatment](#care--treatment)
@@ -58,26 +61,18 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
     *   [Parrot Behaviour & Training](#parrot-behaviour--training)
     *   [Parrot Diet & Nutrition](#parrot-diet--nutrition)
 
-## Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
-
-*   The information, links and resources provided here are for educational and informational purposes only, and not intended to be a substitute for professional veterinary advice, diagnosis, or treatment.
-*   Always seek the advice of your veterinarian or other qualified animal health provider with any questions you may have regarding a medical condition or the health of your animal.
-*   Never disregard professional veterinary advice or delay in seeking it because of something you have read in this material.
-*   If you think your animal has a medical emergency, call or visit your veterinarian or local animal hospital immediately.
-*   Do not self-medicate your animal, always consult a veterinarian for medical advice and treatment.
-
 ## Common Resources for all animals
 
 ### Books
 
 *   [Animal Behavior for Shelter Veterinarians and Staff - Emily Weiss, Heather Mohan-Gibbons, Stephen Zawistowski](https://www.goodreads.com/book/show/24044773-animal-behavior-for-shelter-veterinarians-and-staff)
-*   [🆓 Animal Care and Use Handbook - Virginia State University](https://www.vsu.edu/files/docs/research/vsu-animal-care-handbook.pdf)
-*   [🆓 Guidelines for the design and management of animal shelters - International Companion Animal Coalition](https://www.icam-coalition.org/wp-content/uploads/2017/03/Shelter-guidelines-English.pdf)
-*   [🆓 Highlights of The Guidelines for Standards of Care in Animal Shelters - Association of Shelter Veterinarians](https://www.sheltervet.org/assets/docs/4__Facilities_Final_06AUG2024.pdf)
-*   [🆓 Pet Care Basics - Premier VetCare](https://premiervetcare.co/storage/app/media/PET_CARE_BASICS.pdf)
-*   [🆓 Rescue Group Best Practices Guide - Humane World for Animals](https://humanepro.org/sites/default/files/documents/RescueGroupBestPracticesGuide.pdf)
+*   [Animal Care and Use Handbook - Virginia State University](https://www.vsu.edu/files/docs/research/vsu-animal-care-handbook.pdf)
+*   [Guidelines for the design and management of animal shelters - International Companion Animal Coalition](https://www.icam-coalition.org/wp-content/uploads/2017/03/Shelter-guidelines-English.pdf)
+*   [Highlights of The Guidelines for Standards of Care in Animal Shelters - Association of Shelter Veterinarians](https://www.sheltervet.org/assets/docs/4__Facilities_Final_06AUG2024.pdf)
+*   [Pet Care Basics - Premier VetCare](https://premiervetcare.co/storage/app/media/PET_CARE_BASICS.pdf)
+*   [Rescue Group Best Practices Guide - Humane World for Animals](https://humanepro.org/sites/default/files/documents/RescueGroupBestPracticesGuide.pdf)
 *   [The Best Practice Playbook for Animal Shelters - Sara Pizano, Kate Hurley](https://www.goodreads.com/book/show/45720532-the-best-practice-playbook-for-animal-shelters)
-*   [🆓 Wildlife Rescue Handbook: The First 24 Hours - Wildlife Heroes](https://wildlifeheroes.org.au/wp-content/uploads/2021/09/WildlifeHeroesWildlifeRescueHandbookFinal.pdf)
+*   [Wildlife Rescue Handbook: The First 24 Hours - Wildlife Heroes](https://wildlifeheroes.org.au/wp-content/uploads/2021/09/WildlifeHeroesWildlifeRescueHandbookFinal.pdf)
 *   [Zoobiquity: The Astonishing Connection Between Human and Animal Health - Barbara Natterson-Horowitz, Kathryn Bowers](https://www.goodreads.com/book/show/15797326-zoobiquity)
 
 ### Care & Treatment
@@ -91,8 +86,8 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
     *   [(Choosing & knowing) Your Veterinarian](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
 *   [Standard Veterinary Treatment Guidelines for Livestock and Poultry - DAHD India](https://dahd.gov.in/sites/default/files/2024-10/StandardVeterinaryTreatment.pdf) - Treatment guidebook for diseases in cattle, sheep, goats, camels and other animals.
 *   [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet wwnership, shelter adoption programme and animal assisted interventions.
-*   [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. ***Intended only for non-emergency animal health queries.***
-*   [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. ***Intended only for non-emergency animal health queries.***
+*   [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. *Intended only for non-emergency animal health queries.*
+*   [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. *Intended only for non-emergency animal health queries.*
 *   [The Problem of Self-Medication in Pets - SAVA Healthcare](https://savavet.com/the-problem-of-self-medication-in-pets/) - Article explains why self-medication your pet is a problem and what you should do instead.
 
 ### Diet & Nutrition
@@ -157,6 +152,8 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 
 ### Food Hazards & Poison Control
 
+> Note: If your animal ingests any of the known toxic substances, contact your vet immediately.
+
 *   [Food Hazards - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/special-pet-topics/poisoning/food-hazards) - Most common foods that can cause illness in animals.
 *   [Pet Poison Helpline](https://www.petpoisonhelpline.com/poisons/) - Searchable list of common substances, poisonous to animals.
 *   [Poison Control - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control) - Valuable information to help owners recognize and protect their pets from poisonous substances including plants, human foods, human medications, etc.
@@ -167,34 +164,32 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 *   [Toxicoses From Household Cleaners and Personal Care Products in Animals - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/toxicology/toxicoses-from-household-hazards/toxicoses-from-household-cleaners-and-personal-care-products-in-animals)
 *   [US FDA - Potentially Dangerous Items for Your Pet](https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet) - Guide to edible and non-edible substances potentially dangerous to animals.
 
-🚨 If your animal ingests any of the known toxic substances, **contact your veterinarian immediately.**
-
 ***
 
 ## Cats
 
 ### Cat Books
 
-*   [🆓 Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf)
-*   [🆓 Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf)
-*   🆓 Essential Guides by Cats Protection:
-    *   [🆓 Essential Guide 1, Caring for your cat - Cats Protection](https://www.cats.org.uk/media/rvpf24h5/caring-for-your-cat-2025.pdf)
-    *   [🆓 Essential Guide 2, Bringing your cat home - Cats Protection](https://www.cats.org.uk/media/cypfc3nz/bringing-your-cat-home-2025.pdf)
-    *   [🆓 Essential Guide 3, Moving house - Cats Protection](https://www.cats.org.uk/media/4krfpztk/moving-house-2025.pdf)
-    *   [🆓 Essential Guide 4, Feeding and obesity - Cats Protection](https://www.cats.org.uk/media/s1ffaczy/feeding-and-obesity-2025.pdf)
-    *   [🆓 Essential Guide 5, Keeping your cat safe - Cats Protection](https://www.cats.org.uk/media/d4nfuqsi/keeping-your-cat-safe-2025.pdf)
-    *   [🆓 Essential Guide 6, End of life, grief and loss - Cats Protection](https://www.cats.org.uk/media/t0hnrau1/end-of-life-grief-and-loss-2025.pdf)
-    *   [🆓 Essential Guide 7, Microchipping - Cats Protection](https://www.cats.org.uk/media/mujlzm13/microchipping-2025.pdf)
-    *   [🆓 Essential Guide 8, Neutering - Cats Protection](https://www.cats.org.uk/media/sn5dd54p/neutering-2025.pdf)
-    *   [🆓 Essential Guide 9, Understanding your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/qaklxqm5/understanding-cat-behaviour-2025.pdf)
-    *   [🆓 Essential Guide 10, Managing your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/lbdflus5/managing-cat-behaviour-2025.pdf)
-    *   [🆓 Essential Guide 11, Cats living together - Cats Protection](https://www.cats.org.uk/media/bhlj1ntp/cats-living-together-2025.pdf)
-    *   [🆓 Essential Guide 12, Indoor and outdoor cats - Cats Protection](https://www.cats.org.uk/media/ed1bri0v/indoor-and-outdoor-cats-2025.pdf)
-    *   [🆓 Essential Guide 13, Elderly cats - Cats Protection](https://www.cats.org.uk/media/dkqjvau1/elderly-cats-2025.pdf)
-    *   [🆓 Essential Guide 14, Cats and people - Cats Protection](https://www.cats.org.uk/media/3x0dv5pr/cats-and-people-2025.pdf)
-    *   [🆓 Essential Guide 15, Caring for your kitten - Cats Protection](https://www.cats.org.uk/media/1ecfurys/caring-for-your-kitten-2025.pdf)
-    *   [🆓 Essential Guide 16, Feral cats - Cats Protection](https://www.cats.org.uk/media/ik0k4xe2/feral-cats-2025.pdf)
-    *   [🆓 Essential Guide 17, Pregnant cats, birth and the care of young kittens](https://www.cats.org.uk/media/vtfjwa3l/pregnant-cats-2025.pdf)
+*   [Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf)
+*   [Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf)
+*   Essential Guides by Cats Protection:
+    *   [Essential Guide 1, Caring for your cat - Cats Protection](https://www.cats.org.uk/media/rvpf24h5/caring-for-your-cat-2025.pdf)
+    *   [Essential Guide 2, Bringing your cat home - Cats Protection](https://www.cats.org.uk/media/cypfc3nz/bringing-your-cat-home-2025.pdf)
+    *   [Essential Guide 3, Moving house - Cats Protection](https://www.cats.org.uk/media/4krfpztk/moving-house-2025.pdf)
+    *   [Essential Guide 4, Feeding and obesity - Cats Protection](https://www.cats.org.uk/media/s1ffaczy/feeding-and-obesity-2025.pdf)
+    *   [Essential Guide 5, Keeping your cat safe - Cats Protection](https://www.cats.org.uk/media/d4nfuqsi/keeping-your-cat-safe-2025.pdf)
+    *   [Essential Guide 6, End of life, grief and loss - Cats Protection](https://www.cats.org.uk/media/t0hnrau1/end-of-life-grief-and-loss-2025.pdf)
+    *   [Essential Guide 7, Microchipping - Cats Protection](https://www.cats.org.uk/media/mujlzm13/microchipping-2025.pdf)
+    *   [Essential Guide 8, Neutering - Cats Protection](https://www.cats.org.uk/media/sn5dd54p/neutering-2025.pdf)
+    *   [Essential Guide 9, Understanding your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/qaklxqm5/understanding-cat-behaviour-2025.pdf)
+    *   [Essential Guide 10, Managing your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/lbdflus5/managing-cat-behaviour-2025.pdf)
+    *   [Essential Guide 11, Cats living together - Cats Protection](https://www.cats.org.uk/media/bhlj1ntp/cats-living-together-2025.pdf)
+    *   [Essential Guide 12, Indoor and outdoor cats - Cats Protection](https://www.cats.org.uk/media/ed1bri0v/indoor-and-outdoor-cats-2025.pdf)
+    *   [Essential Guide 13, Elderly cats - Cats Protection](https://www.cats.org.uk/media/dkqjvau1/elderly-cats-2025.pdf)
+    *   [Essential Guide 14, Cats and people - Cats Protection](https://www.cats.org.uk/media/3x0dv5pr/cats-and-people-2025.pdf)
+    *   [Essential Guide 15, Caring for your kitten - Cats Protection](https://www.cats.org.uk/media/1ecfurys/caring-for-your-kitten-2025.pdf)
+    *   [Essential Guide 16, Feral cats - Cats Protection](https://www.cats.org.uk/media/ik0k4xe2/feral-cats-2025.pdf)
+    *   [Essential Guide 17, Pregnant cats, birth and the care of young kittens](https://www.cats.org.uk/media/vtfjwa3l/pregnant-cats-2025.pdf)
 *   [Think Like a Cat: How to Raise a Well-Adjusted Cat, Not a Sour Puss - Miriam M. Gonzalez Hernandez](https://www.goodreads.com/book/show/13484.Think_Like_a_Cat)
 *   [Total Cat Mojo: The Ultimate Guide to Life with Your Cat - Jackson Galaxy](https://www.goodreads.com/book/show/34066800-total-cat-mojo)
 
@@ -225,16 +220,16 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 
 ### Dog Books
 
-*   [🆓 Adopter's Guide to Rescue Dogs, What to do and expect in the first few months - Ruth Hegarty, M.S.E., Dog Trainer in association with Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/wp-content/uploads/ARK-Rescue-Dog-Adopter-Guide.pdf)
-*   [🆓 After You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
-*   [🆓 Bark!, The Official BCSPCA Dog Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/dog-care-guide.pdf)
+*   [Adopter's Guide to Rescue Dogs, What to do and expect in the first few months - Ruth Hegarty, M.S.E., Dog Trainer in association with Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/wp-content/uploads/ARK-Rescue-Dog-Adopter-Guide.pdf)
+*   [After You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
+*   [Bark!, The Official BCSPCA Dog Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/dog-care-guide.pdf)
 *   [Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy, and Well-Behaved Dog - Dr. Ian Dunbar with Michael Page](https://www.goodreads.com/book/show/201616.Before_and_After_Getting_Your_Puppy)
-*   [🆓 Before You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf)
-*   [🆓 Dog Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Dog-Book.pdf)
+*   [Before You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf)
+*   [Dog Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Dog-Book.pdf)
 *   [Feeling Outnumbered?: How to Manage and Enjoy Your Multi-Dog Household - Karen B. London, Patricia B. McConnell](https://www.goodreads.com/book/show/557368.Feeling_Outnumbered_)
 *   [I'll be Home Soon: How to Prevent and Treat Separation Anxiety. - Patricia B. McConnell](https://www.goodreads.com/book/show/592136.I_ll_be_Home_Soon)
-*   [🆓 Rescuing Rover: A First Aid and Disaster Guide for Dog Owners - Sebastian E. Heath, Purdue University](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1006\&context=purduepress_ebooks)
-*   [🆓 The Healthy Dog, An Intro to How to Keep Your Dog Healthy - American Kennel Club](https://images.akc.org/pdf/ebook/healthy_dog.pdf)
+*   [Rescuing Rover: A First Aid and Disaster Guide for Dog Owners - Sebastian E. Heath, Purdue University](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1006\&context=purduepress_ebooks)
+*   [The Healthy Dog, An Intro to How to Keep Your Dog Healthy - American Kennel Club](https://images.akc.org/pdf/ebook/healthy_dog.pdf)
 *   [The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier, and Longer - Rodney Habib, Karen Shaw Becker](https://www.goodreads.com/book/show/56304413-the-forever-dog)
 *   [Wag: The Science of Making Your Dog Happy - Zazie Todd](https://www.goodreads.com/book/show/48840518-wag)
 
@@ -250,7 +245,7 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 *   [Heartworm Disease in Dogs: Testing - VCA Animal Hospitals](https://vcahospitals.com/know-your-pet/testing-for-heartworm-disease-in-dogs) - Information about the heartworm disease in dogs.
 *   [Parvo in Dogs and Puppies - Ellen Malmanger, DVM on PetMD](https://www.petmd.com/dog/conditions/infectious-parasitic/parvo-in-dogs) - Exhaustive guide on Canine parvovirus (CPV) causes, symptoms, treatment and recovery.
 *   [Routine Health Care of Dogs, Pet Owner Version - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/routine-health-care-of-dogs) - General dog care information for pet owners. If you have a puppy, see [Puppy Care](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care).
-*   [The Dog Symptom Checker - PetCareRX](https://www.petcarerx.com/article/the-dog-symptom-checker/1620) - List of most common dog symptoms and which illnesses they may be linked to. ***Intended only for non-emergency animal health queries.***
+*   [The Dog Symptom Checker - PetCareRX](https://www.petcarerx.com/article/the-dog-symptom-checker/1620) - List of most common dog symptoms and which illnesses they may be linked to. *Intended only for non-emergency animal health queries.*
 
 ### Dog Behaviour & Training
 
@@ -276,9 +271,9 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 ### Fish Books
 
 *   [Encyclopedia Of Aquarium & Pond Fish](https://www.goodreads.com/book/show/7040849-encyclopedia-of-aquarium-pond-fish)
-*   [🆓 Freshwater Aquarium Handbook - Elmer's Aquarium](https://www.elmersaquarium.com/pdf-files/FW%20Handbook.pdf)
+*   [Freshwater Aquarium Handbook - Elmer's Aquarium](https://www.elmersaquarium.com/pdf-files/FW%20Handbook.pdf)
 *   [Sunken Gardens: A Step-by-Step Guide to Planting Freshwater Aquariums - Karen Randall](https://www.goodreads.com/book/show/26026127-sunken-gardens)
-*   [🆓 Tropical Fish, A Beginner's Guide - William Berg, AC Tropical Fish](https://www.aquaticcommunity.com/Tropical_Fish-A_Beginners_Guide.pdf)
+*   [Tropical Fish, A Beginner's Guide - William Berg, AC Tropical Fish](https://www.aquaticcommunity.com/Tropical_Fish-A_Beginners_Guide.pdf)
 
 ### Fish Care & Treatment
 
@@ -309,7 +304,7 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 
 ### Horse Books
 
-*   [🆓 Complete Guide to Horse Care - The Humane Society of the United States](https://www.humaneworld.org/sites/default/files/docs/HSUS_complete-guide-to-horse-care.pdf)
+*   [Complete Guide to Horse Care - The Humane Society of the United States](https://www.humaneworld.org/sites/default/files/docs/HSUS_complete-guide-to-horse-care.pdf)
 *   [How to Think Like A Horse: The Essential Handbook for Understanding Why Horses Do What They Do - Cherry Hill](https://www.goodreads.com/book/show/13456.How_to_Think_Like_A_Horse)
 
 ### Horse Care & Treatment
@@ -337,13 +332,13 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 ### Parrot Books
 
 *   [Good Parrotkeeping: A Comprehensive Guide to All Things Parrot - Robin Deutsch](https://www.goodreads.com/book/show/6892333-good-parrotkeeping)
-*   [🆓 How to have a HAPPY HEALTHY PARROT - World Parrot Trust](https://parrots.org/wp-content/uploads/2023/01/HHP_UKLEAFLET.pdf)
-*   [🆓 Happy Healthy Parrot Guide, A Reference for Beginners - World Parrot Trust](https://parrots.org/wp-content/uploads/2025/02/New-Parrot-Owners-Guide.pdf)
-*   [🆓 Parrot Parenting: The Essential Care and Training Guide to +20 Parrot Species - Carol Frischmann](https://www.goodreads.com/book/show/20702641-parrot-parenting)
+*   [How to have a HAPPY HEALTHY PARROT - World Parrot Trust](https://parrots.org/wp-content/uploads/2023/01/HHP_UKLEAFLET.pdf)
+*   [Happy Healthy Parrot Guide, A Reference for Beginners - World Parrot Trust](https://parrots.org/wp-content/uploads/2025/02/New-Parrot-Owners-Guide.pdf)
+*   [Parrot Parenting: The Essential Care and Training Guide to +20 Parrot Species - Carol Frischmann](https://www.goodreads.com/book/show/20702641-parrot-parenting)
 *   [Parrot Training: A Guide to Taming and Gentling Your Avian Companion](https://www.goodreads.com/book/show/917019.Parrot_Training)
-*   [🆓 The A to Z eBook on Parrot Care - Nathalie Roberts](https://www.parrotsecrets.com/The_A_to_Z_e_Book_on_Parrot_Care.pdf)
-*   [🆓 The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf)
-*   [🆓 The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf)
+*   [The A to Z eBook on Parrot Care - Nathalie Roberts](https://www.parrotsecrets.com/The_A_to_Z_e_Book_on_Parrot_Care.pdf)
+*   [The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf)
+*   [The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf)
 
 ### Parrot Care & Treatment
 
@@ -368,5 +363,9 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 
 Your contributions are always welcome! To contribute, make your changes to [readme.md (⭐4)](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines (⭐4)](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
 
-If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers! ✨
+If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers!
+
+## Footnotes
+
+Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
 

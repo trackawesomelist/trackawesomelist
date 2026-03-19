@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [goai (⭐0)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 
+### Advanced Console UIs
+
+*   [loom (⭐75)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+
 ### Configuration
 
 *   [goconfig (⭐27)](https://github.com/fulldump/goconfig) - Populate Go structs from flags, environment variables, config.json and defaults with deterministic precedence. No extra dependencies.
@@ -125,7 +129,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Stream Processing
 
-*   [signals (⭐9)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
+*   [signals (⭐12)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 
 ### Utility/Miscellaneous
 

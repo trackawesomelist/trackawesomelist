@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Mar 19, 2026](/content/2026/03/19/README.md)
+
+### Live Cyber Threat Maps
+
+*   [World Monitor Tech](https://tech.worldmonitor.app) - Live cyber threat intelligence dashboard combining CISA advisories, active malware campaigns, CVE feeds, and global cyber event heatmaps alongside geopolitical and military context.
+
+### Domain and IP Research / GitHub
+
+*   [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
+
+### Other Tools / GitHub
+
+*   [OpenGraph Intel (OGI) (⭐76)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
+
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 
 ### Maritime / GitHub
@@ -1724,7 +1742,6 @@
 
 ### Pastebins
 
-*   [0bin](https://0bin.net)
 *   [cl1p](https://Cl1p.net) - The Internet Clipboard.
 *   [dpaste2](https://Dpaste.org)
 *   [dpaste](https://Dpaste.com)
@@ -2415,7 +2432,6 @@
 *   [GraphyStories](http://app.graphystories.com)
 *   [HypeStat](https://www.hypestat.com)
 *   [Infosniper](http://www.infosniper.net)
-*   [intoDNS](http://www.intodns.com)
 *   [IP 2 Geolocation](http://ip2geolocation.com)
 *   [IP 2 Location](http://www.ip2location.com/demo.aspx)
 *   [IP Checking](http://www.ipchecking.com)

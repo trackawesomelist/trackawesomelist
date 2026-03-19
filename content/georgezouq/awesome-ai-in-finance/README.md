@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 19, 2026](/content/2026/03/19/README.md)
+
+### Agents
+
+*   [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Time Series Data

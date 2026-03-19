@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Mar 19, 2026](/content/2026/03/19/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [steamworks-ffi-node (⭐39)](https://github.com/ArtyProf/steamworks-ffi-node) - a Node.js wrapper for Steamworks SDK.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Graphics / Assets/Placeholders

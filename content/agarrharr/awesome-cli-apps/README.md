@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Mar 19, 2026](/content/2026/03/19/README.md)
+
+### Utilities / Shell Utilities
+
+*   [aha (⭐1.1k)](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
+
+### Files and Directories / Search
+
+*   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Development / Chat

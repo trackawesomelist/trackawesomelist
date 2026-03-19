@@ -12,6 +12,10 @@
 
 *   :free: [Quaternius](https://quaternius.com/) - Thousands of free CC0 low-poly 3D models and animated characters.
 
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [steamworks-ffi-node (⭐39)](https://github.com/ArtyProf/steamworks-ffi-node) - a Node.js wrapper for Steamworks SDK.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Engines and Frameworks / Voxel Editors

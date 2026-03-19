@@ -321,6 +321,7 @@ Thanks to our main contributors
 *   [Secure Gateway Live Cyber Threat Map](https://securegateway.com/map/v5/) -
 *   [Thale's Cyberthreat Map](https://cds.thalesgroup.com/en/cyberthreat/hitmap) - Discover cybersecurity trends with Thales' Cyberthreat map. Explore targeted areas, frequent attacks, affected sectors, and prevalent malware.
 *   [ThreatsEye | Live Cyber Threat Map](https://threatseye.io/threats-map) - Real-time visualization of global cyber attacks and threats. Monitor live cyber security incidents, attack origins, targets, and threat categories worldwide.
+*   [World Monitor Tech](https://tech.worldmonitor.app) - Live cyber threat intelligence dashboard combining CISA advisories, active malware campaigns, CVE feeds, and global cyber event heatmaps alongside geopolitical and military context.
 *   [Zscaler Global Threat Map Dashboard](https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard) - Illustrates those we've seen in the past 24 hours, consisting of threats detected by our antivirus engines, malware and advanced persistent threats.
 
 ## [↑](#-table-of-contents) File Search
@@ -342,7 +343,6 @@ Thanks to our main contributors
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
-*   [0bin](https://0bin.net)
 *   [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 *   [bpaste](https://bpa.st/) - Welcome to bpaste, this site is a pastebin. It allows you to share code with others.
 *   [CentOS Pastebin Service](https://paste.centos.org/) - Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface.
@@ -945,7 +945,7 @@ Thanks to our main contributors
 *   [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 *   [Infosniper](http://www.infosniper.net)
 *   [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
-*   [intoDNS](http://www.intodns.com)
+*   [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 *   [IP 2 Geolocation](http://ip2geolocation.com)
 *   [IP 2 Location](http://www.ip2location.com/demo.aspx)
 *   [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
@@ -1225,6 +1225,7 @@ Thanks to our main contributors
 *   [View in Google Earth](http://www.mgmaps.com/kml/#view)
 *   [Wikimapia](http://wikimapia.org)
 *   [Windy](https://www.windy.com/)
+*   [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
 *   [WorldMap Harvard](http://worldmap.harvard.edu)
 *   [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 *   [Yahoo Maps](https://maps.yahoo.com)
@@ -1644,6 +1645,7 @@ Thanks to our main contributors
 *   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 *   [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 *   [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
+*   [OpenGraph Intel (OGI) (⭐76)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [Orbit (⭐595)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
