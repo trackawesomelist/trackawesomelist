@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 20, 2026](/content/2026/03/20/README.md)
+
+### Messaging
+
+*   [broker (⭐7)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [stto (⭐44)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
+
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
 ### Advanced Console UIs

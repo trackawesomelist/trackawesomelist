@@ -6,6 +6,16 @@ A curated list of awesome WebAudio packages and resources.
 
 [ [Daily](/content/notthetup/awesome-webaudio/README.md) / Weekly / [Overview](/content/notthetup/awesome-webaudio/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Packages / Utilities
+
+*   [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
+
+### Packages / Apps
+
+*   [online decibel meter](https://realtimesoundmeter.org/) – Free online sound meter to measure environmental noise levels in decibels (dB). Real-time sound level meter for detecting quiet, noisy, or harmful sound levels.
+
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### Packages / Libraries
@@ -38,13 +48,13 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Frameworks
 
-*   [React Native Audio API (⭐678)](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
+*   [React Native Audio API (⭐719)](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
 
 ## [Jun 23 - Jun 29, 2025](/content/2025/25/README.md)
 
 ### Packages / Libraries
 
-*   [dsssp (⭐42)](https://github.com/NumberOneBot/dsssp) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
+*   [dsssp (⭐44)](https://github.com/NumberOneBot/dsssp) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
 
 ### Packages / Apps
 
@@ -54,26 +64,26 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Resources / Tutorials
 
-*   [audio-katas (⭐63)](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
+*   [audio-katas (⭐62)](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 
 ### Packages / Apps
 
-*   [Binary Synth (⭐120)](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
+*   [Binary Synth (⭐123)](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Packages / Libraries
 
-*   [waveform-path (⭐124)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
-*   [wave-audio-path-player (⭐66)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
+*   [waveform-path (⭐129)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
+*   [wave-audio-path-player (⭐65)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
 ### Packages / Libraries
 
-*   [MusicXML Player (⭐69)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
+*   [MusicXML Player (⭐72)](https://github.com/infojunkie/musicxml-player) - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
@@ -85,7 +95,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Libraries
 
-*   [html-midi-player (⭐850)](https://github.com/cifkao/html-midi-player) - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
+*   [html-midi-player (⭐860)](https://github.com/cifkao/html-midi-player) - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
@@ -97,7 +107,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Apps
 
-*   [Audio-motion interface (⭐50)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
+*   [Audio-motion interface (⭐52)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -113,7 +123,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Apps
 
-*   [webaudio-tinysynth (⭐257)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+*   [webaudio-tinysynth (⭐261)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
 *   [web-audio-beat-detector (⭐0)](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
@@ -149,13 +159,13 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐613)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐616)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
 ### Packages / Frameworks
 
-*   [Omnitone (⭐896)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
+*   [Omnitone (⭐902)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
 *   [Mach1Spatial (⭐66)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 
 ### Packages / Libraries
@@ -191,13 +201,13 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Libraries
 
-*   [Sound.js (⭐319)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
+*   [Sound.js (⭐318)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
 *   [Circular Audio Wave (⭐279)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 *   [Wad (⭐2k)](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 
 ### Resources / Tutorials
 
-*   [WebAudio School (⭐418)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
+*   [WebAudio School (⭐417)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
 
 ### Obsolete / Community
 
@@ -206,18 +216,18 @@ A curated list of awesome WebAudio packages and resources.
 *   [SSSynthesiser.js (⭐50)](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
 *   [WAAX (⭐300)](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
 *   [Band.js (⭐1.2k)](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
-*   [reverbGen (⭐58)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
-*   [TuneJS (⭐179)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
+*   [reverbGen (⭐57)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
+*   [TuneJS (⭐180)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
 *   [Beet.js (⭐115)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
-*   [AudioKeys (⭐240)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+*   [AudioKeys (⭐243)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 *   [web-audio-test-api (⭐68)](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
-*   [javascript-karplus-strong (⭐296)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+*   [javascript-karplus-strong (⭐300)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 *   [osc-msg (⭐17)](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
 *   [Pizzicato (⭐1.7k)](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
 *   [Mooog (⭐29)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
 *   [envelope-generator (⭐34)](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
 *   [audio contour (⭐20)](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
-*   [web-audio-recorder-js (⭐790)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
+*   [web-audio-recorder-js (⭐791)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
 *   [audiolet (⭐896)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 *   [playnote (⭐2)](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 *   [Recorderjs (⭐4.2k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
@@ -233,7 +243,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Utilities
 
-*   [web-audio-generator (⭐62)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
+*   [web-audio-generator (⭐61)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
 
 ## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
 
@@ -291,7 +301,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / MIDI
 
-*   [JZZ (⭐577)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ (⭐582)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 *   [JZZ-midi-Gear (⭐21)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [Dec 04 - Dec 10, 2017](/content/2017/49/README.md)
@@ -349,7 +359,7 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Libraries
 
-*   [Audiojs (⭐239)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
+*   [Audiojs (⭐237)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 
 ## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
 
@@ -398,4 +408,4 @@ A curated list of awesome WebAudio packages and resources.
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐833)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐832)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
