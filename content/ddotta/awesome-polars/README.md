@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 20, 2026](/content/2026/03/20/README.md)
+
+### Polars plugins / Import / Export
+
+*   [polars-mongo (⭐1)](https://github.com/AThomas314/polars-mongo/) - Polars IO plugin that extends polars to read from mongodb collections via the LazyFrame apis by [@AThomas314](https://github.com/AThomas314).
+
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
 ### Polars plugins / Data Manipulation
