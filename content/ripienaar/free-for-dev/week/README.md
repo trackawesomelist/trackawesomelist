@@ -24,6 +24,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
 
+### Design and UI
+
+*   [css background](https://cssbackground.net) - Free CSS background toolkits. You can generate gradients or collect from any site by extension, fine-tune it in the editor, learn the detials etc.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### APIs, Data, and ML

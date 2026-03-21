@@ -6,6 +6,12 @@ A curated list of awesome WebAudio packages and resources.
 
 [ Daily / [Weekly](/content/notthetup/awesome-webaudio/week/README.md) / [Overview](/content/notthetup/awesome-webaudio/readme/README.md) ]
 
+## [Mar 21, 2026](/content/2026/03/21/README.md)
+
+### Packages / Apps
+
+*   [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/) - Free YouTube looper with progressive speed training, metronome, and chromatic tuner for music practice.
+
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
 
 ### Packages / Utilities

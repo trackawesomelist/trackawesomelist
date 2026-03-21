@@ -8,6 +8,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### Software / Control Panels
+
+*   [MeshCentral](https://meshcentral.com) - A complete web-based remote monitoring and management web site. ([Source Code (⭐6.3k)](https://github.com/ylianst/meshcentral)) `Apache-2.0` `JavaScript/HTML`
+
 ### Software / Monitoring & Status Pages
 
 *   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.8k)](https://github.com/cstate/cstate))

@@ -6,6 +6,12 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Mar 21, 2026](/content/2026/03/21/README.md)
+
+### Software / Control Panels
+
+*   [MeshCentral](https://meshcentral.com) - A complete web-based remote monitoring and management web site. ([Source Code (⭐6.3k)](https://github.com/ylianst/meshcentral)) `Apache-2.0` `JavaScript/HTML`
+
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
 ### Software / Monitoring & Status Pages

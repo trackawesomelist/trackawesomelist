@@ -8,13 +8,29 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
-### Google Fonts Replacements
+### ChatGPT
 
-*   [Bunny Fonts](https://fonts.bunny.net/) - Bunny Fonts is an open-source, privacy-first web font platform designed to put privacy back into the internet.
+*   [llama.cpp (⭐98k)](https://github.com/ggml-org/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+
+### AI Coding
+
+*   [OpenCode (⭐127k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
 
 ### Speech to Text
 
-*   [OpenWhispr (⭐1.9k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+*   **Models**
+    *   [Moonshine (⭐7.4k)](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices.
+    *   [OpenAI Whisper (⭐96k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+        *   [whisper.cpp (⭐48k)](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+    *   [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
+*   **Apps and services**
+    *   [OpenWhispr (⭐1.9k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+    *   [Sasayaki (⭐0)](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
+    *   [Speaches (⭐3.1k)](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
+
+### Google Fonts Replacements
+
+*   [Bunny Fonts](https://fonts.bunny.net/) - Bunny Fonts is an open-source, privacy-first web font platform designed to put privacy back into the internet.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -42,14 +58,19 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Shimmy (⭐3.8k)](https://github.com/Michael-A-Kuykendall/shimmy) - Privacy-focused AI inference server with OpenAI API compatibility, zero cloud dependencies, and local model processing.
 *   [Tinfoil](https://tinfoil.sh/) - Verifiably private AI Chat and OpenAI-compatible inference in the cloud. Uses NVIDIA confidential computing and open source code pinned to a transparency log for end-to-end verifiability.
 
-### Copilot
+### AI Coding
 
 *   [Cline](https://cline.bot/) - Open source AI coding for VSCode. See every decision and use your own models.
     *   [RooCode (⭐23k)](https://github.com/RooCodeInc/Roo-Code) - Cline fork with some improvements.
 
-### Midjourney
+### Text to Speech
 
-*   [ComfyUI (⭐105k)](https://github.com/comfyanonymous/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
+*   [Kokoro FastAPI (⭐4.6k)](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
+*   [MeloTTS (⭐7.3k)](https://github.com/myshell-ai/MeloTTS) - a high-quality multi-lingual text-to-speech library by MIT and MyShell.ai.
+
+### Image Generation
+
+*   [ComfyUI (⭐107k)](https://github.com/comfyanonymous/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
 *   [Stable Diffusion Web UI (⭐162k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion and other models.
 *   [InvokeAI (⭐27k)](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media using the latest AI-driven technologies locally.
 
@@ -78,11 +99,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Sure (⭐7.3k)](https://github.com/we-promise/sure) - Open Source and secure OS for your personal finances. Community maintained fork of the archived [Maybe (⭐54k)](https://github.com/maybe-finance/maybe) project.
 *   [ezBookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
-
-### Text to Speech
-
-*   [Kokoro FastAPI (⭐4.6k)](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
-*   [MeloTTS (⭐7.3k)](https://github.com/myshell-ai/MeloTTS) - a high-quality multi-lingual text-to-speech library by MIT and MyShell.ai.
 
 ### Translation
 
@@ -298,7 +314,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Jan (⭐41k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
-### Copilot
+### AI Coding
 
 *   [Continue (⭐32k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 
@@ -430,14 +446,14 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Accrescent (⭐1.9k)](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability.
 
-### Medical health
-
-*   [Fasten (⭐2.7k)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
-
 ### Text to Speech
 
 *   [Piper (⭐11k)](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 *   [Espeak (⭐6.2k)](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
+
+### Medical health
+
+*   [Fasten (⭐2.7k)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ### Desktop / Alternative clients/modifications of Discord:
 
@@ -468,10 +484,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Winden](https://winden.app/) - A convenient version of Magic Wormhole you can use from within your browser. No need to install an app.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
-
-### ChatGPT
-
-*   [llama.cpp (⭐98k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
 
 ### Cloud Storage
 
@@ -701,7 +713,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Useful Tools / Alternative clients/modifications of Discord:
 
-*   [Single File (⭐20k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+*   [Single File (⭐21k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
@@ -737,12 +749,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Third-Party owned
 
 *   [Mailfence](https://mailfence.com) - Secure and private email.
-
-### Speech to Text
-
-*   [OpenAI Whisper (⭐96k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
-    *   [whisper.cpp (⭐48k)](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
-    *   [Whishper](https://whishper-docs.pages.dev/) - A whisper frontend with subtitle editing and translation capabilities.
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 

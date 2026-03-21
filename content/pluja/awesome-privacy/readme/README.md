@@ -42,9 +42,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
     *   [Android Launcher](#android-launcher)
 *   [Artificial Intelligence](#artificial-intelligence)
     *   [ChatGPT](#chatgpt)
-    *   [Copilot](#copilot)
-    *   [ElevenLabs Text To Speech](#elevenlabs-text-to-speech)
-    *   [Midjourney (image generation)](#midjourney)
+    *   [AI Coding](#ai-coding)
+    *   [Text To Speech](#text-to-speech)
+    *   [Speech To Text](#speech-to-text)
+    *   [Image Generation](#image-generation)
 *   [Bookmarking](#bookmarking)
     *   [Book and web annotations](#book-and-web-annotationshighlights-management)
 *   [Captchas](#captchas)
@@ -121,9 +122,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
     *   [Wikipedia](#wikipedia)
     *   [YouTube](#youtube)
 *   [Screen Recording](#screen-recording)
-*   [Speech to Text](#speech-to-text)
 *   [Teamworking Tools](#teamworking-tools)
-*   [Text To Speech](#text-to-speech)
 *   [Translation](#translation)
 *   [Uncategorized](#uncategorized)
 *   [Utilities](#utilities)
@@ -292,26 +291,43 @@ When using cloud-based AI services, the data you input is often collected and st
 #### ChatGPT
 
 *   [Jan (⭐41k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-*   [llama.cpp (⭐98k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+*   [llama.cpp (⭐98k)](https://github.com/ggml-org/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
 *   [LocalAI (⭐44k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 *   [ollama (⭐165k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 *   [PasteGuard (⭐555)](https://github.com/sgasser/pasteguard) - Privacy proxy for LLM APIs that masks PII and secrets before they reach cloud providers. Self-hosted, OpenAI-compatible, and restores original data in responses.
 *   [Shimmy (⭐3.8k)](https://github.com/Michael-A-Kuykendall/shimmy) - Privacy-focused AI inference server with OpenAI API compatibility, zero cloud dependencies, and local model processing.
 *   [Tinfoil](https://tinfoil.sh/) - Verifiably private AI Chat and OpenAI-compatible inference in the cloud. Uses NVIDIA confidential computing and open source code pinned to a transparency log for end-to-end verifiability.
 
-#### Copilot
+#### AI Coding
 
 *   [Continue (⭐32k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 *   [Cline](https://cline.bot/) - Open source AI coding for VSCode. See every decision and use your own models.
     *   [RooCode (⭐23k)](https://github.com/RooCodeInc/Roo-Code) - Cline fork with some improvements.
+*   [OpenCode (⭐127k)](https://github.com/anomalyco/opencode/) - The open source coding agent. Connect local models or any providers of your choice.
 
-#### ElevenLabs Text To Speech
+#### Text to Speech
 
-Go to the [Text To Speech](#text-to-speech) section.
+*   [Kokoro FastAPI (⭐4.6k)](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
+*   [MeloTTS (⭐7.3k)](https://github.com/myshell-ai/MeloTTS) - a high-quality multi-lingual text-to-speech library by MIT and MyShell.ai.
+*   [Piper (⭐11k)](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
+*   [Espeak (⭐6.2k)](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
 
-#### Midjourney
+#### Speech to Text
 
-*   [ComfyUI (⭐105k)](https://github.com/comfyanonymous/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
+*   **Models**
+    *   [Moonshine (⭐7.4k)](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices.
+    *   [OpenAI Whisper (⭐96k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+        *   [whisper.cpp (⭐48k)](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
+    *   [ParakeetTDT](https://parakeettdt.com/) - Efficient audio transcription. Convert speech to text with unprecedented speed and accuracy using NVIDIA advanced AI speech recognition model.
+
+*   **Apps and services**
+    *   [OpenWhispr (⭐1.9k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
+    *   [Sasayaki (⭐0)](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
+    *   [Speaches (⭐3.1k)](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
+
+#### Image Generation
+
+*   [ComfyUI (⭐107k)](https://github.com/comfyanonymous/ComfyUI) - ComfyUI lets you execute advanced image generation pipelines using an advanced interface. Available on Windows, Linux, and macOS.
 *   [Stable Diffusion Web UI (⭐162k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion and other models.
 *   [InvokeAI (⭐27k)](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media using the latest AI-driven technologies locally.
 
@@ -1588,28 +1604,6 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 [Back to top 🔝](#contents)
 
-## Speech to Text
-
-*   [OpenAI Whisper (⭐96k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
-    *   [whisper.cpp (⭐48k)](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
-    *   [Whishper](https://whishper-docs.pages.dev/) - A whisper frontend with subtitle editing and translation capabilities.
-*   [OpenWhispr (⭐1.9k)](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
-
-[Back to top 🔝](#contents)
-
-## Text to Speech
-
-⛔ **Avoid** using tools that run on a 3rd party cloud. Generally you are sending your text and voice data to a 3rd party to process them, which could lead to leaking biometric data such as your voice, or sharing private and / or unnecessary text with the 3rd party.
-
-✅ **Instead use**
-
-*   [Kokoro FastAPI (⭐4.6k)](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model w/CPU, ONNX and NVIDIA GPU support, handling, and auto-stitching.
-*   [MeloTTS (⭐7.3k)](https://github.com/myshell-ai/MeloTTS) - a high-quality multi-lingual text-to-speech library by MIT and MyShell.ai.
-*   [Piper (⭐11k)](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
-*   [Espeak (⭐6.2k)](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. Voices will sound rather robotic.
-
-[Back to top 🔝](#contents)
-
 ## Translation
 
 ⛔ **Avoid**
@@ -1792,7 +1786,7 @@ Please read about what the addon does before installing. If you don't understand
 
 #### Useful Tools
 
-*   [Single File (⭐20k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+*   [Single File (⭐21k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
 ### Browser Sync
 

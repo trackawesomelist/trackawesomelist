@@ -15,6 +15,7 @@ A curated list of awesome WebAudio packages and resources.
 ### Packages / Apps
 
 *   [online decibel meter](https://realtimesoundmeter.org/) – Free online sound meter to measure environmental noise levels in decibels (dB). Real-time sound level meter for detecting quiet, noisy, or harmful sound levels.
+*   [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/) - Free YouTube looper with progressive speed training, metronome, and chromatic tuner for music practice.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
