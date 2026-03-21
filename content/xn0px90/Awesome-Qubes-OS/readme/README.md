@@ -222,6 +222,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [qubes-salt-video-playback](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - Qubes SaltStack configuration of Videos Playback VM
 *   [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 *   [Wayland agent (⭐26)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+*   [reliant-system](https://codeberg.org/andersonarc/reliant-system) - RELIANT provides a complete plausible deniability solution based on QubesOS and Shufflecake
 *   [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
 *   [Tiling XFCE ](https://forum.qubes-os.org/t/tiling-xfce-windows-with-shortcut-keys/22840) - Titled windows in XFCE with shortcut keys.
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.

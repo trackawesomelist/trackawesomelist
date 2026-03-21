@@ -16,6 +16,10 @@ A curated list of awesome qubes os links
 
 *   [Apparmor profile](https://forum.qubes-os.org/t/apparmor-profile-for-qubes-available/38891) - Create Apparmor profile.
 
+### Customization
+
+*   [reliant-system](https://codeberg.org/andersonarc/reliant-system) - RELIANT provides a complete plausible deniability solution based on QubesOS and Shufflecake
+
 ### Clearnet & Anonymous Networking / OpenVPN
 
 *   [Mullvad VPN setup guide 4.3](https://forum.qubes-os.org/t/mullvad-vpn-app-4-3-and-4-2-setup-guide/25107) - This guide explains how to setup a VPN with Mullvad app on Qubes OS 4.2 and Qubes 4.3 using a Fedora template.

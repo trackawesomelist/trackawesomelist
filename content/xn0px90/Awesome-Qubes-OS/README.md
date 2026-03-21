@@ -6,6 +6,12 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Mar 21, 2026](/content/2026/03/21/README.md)
+
+### Customization
+
+*   [reliant-system](https://codeberg.org/andersonarc/reliant-system) - RELIANT provides a complete plausible deniability solution based on QubesOS and Shufflecake
+
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
 ### How-to guides
