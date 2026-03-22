@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
+### Software / Generative Artificial Intelligence (GenAI)
+
+*   [Vane (⭐33k)](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
+
 ### Software / Internet of Things (IoT)
 
 *   [SOLECTRUS](https://solectrus.de) - Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations. ([Demo](https://demo.solectrus.de), [Source Code (⭐147)](https://github.com/solectrus/solectrus)) `AGPL-3.0` `Docker`
@@ -42,7 +46,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
+*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐294)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -75,7 +79,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐32)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐33)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -260,10 +264,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [PdfDing](https://www.pdfding.com) - PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. ([Demo](https://demo.pdfding.com), [Source Code (⭐1.7k)](https://github.com/mrmn2/PdfDing)) `AGPL-3.0` `Docker/K8S`
 *   [Stirling-PDF (⭐75k)](https://github.com/Stirling-Tools/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
-### Software / Document Management - E-books
-
-*   [BookLore](https://github.com/booklore-app/booklore) - Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. `GPL-3.0` `Docker`
-
 ### Software / Feed Readers
 
 *   [TinyFeed](https://feed.lovergne.dev/) - Generate a static HTML page from a collection of feeds with a simple CLI. ([Demo](https://feed.lovergne.dev/demo), [Source Code (⭐306)](https://github.com/TheBigRoomXXL/tinyfeed)) `MIT` `Go/Docker`
@@ -348,7 +348,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Recipe Management
 
-*   [CookCLI](https://cooklang.org) - Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ([Source Code (⭐1.1k)](https://github.com/cooklang/CookCLI)) `MIT` `Rust`
+*   [CookCLI](https://cooklang.org) - Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ([Source Code (⭐1.2k)](https://github.com/cooklang/CookCLI)) `MIT` `Rust`
 *   [Vanilla Cookbook](https://vanilla-cookbook.readthedocs.io/en/) - Recipe manager designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible. ([Source Code (⭐145)](https://github.com/jt196/vanilla-cookbook)) `GPL-3.0` `Docker/Nodejs`
 
 ### Software / Remote Access
@@ -482,10 +482,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Low Code
 
 *   [Halo](https://www.halo.run) - A powerful and easy-to-use website building tool (documentation in Chinese). ([Demo](https://demo.halo.run), [Source Code (⭐38k)](https://github.com/halo-dev/halo), [Clients (⭐613)](https://github.com/halo-sigs/awesome-halo)) `GPL-3.0` `Java/Docker`
-
-### Software / Status / Uptime pages
-
-*   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. ([Demo](https://kuvasz-uptime.dev/demo/), [Source Code (⭐502)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
@@ -649,7 +645,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐21k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
+*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐22k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -660,7 +656,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code (⭐165k)](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
 *   [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code (⭐127k)](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
-*   [Perplexica (⭐33k)](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 
 ### Software / Inventory Management
 
@@ -694,10 +689,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Project Management
 
 *   [gitbucket](https://gitbucket.github.io/) - Git platform powered with easy installation, high extensibility & GitHub API compatibility (alternative to GitHub). ([Source Code (⭐9.4k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
-
-### Software / Status / Uptime pages
-
-*   [Gatus](https://gatus.io/) - Automated service health dashboard. ([Demo](https://status.twin.sh), [Source Code (⭐10k)](https://github.com/TwiN/gatus)) `Apache-2.0` `Docker/K8S`
 
 ### Software / Ticketing
 
@@ -898,10 +889,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [WebHook Tester (⭐402)](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
 
-### Software / Status / Uptime pages
-
-*   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐84k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
-
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Software / Automation
@@ -927,10 +914,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [HedgeDoc](https://hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Demo](https://demo.hedgedoc.org/), [Source Code (⭐7k)](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Nodejs`
-
-### Software / Status / Uptime pages
-
-*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐4.8k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
@@ -1431,10 +1414,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Readeck](https://readeck.org/en/) - Save the precious readable content of web pages you like and want to keep forever. See it as a bookmark manager and a read later tool. ([Source Code](https://codeberg.org/readeck/readeck), [Clients](https://codeberg.org/readeck/browser-extension)) `AGPL-3.0` `Go/Docker`
 
-### Software / Learning and Courses
-
-*   [Schoco (⭐37)](https://github.com/PhiTux/schoco) - Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. `MIT` `Docker`
-
 ### Software / Media Streaming - Audio Streaming
 
 *   [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - Scrobble plays from multiple sources to multiple scrobbling services. ([Source Code (⭐960)](https://github.com/FoxxMD/multi-scrobbler)) `MIT` `Nodejs/Docker`
@@ -1496,7 +1475,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Network Utilities
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1.9k)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1.9k)](https://github.com/beelzebub-labs/beelzebub)) `MIT` `Docker/K8S/Go`
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -1521,10 +1500,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / URL Shorteners
 
 *   [Chhoto URL (⭐733)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐733)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Clients (⭐733)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
-
-### Software / Web Servers
-
-*   [Jauth (⭐188)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -1645,7 +1620,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐26k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐27k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -1816,7 +1791,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - API Management
 
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐548)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐549)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -2088,12 +2063,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐3.5k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 
-## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
-
-### Software / Archiving and Digital Preservation (DP)
-
-*   [Webarchive (⭐187)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
-
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -2248,14 +2217,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Feed Readers
 
 *   [Kriss Feed (⭐288)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
-
-### Software / Software Development - API Management
-
-*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐2k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
-
-### Software / Status / Uptime pages
-
-*   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.8k)](https://github.com/cstate/cstate)) `MIT` `Go`
 
 ### List of Licenses / Wikis
 
@@ -2687,10 +2648,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Project Management
 
 *   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐199)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
-
-### Software / Status / Uptime pages
-
-*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐1.9k)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -3296,7 +3253,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - API Management
 
-*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.7k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
+*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.8k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
 *   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐2.1k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐32k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`

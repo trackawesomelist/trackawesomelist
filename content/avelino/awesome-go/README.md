@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 22, 2026](/content/2026/03/22/README.md)
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [CrunchyCleaner (⭐12)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
+
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
 
 ### Messaging
@@ -135,19 +141,19 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [hotplex (⭐7)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
+*   [hotplex (⭐8)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 
 ### Advanced Console UIs
 
-*   [phoenix (⭐17)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
+*   [phoenix (⭐20)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
 
 ### SQL Query Builders
 
-*   [relica (⭐7)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐10)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Job Scheduler
 
-*   [pending (⭐3)](https://github.com/kahoon/pending) - ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.
+*   [pending (⭐6)](https://github.com/kahoon/pending) - ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.
 
 ### Routers / Libraries for creating HTTP middlewares
 
@@ -1841,7 +1847,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [config-file-validator (⭐498)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐497)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [Mar 10, 2024](/content/2024/03/10/README.md)
 
@@ -2190,7 +2196,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐261)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐262)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -5731,7 +5737,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Rodent (⭐33)](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 *   [s3-proxy (⭐442)](https://github.com/oxyno-zeta/s3-proxy) - S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth).
 *   [s3gof3r (⭐1.1k)](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
-*   [s5cmd (⭐3.9k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+*   [s5cmd (⭐4k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 *   [Scaleway-cli (⭐959)](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).
 *   [script (⭐6.9k)](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go for DevOps and system administration tasks.
 *   [sg (⭐8)](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.
@@ -5755,7 +5761,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐332)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐334)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐34k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐78)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
@@ -5789,7 +5795,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
-*   [scc (⭐8.1k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
+*   [scc (⭐8.2k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐19)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.

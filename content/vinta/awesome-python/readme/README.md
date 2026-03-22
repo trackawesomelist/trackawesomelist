@@ -10,7 +10,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 # Awesome Python
 
-An opinionated list of awesome Python frameworks, libraries, tools, software and resources.
+An opinionated list of Python frameworks, libraries, tools, and resources.
 
 > The **#10 most-starred repo on GitHub**. Put your product where Python developers discover tools. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/README.md/SPONSORSHIP.md).
 
@@ -553,7 +553,6 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
     *   [sortedcontainers (⭐3.9k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
     *   [thealgorithms (⭐219k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 *   Design Patterns
-    *   [python-cqrs (⭐46)](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.
     *   [python-patterns (⭐43k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     *   [transitions (⭐6.5k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -609,7 +608,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
     *   [tox (⭐3.9k)](https://github.com/tox-dev/tox) - Auto builds and tests distributions in multiple Python versions
 *   GUI / Web Testing
     *   [locust (⭐28k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [playwright (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+    *   [playwright-python (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
     *   [pyautogui (⭐12k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [schemathesis (⭐3.1k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [selenium (⭐34k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
@@ -843,11 +842,11 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *Libraries for working with HTML and XML.*
 
 *   [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-*   [cssutils (⭐89)](https://github.com/jaraco/cssutils) - A CSS library for Python.
 *   [justhtml (⭐1.1k)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works.
 *   [lxml (⭐3k)](https://github.com/lxml/lxml) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 *   [markupsafe (⭐685)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 *   [pyquery (⭐2.4k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+*   [tinycss2 (⭐184)](https://github.com/Kozea/tinycss2) - A low-level CSS parser and generator written in Python.
 *   [xmltodict (⭐5.7k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ## File Format Processing

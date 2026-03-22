@@ -32,9 +32,14 @@
 
 *   [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/m13v/fazm)
 
+### Voice-to-Text / Audio Record and Process
+
+*   [Azex Speech (⭐0)](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/azex-ai/speech) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Security Tools / Audio Record and Process
 
 *   [Lockpaw](https://getlockpaw.com) - Menu bar screen guard for macOS — lock and unlock your screen with a hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sorkila/lockpaw) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [NoxKey (⭐0)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/No-Box-Dev/Noxkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -111,11 +116,11 @@
 
 ### Proxy and VPN Tools / Audio Record and Process
 
-*   [VPN Bypass (⭐42)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GeiserX/VPN-Bypass) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [VPN Bypass (⭐44)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GeiserX/VPN-Bypass) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
-*   [Atoll (⭐1.1k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ebullioscopic/Atoll)
+*   [Atoll (⭐1.5k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ebullioscopic/Atoll)
 *   [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - Menu bar app that masks sensitive information in the clipboard. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tseylerd/MaskThis) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/mask-this/id6759096128)
 
 ### Utilities / Cleanup and Uninstall
@@ -132,7 +137,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)

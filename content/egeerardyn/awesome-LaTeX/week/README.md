@@ -6,6 +6,12 @@ Curated list of LaTeX awesomeness
 
 [ [Daily](/content/egeerardyn/awesome-LaTeX/README.md) / Weekly / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Online editors
+
+*   [TeXbrain](https://tex.swimmingbrain.dev) - Free, open-source browser-based LaTeX editor with in-browser compilation, live PDF preview and Git integration. No account or install required. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Online editors

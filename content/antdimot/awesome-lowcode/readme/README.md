@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 566 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 572 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -36,7 +36,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
 *   [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 *   [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
-*   [AutoGen (⭐54k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AnveVoice](https://anvevoice.app) - AI voice agent for websites — embed a voice AI assistant with no code. One-line JS snippet, trains on your content, 50+ languages.
+*   [AutoGen (⭐56k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 *   [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 *   [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 *   [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
@@ -52,7 +53,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-*   [PraisonAI (⭐5.6k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐5.7k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 *   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
@@ -90,6 +91,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
 *   [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 *   [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
+*   [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports MQTT, OPC UA, Modbus, and 50+ protocols with drag-and-drop UI builder and edge-to-cloud processing.
 *   [IoTCatalyst](https://www.iotcatalyst.com) - A Low Code/No Code IoT Edge Platform that offers IoT DevOps and IoT Device Management tools to make the IoT simpler.
 *   [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
 *   [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
@@ -158,7 +160,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 *   [Lowcoder](https://lowcoder.cloud/) - A low-code platform that allows users to build custom software applications with minimal coding
 *   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
-*   [Oaysus (⭐5)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
+*   [Oaysus (⭐6)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
 *   [Observable](https://observablehq.com/) - Push the limits of data visualization.
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
@@ -205,8 +207,9 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Shopify](https://shopify.com/) - Build your business.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 *   [Stripe](https://stripe.com) - The new standard in online payments.
-*   [ToolJet (⭐37k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐38k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 *   [Tachybase (⭐1.1k)](https://github.com/tachybase/tachybase) - Tachybase is a pluggable application framework., where developers can build complex application logic, while core developers focus on ensuring the stability of key modules and adapting to different environments.
+*   [TemplateFox](https://pdftemplateapi.com) - Generate PDFs from reusable templates via API with a visual editor and multi-language SDKs.
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 *   [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.

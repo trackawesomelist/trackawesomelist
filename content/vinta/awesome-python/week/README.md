@@ -242,7 +242,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Algorithms and Design Patterns
 
 *   Design Patterns
-    *   [python-cqrs (⭐46)](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.
     *   [python-patterns (⭐43k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     *   [transitions (⭐6.5k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -377,9 +376,9 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### HTML Manipulation
 
-*   [cssutils (⭐89)](https://github.com/jaraco/cssutils) - A CSS library for Python.
 *   [justhtml (⭐1.1k)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works.
 *   [lxml (⭐3k)](https://github.com/lxml/lxml) - A very fast, easy-to-use and versatile library for handling HTML and XML.
+*   [tinycss2 (⭐184)](https://github.com/Kozea/tinycss2) - A low-level CSS parser and generator written in Python.
 
 ### File Format Processing
 
@@ -1251,7 +1250,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   GUI / Web Testing
     *   [locust (⭐28k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [playwright (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+    *   [playwright-python (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
     *   [pyautogui (⭐12k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [schemathesis (⭐3.1k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [selenium (⭐34k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).

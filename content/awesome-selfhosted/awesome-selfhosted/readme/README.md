@@ -85,7 +85,7 @@ See [Contributing](#contributing).
     *   [Media Streaming - Video Streaming](#media-streaming---video-streaming)
     *   [Miscellaneous](#miscellaneous)
     *   [Money, Budgeting & Management](#money-budgeting--management)
-    *   [Monitoring](#monitoring)
+    *   [Monitoring & Status Pages](#monitoring--status-pages)
     *   [Network Utilities](#network-utilities)
     *   [Note-taking & Editors](#note-taking--editors)
     *   [Office Suites](#office-suites)
@@ -111,7 +111,6 @@ See [Contributing](#contributing).
     *   [Software Development - Project Management](#software-development---project-management)
     *   [Software Development - Testing](#software-development---testing)
     *   [Static Site Generators](#static-site-generators)
-    *   [Status / Uptime pages](#status--uptime-pages)
     *   [Task Management & To-do Lists](#task-management--to-do-lists)
     *   [Ticketing](#ticketing)
     *   [Time Tracking](#time-tracking)
@@ -193,7 +192,6 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [Piler](https://www.mailpiler.org/) - Feature-rich email archiving solution. ([Source Code (⭐275)](https://github.com/jsuto/piler/)) `GPL-3.0` `C/Docker/deb`
 *   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐13k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 *   [Wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. `GPL-3.0` `Go`
-*   [Webarchive (⭐187)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ### Automation
 
@@ -221,7 +219,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [HandBrake Web (⭐728)](https://github.com/TheNickOfTime/handbrake-web) - Use one or more instances of HandBrake video transcoder on a headless device via a web interface. `AGPL-3.0` `Docker`
 *   [Healthchecks](https://healthchecks.io/) - Listen for pings and sends alerts when pings are late. ([Source Code (⭐9.9k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python/Docker`
 *   [Huginn (⭐49k)](https://github.com/huginn/huginn) - Build agents that monitor and act on your behalf. `MIT` `Ruby`
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐26k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐27k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 *   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐711)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 *   [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) `⚠` - Follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads, Librarything and optionally GoogleBooks as sources for author info and book info. `GPL-3.0` `Python`
 *   [Leon](https://getleon.ai) - Personal assistant who can live on your server. ([Source Code (⭐17k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
@@ -684,7 +682,7 @@ Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management
 *   [Baserow](https://baserow.io/) - Create your own database without technical experience (alternative to Airtable). ([Source Code](https://gitlab.com/baserow/baserow)) `MIT` `Docker`
 *   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐14k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 *   [Chartbrew](https://chartbrew.com) - Connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐3.7k)](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs/Docker`
-*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐21k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
+*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐22k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
 *   [CloudBeaver](https://dbeaver.com/) - Manage databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐4.7k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
 *   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.4k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 *   [Datasette](https://datasette.io/) - Explore and publish data with easy import and export and database management. ([Source Code (⭐11k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
@@ -738,7 +736,6 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 *   [Atsumeru](https://atsumeru.xyz) - Manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐168)](https://github.com/Atsumeru-xyz/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 *   [BookLogr (⭐490)](https://github.com/Mozzo1000/booklogr) - Manage your personal book library with ease. ([Demo](https://demo.booklogr.app/)) `Apache-2.0` `Docker`
-*   [BookLore](https://github.com/booklore-app/booklore) - Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. `GPL-3.0` `Docker`
 *   [Calibre Web Automated (⭐5k)](https://github.com/crocodilestick/Calibre-Web-Automated) - All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). `GPL-3.0` `Docker`
 *   [Calibre Web (⭐17k)](https://github.com/janeczku/calibre-web) - Browse, read and download eBooks using an existing Calibre database. `GPL-3.0` `Python`
 *   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐24k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
@@ -1046,8 +1043,8 @@ Utilities for managing game servers.
 *   [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code (⭐165k)](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
 *   [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code (⭐18k)](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
 *   [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code (⭐127k)](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
-*   [Perplexica (⭐33k)](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 *   [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code (⭐50)](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Docker`
+*   [Vane (⭐33k)](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 
 ### Groupware
 
@@ -1181,7 +1178,6 @@ Tools and software to help with education and learning.
 *   [QST](https://qstonline.org) - Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical. ([Demo](https://qstonline.org/free_account.htm), [Source Code](https://sourceforge.net/projects/qstonline/)) `GPL-2.0` `Perl`
 *   [RELATE](https://documen.tician.de/relate/) - Courseware package that includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐422)](https://github.com/inducer/relate)) `MIT` `Python`
 *   [RosarioSIS](https://www.rosariosis.org/) - Student Information System for school management. Features students demographics, grades, scheduling, attendance, student billing, discipline & food service modules. ([Demo](https://www.rosariosis.org/demo/), [Source Code](https://gitlab.com/francoisjacquet/rosariosis/)) `GPL-2.0` `PHP`
-*   [Schoco (⭐37)](https://github.com/PhiTux/schoco) - Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. `MIT` `Docker`
 
 ### Manufacturing
 
@@ -1399,7 +1395,7 @@ Software that does not fit in another section.
 *   [Neko](https://neko.m1k1o.net) - Virtual browser that runs in docker and uses WebRTC. ([Source Code (⭐20k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
 *   [OmniTools](https://omnitools.app/) - Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). ([Source Code (⭐8.9k)](https://github.com/iib0011/omni-tools)) `MIT` `Docker`
 *   [Open-Meteo](https://open-meteo.com/) - Weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐5k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
-*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐283)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
+*   [OpenReader](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐294)](https://github.com/richardr1126/openreader)) `MIT` `Docker`
 *   [OpenZiti](https://openziti.io/) - Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ([Source Code (⭐3.9k)](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 *   [Operational.co](https://operational.co) - Receive alerts in a live timeline from your product. ([Demo](https://app.operational.co/?signinas=kevin), [Source Code (⭐440)](https://github.com/operational-co/operational.co)) `AGPL-3.0` `Nodejs/Docker`
 *   [penpot](https://penpot.app/) - Web-based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐45k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
@@ -1468,13 +1464,13 @@ Software that does not fit in another section.
 *   [WYGIWYH (⭐827)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Python`
 *   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐91)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
-### Monitoring
+### Monitoring & Status Pages
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites.
 
-**Please visit [awesome-sysadmin/Monitoring (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metrics and Metric Collection (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection)**
+**Please visit [awesome-sysadmin/Monitoring (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin#monitoring--status-pages), [awesome-sysadmin/Metrics and Metric Collection (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection)**
 
 ### Network Utilities
 
@@ -1484,7 +1480,7 @@ Network utilities are tools and software that help manage, monitor, and troubles
 
 *See also: [awesome-sysadmin/Monitoring (⭐33k)](https://github.com/awesome-foss/awesome-sysadmin#monitoring)*
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1.9k)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1.9k)](https://github.com/beelzebub-labs/beelzebub)) `MIT` `Docker/K8S/Go`
 *   [Canary Tokens](https://canarytokens.org) - Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access. ([Source Code (⭐2.8k)](https://github.com/thinkst/opencanary)) `BSD-3-Clause` `Docker/Python`
 *   [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code (⭐9.9k)](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
 *   [MySpeed](https://myspeed.dev/) - Speed test analysis software that shows your internet speed for up to 30 days. ([Source Code (⭐2.8k)](https://github.com/gnmyt/myspeed)) `MIT` `Docker/Nodejs`
@@ -1583,7 +1579,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 
 Dashboards for accessing information and applications.
 
-*Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)*
+*Related: [Monitoring & Status Pages](#monitoring--status-pages), [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)*
 
 *   [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code (⭐24k)](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`
 *   [Glance (⭐32k)](https://github.com/glanceapp/glance) - Highly customizable dashboard that puts all your feeds in one place. `AGPL-3.0` `Docker/Go`
@@ -1689,7 +1685,7 @@ A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application th
 Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 *   [Bar Assistant](https://barassistant.app/) - Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. ([Demo](https://demo.barassistant.app/), [Source Code (⭐982)](https://github.com/karlomikus/bar-assistant)) `MIT` `PHP/Docker`
-*   [CookCLI](https://cooklang.org) - Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ([Source Code (⭐1.1k)](https://github.com/cooklang/CookCLI)) `MIT` `Rust`
+*   [CookCLI](https://cooklang.org) - Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ([Source Code (⭐1.2k)](https://github.com/cooklang/CookCLI)) `MIT` `Rust`
 *   [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐64)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
 *   [KitchenOwl](https://docs.kitchenowl.org/latest/) - Cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐3.2k)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 *   [ManageMeals](https://managemeals.com/) - Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ([Demo](https://demo.managemeals.com/), [Source Code (⭐54)](https://github.com/managemeals/manage-meals-web)) `GPL-3.0` `Docker`
@@ -1800,10 +1796,10 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance.
 
-*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.7k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
+*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.8k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
 *   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐2.1k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
-*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐548)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐549)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐32k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
 *   [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code (⭐78k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
 *   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code (⭐43k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
@@ -1812,7 +1808,6 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐563)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Svix](https://svix.com) - Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code (⭐3.1k)](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐11k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
-*   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐2k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 ### Software Development - Continuous Integration & Deployment
 
@@ -1862,7 +1857,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 *   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐23k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
 *   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - Feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐1.4k)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
 *   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐3k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`
-*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐32)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐33)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
 *   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐5k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 ### Software Development - Localization
@@ -1960,21 +1955,6 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 **Please visit [staticsitegenerators.bevry.me](https://staticsitegenerators.bevry.me), [staticgen.com](https://www.staticgen.com)**
 
 *Related: [Blogging Platforms](#blogging-platforms), [Photo Galleries](#photo-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)*
-
-### Status / Uptime pages
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.
-
-*Related: [Monitoring](#monitoring)*
-
-*   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.8k)](https://github.com/cstate/cstate)) `MIT` `Go`
-*   [Gatus](https://gatus.io/) - Automated service health dashboard. ([Demo](https://status.twin.sh), [Source Code (⭐10k)](https://github.com/TwiN/gatus)) `Apache-2.0` `Docker/K8S`
-*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐4.8k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
-*   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. ([Demo](https://kuvasz-uptime.dev/demo/), [Source Code (⭐502)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
-*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐1.9k)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
-*   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐84k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
 
 ### Task Management & To-do Lists
 
@@ -2093,7 +2073,6 @@ Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/We
 *   [go-doxy (⭐2.9k)](https://github.com/yusing/godoxy) - Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
 *   [godoxy](https://docs.godoxy.dev/) - High-performance reverse proxy and container orchestrator for self-hosters. ([Demo](https://demo.godoxy.dev/), [Source Code (⭐2.9k)](https://github.com/yusing/godoxy)) `MIT` `Docker/Go`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C/deb/Docker`
-*   [Jauth (⭐188)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C/deb/Docker`
 *   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Source Code (⭐32k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Docker`
 *   [NGINX](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code (⭐30k)](https://github.com/nginx/nginx)) `BSD-2-Clause` `C/deb/Docker`

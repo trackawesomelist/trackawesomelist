@@ -2,9 +2,23 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 566 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 572 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Mar 22, 2026](/content/2026/03/22/README.md)
+
+### AI
+
+*   [AnveVoice](https://anvevoice.app) - AI voice agent for websites — embed a voice AI assistant with no code. One-line JS snippet, trains on your content, 50+ languages.
+
+### Flow-based programming
+
+*   [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports MQTT, OPC UA, Modbus, and 50+ protocols with drag-and-drop UI builder and edge-to-cloud processing.
+
+### Misc
+
+*   [TemplateFox](https://pdftemplateapi.com) - Generate PDFs from reusable templates via API with a visual editor and multi-language SDKs.
 
 ## [Feb 18, 2026](/content/2026/02/18/README.md)
 
@@ -20,7 +34,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐5.6k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐5.7k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 
@@ -28,7 +42,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Visual programming
 
-*   [Oaysus (⭐5)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
+*   [Oaysus (⭐6)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
 
 ## [Dec 16, 2025](/content/2025/12/16/README.md)
 
@@ -130,7 +144,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐54k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐56k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -410,7 +424,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [ToolJet (⭐37k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐38k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [Dec 02, 2021](/content/2021/12/02/README.md)
 

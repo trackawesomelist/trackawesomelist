@@ -979,6 +979,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Voice-to-Text
 
 *   [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
+*   [Azex Speech (⭐0)](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 *   [buzz (⭐18k)](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 *   [FnKey (⭐27)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 *   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
@@ -1061,6 +1062,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac. ![Freeware][Freeware Icon]
 *   [Mana Security](https://www.manasecurity.com/) - vulnerability management app for individuals. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 *   [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+*   [NoxKey (⭐0)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 *   [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight)
 *   [ParetoSecurity](https://paretosecurity.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
 *   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
@@ -1089,7 +1091,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 *   [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 *   [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
-*   [VPN Bypass (⭐42)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+*   [VPN Bypass (⭐44)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 *   [Windscribe](https://windscribe.com) - Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time.
 *   [Tailscale](https://tailscale.com/) - Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
 
@@ -1126,7 +1128,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Menu Bar Tools
 
 *   [Anvil](https://anvilformac.com/) - Anvil is a beautiful menubar app for managing local websites. Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
-*   [Atoll (⭐1.1k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+*   [Atoll (⭐1.5k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 *   [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 *   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
 *   [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.
@@ -1492,7 +1494,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 *   [QLMarkdown (⭐2.4k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
-*   [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
+*   [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 *   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/)
 *   [quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 *   [Syntax Highlight (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]

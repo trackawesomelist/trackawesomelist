@@ -2,7 +2,7 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 582 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 627 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / Overview ]
 
@@ -99,6 +99,7 @@ A curated list of podcasts we like to listen to.
 *   [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 *   [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
 *   [Citizen Web3](https://www.citizenweb3.com) - Web3-focused podcast, discovering the people that contribute to building the decentralized world.
+*   [Chain of Thought](https://chainofthought.show/) - Weekly conversations with AI leaders, engineers, and founders exploring the ideas shaping AI development, from inference infrastructure and developer tools to leadership and industry strategy. Hosted by Conor Bronsdon.
 *   [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 *   [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 *   [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.

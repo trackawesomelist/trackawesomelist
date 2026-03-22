@@ -2,9 +2,15 @@
 
 A curated list of awesome things related to Framer prototyping tool
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/podo/awesome-framer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 podo/awesome-framer](https://github.com/podo/awesome-framer) · ⭐ 515 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/podo/awesome-framer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 podo/awesome-framer](https://github.com/podo/awesome-framer) · ⭐ 614 · 🏷️ Miscellaneous
 
 [ [Daily](/content/podo/awesome-framer/README.md) / Weekly / [Overview](/content/podo/awesome-framer/readme/README.md) ]
+
+## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
+
+### Other
+
+*   [AllFramer](https://allframer.club/) - Discover the curated list of Framer templates, components, blocks, plugins, and more with a blazing-fast search & filter experience!
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
@@ -16,7 +22,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Modules
 
-*   [FramerMapboxJS (⭐45)](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes.
+*   [FramerMapboxJS (⭐47)](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes.
 
 ## [Apr 16 - Apr 22, 2018](/content/2018/16/README.md)
 
@@ -27,14 +33,14 @@ A curated list of awesome things related to Framer prototyping tool
 ### Modules
 
 *   [Framer StatusBarLayer (⭐52)](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
-*   [framer keyboardEvents (⭐10)](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
+*   [framer keyboardEvents (⭐11)](https://github.com/marckrenn/framer-keyboardEvents) - Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
 *   [Framer Joystick (⭐15)](https://github.com/emilwidlund/framer-joystick) - Module for Gamepad-driven UI prototypes.
 *   [Framer Feedback (⭐20)](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
 *   [Framer-Bottom-Navigation (⭐8)](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) - Framer Module to add Android's Bottom Navigation to your project.
 *   [Framer Device Rotator (⭐1)](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device).
 *   [Keyboard Input for Framer (⭐10)](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
-*   [Framer DesignComponents (⭐30)](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
-*   [Framer Web Audio API Module (⭐6)](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects.
+*   [Framer DesignComponents (⭐31)](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
+*   [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects.
 *   [Framer Status Bar Module (⭐2)](https://github.com/walnuttea/statusBar-module) - Module to initialize a status bar in a Framer application.
 *   [Framer Android Picker (⭐7)](https://github.com/johnmpsherwin/Framer-Android-Picker) - An Android Picker Module.
 *   [Yummy Framer](https://github.com/janwagner/yummyFramer) - Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.
@@ -56,13 +62,13 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Modules
 
-*   [lottie-framer (⭐171)](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
+*   [lottie-framer (⭐165)](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 
 ## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
 
 ### UI Libraries
 
-*   [iOS 11 iPhone GUI (⭐97)](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
+*   [iOS 11 iPhone GUI (⭐93)](https://github.com/facebookincubator/ios-11-gui-for-framer) - Templates of GUI elements found in the public release of iOS 11.
 
 ## [Feb 12 - Feb 18, 2018](/content/2018/7/README.md)
 
@@ -74,7 +80,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Modules
 
-*   [iOS-11-Framer (⭐42)](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
+*   [iOS-11-Framer (⭐43)](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
 *   [framer-moreutils (⭐31)](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
 
 ## [Jan 01 - Jan 07, 2018](/content/2018/1/README.md)
@@ -91,13 +97,13 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Other
 
-*   [framer-modules (⭐336)](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place.
+*   [framer-modules (⭐331)](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place.
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
 
 ### Modules
 
-*   [Framer Slider (⭐42)](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
+*   [Framer Slider (⭐41)](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
@@ -121,7 +127,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Other
 
-*   [framer-bootstrap (⭐31)](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
+*   [framer-bootstrap (⭐32)](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
@@ -154,7 +160,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Modules
 
-*   [framer-QueryInterface (⭐27)](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
+*   [framer-QueryInterface (⭐28)](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
@@ -214,48 +220,48 @@ A curated list of awesome things related to Framer prototyping tool
 ### Modules
 
 *   [framer-googlefonts (⭐62)](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
-*   [tabBarModule (⭐94)](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
+*   [tabBarModule (⭐91)](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 *   [framer-animation-collections (⭐64)](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 *   [framer.iosnotification (⭐22)](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
-*   [Framer-Grid (⭐24)](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
-*   [shortcuts-for-framer (⭐416)](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
+*   [Framer-Grid (⭐25)](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
+*   [shortcuts-for-framer (⭐409)](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
 *   [RippleTransition.framer (⭐4)](https://github.com/offirg75/framer.RippleTransition) - Framer Module for a Material design like ripple transition.
 *   [framer-icon (⭐28)](https://github.com/peteschaffner/framer-icon) - Framer dynamically tinted icons based off of a template image.
-*   [framer.makeGradient (⭐21)](https://github.com/cupofjoakim/framer.makeGradient) - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
+*   [framer.makeGradient (⭐23)](https://github.com/cupofjoakim/framer.makeGradient) - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
 *   [WatchKit-Framer (⭐55)](https://github.com/ajimix/WatchKit-Framer) - Apple Watch Kit module for Framer.
-*   [Framer-VideoPlayer (⭐76)](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer.
+*   [Framer-VideoPlayer (⭐74)](https://github.com/stakes/Framer-VideoPlayer) - Video player module for Framer Studio and Framer.
 *   [Framer-Module-ShakeEvent (⭐62)](https://github.com/RayPS/Framer-Module-ShakeEvent) - ShakeEvent Module for Framer.
 *   [Framer-Module-UISound (⭐32)](https://github.com/RayPS/Framer-Module-UISound/) - UISound Module for Framer.
-*   [CameraLayer (⭐84)](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image.
+*   [CameraLayer](https://github.com/ktcy/CameraLayer) - Framer layer displaying camera image.
 *   [ios-keyboard-for-framer (⭐31)](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer.
-*   [textLayer-for-Framer (⭐257)](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes.
-*   [framer-flip-card-module (⭐97)](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers.
-*   [StickyHeaders-for-Framer (⭐108)](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components.
-*   [OrientationEvents (⭐102)](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events.
-*   [ScaleFrame (⭐8)](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions.
+*   [textLayer-for-Framer (⭐256)](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes.
+*   [framer-flip-card-module (⭐98)](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers.
+*   [StickyHeaders-for-Framer (⭐107)](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components.
+*   [OrientationEvents (⭐103)](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events.
+*   [ScaleFrame (⭐7)](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions.
 *   [framer-label (⭐11)](https://github.com/peteschaffner/framer-label) - Label module with multi-line truncation support for Framer.
 *   [framer-colour-transition (⭐10)](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
 *   [framer-webview (⭐23)](https://github.com/peteschaffner/framer-webview) - Web view module for Framer.
 *   [framer-uistatusbar (⭐2)](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
 *   [framer.module.ajax (⭐21)](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer.
 *   [framer.module.fill (⭐6)](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer.
-*   [Comment-for-Framer (⭐18)](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
-*   [framer-viewNavigationController (⭐217)](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
-*   [Layers-for-Framer (⭐37)](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project.
-*   [Framer-Highlightr (⭐28)](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
+*   [Comment-for-Framer (⭐17)](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
+*   [framer-viewNavigationController (⭐216)](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
+*   [Layers-for-Framer (⭐34)](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project.
+*   [Framer-Highlightr (⭐27)](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
 *   [SVGLayer (⭐171)](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
-*   [VRComponent (⭐184)](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer.
+*   [VRComponent (⭐179)](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer.
 *   [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
-*   [Simple Android Ripple (⭐30)](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer.
+*   [Simple Android Ripple (⭐28)](https://github.com/imaaronjames/Simple-Android-Ripple) - Framer module for adding touch ripple animations to any layer.
 *   [Simple Android Snackbar (⭐3)](https://github.com/imaaronjames/Simple-Android-Snackbar) - Framer module for adding Android Material Design Snackbars to your project.
-*   [Framer Path (⭐148)](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually.
-*   [Material Kit for FramerJS (⭐267)](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization.
-*   [iOS Kit for FramerJS (⭐528)](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization.
+*   [Framer Path (⭐145)](https://github.com/vladimirshlygin/framer-path) - Create custom SVG shapes and animate each point individually.
+*   [Material Kit for FramerJS (⭐266)](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization.
+*   [iOS Kit for FramerJS (⭐517)](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization.
 *   [spotifyApiFramer (⭐9)](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API.
-*   [ViewController-for-Framer (⭐424)](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
-*   [Gridddle (⭐53)](https://github.com/Volorf/Gridddle) - Grid module for FramerJS.
+*   [ViewController-for-Framer (⭐412)](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+*   [Gridddle (⭐52)](https://github.com/Volorf/Gridddle) - Grid module for FramerJS.
 *   [SliderLibrary](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders.
-*   [framer-view-stack (⭐24)](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other.
+*   [framer-view-stack (⭐25)](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other.
 *   [Pair (⭐39)](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer.
 
 ### Sites
@@ -265,7 +271,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Other
 
-*   [Framer Snippets (⭐487)](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
+*   [Framer Snippets (⭐475)](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
 
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
 
@@ -279,7 +285,7 @@ A curated list of awesome things related to Framer prototyping tool
 
 *   [RemoteLayer (⭐30)](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes.
 *   [distribute-layers (⭐87)](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease.
-*   [Framer-ValueLayer (⭐64)](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
+*   [Framer-ValueLayer (⭐63)](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
 *   [perspective-view (⭐40)](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
 
 ## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
@@ -290,13 +296,13 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Other
 
-*   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
+*   [Stitch (⭐143)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
 ## [May 30 - Jun 05, 2016](/content/2016/22/README.md)
 
 ### Modules
 
-*   [framer-Firebase (⭐232)](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
+*   [framer-Firebase (⭐231)](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 
 ## [Nov 30 - Dec 06, 2015](/content/2015/48/README.md)
 
@@ -313,10 +319,10 @@ A curated list of awesome things related to Framer prototyping tool
 
 ### Modules
 
-*   [framer.placehold (⭐10)](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
-*   [FramerNavigationComponent (⭐29)](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.
-*   [Framer-AudioPlayer (⭐148)](https://github.com/benjaminnathan/Framer-AudioPlayer) - AudioPlayer Module for Framer.
-*   [Kinetics (⭐29)](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload.
-*   [Input-Framer (⭐339)](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs.
+*   [framer.placehold (⭐11)](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
+*   [FramerNavigationComponent (⭐30)](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.
+*   [Framer-AudioPlayer (⭐147)](https://github.com/benjaminnathan/Framer-AudioPlayer) - AudioPlayer Module for Framer.
+*   [Kinetics (⭐30)](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload.
+*   [Input-Framer (⭐338)](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs.
 *   [framer-equally-rotate-images (⭐37)](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path.
-*   [SpeechSynth (⭐12)](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
+*   [SpeechSynth (⭐13)](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.

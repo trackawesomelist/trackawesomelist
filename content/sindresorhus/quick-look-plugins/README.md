@@ -6,6 +6,18 @@ List of useful Quick Look plugins for developers
 
 [ Daily / [Weekly](/content/sindresorhus/quick-look-plugins/week/README.md) / [Overview](/content/sindresorhus/quick-look-plugins/readme/README.md) ]
 
+## [Mar 22, 2026](/content/2026/03/22/README.md)
+
+### Plugins
+
+### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
+
+> Preview folder and archive contents (ZIP, RAR, and more).
+
+Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderQuickLook.png)](https://apps.apple.com/app/id6753110395)
+
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
 ### Plugins
@@ -22,11 +34,11 @@ Purchase on the [App Store](https://apps.apple.com/app/source-code-preview/id675
 
 ### Plugins
 
-### [FluxMarkdown (⭐56)](https://github.com/xykong/flux-markdown)
+### [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown)
 
 > Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
 
-Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐56)](https://github.com/xykong/flux-markdown/releases/latest)
+Run `brew tap xykong/tap && brew install --cask flux-markdown` or [download manually (⭐70)](https://github.com/xykong/flux-markdown/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FluxMarkdown.png)](https://github.com/xykong/flux-markdown)
 
