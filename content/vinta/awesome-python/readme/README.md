@@ -170,7 +170,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *   [mindsdb (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 *   [scikit-learn (⭐65k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-*   [spark.ml](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library for distributed computing.
+*   [spark.ml (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
 *   [xgboost (⭐28k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## Natural Language Processing
@@ -309,6 +309,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *   [django-grappelli (⭐3.9k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 *   [django-unfold (⭐3.4k)](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience.
 *   [flask-admin (⭐6.1k)](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask.
+*   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 *   [func-to-web (⭐386)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
 *   [jet-bridge (⭐1.8k)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 
@@ -370,7 +371,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *Libraries that implement Object-Relational Mapping or data mapping techniques.*
 
 *   Relational Databases
-    *   [django.db.models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
+    *   [django.db.models (⭐87k)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
     *   [sqlalchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
         *   [awesome-sqlalchemy (⭐3k)](https://github.com/dahlia/awesome-sqlalchemy)
     *   [dataset (⭐4.9k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
@@ -497,7 +498,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 *   [django-countries (⭐1.5k)](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
-*   [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
+*   [geodjango (⭐87k)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 *   [geojson (⭐984)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 *   [geopandas (⭐5.1k)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 *   [geopy (⭐4.8k)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
@@ -679,7 +680,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *   Configuration Management
     *   [ansible (⭐68k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
     *   [cloudinit (⭐3.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
-    *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    *   [openstack (⭐5.9k)](https://github.com/openstack/openstack) - Open source software for building private and public clouds.
     *   [pyinfra (⭐4.9k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐15k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 *   Deployment
@@ -712,7 +713,6 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *Libraries for working with task queues.*
 
 *   [celery (⭐28k)](https://github.com/celery/celery) - An asynchronous task queue/job queue based on distributed message passing.
-    *   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 *   [dramatiq (⭐5.2k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 *   [huey (⭐5.9k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 *   [rq (⭐11k)](https://github.com/rq/rq) - Simple job queues for Python.
@@ -998,7 +998,7 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 *Libraries for Python version and virtual environment management.*
 
 *   [pyenv (⭐44k)](https://github.com/pyenv/pyenv) - Simple Python version management.
-    *   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
+*   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 *   [uv (⭐81k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 *   [virtualenv (⭐5k)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 

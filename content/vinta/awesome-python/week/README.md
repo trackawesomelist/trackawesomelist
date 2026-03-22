@@ -32,7 +32,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   [mindsdb (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 *   [scikit-learn (⭐65k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-*   [spark.ml](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library for distributed computing.
+*   [spark.ml (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
 
 ### Natural Language Processing
 
@@ -117,6 +117,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Admin Panels
 
 *   [flask-admin (⭐6.1k)](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask.
+*   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 
 ### CMS
 
@@ -133,7 +134,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### ORM
 
 *   Relational Databases
-    *   [django.db.models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
+    *   [django.db.models (⭐87k)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
     *   [sqlalchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
         *   [awesome-sqlalchemy (⭐3k)](https://github.com/dahlia/awesome-sqlalchemy)
     *   [dataset (⭐4.9k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
@@ -205,6 +206,10 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Dashboards and Apps
     *   [gradio (⭐42k)](https://github.com/gradio-app/gradio) - Build and share machine learning apps, all in Python.
     *   [streamlit (⭐44k)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+
+### Geolocation
+
+*   [geodjango (⭐87k)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 
 ### Science
 
@@ -301,7 +306,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Task Queues
 
 *   [celery (⭐28k)](https://github.com/celery/celery) - An asynchronous task queue/job queue based on distributed message passing.
-    *   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 
 ### Job Schedulers
 
@@ -422,6 +426,10 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   [dateparser (⭐2.8k)](https://github.com/scrapinghub/dateparser) - A Python parser for human-readable dates in dozens of languages.
 *   [pendulum (⭐6.6k)](https://github.com/python-pendulum/pendulum) - Python datetimes made easy.
 *   [zoneinfo](https://docs.python.org/3/library/zoneinfo.html) - (Python standard library) IANA time zone support. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
+
+### Environment Management
+
+*   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 
 ### Package Management
 
@@ -644,7 +652,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Geolocation
 
-*   [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 *   [geojson (⭐984)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 
 ### Science
@@ -829,7 +836,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Configuration Management
     *   [ansible (⭐68k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
     *   [cloudinit (⭐3.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
-    *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    *   [openstack (⭐5.9k)](https://github.com/openstack/openstack) - Open source software for building private and public clouds.
     *   [pyinfra (⭐4.9k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐15k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
@@ -1138,7 +1145,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Environment Management
 
 *   [pyenv (⭐44k)](https://github.com/pyenv/pyenv) - Simple Python version management.
-    *   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
 
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 

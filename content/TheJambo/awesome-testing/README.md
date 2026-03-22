@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Mar 22, 2026](/content/2026/03/22/README.md)
+
+### Software / Test Management
+
+*   [skipper (⭐2)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
+
 ## [Mar 21, 2026](/content/2026/03/21/README.md)
 
 ### Software / API Testing
@@ -75,13 +81,13 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Webhook Debugger (⭐9)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+*   [Webhook Debugger (⭐11)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐20)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐21)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 

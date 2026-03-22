@@ -21,6 +21,10 @@ A curated list of testing resources
 
 *   \[Polarity])<https://www.polarity.so>) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
 
+### Software / Test Management
+
+*   [skipper (⭐2)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Software / Test Management
@@ -65,7 +69,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Webhook Debugger (⭐9)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+*   [Webhook Debugger (⭐11)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
 ### Software / Visual Testing
 
@@ -73,7 +77,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐20)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐21)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 

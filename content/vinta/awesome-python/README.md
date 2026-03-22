@@ -6,6 +6,36 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Mar 22, 2026](/content/2026/03/22/README.md)
+
+### Machine Learning
+
+*   [spark.ml (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
+
+### Admin Panels
+
+*   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
+
+### ORM
+
+*   Relational Databases
+    *   [django.db.models (⭐87k)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
+    *   [sqlalchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
+        *   [awesome-sqlalchemy (⭐3k)](https://github.com/dahlia/awesome-sqlalchemy)
+    *   [dataset (⭐4.9k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+    *   [peewee (⭐12k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
+    *   [pony (⭐3.8k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
+    *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
+    *   [tortoise-orm (⭐5.5k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
+
+### Geolocation
+
+*   [geodjango (⭐87k)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
+
+### Environment Management
+
+*   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
+
 ## [Mar 21, 2026](/content/2026/03/21/README.md)
 
 ### Deep Learning
@@ -287,7 +317,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   [h2o (⭐7.5k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 *   [mindsdb (⭐39k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [scikit-learn (⭐65k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-*   [spark.ml](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library for distributed computing.
 
 ### Natural Language Processing
 
@@ -320,15 +349,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### ORM
 
-*   Relational Databases
-    *   [django.db.models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
-    *   [sqlalchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
-        *   [awesome-sqlalchemy (⭐3k)](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [dataset (⭐4.9k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
-    *   [peewee (⭐12k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
-    *   [pony (⭐3.8k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
-    *   [tortoise-orm (⭐5.5k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
 *   NoSQL Databases
     *   [beanie (⭐2.7k)](https://github.com/BeanieODM/beanie) - An asynchronous Python object-document mapper (ODM) for MongoDB.
     *   [mongoengine (⭐4.3k)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
@@ -395,7 +415,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Task Queues
 
 *   [celery (⭐28k)](https://github.com/celery/celery) - An asynchronous task queue/job queue based on distributed message passing.
-    *   [flower (⭐7.1k)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 
 ### Job Schedulers
 
@@ -707,7 +726,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Geolocation
 
-*   [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 *   [geojson (⭐984)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 
 ### Science
@@ -892,7 +910,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Configuration Management
     *   [ansible (⭐68k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
     *   [cloudinit (⭐3.6k)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
-    *   [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    *   [openstack (⭐5.9k)](https://github.com/openstack/openstack) - Open source software for building private and public clouds.
     *   [pyinfra (⭐4.9k)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐15k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 
@@ -1214,7 +1232,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Environment Management
 
 *   [pyenv (⭐44k)](https://github.com/pyenv/pyenv) - Simple Python version management.
-    *   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
 
 ## [May 24, 2017](/content/2017/05/24/README.md)
 
