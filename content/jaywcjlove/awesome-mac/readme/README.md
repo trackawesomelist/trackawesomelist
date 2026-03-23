@@ -387,7 +387,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
-*   [AXe (⭐1.4k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
+*   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 *   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 *   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
@@ -759,6 +759,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [PicGo (⭐26k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 *   [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Export icons for multi-platform[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 *   [uPic (⭐3.7k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+*   [Zipic](https://zipic.app/) - Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
 
 ## AI Client
 
@@ -777,6 +778,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 *   [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 *   [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
+*   [Orchard](https://orchard.5km.tech/) - MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
 *   [Witsy (⭐1.9k)](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 *   [remio](https://www.remio.ai/?utm_source=github_list) - A personal ChatGPT that ​​responds based on your knowledge​​. Lastest LLMs, Local first, and BYOK supported.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 *   [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
@@ -1203,7 +1205,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Organization Tools
 
-*   [AppPorts (⭐706)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+*   [AppPorts (⭐909)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 *   [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
@@ -1495,7 +1497,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [QLMarkdown (⭐2.4k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 *   [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
-*   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/)
+*   [Torrent Preview (⭐20)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/)
 *   [quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 *   [Syntax Highlight (⭐3.9k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 

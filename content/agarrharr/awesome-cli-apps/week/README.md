@@ -6,11 +6,21 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Entertainment
+
+*   [golazo (⭐391)](https://github.com/0xjuanma/golazo) - Soccer matches.
+
+### AI / Agents
+
+*   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Development / Chat
 
-*   [mk (⭐122)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+*   [mk (⭐124)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Development / Database
 
@@ -35,7 +45,7 @@
 
 ### Productivity / Testing
 
-*   [mynav (⭐228)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+*   [mynav (⭐229)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Productivity / Time Tracking
 
@@ -50,7 +60,7 @@
 
 ### Productivity / Finance
 
-*   [lakshmi (⭐137)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+*   [lakshmi (⭐139)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Utilities / Calendars
 
@@ -59,11 +69,11 @@
 ### Images / Image Conversion
 
 *   [gowall (⭐2k)](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
-*   [img2ascii (⭐62)](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
+*   [img2ascii (⭐64)](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ### Utilities / Shell Utilities
 
-*   [envio (⭐929)](https://github.com/envio-cli/envio) - Manage environment variables securely.
+*   [envio (⭐932)](https://github.com/envio-cli/envio) - Manage environment variables securely.
 *   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 *   [aha (⭐1.1k)](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
@@ -107,7 +117,7 @@
 
 ### Files and Directories / Search
 
-*   [srgn (⭐883)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
+*   [srgn (⭐887)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 *   [rawhide (⭐55)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 *   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 
@@ -169,7 +179,7 @@
 
 ### Entertainment / Music
 
-*   [spotatui (⭐434)](https://github.com/LargeModGames/spotatui) - Spotify client.
+*   [spotatui (⭐477)](https://github.com/LargeModGames/spotatui) - Spotify client.
 
 ### Utilities / macOS
 
@@ -213,7 +223,7 @@
 
 ### Productivity / Testing
 
-*   [CookCLI (⭐1.1k)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+*   [CookCLI (⭐1.2k)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
 
@@ -262,11 +272,11 @@
 
 ### Utilities / Network Utilities
 
-*   [rustnet (⭐1.8k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
+*   [rustnet (⭐1.9k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐498)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐497)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -289,7 +299,7 @@
 
 ### Files and Directories / Files
 
-*   [scc (⭐8.1k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+*   [scc (⭐8.2k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 
 ## [Sep 01 - Sep 07, 2025](/content/2025/35/README.md)
 
@@ -324,7 +334,7 @@
 ### Development / Devops
 
 *   [logdy (⭐2.1k)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
-*   [s5cmd (⭐3.9k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+*   [s5cmd (⭐4k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
 ### Development / Docker
 
@@ -352,7 +362,7 @@
 
 ### Files and Directories / Search
 
-*   [television (⭐4.3k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐4.7k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ### Version Control / Git
 
@@ -378,7 +388,7 @@
 
 ### Files and Directories / File Managers
 
-*   [yazi (⭐33k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐35k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -414,7 +424,7 @@
 
 ### Files and Directories / Directory Listing
 
-*   [eza (⭐20k)](https://github.com/eza-community/eza) - Improved version of `ls`.
+*   [eza (⭐21k)](https://github.com/eza-community/eza) - Improved version of `ls`.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -430,7 +440,7 @@
 
 ### Productivity / Testing
 
-*   [fjira (⭐261)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐262)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Productivity / Finance
 
@@ -662,7 +672,7 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐332)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐334)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
@@ -670,7 +680,7 @@
 
 *   [neovim (⭐97k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐646)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐43k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
+*   [helix (⭐44k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -716,7 +726,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐817)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐821)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -1029,7 +1039,7 @@
 ### Files and Directories / Directory Navigation
 
 *   [z.lua (⭐3.1k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐34k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [zoxide (⭐35k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [Apr 06 - Apr 12, 2020](/content/2020/14/README.md)
 
@@ -1068,7 +1078,7 @@
 
 ### Files and Directories / Search
 
-*   [broot (⭐12k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐13k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
@@ -1237,7 +1247,7 @@
 
 *   [awesome-shell (⭐37k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐17k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-zsh-plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐65k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 *   [awesome-git-addons (⭐2.1k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 
@@ -1293,10 +1303,6 @@
 *   [Buku (⭐7.1k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 *   [OverTime (⭐416)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
-### Productivity / Time Tracking
-
-*   [moro (⭐465)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
-
 ### Productivity / Note Taking and Lists
 
 *   [idea (⭐270)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
@@ -1333,7 +1339,7 @@
 
 ### Development / Release
 
-*   [clog (⭐906)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐909)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 

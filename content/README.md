@@ -95,6 +95,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [lazyenv (⭐1)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
+#### [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+##### Entertainment
+
+*   [golazo (⭐391)](https://github.com/0xjuanma/golazo) - Soccer matches.
+
+##### AI / Agents
+
+*   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+
+#### [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Design and Product / Other Tools
+
+*   [Zipic](https://zipic.app/) - Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
+
+##### AI Client / Other Tools
+
+*   [Orchard](https://orchard.5km.tech/) - MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
+
 ### [Mar 22, 2026](/content/2026/03/22/README.md)
 
 
@@ -149,17 +169,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 *   [TemplateFox](https://pdftemplateapi.com) - Generate PDFs from reusable templates via API with a visual editor and multi-language SDKs.
 
-#### [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Voice-to-Text / Audio Record and Process
-
-*   [Azex Speech (⭐0)](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/azex-ai/speech) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Security Tools / Audio Record and Process
-
-*   [NoxKey (⭐0)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/No-Box-Dev/Noxkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-#### [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Trading & Backtesting
 
@@ -208,13 +218,13 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 *   [CONVEXFI](https://github.com/convexfi) - Official GitHub organization for the convex research group at the Hong Kong University of Science and Technology (HKUST).
 
-#### [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+#### [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ##### In English
 
 *   [Chain of Thought](https://chainofthought.show/) - Weekly conversations with AI leaders, engineers, and founders exploring the ideas shaping AI development, from inference infrastructure and developer tools to leadership and industry strategy. Hosted by Conor Bronsdon.
 
-#### [10. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Machine Learning
 
@@ -254,17 +264,27 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 *   [pyenv-win (⭐7.1k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 
-#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Email
 
 *   [reacherhq/check-if-email-exists (⭐8.5k)](https://github.com/reacherhq/check-if-email-exists) \[[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions)
 
-#### [12. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Other Software / Libraries for creating HTTP middlewares
 
 *   [CrunchyCleaner (⭐12)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
+
+#### [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Voice-to-Text / Audio Record and Process
+
+*   [Azex Speech (⭐0)](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/azex-ai/speech) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Security Tools / Audio Record and Process
+
+*   [NoxKey (⭐0)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/No-Box-Dev/Noxkey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### [Mar 21, 2026](/content/2026/03/21/README.md)
 
@@ -389,27 +409,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 *   \[Polarity])<https://www.polarity.so>) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
 
-#### [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Developer Tools / Databases
-
-*   [Redis Insight](https://redis.io/insight/) - Official Redis tool for browsing, debugging, and visualizing data. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Security Tools / Audio Record and Process
-
-*   [Lockpaw](https://getlockpaw.com) - Menu bar screen guard for macOS — lock and unlock your screen with a hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sorkila/lockpaw) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Productivity
-
-*   [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - Use one board to manage all your project information efficiently.[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6748314346?platform=mac)
-
-#### [11. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Security / WAF & Protection
-
-*   [beelzebub-labs/beelzebub (⭐1.9k)](https://github.com/beelzebub-labs/beelzebub) — AI-powered honeypot framework ☆`1,905`
-
-#### [12. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Deep Learning
 
@@ -596,7 +596,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 
 *   [mitmproxy (⭐43k)](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
-#### [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Blockchain
 
@@ -619,6 +619,26 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 *   [alrevuelta/rs-merkle-tree (⭐225)](https://github.com/alrevuelta/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
 *   [ashvardanian/NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
+#### [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Developer Tools / Databases
+
+*   [Redis Insight](https://redis.io/insight/) - Official Redis tool for browsing, debugging, and visualizing data. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Security Tools / Audio Record and Process
+
+*   [Lockpaw](https://getlockpaw.com) - Menu bar screen guard for macOS — lock and unlock your screen with a hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sorkila/lockpaw) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Productivity
+
+*   [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - Use one board to manage all your project information efficiently.[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id6748314346?platform=mac)
+
+#### [13. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Security / WAF & Protection
+
+*   [beelzebub-labs/beelzebub (⭐1.9k)](https://github.com/beelzebub-labs/beelzebub) — AI-powered honeypot framework ☆`1,907`
+
 ---
 
 - Next: [Mar 20, 2026](&#x2F;content&#x2F;2026&#x2F;03&#x2F;20&#x2F;README.md)
@@ -630,8 +650,8 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 280K 📝 03&#x2F;22) - A list of Free Software network services and web applications which can be hosted on your own servers
 4. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 384K 📝 03&#x2F;19) - :books: Freely available programming books
 5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 167K 📝 03&#x2F;23) - A curated list of awesome Go frameworks, libraries and software
-6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 120K 📝 03&#x2F;21) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 100K 📝 03&#x2F;22) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 100K 📝 03&#x2F;23) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+7. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 120K 📝 03&#x2F;21) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 70K 📝 03&#x2F;21) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 56K 📝 03&#x2F;23) - A curated list of Rust code and resources.
 10. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 03&#x2F;18) - 🎉 A curated list of awesome things related to Vue.js
@@ -640,15 +660,15 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 13. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source](https://github.com/wilsonfreitas/awesome-quant) ⭐ 25K 📝 03&#x2F;22) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 14. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 03&#x2F;18) - :whale: A curated list of Docker resources and projects
 15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 20K 📝 03&#x2F;23) - Collections of awesome neovim plugins.
-16. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 03&#x2F;22) - List of useful Quick Look plugins for developers
-17. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 03&#x2F;16) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-18. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 25K 📝 03&#x2F;19) - :scream: A curated list of amazingly awesome OSINT
-19. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 29K 📝 03&#x2F;17) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-20. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 03&#x2F;23) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-21. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 18K 📝 03&#x2F;21) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-22. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14K 📝 03&#x2F;23) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-23. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 03&#x2F;20) - A collection of ZSH frameworks, plugins, themes and tutorials.
-24. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 19K 📝 03&#x2F;19) - 🖥 📊 🕹 🛠 A curated list of command line apps
+16. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 19K 📝 03&#x2F;23) - 🖥 📊 🕹 🛠 A curated list of command line apps
+17. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source](https://github.com/sindresorhus/quick-look-plugins) ⭐ 19K 📝 03&#x2F;22) - List of useful Quick Look plugins for developers
+18. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 03&#x2F;16) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+19. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 25K 📝 03&#x2F;19) - :scream: A curated list of amazingly awesome OSINT
+20. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 29K 📝 03&#x2F;17) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+21. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 03&#x2F;23) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source](https://github.com/pluja/awesome-privacy) ⭐ 18K 📝 03&#x2F;21) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+23. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14K 📝 03&#x2F;23) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+24. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 03&#x2F;20) - A collection of ZSH frameworks, plugins, themes and tutorials.
 25. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15K 📝 03&#x2F;21) - 😎 Awesome things related to Tailwind CSS
 26. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 03&#x2F;15) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 27. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source](https://github.com/ellisonleao/magictools) ⭐ 16K 📝 03&#x2F;19) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -869,7 +889,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 - [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 9.5K, 📝 03&#x2F;02 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
 - [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
 - [Awesome Ci](/content/ligurio/awesome-ci/README.md) - ([Source ⭐ 4K, 📝 03&#x2F;01 ](https://github.com/ligurio/awesome-ci)) - The list of continuous integration services and tools
-- [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 19K, 📝 03&#x2F;19 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 19K, 📝 03&#x2F;23 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;16 ](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Awesome Devenv](/content/jondot/awesome-devenv/README.md) - ([Source ⭐ 2.4K, 📝 22&#x2F;09&#x2F;20 ](https://github.com/jondot/awesome-devenv)) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [Awesome Devtools](/content/moimikey/awesome-devtools/README.md) - ([Source ⭐ 366, 📝 23&#x2F;12&#x2F;26 ](https://github.com/moimikey/awesome-devtools)) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
@@ -1304,7 +1324,7 @@ Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 395, 📝 25&#x2F;07&#x2F;14 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 100K, 📝 03&#x2F;22 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 100K, 📝 03&#x2F;23 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 9, 📝 03&#x2F;04 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4.9K, 📝 02&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 65K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources

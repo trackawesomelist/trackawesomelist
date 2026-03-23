@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 23, 2026](/content/2026/03/23/README.md)
+
+### Design and Product / Other Tools
+
+*   [Zipic](https://zipic.app/) - Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
+
+### AI Client / Other Tools
+
+*   [Orchard](https://orchard.5km.tech/) - MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
+
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
 ### Voice-to-Text / Audio Record and Process
@@ -119,15 +129,15 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [AXe (⭐1.4k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
-*   [AppPorts (⭐706)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AppPorts (⭐909)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### QuickLook Plugins / System Related Tools
 
-*   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
+*   [Torrent Preview (⭐20)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
 
 ## [Mar 07, 2026](/content/2026/03/07/README.md)
 

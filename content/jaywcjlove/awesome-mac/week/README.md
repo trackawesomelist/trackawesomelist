@@ -6,6 +6,16 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Design and Product / Other Tools
+
+*   [Zipic](https://zipic.app/) - Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
+
+### AI Client / Other Tools
+
+*   [Orchard](https://orchard.5km.tech/) - MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Reading and Writing Tools / Ebooks
@@ -99,7 +109,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [AXe (⭐1.4k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Swifka (⭐23)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
@@ -129,7 +139,7 @@
 
 ### Utilities / File Organization Tools
 
-*   [AppPorts (⭐706)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AppPorts (⭐909)](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
@@ -138,7 +148,7 @@
 ### QuickLook Plugins / System Related Tools
 
 *   [FluxMarkdown (⭐70)](https://github.com/xykong/flux-markdown) - Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xykong/flux-markdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Torrent Preview (⭐7)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
+*   [Torrent Preview (⭐20)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` contents in Finder, including files, trackers, and metadata. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornpalsson/torrentpreview/)
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
