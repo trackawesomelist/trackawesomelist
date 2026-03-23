@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 23, 2026](/content/2026/03/23/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [goast (⭐63)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -312,7 +318,6 @@
 *   **Primitive Erlang Security Tool (PEST)** :warning: — A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
 *   [FSharpLint (⭐320)](https://github.com/fsprojects/FSharpLint) — Lint tool for F#.
 *   **dingo-hunter** :warning: — Static analyser for finding deadlocks in Go.
-*   **goast** :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 *   **interfacer** :warning: — Suggest narrower interfaces that can be used.
 *   **maligned** :warning: — Detect structs that would take less memory if their fields were sorted.
 *   **safesql** :warning: — Static analysis tool for Golang that protects against SQL injections.

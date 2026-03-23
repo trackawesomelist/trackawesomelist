@@ -448,6 +448,7 @@ A curated list of podcasts we like to listen to.
 *   [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 *   [RadioPublic](https://radiopublic.com/)
 *   [Podcast Addict](https://podcastaddict.com/app) - Android Podcast player
+*   [The Podcast App](https://thepodcastapp.dev) - Free, ad-free podcast player for iOS and Android with AI cross-episode search
 
 ### More
 

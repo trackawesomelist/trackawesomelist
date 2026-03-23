@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 23, 2026](/content/2026/03/23/README.md)
+
+### Advanced Console UIs
+
+*   [lazyenv (⭐1)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
 ### Other Software / Libraries for creating HTTP middlewares

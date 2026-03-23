@@ -6,6 +6,12 @@ A curated list of podcasts we like to listen to.
 
 [ Daily / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
 
+## [Mar 23, 2026](/content/2026/03/23/README.md)
+
+### In Arabic / Tooling
+
+*   [The Podcast App](https://thepodcastapp.dev) - Free, ad-free podcast player for iOS and Android with AI cross-episode search
+
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
 ### In English

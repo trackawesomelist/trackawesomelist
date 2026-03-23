@@ -6,6 +6,15 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Mar 23, 2026](/content/2026/03/23/README.md)
+
+### AI and Agents
+
+*   Agent Skills
+    *   [django-ai-plugins (⭐29)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+    *   [sentry-skills (⭐454)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+    *   [trailofbits-skills (⭐3.8k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
+
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
 ### Machine Learning
@@ -297,7 +306,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [dagster (⭐15k)](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
-### Command-line Tools
+### CLI Tools
 
 *   Productivity Tools
     *   [cookiecutter (⭐25k)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
@@ -584,9 +593,9 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [geopandas (⭐5.1k)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 
-### Command-line Interface Development
+### CLI Development
 
-*   Command-line Application Development
+*   CLI Development
     *   [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
     *   [cement (⭐1.3k)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
     *   [click (⭐17k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
@@ -744,7 +753,8 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Code Formatters
     *   [black (⭐41k)](https://github.com/psf/black) - The uncompromising Python code formatter.
     *   [isort (⭐6.9k)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-*   Static Type Annotations Generators
+    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+*   Type Annotations Generators
     *   [monkeytype (⭐5k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
     *   [pytype (⭐5k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
@@ -770,7 +780,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [chaostoolkit (⭐2k)](https://github.com/chaostoolkit/chaostoolkit) - A Chaos Engineering toolkit & Orchestration for Developers.
     *   [pre-commit (⭐15k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-### Command-line Tools
+### CLI Tools
 
 *   CLI Enhancements
     *   [httpie (⭐38k)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
@@ -786,7 +796,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Image Processing
 
-*   [wand (⭐1.5k)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
+*   [wand (⭐1.5k)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
 ### Implementations
 
@@ -829,10 +839,6 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 *   [Pycoder's Weekly](https://pycoders.com/)
 *   [Python Weekly](https://www.pythonweekly.com/)
-
-### Podcasts
-
-*   [Python Test](https://podcast.pythontest.com/)
 
 ## [Jul 25, 2021](/content/2021/07/25/README.md)
 
@@ -897,7 +903,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Code Analysis
 
-*   Static Type Checkers, also see [awesome-python-typing (⭐2k)](https://github.com/typeddjango/awesome-python-typing)
+*   Type Checkers - [awesome-python-typing (⭐2k)](https://github.com/typeddjango/awesome-python-typing)
     *   [mypy (⭐20k)](https://github.com/python/mypy) - Check variable types during compile time.
     *   [pyre-check (⭐7.2k)](https://github.com/facebook/pyre-check) - Performant type checking.
     *   [ty (⭐18k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
@@ -1053,7 +1059,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ## [May 27, 2019](/content/2019/05/27/README.md)
 
-### Command-line Interface Development
+### CLI Development
 
 *   Terminal Rendering
     *   [alive-progress (⭐6.3k)](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
@@ -1195,7 +1201,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Testing
 
-*   Testing Frameworks
+*   Frameworks
     *   [hypothesis (⭐8.5k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
     *   [pytest (⭐14k)](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
     *   [robotframework (⭐11k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
@@ -1297,7 +1303,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### File Format Processing
 
-*   Office
+*   MS Office
     *   [docxtpl (⭐2.6k)](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template
     *   [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
     *   [pyexcel (⭐1.3k)](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
@@ -1317,7 +1323,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Image Processing
 
-*   [pillow (⭐13k)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
+*   [pillow (⭐13k)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](https://www.pythonware.com/products/pil/) fork.
 *   [python-qrcode (⭐4.9k)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 *   [thumbor (⭐10k)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
 

@@ -1,10 +1,21 @@
 # Track Awesome Research Updates Weekly
 
-:seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
+:seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / Weekly / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
+
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Scientific Computing / HTML+CSS+JS
+
+*   [dna-claude-analysis (⭐21)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+
+### Bibliography / HTML+CSS+JS
+
+*   [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
+*   [ScholarRef (⭐0)](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
@@ -23,7 +34,7 @@
 ### Editors / LaTeX
 
 *   [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control, Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-*   [Overleaf Source Code (⭐11k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
+*   [Overleaf Source Code (⭐17k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 
 ### LaTeX Beamer / HTML+CSS+JS
 
@@ -149,7 +160,7 @@
 
 ### Graph Making / HTML+CSS+JS
 
-*   [colorcet (⭐629)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐727)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ### More / HTML+CSS+JS
 
@@ -181,16 +192,16 @@
 
 ### Writing / Social Sciences
 
-*   [rtd theme (⭐4.4k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐702)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [rtd theme (⭐5k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+*   [Alabaster (⭐769)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
-*   [proselint (⭐4.2k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
-*   [write good (⭐4.8k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
-*   [artbollocks-mode (⭐68)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
+*   [proselint (⭐4.5k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
+*   [write good (⭐5.1k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
+*   [artbollocks-mode (⭐78)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
-*   [Rousseau (⭐178)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
-*   [textlint-rule-rousseau (⭐7)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
+*   [Rousseau (⭐187)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+*   [textlint-rule-rousseau (⭐9)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 *   [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 
 ## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
@@ -216,7 +227,7 @@
 
 ### Bibliography / HTML+CSS+JS
 
-*   [org-ref (⭐1.3k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
+*   [org-ref (⭐1.4k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Forums and Q&A's / HTML+CSS+JS
 
@@ -284,7 +295,7 @@
 
 ### Tips for Researchers / HTML+CSS+JS
 
-*   Check the [Academic Resources and Grey Literature List (⭐13k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐13k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐25k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐25k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
@@ -306,9 +317,9 @@
 *   [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 *   [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 *   [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-*   [vim (⭐31k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+*   [vim (⭐40k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
     *   [Vundle (⭐24k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
-    *   [vimrc from amix (⭐29k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+    *   [vimrc from amix (⭐32k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
 ## [May 08 - May 14, 2017](/content/2017/19/README.md)
 
@@ -327,7 +338,7 @@
 
 ### Editors / Markdown
 
-*   [eme (⭐2k)](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
+*   [eme (⭐2.1k)](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
 *   [Moeditor](https://moeditor.org/) (`Win`,`Mac`,`Linux`): All purpose markdown editor.
 
 ### Editors / LaTeX
@@ -365,7 +376,7 @@
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
-*   [duecredit (⭐230)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+*   [duecredit (⭐242)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
 
@@ -437,8 +448,8 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐42)](https://github.com/emptymalei/statisticalphysics)
-*   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
+*   [Statistical Physics (⭐49)](https://github.com/emptymalei/statisticalphysics)
+*   [Neutrino Physics (⭐11)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
 
@@ -463,7 +474,7 @@
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
-*   [ReText (⭐1.7k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+*   [ReText (⭐2k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 
 ### Editors / LaTeX
 
@@ -471,9 +482,9 @@
 
 ### IPython Notebook / LaTeX
 
-*   [Scientific Python Lectures (⭐3.4k)](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Scientific Python Lectures (⭐3.6k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [Reproduced Papers](http://reproduced-papers.github.io/)
-*   [More (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
+*   [More (⭐17k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
 ### The Power of SVG / HTML+CSS+JS
 
@@ -489,7 +500,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐404)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -506,7 +517,7 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Pico (⭐3.7k)](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
+*   [Pico (⭐3.9k)](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 
 ### Mindmap / LaTeX
 
@@ -526,7 +537,7 @@
 
 ### Use The Source / HTML+CSS+JS
 
-*   [Beckpoke.js (⭐4.7k)](https://github.com/bespokejs/bespoke)
+*   [Beckpoke.js (⭐4.8k)](https://github.com/bespokejs/bespoke)
 
 ### Softwares / HTML+CSS+JS
 
@@ -540,7 +551,7 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [fuck (⭐371)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐397)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
 
@@ -598,7 +609,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐205)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐231)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -607,13 +618,13 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Ghost (⭐44k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐52k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 ### Static Site Generator / Social Sciences
 
 *   [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-    *   [Pelican Svbtle Theme (⭐154)](https://github.com/wting/pelican-svbtle)
+    *   [Pelican Svbtle Theme (⭐152)](https://github.com/wting/pelican-svbtle)
 
 ### Editors / LaTeX
 
@@ -628,13 +639,13 @@
 *   Mind Manager
 *   XMind
 *   Docear
-*   [KityMinder By Baidu (⭐4.3k)](https://github.com/fex-team/kityminder) : Chinese Interface
-*   [my-mind](http://my-mind.github.io/): repo [here (⭐3.2k)](https://github.com/ondras/my-mind).
-*   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐116)](https://github.com/ierror/BeautifulMind.io)
-*   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.6k)](https://github.com/drichard/mindmaps)
-*   [jsmind (⭐3k)](https://github.com/hizzgdev/jsmind)
+*   [KityMinder By Baidu (⭐4.9k)](https://github.com/fex-team/kityminder) : Chinese Interface
+*   [my-mind](http://my-mind.github.io/): repo [here (⭐3.4k)](https://github.com/ondras/my-mind).
+*   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐118)](https://github.com/ierror/BeautifulMind.io)
+*   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.9k)](https://github.com/drichard/mindmaps)
+*   [jsmind (⭐3.8k)](https://github.com/hizzgdev/jsmind)
 *   [jsmind](http://sourceforge.net/projects/jsmind/)
-*   [mindmaps (⭐2.6k)](https://github.com/drichard/mindmaps)
+*   [mindmaps (⭐2.9k)](https://github.com/drichard/mindmaps)
 
 ### Concept Map and Diagrams / LaTeX
 
@@ -643,25 +654,25 @@
 ### Online Load and Edit / LaTeX
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
-*   [Strut (⭐1.7k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐629)](https://github.com/harish-io/Impressionist)
+*   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
+*   [Impressionist (⭐706)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source / HTML+CSS+JS
 
-*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐37k)](https://github.com/impress/impress.js/wiki).
+*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐39k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-*   [Reveal.js (⭐64k)](https://github.com/hakimel/reveal.js)
+*   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
 *   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
-*   [Scrolldeck (⭐676)](https://github.com/johnpolacek/scrolldeck.js)
+*   [Scrolldeck (⭐664)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
-*   [Shower (⭐4.8k)](https://github.com/shower/shower)
+*   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐496)](https://github.com/briancavalier/slides)
+*   [Slides (⭐498)](https://github.com/briancavalier/slides)
 
 ### The Power of SVG / HTML+CSS+JS
 
-*   [ext-sozi (⭐28)](https://github.com/asyazwan/ext-sozi)
+*   [ext-sozi (⭐29)](https://github.com/asyazwan/ext-sozi)
 
 ### Softwares / HTML+CSS+JS
 
@@ -669,7 +680,7 @@
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
     *   [jiffylab (⭐186)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
-    *   [supervised-ipython-nbserver (⭐6)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
+    *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 
 ### Scientific Computing / HTML+CSS+JS
@@ -713,7 +724,7 @@
 *   [Raphaël](http://raphaeljs.com/) (`js`)
 *   [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
 *   [Paper.js](http://paperjs.org/) (`js`)
-*   [matplotlib (⭐2k)](https://github.com/jbmouret/matplotlib_for_papers)
+*   [matplotlib (⭐2.2k)](https://github.com/jbmouret/matplotlib_for_papers)
 *   [ggplot for python](http://ggplot.yhathq.com/)
 *   [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
 *   [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
@@ -740,9 +751,9 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [plot in terminal (⭐1.8k)](https://github.com/glamp/bashplotlib)
+*   [plot in terminal (⭐1.9k)](https://github.com/glamp/bashplotlib)
 *   [asciinema](https://asciinema.org/): Command line recording.
-*   [bashplot (⭐1.8k)](https://github.com/glamp/bashplotlib): plot in terminal.
+*   [bashplot (⭐1.9k)](https://github.com/glamp/bashplotlib): plot in terminal.
 
 ### Free Multimedia / HTML+CSS+JS
 

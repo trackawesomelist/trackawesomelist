@@ -12,7 +12,9 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 An opinionated list of Python frameworks, libraries, tools, and resources.
 
-> The **#10 most-starred repo on GitHub**. Put your product where Python developers discover tools. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/README.md/SPONSORSHIP.md).
+# **Sponsors**
+
+> The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/README.md/SPONSORSHIP.md).
 
 # Categories
 
@@ -25,7 +27,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [Computer Vision](#computer-vision)
 *   [Recommender Systems](#recommender-systems)
 
-**Web**
+**Web Development**
 
 *   [Web Frameworks](#web-frameworks)
 *   [Web APIs](#web-apis)
@@ -135,6 +137,10 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Libraries for building AI applications, LLM integrations, and autonomous agents.*
 
+*   Agent Skills
+    *   [django-ai-plugins (⭐29)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+    *   [sentry-skills (⭐454)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+    *   [trailofbits-skills (⭐3.8k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
 *   Frameworks
     *   [autogen (⭐56k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
     *   [crewai (⭐46k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
@@ -203,7 +209,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [implicit (⭐3.8k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 *   [scikit-surprise (⭐6.8k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 
-**Web**
+**Web Development**
 
 ## Web Frameworks
 
@@ -582,14 +588,15 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   Code Formatters
     *   [black (⭐41k)](https://github.com/psf/black) - The uncompromising Python code formatter.
     *   [isort (⭐6.9k)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-*   Static Type Checkers, also see [awesome-python-typing (⭐2k)](https://github.com/typeddjango/awesome-python-typing)
+    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+*   Refactoring
+    *   [rope (⭐2.2k)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
+*   Type Checkers - [awesome-python-typing (⭐2k)](https://github.com/typeddjango/awesome-python-typing)
     *   [mypy (⭐20k)](https://github.com/python/mypy) - Check variable types during compile time.
     *   [pyre-check (⭐7.2k)](https://github.com/facebook/pyre-check) - Performant type checking.
     *   [ty (⭐18k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
     *   [typeshed (⭐5k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
-*   Refactoring
-    *   [rope (⭐2.2k)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
-*   Static Type Annotations Generators
+*   Type Annotations Generators
     *   [monkeytype (⭐5k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
     *   [pytype (⭐5k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
@@ -597,7 +604,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Libraries for testing codebases and generating test data.*
 
-*   Testing Frameworks
+*   Frameworks
     *   [hypothesis (⭐8.5k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
     *   [pytest (⭐14k)](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
     *   [robotframework (⭐11k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
@@ -745,11 +752,11 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 **CLI & GUI**
 
-## Command-line Interface Development
+## CLI Development
 
 *Libraries for building command-line applications.*
 
-*   Command-line Application Development
+*   CLI Development
     *   [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
     *   [cement (⭐1.3k)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
     *   [click (⭐17k)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
@@ -764,7 +771,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [textual (⭐35k)](https://github.com/Textualize/textual) - A framework for building interactive user interfaces that run in the terminal and the browser.
     *   [tqdm (⭐31k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
-## Command-line Tools
+## CLI Tools
 
 *Useful CLI-based tools for productivity.*
 
@@ -858,7 +865,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [kreuzberg (⭐6.7k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [pyelftools (⭐2.2k)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
-*   Office
+*   MS Office
     *   [docxtpl (⭐2.6k)](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template
     *   [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
     *   [pyexcel (⭐1.3k)](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
@@ -899,14 +906,14 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Libraries for manipulating images.*
 
-*   [pillow (⭐13k)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
+*   [pillow (⭐13k)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](https://www.pythonware.com/products/pil/) fork.
 *   [pymatting (⭐1.9k)](https://github.com/pymatting/pymatting) - A library for alpha matting.
 *   [python-barcode (⭐649)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 *   [python-qrcode (⭐4.9k)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 *   [pyvips (⭐788)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image) - A Python library for (scientific) image processing.
 *   [thumbor (⭐10k)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
-*   [wand (⭐1.5k)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
+*   [wand (⭐1.5k)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
 ## Audio & Video Processing
 
@@ -1098,7 +1105,6 @@ Where to discover learning resources or new Python libraries.
 *   [Django Chat](https://djangochat.com/)
 *   [PyPodcats](https://pypodcats.live)
 *   [Python Bytes](https://pythonbytes.fm)
-*   [Python Test](https://podcast.pythontest.com/)
 *   [Talk Python To Me](https://talkpython.fm/)
 *   [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
