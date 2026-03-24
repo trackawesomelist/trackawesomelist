@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 24, 2026](/content/2026/03/24/README.md)
+
+### Syntax / Assembly
+
+*   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
 ### Programming Languages Support / Diagnostics

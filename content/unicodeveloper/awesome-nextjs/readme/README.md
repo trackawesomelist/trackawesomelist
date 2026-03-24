@@ -16,7 +16,7 @@
 
 [Next.js (⭐138k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐442k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐810)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -191,6 +191,7 @@
 
 ## Apps
 
+*   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 *   [DevToolKit (⭐0)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 *   [CourseLit (⭐1.1k)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 *   [FIM Agent (⭐109)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.

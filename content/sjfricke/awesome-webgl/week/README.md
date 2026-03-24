@@ -2,9 +2,15 @@
 
 A curated list of awesome WebGL libraries, resources and much more
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sjfricke/awesome-webgl/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) · ⭐ 1.4K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sjfricke/awesome-webgl/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) · ⭐ 1.5K · 🏷️ Front-End Development
 
 [ [Daily](/content/sjfricke/awesome-webgl/README.md) / Weekly / [Overview](/content/sjfricke/awesome-webgl/readme/README.md) ]
+
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Maps and Visualizations / Particles
+
+*   [MapMetrics GL (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -51,7 +57,7 @@ A curated list of awesome WebGL libraries, resources and much more
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
-*   [WebGL Month (⭐224)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
+*   [WebGL Month (⭐225)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -67,7 +73,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Others / Particles
 
-*   [Pocket.gl (⭐122)](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
+*   [Pocket.gl (⭐123)](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
 
 ### Community / Particles
 
@@ -77,7 +83,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Bug Reporting
 
-*   [Khronos Github Issue Page (⭐2.7k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
+*   [Khronos Github Issue Page (⭐2.8k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 
 ### Tools/Debugging
 
@@ -105,7 +111,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### WebVR / Particles
 
-*   [Primrose (⭐528)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
+*   [Primrose (⭐532)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -156,7 +162,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Related lists / Particles
 
-*   [glTF (⭐7.3k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
+*   [glTF (⭐7.7k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
 ## [Mar 12 - Mar 18, 2018](/content/2018/11/README.md)
 
@@ -172,7 +178,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Physics / Particles
 
-*   [Ammo.js (⭐4.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐4.5k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
@@ -185,9 +191,9 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Rendering / Particles
 
-*   [GLBoost (⭐106)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+*   [GLBoost (⭐107)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
-*   [Hilo3d (⭐653)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+*   [Hilo3d (⭐661)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
 ## [Dec 25 - Dec 31, 2017](/content/2017/52/README.md)
 
@@ -198,17 +204,17 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tools/Debugging
 
-*   [Khronos Dev Tools (⭐202)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
+*   [Khronos Dev Tools (⭐214)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 
 ### Others / Particles
 
-*   [Lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
+*   [Lightgl.js (⭐1.6k)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
 ### Others / Particles
 
-*   [Turbulenz (⭐4.6k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+*   [Turbulenz (⭐4.9k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
 ## [Nov 20 - Nov 26, 2017](/content/2017/47/README.md)
 
@@ -236,12 +242,12 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### GLSL Editors
 
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.2k)](https://github.com/glslify/glslify).
+*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.3k)](https://github.com/glslify/glslify).
 *   [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [Planck.js (⭐5k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
+*   [Planck.js (⭐5.2k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
 *   [Stage.js (⭐2.5k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations / Particles
@@ -343,7 +349,7 @@ A curated list of awesome WebGL libraries, resources and much more
 ### Books
 
 *   [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
-*   [WebGL Insights (⭐38)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
+*   [WebGL Insights (⭐39)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
     *   [Book's Personal Site](http://www.webglinsights.com/)
 *   [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
@@ -354,8 +360,8 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### References
 
-*   [Google Project ANGLE (⭐3.6k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.7k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐4k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.8k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 
@@ -371,7 +377,7 @@ A curated list of awesome WebGL libraries, resources and much more
 *   [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of *WebGL Up and Running*.
 *   [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 *   [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
-*   [WebGL 2 Examples (⭐545)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐574)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### WebGL 2 / Particles
 
@@ -431,7 +437,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [GLSL Shader Editor Extension (⭐620)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+*   [GLSL Shader Editor Extension (⭐635)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 
 ### Tools/Debugging / Firefox Specific Tools/Debugger
 
@@ -463,10 +469,10 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Related lists / Particles
 
-*   [awesome (⭐347k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐2.2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-*   [awesome-vulkan (⭐3.4k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-*   [gamedev (⭐14k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [awesome (⭐446k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐2.4k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+*   [awesome-vulkan (⭐3.7k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+*   [gamedev (⭐16k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
@@ -477,7 +483,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐913)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐918)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ### References / Firefox Specific Tools/Debugger
 

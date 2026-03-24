@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [AnsonH/copy-python-path.nvim (⭐2)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
+### Syntax / Assembly
+
+*   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Utility / Cursorline
