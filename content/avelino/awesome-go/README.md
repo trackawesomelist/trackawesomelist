@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 24, 2026](/content/2026/03/24/README.md)
+
+### Embeddable Scripting Languages
+
+*   [go-lua (⭐3)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
+
+### Template Engines
+
+*   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
 ### Advanced Console UIs
@@ -137,11 +147,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Queues
 
-*   [deheap (⭐15)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
+*   [deheap (⭐16)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [vizb (⭐60)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐62)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
@@ -824,10 +834,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [wd-41 (⭐151)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
-
-### Template Engines
-
-*   [extemplate](https://git.sr.ht/~dvko/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 
 ### Mock
 
@@ -4197,7 +4203,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [tidb (⭐40k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 *   [tiedot (⭐2.7k)](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 *   [Vasto (⭐263)](https://github.com/chrislusf/vasto) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
-*   [VictoriaMetrics (⭐16k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
+*   [VictoriaMetrics (⭐17k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
 
 ### Database Schema Migration
 
@@ -5731,7 +5737,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐713)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐121k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐32)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐309)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐72k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
@@ -5802,7 +5808,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.2k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐19)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐18)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.

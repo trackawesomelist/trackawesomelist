@@ -1,12 +1,34 @@
 # Awesome List Updates on Mar 24, 2026
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Polars plugins / Finance
+
+*   [jquantstats (⭐19)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github/tschm).
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Embeddable Scripting Languages
+
+*   [go-lua (⭐3)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
+
+### Template Engines
+
+*   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+
+## [3. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+
+### Tools / Ansible
+
+*   [OpenBoot (⭐207)](https://github.com/openbootdotdev/openboot) - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell configuration, and macOS preferences via interactive TUI.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Workflow Automation
 
@@ -14,19 +36,19 @@
 *   [Feel-ix-343/markdown-oxide (⭐2k)](https://github.com/Feel-ix-343/markdown-oxide) - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
 *   [mise (⭐26k)](https://github.com/jdx/mise) \[[mise](https://crates.io/crates/mise)] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance. [![build badge](https://github.com/jdx/mise/actions/workflows/test.yml/badge.svg)](https://github.com/jdx/mise/actions/workflows/test.yml)
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Logging
 
 *   [django-structlog (⭐514)](https://github.com/jrobichaud/django-structlog) - django-structlog is a structured logging integration for Django project using [structlog](https://www.structlog.org)
 
-## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+## [6. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ### Utilities & Tools
 
 *   [dictee (⭐2)](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with GTK3 config UI, tray icon, and KDE Plasma shortcut integration. 100% local, 25+ languages.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
@@ -36,25 +58,33 @@
 
 *   [App Uninstaller (⭐0)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 
-## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Maps and Visualizations / Particles
 
 *   [MapMetrics GL (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [satozawa/graft.nvim](https://github.com/username/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### Syntax / Assembly
 
 *   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+### Git / GitHub
+
+*   [gh-tui-tools/gh-review.nvim (⭐9)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+
+## [11. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Coupons and Vouchers / Currencies
 

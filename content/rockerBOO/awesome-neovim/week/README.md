@@ -12,9 +12,17 @@ Collections of awesome neovim plugins.
 
 *   [AnsonH/copy-python-path.nvim (⭐2)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [satozawa/graft.nvim](https://github.com/username/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+
 ### Syntax / Assembly
 
 *   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+
+### Git / GitHub
+
+*   [gh-tui-tools/gh-review.nvim (⭐9)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
