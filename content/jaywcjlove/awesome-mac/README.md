@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 25, 2026](/content/2026/03/25/README.md)
+
+### Design and Product / Screenshot Tools
+
+*   [macshot (⭐75)](https://github.com/sw33tlie/macshot) - Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sw33tlie/macshot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 24, 2026](/content/2026/03/24/README.md)
 
 ### Utilities / Menu Bar Tools

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Mar 25, 2026](/content/2026/03/25/README.md)
+
+### Apps
+
+*   [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
+
 ## [Mar 24, 2026](/content/2026/03/24/README.md)
 
 ### Apps

@@ -12,13 +12,21 @@ Collections of awesome neovim plugins.
 
 *   [AnsonH/copy-python-path.nvim (⭐2)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
+### Programming Languages Support / Web Development
+
+*   [ankushbhagats/liveserver.nvim (⭐8)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
+
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [satozawa/graft.nvim](https://github.com/username/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+*   [satozawa/graft.nvim (⭐2)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### Syntax / Assembly
 
 *   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+
+### Colorscheme / Assembly
+
+*   [ankushbhagats/pastel.nvim (⭐18)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 
 ### Git / GitHub
 

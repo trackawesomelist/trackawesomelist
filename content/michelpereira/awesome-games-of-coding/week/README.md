@@ -6,6 +6,12 @@ A curated list of games that can teach you how to learn a programming language.
 
 [ [Daily](/content/michelpereira/awesome-games-of-coding/README.md) / Weekly / [Overview](/content/michelpereira/awesome-games-of-coding/readme/README.md) ]
 
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Miscellaneous
+
+*   [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### Language Independent
@@ -43,7 +49,7 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Miscellaneous
 
-*   [The Command Line Murders (⭐6k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+*   [The Command Line Murders (⭐6.1k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
 *   [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
@@ -78,7 +84,7 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Python
 
-*   [Robocode (⭐153)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
+*   [Robocode (⭐154)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
 ### Java
 

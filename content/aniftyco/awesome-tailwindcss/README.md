@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Mar 25, 2026](/content/2026/03/25/README.md)
+
+### Tools
+
+*   💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
+
 ## [Mar 21, 2026](/content/2026/03/21/README.md)
 
 ### Tools
@@ -157,7 +163,7 @@
 
 ### IDE extensions
 
-*   [LSP support for Emacs (⭐221)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
+*   [LSP support for Emacs (⭐221)](https://github.com/merrickluo/lsp-tailwindcss) - Provides IntelliSense in Emacs.
 
 ## [May 12, 2023](/content/2023/05/12/README.md)
 
@@ -175,7 +181,7 @@
 
 ### Tools
 
-*   💼 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
+*   💼 [NativeWind](https://www.nativewind.dev) - Uses Tailwind CSS as scripting language to create a universal style system for React Native.
 
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
@@ -281,7 +287,6 @@
 *   🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 *   🔼 [RustyWind (⭐610)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
-*   💼 [@nuxtjs/tailwindcss (⭐1.9k)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 
 ### UI libraries, components & templates
 

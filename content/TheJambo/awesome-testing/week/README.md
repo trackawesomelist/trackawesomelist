@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Software / Test Data Management
+
+*   [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
+
+### Software / A/B Testing
+
+*   [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Software / API Testing
@@ -61,7 +71,7 @@ A curated list of testing resources
 *   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 *   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
-### Blogs / Mind Mapping & Documentation
+### Blogs / A/B Testing
 
 *   [And others (⭐107)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
@@ -94,7 +104,7 @@ A curated list of testing resources
 *   [flutter-skill (⭐91)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
-### Newsletters / Mind Mapping & Documentation
+### Newsletters / A/B Testing
 
 *   [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
 
@@ -259,7 +269,7 @@ A curated list of testing resources
 
 *   [RestQA (⭐93)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 
-### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
+### Training (Includes developer training for automation testers) / A/B Testing
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
@@ -295,13 +305,13 @@ A curated list of testing resources
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
-### Books / Mind Mapping & Documentation
+### Books / A/B Testing
 
 *   [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
-### Books / Mind Mapping & Documentation
+### Books / A/B Testing
 
 *   [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
 *   [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
@@ -327,7 +337,7 @@ A curated list of testing resources
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
-### Blogs / Mind Mapping & Documentation
+### Blogs / A/B Testing
 
 *   [Automation Panda](https://automationpanda.com/)
 
@@ -339,25 +349,25 @@ A curated list of testing resources
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
-### Newsletters / Mind Mapping & Documentation
+### Newsletters / A/B Testing
 
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
-### Blogs / Mind Mapping & Documentation
+### Blogs / A/B Testing
 
 *   [Softwaretester Blog](https://www.softwaretester.blog/)
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
-### Books / Mind Mapping & Documentation
+### Books / A/B Testing
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
-### Books / Mind Mapping & Documentation
+### Books / A/B Testing
 
 *   [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - A book on how to design and execute controlled software failure experiments.
 
@@ -383,7 +393,7 @@ A curated list of testing resources
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
 
-### Blogs / Mind Mapping & Documentation
+### Blogs / A/B Testing
 
 *   [Nikita Sobolev](https://sobolevn.me/)
 
@@ -433,7 +443,7 @@ A curated list of testing resources
 
 *   [TestLink (⭐1.6k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 
-### Books / Mind Mapping & Documentation
+### Books / A/B Testing
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
@@ -447,7 +457,7 @@ A curated list of testing resources
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
-### Blogs / Mind Mapping & Documentation
+### Blogs / A/B Testing
 
 *   [James Bach](http://www.satisfice.com/blog/)
 *   [Michael Bolton](http://www.developsense.com/blog/)
@@ -522,7 +532,7 @@ A curated list of testing resources
 
 *   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 
-### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
+### Training (Includes developer training for automation testers) / A/B Testing
 
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
