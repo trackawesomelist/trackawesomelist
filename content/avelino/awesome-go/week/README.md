@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gxpdf (⭐13)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
 
+### Strings
+
+*   [stringFormatter (⭐62)](https://github.com/Wissance/stringFormatter) - String formatting like in Python or C# manner with the additional text formatting features.
+
 ### Template Engines
 
 *   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
@@ -5618,7 +5622,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocryforhelp (⭐39)](https://github.com/ninedraft/gocryforhelp) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
 *   [Golang News](https://golangnews.com) - Links and news about Go programming.
 *   [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
-*   [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 *   [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).
 *   [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
 *   [json2go](https://m-zajac.github.io/json2go) - Advanced JSON to Go struct conversion - online tool.
