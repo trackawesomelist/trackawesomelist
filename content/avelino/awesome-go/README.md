@@ -8,9 +8,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
+### Artificial Intelligence
+
+*   [ai (⭐4)](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
+
 ### Advanced Console UIs
 
 *   [chroma16 (⭐0)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
+
+### Financial
+
+*   [coinpaprika-api-go-client (⭐26)](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 
 ### Selenium and browser control tools
 
@@ -147,7 +155,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Blockchain
 
-*   [tronlib (⭐0)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
+*   [tronlib (⭐1)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
 
 ### Bloom and Cuckoo Filters
 
@@ -155,7 +163,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [pm (⭐0)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
+*   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 
 ### Version Control
 

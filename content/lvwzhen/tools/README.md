@@ -6,6 +6,12 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Mar 26, 2026](/content/2026/03/26/README.md)
+
+### Tools collection
+
+*   [FreeToolBox](https://www.freetoolbox.site/)
+
 ## [Oct 19, 2025](/content/2025/10/19/README.md)
 
 ### JavaScript
@@ -414,7 +420,7 @@ Tools Online
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐362)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

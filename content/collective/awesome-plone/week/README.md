@@ -2,9 +2,15 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 72 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 74 · 🏷️ Content Management Systems
 
 [ [Daily](/content/collective/awesome-plone/README.md) / Weekly / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### SEO
+
+*   [kitconcept.seo (⭐1)](https://github.com/kitconcept/kitconcept.seo) - Adds extra fields used for SEO optimisation for sites using Volto.
 
 ## [Jan 26 - Feb 01, 2026](/content/2026/4/README.md)
 
@@ -67,7 +73,7 @@ Add-ons and resources for the CMS Plone
 
 ### Sysadmin
 
-*   [collective.regenv (⭐5)](https://github.com/collective/collective.regenv) - Override registry settings using environment variables.
+*   [collective.regenv (⭐7)](https://github.com/collective/collective.regenv) - Override registry settings using environment variables.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -157,7 +163,7 @@ Add-ons and resources for the CMS Plone
 ### Layout
 
 *   [plone.app.mosaic (⭐36)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-*   [collective.cover (⭐47)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+*   [collective.cover (⭐48)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 *   [collective.contentsections (⭐10)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
@@ -247,7 +253,7 @@ Add-ons and resources for the CMS Plone
 
 *   [collective.catalogcleanup (⭐4)](https://github.com/collective/collective.catalogcleanup) - Removes data from the catalog that no longer belong to an actual object.
 *   [collective.fingerpointing (⭐5)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
-*   [collective.ifttt (⭐2)](https://github.com/collective/collective.ifttt) - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
+*   [collective.ifttt (⭐3)](https://github.com/collective/collective.ifttt) - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
 *   [collective.recipe.backup (⭐5)](https://github.com/collective/collective.recipe.backup) - Powerful and flexible backup/restore solution for Plone.
 *   [collective.revisionmanager (⭐6)](https://github.com/collective/collective.revisionmanager) - Manage Products.CMFEditions histories that can bloat your database.
 *   [collective.sentry (⭐7)](https://github.com/collective/collective.sentry) - Sentry integration to aggregate errors and help finding their causes.

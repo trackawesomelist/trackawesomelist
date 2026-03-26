@@ -133,7 +133,7 @@ Tools Online
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [webfonts](http://www.fonts.com/web-fonts)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐362)](https://github.com/lvwzhen/iconpark)
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 *   [Fontface Ninja](http://fontface.ninja/)
 *   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
@@ -199,6 +199,7 @@ Tools Online
 ### Tools collection
 
 *   [SmallDev.tools](https://smalldev.tools/)
+*   [FreeToolBox](https://www.freetoolbox.site/)
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)
 *   [giga.tools](https://giga.tools/)
 
