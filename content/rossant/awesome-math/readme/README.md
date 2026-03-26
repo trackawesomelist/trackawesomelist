@@ -137,7 +137,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Maxima](https://maxima.sourceforge.io/)
 *   [Sympy](https://www.sympy.org/)
 *   [Sagemath](http://www.sagemath.org/)
-*   [MathFlow (⭐50)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+*   [MathFlow (⭐51)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
 *   [Unit Converter](https://unitconverters.net)
 *   [GeoGebra](https://www.geogebra.org/?lang=en)
 *   [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
@@ -155,7 +155,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Midpoint Calculator](https://midpointcalculator.co)
 *   [Quartiles Calculator](https://quartilecalculator.net)
 *   [Corca Editor](https://corca.io/)
-*   [RunMat (⭐188)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+*   [RunMat (⭐193)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 *   [Structural Engineering Tools (SEPCO Engineering) (⭐0)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
 
 ## Questions and Answers
@@ -181,7 +181,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐383k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐384k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 *   [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 *   [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
@@ -351,7 +351,7 @@ All resources are freely available except those with a 💲 icon.
 *   📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 *   📝 [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 *   📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐568)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐567)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 *   📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 *   📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 *   📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -448,7 +448,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Algebraic Topology
 
-*   📝 [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
+*   📝 [Algebraic Topology](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
 *   📝 [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
 *   📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 *   📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
