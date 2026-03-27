@@ -249,6 +249,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Dog Behaviour & Training
 
+*   [Drinking from the Toilet - Hannah Branigan](https://hannahbranigan.dog/podcast/) - Podcast on training techniques, behaviour science and competitive obedience with a focus on positive reinforcement.
 *   [Dunbar Academy's Dog Star Daily Blog - Dr. Ian Dunbar](https://www.dogstardaily.com/) - Blogs and articles about dog behavior and things to know about training your puppy or dog.
 *   [Puppyhood Made Easy blog - The Puppy Academy](https://www.thepuppyacademy.com/blog) - Blog posts about puppy training with topics ranging from potty training, safety to good manners.
 *   [Puppy Training - Americal Kennel Club](https://www.akc.org/expert-advice/training/puppy-training/) - Collection of articles related to puppy training with topics like socializing, barn hunt, safe chewing and common puppy training challenges.

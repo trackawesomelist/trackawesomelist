@@ -285,7 +285,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [is::Engine (⭐228)](https://github.com/Is-Daouda/is-Engine) - C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.
 *   :tada: [Jitter (⭐47)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-*   :tada: [JNGL (⭐316)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐317)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 *   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 *   :tada: [Juno (⭐25)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 *   :tada: [Juno (⭐170)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
@@ -318,7 +318,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 *   :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 *   :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-*   :tada: [OpenXRay (⭐3.4k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [OpenXRay (⭐3.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [ORX](https://orx-project.org/) - ORX is a 2.5D Data-driven C/C++ open source & multi-platform game development engine.
 *   :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *   :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
@@ -518,6 +518,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Doom 3 (⭐3.5k)](https://github.com/id-Software/DOOM-3)
 *   :tada: [Doom (⭐18k)](https://github.com/id-Software/DOOM)
 *   :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
+*   :tada: [Legend of Elya (⭐48)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 *   :tada: [NetHack (⭐3.5k)](https://github.com/NetHack/NetHack)
 *   :tada: [OpenRA (⭐17k)](https://github.com/OpenRA/OpenRA)
 *   :tada: [OpenTTD (⭐7.7k)](https://github.com/OpenTTD/OpenTTD)

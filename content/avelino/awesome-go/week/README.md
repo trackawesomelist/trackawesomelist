@@ -29,6 +29,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [coinpaprika-api-go-client (⭐26)](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 
+### Machine Learning
+
+*   [datatrax (⭐2)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
+
 ### Strings
 
 *   [stringFormatter (⭐62)](https://github.com/Wissance/stringFormatter) - String formatting like in Python or C# manner with the additional text formatting features.

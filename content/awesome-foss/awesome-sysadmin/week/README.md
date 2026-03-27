@@ -12,6 +12,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [reaction](https://reaction.ppom.me/) - A lightweight daemon that scans program outputs for repeated patterns, and takes action. ([Source Code](https://framagit.org/ppom/reaction)) `AGPL-3.0` `Rust`
 
+### Software / Metrics & Metric Collection
+
+*   [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ([Source Code (⭐17k)](https://github.com/VictoriaMetrics/VictoriaMetrics)) `Apache-2.0` `Go`
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Software / Control Panels
@@ -42,7 +46,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring & Status Pages
 
-*   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.1k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
+*   [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code (⭐1.2k)](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 

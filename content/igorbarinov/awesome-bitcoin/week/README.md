@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-bitcoin/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
+
+### Market Data API
+
+*   [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### C Libraries

@@ -6,6 +6,12 @@ A curated list of awesome Web Font Icons
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
+## [Mar 27, 2026](/content/2026/03/27/README.md)
+
+### Generic
+
+*   [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
+
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
 
 ### Generic

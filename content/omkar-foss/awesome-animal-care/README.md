@@ -6,6 +6,12 @@ List of curated, practical information resources to care for dogs, cats, fishes,
 
 [ Daily / [Weekly](/content/omkar-foss/awesome-animal-care/week/README.md) / [Overview](/content/omkar-foss/awesome-animal-care/readme/README.md) ]
 
+## [Mar 27, 2026](/content/2026/03/27/README.md)
+
+### Dogs / Dog Behaviour & Training
+
+*   [Drinking from the Toilet - Hannah Branigan](https://hannahbranigan.dog/podcast/) - Podcast on training techniques, behaviour science and competitive obedience with a focus on positive reinforcement.
+
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
 ### Common Resources for all animals / Books

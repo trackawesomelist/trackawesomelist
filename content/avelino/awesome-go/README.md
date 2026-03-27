@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 27, 2026](/content/2026/03/27/README.md)
+
+### Machine Learning
+
+*   [datatrax (⭐2)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
+
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
 ### Artificial Intelligence
