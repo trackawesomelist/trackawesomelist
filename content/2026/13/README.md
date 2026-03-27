@@ -1,30 +1,211 @@
 # Awesome List Updates on Mar 30 - Apr 05, 2026
 
-45 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [1. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+
+### Multimedia & Graphics / Game Development
+
+*   [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
+
+## [2. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
+
+### Components & Libraries / UI Components
+
+*   [mapmetrics-gl (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
+
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Managed Terraform Platforms :heavy_dollar_sign: / IDE
+
+*   [Stategraph](https://stategraph.com) - Terraform and OpenTofu without the state file bottleneck. Replace the flat state file with a real database. Teams plan in parallel, state is queryable via SQL, and plans run in seconds instead of minutes. :heavy\_dollar\_sign:
+
+## [4. Awesome Qgis](/content/totpero/awesome-qgis/week/README.md)
+
+### Official Resources
+
+*   [QGIS Official Website](https://qgis.org/) - Main project website with downloads, news, and documentation.
+*   [GitHub Repository (⭐14k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
+*   [Visual Changelogs](https://qgis.org/project/visual-changelogs/) - Illustrated changelogs for each QGIS release.
+*   [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
+*   [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
+*   [Visual Style Guide](https://qgis.org/styleguide/) - Official branding and visual identity guidelines.
+
+### Documentation
+
+*   [User Manual](https://docs.qgis.org/latest/en/docs/user_manual/) - Complete QGIS desktop user documentation.
+*   [Server Guide](https://docs.qgis.org/latest/en/docs/server_manual/) - Documentation for QGIS Server.
+*   [Training Manual](https://docs.qgis.org/latest/en/docs/training_manual/) - Step-by-step training manual for learning QGIS.
+*   [Gentle Introduction to GIS](https://docs.qgis.org/latest/en/docs/gentle_gis_introduction/) - Beginner-friendly introduction to GIS concepts.
+
+### Plugins / Data Management
+
+*   [QuickOSM](https://plugins.qgis.org/plugins/QuickOSM/) - Download OpenStreetMap data directly using the Overpass API.
+*   [OSMDownloader](https://plugins.qgis.org/plugins/OSMDownloader/) - Download OSM data by selecting an area on the map.
+*   [Lat Lon Tools](https://plugins.qgis.org/plugins/latlontools/) - Capture and zoom to coordinates in multiple formats.
+*   [mmqgis](https://plugins.qgis.org/plugins/mmqgis/) - Collection of vector layer operation tools including geocoding and merging.
+*   [KML Tools](https://plugins.qgis.org/plugins/kmltools/) - Fast KML and KMZ import and export.
+*   [Digitizing Tools](https://plugins.qgis.org/plugins/DigitizingTools/) - Enhanced tools for vector geometry editing sessions.
+*   [Shape Tools](https://plugins.qgis.org/plugins/shapetools/) - Create geodesic shapes, measure bearings, and flip coordinates.
+*   [Point Sampling Tool](https://plugins.qgis.org/plugins/pointsamplingtool/) - Sample raster and polygon values at point locations.
+*   [GeoCoding](https://plugins.qgis.org/plugins/GeoCoding/) - Forward and reverse address lookup via Nominatim and Google.
+
+### Plugins / Basemaps and Web Services
+
+*   [QuickMapServices](https://plugins.qgis.org/plugins/quick_map_services/) - Easy basemap addition from OpenStreetMap, Google, Bing, and more.
+*   [HCMGIS](https://plugins.qgis.org/plugins/HCMGIS/) - Basemaps, OpenData download, and batch conversion tools.
+*   [Street View](https://plugins.qgis.org/plugins/StreetView/) - Google Street View and other street-level imagery integration.
+*   [MetaSearch Catalogue Client](https://plugins.qgis.org/plugins/MetaSearch/) - Interact with OGC CSW metadata catalogue services.
+*   [GeoBasis Loader](https://plugins.qgis.org/plugins/GeoBasis_Loader/) - Quick insertion of free geoservices and basemaps.
+
+### Plugins / Analysis and Processing
+
+*   [Profile Tool](https://plugins.qgis.org/plugins/profiletool/) - Plot terrain profiles from raster layers.
+*   [Processing SAGA NextGen Provider](https://plugins.qgis.org/plugins/processing_saga_nextgen/) - Processing provider for modern SAGA GIS releases.
+*   [LF Tools](https://plugins.qgis.org/plugins/lftools/) - Cartographic production, surveying, drone mapping, and GNSS tools.
+*   [ArcGeek Calculator](https://plugins.qgis.org/plugins/ArcGeekCalculator/) - Coordinate calculations, conversions, and watershed analysis.
+*   [Fast Density Analysis](https://plugins.qgis.org/plugins/fast_kernel_density_analysis/) - Fast kernel density visualization for geospatial analytics.
+
+### Plugins / Remote Sensing
+
+*   [Semi-Automatic Classification Plugin](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) - Supervised classification of remote sensing imagery.
+*   [Google Earth Engine Plugin](https://plugins.qgis.org/plugins/ee_plugin/) - Google Earth Engine integration for satellite data processing.
+*   [SRTM-Downloader](https://plugins.qgis.org/plugins/SRTM-Downloader/) - Download SRTM elevation tiles from NASA.
+*   [OpenTopography DEM Downloader](https://plugins.qgis.org/plugins/OpenTopography-DEM-Downloader/) - Download DEM data from OpenTopography.org.
+*   [Freehand Raster Georeferencer](https://plugins.qgis.org/plugins/FreehandRasterGeoreferencer/) - Interactive raster georeferencing by dragging and scaling.
+
+### Plugins / Symbology and Cartography
+
+*   [SLYR Community Edition](https://plugins.qgis.org/plugins/slyr_community/) - Convert ESRI Style, LYR, and MXD files to QGIS symbology.
+*   [LAStools](https://plugins.qgis.org/plugins/LAStools/) - Process point cloud data in LAS and LAZ formats.
+*   [QuickWKT](https://plugins.qgis.org/plugins/QuickWKT/) - Quick WKT and WKB geometry viewer and loader.
+
+### Plugins / 3D and Visualization
+
+*   [Qgis2threejs](https://plugins.qgis.org/plugins/Qgis2threejs/) - Export 3D visualizations powered by three.js.
+*   [3DCityDB Tools](https://plugins.qgis.org/plugins/citydb-tools/) - Visualize and manipulate CityGML data from 3D City Database.
+*   [GEarthView](https://plugins.qgis.org/plugins/gearthview/) - Display QGIS view in Google Earth.
+
+### Plugins / Web Publishing
+
+*   [qgis2web](https://plugins.qgis.org/plugins/qgis2web/) - Export projects to OpenLayers or Leaflet web maps.
+*   [QGIS Cloud Plugin](https://plugins.qgis.org/plugins/qgiscloud/) - Publish maps directly on qgiscloud.com.
+
+### Plugins / Field and Mobile
+
+*   [QField Sync](https://plugins.qgis.org/plugins/qfieldsync/) - Synchronize projects with QField mobile app for fieldwork.
+
+### Tutorials / Field and Mobile
+
+*   [QGIS Tutorials and Tips](https://www.qgistutorials.com/) - Comprehensive step-by-step QGIS tutorials by Ujaval Gandhi.
+*   [Harvard CGA QGIS Workshop](https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0) - Academic workshop materials and video tutorials from Harvard.
+*   [QGIS Documentation Guidelines](https://docs.qgis.org/latest/en/docs/documentation_guidelines/) - Guide for contributing to QGIS documentation.
+*   [ModernGIS QGIS Certification](https://moderngis.xyz/courses/qgis-free-youtube-certification/) - Free certification program based on YouTube video tutorials.
+
+### Videos / Field and Mobile
+
+*   [QGIS Official Channel](https://www.youtube.com/@qgishome) - Official YouTube channel with demos and conference presentations.
+*   [Hans van der Kwast](https://www.youtube.com/c/HansvanderKwast) - Hydrological applications, PCRaster, and PyQGIS tutorials.
+*   [Klas Karlsson](https://www.youtube.com/user/klakar70) - Extensive QGIS library from beginner to advanced topics.
+*   [Sketchy Maps / Map Academy](https://www.youtube.com/@sketchy_maps) - Over 260 tutorials focused on practical cartography.
+*   [Spatial Thoughts](https://www.youtube.com/@spatialthoughts) - Complete courses covering QGIS, Python, and Google Earth Engine.
+*   [burdGIS](https://www.youtube.com/@baborob) - Practical tutorials including Google Earth Engine integration.
+*   [Open Source Options](https://www.youtube.com/@OpenSourceOptions) - Open-source GIS tutorials focusing on QGIS and GDAL.
+*   [GeoDelta Labs](https://www.youtube.com/@geodeltalabs) - Geospatial education covering QGIS, GeoPandas, and Python.
+*   [Luca Congedo](https://www.youtube.com/c/LucaCongedoGIS) - Remote sensing and image classification tutorials.
+*   [Spatial e-Learning](https://www.youtube.com/@spatial-elearning) - Free GIS videos on QGIS, machine learning, and remote sensing.
+*   [Steven Bernard - QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R) - Series of 31 progressive video tutorials from basics.
+
+### Books / Field and Mobile
+
+*   [QGIS Map Design](https://locatepress.com/qmd2) - Guide to creating professional maps in QGIS.
+*   [Discover QGIS 3.x](https://locatepress.com/dq32) - Classroom and independent study workbook.
+*   [QGIS for Hydrological Applications](https://locatepress.com/hyd) - Processing recipes for catchment hydrology and water resources.
+*   [Books Page](https://qgis.org/resources/books/) - Full list of QGIS books in multiple languages.
+
+### Courses / Field and Mobile
+
+*   [Spatial Thoughts Free Courses](https://courses.spatialthoughts.com/) - Ten free courses from beginner to advanced by Ujaval Gandhi.
+*   [QGIS Training Certification](https://certification.qgis.org/) - Official training organization certification program.
+
+### Blogs / Field and Mobile
+
+*   [QGIS Blog](https://blog.qgis.org/) - Official project blog with news and updates.
+*   [Planet QGIS](https://planet.qgis.org/) - Aggregated posts from community members.
+*   [burdGIS Blog](https://burdgis.com/) - Practical QGIS guides and learning materials.
+*   [North Road Blog](https://north-road.com/blog/) - QGIS plugin development insights and open-source GIS tools.
+
+### Community / Field and Mobile
+
+*   [OSGeo Discourse Forum](https://discourse.osgeo.org/tag/qgis) - Discussion forum for QGIS questions and answers.
+*   [GIS Stack Exchange](https://gis.stackexchange.com/?tags=qgis) - Q\&A site for QGIS technical questions.
+*   [Matrix Chat](https://matrix.to/#/#qgis:osgeo.org) - Real-time chat room on Matrix and Element.
+*   [Facebook Group](https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup) - Official QGIS Facebook community group.
+*   [Mastodon](https://fosstodon.org/@qgis) - QGIS on the Fediverse.
+*   [Users Mailing List](http://lists.osgeo.org/mailman/listinfo/qgis-user) - General user discussion mailing list.
+*   [Local User Groups](https://qgis.org/community/groups/) - Directory of QGIS user groups worldwide.
+*   [Commercial Support](https://qgis.org/resources/support/commercial-support/) - Directory of 60+ commercial support providers.
+
+### Conferences / Field and Mobile
+
+*   [QGIS User Conference](https://uc.qgis.org/) - International annual user conference.
+*   [FOSS4G](https://foss4g.org/) - International conference for open-source geospatial software.
+
+### Mobile and Field Apps / Field and Mobile
+
+*   [QField](https://qfield.org/) - Professional mobile GIS app, the official QGIS companion for fieldwork.
+*   [Mergin Maps](https://merginmaps.com/) - Field data collection platform with QGIS project synchronization.
+
+### Developer Resources / Field and Mobile
+
+*   [PyQGIS Developer Cookbook](https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/) - Python scripting and automation guide.
+*   [PyQGIS API](https://qgis.org/pyqgis/) - Python API reference for QGIS extensions.
+*   [C++ API](https://qgis.org/api/) - Native API reference for core development.
+*   [Plugin Repository](https://plugins.qgis.org/) - Official repository with 2000+ community plugins.
+*   [Plugin Publishing Guide](https://plugins.qgis.org/docs/publish) - Guide for creating and publishing plugins.
+*   [Developer Guide](https://docs.qgis.org/latest/en/docs/developers_guide/) - Developer setup and contribution guide.
+*   [Get Involved](https://qgis.org/community/involve/) - Overview of ways to contribute to QGIS.
+
+### QGIS Hub / Field and Mobile
+
+*   [QGIS Hub](https://hub.qgis.org/) - Community hub for sharing QGIS resources.
+*   [Styles](https://hub.qgis.org/styles/) - Shared map styles and symbologies.
+*   [Processing Models](https://hub.qgis.org/models/) - Shared processing workflow models.
+*   [Processing Scripts](https://hub.qgis.org/scripts/) - Shared processing scripts.
+*   [Map Gallery](https://hub.qgis.org/map-gallery/) - Community map showcase.
+
+### Related Lists / Field and Mobile
+
+*   [Awesome GIS (⭐5.2k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial (⭐4.8k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+
+## [5. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
 
-## [2. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [6. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Dogs / Dog Behaviour & Training
 
 *   [Drinking from the Toilet - Hannah Branigan](https://hannahbranigan.dog/podcast/) - Podcast on training techniques, behaviour science and competitive obedience with a focus on positive reinforcement.
 
-## [3. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [7. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Complete Game Sources / Voxel Editors
 
 *   :tada: [Legend of Elya (⭐48)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 
-## [4. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [8. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Learning
 
@@ -34,7 +215,7 @@
 
 *   TypeScript/Node.js: [Lumen (⭐38)](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
 
-## [5. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [9. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Icon Libraries
 
@@ -51,25 +232,25 @@
 
 *   [ai-sdk (⭐23k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
 
-## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Market Data API
 
 *   [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
 *   [ActualLab.Fusion (⭐145)](https://github.com/ActualLab/Fusion) - Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples (⭐13)](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
 
-## [8. Tools](/content/lvwzhen/tools/week/README.md)
+## [12. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Tools collection
 
 *   [FreeToolBox](https://www.freetoolbox.site/)
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Log Management
 
@@ -79,13 +260,13 @@
 
 *   [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ([Source Code (⭐17k)](https://github.com/VictoriaMetrics/VictoriaMetrics)) `Apache-2.0` `Go`
 
-## [10. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [14. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### SEO
 
 *   [kitconcept.seo (⭐1)](https://github.com/kitconcept/kitconcept.seo) - Adds extra fields used for SEO optimisation for sites using Volto.
 
-## [11. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [15. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Audio
 
@@ -111,13 +292,21 @@
 
 *   [Screenbox (⭐3.2k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/huynhsontung/Screenbox)
 
-## [12. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [16. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Tooling 🧰 / Orchestrators
 
 *   [Ruflo (⭐21k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+### Tooling 🧰 / General
+
+*   [claude-toolbox (⭐76)](https://github.com/serpro69/claude-toolbox) by [serpro69](https://github.com/serpro69) - This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+
+### CLAUDE.md Files 📂 / Domain-Specific
+
+*   [AVS Vibe Developer Guide (⭐2)](https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md) by [Layr-Labs](https://github.com/Layr-Labs) - Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.
+
+## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -127,55 +316,59 @@
 
 *   [traceAI (⭐75)](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / AI Assisted Research
 
 *   [An agentic system for rare disease diagnosis with traceable reasoning](https://www.nature.com/articles/s41586-025-10097-9) - ***Nature***, 2026. \[[All Versions](https://scholar.google.com/scholar?cluster=586452159650802493)]. Rare diseases affect more than 300 million people worldwide, yet timely and accurate diagnosis remains an urgent challenge. Patients often endure a prolonged ‘diagnostic odyssey’ exceeding 5 years, marked by repeated referrals, misdiagnoses and unnecessary interventions, leading to delayed treatment and substantial emotional and economic burden. This work presents DeepRare---a multi-agent system for rare disease differential diagnosis decision support powered by large language models, integrating more than 40 specialized tools and up-to-date knowledge sources. DeepRare processes heterogeneous clinical inputs, including free-text descriptions, structured human phenotype ontology terms and genetic testing results to generate ranked diagnostic hypotheses with transparent reasoning linked to verifiable medical evidence. Evaluated across nine datasets from literature, case reports and clinical centres across Asia, North America and Europe spanning 14 medical specialties, DeepRare demonstrates exceptional performance on 2,919 diseases. In human-phenotype-ontology-based tasks, it achieves an average Recall\@1 of 57.18%, outperforming the next best method by 23.79%; in multi-modal tests, it reaches 69.1% compared with Exomiser’s 55.9% on 168 cases. Expert review achieved 95.4% agreement on its reasoning chains, confirming their validity and traceability. This work not only advances rare disease diagnosis but also demonstrates how the latest powerful large-language-model-driven agentic systems can reshape current clinical workflows.
 
-## [15. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Algebraic Topology
 
 *   📝 [Algebraic Topology](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
 *   [Matter (⭐10)](https://github.com/Crystal-Matter/matter) - Matter protocol for smart home and Internet of things (IoT) devices
 
-## [17. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Collaboration/Education
 
 *   [ipygame (⭐1)](https://github.com/Kamuyin/ipygame) - A pygame-compatible reimplementation for Jupyter notebooks.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Wikis
 
 *   [WikiDocs](https://www.wikidocs.app/) - A databaseless markdown flat-file wiki engine. ([Source Code (⭐480)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [What Is My IP](https://whatismyip.help) - A free service to check your public IPv4 and IPv6 address and related request data through an API with different output formats for automation, scripts, and network troubleshooting.
 
-## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+### Authentication, Authorization, and User Management
+
+*   [Scalekit](https://scalekit.com) - Enterprise SSO (SAML, OIDC), SCIM provisioning, and social logins for B2B SaaS. Free tier includes 1 million MAU, 100 organizations, 1 SSO connection, and 1 SCIM connection.
+
+## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Awesome Evidence Synthesis (⭐3)](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
-## [21. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [25. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Networking / HTTP Clients
 
 *   [lib4u/fake-useragent (⭐15)](https://github.com/lib4u/fake-useragent) — Up-to-date simple useragent faker with real world database in Golang ☆`16`
 
-## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -201,7 +394,7 @@
 
 *   [Leantime](https://leantime.io) - Strategic project management system for the non project manager
 
-## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Test Data Management
 
@@ -211,37 +404,37 @@
 
 *   [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
 
-## [24. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [28. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Tutorials / YouTube
 
 *   [vite-plugin-monkey (⭐1.9k)](https://github.com/lisonge/vite-plugin-monkey) - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
-## [25. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [29. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### Miscellaneous
 
 *   [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
 
-## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼 [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
 
-## [27. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [31. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
 ### Python / Yii
 
 *   [El tutorial de Python](https://docs.python.org/es/3/tutorial/) - Python Software Foundation (HTML)
 
-## [28. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Finance
 
 *   [jquantstats (⭐19)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github/tschm).
 
-## [29. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [33. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
@@ -259,38 +452,42 @@
 *   [rkalis's dotfiles (⭐257)](https://github.com/rkalis/dotfiles)
 *   [Zero.sh (⭐326)](https://github.com/zero-sh/zero.sh)
 
-## [30. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [34. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Logging
 
 *   [django-structlog (⭐514)](https://github.com/jrobichaud/django-structlog) - django-structlog is a structured logging integration for Django project using [structlog](https://www.structlog.org)
 
-## [31. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [35. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Utilities & Tools
 
 *   [dictee (⭐2)](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with GTK3 config UI, tray icon, and KDE Plasma shortcut integration. 100% local, 25+ languages.
 
-## [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 *   [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 
-## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [37. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Maps and Visualizations / Particles
 
 *   [MapMetrics GL (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 
-## [34. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [38. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Coupons and Vouchers / Currencies
 
 *   [China’s Pinduoduo reports theft of online discount vouchers to police](https://web.archive.org/web/20230404113232/https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / IDEs
+
+*   [VSCodium](https://vscodium.com/) - Community-driven libre binaries of VS Code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vscodium/vscodium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Virtualization
 
@@ -308,6 +505,10 @@
 
 *   [Orchard](https://orchard.5km.tech/) - MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
 
+### Voice-to-Text / Audio Record and Process
+
+*   [OpenDictation (⭐40)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kdcokenny/OpenDictation) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Menu Bar Tools
 
 *   [Claude Usage Monitor (⭐2)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Menu bar tool for tracking Claude usage with a live counter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -316,17 +517,25 @@
 
 *   [App Uninstaller (⭐0)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+### Utilities / Window Management
+
+*   [Nudge](https://nudge.run) - Window manager with keyboard shortcuts and drag-to-edge snapping. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mikusnuz/nudge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment
 
 *   [golazo (⭐391)](https://github.com/0xjuanma/golazo) - Soccer matches.
 
+### Data Manipulation / Professional: Resume
+
+*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+
 ### AI / Agents
 
 *   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 
-## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -369,7 +578,7 @@
 
 *   [Den (⭐4)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.
 
-## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -397,7 +606,7 @@
 
 *   [ekzhang/bore (⭐11k)](https://github.com/ekzhang/bore) \[[bore-cli](https://crates.io/crates/bore-cli)] - A simple TCP tunnel to expose local ports to a remote server, bypassing NAT firewalls [![Build status](https://img.shields.io/github/actions/workflow/status/ekzhang/bore/ci.yml)](https://github.com/ekzhang/bore/actions)
 
-## [39. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### AI and Agents
 
@@ -414,14 +623,18 @@
 
 *   [logfmter (⭐102)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
 
-## [40. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+### Implementations
+
+*   [pyodide (⭐14k)](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly.
+
+## [44. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [BlackRoad OS](https://blackroad.io) - Self-hosted edge AI operating system running 52 TOPS of inference on Raspberry Pi 5 clusters with Hailo-8 accelerators, WireGuard mesh networking, and self-healing automation.
 *   [LocalKin](https://localkin.dev) - 23MB single-binary AI Agent for Raspberry Pi and edge devices. Self-forging skills, Genesis Protocol for auto hardware discovery (GPIO, I2C, USB, Camera), offline-first with Ollama support.
 
-## [41. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [45. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Scientific Computing / HTML+CSS+JS
 
@@ -432,13 +645,13 @@
 *   [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
 *   [ScholarRef (⭐0)](https://github.com/brodie-neuro/ScholarRef): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 
-## [42. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [46. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Arabic / Tooling
 
 *   [The Podcast App](https://thepodcastapp.dev) - Free, ad-free podcast player for iOS and Android with AI cross-episode search
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -468,13 +681,13 @@
 
 *   [gh-tui-tools/gh-review.nvim (⭐9)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
-## [44. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [48. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [goast (⭐63)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-## [45. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [49. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 

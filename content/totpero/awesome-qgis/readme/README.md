@@ -1,94 +1,54 @@
-# Awesome List Updates on Mar 27, 2026
+# Awesome Qgis Overview
 
-18 awesome lists updated today.
+An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/totpero/awesome-qgis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 totpero/awesome-qgis](https://github.com/totpero/awesome-qgis) · ⭐ 10 · 🏷️ Development Environment
 
+[ [Daily](/content/totpero/awesome-qgis/README.md) / [Weekly](/content/totpero/awesome-qgis/week/README.md) / Overview ]
 
+---
 
-## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+# Awesome QGIS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### Tooling 🧰 / General
+> Curated list of awesome QGIS plugins, resources, tutorials, and tools.
 
-*   [claude-toolbox (⭐76)](https://github.com/serpro69/claude-toolbox) by [serpro69](https://github.com/serpro69) - This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+QGIS is a free, open-source, cross-platform geographic information system used for viewing, editing, and analyzing geospatial data.
 
-### CLAUDE.md Files 📂 / Domain-Specific
+## Contents
 
-*   [AVS Vibe Developer Guide (⭐2)](https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md) by [Layr-Labs](https://github.com/Layr-Labs) - Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.
+*   [Official Resources](#official-resources)
+*   [Documentation](#documentation)
+*   [Plugins](#plugins)
+*   [Tutorials](#tutorials)
+*   [Videos](#videos)
+*   [Books](#books)
+*   [Courses](#courses)
+*   [Blogs](#blogs)
+*   [Community](#community)
+*   [Conferences](#conferences)
+*   [Mobile and Field Apps](#mobile-and-field-apps)
+*   [Developer Resources](#developer-resources)
+*   [QGIS Hub](#qgis-hub)
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
-
-### Multimedia & Graphics / Game Development
-
-*   [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
-
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### Implementations
-
-*   [pyodide (⭐14k)](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly.
-
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / IDEs
-
-*   [VSCodium](https://vscodium.com/) - Community-driven libre binaries of VS Code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vscodium/vscodium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Voice-to-Text / Audio Record and Process
-
-*   [OpenDictation (⭐40)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kdcokenny/OpenDictation) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Utilities / Window Management
-
-*   [Nudge](https://nudge.run) - Window manager with keyboard shortcuts and drag-to-edge snapping. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mikusnuz/nudge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Authentication, Authorization, and User Management
-
-*   [Scalekit](https://scalekit.com) - Enterprise SSO (SAML, OIDC), SCIM provisioning, and social logins for B2B SaaS. Free tier includes 1 million MAU, 100 organizations, 1 SSO connection, and 1 SCIM connection.
-
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
-
-### Components & Libraries / UI Components
-
-*   [mapmetrics-gl (⭐0)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
-
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Data Manipulation / Professional: Resume
-
-*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
-
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
-
-### Managed Terraform Platforms :heavy_dollar_sign: / IDE
-
-*   [Stategraph](https://stategraph.com) - Terraform and OpenTofu without the state file bottleneck. Replace the flat state file with a real database. Teams plan in parallel, state is queryable via SQL, and plans run in seconds instead of minutes. :heavy\_dollar\_sign:
-
-## [9. Awesome Qgis](/content/totpero/awesome-qgis/README.md)
-
-### Official Resources
+## Official Resources
 
 *   [QGIS Official Website](https://qgis.org/) - Main project website with downloads, news, and documentation.
-*   [GitHub Repository (⭐14k)](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
+*   [GitHub Repository](https://github.com/qgis/QGIS) - Source code repository for QGIS core.
 *   [Visual Changelogs](https://qgis.org/project/visual-changelogs/) - Illustrated changelogs for each QGIS release.
 *   [Roadmap](https://qgis.org/resources/roadmap/) - Release schedule and development roadmap.
 *   [Case Studies](https://qgis.org/project/case-studies/) - Real-world QGIS usage examples from various industries.
 *   [Visual Style Guide](https://qgis.org/styleguide/) - Official branding and visual identity guidelines.
 
-### Documentation
+## Documentation
 
 *   [User Manual](https://docs.qgis.org/latest/en/docs/user_manual/) - Complete QGIS desktop user documentation.
 *   [Server Guide](https://docs.qgis.org/latest/en/docs/server_manual/) - Documentation for QGIS Server.
 *   [Training Manual](https://docs.qgis.org/latest/en/docs/training_manual/) - Step-by-step training manual for learning QGIS.
 *   [Gentle Introduction to GIS](https://docs.qgis.org/latest/en/docs/gentle_gis_introduction/) - Beginner-friendly introduction to GIS concepts.
 
-### Plugins / Data Management
+## Plugins
+
+### Data Management
 
 *   [QuickOSM](https://plugins.qgis.org/plugins/QuickOSM/) - Download OpenStreetMap data directly using the Overpass API.
 *   [OSMDownloader](https://plugins.qgis.org/plugins/OSMDownloader/) - Download OSM data by selecting an area on the map.
@@ -100,7 +60,7 @@
 *   [Point Sampling Tool](https://plugins.qgis.org/plugins/pointsamplingtool/) - Sample raster and polygon values at point locations.
 *   [GeoCoding](https://plugins.qgis.org/plugins/GeoCoding/) - Forward and reverse address lookup via Nominatim and Google.
 
-### Plugins / Basemaps and Web Services
+### Basemaps and Web Services
 
 *   [QuickMapServices](https://plugins.qgis.org/plugins/quick_map_services/) - Easy basemap addition from OpenStreetMap, Google, Bing, and more.
 *   [HCMGIS](https://plugins.qgis.org/plugins/HCMGIS/) - Basemaps, OpenData download, and batch conversion tools.
@@ -108,7 +68,7 @@
 *   [MetaSearch Catalogue Client](https://plugins.qgis.org/plugins/MetaSearch/) - Interact with OGC CSW metadata catalogue services.
 *   [GeoBasis Loader](https://plugins.qgis.org/plugins/GeoBasis_Loader/) - Quick insertion of free geoservices and basemaps.
 
-### Plugins / Analysis and Processing
+### Analysis and Processing
 
 *   [Profile Tool](https://plugins.qgis.org/plugins/profiletool/) - Plot terrain profiles from raster layers.
 *   [Processing SAGA NextGen Provider](https://plugins.qgis.org/plugins/processing_saga_nextgen/) - Processing provider for modern SAGA GIS releases.
@@ -116,7 +76,7 @@
 *   [ArcGeek Calculator](https://plugins.qgis.org/plugins/ArcGeekCalculator/) - Coordinate calculations, conversions, and watershed analysis.
 *   [Fast Density Analysis](https://plugins.qgis.org/plugins/fast_kernel_density_analysis/) - Fast kernel density visualization for geospatial analytics.
 
-### Plugins / Remote Sensing
+### Remote Sensing
 
 *   [Semi-Automatic Classification Plugin](https://plugins.qgis.org/plugins/SemiAutomaticClassificationPlugin/) - Supervised classification of remote sensing imagery.
 *   [Google Earth Engine Plugin](https://plugins.qgis.org/plugins/ee_plugin/) - Google Earth Engine integration for satellite data processing.
@@ -124,35 +84,35 @@
 *   [OpenTopography DEM Downloader](https://plugins.qgis.org/plugins/OpenTopography-DEM-Downloader/) - Download DEM data from OpenTopography.org.
 *   [Freehand Raster Georeferencer](https://plugins.qgis.org/plugins/FreehandRasterGeoreferencer/) - Interactive raster georeferencing by dragging and scaling.
 
-### Plugins / Symbology and Cartography
+### Symbology and Cartography
 
 *   [SLYR Community Edition](https://plugins.qgis.org/plugins/slyr_community/) - Convert ESRI Style, LYR, and MXD files to QGIS symbology.
 *   [LAStools](https://plugins.qgis.org/plugins/LAStools/) - Process point cloud data in LAS and LAZ formats.
 *   [QuickWKT](https://plugins.qgis.org/plugins/QuickWKT/) - Quick WKT and WKB geometry viewer and loader.
 
-### Plugins / 3D and Visualization
+### 3D and Visualization
 
 *   [Qgis2threejs](https://plugins.qgis.org/plugins/Qgis2threejs/) - Export 3D visualizations powered by three.js.
 *   [3DCityDB Tools](https://plugins.qgis.org/plugins/citydb-tools/) - Visualize and manipulate CityGML data from 3D City Database.
 *   [GEarthView](https://plugins.qgis.org/plugins/gearthview/) - Display QGIS view in Google Earth.
 
-### Plugins / Web Publishing
+### Web Publishing
 
 *   [qgis2web](https://plugins.qgis.org/plugins/qgis2web/) - Export projects to OpenLayers or Leaflet web maps.
 *   [QGIS Cloud Plugin](https://plugins.qgis.org/plugins/qgiscloud/) - Publish maps directly on qgiscloud.com.
 
-### Plugins / Field and Mobile
+### Field and Mobile
 
 *   [QField Sync](https://plugins.qgis.org/plugins/qfieldsync/) - Synchronize projects with QField mobile app for fieldwork.
 
-### Tutorials / Field and Mobile
+## Tutorials
 
 *   [QGIS Tutorials and Tips](https://www.qgistutorials.com/) - Comprehensive step-by-step QGIS tutorials by Ujaval Gandhi.
 *   [Harvard CGA QGIS Workshop](https://gis.harvard.edu/qgis-workshop-and-video-tutorials-0) - Academic workshop materials and video tutorials from Harvard.
 *   [QGIS Documentation Guidelines](https://docs.qgis.org/latest/en/docs/documentation_guidelines/) - Guide for contributing to QGIS documentation.
 *   [ModernGIS QGIS Certification](https://moderngis.xyz/courses/qgis-free-youtube-certification/) - Free certification program based on YouTube video tutorials.
 
-### Videos / Field and Mobile
+## Videos
 
 *   [QGIS Official Channel](https://www.youtube.com/@qgishome) - Official YouTube channel with demos and conference presentations.
 *   [Hans van der Kwast](https://www.youtube.com/c/HansvanderKwast) - Hydrological applications, PCRaster, and PyQGIS tutorials.
@@ -166,26 +126,26 @@
 *   [Spatial e-Learning](https://www.youtube.com/@spatial-elearning) - Free GIS videos on QGIS, machine learning, and remote sensing.
 *   [Steven Bernard - QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R) - Series of 31 progressive video tutorials from basics.
 
-### Books / Field and Mobile
+## Books
 
 *   [QGIS Map Design](https://locatepress.com/qmd2) - Guide to creating professional maps in QGIS.
 *   [Discover QGIS 3.x](https://locatepress.com/dq32) - Classroom and independent study workbook.
 *   [QGIS for Hydrological Applications](https://locatepress.com/hyd) - Processing recipes for catchment hydrology and water resources.
 *   [Books Page](https://qgis.org/resources/books/) - Full list of QGIS books in multiple languages.
 
-### Courses / Field and Mobile
+## Courses
 
 *   [Spatial Thoughts Free Courses](https://courses.spatialthoughts.com/) - Ten free courses from beginner to advanced by Ujaval Gandhi.
 *   [QGIS Training Certification](https://certification.qgis.org/) - Official training organization certification program.
 
-### Blogs / Field and Mobile
+## Blogs
 
 *   [QGIS Blog](https://blog.qgis.org/) - Official project blog with news and updates.
 *   [Planet QGIS](https://planet.qgis.org/) - Aggregated posts from community members.
 *   [burdGIS Blog](https://burdgis.com/) - Practical QGIS guides and learning materials.
 *   [North Road Blog](https://north-road.com/blog/) - QGIS plugin development insights and open-source GIS tools.
 
-### Community / Field and Mobile
+## Community
 
 *   [OSGeo Discourse Forum](https://discourse.osgeo.org/tag/qgis) - Discussion forum for QGIS questions and answers.
 *   [GIS Stack Exchange](https://gis.stackexchange.com/?tags=qgis) - Q\&A site for QGIS technical questions.
@@ -196,17 +156,17 @@
 *   [Local User Groups](https://qgis.org/community/groups/) - Directory of QGIS user groups worldwide.
 *   [Commercial Support](https://qgis.org/resources/support/commercial-support/) - Directory of 60+ commercial support providers.
 
-### Conferences / Field and Mobile
+## Conferences
 
 *   [QGIS User Conference](https://uc.qgis.org/) - International annual user conference.
 *   [FOSS4G](https://foss4g.org/) - International conference for open-source geospatial software.
 
-### Mobile and Field Apps / Field and Mobile
+## Mobile and Field Apps
 
 *   [QField](https://qfield.org/) - Professional mobile GIS app, the official QGIS companion for fieldwork.
 *   [Mergin Maps](https://merginmaps.com/) - Field data collection platform with QGIS project synchronization.
 
-### Developer Resources / Field and Mobile
+## Developer Resources
 
 *   [PyQGIS Developer Cookbook](https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/) - Python scripting and automation guide.
 *   [PyQGIS API](https://qgis.org/pyqgis/) - Python API reference for QGIS extensions.
@@ -216,7 +176,7 @@
 *   [Developer Guide](https://docs.qgis.org/latest/en/docs/developers_guide/) - Developer setup and contribution guide.
 *   [Get Involved](https://qgis.org/community/involve/) - Overview of ways to contribute to QGIS.
 
-### QGIS Hub / Field and Mobile
+## QGIS Hub
 
 *   [QGIS Hub](https://hub.qgis.org/) - Community hub for sharing QGIS resources.
 *   [Styles](https://hub.qgis.org/styles/) - Shared map styles and symbologies.
@@ -224,80 +184,8 @@
 *   [Processing Scripts](https://hub.qgis.org/scripts/) - Shared processing scripts.
 *   [Map Gallery](https://hub.qgis.org/map-gallery/) - Community map showcase.
 
-### Related Lists / Field and Mobile
+## Related Lists
 
-*   [Awesome GIS (⭐5.2k)](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
-*   [Awesome Geospatial (⭐4.8k)](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
+*   [Awesome GIS](https://github.com/sshuair/awesome-gis#readme) - Broader GIS resources and tools.
+*   [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#readme) - Geospatial tools, databases, and resources.
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### Machine Learning
-
-*   [datatrax (⭐2)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
-
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications / Security tools
-
-*   [InnerWarden/innerwarden (⭐64)](https://github.com/InnerWarden/innerwarden) - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml)
-
-## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
-
-### Generic
-
-*   [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
-
-## [13. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
-
-### Dogs / Dog Behaviour & Training
-
-*   [Drinking from the Toilet - Hannah Branigan](https://hannahbranigan.dog/podcast/) - Podcast on training techniques, behaviour science and competitive obedience with a focus on positive reinforcement.
-
-## [14. Magictools](/content/ellisonleao/magictools/README.md)
-
-### Complete Game Sources / Voxel Editors
-
-*   :tada: [Legend of Elya (⭐48)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
-
-## [15. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
-
-### Learning
-
-*   [Front-end Debugging Tools Handbook (⭐40)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Practical guide to mastering front-end debugging tools, from Chrome DevTools and framework extensions to AI-enhanced IDE debugging.
-
-### Libraries for driving the protocol (or a layer above)
-
-*   TypeScript/Node.js: [Lumen (⭐38)](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
-
-## [16. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Icon Libraries
-
-*   [react-icons (⭐13k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
-*   [lucide-react (⭐22k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
-*   [heroicons (⭐23k)](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
-*   [thesvg (⭐209)](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
-
-### React Development Tools
-
-*   [react-scan (⭐21k)](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-
-### React Libraries
-
-*   [ai-sdk (⭐23k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
-
-## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Metrics & Metric Collection
-
-*   [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ([Source Code (⭐17k)](https://github.com/VictoriaMetrics/VictoriaMetrics)) `Apache-2.0` `Go`
-
-## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
-
-### Market Data API
-
-*   [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
-
----
-
-- Next: [Mar 26, 2026](/content/2026/03/26/README.md)

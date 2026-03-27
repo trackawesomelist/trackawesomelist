@@ -12,6 +12,10 @@
 
 *   [golazo (⭐391)](https://github.com/0xjuanma/golazo) - Soccer matches.
 
+### Data Manipulation / Professional: Resume
+
+*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+
 ### AI / Agents
 
 *   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
@@ -28,12 +32,12 @@
 
 ### Development / Devops
 
-*   [bencher (⭐807)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐812)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Development / Docker
 
-*   [decompose (⭐126)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [decompose (⭐128)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Development / Npm
 
@@ -55,7 +59,7 @@
 ### Productivity / Note Taking and Lists
 
 *   [notesmd-cli (⭐1.2k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
-*   [rucola (⭐479)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐482)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Productivity / Finance
@@ -138,14 +142,14 @@
 ### AI / Agents
 
 *   [greywall (⭐54)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐1.1k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐1.3k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐1.5k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐59)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
 ### AI / LLM Interaction
 
 *   [aye-chat (⭐59)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
-*   [cmd-ai (⭐39)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [cmd-ai (⭐42)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ### Other Resources / LLM Interaction
 
@@ -503,7 +507,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐150k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -957,7 +961,7 @@
 
 ### Development / Docker
 
-*   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
@@ -1170,7 +1174,7 @@
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐9.1k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐9.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 

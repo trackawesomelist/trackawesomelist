@@ -147,7 +147,7 @@ Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.6k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐5.3k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐150k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -252,17 +252,17 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [updo (⭐912)](https://github.com/Owloops/updo) - Website monitoring tool.
 *   [cronboard (⭐1.2k)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 *   [s3m (⭐50)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
-*   [bencher (⭐807)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐812)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
-*   [lstags (⭐340)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
-*   [decompose (⭐126)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-*   [kool (⭐713)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [decompose (⭐128)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -355,7 +355,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [nb (⭐8.1k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 *   [notesmd-cli (⭐1.2k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [journalot (⭐73)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
-*   [rucola (⭐479)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐482)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Finance
@@ -548,6 +548,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [visidata (⭐8.9k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 *   [sc-im (⭐5.4k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
+*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
 
 ### Processors
 
@@ -592,7 +593,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [midnight-commander (⭐767)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 *   [Vifm](https://vifm.info/) - VI influenced file manager.
 *   [nnn (⭐21k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
-*   [lf (⭐9.1k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐9.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 *   [clifm (⭐1.6k)](https://github.com/leo-arch/clifm) - The command line file manager.
 *   [far2l (⭐2.1k)](https://github.com/elfmz/far2l) - Orthodox file manager.
 *   [yazi (⭐35k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
@@ -795,7 +796,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### Agents
 
 *   [greywall (⭐54)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐1.1k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐1.3k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐1.5k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐59)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 *   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
@@ -803,7 +804,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 
 *   [aye-chat (⭐59)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
-*   [cmd-ai (⭐39)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [cmd-ai (⭐42)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ## Other Resources
 
