@@ -6,6 +6,16 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Mar 28, 2026](/content/2026/03/28/README.md)
+
+### Tooling 🧰 / Config Managers
+
+*   [agnix (⭐110)](https://github.com/agent-sh/agnix) by [agent-sh](https://github.com/agent-sh) - A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.
+
+### Agent Skills 🤖 / General
+
+*   [Codebase to Course (⭐2.1k)](https://github.com/zarazhangrui/codebase-to-course) by [Zara Zhang](https://github.com/zarazhangrui) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
 ### Tooling 🧰 / General

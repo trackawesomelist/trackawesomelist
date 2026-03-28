@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Mar 28, 2026](/content/2026/03/28/README.md)
+
+### Misc
+
+*   [lua.cr (⭐65)](https://github.com/veelenga/lua.cr) - Bindings to liblua and a wrapper around it
+*   [luajit.cr (⭐7)](https://github.com/mdwagner/luajit.cr) - LuaJIT bindings for Crystal
+
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
 ### Network Protocols

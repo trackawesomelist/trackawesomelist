@@ -8,6 +8,11 @@
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
+### Misc
+
+*   [lua.cr (⭐65)](https://github.com/veelenga/lua.cr) - Bindings to liblua and a wrapper around it
+*   [luajit.cr (⭐7)](https://github.com/mdwagner/luajit.cr) - LuaJIT bindings for Crystal
+
 ### Network Protocols
 
 *   [Matter (⭐10)](https://github.com/Crystal-Matter/matter) - Matter protocol for smart home and Internet of things (IoT) devices

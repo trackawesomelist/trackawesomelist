@@ -8,6 +8,14 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
+### Tooling 🧰 / Config Managers
+
+*   [agnix (⭐110)](https://github.com/agent-sh/agnix) by [agent-sh](https://github.com/agent-sh) - A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.
+
+### Agent Skills 🤖 / General
+
+*   [Codebase to Course (⭐2.1k)](https://github.com/zarazhangrui/codebase-to-course) by [Zara Zhang](https://github.com/zarazhangrui) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+
 ### Tooling 🧰 / Orchestrators
 
 *   [Ruflo (⭐21k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
