@@ -20,6 +20,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### AI
 
 *   [Espresso (⭐84)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
+*   [Fazm (⭐96)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 
 ### API
 
@@ -40,6 +41,10 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Images / Barcode
 
 *   [SwiftWebImage (⭐0)](https://github.com/HotWordland/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
+
+### Security / Barcode
+
+*   [TouchBridge (⭐1)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 
 ### Streaming / Barcode
 

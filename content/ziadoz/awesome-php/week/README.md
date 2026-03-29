@@ -14,7 +14,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [Silverstripe](https://silverstripe.org) - A simple, flexible, and secure CMS.
+*   [Silverstripe](https://www.silverstripe.org/) - A simple, flexible, and secure CMS.
 
 ### Table of Contents / Static Site Generators
 
@@ -24,13 +24,38 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [ddeboer/imap (⭐915)](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library.
 
+### Table of Contents / Testing
+
+*   [PHPT](https://php.github.io/php-src/miscellaneous/writing-tests.html) - A test tool used by PHP itself.
+
+### Table of Contents / Debugging and Profiling
+
+*   [PHP Debug Bar](https://php-debugbar.com/) - A debugging toolbar.
+
+### Table of Contents / Authentication and Authorization
+
+*   [Sentinel (⭐1.5k)](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
+
+### Table of Contents / Numbers
+
+*   [PHP Conversion (⭐132)](https://github.com/cniska/php-conversion) - Another library for converting between units of measure.
+
 ### Configuration / Serverless
 
 *   [Toml (⭐0)](https://github.com/php-collective/toml) - A TOML parser and encoder with AST access and error recovery.
 
+### Configuration / Development Environment
+
+*   [Laradock](https://laradock.io/) - A full PHP development environment based on Docker.
+*   [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
+
 ### Configuration / Web Applications
 
 *   [Leantime](https://leantime.io) - Strategic project management system for the non project manager
+
+### Configuration / PHP Websites
+
+*   [PHP Package Development Standards](https://php-pds.com/) - Package development standards for PHP.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -490,7 +515,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+*   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 
 ### Table of Contents / Testing
 
@@ -709,10 +734,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Predis (⭐7.8k)](https://github.com/predis/predis) - A feature-complete Redis library.
 
-### Configuration / Web Applications
-
-*   [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
-
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
@@ -873,8 +894,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / Development Environment
 
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
-*   [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
-*   [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
 ### Configuration / Virtual Machines
 
@@ -1310,7 +1329,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / PHP Websites
 
-*   [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 *   [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 
 ### Configuration / PHP Books
@@ -1446,12 +1464,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [noCAPTCHA (⭐366)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
-## [May 02 - May 08, 2016](/content/2016/18/README.md)
-
-### Table of Contents / Testing
-
-*   [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
-
 ## [Apr 18 - Apr 24, 2016](/content/2016/16/README.md)
 
 ### Table of Contents / Data Structure and Storage
@@ -1539,7 +1551,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Debugging and Profiling
 
 *   [PHP Console (⭐525)](https://github.com/Seldaek/php-console) - A web debugging console.
-*   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 *   [xDebug (⭐3.4k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 *   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 
@@ -1600,8 +1611,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Json Web Token (⭐7.5k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 *   [Opauth (⭐1.6k)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-*   [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
-*   [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 
 ### Table of Contents / Markup and CSS
 
@@ -1620,7 +1629,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Numbers
 
-*   [PHP Conversion (⭐132)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 *   [PHP Units of Measure (⭐22)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 
 ### Table of Contents / Filtering, Sanitizing and Validation
@@ -2100,12 +2108,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Testing
 
 *   [Atoum (⭐1.4k)](https://github.com/atoum/atoum) - A simple testing library.
-
-## [Mar 11 - Mar 17, 2013](/content/2013/10/README.md)
-
-### Configuration / PHP Books
-
-*   [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 
 ## [Feb 18 - Feb 24, 2013](/content/2013/7/README.md)
 

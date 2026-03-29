@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 29, 2026](/content/2026/03/29/README.md)
+
+### Utilities
+
+*   [PaperVault (⭐14)](https://github.com/boazeb/papervault) - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
+
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
 ### Market Data API

@@ -6,6 +6,16 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Mar 29, 2026](/content/2026/03/29/README.md)
+
+### AI
+
+*   [Fazm (⭐96)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+
+### Security / Barcode
+
+*   [TouchBridge (⭐1)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
+
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
 ### Third party Guides

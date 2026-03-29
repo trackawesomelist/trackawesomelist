@@ -8,6 +8,10 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
+### Utilities
+
+*   [PaperVault (⭐14)](https://github.com/boazeb/papervault) - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
+
 ### Market Data API
 
 *   [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
