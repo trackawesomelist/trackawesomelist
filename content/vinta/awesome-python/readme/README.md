@@ -161,10 +161,10 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning (⭐28k)](https://github.com/ChristosChristofidis/awesome-deep-learning).*
 
-*   [jax (⭐35k)](https://github.com/jax-ml/jax) - a library for high-performance numerical computing with automatic differentiation and JIT compilation.
+*   [jax (⭐35k)](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
 *   [keras (⭐64k)](https://github.com/keras-team/keras) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
 *   [pytorch-lightning (⭐31k)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
-*   [pytorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐99k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [stable-baselines3 (⭐13k)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 *   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
@@ -180,6 +180,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [pgmpy (⭐3.2k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 *   [scikit-learn (⭐65k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
 *   [spark.ml (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
+*   [TabGAN (⭐566)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.
 *   [xgboost (⭐28k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## Natural Language Processing
@@ -231,7 +232,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   Asynchronous
     *   [litestar (⭐8.1k)](https://github.com/litestar-org/litestar) - Production-ready, capable and extensible ASGI Web framework.
     *   [microdot (⭐2.1k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
-    *   [reflex (⭐28k)](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
+    *   [reflex (⭐28k)](https://github.com/reflex-dev/reflex) - A framework for building reactive, full-stack web applications entirely with Python.
     *   [robyn (⭐7.2k)](https://github.com/sparckles/Robyn) - A high-performance async Python web framework with a Rust runtime.
     *   [starlette (⭐12k)](https://github.com/Kludex/starlette) - A lightweight ASGI framework and toolkit for building high-performance async services.
     *   [tornado (⭐22k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
@@ -586,11 +587,11 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [flake8 (⭐3.8k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.3k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
     *   [pylint (⭐5.7k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
-    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+    *   [ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 *   Code Formatters
     *   [black (⭐41k)](https://github.com/psf/black) - The uncompromising Python code formatter.
     *   [isort (⭐6.9k)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+    *   [ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 *   Refactoring
     *   [rope (⭐2.2k)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
 *   Type Checkers - [awesome-python-typing (⭐2k)](https://github.com/typeddjango/awesome-python-typing)
@@ -784,7 +785,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [doitlive (⭐3.6k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
     *   [thefuck (⭐96k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐44k)](https://github.com/tmux/tmux) session manager.
-    *   [xonsh (⭐9.2k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
+    *   [xonsh (⭐9.3k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
     *   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 *   CLI Enhancements
     *   [httpie (⭐38k)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
@@ -877,7 +878,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [xlsxwriter (⭐3.9k)](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
     *   [xlwings (⭐3.3k)](https://github.com/xlwings/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
 *   PDF
-    *   [pdf\_oxide (⭐421)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
+    *   [pdf\_oxide (⭐519)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
     *   [pdfminer.six (⭐6.9k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
     *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
     *   [pypdf (⭐9.9k)](https://github.com/py-pdf/pypdf) - A library capable of splitting, merging, cropping, and transforming PDF pages.

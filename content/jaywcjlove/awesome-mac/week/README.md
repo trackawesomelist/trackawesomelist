@@ -48,6 +48,10 @@
 
 *   [Nudge](https://nudge.run) - Window manager with keyboard shortcuts and drag-to-edge snapping. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mikusnuz/nudge) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### QuickLook Plugins / System Related Tools
+
+*   [markdown-quicklook (⭐0)](https://github.com/ruspg/markdown-quicklook) - Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ruspg/markdown-quicklook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Reading and Writing Tools / Ebooks

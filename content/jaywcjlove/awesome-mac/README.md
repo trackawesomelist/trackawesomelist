@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 29, 2026](/content/2026/03/29/README.md)
+
+### QuickLook Plugins / System Related Tools
+
+*   [markdown-quicklook (⭐0)](https://github.com/ruspg/markdown-quicklook) - Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ruspg/markdown-quicklook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
 ### Security Tools / Audio Record and Process

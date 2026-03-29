@@ -2,7 +2,7 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 428 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 439 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / Overview ]
 
@@ -28,13 +28,13 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [AWS/aws-parallelcluster (⭐884)](https://github.com/aws/aws-parallelcluster/wiki)
 *   [facebook/hhvm (⭐19k)](https://github.com/facebook/hhvm/wiki)
 *   [thinkaurelius/titan (⭐5.2k)](https://github.com/thinkaurelius/titan/wiki)
-*   [guard/guard (⭐6.7k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [guard/guard (⭐6.6k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [apple/foundationdb (⭐16k)](https://github.com/apple/foundationdb/wiki)
-*   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
-*   [hyperledger/cacti (⭐378)](https://github.com/hyperledger/cacti/wiki)
-*   [facebook/react-native (⭐125k)](https://github.com/facebook/react-native/wiki)
+*   [google/guava (⭐52k)](https://github.com/google/guava/wiki)
+*   [hyperledger-cacti/cacti (⭐381)](https://github.com/hyperledger-cacti/cacti/wiki)
+*   [facebook/react-native (⭐126k)](https://github.com/facebook/react-native/wiki)
 *   [uber/NullAway (⭐4k)](https://github.com/uber/NullAway/wiki)
-*   [internetarchive/openlibrary (⭐6.2k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐6.3k)](https://github.com/internetarchive/openlibrary/wiki)
 *   [JustArchiNET/ArchiSteamFarm (⭐13k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 *   [GyulyVGC/sniffnet (⭐33k)](https://github.com/GyulyVGC/sniffnet/wiki)
 

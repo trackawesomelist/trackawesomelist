@@ -19,6 +19,10 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [llama-index (⭐48k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
     *   [mem0 (⭐51k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
 
+### Machine Learning
+
+*   [TabGAN (⭐566)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.
+
 ### Logging
 
 *   [logfmter (⭐102)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
@@ -40,7 +44,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 
 ### Deep Learning
 
-*   [jax (⭐35k)](https://github.com/jax-ml/jax) - a library for high-performance numerical computing with automatic differentiation and JIT compilation.
+*   [jax (⭐35k)](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
 
 ### Machine Learning
 
@@ -87,7 +91,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Asynchronous
     *   [litestar (⭐8.1k)](https://github.com/litestar-org/litestar) - Production-ready, capable and extensible ASGI Web framework.
     *   [microdot (⭐2.1k)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
-    *   [reflex (⭐28k)](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
+    *   [reflex (⭐28k)](https://github.com/reflex-dev/reflex) - A framework for building reactive, full-stack web applications entirely with Python.
     *   [robyn (⭐7.2k)](https://github.com/sparckles/Robyn) - A high-performance async Python web framework with a Rust runtime.
     *   [starlette (⭐12k)](https://github.com/Kludex/starlette) - A lightweight ASGI framework and toolkit for building high-performance async services.
     *   [tornado (⭐22k)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
@@ -280,7 +284,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [flake8 (⭐3.8k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.3k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
     *   [pylint (⭐5.7k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
-    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+    *   [ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 *   Refactoring
     *   [rope (⭐2.2k)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
 
@@ -344,7 +348,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
     *   [doitlive (⭐3.6k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
     *   [thefuck (⭐96k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐44k)](https://github.com/tmux/tmux) session manager.
-    *   [xonsh (⭐9.2k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
+    *   [xonsh (⭐9.3k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
     *   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 
 ### GUI Development
@@ -481,7 +485,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### File Format Processing
 
 *   PDF
-    *   [pdf\_oxide (⭐421)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
+    *   [pdf\_oxide (⭐519)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
     *   [pdfminer.six (⭐6.9k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
     *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
     *   [pypdf (⭐9.9k)](https://github.com/py-pdf/pypdf) - A library capable of splitting, merging, cropping, and transforming PDF pages.
@@ -686,7 +690,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 *   Code Formatters
     *   [black (⭐41k)](https://github.com/psf/black) - The uncompromising Python code formatter.
     *   [isort (⭐6.9k)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-    *   [ruff (⭐46k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+    *   [ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 *   Type Annotations Generators
     *   [monkeytype (⭐5k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
     *   [pytype (⭐5k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
@@ -1016,7 +1020,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 ### Deep Learning
 
 *   [keras (⭐64k)](https://github.com/keras-team/keras) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
-*   [pytorch (⭐98k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐99k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [tensorflow (⭐194k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### WebSocket
