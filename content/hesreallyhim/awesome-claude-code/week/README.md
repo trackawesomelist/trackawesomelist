@@ -6,6 +6,12 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 [ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / Weekly / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
+
+### Tooling 🧰 / General
+
+*   [claude-devtools (⭐2.8k)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
+
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Tooling 🧰 / Config Managers
