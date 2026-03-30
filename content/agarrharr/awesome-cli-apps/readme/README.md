@@ -475,7 +475,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [mdv (⭐1.9k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 *   [glow (⭐24k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 *   [gtree (⭐328)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
-*   [Jimmy (⭐400)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+*   [Jimmy (⭐408)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
@@ -541,7 +541,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [Wat (⭐507)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐409)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐861)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐864)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
@@ -647,7 +647,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [ncp (⭐37)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 *   [share (⭐49)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 *   [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
-*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
+*   [croc (⭐35k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Directory Listing
 
@@ -800,6 +800,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [agent-deck (⭐1.5k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐59)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 *   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+*   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 
 ### LLM Interaction
 
@@ -815,7 +816,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [awesome-zsh-plugins (⭐18k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐65k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 *   [awesome-git-addons (⭐2.1k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [x-cmd (⭐4.1k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐4.2k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
 

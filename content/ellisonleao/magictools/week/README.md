@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / Weekly / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
+
+### AI / Voxel Editors
+
+*   :money\_with\_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
+
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Complete Game Sources / Voxel Editors

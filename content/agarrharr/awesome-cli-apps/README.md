@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Mar 30, 2026](/content/2026/03/30/README.md)
+
+### AI / Agents
+
+*   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
 ### Data Manipulation / Professional: Resume
@@ -60,7 +66,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
+*   [croc (⭐35k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Version Control / Git
 
@@ -121,7 +127,7 @@
 
 ### Utilities / Markdown
 
-*   [Jimmy (⭐400)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+*   [Jimmy (⭐408)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Utilities / Weather
 
@@ -331,7 +337,7 @@
 
 ### Other Resources / LLM Interaction
 
-*   [x-cmd (⭐4.1k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐4.2k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## [Sep 24, 2025](/content/2025/09/24/README.md)
 
@@ -541,7 +547,7 @@
 
 ### Command Line Learning / Professional: Resume
 
-*   [yai (⭐861)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐864)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 

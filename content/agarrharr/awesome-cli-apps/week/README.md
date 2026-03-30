@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
+
+### AI / Agents
+
+*   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Entertainment
@@ -83,7 +89,7 @@
 
 ### Utilities / Markdown
 
-*   [Jimmy (⭐400)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+*   [Jimmy (⭐408)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Utilities / Weather
 
@@ -113,7 +119,7 @@
 ### Files and Directories / File Sync/Sharing
 
 *   [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
-*   [croc (⭐34k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
+*   [croc (⭐35k)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Files and Directories / Directory Listing
 
@@ -297,7 +303,7 @@
 
 ### Other Resources / LLM Interaction
 
-*   [x-cmd (⭐4.1k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐4.2k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
 
@@ -485,7 +491,7 @@
 
 ### Command Line Learning / Professional: Resume
 
-*   [yai (⭐861)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐864)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ### Files and Directories / File Managers
 

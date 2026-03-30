@@ -46,30 +46,42 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 ## Table of Contents
 
 *   [What is Data Science?](#what-is-data-science)
+
 *   [Where do I Start?](#where-do-i-start)
+
 *   [Training Resources](#training-resources)
     *   [Tutorials](#tutorials)
     *   [Free Courses](#free-courses)
     *   [Massively Open Online Courses](#moocs)
     *   [Intensive Programs](#intensive-programs)
     *   [Colleges](#colleges)
+
 *   [The Data Science Toolbox](#the-data-science-toolbox)
-    *   [Algorithms](#algorithms)
-        *   [Supervised Learning](#supervised-learning)
-        *   [Unsupervised Learning](#unsupervised-learning)
-        *   [Semi-Supervised Learning](#semi-supervised-learning)
-        *   [Reinforcement Learning](#reinforcement-learning)
-        *   [Data  Mining Algorithms](#data-mining-algorithms)
-        *   [Deep Learning Architectures](#deep-learning-architectures)
-    *   [General Machine Learning Packages](#general-machine-learning-packages)
-    *   [Model Evaluation & Monitoring](#model-evaluation--monitoring)
-        *   [Evidently AI](#evidently-ai)
-    *   [Deep Learning Packages](#deep-learning-packages)
-        *   [PyTorch Ecosystem](#pytorch-ecosystem)
-        *   [TensorFlow Ecosystem](#tensorflow-ecosystem)
-        *   [Keras Ecosystem](#keras-ecosystem)
-    *   [Visualization Tools](#visualization-tools)
-    *   [Miscellaneous Tools](#miscellaneous-tools)
+
+*   [TabGAN (⭐566)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
+
+*   [Algorithms](#algorithms)
+    *   [Supervised Learning](#supervised-learning)
+    *   [Unsupervised Learning](#unsupervised-learning)
+    *   [Semi-Supervised Learning](#semi-supervised-learning)
+    *   [Reinforcement Learning](#reinforcement-learning)
+    *   [Data  Mining Algorithms](#data-mining-algorithms)
+    *   [Deep Learning Architectures](#deep-learning-architectures)
+
+*   [General Machine Learning Packages](#general-machine-learning-packages)
+
+*   [Model Evaluation & Monitoring](#model-evaluation--monitoring)
+    *   [Evidently AI](#evidently-ai)
+
+*   [Deep Learning Packages](#deep-learning-packages)
+    *   [PyTorch Ecosystem](#pytorch-ecosystem)
+    *   [TensorFlow Ecosystem](#tensorflow-ecosystem)
+    *   [Keras Ecosystem](#keras-ecosystem)
+
+*   [Visualization Tools](#visualization-tools)
+
+*   [Miscellaneous Tools](#miscellaneous-tools)
+
 *   [Literature and Media](#literature-and-media)
     *   [Books](#books)
         *   [Book Deals (Affiliated)](#book-deals-affiliated)
@@ -79,6 +91,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     *   [Presentations](#presentations)
     *   [Podcasts](#podcasts)
     *   [YouTube Videos & Channels](#youtube-videos--channels)
+
 *   [Socialize](#socialize)
     *   [Facebook Accounts](#facebook-accounts)
     *   [Twitter Accounts](#twitter-accounts)
@@ -86,12 +99,16 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     *   [Slack Communities](#slack-communities)
     *   [GitHub Groups](#github-groups)
     *   [Data Science Competitions](#data-science-competitions)
+
 *   [Fun](#fun)
     *   [Infographics](#infographics)
     *   [Datasets](#datasets)
     *   [Comics](#comics)
+
 *   [Other Awesome Lists](#other-awesome-lists)
     *   [Hobby](#hobby)
+
+*   [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 
 ## What is Data Science?
 
@@ -139,7 +156,7 @@ Please, contribute about "agents"
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐5)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐11)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Workflow
 
@@ -444,14 +461,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [XGBoost (⭐28k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐18k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐8.8k)](https://github.com/catboost/catboost)
-*   [PerpetualBooster (⭐664)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐666)](https://github.com/perpetual-ml/perpetual)
 *   [JAX (⭐35k)](https://github.com/google/jax)
 
 ### Deep Learning Packages
 
 #### PyTorch Ecosystem
 
-*   [PyTorch (⭐98k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐99k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.8k)](https://github.com/pytorch/audio)
@@ -562,7 +579,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Little Ball of Fur (⭐713)](https://github.com/benedekrozemberczki/littleballoffur)                   | A graph sampling library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [Karate Club (⭐2.3k)](https://github.com/benedekrozemberczki/karateclub)                              | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace)                                    | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code)                                                                                                                                                                                                                                                                                                                                                          |
-| [xonsh shell (⭐9.2k)](https://github.com/xonsh/xonsh)                                                 | A Python-powered shell that enables integration, management and orchestration of data science libraries mostly written in Python, allowing you to build pipelines, code and command-based workflows. It can also be used as a kernel for Jupyter Notebook.                                                                                                                                                                                                                                                                                                                                                    |
+| [xonsh shell (⭐9.3k)](https://github.com/xonsh/xonsh)                                                 | A Python-powered shell that enables integration, management and orchestration of data science libraries mostly written in Python, allowing you to build pipelines, code and command-based workflows. It can also be used as a kernel for Jupyter Notebook.                                                                                                                                                                                                                                                                                                                                                    |
 | [Neptune.ai](https://neptune.ai)                                                                      | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [steppy (⭐136)](https://github.com/minerva-ml/steppy)                                                 | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [steppy-toolkit (⭐22)](https://github.com/minerva-ml/steppy-toolkit)                                  | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -654,7 +671,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [ERD Lab](https://www.erdlab.io/)                                                                     | Free cloud based entity relationship diagram (ERD) tool made for developers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [Arize-Phoenix](https://docs.arize.com/phoenix)                                                       | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [Comet (⭐171)](https://github.com/comet-ml/comet-examples)                                            | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production.                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| [Opik (⭐18k)](https://github.com/comet-ml/opik)                                                       | Evaluate, test, and ship LLM applications across your dev and production lifecycles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [Opik (⭐19k)](https://github.com/comet-ml/opik)                                                       | Evaluate, test, and ship LLM applications across your dev and production lifecycles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [Synthical](https://synthical.com)                                                                    | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [teeplot (⭐12)](https://github.com/mmore500/teeplot)                                                  | Workflow tool to automatically organize data visualization output                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [Streamlit (⭐44k)](https://github.com/streamlit/streamlit)                                            | App framework for Machine Learning and Data Science projects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -922,6 +939,7 @@ This section includes some additional reading material, channels to watch, and t
 *   [AI Today](https://www.cognilytica.com/aitoday/)
 *   [Adversarial Learning](https://adversariallearning.com/)
 *   [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+*   [Chain of Thought](https://www.chainofthought.show/)
 *   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 *   [Data Science at Home](https://datascienceathome.com/)
 *   [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
