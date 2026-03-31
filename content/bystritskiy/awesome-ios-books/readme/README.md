@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 612 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 661 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@
 
 |                                                                           Awesome                                                                           | Books | Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  105  | Aug 25, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  107  | Mar 31, 2026 |
 
 ## How to Use
 
@@ -117,6 +117,7 @@
 *   [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
 *   [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
 *   [*SwiftUI Fundamentals* by Natalia Panferova](https://books.nilcoalescing.com/swiftui-fundamentals)
+*   [*The SwiftUI Way* by Natalia Panferova](https://books.nilcoalescing.com/the-swiftui-way)
 
 ## Combine
 
@@ -133,6 +134,7 @@
 *   [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 *   [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+*   [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
 
 ## Multithreading
 
@@ -230,12 +232,12 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios (⭐50k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐52k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide (⭐612)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐661)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

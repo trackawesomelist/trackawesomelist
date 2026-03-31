@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 31, 2026](/content/2026/03/31/README.md)
+
+### APIs, Data, and ML
+
+*   [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
+
 ## [Mar 29, 2026](/content/2026/03/29/README.md)
 
 ### Design and UI
@@ -124,10 +130,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [MConverter](https://mconverter.eu/) - Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
-
-### Miscellaneous
-
-*   [Dadroit V Web](https://dadroit.com/vweb/) - In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
 
 ## [Feb 24, 2026](/content/2026/02/24/README.md)
 
@@ -254,12 +256,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
 
-## [Dec 19, 2025](/content/2025/12/19/README.md)
-
-### Other Free Resources
-
-*   [ToolsHref](https://toolshref.com) - A suite of free developer utilities including Java code generation (JSON-to-POJO, cURL-to-Java), static analysis, and DevOps config builders (Docker, K8s, Nginx).
-
 ## [Dec 18, 2025](/content/2025/12/18/README.md)
 
 ### APIs, Data, and ML
@@ -275,10 +271,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design and UI
 
 *   [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
-
-### Other Free Resources
-
-*   [JSON Viewer Tool](https://jsonviewertool.com/) - View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
 
 ## [Dec 15, 2025](/content/2025/12/15/README.md)
 
@@ -297,13 +289,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Issue Tracking and Project Management
 
 *   [Helploom](https://helploom.com) - Customer support software that offers a live chat on the free forever plan. Simple, lightweight and beautiful. Setup is a simple copy-paste script. Built by a developer.
-
-## [Dec 07, 2025](/content/2025/12/07/README.md)
-
-### Miscellaneous
-
-*   [XKit](https://xkit.io) - A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
-    performance and security
 
 ## [Dec 04, 2025](/content/2025/12/04/README.md)
 
@@ -425,13 +410,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [Renamer.ai](https://renamer.ai) - AI-powered file renaming tool with OCR, metadata extraction, and automation for 20+ languages. Free tier: 15 files/month, including desktop app, batch rename, auto-rename, and normal support.
 *   [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
-*   [Volume Shader BM](https://volumeshaderbm.org) - Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
-
-### Other Free Resources
-
-*   [It tools](https://it-tools.tech/) - Useful tools for developer and people working in IT.
 
 ## [Jul 27, 2025](/content/2025/07/27/README.md)
 
@@ -527,10 +506,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [VolaryDDNS](https://volaryddns.net) - Free high-performant DDNS with no subscriptions or advertisements
 
-### Miscellaneous
-
-*   [Exif Editor](https://exifeditor.io/) - View, Edit, Scrub, Analyze image/photo metadata in-browser instantly - including GPS location and metadata.
-
 ## [Jun 09, 2025](/content/2025/06/09/README.md)
 
 ### Miscellaneous
@@ -558,10 +533,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
-
-### Other Free Resources
-
-*   [Table Format Converter](https://www.tableformatconverter.com) - A free tool to convert table data to different formats, such as CSV, HTML, JSON, Markdown and more.
 
 ## [May 29, 2025](/content/2025/05/29/README.md)
 
@@ -889,7 +860,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.2k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.3k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
@@ -911,8 +882,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Font
 
-*   [Fontsensei](https://fontsensei.com/) - Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,
-    Korean) font tags.
+*   [Fontsensei](https://fontsensei.com/) - Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese, Korean) font tags.
 
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
@@ -993,12 +963,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Payment and Billing Integration
 
 *   [ParityVend](https://www.ambeteco.com/ParityVend/) - Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.
-
-## [Sep 19, 2024](/content/2024/09/19/README.md)
-
-### Miscellaneous
-
-*   [Webacus](https://webacus.dev) - Access a wide range of free developer tools for encoding, decoding, and data manipulation.
 
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
@@ -1124,12 +1088,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
 
-## [Jul 26, 2024](/content/2024/07/26/README.md)
-
-### Other Free Resources
-
-*   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
-
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
 ### Low-code Platform
@@ -1231,12 +1189,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.
 
-## [May 16, 2024](/content/2024/05/16/README.md)
-
-### Other Free Resources
-
-*   [Wikimint Developer](https://developer.wikimint.com/p/tools.html) - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.
-
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
 ### PaaS
@@ -1259,7 +1211,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Storage and Media Processing
 
-*   [ImgBB](https://imgbb.com/) - ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
+*   [ImgBB](https://imgbb.com/) - ImgBB is an unlimited image hosting service. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
 
 ## [May 09, 2024](/content/2024/05/09/README.md)
 
@@ -1271,24 +1223,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Font
 
-*   [fonts.xz.style](https://fonts.xz.style/) - free and open source service for delivering font families to websites
-    using CSS.
+*   [fonts.xz.style](https://fonts.xz.style/) - free and open source service for delivering font families to websites using CSS.
 
 ## [Apr 30, 2024](/content/2024/04/30/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [leiga.com](https://www.leiga.com/) - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.
-
-### Miscellaneous
-
-*   [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
-
-## [Apr 27, 2024](/content/2024/04/27/README.md)
-
-### Game Development
-
-*   [Freesound](https://freesound.org/) - Free collaborative sound library offerer with different CC licenses.
 
 ## [Apr 26, 2024](/content/2024/04/26/README.md)
 
@@ -1318,10 +1259,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp) - Twilio STUN
 *   [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302) - Google STUN
-
-### Other Free Resources
-
-*   [Pyrexp](https://pythonium.net/regex) - Free web-based regex tester and visualizer for debugging regular expressions.
 
 ## [Apr 18, 2024](/content/2024/04/18/README.md)
 
@@ -1462,10 +1399,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Brevo](https://www.brevo.com/) - 9,000 emails/month, 300 emails/day free
 
-### Other Free Resources
-
-*   [Framacloud](https://degooglisons-internet.org/en/) - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-
 ## [Feb 21, 2024](/content/2024/02/21/README.md)
 
 ### Forms
@@ -1524,12 +1457,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [Statsig](https://statsig.com) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
-
-## [Jan 15, 2024](/content/2024/01/15/README.md)
-
-### Other Free Resources
-
-*   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -1608,10 +1535,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [Xitoring.com](https://xitoring.com/) - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
-
-### Other Free Resources
-
-*   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
@@ -1923,10 +1846,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
 
-### Game Development
-
-*   [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
-
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
 ### Code Generation
@@ -1979,12 +1898,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [AyeDot](https://ayedot.com/) - Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
 
-## [May 13, 2023](/content/2023/05/13/README.md)
-
-### Miscellaneous
-
-*   [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
-
 ## [May 11, 2023](/content/2023/05/11/README.md)
 
 ### Security and PKI
@@ -2023,12 +1936,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [paperspace](https://www.paperspace.com/) - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
 
-## [Apr 25, 2023](/content/2023/04/25/README.md)
-
-### Miscellaneous
-
-*   [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
-
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Managed Data Services
@@ -2040,12 +1947,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Authentication, Authorization, and User Management
 
 *   [Clerk](https://clerk.com) - User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free plan includes unlimited applications, 50,000 MRU limit per app, 3 dashboard seats, and more.
-
-## [Apr 14, 2023](/content/2023/04/14/README.md)
-
-### Game Development
-
-*   [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -2123,7 +2024,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 16, 2023](/content/2023/03/16/README.md)
 
-### Other Free Resources
+### Design and UI
 
 *   [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
 
@@ -2189,10 +2090,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Miscellaneous
 
 *   [Pika Code Screenshots](https://pika.style/templates/code-image) - Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
-
-### Game Development
-
-*   [Gamefresco.com](https://gamefresco.com/) - Discover, collect, and share free game assets from game artists everywhere.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -2301,25 +2198,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Cube](https://cube.dev/) - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier limited to 1,000 queries per day.
 
-### Other Free Resources
-
-*   [Kody Tools](https://www.kodytools.com/dev-tools) - 100+ dev tools including formatter, minifier, and converter.
-
-## [Jan 05, 2023](/content/2023/01/05/README.md)
-
-### Other Free Resources
-
-*   [regex101](https://regex101.com/) - Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
-
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
 ### Data Visualization on Maps
 
 *   [locationiq.com](https://locationiq.com/) - Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.
-
-### Other Free Resources
-
-*   [Free Code Tools](https://freecodetools.org/) - Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator, and more.
 
 ## [Dec 26, 2022](/content/2022/12/26/README.md)
 
@@ -2362,10 +2245,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [nitropack.io](https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month
-
-### Game Development
-
-*   [Kenney](https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.
 
 ## [Nov 25, 2022](/content/2022/11/25/README.md)
 
@@ -2414,12 +2293,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Authentication, Authorization, and User Management
 
 *   [ZITADEL Cloud](https://zitadel.com) - A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
-
-## [Oct 19, 2022](/content/2022/10/19/README.md)
-
-### Game Development
-
-*   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under a CC-BY license.
 
 ## [Oct 18, 2022](/content/2022/10/18/README.md)
 
@@ -2516,12 +2389,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Rocket.Chat](https://rocket.chat/) - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging, and Full messaging history.
 *   [tldraw.com](https://tldraw.com) -  Free open-source white-boarding and diagramming tool with intelligent arrows, snapping, sticky notes, and SVG export features. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.
 
-## [Aug 31, 2022](/content/2022/08/31/README.md)
-
-### Other Free Resources
-
-*   [Utils.fun](https://utils.fun/en) - All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption, and code formatting, are completely free and do not upload any data to the cloud for processing.
-
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
 ### Issue Tracking and Project Management
@@ -2576,12 +2443,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
 
-## [Aug 10, 2022](/content/2022/08/10/README.md)
-
-### Game Development
-
-*   [LoSpec](https://lospec.com/) - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose from for your games
-
 ## [Aug 08, 2022](/content/2022/08/08/README.md)
 
 ### Tools for Teams and Collaboration
@@ -2602,10 +2463,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jul 27, 2022](/content/2022/07/27/README.md)
 
-### Other Free Resources
+### Design and UI
 
-*   [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS!
-    HTML Themes and UI Kits to create your applications faster!
+*   [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS! HTML Themes and UI Kits to create your applications faster!
 
 ## [Jul 26, 2022](/content/2022/07/26/README.md)
 
@@ -2665,7 +2525,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Other Free Resources
 
-*   [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - 100+ buttons you can use in your project.
 *   [get.localhost.direct](https://get.localhost.direct) - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 
 ## [Jul 12, 2022](/content/2022/07/12/README.md)
@@ -2728,18 +2587,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
 
-## [Jun 21, 2022](/content/2022/06/21/README.md)
-
-### Game Development
-
-*   [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
-
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
 ### Miscellaneous
 
-*   [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
-*   [OnlineExifViewer](https://onlineexifviewer.com/) - View EXIF data online instantly for a photo including GPS location and metadata.
 *   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
 
 ## [Jun 12, 2022](/content/2022/06/12/README.md)
@@ -2768,14 +2619,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without a Mac) and Android apps with Flutter.
 *   [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
 
-### Game Development
-
-*   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits. Also, It can be used for showcasing your art portfolio.
-*   [CraftPix](https://craftpix.net) - Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
-*   [GameDevMarket](https://gamedevmarket.net) - Free/Paid assets like 2D, 3D, Audio, GUI.
-*   [itch.io](https://itch.io/game-assets) - Free/Paid assets like sprites, tile sets, and character packs.
-*   [OpenGameArt](https://opengameart.org) - OpenSource Game Assets like music, sounds, sprites, and gifs.
-
 ## [May 22, 2022](/content/2022/05/22/README.md)
 
 ### Email
@@ -2793,12 +2636,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
-
-## [May 11, 2022](/content/2022/05/11/README.md)
-
-### IDE and Code Editing
-
-*   [code.cs50.io](https://code.cs50.io/) - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.
 
 ## [May 08, 2022](/content/2022/05/08/README.md)
 
@@ -2821,12 +2658,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in
-    JSON format. The source code is also available if you would like to run the server locally.
-
-### Browser-based hardware emulation written in Javascript
-
-*   [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) -  an OpenRISC virtual machine capable of running Linux with network support.
+*   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
 
 ## [Apr 30, 2022](/content/2022/04/30/README.md)
 
@@ -3161,10 +2993,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Datree](https://www.datree.io/) - Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
-### Storage and Media Processing
-
-*   [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
-
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
 ### Web Hosting
@@ -3194,12 +3022,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Data Visualization on Maps
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
-
-## [Nov 10, 2021](/content/2021/11/10/README.md)
-
-### Miscellaneous
-
-*   [Codepng](https://www.codepng.app) - Create excellent snapshots from your source code to share on social media.
 
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 
@@ -3303,9 +3125,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
 *   [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
-*   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
 ## [Oct 04, 2021](/content/2021/10/04/README.md)
 
@@ -3359,7 +3179,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Sep 20, 2021](/content/2021/09/20/README.md)
 
-### Other Free Resources
+### Design and UI
 
 *   [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
 
@@ -3392,7 +3212,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [degoo.com](https://degoo.com/) - AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
-*   [uploadcare.com](https://uploadcare.com/hub/developers/) - Uploadcare provides the media pipeline  with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
+*   [uploadcare.com](https://uploadcare.com/hub/developers/) - Uploadcare provides the media pipeline with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
 
 ## [Sep 02, 2021](/content/2021/09/02/README.md)
 
@@ -3589,12 +3409,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Scraper's Proxy](https://scrapersproxy.com) - Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
 
-## [Jun 05, 2021](/content/2021/06/05/README.md)
-
-### Miscellaneous
-
-*   [Base64 decoder/encoder](https://devpal.co/base64-decode/) - Online free tool for decoding & encoding data.
-
 ## [May 28, 2021](/content/2021/05/28/README.md)
 
 ### APIs, Data, and ML
@@ -3627,12 +3441,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. The free tier offers a one-time scan and a single banner.
 *   [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.
 *   [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
-
-## [Apr 27, 2021](/content/2021/04/27/README.md)
-
-### Miscellaneous
-
-*   [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
 
 ## [Apr 25, 2021](/content/2021/04/25/README.md)
 
@@ -4242,18 +4050,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [zenhub.com](https://www.zenhub.com) - The only project management solution inside GitHub. Free for public repos, OSS, and nonprofit organizations
 
-## [Sep 21, 2020](/content/2020/09/21/README.md)
-
-### Miscellaneous
-
-*   [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
-
-## [Sep 17, 2020](/content/2020/09/17/README.md)
-
-### IDE and Code Editing
-
-*   [Bootify.io](https://bootify.io/) - Spring Boot app generator with custom database and REST API.
-
 ## [Sep 14, 2020](/content/2020/09/14/README.md)
 
 ### APIs, Data, and ML
@@ -4262,13 +4058,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [MockAPI](https://www.mockapi.io/) - MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/2 resources per project for free.
 *   [wrapapi.com](https://wrapapi.com/) - Turn any website into a parameterized API. 30k API calls per month.
 *   [Zenscrape](https://zenscrape.com/web-scraping-api) - Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
-
-## [Sep 12, 2020](/content/2020/09/12/README.md)
-
-### Miscellaneous
-
-*   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
-*   [videoinu](https://videoinu.com) - Create and edit screen recordings and other videos online.
 
 ## [Sep 11, 2020](/content/2020/09/11/README.md)
 
@@ -4314,13 +4103,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Invantive Cloud](https://cloud.invantive.com/) - Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
 
-## [Aug 16, 2020](/content/2020/08/16/README.md)
-
-### Browser-based hardware emulation written in Javascript
-
-*   [JsLinux](https://bellard.org/jslinux) - a really fast x86 virtual machine capable of running Linux and Windows 2k.
-*   [v86](https://copy.sh/v86) - an x86 virtual machine capable of running Linux and other OS directly into the browser.
-
 ## [Jul 22, 2020](/content/2020/07/22/README.md)
 
 ### Font
@@ -4360,12 +4142,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
-
-## [Jul 01, 2020](/content/2020/07/01/README.md)
-
-### Miscellaneous
-
-*   [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
 
 ## [Jun 24, 2020](/content/2020/06/24/README.md)
 
@@ -4862,8 +4638,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Data Visualization on Maps
 
-*   [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route
-    Optimization, Distance Matrix, Geocoding, and Map Matching.
+*   [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route Optimization, Distance Matrix, Geocoding, and Map Matching.
 *   [here](https://developer.here.com/) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
 *   [opencagedata.com](https://opencagedata.com) - Geocoding API aggregating OpenStreetMap and other open geo sources. Two thousand five hundred free queries/day.
 *   [osmnames](https://osmnames.org/) - Geocoding, search results ranked by the popularity of related Wikipedia page.
@@ -4871,9 +4646,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages.
-*   [cocalc.com](https://cocalc.com/) - (formerly SageMathCloud at cloud.sagemath.com) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
-*   [codepen.io](https://codepen.io/) - CodePen is a playground for the front-end side of the web.
-*   [codesandbox.io](https://codesandbox.io/) - Online Playground for React, Vue, Angular, Preact, and more.
+*   [cocalc.com](https://cocalc.com/) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [JDoodle](https://www.jdoodle.com) - Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
 *   [mockable.io](https://www.mockable.io/) - Mockable is a simple configurable service to mock out RESTful API or SOAP web services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
 *   [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).

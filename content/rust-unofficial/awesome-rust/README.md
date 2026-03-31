@@ -6,6 +6,20 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 31, 2026](/content/2026/03/31/README.md)
+
+### Applications / Productivity
+
+*   [fulsomenko/kanban (⭐85)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+
+### Applications / System tools
+
+*   [macpow (⭐77)](https://github.com/k06a/macpow) - Real-time power consumption monitor TUI for Apple Silicon Macs (M1–M5+). Reads IOReport, SMC, IORegistry — no sudo required. [![CI](https://github.com/k06a/macpow/actions/workflows/ci.yml/badge.svg)](https://github.com/k06a/macpow/actions/workflows/ci.yml)[![crates.io](https://img.shields.io/crates/v/macpow.svg?logo=rust)](https://crates.io/crates/macpow)
+
+### Applications / Text processing
+
+*   [micahkepe/jsongrep (⭐504)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
 ### Applications
@@ -99,27 +113,27 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [voidzero-dev/vite-plus (⭐2.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+*   [voidzero-dev/vite-plus (⭐3.8k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
 ### Applications / Games
 
-*   [louis-e/arnis (⭐8.8k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+*   [louis-e/arnis (⭐14k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
 
 ### Development tools / Workflow Automation
 
-*   [armgabrielyan/deadbranch (⭐54)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
+*   [armgabrielyan/deadbranch (⭐168)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 
 ## [Mar 14, 2026](/content/2026/03/14/README.md)
 
 ### Applications / System tools
 
-*   [anylinuxfs-gui (⭐53)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
+*   [anylinuxfs-gui (⭐71)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 
 ### Libraries / Artificial Intelligence
 
-*   [pydantic/monty (⭐6.2k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
+*   [pydantic/monty (⭐6.6k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
 
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
@@ -285,7 +299,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [visioncortex/vtracer (⭐5.6k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+*   [visioncortex/vtracer (⭐5.7k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
 
 ### Applications / System tools
 
@@ -356,7 +370,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [openai/codex (⭐65k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐68k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 17, 2026](/content/2026/02/17/README.md)
 
@@ -394,25 +408,25 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [vortix (⭐384)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐403)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
 ### Applications / Utilities
 
-*   [gitlogue (⭐4.3k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
+*   [gitlogue (⭐4.4k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
 
 ### Libraries / Artificial Intelligence
 
-*   [tag1consulting/feste (⭐76)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
+*   [tag1consulting/feste (⭐78)](https://github.com/tag1consulting/feste) - A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.
 
 ### Libraries / Cryptography
 
-*   [rust-native-tls/rust-native-tls (⭐540)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐541)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Applications / Productivity
 
-*   [tambourine-voice (⭐311)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐323)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
@@ -1532,7 +1546,7 @@ A curated list of Rust code and resources.
 
 *   Science
     *   [Axect/Peroxide (⭐679)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐179)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐191)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐180)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐106)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐78)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
@@ -2755,7 +2769,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [DB3 Network (⭐383)](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven blockchain layer2 decentralized database network [![GitHub Workflow Status (with event)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml/badge.svg)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml)
+*   [DB3 Network (⭐384)](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven blockchain layer2 decentralized database network [![GitHub Workflow Status (with event)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml/badge.svg)](https://github.com/dbpunk-labs/db3/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
@@ -3367,7 +3381,7 @@ A curated list of Rust code and resources.
     *   [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
     *   [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber) - An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. [![Build Status](https://github.com/cucumber-rs/cucumber/actions/workflows/ci.yml/badge.svg)](https://github.com/cucumber-rs/cucumber/actions)
     *   [d-e-s-o/test-log (⭐156)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] - A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
-    *   [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
+    *   [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework
     *   [GoogleTest Rust](https://crates.io/crates/googletest) - Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
     *   [rlt (⭐216)](https://github.com/wfxr/rlt) - A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
@@ -5168,6 +5182,7 @@ A curated list of Rust code and resources.
 *   [Cargo](https://crates.io/) - the Rust package manager
     *   [cargo-all-features (⭐183)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
     *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - A utility to compare micro-benchmarks
+    *   [cargo-bins/cargo-binstall (⭐2.6k)](https://github.com/cargo-bins/cargo-binstall) \[[cargo-binstall](https://crates.io/crates/cargo-binstall)] - A fast binary installer for Rust crates, fetching pre-built artifacts instead of compiling from source [![CI](https://github.com/cargo-bins/cargo-binstall/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-bins/cargo-binstall/actions)
     *   [cargo-bitbake](https://crates.io/crates/cargo-bitbake) - A cargo extension that can generate BitBake recipes utilizing the classes from meta-rust
     *   [cargo-cache](https://crates.io/crates/cargo-cache) - inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
     *   [cargo-check](https://crates.io/crates/cargo-check) - A wrapper around `cargo rustc -- -Zno-trans` which can be helpful for running a faster compile if you only need correctness checks

@@ -44,7 +44,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 *   [TradingAgents (⭐44k)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 *   🌟 [FinRobot (⭐6.5k)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 *   [AgentFund (⭐2)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
-*   🌟 [ATLAS (⭐804)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+*   🌟 [ATLAS (⭐1.3k)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 *   [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 *   [OpenFinClaw (⭐119)](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
 *   [ProfitPlay Agent Arena (⭐4)](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
@@ -206,6 +206,7 @@ Price and Volume process with Technology Analysis Indices
 *   [CoinPaprika API](https://api.coinpaprika.com) - Free cryptocurrency market data API with prices, volume, market cap, and OHLCV for 7,000+ coins. No API key required. Includes MCP server for AI agent integration.
 *   [DexPaprika API](https://api.dexpaprika.com) - Free DEX and DeFi data API — real-time pool data, token prices, OHLCV, and trade history across all chains. No API key, no rate limits. Includes MCP server for AI agents.
 *   [Philidor](https://docs.philidor.io/docs) - Institutional-grade DeFi risk scoring for 700+ vaults across 9 protocols and 6 chains. REST API and MCP server (Claude, Cursor, Windsurf). Deterministic 0–10 risk scores, tiers (Prime/Core/Edge), portfolio analysis, oracle monitoring. No API key required.
+*   [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
 *   [Satoshi API (⭐1)](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence API with 108 endpoints for fee estimates, mempool analysis, block data, and mining stats. Self-hostable, Apache 2.0.
 
 #### News Data
@@ -230,7 +231,7 @@ Price and Volume process with Technology Analysis Indices
 *   [alphalens (⭐4.2k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 *   [empyrical (⭐1.5k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 *   [zvt (⭐4k)](https://github.com/zvtvz/zvt) - Zero vector trader.
-*   [WFGY (⭐1.6k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
+*   [WFGY (⭐1.7k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 *   [ChainPulse (⭐0)](https://github.com/Bortlesboat/chainpulse) - AI-powered Bitcoin network intelligence CLI for natural language queries on mempool, fees, blocks, and mining analysis.
 *   [CRNG (⭐2)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
@@ -319,6 +320,7 @@ Do it in real world!
 *   [Registry Broker (⭐10)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 *   [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 *   [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
+*   [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
 
 #### Other Resource
 

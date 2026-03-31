@@ -29,6 +29,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars\_kde (⭐2)](https://github.com/schemaitat/polars_kde) - Polars plugin for kernel density estimation by @schemaitat.
 
+### Polars plugins / Visualization
+
+*   [flowview (⭐0)](https://github.com/guillermodotn/flowview) - A visual debugger that shows what happens at each step of your Polars DataFrame transformations in the terminal. By [@guillermodotn](https://github.com/guillermodotn).
+
 ### Polars plugins / Miscellaneous
 
 *   [immunum-polars (⭐20)](https://github.com/ENPICOM/immunum) - high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.
@@ -48,19 +52,19 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [Why Polars uses less memory than Pandas](https://www.pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
 *   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return](https://medium.com/towards-data-science/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
-*   [Pandas vs Polars: A database speed test. Who wins?](https://web.archive.org/web/https://medium.com/gitconnected/pandas-v-polars-a-database-speed-test-who-wins-f316182a8bca) - A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by [Thomas Reid](https://medium.com/@thomas_reid).
-*   [Using Polars with Snowflake](https://web.archive.org/web/https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
+*   [Pandas vs Polars: A database speed test. Who wins?](https://medium.com/gitconnected/pandas-v-polars-a-database-speed-test-who-wins-f316182a8bca) - A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by [Thomas Reid](https://medium.com/@thomas_reid).
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://medium.com/towards-data-science/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [Anatomy of a Polars Query: A Syntax Comparison of Polars vs SQL](https://medium.com/towards-data-science/anatomy-of-a-polars-query-a-syntax-comparison-of-polars-vs-sql-a0035ac8a4fa) - A post that compares Polars syntax to SQL by [@bfeif](https://github.com/bfeif).
 *   [Pandas vs. Polars — Time to Switch?](https://medium.com/towards-data-science/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
-*   [Polars: A Modern DataFrame Library](https://web.archive.org/web/https://medium.com/gitconnected/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
+*   [Polars: A Modern DataFrame Library](https://medium.com/gitconnected/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
 *   [Case Study Comparing Pandas and Polars with 1 Million Rows Data](https://medium.com/towards-data-science/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2) - An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python.
 *   [Build a Decision Tree in Polars from Scratch](https://medium.com/towards-data-science/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐6)](https://github.com/tocab/efficient-trees).
-*   [The Complete Guide to Polars for Data Science](https://web.archive.org/web/https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
+*   [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
 
 ### Talks and videos / Miscellaneous
 
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://web.archive.org/web/https://medium.com/geekculture/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by Frank Andrade.
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://medium.com/geekculture/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by Frank Andrade.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 

@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
+
+### Data & Science / Database
+
+*   [zeno-core/zeno (⭐6)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Multimedia & Graphics / Game Development

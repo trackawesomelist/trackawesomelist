@@ -1,18 +1,82 @@
 # Awesome List Updates on Apr 06 - Apr 12, 2026
 
-24 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+
+### Collection / Windows
+
+*   [PyrsistenceSniper (⭐78)](https://github.com/Hexastrike/PyrsistenceSniper) - A Python-based offline Windows persistence detection tool. Point it at a KAPE dump, a Velociraptor collection, or a mounted disk image and get offline Windows persistence detection. Runs on Windows, Linux, and macOS.
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+
+### Data & Science / Database
+
+*   [zeno-core/zeno (⭐6)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Compression
+
+*   [OpenZL (⭐3k)](https://github.com/facebook/openzl) - A novel data compression framework. \[BSD] [website](https://openzl.org/)
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Productivity
+
+*   [fulsomenko/kanban (⭐85)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+
+### Applications / System tools
+
+*   [macpow (⭐77)](https://github.com/k06a/macpow) - Real-time power consumption monitor TUI for Apple Silicon Macs (M1–M5+). Reads IOReport, SMC, IORegistry — no sudo required. [![CI](https://github.com/k06a/macpow/actions/workflows/ci.yml/badge.svg)](https://github.com/k06a/macpow/actions/workflows/ci.yml)[![crates.io](https://img.shields.io/crates/v/macpow.svg?logo=rust)](https://crates.io/crates/macpow)
+
+### Applications / Text processing
+
+*   [micahkepe/jsongrep (⭐504)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
+
+## [6. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Hardware
+
+*   [AutoPi (⭐182)](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for connected vehicle telematics, CAN bus data collection, and automotive IoT applications.
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Fuzzy Finder / Assembly
+
+*   [willyelm/pulse.nvim (⭐13)](https://github.com/willyelm/pulse.nvim) - A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers.
+
+### Colorscheme / Assembly
+
+*   [0x-ximon/acario.nvim (⭐8)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
+
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### SwiftUI
+
+*   [*The SwiftUI Way* by Natalia Panferova](https://books.nilcoalescing.com/the-swiftui-way)
+
+### Architecture
+
+*   [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
+
+## [9. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Security
 
 *   [Certificate Ripper (⭐876)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
 
-## [2. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [10. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Compound
 
@@ -87,13 +151,13 @@
 *   [Sei (⭐112)](https://github.com/FunctionLab/sei-framework) — Sequence-to-function framework learning a genome-wide regulatory activity code from DNA sequences for variant effect prediction.
 *   [GPN (Genomic Pre-trained Network) (⭐335)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
-## [3. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [11. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Tools / Software / AI Assistants
 
@@ -103,13 +167,13 @@
 
 *   🔒 [GemRB (⭐1.2k)](https://github.com/gemrb/gemrb) - Open-source implementation of *Bioware*'s Infinity Engine.
 
-## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
 *   [Yaw](https://yaw.sh) - A cross-platform terminal that auto-detects WSL along with PowerShell, CMD, and Git Bash on Windows.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
@@ -119,7 +183,7 @@
 
 *   [High Assurance Rust](https://highassurance.rs) - Tiemoko Ballo (HTML) (CC BY-NC-ND)
 
-## [7. Awesome Cern](/content/CERN/awesome-cern/week/README.md)
+## [15. Awesome Cern](/content/CERN/awesome-cern/week/README.md)
 
 ### Physics/mathematics analysis/simulation / Event Management
 
@@ -129,13 +193,13 @@
 
 *   [react-openapi-generator-hook (⭐5)](https://github.com/CERN/react-openapi-generator-hook): React library to simplify API calls using OpenApi Generator.
 
-## [8. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [16. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Data Structures / Maps
 
 *   [lrita/cmap (⭐101)](https://github.com/lrita/cmap) — a thread-safe concurrent map for go ☆`101`
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -158,6 +222,10 @@
 
 *   [polars\_kde (⭐2)](https://github.com/schemaitat/polars_kde) - Polars plugin for kernel density estimation by @schemaitat.
 
+### Polars plugins / Visualization
+
+*   [flowview (⭐0)](https://github.com/guillermodotn/flowview) - A visual debugger that shows what happens at each step of your Polars DataFrame transformations in the terminal. By [@guillermodotn](https://github.com/guillermodotn).
+
 ### Polars plugins / Miscellaneous
 
 *   [immunum-polars (⭐20)](https://github.com/ENPICOM/immunum) - high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.
@@ -177,51 +245,55 @@
 
 *   [Why Polars uses less memory than Pandas](https://www.pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
 *   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return](https://medium.com/towards-data-science/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
-*   [Pandas vs Polars: A database speed test. Who wins?](https://web.archive.org/web/https://medium.com/gitconnected/pandas-v-polars-a-database-speed-test-who-wins-f316182a8bca) - A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by [Thomas Reid](https://medium.com/@thomas_reid).
-*   [Using Polars with Snowflake](https://web.archive.org/web/https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
+*   [Pandas vs Polars: A database speed test. Who wins?](https://medium.com/gitconnected/pandas-v-polars-a-database-speed-test-who-wins-f316182a8bca) - A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by [Thomas Reid](https://medium.com/@thomas_reid).
+*   [Using Polars with Snowflake](https://medium.com/snowflake/using-polars-with-snowflake-cbdd49b0ca6b) - A blog post that shows how to use Polars with Snowflake by [@IndexSeek](https://github.com/IndexSeek).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://medium.com/towards-data-science/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [Anatomy of a Polars Query: A Syntax Comparison of Polars vs SQL](https://medium.com/towards-data-science/anatomy-of-a-polars-query-a-syntax-comparison-of-polars-vs-sql-a0035ac8a4fa) - A post that compares Polars syntax to SQL by [@bfeif](https://github.com/bfeif).
 *   [Pandas vs. Polars — Time to Switch?](https://medium.com/towards-data-science/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
-*   [Polars: A Modern DataFrame Library](https://web.archive.org/web/https://medium.com/gitconnected/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
+*   [Polars: A Modern DataFrame Library](https://medium.com/gitconnected/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
 *   [Case Study Comparing Pandas and Polars with 1 Million Rows Data](https://medium.com/towards-data-science/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2) - An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python.
 *   [Build a Decision Tree in Polars from Scratch](https://medium.com/towards-data-science/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐6)](https://github.com/tocab/efficient-trees).
-*   [The Complete Guide to Polars for Data Science](https://web.archive.org/web/https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
+*   [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
 
 ### Talks and videos / Miscellaneous
 
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://web.archive.org/web/https://medium.com/geekculture/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by Frank Andrade.
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://medium.com/geekculture/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by Frank Andrade.
 
-## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Data Validation
 
 *   [voluptuous (⭐1.8k)](https://github.com/alecthomas/voluptuous) - A Python data validation library primarily intended for validating data from untrusted sources.
 
-## [11. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [19. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Preact In Motion (⭐32)](https://github.com/alloc/preact-in-motion) - Light, elegant animation plugin for Preact (powered by Motion.dev and WAAPI).
 
-## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tabby (⭐25)](https://github.com/brendandebeasi/tabby) Modern tab manager with a daemon-driven vertical sidebar, window grouping, and full mouse support.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Productivity / Note Taking and Lists
+
+*   [kanban (⭐85)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### AI / Agents
 
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 
-## [14. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [22. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Development
 
 *   [cover\_me (⭐3)](https://github.com/verizonconnect/database-development) - code coverage tool for mysql stored procedures and functions
 
-## [15. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [23. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -231,29 +303,37 @@
 
 *   [MarginSafe.ai](https://marginsafe.ai) - AI stock analysis platform specialized in intrinsic value and Wyckoff timing.
 
+### Data Sources / Crypto Currencies
+
+*   [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
+
 ### Research Tools / Prediction Markets
 
 *   [CRNG (⭐2)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
-## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+### Others / Plugins
+
+*   [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
+
+## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Podcasts / Book Deals (Affiliated)
 
 *   [Chain of Thought](https://www.chainofthought.show/)
 
-## [17. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [25. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Tooling 🧰 / General
 
 *   [claude-devtools (⭐2.8k)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
 
-## [18. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [26. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
 *   [Litmus (⭐2)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 
-## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -273,7 +353,7 @@
 *   [aws-doctor (⭐372)](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal 🩺 ☁️.
 *   [kepfi (⭐7)](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -301,25 +381,25 @@
 
 *   [Dimly](https://feuerbacher.me/projects/dimly) - Control brightness across mixed monitor setups from one menu bar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/punshnut/macos-dimly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [21. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [29. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [huABus (⭐5)](https://github.com/arboeh/huABus) - Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / URL Shorteners
 
 *   [Kutt](https://kutt.to) - Modern URL shortener with support for custom domains and custom URLs. ([Demo](https://kutt.to), [Source Code (⭐11k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
 
-## [23. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [31. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🛠️ Tools / 🌱 Third Party
 
 *   [MUlt1mate/protoc-gen-httpgo (⭐17)](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 

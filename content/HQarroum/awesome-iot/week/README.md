@@ -6,22 +6,28 @@
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / Weekly / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
+
+### Hardware
+
+*   [AutoPi (⭐182)](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for connected vehicle telematics, CAN bus data collection, and automotive IoT applications.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Hardware
 
-*   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
+*   [PiSpot Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 *   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Software for running a PiSpot Watch (composed of a Raspberry Pi Zero and a PaPiRus Zero) for the company GPConnect.
 
 ### Software / Miscellaneous
 
-*   [PiSpot-Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
+*   [PiSpot-Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
 ### Software / Libraries and Tools
 
-*   [ble-scale-sync (⭐32)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
+*   [ble-scale-sync (⭐38)](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi, Linux, macOS, and Windows.
 
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
 
@@ -39,7 +45,7 @@
 
 ### Software / Middlewares
 
-*   [Zilla (⭐681)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐680)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -127,7 +133,7 @@
 
 ### Software / Libraries and Tools
 
-*   [Chaos Genius (⭐774)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐775)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -139,7 +145,7 @@
 
 ### Software / Frameworks
 
-*   [AREG SDK (⭐338)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
+*   [AREG SDK (⭐342)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 *   [Macchina.io](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
@@ -173,17 +179,17 @@
 
 ### Software / Libraries and Tools
 
-*   [United Manufacturing Hub (⭐352)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
+*   [United Manufacturing Hub (⭐358)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
 ### Software / Frameworks
 
-*   [HStreamDB (⭐727)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐725)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 ### Software / Middlewares
 
-*   [NanoMQ (⭐2.4k)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
+*   [NanoMQ (⭐2.5k)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 *   [Kuiper (⭐1.7k)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
@@ -278,7 +284,7 @@
 
 ### Software / Frameworks
 
-*   [MyController (⭐154)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
+*   [MyController (⭐155)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
 ## [Dec 03 - Dec 09, 2018](/content/2018/49/README.md)
 
@@ -296,12 +302,12 @@
 
 ### Software / Frameworks
 
-*   [Astarte (⭐267)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+*   [Astarte (⭐271)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 *   [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
 
 ### Software / Middlewares
 
-*   [VerneMQ (⭐3.5k)](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
+*   [VerneMQ (⭐3.6k)](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
 
 ### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
@@ -432,7 +438,7 @@
 
 ### Software / Frameworks
 
-*   [Home Assistant (⭐85k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+*   [Home Assistant (⭐86k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
 
 ### Software / Middlewares
 

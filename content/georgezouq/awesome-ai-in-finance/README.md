@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 31, 2026](/content/2026/03/31/README.md)
+
+### Data Sources / Crypto Currencies
+
+*   [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
+
+### Others / Plugins
+
+*   [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
+
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
 ### Agents
@@ -63,7 +73,7 @@
 
 ### Agents
 
-*   🌟 [ATLAS (⭐804)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+*   🌟 [ATLAS (⭐1.3k)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 
 ### Others / Plugins
 
@@ -129,7 +139,7 @@
 
 ### Research Tools / Prediction Markets
 
-*   [WFGY (⭐1.6k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
+*   [WFGY (⭐1.7k)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 
 ## [Feb 04, 2026](/content/2026/02/04/README.md)
 
