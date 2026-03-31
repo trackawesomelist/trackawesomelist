@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 31, 2026](/content/2026/03/31/README.md)
+
+### Utilities / Window Management
+
+*   [StreamWindow](https://macdev.cn/) - 3D window manager with intuitive views and fluid transitions. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
+
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
 ### Terminal Apps / Databases

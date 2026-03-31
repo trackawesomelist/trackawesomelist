@@ -2,7 +2,7 @@
 
 A curated list of awesome open source frameworks, libraries and software developed by CERN for the world
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CERN/awesome-cern/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 CERN/awesome-cern](https://github.com/CERN/awesome-cern) · ⭐ 91 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CERN/awesome-cern/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 CERN/awesome-cern](https://github.com/CERN/awesome-cern) · ⭐ 109 · 🏷️ Computer Science
 
 [ [Daily](/content/CERN/awesome-cern/README.md) / [Weekly](/content/CERN/awesome-cern/week/README.md) / Overview ]
 
@@ -24,20 +24,21 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 *   [InvenioRDM](https://inveniosoftware.org/products/rdm/): turn-key research data management (RDM) digital repository platform based on [Invenio Framework](https://inveniosoftware.org/products/framework/) and [Zenodo](https://www.zenodo.org/), written in Python and React.
 *   [Open Data Portal](https://github.com/cernopendata): highly curated repository of high energy physics (UI and server), written in Python.
 *   [REANA](https://reana.io/): a reproducible research data analysis platform.
-*   [Zenodo (⭐185)](https://github.com/zenodo/zenodo-rdm): Research. Shared. An open dependable home for the long-tail of science.
+*   [Zenodo (⭐220)](https://github.com/zenodo/zenodo-rdm): Research. Shared. An open dependable home for the long-tail of science.
 
 ### Event Management
 
 *   [Indico](https://getindico.io): feature-rich general event management system written in Python.
-*   [newdle (⭐111)](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
+*   [newdle (⭐114)](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
 
 ## Physics/mathematics analysis/simulation
 
-*   [ACTS (⭐120)](https://github.com/acts-project/acts): Experiment-independent toolkit for (charged) particle track reconstruction in high energy an nuclear physics experiments
+*   [ACTS (⭐119)](https://github.com/acts-project/acts): Experiment-independent toolkit for (charged) particle track reconstruction in high energy an nuclear physics experiments
 *   [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
-*   [CAiMIRA (⭐23)](https://github.com/CERN/CAiMIRA/): CERN Airborne Model for Indoor Risk Assessment, a tool developed to assess and model the concentration of airborne viruses in enclosed spaces, specifically focusing on the SARS-CoV-2 virus. Documentation available [here](https://caimira.docs.cern.ch/).
+*   [CAiMIRA (⭐25)](https://github.com/CERN/CAiMIRA/): CERN Airborne Model for Indoor Risk Assessment, a tool developed to assess and model the concentration of airborne viruses in enclosed spaces, specifically focusing on the SARS-CoV-2 virus. Documentation available [here](https://caimira.docs.cern.ch/).
 *   [Geant4](https://geant4.web.cern.ch/): Toolkit for the simulation of the passage of particles through matter.
 *   [GeoModel](https://geomodel.web.cern.ch): GeoModel - A Detector Description Toolkit for HEP experiments.
+*   [LGC2 (⭐3)](https://github.com/geodetic-metrology-tools/LGC2): High-precision 3D least-squares adjustment for large-scale geodetic and metrology networks.
 *   [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
 *   [Xsuite](https://xsuite.web.cern.ch): A collection of Python packages for simulating beam dynamics in particle accelerators with support of different computing platforms, such as OpenMP and various GPU frameworks.
 
@@ -59,7 +60,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 *   [CTA](https://eoscta.docs.cern.ch/latest/): distributed storage system written in C++ for archival of data on tape media (biggest installation 1 exabyte).
 *   [CVMFS](https://cernvm.cern.ch/filesystem/): a scalable, reliable and low-maintenance software distribution service.
 *   [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
-*   [Reva (⭐204)](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
+*   [Reva (⭐212)](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
 
 ## Libraries
 
@@ -73,5 +74,6 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 
 *   [react-jsx-i18N (⭐2)](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
 *   [react-overridable (⭐8)](https://github.com/indico/react-overridable): Overridable React components.
+*   [react-openapi-generator-hook (⭐5)](https://github.com/CERN/react-openapi-generator-hook): React library to simplify API calls using OpenApi Generator.
 *   [React-SearchKit (⭐82)](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
 
