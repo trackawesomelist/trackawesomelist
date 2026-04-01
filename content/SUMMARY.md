@@ -4,6 +4,7 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome Python](/content/content/vinta/awesome-python/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
@@ -16,9 +17,9 @@
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
   - [Awesome React](/content/content/enaqx/awesome-react/README.md)
   - [Awesome Docker](/content/content/veggiemonk/awesome-docker/README.md)
+  - [Awesome Datascience](/content/content/academic/awesome-datascience/README.md)
   - [Awesome Claude Code](/content/content/hesreallyhim/awesome-claude-code/README.md)
   - [Awesome Osint](/content/content/jivoi/awesome-osint/README.md)
-  - [Awesome Datascience](/content/content/academic/awesome-datascience/README.md)
   - [Awesome Php](/content/content/ziadoz/awesome-php/README.md)
   - [Awesome Sysadmin](/content/content/awesome-foss/awesome-sysadmin/README.md)
   - [Awesome Neovim](/content/content/rockerBOO/awesome-neovim/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Jupyter](/content/content/markusschanta/awesome-jupyter/README.md)
   - [Tips](/content/content/git-tips/tips/README.md)
   - [Awesome Crystal](/content/content/veelenga/awesome-crystal/README.md)
-  - [Awesome Mqtt](/content/content/awesome-mqtt/awesome-mqtt/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Agentic AI](agentic-ai/README.md)
     - [Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)

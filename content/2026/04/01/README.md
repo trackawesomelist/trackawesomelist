@@ -1,12 +1,52 @@
 # Awesome List Updates on Apr 01, 2026
 
-9 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+
+### Tools
+
+*   [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Artificial Intelligence
+
+*   [localaik (⭐1)](https://github.com/harshaneel/localaik) - Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.
+
+## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
+
+### Uncategorized
+
+*   [See-through (⭐895)](https://github.com/shitagaki-lab/see-through) - Single-image Layer Decomposition for Anime Characters. \[English]
+
+## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+### AI
+
+*   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
+
+## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+
+### Miscellaneous
+
+*   [Transit (⭐1.7k)](https://github.com/MobilityData/awesome-transit#readme) – Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
+
+## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Newsletters / Book Deals (Affiliated)
+
+*   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
+
+### Datasets / Book Deals (Affiliated)
+
+*   [latamdata-py (⭐0)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Google Dorks Tools
 
@@ -17,13 +57,13 @@
 *   [uk-company-number (⭐0)](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
 *   [uk-sic-codes (⭐0)](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [ZXC (⭐317)](https://github.com/hellobertrand/zxc) - High-performance asymmetric lossless compression. \[BSD-3-Clause]
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -84,7 +124,11 @@
 *   [Protocol Buffers (⭐71k) (⭐71k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐459) (⭐456)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Design and Product / Screen Recording
+
+*   [OpenScreen (⭐12k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siddharthvaddem/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
@@ -94,36 +138,48 @@
 
 *   [EnviousWispr](https://enviouswispr.com) - On-device AI dictation that turns speech into polished text. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+### Browsers / Audio Record and Process
+
+*   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+
+### Utilities / Clipboard Tools
+
+*   [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/samirpatil2000/Buffer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+## [11. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [mqttv5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
 
-## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Folium (⭐7.4k)](https://github.com/python-visualization/folium) - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
-*   [Linref (⭐9)](https://github.com/tariqshihadah/linref)- A library that builds on tabular and geospatial libraries pandas and geopandas to implement powerful features for linearly referenced data through event collection objects.
+*   [Linref (⭐9)](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
 *   [Localhero.ai](https://localhero.ai) - Automatic on-brand translations on every pull request, with glossary and translation memory. Free for 1 project, 250 translation credits/month (\~4,000 words).
 
+### Managed Data Services
+
+*   [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 500MB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
+
 ### IDE and Code Editing
 
 *   [RunMat](https://runmat.com/sandbox) - GPU-accelerated numerical computing IDE in the browser. Write and run MATLAB-syntax .m files with automatic GPU acceleration via WebAssembly and WebGPU. No install, no account, no license fees. Open source runtime with CLI, NPM package, and Jupyter kernel support.
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### AI / Agents
 
 *   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 
-## [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [15. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 

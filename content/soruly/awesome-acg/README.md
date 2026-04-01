@@ -6,21 +6,27 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Apr 01, 2026](/content/2026/04/01/README.md)
+
+### Uncategorized
+
+*   [See-through (⭐895)](https://github.com/shitagaki-lab/see-through) - Single-image Layer Decomposition for Anime Characters. \[English]
+
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
 ### Uncategorized
 
-*   [AIRI (⭐18k)](https://github.com/moeru-ai/airi) - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
+*   [AIRI (⭐37k)](https://github.com/moeru-ai/airi) - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Image Recognition
 
-*   [anime-character-detector (⭐6)](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM). \[English/日本語]
+*   [anime-character-detector (⭐7)](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM). \[English/日本語]
 
 ### Uncategorized
 
-*   [MotionPNGTuber (⭐247)](https://github.com/rotejin/MotionPNGTuber) - PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール. \[日本語]
+*   [MotionPNGTuber (⭐265)](https://github.com/rotejin/MotionPNGTuber) - PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール. \[日本語]
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -36,19 +42,19 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Downloaders
 
-*   [ComicGUISpider (⭐611)](https://github.com/jasoneri/ComicGUISpider) - Comic downloader by simple GUI operation. \[English/中文]
+*   [ComicGUISpider (⭐651)](https://github.com/jasoneri/ComicGUISpider) - Comic downloader by simple GUI operation. \[English/中文]
 
 ## [Dec 21, 2024](/content/2024/12/21/README.md)
 
 ### Image Generation
 
-*   [AniDoc (⭐569)](https://github.com/yihao-meng/AniDoc) - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
+*   [AniDoc (⭐573)](https://github.com/yihao-meng/AniDoc) - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
 
 ## [Dec 12, 2024](/content/2024/12/12/README.md)
 
 ### Subtitles
 
-*   [Fansubbing Guide (⭐163)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A guide for fansubbing. \[English]
+*   [Fansubbing Guide (⭐164)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A guide for fansubbing. \[English]
 
 ## [Nov 21, 2024](/content/2024/11/21/README.md)
 
@@ -58,7 +64,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Web
 
-*   [AITuberKit (⭐867)](https://github.com/tegnike/aituber-kit) - AITuber Kit. \[日本語/English/中文]
+*   [AITuberKit (⭐914)](https://github.com/tegnike/aituber-kit) - AITuber Kit. \[日本語/English/中文]
 
 ### Uncategorized
 
@@ -68,11 +74,11 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Downloaders
 
-*   [waifuc (⭐392)](https://github.com/deepghs/waifuc) - Anime image data collector for training models. \[English]
+*   [waifuc (⭐399)](https://github.com/deepghs/waifuc) - Anime image data collector for training models. \[English]
 
 ### Image Processing
 
-*   [imgutils (⭐369)](https://github.com/deepghs/imgutils) - Image processing library with various anime-style image processing models. \[English]
+*   [imgutils (⭐380)](https://github.com/deepghs/imgutils) - Image processing library with various anime-style image processing models. \[English]
 
 ### Developer Groups
 
@@ -94,19 +100,19 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Mobile Apps
 
-*   [Mihon (⭐19k)](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android. \[English]
+*   [Mihon (⭐20k)](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android. \[English]
 
 ## [Oct 03, 2023](/content/2023/10/03/README.md)
 
 ### Image Reverse Search
 
-*   [imsearch (⭐973)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+*   [imsearch (⭐991)](https://github.com/lolishinshi/imsearch) - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
 ### Uncategorized
 
-*   [ACG2vec (⭐575)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
+*   [ACG2vec (⭐576)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 
@@ -118,7 +124,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Image Processing
 
-*   [Anime Segmentation (⭐789)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐795)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
@@ -130,19 +136,19 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Image Processing
 
-*   [Real-ESRGAN-GUI (⭐580)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
+*   [Real-ESRGAN-GUI (⭐585)](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Real-ESRGAN GUI Wrapper. \[日本語]
 
 ## [Sep 10, 2022](/content/2022/09/10/README.md)
 
 ### Uncategorized
 
-*   [Hime Display (⭐237)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐241)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
 ## [Sep 07, 2022](/content/2022/09/07/README.md)
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐34k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐35k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
@@ -154,13 +160,13 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Audio
 
-*   [VOICEVOX (⭐3k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+*   [VOICEVOX (⭐3.1k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## [Jun 23, 2022](/content/2022/06/23/README.md)
 
 ### Data Sources
 
-*   [anime-streaming (⭐98)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
+*   [anime-streaming (⭐99)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
 *   [manga-platform (⭐33)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
@@ -204,7 +210,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Uncategorized
 
-*   [Vignette (⭐524)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐526)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [Aug 09, 2021](/content/2021/08/09/README.md)
 
@@ -240,29 +246,29 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Data Sources
 
-*   [anime-offline-database (⭐1.2k)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐1.3k)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
 ## [Jan 22, 2021](/content/2021/01/22/README.md)
 
 ### Tools
 
-*   [Visual Novel OCR (⭐66)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
+*   [Visual Novel OCR (⭐67)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 
 ## [Jan 21, 2021](/content/2021/01/21/README.md)
 
 ### Audio
 
-*   [0x40-web (⭐430)](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. \[English]
+*   [0x40-web (⭐438)](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. \[English]
 *   [chiru.no](https://chiru.no/) - High quality ACG music streaming. \[English]
 *   [Mikutap](https://aidn.jp/mikutap/) - Interactive music mixer with Hatsune Miku. \[English]
 *   [moefm.sh (⭐15)](https://github.com/mike2718/moefm.sh) - Client script for moefm radio. \[中文]
 
 ### Danmaku
 
-*   [ABPlayerHTML5 (⭐885)](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
+*   [ABPlayerHTML5 (⭐884)](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
 *   [CommentCoreLibrary (⭐1.9k)](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. \[English/中文]
-*   [Danmaku (⭐739)](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine. \[English/中文]
-*   [danmaku2ass (⭐608)](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format. \[English/中文]
+*   [Danmaku (⭐741)](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine. \[English/中文]
+*   [danmaku2ass (⭐611)](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format. \[English/中文]
 *   [DPlayer (⭐16k)](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player. \[English/中文]
 
 ### Downloaders
@@ -270,16 +276,16 @@ A curated list of awesome technologies related to Anime, Comic and Games
 *   [Albireo (⭐124)](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb (⭐32)](https://github.com/lordfriend/Deneb). \[English]
 *   [anilist-crawler (⭐44)](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch. \[English]
 *   [BooruDownloader (⭐47)](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines. \[English]
-*   [CeJS (⭐3.9k)](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader. \[English/中文]
-*   [Comic-DL (⭐636)](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites. \[English]
-*   [Danbooru Downloader (⭐422)](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/). \[English]
+*   [CeJS (⭐4k)](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader. \[English/中文]
+*   [Comic-DL (⭐646)](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites. \[English]
+*   [Danbooru Downloader (⭐423)](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/). \[English]
 *   [DMHY (⭐473)](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. \[中文]
 *   [E-Hentai-Downloader (⭐2.3k)](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file. \[English]
 *   [gallery-dl (⭐17k)](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
-*   [getComic (⭐201)](https://github.com/abcfy2/getComic) - Download tencent comics. \[中文]
-*   [imgbrd-grabber (⭐3k)](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
+*   [getComic (⭐202)](https://github.com/abcfy2/getComic) - Download tencent comics. \[中文]
+*   [imgbrd-grabber (⭐3.1k)](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
 *   [JComicDownloader (⭐247)](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China. \[中文]
-*   [MangaRipper (⭐200)](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing. \[English]
+*   [MangaRipper (⭐201)](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing. \[English]
 *   [OkanimeDownloader (⭐10)](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort. \[English]
 *   [PixivUtil (Pixiv Downloader) (⭐2.6k)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
 *   [Pixiv Illust (⭐8)](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). \[English]
@@ -294,16 +300,16 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Data Sources
 
-*   [Anilogia (⭐329)](https://github.com/anilogia/animedb) - Anime list database. \[日本語]
-*   [anime-relations (⭐96)](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. \[English]
+*   [Anilogia (⭐330)](https://github.com/anilogia/animedb) - Anime list database. \[日本語]
+*   [anime-relations (⭐97)](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. \[English]
 *   [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database. \[English]
 *   [Animeloop](https://animeloop.org/) - Website for animeloop-cli. \[English]
 *   [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF. \[日本語]
 *   [arm-server (⭐109)](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. \[English]
-*   [Bangumi Data (⭐593)](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime. \[中文]
+*   [Bangumi Data (⭐597)](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime. \[中文]
 *   [cal.syoboi](https://cal.syoboi.jp) - anime bangumi timeline. \[日本語]
 *   [Dhufufu (⭐2)](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated). \[中文]
-*   [E-HentaiCrawler (⭐390)](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler. \[中文]
+*   [E-HentaiCrawler (⭐389)](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler. \[中文]
 *   [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?' \[English]
 *   [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG. \[中文]
 *   [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform. \[English]
@@ -313,21 +319,21 @@ A curated list of awesome technologies related to Anime, Comic and Games
 *   [pixivpy (⭐2k)](https://github.com/upbit/pixivpy) - Pixiv API for Python. \[English/中文]
 *   [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label. \[English]
 *   [Seiyuu.moe (⭐19)](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu. \[English]
-*   [Vocaloid Database (⭐441)](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/). \[English]
+*   [Vocaloid Database (⭐446)](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/). \[English]
 
 ### Image Board
 
 *   [aint.moe (⭐7)](https://github.com/maxpowa/aint.moe) - Your waifu aint moe. \[English]
-*   [animeshot2 (⭐53)](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js. \[English]
-*   [atogatari (⭐15)](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters. \[English]
+*   [animeshot2 (⭐54)](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js. \[English]
+*   [atogatari (⭐14)](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters. \[English]
 *   [BooruSurfer2 (⭐13)](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards. \[English]
 *   [danbooru (⭐2.7k)](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/). \[English]
-*   [Hydron (⭐96)](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend. \[English]
+*   [Hydron (⭐97)](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend. \[English]
 *   [Hydrus (⭐3k)](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. \[English]
-*   [Moebooru (⭐589)](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/). \[English]
+*   [Moebooru (⭐594)](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/). \[English]
 *   [PBooru (⭐52)](https://github.com/Kycklingar/PBooru) - Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content. \[English]
-*   [szurubooru (⭐917)](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities. \[English]
-*   [TagsTable (⭐541)](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags. \[中文]
+*   [szurubooru (⭐933)](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities. \[English]
+*   [TagsTable (⭐537)](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags. \[中文]
 
 ### Image Generation
 
@@ -342,12 +348,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 *   [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook. \[English]
 *   [kemonogen (⭐122)](https://github.com/aratama/kemonogen) - Kemono Friends logo generator. \[日本語]
 *   [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I. \[English]
-*   [seeprettyface dongman (⭐150)](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. \[中文]
+*   [seeprettyface dongman (⭐151)](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. \[中文]
 *   [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)). \[English]
 *   [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2. \[English]
 *   [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid. \[English]
 *   [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Synthesize Your Waifu Face using StyleGAN2. \[English]
-*   [TwinGAN (⭐718)](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime. \[English]
+*   [TwinGAN (⭐717)](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime. \[English]
 *   [Waifu Labs](https://waifulabs.com/) - Synthesize Your Waifu Face Conditionally. \[English]
 
 ### Image Processing
@@ -357,11 +363,11 @@ A curated list of awesome technologies related to Anime, Comic and Games
 *   [cgCompress (⭐17)](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. \[English]
 *   [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks. \[English]
 *   [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. \[English]
-*   [MangaCraft (⭐701)](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. \[English]
+*   [MangaCraft (⭐699)](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. \[English]
 *   [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online. \[中文]
-*   [Overmix (⭐205)](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. \[English]
+*   [Overmix (⭐206)](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. \[English]
 *   [PaintsChainer (⭐3.8k)](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer. \[English]
-*   [sketchKeras (⭐473)](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints. \[English]
+*   [sketchKeras (⭐472)](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints. \[English]
 *   [style2paints (⭐18k)](https://github.com/lllyasviel/style2paints) - Paint line images with AI. \[English]
 *   [TachibanaYoshino AnimeGAN (⭐4.6k)](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model \[English]
 *   [upscale.wiki.anime](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime) - Image Super-Resolution model wiki \[English]
@@ -370,34 +376,34 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Image Recognition
 
-*   [alt-i2v (⭐35)](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer. \[日本語]
-*   [animeface-2009 (⭐321)](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade\_animeface but more accurate. \[English]
+*   [alt-i2v (⭐34)](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer. \[日本語]
+*   [animeface-2009 (⭐323)](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade\_animeface but more accurate. \[English]
 *   [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine (⭐61)](https://github.com/nagadomi/otama). \[日本語]
 *   [AniSeg (⭐207)](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation. \[English]
 *   [danbooru-tagger (⭐19)](https://github.com/anthony-dipofi/danbooru-tagger) - auto labeling danboorulike tags for anime illustration. \[English]
-*   [deep cascaded landmark detection (⭐253)](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression. \[English]
+*   [deep cascaded landmark detection (⭐252)](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression. \[English]
 *   [Illustration2Vec (⭐675)](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations. \[English]
 *   [lbpcascade\_animeface (⭐2k)](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV. \[English]
-*   [LFFD animeface (⭐71)](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD \&mxnet. \[English]
+*   [LFFD animeface (⭐72)](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD \&mxnet. \[English]
 *   [n\_jigen\_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. \[English]
 *   [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san. \[日本語]
-*   [transfer-learning-anime (⭐189)](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade\_animeface (⭐2k)](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). \[English]
+*   [transfer-learning-anime (⭐190)](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade\_animeface (⭐2k)](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). \[English]
 
 ### Image Reverse Search
 
 *   [ascii2d](http://www.ascii2d.net/) - 2D art search. \[日本語]
-*   [Gochiusearch (⭐400)](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
+*   [Gochiusearch (⭐401)](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
 *   Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines. \[English]
 *   [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/). \[English]
 *   [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html). \[English]
 *   [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO. \[English]
-*   [WAIT: What Anime Is This? (⭐4.9k)](https://github.com/soruly/trace.moe) - Anime scene search engine. Powered by [liresolr (⭐184)](https://github.com/dermotte/liresolr). \[English]
+*   [WAIT: What Anime Is This? (⭐5k)](https://github.com/soruly/trace.moe) - Anime scene search engine. Powered by [liresolr (⭐185)](https://github.com/dermotte/liresolr). \[English]
 
 ### Mobile Apps
 
 *   [Amadeus (⭐1k)](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. \[English]
 *   [Atarashii (⭐79)](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/). \[English]
-*   [EhViewer (⭐9.5k)](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android. \[中文]
+*   [EhViewer (⭐9.6k)](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android. \[中文]
 *   [KonaBot (⭐29)](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net). \[English]
 *   [LNReader-Android (⭐121)](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. \[English]
 *   [NineAnimator (⭐815)](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
@@ -406,34 +412,34 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 *   [aaencoder (⭐42)](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字). \[日本語]
 *   [gochiusa\_lang (⭐25)](https://github.com/dolciss/gochiusa_lang) - . \[日本語]
-*   [hanabi (⭐249)](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694). \[English]
+*   [hanabi (⭐250)](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694). \[English]
 *   [hhiro\_lang (⭐5)](https://github.com/zonuexe/hhiro_lang) - . \[日本語]
-*   [kawaii-term (⭐118)](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress. \[日本語]
+*   [kawaii-term (⭐117)](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress. \[日本語]
 *   [kemono\_friends\_lang (⭐205)](https://github.com/consomme/kemono_friends_lang) - . \[日本語]
-*   [nyaruko\_lang (⭐163)](https://github.com/masarakki/nyaruko_lang) - . \[日本語]
-*   [RADWIMPS (⭐277)](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future. \[日本語]
+*   [nyaruko\_lang (⭐164)](https://github.com/masarakki/nyaruko_lang) - . \[日本語]
+*   [RADWIMPS (⭐276)](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future. \[日本語]
 *   [We-i\_lang (⭐1)](https://github.com/oppai/We-i_lang) - . \[日本語]
 
 ### Subtitles
 
 *   [aeneas (⭐2.8k)](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text. \[English]
-*   [ASS.js (⭐640)](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer. \[English]
-*   [dialogue.moe (⭐342)](https://github.com/windrises/dialogue.moe) - Search where a dialogue comes from. \[English/中文]
-*   [JavascriptSubtitlesOctopus (⭐482)](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features. \[English]
+*   [ASS.js (⭐643)](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer. \[English]
+*   [dialogue.moe (⭐344)](https://github.com/windrises/dialogue.moe) - Search where a dialogue comes from. \[English/中文]
+*   [JavascriptSubtitlesOctopus (⭐486)](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features. \[English]
 *   [libjass (⭐179)](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser. \[English]
-*   [SubBuilder (⭐9)](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組). \[English/中文]
+*   [SubBuilder (⭐7)](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組). \[English/中文]
 *   [subsearch.madsck.com](http://subsearch.madsck.com/) - Search source of anime dialogue. \[English/中文]
-*   [Sushi (⭐705)](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio. \[English]
+*   [Sushi (⭐708)](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio. \[English]
 
 ### Tools
 
-*   [anitomy (⭐300)](https://github.com/erengy/anitomy) - Anime video filename parser. \[English]
-*   [arc\_unpacker (⭐654)](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI. \[English]
+*   [anitomy (⭐304)](https://github.com/erengy/anitomy) - Anime video filename parser. \[English]
+*   [arc\_unpacker (⭐658)](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI. \[English]
 *   [bgm (⭐20)](https://github.com/egoist/bgm) - Display bangumi list in CLI. \[中文]
 *   [Comicbook (⭐318)](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book. \[English]
-*   [getnative (⭐238)](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime). \[English]
-*   [kuroshiro (⭐950)](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. \[English]
-*   [OpenCC (⭐9.5k)](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese. \[中文]
+*   [getnative (⭐240)](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime). \[English]
+*   [kuroshiro (⭐962)](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. \[English]
+*   [OpenCC (⭐9.6k)](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese. \[中文]
 *   [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit (⭐86)](https://github.com/wattlebird/ranking). \[English]
 *   [Shoko](https://github.com/shokoanime) - Anime Collection Manager. \[English]
 *   [Taiga (⭐2.3k)](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows. \[English]
@@ -441,21 +447,21 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Web
 
-*   [acgn-stock (⭐265)](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan). \[English/中文]
-*   [awesome-bangumi (⭐277)](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. \[中文]
-*   [Bangumi scripts (⭐321)](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). \[中文]
+*   [acgn-stock (⭐266)](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan). \[English/中文]
+*   [awesome-bangumi (⭐280)](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. \[中文]
+*   [Bangumi scripts (⭐323)](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). \[中文]
 *   [Deneb (⭐32)](https://github.com/lordfriend/Deneb) - Web client for [Albireo (⭐124)](https://github.com/lordfriend/Albireo). \[English]
 *   [japari-pedia (⭐56)](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. \[English]
 *   [KarasamaEgg (⭐5)](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. \[English]
 *   [Kemono Adblocker (⭐13)](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques. \[English]
 *   [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg. \[English]
-*   [My Diary (⭐87)](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.\[中文]
+*   [My Diary (⭐88)](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.\[中文]
 *   [nKemono (⭐17)](https://github.com/cornguo/nKemono) - [Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak) that replaces all images with Kemono Friends. \[English]
-*   [pixi-live2d (⭐683)](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. \[English]
+*   [pixi-live2d (⭐682)](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. \[English]
 *   [WebLive2D (⭐32)](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. \[English]
 
 ### Uncategorized
 
-*   [AnimeEffects (⭐766)](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. \[English]
-*   [guide.encode.moe (⭐163)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. \[English]
-*   [notify.moe (⭐350)](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]
+*   [AnimeEffects (⭐765)](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. \[English]
+*   [guide.encode.moe (⭐164)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. \[English]
+*   [notify.moe (⭐351)](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]

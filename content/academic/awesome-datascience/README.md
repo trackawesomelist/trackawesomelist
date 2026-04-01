@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 01, 2026](/content/2026/04/01/README.md)
+
+### Newsletters / Book Deals (Affiliated)
+
+*   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
+
+### Datasets / Book Deals (Affiliated)
+
+*   [latamdata-py (⭐0)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
 ### Podcasts / Book Deals (Affiliated)
@@ -371,7 +381,7 @@
 
 *   [XGBoost (⭐28k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐18k)](https://github.com/microsoft/LightGBM)
-*   [CatBoost (⭐8.8k)](https://github.com/catboost/catboost)
+*   [CatBoost (⭐8.9k)](https://github.com/catboost/catboost)
 *   [JAX (⭐35k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
@@ -404,7 +414,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐639)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐638)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 18, 2024](/content/2024/05/18/README.md)
 
@@ -989,7 +999,7 @@
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [awesome-dataviz (⭐4.3k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐73k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐74k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐692)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐98)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
@@ -1340,13 +1350,13 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐955)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐956)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐704)](https://github.com/larsmans/seqlearn)
+*   [scikit-rebate (⭐422)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐705)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐434)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-crfsuite (⭐435)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
@@ -1354,22 +1364,22 @@
 *   [scikit-posthocs (⭐382)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐5.1k)](https://github.com/rapidsai/cuml)
+*   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐442)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐979)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐443)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐991)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [PyTorch (⭐99k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
-*   [torchaudio (⭐2.8k)](https://github.com/pytorch/audio)
+*   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.8k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.7k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐362)](https://github.com/ctallec/pyvarinf)
@@ -1385,7 +1395,7 @@
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐734)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐355)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐699)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐700)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1400,8 +1410,8 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐490)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐578)](https://github.com/google/qkeras)
-*   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
+*   [qkeras (⭐577)](https://github.com/google/qkeras)
+*   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
 ## [Oct 29, 2020](/content/2020/10/29/README.md)

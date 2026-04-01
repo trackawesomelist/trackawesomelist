@@ -2,15 +2,21 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 240 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 249 · 🏷️ Security
 
 [ Daily / [Weekly](/content/bakke92/awesome-gdpr/week/README.md) / [Overview](/content/bakke92/awesome-gdpr/readme/README.md) ]
+
+## [Apr 01, 2026](/content/2026/04/01/README.md)
+
+### Tools
+
+*   [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 
 ## [Dec 30, 2025](/content/2025/12/30/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
+*   [dstack (⭐458)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -112,11 +118,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐350)](https://github.com/LINCnil/GDPR-Developer-Guide)
-
-### Tools
-
-*   [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [CNIL - GDPR Developer Guide (⭐353)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Publications
 
@@ -179,7 +181,7 @@ Protection of natural persons with regard to the processing of personal data and
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐8.7k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐8.9k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -203,4 +205,4 @@ Protection of natural persons with regard to the processing of personal data and
 ### Related
 
 *   [Privacy Respecting (⭐2k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐425k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐446k)](https://github.com/sindresorhus/awesome#security)

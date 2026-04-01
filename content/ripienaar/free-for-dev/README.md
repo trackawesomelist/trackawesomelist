@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Localhero.ai](https://localhero.ai) - Automatic on-brand translations on every pull request, with glossary and translation memory. Free for 1 project, 250 translation credits/month (\~4,000 words).
 
+### Managed Data Services
+
+*   [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 500MB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
+
 ### IDE and Code Editing
 
 *   [RunMat](https://runmat.com/sandbox) - GPU-accelerated numerical computing IDE in the browser. Write and run MATLAB-syntax .m files with automatic GPU acceleration via WebAssembly and WebGPU. No install, no account, no license fees. Open source runtime with CLI, NPM package, and Jupyter kernel support.

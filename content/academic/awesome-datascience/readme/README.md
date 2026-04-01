@@ -325,7 +325,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Comparison
 
-*   [datacompy (⭐639)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐638)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 #### Supervised Learning
 
@@ -426,13 +426,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 **[`^        back to top        ^`](#awesome-data-science)**
 
 *   [scikit-learn](https://scikit-learn.org/)
-*   [scikit-multilearn (⭐955)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐956)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐704)](https://github.com/larsmans/seqlearn)
+*   [scikit-rebate (⭐422)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐705)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐434)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-crfsuite (⭐435)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
 *   [sigopt\_sklearn (⭐75)](https://github.com/sigopt/sigopt-sklearn)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
@@ -443,7 +443,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [Shogun](https://www.shogun-toolbox.org/)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐5.1k)](https://github.com/rapidsai/cuml)
+*   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
@@ -453,14 +453,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
 *   [imodels (⭐1.6k)](https://github.com/csinva/imodels)
 *   [jSciPy (⭐18)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
-*   [RuleFit (⭐442)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐979)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐443)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐991)](https://github.com/dswah/pyGAM)
 *   [Deepchecks (⭐4k)](https://github.com/deepchecks/deepchecks)
 *   [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 *   [interpretable](https://pypi.org/project/interpretable)
 *   [XGBoost (⭐28k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐18k)](https://github.com/microsoft/LightGBM)
-*   [CatBoost (⭐8.8k)](https://github.com/catboost/catboost)
+*   [CatBoost (⭐8.9k)](https://github.com/catboost/catboost)
 *   [PerpetualBooster (⭐666)](https://github.com/perpetual-ml/perpetual)
 *   [JAX (⭐35k)](https://github.com/google/jax)
 
@@ -471,7 +471,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [PyTorch (⭐99k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐18k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.6k)](https://github.com/pytorch/text)
-*   [torchaudio (⭐2.8k)](https://github.com/pytorch/audio)
+*   [torchaudio (⭐2.9k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.8k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.7k)](https://github.com/pytorch/tnt)
 *   [PyToune (⭐579)](https://github.com/GRAAL-Research/poutyne)
@@ -497,7 +497,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐734)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐355)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐699)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐700)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -514,8 +514,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐490)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐578)](https://github.com/google/qkeras)
-*   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
+*   [qkeras (⭐577)](https://github.com/google/qkeras)
+*   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
 #### Visualization Tools
@@ -688,19 +688,19 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [InterpretML (⭐6.8k)](https://github.com/interpretml/interpret)                                       | InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations                                                                                                                                                                                                                                                                                                                      |
 | [LIME (⭐12k)](https://github.com/marcotcr/lime)                                                       | Explaining the predictions of any machine learning classifier                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [flyte (⭐6.9k)](https://github.com/flyteorg/flyte)                                                    | Workflow automation platform for machine learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| [dbt (⭐12k)](https://github.com/dbt-labs/dbt-core)                                                    | Data build tool                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| [dbt (⭐13k)](https://github.com/dbt-labs/dbt-core)                                                    | Data build tool                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [zasper (⭐2.3k)](https://github.com/zasper-io/zasper)                                                 | Supercharged IDE for Data Science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [skrub (⭐1.6k)](https://github.com/skrub-data/skrub/)                                                 | A Python library to ease preprocessing and feature engineering for tabular machine learning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Codeflash](https://www.codeflash.ai/)                                                                | Ship Blazing-Fast Python Code — Every Time                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [Hugging Face](https://huggingface.co/)                                                               | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Chinese-Elite (⭐68)](https://github.com/anonym-g/Chinese-Elite)                                      | An open-source project that automatically maps relationship networks by parsing public data using LLMs and visualizes it as an interactive graph.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [Desbordante (⭐469)](https://github.com/desbordante/desbordante-core/)                                | An open-source data profiler specifically focused on discovery and validation of complex patterns, such as [numerical association rules](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Numerical_Association_Rules.ipynb), [differential dependencies](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Differential_Dependencies.ipynb), [denial constraints](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Denial_Constraints.ipynb), and more. |
-| [dna-claude-analysis (⭐21)](https://github.com/shmlkv/dna-claude-analysis)                            | Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, and more) and generating a terminal-style single-page HTML visualization.                                                                                                                                                                                                                                                                                                                                                                  |
+| [dna-claude-analysis (⭐25)](https://github.com/shmlkv/dna-claude-analysis)                            | Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, and more) and generating a terminal-style single-page HTML visualization.                                                                                                                                                                                                                                                                                                                                                                  |
 | [RunMat (⭐193)](https://github.com/runmat-org/runmat)                                                 | Fast MATLAB-syntax runtime with automatic CPU/GPU execution and fused array kernels.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [Turbostream (⭐16)](https://github.com/turboline-ai/turbostream)                                      | A terminal UI for experimenting with custom rule engines and selective LLM analysis on real-time data streams, without worrying about streaming infra or backpressure.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [WFGY ProblemMap (⭐1.6k)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)          | Open source “failure atlas” of 16 recurring issues in LLM and RAG pipelines, with observable symptoms and suggested fixes for data science teams.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [WFGY ProblemMap (⭐1.7k)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)          | Open source “failure atlas” of 16 recurring issues in LLM and RAG pipelines, with observable symptoms and suggested fixes for data science teams.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [Deploybase](https://deploybase.ai/)                                                                  | Track real-time GPU and LLM pricing across all cloud and inference providers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [DeepAnalyze (⭐3.8k)](https://github.com/ruc-datalab/DeepAnalyze)                                     | An agentic LLM for autonomous data science, which can autonomously complete a wide range of data science tasks without human intervention.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [DeepAnalyze (⭐3.9k)](https://github.com/ruc-datalab/DeepAnalyze)                                     | An agentic LLM for autonomous data science, which can autonomously complete a wide range of data science tasks without human intervention.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Literature and Media
 
@@ -823,6 +823,7 @@ This section includes some additional reading material, channels to watch, and t
 
 *   [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176\&id=97178021aa).
 *   [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
+*   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
 
 ### Mailing lists
 
@@ -1236,6 +1237,7 @@ Some data mining competition platforms
 *   [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 *   [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
 *   [FirstData (⭐144)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+*   [latamdata-py (⭐0)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 
 ### Comics
 
@@ -1255,7 +1257,7 @@ Some data mining competition platforms
 *   [awesome-python (⭐289k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.4k)](https://github.com/qinwf/awesome-R)
-*   [awesome-datasets (⭐73k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐74k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐18k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Awesome Data Science Ideas (⭐692)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Machine Learning for Software Engineers (⭐29k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)

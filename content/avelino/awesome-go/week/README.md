@@ -10,6 +10,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
+*   [localaik (⭐1)](https://github.com/harshaneel/localaik) - Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.
 *   [otellix (⭐0)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 
 ### Distributed Systems
@@ -81,11 +82,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Configuration
 
-*   [goconfig (⭐27)](https://github.com/fulldump/goconfig) - Populate Go structs from flags, environment variables, config.json and defaults with deterministic precedence. No extra dependencies.
+*   [goconfig (⭐45)](https://github.com/fulldump/goconfig) - Populate Go structs from flags, environment variables, config.json and defaults with deterministic precedence. No extra dependencies.
 
 ### Database Tools
 
-*   [GoSQLX (⭐50)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
+*   [GoSQLX (⭐76)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
 
 ### Distributed Systems
 
@@ -97,15 +98,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [gogpu (⭐180)](https://github.com/gogpu/gogpu) - GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to \~20, zero CGO (GoGPU ecosystem: [gg (⭐77)](https://github.com/gogpu/gg), [ui (⭐64)](https://github.com/gogpu/ui), [wgpu (⭐67)](https://github.com/gogpu/wgpu), [naga (⭐28)](https://github.com/gogpu/naga)).
+*   [gogpu (⭐189)](https://github.com/gogpu/gogpu) - GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to \~20, zero CGO (GoGPU ecosystem: [gg (⭐83)](https://github.com/gogpu/gg), [ui (⭐71)](https://github.com/gogpu/ui), [wgpu (⭐76)](https://github.com/gogpu/wgpu), [naga (⭐29)](https://github.com/gogpu/naga)).
 
 ### GUI
 
-*   [gogpu/ui (⭐64)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+*   [gogpu/ui (⭐71)](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
 
 ### Images
 
-*   [gogpu/gg (⭐77)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
+*   [gogpu/gg (⭐83)](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
 
 ### Messaging
 
@@ -162,7 +163,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Version Control
 
-*   [ggc (⭐272)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
+*   [ggc (⭐275)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -180,7 +181,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Audio and Music
 
-*   [music-theory (⭐454)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
+*   [music-theory (⭐455)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 
 ### Advanced Console UIs
 
@@ -204,7 +205,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Uncategorized
 
-*   [goffi (⭐30)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
+*   [goffi (⭐31)](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
 
 ### Stream Processing
 
@@ -229,7 +230,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [govisual (⭐677)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
+*   [govisual (⭐679)](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -239,16 +240,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [langgraphgo (⭐209)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
+*   [langgraphgo (⭐222)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
 
 ### Authentication and Authorization
 
-*   [authgate (⭐39)](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
+*   [authgate (⭐46)](https://github.com/go-authgate/authgate) - A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ([RFC 8628](https://datatracker.ietf.org/doc/html/rfc8628)), Authorization Code Flow with PKCE ([RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749) + [RFC 7636](https://datatracker.ietf.org/doc/html/rfc7636)), and Client Credentials Grant for machine-to-machine authentication.
 *   [go-jwt (⭐2)](https://github.com/deatil/go-jwt) - A JWT (JSON Web Token) library for Go.
 
 ### Bot Building
 
-*   [TG (⭐45)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
+*   [TG (⭐48)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -260,7 +261,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Functional
 
-*   [g (⭐49)](https://github.com/enetx/g) - Functional programming framework for Go.
+*   [g (⭐53)](https://github.com/enetx/g) - Functional programming framework for Go.
 
 ### Logging
 
@@ -268,7 +269,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [born (⭐48)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
+*   [born (⭐56)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 
 ### Networking
 
@@ -276,12 +277,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Performance
 
-*   [otelinji (⭐26)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
+*   [otelinji (⭐27)](https://github.com/hedhyw/otelinji) - OpenTelemetry auto-instrumentation tool for adding spans to functions.
 
 ### Science and Data Analysis
 
-*   [hdf5 (⭐23)](https://github.com/scigolib/hdf5) - Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
-*   [insyra (⭐52)](https://github.com/HazelnutParadise/insyra) - Data analysis library with statistics, visualization, Parquet support, and Python integration.
+*   [hdf5 (⭐25)](https://github.com/scigolib/hdf5) - Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
+*   [insyra (⭐50)](https://github.com/HazelnutParadise/insyra) - Data analysis library with statistics, visualization, Parquet support, and Python integration.
 *   [matlab (⭐10)](https://github.com/scigolib/matlab) - Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO.
 *   [MatProInterface.go (⭐2)](https://github.com/MatProGo-dev/MatProInterface.go) - MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go.
 
@@ -291,11 +292,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Regular Expressions
 
-*   [coregex (⭐146)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
+*   [coregex (⭐162)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [lensm (⭐3.6k)](https://github.com/loov/lensm) - Go assembly and source viewer.
+*   [lensm (⭐3.7k)](https://github.com/loov/lensm) - Go assembly and source viewer.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -304,7 +305,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Backrest (⭐5.7k)](https://github.com/garethgeorge/backrest) - Web-based UI and orchestrator for restic backup.
+*   [Backrest (⭐5.9k)](https://github.com/garethgeorge/backrest) - Web-based UI and orchestrator for restic backup.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -1070,7 +1071,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐526)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐531)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
@@ -3401,7 +3402,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Morphological Analyzers
 
 *   [snowball (⭐38)](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
-*   [spaGO (⭐1.9k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+*   [spaGO (⭐1.8k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### Slugifiers
 
@@ -3861,7 +3862,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [ledisdb (⭐4.1k)](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 *   [levigo (⭐420)](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
 *   [lotusdb (⭐2.3k)](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with lsm and b+tree.
-*   [Milvus (⭐43k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
+*   [Milvus (⭐44k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [moss (⭐1k)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [piladb (⭐206)](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 *   [pogreb (⭐1.3k)](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
@@ -4396,7 +4397,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [bayesian (⭐811)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐812)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐907)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.

@@ -8,6 +8,10 @@
 
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
+### Design and Product / Screen Recording
+
+*   [OpenScreen (⭐12k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siddharthvaddem/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### AI Tools / Other Tools
 
 *   [Claudoscope (⭐30)](https://github.com/cordwainersmith/claudoscope) - Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cordwainersmith/claudoscope) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -15,6 +19,14 @@
 ### Voice-to-Text / Audio Record and Process
 
 *   [EnviousWispr](https://enviouswispr.com) - On-device AI dictation that turns speech into polished text. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Browsers / Audio Record and Process
+
+*   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+
+### Utilities / Clipboard Tools
+
+*   [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/samirpatil2000/Buffer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -246,7 +258,7 @@
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -403,7 +415,7 @@
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -532,7 +544,7 @@
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [Ottex](https://ottex.ai) - Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly — gmail.com → email, Obsidian → markdown, etc.
+*   [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 *   [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 *   [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
@@ -715,8 +727,8 @@
 
 ### Browsers / Audio Record and Process
 
-*   [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT Atlas, the browser with ChatGPT built in. Get instant answers, summaries, and smart web help—right from any page. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Ora](https://www.orabrowser.com/) - Open-source macOS browser built with Swift and WebKit. Fast, secure, and native Arc alternative with smooth tab management, spaces, and vertical sidebar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/the-ora/browser) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ChatGPT Atlas](https://chatgpt.com/atlas/) - Browser with ChatGPT built in. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Ora](https://www.orabrowser.com/) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/the-ora/browser) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Translation Tools / Audio Record and Process
 
@@ -1790,8 +1802,7 @@
 
 *   [Opera](https://www.opera.com) - Experience faster, distraction-free browsing with Ad blocking, and browse privately. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qutebrowser/qutebrowser)
-*   [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/tor-browser/)
-    *   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+*   [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser designed for anonymous web browsing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/tor-browser/)
 *   [Yandex](https://browser.yandex.com/) - The quick and secure browser from Yandex for computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Encryption / Audio Record and Process
@@ -1901,7 +1912,7 @@
 
 ### Browsers / Audio Record and Process
 
-*   [Arc](https://arc.net/) - Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2024, and foundational for how we hope to use it in the future. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Arc](https://arc.net/) - Browser with a distinctive workspace-style interface. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -4107,7 +4118,7 @@
 
 ### Browsers / Audio Record and Process
 
-*   [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://chromium.googlesource.com/chromium/src/)
+*   [Chromium](https://www.chromium.org/Home) - Open-source browser project behind Google Chrome. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://chromium.googlesource.com/chromium/src/)
     *   [ungoogled-chromium (⭐26k)](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Firefox](https://www.firefox.com/) - A free and open-source web browser developed by Mozilla. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://hg.mozilla.org/)
     *   [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://gitlab.com/librewolf-community) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
