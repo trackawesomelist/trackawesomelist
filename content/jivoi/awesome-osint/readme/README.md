@@ -132,6 +132,7 @@ Thanks to our main contributors
 
 *Google Dorks Tools*
 
+*   [DorkEye (⭐87)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
 *   [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 *   [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 *   [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -198,7 +199,7 @@ Thanks to our main contributors
 *   [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 *   [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 *   [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
-*   [Leaker (⭐271)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
+*   [Leaker (⭐286)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 *   [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 *   [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
@@ -705,7 +706,7 @@ Thanks to our main contributors
 *   [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 *   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 *   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
-*   [BuscaPaginasBlancas (⭐0)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
+*   [BuscaPaginasBlancas (⭐2)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 *   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
@@ -871,6 +872,8 @@ Thanks to our main contributors
 *   [SpyFu](http://www.spyfu.com)
 *   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+*   [uk-company-number (⭐0)](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
+*   [uk-sic-codes (⭐0)](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 *   [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 *   [Xing](http://www.xing.com)
 *   [YouControl](https://youcontrol.com.ua/en/)
@@ -1109,7 +1112,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐150k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1414,7 +1417,7 @@ Thanks to our main contributors
 *   [visualping](https://visualping.io)
 *   [WebReader](http://www.getwebreader.com)
 *   [WebSite Watcher](http://www.aignes.com/index.htm)
-*   [Website-Diff (⭐0)](https://github.com/GeiserX/Website-Diff)
+*   [Website-Diff (⭐1)](https://github.com/GeiserX/Website-Diff)
 *   [Winds](http://winds.getstream.io)
 
 ## [↑](#-table-of-contents) Browsers

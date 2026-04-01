@@ -729,6 +729,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Free PO editor](https://pofile.net/free-po-editor) - Free for everybody
 *   [Lingo.dev](https://lingo.dev) - Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
 *   [lingohub.com](https://lingohub.com/) - Free up to 3 users, always free for Open Source
+*   [Localhero.ai](https://localhero.ai) - Automatic on-brand translations on every pull request, with glossary and translation memory. Free for 1 project, 250 translation credits/month (\~4,000 words).
 *   [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
 *   [Localit](https://localit.io) - Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
 *   [localizely.com](https://localizely.com/) - Free for Open Source
@@ -1421,6 +1422,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Paiza](https://paiza.cloud/en/) - Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
 *   [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
 *   [Replit](https://replit.com/) - A cloud coding environment for various program languages.
+*   [RunMat](https://runmat.com/sandbox) - GPU-accelerated numerical computing IDE in the browser. Write and run MATLAB-syntax .m files with automatic GPU acceleration via WebAssembly and WebGPU. No install, no account, no license fees. Open source runtime with CLI, NPM package, and Jupyter kernel support.
 *   [SoloLearn](https://code.sololearn.com) - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
 *   [stackblitz.com](https://stackblitz.com/) - Online/Cloud Code IDE to create, edit, & deploy full-stack apps. Support any popular NodeJs-based frontend & backend frameworks. Shortlink to create a new project: <https://node.new>.
 *   [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.

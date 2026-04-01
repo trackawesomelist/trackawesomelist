@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 01, 2026](/content/2026/04/01/README.md)
+
+### AI / Agents
+
+*   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
+
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### Productivity / Note Taking and Lists
@@ -64,7 +70,7 @@
 
 ### Utilities / Shell Utilities
 
-*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+*   [await (⭐250)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 

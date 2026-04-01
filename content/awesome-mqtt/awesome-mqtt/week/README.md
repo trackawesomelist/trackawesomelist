@@ -8,6 +8,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### Tools
+
+*   [mqttv5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
+
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [huABus (⭐5)](https://github.com/arboeh/huABus) - Home Assistant application (Add-on) and MQTT bridge for Huawei solar inverters (SUN2000/3000/5000).
@@ -16,7 +20,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [Mer-cli (⭐6)](https://github.com/iotmertech/iot-data-generator) - A high-performance IoT data generator written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads with Handlebars templates.
+*   [Mer-cli (⭐12)](https://github.com/iotmertech/iot-data-generator) - A high-performance IoT data generator written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads with Handlebars templates.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 

@@ -15,6 +15,7 @@
 ### AI / Agents
 
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+*   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -88,7 +89,7 @@
 ### Utilities / Shell Utilities
 
 *   [envio (⭐932)](https://github.com/envio-cli/envio) - Manage environment variables securely.
-*   [await (⭐248)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+*   [await (⭐250)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 *   [aha (⭐1.1k)](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
 ### Utilities / Markdown

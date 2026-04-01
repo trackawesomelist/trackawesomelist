@@ -11,6 +11,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Compression
 
 *   [OpenZL (⭐3k)](https://github.com/facebook/openzl) - A novel data compression framework. \[BSD] [website](https://openzl.org/)
+*   [ZXC (⭐317)](https://github.com/hellobertrand/zxc) - High-performance asymmetric lossless compression. \[BSD-3-Clause]
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
