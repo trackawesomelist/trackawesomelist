@@ -8,6 +8,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### Rust
+
+*   [mqtt5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
+
 ### Tools
 
 *   [mqttv5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.

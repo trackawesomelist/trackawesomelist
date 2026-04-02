@@ -12,6 +12,10 @@ A collection of Awesome low-code development platform (LCDP).
 
 *   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 
+### Flow-based programming
+
+*   [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### AI
