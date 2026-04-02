@@ -141,6 +141,16 @@ Unlike R, Python was not built from the ground up with data science in mind, but
 
 When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
 
+### Beginner Roadmap
+
+If you're just starting out, here's a simple recommended path:
+
+1.  **Learn Python** – Start with basics: variables, loops, functions
+2.  **Learn core libraries** – Pandas, NumPy, Matplotlib, Scikit-Learn
+3.  **Practice with beginner projects** – Try Titanic survival or house price prediction on Kaggle
+4.  **Learn Math basics** – Statistics, Linear Algebra, Probability
+5.  **Move into ML** – Supervised learning → Unsupervised → Deep Learning
+
 ## Agents
 
 Please, contribute about "agents"

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 02, 2026](/content/2026/04/02/README.md)
+
+### Beginner Roadmap
+
+*   **Learn Python** – Start with basics: variables, loops, functions
+*   **Learn core libraries** – Pandas, NumPy, Matplotlib, Scikit-Learn
+*   **Practice with beginner projects** – Try Titanic survival or house price prediction on Kaggle
+*   **Learn Math basics** – Statistics, Linear Algebra, Probability
+*   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
+
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
 ### Newsletters / Book Deals (Affiliated)

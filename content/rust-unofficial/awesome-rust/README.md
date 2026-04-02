@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
+### Applications / Blockchain
+
+*   [linera-io/linera-protocol (⭐32k)](https://github.com/linera-io/linera-protocol) - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
+
 ### Libraries / Artificial Intelligence
 
 *   [juyterman1000/entroly (⭐94)](https://github.com/juyterman1000/entroly) - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.

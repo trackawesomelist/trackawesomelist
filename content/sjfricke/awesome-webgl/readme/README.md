@@ -216,6 +216,7 @@ Processing Unit (GPU).
 *   [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 *   [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 *   [WebGL 2 Examples (⭐574)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐61)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
 
 ### Videos
 
@@ -367,7 +368,7 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-*   [awesome (⭐446k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐451k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐2.4k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 *   [awesome-vulkan (⭐3.7k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 *   [gamedev (⭐16k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.

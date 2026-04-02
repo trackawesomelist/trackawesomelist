@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Apr 02, 2026](/content/2026/04/02/README.md)
+
+### Traditional Market / Prediction Markets
+
+*   [finclaw (⭐14)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
+
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### Data Sources / Crypto Currencies
@@ -67,7 +73,7 @@
 ### Time Series Data
 
 *   [patternity (⭐11)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
-*   [Quantium Research (⭐35)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+*   [Quantium Research (⭐60)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
@@ -135,7 +141,7 @@
 
 ### Data Sources / News Data
 
-*   [WorldMonitor (⭐40k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+*   [WorldMonitor (⭐46k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 ### Research Tools / Prediction Markets
 

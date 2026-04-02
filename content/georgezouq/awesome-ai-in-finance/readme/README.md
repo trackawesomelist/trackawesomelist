@@ -122,7 +122,7 @@ Price and Volume process with Technology Analysis Indices
 *   [Chaos Genius (⭐775)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 *   [mlforecast (⭐1.2k)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 *   [patternity (⭐11)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
-*   [Quantium Research (⭐35)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+*   [Quantium Research (⭐60)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ### Portfolio Management
 
@@ -211,7 +211,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### News Data
 
-*   [WorldMonitor (⭐40k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+*   [WorldMonitor (⭐46k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 #### Alternative Data
 
@@ -250,6 +250,7 @@ For Back Test & Live trading
 *   [rqalpha (⭐6.3k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
 *   [backtrader (⭐21k)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
 *   [kungfu (⭐3.8k)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+*   [finclaw (⭐14)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 *   [lean (⭐18k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 **Combine & Rebuild**

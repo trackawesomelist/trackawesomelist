@@ -6,6 +6,12 @@ A curated list of awesome WebGL libraries, resources and much more
 
 [ Daily / [Weekly](/content/sjfricke/awesome-webgl/week/README.md) / [Overview](/content/sjfricke/awesome-webgl/readme/README.md) ]
 
+## [Apr 02, 2026](/content/2026/04/02/README.md)
+
+### Tutorials / Firefox Specific Tools/Debugger
+
+*   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐61)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
+
 ## [Mar 24, 2026](/content/2026/03/24/README.md)
 
 ### Maps and Visualizations / Particles
@@ -486,7 +492,7 @@ A curated list of awesome WebGL libraries, resources and much more
 
 ### Related lists / Particles
 
-*   [awesome (⭐446k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐451k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐2.4k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 *   [awesome-vulkan (⭐3.7k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 *   [gamedev (⭐16k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.

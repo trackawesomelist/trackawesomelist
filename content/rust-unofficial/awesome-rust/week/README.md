@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### Applications / Blockchain
+
+*   [linera-io/linera-protocol (⭐32k)](https://github.com/linera-io/linera-protocol) - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
+
 ### Applications / Productivity
 
 *   [fulsomenko/kanban (⭐85)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)

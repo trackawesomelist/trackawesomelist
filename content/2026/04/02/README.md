@@ -1,12 +1,120 @@
 # Awesome List Updates on Apr 02, 2026
 
-9 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Finance & Blockchain / Blockchain
+
+*   [solana-foundation/solana-go (⭐1.5k)](https://github.com/solana-foundation/solana-go) — Go SDK library and RPC client for the Solana Blockchain ☆`1,534`
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Artificial Intelligence
+
+*   [AegisFlow (⭐7)](https://github.com/saivedant169/AegisFlow) - AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.
+*   [routex (⭐2)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
+
+### Advanced Console UIs
+
+*   [goscaf (⭐18)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
+
+## [3. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+
+### WWDC Students Submissions
+
+*   Latest: [2026 (⭐29)](https://github.com/wwdc/2026)
+*   Past Editions: [2025 (⭐77)](https://github.com/wwdc/2025), [2024 (⭐5)](https://github.com/wwdc/2024), [2023 (⭐99)](https://github.com/wwdc/2023), [2022 (⭐159)](https://github.com/wwdc/2022), [2021 (⭐183)](https://github.com/wwdc/2021), [2020 (⭐217)](https://github.com/wwdc/2020), [2019 (⭐283)](https://github.com/wwdc/2019), [2018 (⭐265)](https://github.com/wwdc/2018), [2017 (⭐241)](https://github.com/wwdc/2017), [2016 (⭐83)](https://github.com/wwdc/2016), [2015 (⭐132)](https://github.com/wwdc/2015), [2014 (⭐183)](https://github.com/wwdc/2014)
+
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Analysis Tools / Rust
+
+*   [GTFS Explorer](https://gtfs-explorer.org) - Web application to upload, validate and visually explore GTFS feeds, featuring an interactive network map, route and stop inspection, schedule grids, and a network statistics dashboard.
+
+### GTFS Based Visualizations / Rust
+
+*   [TransitLens](https://transit-lens.com/gtfs-map-viewer/) - Browser-based GTFS viewer for visualizing routes, stops, and shapes on an interactive map. Includes service calendar analysis, structured data tables, and GeoJSON/KML overlay support. No setup required.
+
+## [5. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/README.md)
+
+### Common Resources for all animals / Books
+
+*   [The Guidelines for Standards of Care in Animal Shelters - Association of Shelter Veterinarians](https://jsmcah.org/index.php/jasv/article/view/42/19) - Evidence-based, consensus-driven standards and guidance for improving companion animal shelter care, welfare, design and policy.
+
+### Common Resources for all animals / Care & Treatment
+
+*   [Choosing & Knowing Your Veterinarian - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
+*   [Emergency Care - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners/emergency-care) - Immediate first aid and emergency care, strictly as a bridge until your animal can be seen by a veterinarian.
+
+### Common Resources for all animals / Welfare Organizations
+
+*   [Brooke India](https://www.thebrookeindia.in/) - Branch of Brooke that works directly with equine owners in India to improve the health and working conditions of donkeys and horses.
+*   [World Animal Protection India](https://www.worldanimalprotection.org.in/) - Indian office of WAP, advocating for animal-friendly policies in Indian livestock management and wildlife protection.
+
+### Common Resources for all animals / Food Hazards & Poison Control
+
+*   [People Foods to Avoid Feeding Your Pets - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets)
+*   [Poisonous Household Products - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products)
+*   [Poisonous Plants - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants)
+*   [Top 10 Deadliest Pet Poisons - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspcapro.org/resource/top-10-deadliest-pet-poisons)
+
+### Cats / Cat Books
+
+*   [Essential Guides - Cats Protection](https://www.cats.org.uk/help-and-advice/information-leaflets/essential-guides) - Set of 17 essential PDF guides offering expert advice on all aspects of cat care, behavior and welfare.
+
+### Cats / Cat Care & Treatment
+
+*   [Common Cat Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
+
+### Dogs / Dog Books
+
+*   [Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy and Well-Behaved Dog - Dr. Ian Dunbar with Michael Page](https://www.goodreads.com/book/show/201616.Before_and_After_Getting_Your_Puppy) - Complete, positive-training manual covering everything from choosing a puppy to raising a well-mannered, socially confident dog.
+*   [The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier and Longer - Rodney Habib, Karen Shaw Becker](https://www.goodreads.com/book/show/56304413-the-forever-dog) - Science-backed exploration of nutrition, lifestyle and environmental factors to help dogs live longer, healthier lives.
+
+### Dogs / Dog Care & Treatment
+
+*   [Common Dog Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/dog-care/common-dog-diseases) - Information about diseases and other medical inflictions that frequently impact dogs.
+
+### Parrots / Parrot Care & Treatment
+
+*   [Bird Health & Anatomy Part 1 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Health-and-Anatomy-Pt-1.pdf) - Covers topics like bird poop, bathing your bird, laying eggs, bird dust and dangar, feather plucking and sleep time.
+*   [Bird Health & Anatomy Part 2 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Anatomy-and-Health-pt2.pdf) - Covers topics like bird respiratory system, boogers, nosebleeds, food digestion, regurgitation and vomiting, beak health and some common illnesses in birds.
+*   [Parrot Enrichment - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Enrichment-BBB.pdf) - Covers various types of bird enrichment activities.
+
+## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+
+### Tutorials / Firefox Specific Tools/Debugger
+
+*   [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide (⭐61)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q\&A cards, with hands-on projects and solution code integrated throughout.
+
+## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+
+### Libraries / JavaScript
+
+*   [connect-mongo (⭐2k)](https://github.com/jdesboeufs/connect-mongo) - MongoDB session store for Connect and Express written in Typescript.
+
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+### Traditional Market / Prediction Markets
+
+*   [finclaw (⭐14)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
+
+## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Beginner Roadmap
+
+*   **Learn Python** – Start with basics: variables, loops, functions
+*   **Learn core libraries** – Pandas, NumPy, Matplotlib, Scikit-Learn
+*   **Practice with beginner projects** – Try Titanic survival or house price prediction on Kaggle
+*   **Learn Math basics** – Statistics, Linear Algebra, Probability
+*   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Maritime / GitHub
 
@@ -22,19 +130,23 @@
 *   [The Citizen Lab](https://citizenlab.ca/feed/) - Research on surveillance, spyware, censorship, and digital threats relevant to advanced OSINT work.
 *   [Trace Labs Blog](https://www.tracelabs.org/blog/rss.xml) - Missing-person OSINT methodology, case support, and investigative workflows.
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [11. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Fundamentals / Utility
 
 *   [midasdf/zt (⭐3)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
 *   [NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Blockchain
+
+*   [linera-io/linera-protocol (⭐32k)](https://github.com/linera-io/linera-protocol) - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -48,19 +160,19 @@
 
 *   [andylokandy/simsearch (⭐187)](https://github.com/andylokandy/simsearch) \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [NetFluss](https://www.ranagmbh.de/netfluss/) - Native menu bar app for real-time upload/download speeds and top bandwidth-using apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rana-gmbh/netfluss) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Flow-based programming
 
 *   [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows.
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -119,13 +231,13 @@
 *   [WebGL Workshop](https://webglworkshop.com/) - Short and sweet online introduction to WebGL.
 *   [Three.js Basics](https://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
 
-## [8. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+## [17. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ### Rust
 
 *   [mqtt5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 
-## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 
@@ -141,6 +253,11 @@
 
 *   [brooks-lint (⭐10)](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in six classic engineering books. Diagnoses decay risks with structured findings (Symptom → Source → Consequence → Remedy).
 *   [**ru-text**](https://github.com/talkstream/ru-text) - Russian text quality — \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
+*   [TokRepo Search Skill (⭐2)](https://github.com/henu-wang/tokrepo-search-skill) - Cross-platform TokRepo skill with Gemini extension files for finding and installing AI assets such as prompts, MCP configs, workflows, and reusable skills.
+
+### MCP Servers
+
+*   [TokRepo MCP Server (⭐0)](https://github.com/henu-wang/tokrepo-mcp-server) - Search and install AI skills, prompts, MCP configs, and workflows from TokRepo from Gemini CLI and other MCP clients.
 
 ---
 

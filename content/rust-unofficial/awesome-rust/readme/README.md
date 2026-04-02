@@ -248,6 +248,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [Joystream (⭐1.4k)](https://github.com/Joystream/joystream) - A user governed video platform
 *   [Kaspa (⭐796)](https://github.com/kaspanet/rusty-kaspa) - The fastest, open-source, decentralized & fully scalable Layer-1 in the world.
 *   [Lighthouse (⭐3.4k)](https://github.com/sigp/lighthouse) - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/actions/workflows/test-suite.yml/badge.svg)](https://github.com/sigp/lighthouse/actions)
+*   [linera-io/linera-protocol (⭐32k)](https://github.com/linera-io/linera-protocol) - A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications [![Build Status](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
 *   [near/nearcore (⭐2.6k)](https://github.com/near/nearcore) - decentralized smart-contract platform for low-end mobile devices.
 *   [Nervos CKB (⭐1.2k)](https://github.com/nervosnetwork/ckb) - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 *   [opensea-rs (⭐244)](https://github.com/gakonst/opensea-rs) - Bindings & CLI to the Opensea API and Contracts.

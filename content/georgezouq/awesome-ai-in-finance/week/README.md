@@ -24,6 +24,10 @@
 
 *   [CRNG (⭐2)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
+### Traditional Market / Prediction Markets
+
+*   [finclaw (⭐14)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
+
 ### Others / Plugins
 
 *   [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
@@ -67,7 +71,7 @@
 ### Time Series Data
 
 *   [patternity (⭐11)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
-*   [Quantium Research (⭐35)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+*   [Quantium Research (⭐60)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ### Data Sources / Prediction Markets
 
@@ -117,7 +121,7 @@
 
 ### Data Sources / News Data
 
-*   [WorldMonitor (⭐40k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+*   [WorldMonitor (⭐46k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 ### Research Tools / Prediction Markets
 

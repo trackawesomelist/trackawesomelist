@@ -8,6 +8,14 @@
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### Beginner Roadmap
+
+*   **Learn Python** – Start with basics: variables, loops, functions
+*   **Learn core libraries** – Pandas, NumPy, Matplotlib, Scikit-Learn
+*   **Practice with beginner projects** – Try Titanic survival or house price prediction on Kaggle
+*   **Learn Math basics** – Statistics, Linear Algebra, Probability
+*   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
+
 ### Newsletters / Book Deals (Affiliated)
 
 *   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
