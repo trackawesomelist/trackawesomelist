@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 03, 2026](/content/2026/04/03/README.md)
+
+### Standard CLI
+
+*   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Artificial Intelligence
@@ -122,7 +128,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [loom (⭐75)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐120)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
 ### Conferences / Libraries for creating HTTP middlewares
 

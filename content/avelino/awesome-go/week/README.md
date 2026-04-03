@@ -19,6 +19,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [goscaf (⭐18)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
 
+### Standard CLI
+
+*   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+
 ### Distributed Systems
 
 *   [circuit (⭐2)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
@@ -84,7 +88,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [loom (⭐75)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐120)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
 ### Configuration
 

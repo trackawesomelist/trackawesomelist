@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Apr 03, 2026](/content/2026/04/03/README.md)
+
+### Other Resources / GitHub
+
+*   [appsec.fyi OSINT Resources](https://appsec.fyi/osint.html) - Curated collection of OSINT resources for cybersecurity, including tools, techniques, and writeups.
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Maritime / GitHub
@@ -49,7 +55,7 @@
 
 ### Other Tools / GitHub
 
-*   [OpenGraph Intel (OGI) (⭐76)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
+*   [OpenGraph Intel (OGI) (⭐119)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 

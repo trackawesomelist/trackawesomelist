@@ -31,6 +31,8 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Contributions are welcome - see [`CONTRIBUTING.md`](https://github.com/academic/awesome-datascience/blob/live/README.md/CONTRIBUTING.md).
+
 **An open-source Data Science repository to learn and apply concepts toward solving real- world problems.**
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science, and what should I study to learn Data Science?"
@@ -46,42 +48,32 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 ## Table of Contents
 
 *   [What is Data Science?](#what-is-data-science)
-
 *   [Where do I Start?](#where-do-i-start)
-
+*   [Agents](#agents)
 *   [Training Resources](#training-resources)
     *   [Tutorials](#tutorials)
     *   [Free Courses](#free-courses)
     *   [Massively Open Online Courses](#moocs)
     *   [Intensive Programs](#intensive-programs)
     *   [Colleges](#colleges)
-
 *   [The Data Science Toolbox](#the-data-science-toolbox)
 
-*   [TabGAN (⭐566)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
-
-*   [Algorithms](#algorithms)
-    *   [Supervised Learning](#supervised-learning)
-    *   [Unsupervised Learning](#unsupervised-learning)
-    *   [Semi-Supervised Learning](#semi-supervised-learning)
-    *   [Reinforcement Learning](#reinforcement-learning)
-    *   [Data  Mining Algorithms](#data-mining-algorithms)
-    *   [Deep Learning Architectures](#deep-learning-architectures)
-
-*   [General Machine Learning Packages](#general-machine-learning-packages)
-
-*   [Model Evaluation & Monitoring](#model-evaluation--monitoring)
-    *   [Evidently AI](#evidently-ai)
-
-*   [Deep Learning Packages](#deep-learning-packages)
-    *   [PyTorch Ecosystem](#pytorch-ecosystem)
-    *   [TensorFlow Ecosystem](#tensorflow-ecosystem)
-    *   [Keras Ecosystem](#keras-ecosystem)
-
-*   [Visualization Tools](#visualization-tools)
-
-*   [Miscellaneous Tools](#miscellaneous-tools)
-
+    *   [Algorithms](#algorithms)
+        *   [Supervised Learning](#supervised-learning)
+        *   [Unsupervised Learning](#unsupervised-learning)
+        *   [Semi-Supervised Learning](#semi-supervised-learning)
+        *   [Reinforcement Learning](#reinforcement-learning)
+        *   [Data Mining Algorithms](#data-mining-algorithms)
+        *   [Deep Learning Architectures](#deep-learning-architectures)
+    *   [General Machine Learning Packages](#general-machine-learning-packages)
+    *   [Model Evaluation & Monitoring](#model-evaluation--monitoring)
+        *   [Evidently AI](#evidently-ai)
+    *   [Deep Learning Packages](#deep-learning-packages)
+        *   [PyTorch Ecosystem](#pytorch-ecosystem)
+        *   [TensorFlow Ecosystem](#tensorflow-ecosystem)
+        *   [Keras Ecosystem](#keras-ecosystem)
+    *   [Visualization Tools](#visualization-tools)
+    *   [Miscellaneous Tools](#miscellaneous-tools)
 *   [Literature and Media](#literature-and-media)
     *   [Books](#books)
         *   [Book Deals (Affiliated)](#book-deals-affiliated)
@@ -91,7 +83,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     *   [Presentations](#presentations)
     *   [Podcasts](#podcasts)
     *   [YouTube Videos & Channels](#youtube-videos--channels)
-
 *   [Socialize](#socialize)
     *   [Facebook Accounts](#facebook-accounts)
     *   [Twitter Accounts](#twitter-accounts)
@@ -99,16 +90,12 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     *   [Slack Communities](#slack-communities)
     *   [GitHub Groups](#github-groups)
     *   [Data Science Competitions](#data-science-competitions)
-
 *   [Fun](#fun)
     *   [Infographics](#infographics)
     *   [Datasets](#datasets)
     *   [Comics](#comics)
-
 *   [Other Awesome Lists](#other-awesome-lists)
     *   [Hobby](#hobby)
-
-*   [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 
 ## What is Data Science?
 
@@ -153,7 +140,7 @@ If you're just starting out, here's a simple recommended path:
 
 ## Agents
 
-Please, contribute about "agents"
+This section contains agent frameworks and tools that are useful for data science workflows.
 
 ### Frameworks
 
@@ -172,7 +159,7 @@ Please, contribute about "agents"
 
 **[`^        back to top        ^`](#awesome-data-science)**
 
-*   [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+*   [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 ## Training Resources
 
@@ -185,7 +172,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 **[`^        back to top        ^`](#awesome-data-science)**
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐8k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [#tidytuesday (⭐8k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐617)](https://github.com/jadianes/data-science-your-way)
 *   [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
 *   [PySpark Cheatsheet (⭐665)](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -548,7 +535,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [ggplot2](https://ggplot2.tidyverse.org/)
 *   [Glue](http://docs.glueviz.org/en/latest/index.html)
 *   [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
-*   [highcarts](https://www.highcharts.com/)
+*   [Highcharts](https://www.highcharts.com/)
 *   [import.io](https://www.import.io/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
@@ -582,8 +569,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [The Data Science Lifecycle Process (⭐527)](https://github.com/dslp/dslp)                             | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [Data Science Lifecycle Template Repo (⭐200)](https://github.com/dslp/dslp-repo-template)             | Template repository for data science lifecycle project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [TabGAN (⭐566)](https://github.com/Diyago/Tabular-data-generation)                                    | Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [RexMex (⭐276)](https://github.com/AstraZeneca/rexmex)                                                | A general purpose recommender metrics library for fair evaluation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | [ChemicalX (⭐773)](https://github.com/AstraZeneca/chemicalx)                                          | A PyTorch based deep learning library for drug pair scoring.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [FileShot.io (⭐25)](https://github.com/FileShot/FileShotZKE)                                          | Secure zero-knowledge encrypted file sharing (AES-256-GCM in-browser). No account required, MIT licensed, self-hostable, optional link expiry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [CorpusExplorer](http://corpusexplorer.de/)                                                           | Software for corpus linguists and text/data mining enthusiasts. Build your own corpora in over 60 languages. Use over 50 tools/visualizations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [PyTorch Geometric Temporal (⭐3k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | Representation learning on dynamic graphs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [Little Ball of Fur (⭐713)](https://github.com/benedekrozemberczki/littleballoffur)                   | A graph sampling library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -831,6 +820,7 @@ This section includes some additional reading material, channels to watch, and t
 
 **[`^        back to top        ^`](#awesome-data-science)**
 
+*   [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 *   [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176\&id=97178021aa).
 *   [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 *   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).

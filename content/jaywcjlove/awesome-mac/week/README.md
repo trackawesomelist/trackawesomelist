@@ -8,6 +8,18 @@
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### Reading and Writing Tools / Note-taking
+
+*   [Revu](https://revu.cards/) - Local-first spaced repetition app with FSRS scheduling and Anki import. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JuliusBrussee/revu-swift) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+
+### Reading and Writing Tools / Ebooks
+
+*   [ReadAny](https://codedogqby.github.io/ReadAny/) - AI-powered e-book reader with semantic search, chat, and note management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/codedogQBY/ReadAny) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Databases
+
+*   [Paul](https://guillim.github.io/products/paul) - AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.
+
 ### Design and Product / Screen Recording
 
 *   [OpenScreen (⭐12k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siddharthvaddem/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -26,6 +38,11 @@
 ### Browsers / Audio Record and Process
 
 *   [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+
+### Security Tools / Audio Record and Process
+
+*   [ClearanceKit](https://craigjbass.github.io/clearancekit/) - Policy-based file access control tool that blocks unauthorized processes from reading or modifying protected paths. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/craigjbass/clearancekit) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
+*   [Santa](https://northpole.security/) - Binary and file access authorization system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/northpolesec/santa) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -135,7 +152,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Itsyconnect (⭐84)](https://github.com/nickustinov/itsyconnect-macos) - App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyconnect-macos)
+*   [Itsyconnect (⭐84)](https://github.com/nickustinov/itsyconnect-macos) - App Store Connect management tool for metadata, TestFlight, reviews, analytics, and localization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nickustinov/itsyconnect-macos)
 
 ### Developer Tools / Databases
 
@@ -208,7 +225,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [ClearDisk (⭐189)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClearDisk (⭐252)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
@@ -242,8 +259,8 @@
 ### Developer Tools / Developer Utilities
 
 *   [Configs (⭐195)](https://github.com/iHongRen/configEditor) - Configuration file manager for quickly viewing, editing and managing config files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iHongRen/configEditor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Poirot (⭐124)](https://github.com/LeonardoCardoso/Poirot) - A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LeonardoCardoso/Poirot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [PortKiller (⭐4.6k)](https://github.com/productdevbook/port-killer) - Cross-platform port management tool to monitor ports, manage Kubernetes port forwards and Cloudflare Tunnels, and kill processes in one click. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/productdevbook/port-killer)
+*   [Poirot (⭐124)](https://github.com/LeonardoCardoso/Poirot) - Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LeonardoCardoso/Poirot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [PortKiller (⭐4.6k)](https://github.com/productdevbook/port-killer) - Port management tool for monitoring ports, managing forwards and tunnels, and killing processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/productdevbook/port-killer)
 *   [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac) - .nib to .xib converter [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac)
 
 ### Developer Tools / Regular Expression Editors
@@ -340,7 +357,7 @@
 
 ### Reading and Writing Tools / Ebooks
 
-*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
+*   [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with public-domain books and sync. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -362,11 +379,11 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Stik (⭐160)](https://github.com/0xMassi/stik_app) - Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stik (⭐160)](https://github.com/0xMassi/stik_app) - Quick-capture markdown notes app with hotkeys and AI semantic search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
 
-*   [SaneHosts](https://sanehosts.com) - System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
+*   [SaneHosts](https://sanehosts.com) - Hosts-based ad and tracker blocker. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sane-apps/SaneHosts)
 
 ### Terminal Apps / Databases
 
@@ -401,7 +418,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github\&utm_medium=awesome-mac) - PDF forensics tool for analyzing metadata, fonts, JavaScript, security risks, and structural integrity. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661\&ct=GitHub\&mt=8\&platform=mac)
+*   [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github\&utm_medium=awesome-mac) - PDF inspection tool for analyzing metadata, structure, and security risks. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661\&ct=GitHub\&mt=8\&platform=mac)
 
 ### Developer Tools / Developer Utilities
 
@@ -410,11 +427,11 @@
 
 ### Developer Tools / API Development and Analysis
 
-*   [Echolon](https://echolon.app) - Free and Open Source Postman alternative for Mac, Windows, Linux and the Web. Powerful, Local-First, offline and git friendly
+*   [Echolon](https://echolon.app) - Open-source API client and Postman alternative.
 
 ### Developer Tools / Virtualization
 
-*   [Cocoa-Way (⭐130)](https://github.com/J-x-Z/cocoa-way) - Native Wayland compositor for running Linux GUI apps on macOS without VM overhead. Uses waypipe for seamless integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cocoa-Way (⭐130)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -482,7 +499,7 @@
 
 ### AI Tools / Other Tools
 
-*   [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pedramamini/Maestro)
+*   [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pedramamini/Maestro)
 
 ### Browsers / Audio Record and Process
 
@@ -531,7 +548,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Anytype](https://anytype.io/) - Privacy-focused Notion alternative with local storage, optional sync, and self-hosted server support. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Anytype](https://anytype.io/) - Local-first note-taking and knowledge management app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NotePlus](https://noteplus.com/) - True Native Note and LLM Client
 
 ### Reading and Writing Tools / Writing
@@ -545,17 +562,17 @@
 
 ### Developer Tools / IDEs
 
-*   [Trae](https://www.trae.ai/) - An IDE by ByteDance with advanced AI capabilities, including two modes: SOLO for fully AI-driven development and IDE for a more traditional editing experience.
+*   [Trae](https://www.trae.ai/) - AI-powered IDE for coding and software development.
 
 ### Developer Tools / Developer Utilities
 
-*   [LINQPad](https://www.linqpad.net/) - Scratchpad for .NET development with instant feedback, LINQ query support, and database connectivity. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LINQPad](https://www.linqpad.net/) - .NET scratchpad for running code, queries, and database exploration. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Medio (⭐218)](https://github.com/nuance-dev/medio) - A native, lightweight text diff tool with a clean UI and real-time highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nuance-dev/medio)
 *   [NameQuick](https://namequick.app) - AI-powered file renaming tool for macO
 
 ### Developer Tools / API Development and Analysis
 
-*   [Maestro](https://maestro.dev/) - End-to-end testing for Mobile and Web apps. Supports iOS, Android, React Native, Flutter and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mobile-dev-inc/maestro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Maestro](https://maestro.dev/) - End-to-end testing framework for mobile and web apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mobile-dev-inc/maestro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ReqRes](https://reqresapp.com/) - Native macOS app to monitor, debug, and mock HTTP(S) requests and responses. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/OloApps/ReqRes)
 *   [Trayce](https://trayce.dev) - Lightweight tool to monitor Docker container traffic with a built-in .bru HTTP client. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/evanrolfe/trayce_gui)
 
@@ -650,7 +667,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [FlyEnv](https://www.flyenv.com) - An all-in-one tool integrating languages, databases, and services to quickly set up your local full-stack development environment. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xpf0000/FlyEnv)
+*   [FlyEnv](https://www.flyenv.com) - Local development environment manager for languages, databases, and services. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xpf0000/FlyEnv)
 
 ### Browsers / Audio Record and Process
 
@@ -660,7 +677,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.
+*   [Testpiler](https://furnacecreek.org/testpiler/) - Tool for converting XCTest test suites to Swift Testing.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -670,12 +687,12 @@
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Readest (⭐19k)](https://github.com/readest/readest) - Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/readest/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Readest (⭐19k)](https://github.com/readest/readest) - Open-source ebook reader with a clean interface and powerful reading tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/readest/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / RSS
 
 *   [Folo (⭐38k)](https://github.com/RSSNext/Folo) 🧡 Next generation information browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/RSSNext/Folo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Saga Reader (⭐476)](https://github.com/sopaco/saga-reader) - Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/dyerc/Doughnut)
+*   [Saga Reader (⭐476)](https://github.com/sopaco/saga-reader) - AI-powered web and RSS reader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/dyerc/Doughnut)
 
 ### Developer Tools / Developer Utilities
 
@@ -758,7 +775,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [PDFsail](https://pdfsail.com/) - PDFsail offers free online PDF tools for editing, converting, merging, compressing, and OCR. No download required. Try this AI-powered all-in-one PDF solution now!.
+*   [PDFsail](https://pdfsail.com/) - All-in-one PDF tool for editing, converting, merging, compressing, and OCR.
 
 ### Design and Product / Design Tools
 
@@ -1639,7 +1656,7 @@
 ### Reading and Writing Tools / Note-taking
 
 *   [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/toeverything/AFFiNE) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [VNote](https://app.vnote.fun/) - A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vnotex/vnote/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [VNote](https://app.vnote.fun/) - Open-source Markdown note-taking app with a polished editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vnotex/vnote/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Writing
 
@@ -2252,7 +2269,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
+*   [Noteship](https://noteship.com) - Local-first note-taking app for turning notes into structured knowledge. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 

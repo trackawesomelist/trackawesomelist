@@ -16,8 +16,13 @@
 *   **Learn Math basics** – Statistics, Linear Algebra, Probability
 *   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
 
+### Deep Learning Packages / Visualization Tools
+
+*   [Highcharts](https://www.highcharts.com/)
+
 ### Newsletters / Book Deals (Affiliated)
 
+*   [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 *   [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
 
 ### Podcasts / Book Deals (Affiliated)
@@ -192,7 +197,7 @@
 
 ### Workflow
 
-*   [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+*   [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -682,7 +687,7 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐8k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [#tidytuesday (⭐8k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐617)](https://github.com/jadianes/data-science-your-way)
 *   [PySpark Cheatsheet (⭐665)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
@@ -947,7 +952,6 @@
 *   [dygraphs](https://dygraphs.com/)
 *   [exhibit](https://www.simile-widgets.org/exhibit/)
 *   [Glue](http://docs.glueviz.org/en/latest/index.html)
-*   [highcarts](https://www.highcharts.com/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
 *   [Openrefine](https://openrefine.org/)

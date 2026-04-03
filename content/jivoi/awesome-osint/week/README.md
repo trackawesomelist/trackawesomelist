@@ -31,6 +31,10 @@
 *   [The Citizen Lab](https://citizenlab.ca/feed/) - Research on surveillance, spyware, censorship, and digital threats relevant to advanced OSINT work.
 *   [Trace Labs Blog](https://www.tracelabs.org/blog/rss.xml) - Missing-person OSINT methodology, case support, and investigative workflows.
 
+### Other Resources / GitHub
+
+*   [appsec.fyi OSINT Resources](https://appsec.fyi/osint.html) - Curated collection of OSINT resources for cybersecurity, including tools, techniques, and writeups.
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### Live Cyber Threat Maps
@@ -51,7 +55,7 @@
 
 ### Other Tools / GitHub
 
-*   [OpenGraph Intel (OGI) (⭐76)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
+*   [OpenGraph Intel (OGI) (⭐119)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 
 ### Threat Intelligence / GitHub
 
