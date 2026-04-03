@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 03, 2026](/content/2026/04/03/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [EricLBuehler/mistral.rs (⭐6.8k)](https://github.com/EricLBuehler/mistral.rs) \[[mistralrs](https://crates.io/crates/mistralrs)] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Applications / Blockchain
@@ -256,7 +262,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [Inkwell (⭐100)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+*   [Inkwell](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 

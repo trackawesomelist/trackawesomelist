@@ -28,6 +28,14 @@ A curated list of awesome Go frameworks, libraries and software
 *   [circuit (⭐2)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
 *   [health (⭐8)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
 
+### Generators
+
+*   [go-apispec (⭐4)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
+
+### Goroutines
+
+*   [autopool (⭐4)](https://github.com/AshvinBambhaniya/autopool) - Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
+
 ### Strings
 
 *   [str (⭐7)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
@@ -3021,6 +3029,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Bot Building
 
 *   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 ### Standard CLI
 

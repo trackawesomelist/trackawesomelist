@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 
+### Generators
+
+*   [go-apispec (⭐4)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
+
+### Goroutines
+
+*   [autopool (⭐4)](https://github.com/AshvinBambhaniya/autopool) - Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Artificial Intelligence
@@ -3383,6 +3391,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Bot Building
 
 *   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 ### Miscellaneous Data Structures and Algorithms
 

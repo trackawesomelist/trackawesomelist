@@ -2,7 +2,7 @@
 
 A curated list of awesome network analysis resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 3.9K · 🏷️ Networking
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 4K · 🏷️ Networking
 
 [ [Daily](/content/briatte/awesome-network-analysis/README.md) / [Weekly](/content/briatte/awesome-network-analysis/week/README.md) / Overview ]
 
@@ -10,15 +10,13 @@ A curated list of awesome network analysis resources.
 
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481)
 
-An [awesome list (⭐433k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list (⭐451k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐13k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning (⭐28k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐14k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
 > Network of U.S. political blogs by [Adamic and Glance (2004)](https://dl.acm.org/citation.cfm?doid=1134271.1134277) ([preprint](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
-
-**Note:** searching for ‘@’ will return all Twitter accounts listed on this page.
 
 ## Contents
 
@@ -93,7 +91,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   *[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)*, by Michele Coscia (2021).
 *   *[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)*, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
 *   *[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)*, edited by Reda Alhajj and Jon Rokne (2014).
-*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐420)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐427)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 *   *[Network Science](http://networksciencebook.com)*, by Albert-László Barabási - Full book online (2016).
 *   *[Network Science](http://www.nap.edu/catalog/11516/network-science)*, by the U.S. National Research Council - Full book online (2005).
 *   *[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)*, by Ted G. Lewis (2011).
@@ -159,7 +157,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   *Network Analysis with Python/igraph*, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
 *   *[Network Graph Analysis and Visualization with Gephi](https://www.packtpub.com/big-data-and-business-intelligence/network-graph-analysis-and-visualization-gephi)*, by Ken Cherven (2013).
 *   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐247)](https://github.com/maksim2042/SNABook); 2011).
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐298)](https://github.com/kolaczyk/sand); 2014).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐301)](https://github.com/kolaczyk/sand); 2014).
 
 ### Topic-specific
 
@@ -207,7 +205,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 *   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
     *   [Network Science CheatSheets (⭐27)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
-*   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
+*   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016)<!-- ; Twitter: [@networksvox](https://twitter.com/networksvox)) -->.
     *   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 *   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 *   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
@@ -237,7 +235,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 *   [Gephi Datasets (⭐6.4k)](https://github.com/gephi/gephi/wiki/Datasets).
-*   [Hetionet: an integrative network of disease (⭐340)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐347)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
 *   [igraphwalshdata](https://cran.r-project.org/package=igraphwalshdata) - Another R data-centric package.
 *   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
@@ -272,7 +270,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   *[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)*, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
 *   *[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)* (Springer, gated).
 *   *[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)* (Springer Open).
-*   *[Connections](http://www.insna.org/connections.html)* (INSNA). Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA).
+*   *[Connections](http://www.insna.org/connections.html)* (INSNA).<!-- Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA). -->
 *   *[IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)* (IEEE).
 *   *[Journal of Complex Networks](https://academic.oup.com/comnet)* (Oxford, gated).
 *   *[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)* (Taylor & Francis, gated).
@@ -287,14 +285,14 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 ## Professional Groups
 
 *   [AFS RT 26 “Réseaux sociaux”](https://afs-socio.fr/rt/rt26/) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
-*   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA). Twitter: [@PolNetworks](https://twitter.com/PolNetworks).
-*   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research. Twitter: [@politicalnets](https://twitter.com/politicalnets).
+*   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA).<!-- Twitter: [@PolNetworks](https://twitter.com/PolNetworks). -->
+*   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research.<!-- Twitter: [@politicalnets](https://twitter.com/politicalnets). -->
 *   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/), in French - Research group based in Paris.
-*   [Groupe FMR - Flux, Matrices, Réseaux](https://groupefmr.hypotheses.org/), in French. Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent).
-*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)). Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts).
-*   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://mathematicalsociology.org/). Twitter: [@Math\_Sociology](https://twitter.com/Math_Sociology).
-*   [NetSci - Network Science Society](http://www.netscisociety.net/). Twitter: [@netscisociety](https://twitter.com/netscisociety).
-*   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists. Twitter: [@official\_SYNS](https://twitter.com/official_SYNS).
+*   [Groupe FMR - Flux, Matrices, Réseaux](https://groupefmr.hypotheses.org/), in French.<!-- Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent). -->
+*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).<!-- Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts). -->
+*   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://mathematicalsociology.org/).<!-- Twitter: [@Math_Sociology](https://twitter.com/Math_Sociology). -->
+*   [NetSci - Network Science Society](http://www.netscisociety.net/).<!-- Twitter: [@netscisociety](https://twitter.com/netscisociety). -->
+*   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists.<!-- Twitter: [@official_SYNS](https://twitter.com/official_SYNS). -->
 
 ### Research Groups (USA)
 
@@ -310,7 +308,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [Interdisciplinary Center for Network Science and Applications (iCeNSA) at the University of Notre Dame](http://icensa.com/).
 *   [LINKS Center for Social Network Analysis at the Gatton College of Business and Economics, University of Kentucky](https://sites.google.com/site/uklinkscenter/).
 *   [NetSCI Lab at the Rutgers School of Communication and Information](http://netsci.rutgers.edu/).
-*   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/). Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg).
+*   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/).<!-- Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg). -->
 *   [Network Interdependence in Social Systems](http://www.skylercranmer.net/niss-lab/) (NISS Lab) - Led by Skyler J. Cranmer at Ohio State University.
 *   [Network Science Center at the U.S. Military Academy (USMA) in West Point](http://www.usma.edu/nsc/) ([blog](http://blog.netsciwestpoint.org/)).
 *   [Network Science IGERT at the University of California at Santa Barbara (UCSB)](http://networkscience.igert.ucsb.edu/) - Features an [NSF-funded](http://www.igert.org/) graduate programme.
@@ -343,13 +341,13 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - Russian group based at the National Research University in Moscow.
     *   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 *   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://uclouvain.be/en/research-institutes/icteam/large-graphs-and-networks.html)).
-*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/). Twitter: [@melnetsna](https://twitter.com/melnetsna).
-*   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/). Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA).
+*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).<!-- Twitter: [@melnetsna](https://twitter.com/melnetsna). -->
+*   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).<!-- Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA). -->
 *   [Murata Laboratory](http://www.net.c.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 *   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 *   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 *   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
-*   [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
+*   [Networks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
 *   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 *   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
     *   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
@@ -516,7 +514,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [Linkage](https://linkage.fr/) - Online tool to visualize and model networks with textual edges.
 *   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
-    *   [IGraph/M (⭐99)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
+    *   [IGraph/M (⭐100)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 *   [Metamaps](https://metamaps.cc/) - Free, open-source platform to draw networks, currently in beta.
 *   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 *   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
@@ -526,7 +524,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     *   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 *   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
-*   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
+*   [OSoMe](https://osome.iu.edu/) - Observatory on Social Media, an interdisciplinary research center at Indiana University, with tools to browse current and past social media posts.
 *   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
     *   [Analyse des réseaux : une introduction à Pajek](https://quanti.hypotheses.org/512/), in French (2011).
     *   [La détection de communautés avec Pajek 3.6](https://groupefmr.hypotheses.org/544), in French (2012).
@@ -539,7 +537,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [qgis-edge-bundling (⭐67)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
 *   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 *   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
-*   [Scikit-network (⭐628)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
+*   [Scikit-network (⭐632)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
 *   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
 *   [Segrada](https://www.segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
 *   [Siena](https://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
@@ -578,7 +576,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C (⭐3.8k)](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ (⭐70k)](https://github.com/fffaraz/awesome-cpp) lists.
+> For more awesome C / C++ content, see the [Awesome C (⭐3.8k)](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ (⭐71k)](https://github.com/fffaraz/awesome-cpp) lists.
 
 *   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 *   [BGL - Boost Graph Library](https://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
@@ -588,13 +586,13 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
 *   [OGDF - Open Graph Drawing Framework](https://ogdf.uos.de/) - Self-contained C++ class library for diagram, network and tree layouts.
 *   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
-*   [RAPIDS cuGraph (⭐2.1k)](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
+*   [RAPIDS cuGraph (⭐2.2k)](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 *   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
 *   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](https://arxiv.org/abs/physics/0512106).
 
 ### Java
 
-*   [GraphStore (⭐79)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
+*   [GraphStore (⭐82)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
 *   [GraphStream](https://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
 *   [Mixer (⭐1)](https://github.com/keith-turner/mixer) - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one.
 
@@ -604,17 +602,17 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 *   [Cytoscape.js](https://js.cytoscape.org/) - Network analysis and visualization library.
 *   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
-    *   [d3-force: Force-directed graph layout (⭐1.9k)](https://github.com/d3/d3-force) using velocity Verlet integration.
+    *   [d3-force: Force-directed graph layout (⭐2k)](https://github.com/d3/d3-force) using velocity Verlet integration.
     *   [d3-vector: Define connections between nodes as directional vectors (⭐4)](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 *   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](https://doi.org/10.1016/j.socnet.2016.07.007)).
-*   [Gephi Lite (⭐302)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
+*   [Gephi Lite (⭐315)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
 *   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
 *   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
 *   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](https://ialab.it.monash.edu/webcola/).
 *   [jLouvain (⭐156)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 *   [NetworkCube (⭐94)](https://github.com/networkcube/networkcube) - "Dynamic Network Visualizations \[for] Domain Scientists." For demo examples, see [The Vistorian](https://networkcube.github.io/vistorian/).
-*   [Oligrapher (⭐106)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
-*   [Popoto.js (⭐530)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+*   [Oligrapher (⭐108)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
+*   [Popoto.js (⭐534)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
 *   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
 *   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
 *   [VivaGraphJS (⭐3.9k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
@@ -622,27 +620,27 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 ### Julia
 
-*   [BayesNets.jl (⭐229)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
+*   [BayesNets.jl (⭐230)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
     *   [Smile.jl (⭐2)](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](http://www.bayesfusion.com/smile-engine), which covers Bayesian networks and influence diagrams.
 *   [EcologicalNetwork.jl (⭐69)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
-*   [EvolvingGraphs (⭐52)](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
+*   [EvolvingGraphs (⭐51)](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
     *   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 *   [Graphs.jl (⭐204)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
     *   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
-    *   [MetaGraphs (⭐70)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+    *   [MetaGraphs (⭐71)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
     *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐246)](https://github.com/JuliaGL/GLVisualize.jl).
     *   [LightGraphs.jl (⭐667)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐21)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
-    *   [NetworkLayout.jl (⭐105)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
+    *   [NetworkLayout.jl (⭐106)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
     *   [GraphCentrality.jl (⭐4)](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
 *   [MatrixNetworks.jl (⭐110)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
 *   [NetworkViz.jl (⭐29)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐56)](https://github.com/rohitvarkey/ThreeJS.jl).
     *   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) by its author at JuliaCon 2016.
-*   [PhyloNetworks.jl (⭐170)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
-*   [TikzGraphs (⭐81)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [PhyloNetworks.jl (⭐171)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [TikzGraphs (⭐82)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ### MATLAB
 
@@ -659,33 +657,33 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code (⭐46)](https://github.com/maksim2042/PyCon2012)).\
-> For more awesome Python packages, see the [Awesome Python (⭐282k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4.2k)](https://github.com/Junnplus/awesome-python-books) lists.
+> For more awesome Python packages, see the [Awesome Python (⭐289k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4.2k)](https://github.com/Junnplus/awesome-python-books) lists.
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
-*   [cdlib (⭐415)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
-*   [dash-cytoscape (⭐668)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+*   [cdlib (⭐423)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [dash-cytoscape (⭐672)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 *   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 *   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [graspologic (⭐967)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
+*   [graspologic (⭐977)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
     *   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
 *   [hiveplot](https://pypi.python.org/pypi/hiveplot) - Python utility for drawing networks as hive plots on matplotlib, a more comprehensive network visualization.
 *   [karateclub (⭐2.3k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
-*   [linkpred (⭐142)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐141)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [littleballoffur (⭐713)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 *   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 *   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
-    *   [nxviz (⭐477)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+    *   [nxviz (⭐483)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 *   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 *   [npartite (⭐12)](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
 *   [parag (⭐3)](https://github.com/rraadd88/parag) - Interactive visualization of higher-order graphs in Python.
 *   [pathpy](https://www.pathpy.net/) - Analysis of time series data on networks using higher-order and multi-order graphical models.
-*   [PyGraphistry (⭐2.4k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐2.5k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 *   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 *   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
-*   [RAPIDS cuGraph (⭐2.1k)](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
+*   [RAPIDS cuGraph (⭐2.2k)](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 *   [rustworkx (⭐1.6k)](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 *   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
 *   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
@@ -698,13 +696,13 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 
 ### R
 
-> For more awesome R resources, see the [Awesome R (⭐6.4k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐270)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
+> For more awesome R resources, see the [Awesome R (⭐6.4k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐274)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 *   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
 *   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     *   [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
-*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
+*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).<!-- Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA). -->
 *   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 *   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 *   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
@@ -798,7 +796,7 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
 *   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
 *   [tsna](https://CRAN.R-project.org/package=tsna) - Tools for temporal social network analysis.
-*   [visNetwork (⭐562)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐563)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 *   [xergm](https://CRAN.R-project.org/package=xergm) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
 
 ### Stata
@@ -854,9 +852,9 @@ Inspired by [Awesome Deep Learning (⭐27k)](https://github.com/ChristosChristof
 *   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 *   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
 *   [NetSciEd - Network Science in Education](https://sites.google.com/a/binghamton.edu/netscied/home) - International initiative aimed at improving network literacy.
-*   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics.
+    <!-- -   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics. -->
 *   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
-*   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
+    <!-- -   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova). -->
 *   [The Networks Network](https://groups.google.com/forum/?hl=en-GB#!forum/the-networks-network) - Mailing-list (mostly historians from the HNR network).
 *   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
 *   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a “social graph object.”
