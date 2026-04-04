@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
+### LSP
+
+*   [dchinmay2/clangd\_extensions.nvim (⭐576)](https://github.com/dchinmay2/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
+
 ### AI / Diagnostics
 
 *   [cursortab/cursortab.nvim (⭐150)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+
+### Game / Competitive Programming
+
+*   [dchinmay2/cphelper.nvim (⭐150)](https://github.com/dchinmay2/cphelper.nvim) - Helper for competitive programming written in Lua.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -1096,12 +1104,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Assembly
 
 *   [uhs-robert/oasis.nvim (⭐128)](https://github.com/uhs-robert/oasis.nvim) - ***`[TS][LSP][L/D][Lua]`*** Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
-
-## [Sep 25, 2025](/content/2025/09/25/README.md)
-
-### LSP
-
-*   [p00f/clangd\_extensions.nvim (⭐574)](https://github.com/p00f/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
 
 ## [Sep 23, 2025](/content/2025/09/23/README.md)
 
@@ -5137,7 +5139,6 @@ Collections of awesome neovim plugins.
 
 ### Game / Competitive Programming
 
-*   [p00f/cphelper.nvim (⭐150)](https://github.com/p00f/cphelper.nvim) - Helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐570)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [Jan 21, 2022](/content/2022/01/21/README.md)

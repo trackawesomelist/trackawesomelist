@@ -45,9 +45,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [autopool (⭐4)](https://github.com/AshvinBambhaniya/autopool) - Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
 
+### Job Scheduler
+
+*   [scheduler (⭐2)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
+
 ### Strings
 
 *   [str (⭐7)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
+
+### Networking
+
+*   [fibersse (⭐0)](https://github.com/vinod-morya/fibersse) - Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 

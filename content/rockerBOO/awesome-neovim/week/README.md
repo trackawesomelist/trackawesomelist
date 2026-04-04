@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### LSP
+
+*   [dchinmay2/clangd\_extensions.nvim (⭐576)](https://github.com/dchinmay2/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
+
 ### AI / Diagnostics
 
 *   [cursortab/cursortab.nvim (⭐150)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
@@ -19,6 +23,10 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Assembly
 
 *   [0x-ximon/acario.nvim (⭐8)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
+
+### Game / Competitive Programming
+
+*   [dchinmay2/cphelper.nvim (⭐150)](https://github.com/dchinmay2/cphelper.nvim) - Helper for competitive programming written in Lua.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -912,10 +920,6 @@ Collections of awesome neovim plugins.
 *   [hat0uma/doxygen-previewer.nvim (⭐8)](https://github.com/hat0uma/doxygen-previewer.nvim) - Live previewing of Doxygen documentation.
 
 ## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
-
-### LSP
-
-*   [p00f/clangd\_extensions.nvim (⭐574)](https://github.com/p00f/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
 
 ### Colorscheme / Colorscheme Switchers
 
@@ -4356,7 +4360,6 @@ Collections of awesome neovim plugins.
 
 ### Game / Competitive Programming
 
-*   [p00f/cphelper.nvim (⭐150)](https://github.com/p00f/cphelper.nvim) - Helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐570)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)

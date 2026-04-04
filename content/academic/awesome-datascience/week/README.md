@@ -16,6 +16,10 @@
 *   **Learn Math basics** – Statistics, Linear Algebra, Probability
 *   **Move into ML** – Supervised learning → Unsupervised → Deep Learning
 
+### Tutorials
+
+*   [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
+
 ### Deep Learning Packages / Visualization Tools
 
 *   [Highcharts](https://www.highcharts.com/)

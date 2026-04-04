@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Tutorials
+
+*   [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
+
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Deep Learning Packages / Visualization Tools
