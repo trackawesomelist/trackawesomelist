@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Miscellaneous
+
+*   [SIMD Everywhere (⭐3k)](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them. \[MIT]
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Math

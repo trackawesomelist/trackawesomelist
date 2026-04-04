@@ -1389,6 +1389,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [SDS (⭐5.4k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 *   [semver.c (⭐196)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
+*   [SIMD Everywhere (⭐3k)](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them. \[MIT]
 *   [SLJIT (⭐1.1k)](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler. \[BSD] [website](https://zherczeg.github.io/sljit/)
 *   [palacaze/sigslot (⭐879)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
 *   [simdzone (⭐137)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]

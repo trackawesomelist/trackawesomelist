@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### AI / Diagnostics
+
+*   [cursortab/cursortab.nvim (⭐150)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### Fuzzy Finder / Assembly
@@ -56,7 +62,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [emrearmagan/dockyard.nvim (⭐14)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+*   [emrearmagan/dockyard.nvim (⭐17)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 
 ## [Mar 14, 2026](/content/2026/03/14/README.md)
 
@@ -119,13 +125,13 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [hadishahpuri/nvimlaunch (⭐8)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [hadishahpuri/nvimlaunch (⭐9)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 
 ## [Mar 01, 2026](/content/2026/03/01/README.md)
 
 ### Fuzzy Finder / Assembly
 
-*   [dtormoen/neural-open.nvim (⭐51)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐53)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 ### Colorscheme / Assembly
 
@@ -139,7 +145,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player (⭐12)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐13)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
@@ -192,11 +198,11 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [nickjvandyke/opencode.nvim (⭐2.9k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐3.1k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Prgebish/sigil.nvim (⭐30)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+*   [Prgebish/sigil.nvim (⭐31)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
 ### Buffers / Assembly
 
@@ -214,13 +220,13 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐93)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐97)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
 ### Git / Quickfix
 
-*   [chojs23/ec (⭐153)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐163)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ## [Feb 10, 2026](/content/2026/02/10/README.md)
 
@@ -720,6 +726,7 @@ Collections of awesome neovim plugins.
     *   [moyiz/blink-emoji.nvim (⭐73)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐13)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐34)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
+    *   [yaocccc/blink-cmp-cmdlinehistory (⭐2)](https://github.com/yaocccc/blink-cmp-cmdlinehistory) - `blink.cmp` source for cmdline and search history.
 
 ### Scrolling / Tree-sitter Based
 

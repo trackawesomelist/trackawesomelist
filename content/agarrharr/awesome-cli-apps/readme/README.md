@@ -26,7 +26,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐451k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -197,7 +197,7 @@ Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) lis
 
 *   [emacs (⭐5k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 *   [vim (⭐40k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
-*   [neovim (⭐97k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐98k)](https://github.com/neovim/neovim) - Modern vim.
 *   [kakoune (⭐11k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 *   [micro (⭐28k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 *   [o (⭐652)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
@@ -803,6 +803,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 *   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
+*   [agentify (⭐19)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 
 ### LLM Interaction
 

@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
+### AI / Diagnostics
+
+*   [cursortab/cursortab.nvim (⭐150)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+
 ### Fuzzy Finder / Assembly
 
 *   [willyelm/pulse.nvim (⭐13)](https://github.com/willyelm/pulse.nvim) - A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers.
@@ -50,7 +54,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [emrearmagan/dockyard.nvim (⭐14)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+*   [emrearmagan/dockyard.nvim (⭐17)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -89,7 +93,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [hadishahpuri/nvimlaunch (⭐8)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
+*   [hadishahpuri/nvimlaunch (⭐9)](https://github.com/hadishahpuri/nvimlaunch) - Define, run, and manage project-specific commands.
 *   [mikeboiko/nvim-flow (⭐5)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 
 ### Database / Automation
@@ -109,7 +113,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [dtormoen/neural-open.nvim (⭐51)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐53)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 ### Colorscheme / Assembly
 
@@ -118,7 +122,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player (⭐12)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐13)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ### Dependency Management / Quickfix
 
@@ -146,7 +150,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [nickjvandyke/opencode.nvim (⭐2.9k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐3.1k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 
 ### Programming Languages Support / Diagnostics
 
@@ -154,7 +158,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Prgebish/sigil.nvim (⭐30)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+*   [Prgebish/sigil.nvim (⭐31)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
 ### Fuzzy Finder / Assembly
 
@@ -176,11 +180,11 @@ Collections of awesome neovim plugins.
 ### Git / Quickfix
 
 *   [YouSame2/inlinediff-nvim (⭐24)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
-*   [chojs23/ec (⭐153)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐163)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐93)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐97)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Database / Automation
 
@@ -609,6 +613,7 @@ Collections of awesome neovim plugins.
     *   [moyiz/blink-emoji.nvim (⭐73)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐13)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐34)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
+    *   [yaocccc/blink-cmp-cmdlinehistory (⭐2)](https://github.com/yaocccc/blink-cmp-cmdlinehistory) - `blink.cmp` source for cmdline and search history.
 
 ### Programming Languages Support / Web Development
 

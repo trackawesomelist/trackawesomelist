@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Software / Frameworks
+
+*   [homebridge-blink-security (⭐2)](https://github.com/BitWise-0x/homebridge-blink-security) - A Homebridge plugin for integrating Blink cameras, doorbells, and sirens with Apple HomeKit, featuring live streaming, arm/disarm, and motion detection.
+*   [homebridge-smartrent (⭐2)](https://github.com/BitWise-0x/homebridge-smartrent) - A Homebridge plugin for integrating SmartRent locks, thermostats, leak sensors, and switches with Apple HomeKit via real-time WebSocket connection.
+
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### Hardware

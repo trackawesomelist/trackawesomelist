@@ -58,6 +58,10 @@
 *   [Repose (⭐1)](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikrikarim/repose) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NetFluss](https://www.ranagmbh.de/netfluss/) - Native menu bar app for real-time upload/download speeds and top bandwidth-using apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rana-gmbh/netfluss) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
+### Utilities / Productivity
+
+*   [CurrentKey](https://currentkey.com) - Assign unique icons and names to macOS Spaces and track time spent in apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
+
 ### Utilities / Window Management
 
 *   [StreamWindow](https://macdev.cn/) - 3D window manager with intuitive views and fluid transitions. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
@@ -121,7 +125,7 @@
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
-*   [DMG Maker (⭐40)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saihgupr/DMGMaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DMG Maker (⭐249)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saihgupr/DMGMaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -200,11 +204,11 @@
 ### Developer Tools / Developer Utilities
 
 *   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Swifka (⭐23)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Swifka (⭐26)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenTypeless (⭐89)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 
@@ -1065,7 +1069,7 @@
 ### Reading and Writing Tools / Text Editors
 
 *   [CodeEdit](https://www.codeedit.app/) - A lightweight, natively-built editor. Open source. Free forever. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CodeEditApp/CodeEdit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Neovim (⭐97k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Neovim (⭐98k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Ebooks
 

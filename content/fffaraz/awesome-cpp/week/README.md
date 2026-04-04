@@ -17,6 +17,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
 
+### Miscellaneous
+
+*   [SIMD Everywhere (⭐3k)](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them. \[MIT]
+
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
 ### DSP

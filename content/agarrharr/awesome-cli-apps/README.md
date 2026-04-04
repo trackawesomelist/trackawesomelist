@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### AI / Agents
+
+*   [agentify (⭐19)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
+
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
 ### AI / Agents
@@ -752,7 +758,7 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐97k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐98k)](https://github.com/neovim/neovim) - Modern vim.
 *   [helix (⭐44k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)

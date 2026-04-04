@@ -15,6 +15,7 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [fulsomenko/kanban (⭐85)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+*   [iwe-org/iwe (⭐862)](https://github.com/iwe-org/iwe) \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml)
 
 ### Applications / System tools
 
@@ -134,7 +135,7 @@ A curated list of Rust code and resources.
 
 *   [armgabrielyan/deadbranch (⭐168)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [cachix/devenv (⭐6.6k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
-*   [jj-vcs/jj (⭐27k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
+*   [jj-vcs/jj (⭐28k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 *   [Wilfred/difftastic (⭐25k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
 
 ### Development tools / Formatters
@@ -150,7 +151,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [ad-si/Woxi (⭐551)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+*   [ad-si/Woxi (⭐564)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 *   [temps (⭐287)](https://github.com/gotempsh/temps) - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
 
 ### Applications / Database
@@ -185,7 +186,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [Inkwell](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+*   [Inkwell (⭐182)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 
 ### Applications / Utilities
 
@@ -197,8 +198,8 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [block/goose (⭐33k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
-*   [j178/prek (⭐7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+*   [block/goose (⭐35k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐7.2k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
 
 ### Development tools / Build system
 
@@ -206,7 +207,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [raphaelmansuy/edgequake (⭐1.5k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+*   [raphaelmansuy/edgequake (⭐1.6k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 *   [liquidos-ai/AutoAgents (⭐466)](https://github.com/liquidos-ai/AutoAgents) \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.
 
 ### Libraries / Game development
@@ -296,7 +297,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [cong-or/hud (⭐147)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
+*   [cong-or/hud (⭐150)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
 ### Development tools / Tunnel
 

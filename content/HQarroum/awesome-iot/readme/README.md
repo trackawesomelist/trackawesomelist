@@ -16,7 +16,7 @@
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐451k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -102,6 +102,8 @@ Inspired by the [awesome (⭐446k)](https://github.com/sindresorhus/awesome) lis
 
 *   [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
 *   [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
+*   [homebridge-blink-security (⭐2)](https://github.com/BitWise-0x/homebridge-blink-security) - A Homebridge plugin for integrating Blink cameras, doorbells, and sirens with Apple HomeKit, featuring live streaming, arm/disarm, and motion detection.
+*   [homebridge-smartrent (⭐2)](https://github.com/BitWise-0x/homebridge-smartrent) - A Homebridge plugin for integrating SmartRent locks, thermostats, leak sensors, and switches with Apple HomeKit via real-time WebSocket connection.
 *   [AREG SDK (⭐342)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
 *   [Astarte (⭐271)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 *   [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with a wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.

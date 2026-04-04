@@ -23,10 +23,19 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 
+### Databases Implemented in Go
+
+*   [minisql (⭐31)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+*
+
 ### Distributed Systems
 
 *   [circuit (⭐2)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
 *   [health (⭐8)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
+
+### Financial
+
+*   [indicator (⭐828)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 
 ### Generators
 
@@ -128,7 +137,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [broker (⭐7)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+*   [broker (⭐9)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
 
 ### Utility/Miscellaneous
 
@@ -236,7 +245,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
-*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐75)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ### Routers / Libraries for creating HTTP middlewares
 

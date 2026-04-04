@@ -2,15 +2,21 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.1K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
+
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### System Utilities
+
+*   [HardwareExporterWindows (⭐1)](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/naughtyGitCat/HardwareExporterWindows)
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### Security
 
-*   [Certificate Ripper (⭐876)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
+*   [Certificate Ripper (⭐901)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
 
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
@@ -54,7 +60,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Text Editors
 
-*   [Inkwell (⭐100)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+*   [Inkwell (⭐182)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
@@ -165,7 +171,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Security
 
-*   [cppcryptfs (⭐910)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [cppcryptfs (⭐915)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 
 ## [Dec 26, 2025](/content/2025/12/26/README.md)
 
@@ -224,7 +230,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [Servy (⭐1.5k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+*   [Servy (⭐1.6k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 
 ### Text Editors
 
@@ -234,13 +240,13 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Communication
 
-*   [Unigram (⭐5k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
+*   [Unigram (⭐5.1k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Customization
 
-*   [OpenShell (⭐8.7k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [OpenShell (⭐8.8k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Productivity
 
@@ -250,7 +256,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [scrcpy (⭐137k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐138k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [May 06, 2025](/content/2025/05/06/README.md)
 
@@ -342,7 +348,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [STranslate (⭐5.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐6.2k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Feb 07, 2025](/content/2025/02/07/README.md)
 
@@ -362,7 +368,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Graphics
 
-*   [Oculante (⭐1.5k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Oculante (⭐1.6k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -388,7 +394,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Screenshot
 
-*   [Capter (⭐226)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Capter (⭐227)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/flameshot-org/flameshot)
 *   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 
@@ -407,7 +413,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Window Management
 
-*   [AltSnap (⭐4.7k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [AltSnap (⭐4.8k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [FancyZones (⭐131k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [GlazeWM (⭐12k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
@@ -415,7 +421,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Application Launchers
 
-*   [kunkun (⭐1.2k)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [kunkun (⭐1.3k)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Wox-launcher/Wox/)
 
 ### Cloud Storage
@@ -428,7 +434,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Communication
 
 *   [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/legcord/legcord)
-*   [Equicord (⭐1.2k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Equicord (⭐1.3k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Databases Clients
 
@@ -482,7 +488,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [neohtop (⭐8.9k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [neohtop (⭐9k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [Nov 04, 2024](/content/2024/11/04/README.md)
 
@@ -496,13 +502,13 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Command Line Tools
 
-*   [btop4win (⭐1.6k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [btop4win (⭐1.7k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Scoop (⭐24k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Customization
 
 *   [TranslucentTB (⭐19k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [YASB (⭐4.4k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐4.6k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Databases Clients
 
@@ -510,7 +516,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Game Stores
 
-*   [Gale (⭐600)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐604)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### IDEs
 
@@ -527,7 +533,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Screen Capture
 
-*   [Greenshot (⭐4.8k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Greenshot (⭐4.9k)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Terminal
 
@@ -539,7 +545,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Version Control
 
-*   [GitLight (⭐921)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐919)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Oct 27, 2024](/content/2024/10/27/README.md)
 
@@ -652,7 +658,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [LightBulb (⭐2.6k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
+*   [LightBulb (⭐2.7k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 
 ### Terminal
 

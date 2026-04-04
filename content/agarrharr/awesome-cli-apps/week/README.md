@@ -16,6 +16,7 @@
 
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 *   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
+*   [agentify (⭐19)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -693,7 +694,7 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐97k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐98k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐652)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 *   [helix (⭐44k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 

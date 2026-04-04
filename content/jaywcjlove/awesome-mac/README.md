@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Utilities / Productivity
+
+*   [CurrentKey](https://currentkey.com) - Assign unique icons and names to macOS Spaces and track time spent in apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
+
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Reading and Writing Tools / Note-taking
@@ -170,7 +176,7 @@
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
-*   [DMG Maker (⭐40)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saihgupr/DMGMaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DMG Maker (⭐249)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saihgupr/DMGMaker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 
@@ -279,11 +285,11 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Swifka (⭐23)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Swifka (⭐26)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ender-Wang/Swifka) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
-*   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenTypeless (⭐89)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tover0314-w/opentypeless) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -1248,7 +1254,7 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Neovim (⭐97k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Neovim (⭐98k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 

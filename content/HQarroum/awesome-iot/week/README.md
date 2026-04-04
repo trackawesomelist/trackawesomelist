@@ -12,6 +12,11 @@
 
 *   [AutoPi (⭐182)](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for connected vehicle telematics, CAN bus data collection, and automotive IoT applications.
 
+### Software / Frameworks
+
+*   [homebridge-blink-security (⭐2)](https://github.com/BitWise-0x/homebridge-blink-security) - A Homebridge plugin for integrating Blink cameras, doorbells, and sirens with Apple HomeKit, featuring live streaming, arm/disarm, and motion detection.
+*   [homebridge-smartrent (⭐2)](https://github.com/BitWise-0x/homebridge-smartrent) - A Homebridge plugin for integrating SmartRent locks, thermostats, leak sensors, and switches with Apple HomeKit via real-time WebSocket connection.
+
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Hardware

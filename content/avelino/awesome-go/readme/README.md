@@ -802,6 +802,8 @@ additional ordered map implementations.
 *   [unitdb (⭐124)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 *   [Vasto (⭐263)](https://github.com/chrislusf/vasto) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
 *   [VictoriaMetrics (⭐17k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
+*   [minisql (⭐31)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+*
 
 ### Database Schema Migration
 
@@ -1221,6 +1223,7 @@ additional ordered map implementations.
 *   [coinpaprika-api-go-client (⭐26)](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 *   [go-nowpayments (⭐5)](https://github.com/matm/go-nowpayments) - Library for the crypto NOWPayments API.
 *   [gobl (⭐268)](https://github.com/invopop/gobl) - Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
+*   [indicator (⭐828)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 *   [ledger (⭐1.2k)](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
 *   [money (⭐50)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 *   [ofxgo (⭐147)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
@@ -1748,7 +1751,7 @@ additional ordered map implementations.
 *   [Asynq (⭐13k)](https://github.com/hibiken/asynq) - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 *   [backlite (⭐141)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 *   [Beaver (⭐1.6k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
-*   [broker (⭐7)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+*   [broker (⭐9)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
 *   [Bus (⭐360)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
 *   [Centrifugo (⭐10k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1.3k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
@@ -2896,7 +2899,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goback (⭐50)](https://github.com/carlescere/goback) - Go simple exponential backoff package.
 *   [goctx (⭐10)](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 *   [godaemon (⭐495)](https://github.com/VividCortex/godaemon) - Utility to write daemons.
-*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐75)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 *   [godropbox (⭐4.2k)](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
 *   [gofn (⭐51)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 *   [golarm (⭐54)](https://github.com/msempere/golarm) - Fire alarms with system events.

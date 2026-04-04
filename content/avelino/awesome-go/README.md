@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Databases Implemented in Go
+
+*   [minisql (⭐31)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+*
+
+### Financial
+
+*   [indicator (⭐828)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
+
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Standard CLI
@@ -126,7 +137,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [broker (⭐7)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
+*   [broker (⭐9)](https://github.com/qvcloud/broker) - Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
@@ -281,7 +292,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [godoclive (⭐28)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐75)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 

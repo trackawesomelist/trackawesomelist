@@ -200,7 +200,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 *   [MacVim (⭐7.8k)](https://github.com/macvim-dev/macvim) - the text editor Vim - for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 *   [micro](https://micro-editor.github.io) - Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
-*   [Neovim (⭐97k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
+*   [Neovim (⭐98k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 *   [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 *   [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple distraction-free notepad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 *   [Sublime Text](http://www.sublimetext.com/3) - Text editor with a fast interface and plugin ecosystem. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -393,7 +393,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 *   [CoilPad](https://coilpad.com) - Native macOS Python scratchpad designed for instant prototyping and interactive learning. ![Freeware][Freeware Icon]
 *   [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
-*   [Swifka (⭐23)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
+*   [Swifka (⭐26)](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 *   [Configs (⭐195)](https://github.com/iHongRen/configEditor) - Configuration file manager for quickly viewing, editing and managing config files. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 *   [CubicBezier (⭐172)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 *   [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool. ![Open-Source Software][OSS Icon]
@@ -496,7 +496,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Frameworks For Hybrid Applications
 
 *   [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-*   [DMG Maker (⭐40)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
+*   [DMG Maker (⭐249)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 *   [create-dmg (⭐5.2k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 *   [Electrino (⭐4.4k)](https://github.com/pojala/electrino) - Desktop runtime for web apps using the system's browser engine. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 *   [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
@@ -996,7 +996,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [EnviousWispr](https://enviouswispr.com) - Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish. ![Freeware][Freeware Icon]
 *   [FnKey (⭐45)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 *   [OpenDictation (⭐40)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-*   [OpenTypeless (⭐53)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+*   [OpenTypeless (⭐89)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 *   [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 *   [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 *   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
@@ -1298,6 +1298,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 *   [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 *   [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
+*   [CurrentKey](https://currentkey.com) - Assign unique icons and names to macOS Spaces and track time spent in apps. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 *   [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 *   [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
 *   [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.

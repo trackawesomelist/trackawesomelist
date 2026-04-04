@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 04, 2026](/content/2026/04/04/README.md)
+
+### Applications / Productivity
+
+*   [iwe-org/iwe (⭐862)](https://github.com/iwe-org/iwe) \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml)
+
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Libraries / Artificial Intelligence
@@ -175,7 +181,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [jj-vcs/jj (⭐27k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
+*   [jj-vcs/jj (⭐28k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 
 ### Development tools / Formatters
 
@@ -262,13 +268,13 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [Inkwell](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
+*   [Inkwell (⭐182)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
 ### Applications
 
-*   [ad-si/Woxi (⭐551)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
+*   [ad-si/Woxi (⭐564)](https://github.com/ad-si/Woxi) \[[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
 
 ### Applications / Web
 
@@ -276,12 +282,12 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [block/goose (⭐33k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
-*   [j178/prek (⭐7k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
+*   [block/goose (⭐35k)](https://github.com/block/goose) - An open-source, local AI agent that automates engineering tasks.
+*   [j178/prek (⭐7.2k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
 
 ### Libraries / Artificial Intelligence
 
-*   [raphaelmansuy/edgequake (⭐1.5k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
+*   [raphaelmansuy/edgequake (⭐1.6k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 
 ## [Mar 02, 2026](/content/2026/03/02/README.md)
 
@@ -410,7 +416,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [cong-or/hud (⭐147)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
+*   [cong-or/hud (⭐150)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
