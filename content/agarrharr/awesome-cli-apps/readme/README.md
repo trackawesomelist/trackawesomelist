@@ -133,7 +133,7 @@ Inspired by the [awesome (⭐451k)](https://github.com/sindresorhus/awesome) lis
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 *   [musikcube (⭐4.7k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 *   [beets (⭐15k)](https://github.com/beetbox/beets) - Music library manager and tagger.
-*   [spotatui (⭐477)](https://github.com/LargeModGames/spotatui) - Spotify client.
+*   [spotatui (⭐535)](https://github.com/LargeModGames/spotatui) - Spotify client.
 *   [swaglyrics-for-spotify (⭐345)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 *   [dzr (⭐251)](https://github.com/yne/dzr) - deezer.com player.
 *   [radio-active (⭐577)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -181,7 +181,7 @@ Inspired by the [awesome (⭐451k)](https://github.com/sindresorhus/awesome) lis
 *   [mklicense (⭐201)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 *   [foy (⭐287)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
-*   [just (⭐32k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐33k)](https://github.com/casey/just) - Modern `make`-like command runner.
 *   [bcal (⭐688)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 *   [bitwise (⭐713)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐386)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
@@ -267,7 +267,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Release
 
 *   [release-it (⭐8.9k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [clog (⭐909)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐910)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 *   [np (⭐7.7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [release (⭐3.6k)](https://github.com/vercel/release) - Generate changelogs with a single command.
 *   [semantic-release (⭐23k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
@@ -336,7 +336,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [Timewarrior (⭐1.6k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.5k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐347)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐821)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐823)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 *   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 *   [Tock (⭐386)](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 *   [Helm (⭐114)](https://github.com/0xjuanma/helm) - Minimalistic timer.
@@ -477,6 +477,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [glow (⭐24k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 *   [gtree (⭐328)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 *   [Jimmy (⭐408)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+*   [mq (⭐373)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### Security
 
@@ -559,6 +560,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [yaml-cli (⭐87)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐582)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 *   [xq (⭐1.1k)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+*   [mq (⭐373)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### JSON
 
@@ -597,7 +599,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [lf (⭐9.2k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 *   [clifm (⭐1.6k)](https://github.com/leo-arch/clifm) - The command line file manager.
 *   [far2l (⭐2.1k)](https://github.com/elfmz/far2l) - Orthodox file manager.
-*   [yazi (⭐35k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐36k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 *   [xplr (⭐4.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
@@ -615,7 +617,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [diskonaut (⭐3k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 *   [dua-cli (⭐5.7k)](https://github.com/Byron/dua-cli) - Disk usage analyzer.
 *   [duf (⭐15k)](https://github.com/muesli/duf) - A better `df` alternative.
-*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
+*   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 *   [dutree (⭐869)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 *   [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
@@ -684,7 +686,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [rare (⭐350)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 *   [skim (⭐6.7k)](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 *   [ast-grep (⭐13k)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
-*   [television (⭐4.7k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐5.6k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 *   [srgn (⭐887)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 *   [rawhide (⭐55)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 *   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)

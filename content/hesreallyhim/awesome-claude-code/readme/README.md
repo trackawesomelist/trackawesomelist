@@ -38,10 +38,9 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ## Latest Additions
 
+*   [Claude Code Agent Teams: Exercises (⭐5)](https://github.com/panaversity/claude-code-agent-teams-exercises) by [Panaversity](https://github.com/panaversity) - Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
+*   [Harness (⭐1.8k)](https://github.com/revfactory/harness) by [revfactory](https://github.com/revfactory) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.
 *   [claude-devtools (⭐2.8k)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
-*   [agnix (⭐110)](https://github.com/agent-sh/agnix) by [agent-sh](https://github.com/agent-sh) - A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.
-*   [Codebase to Course (⭐2.1k)](https://github.com/zarazhangrui/codebase-to-course) by [Zara Zhang](https://github.com/zarazhangrui) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
-*   [Ruflo (⭐21k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
 
 ## Contents
 
@@ -49,6 +48,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
     *   [General](#general)
 *   [Workflows & Knowledge Guides 🧠](#workflows--knowledge-guides-)
     *   [General](#general-1)
+    *   [Teams](#teams)
     *   [Ralph Wiggum](#ralph-wiggum)
 *   [Tooling 🧰](#tooling-)
     *   [General](#general-2)
@@ -84,7 +84,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ### General
 
-*   [AgentSys (⭐647)](https://github.com/avifenesh/agentsys) by [avifenesh](https://github.com/avifenesh) - Workflow automation system for Claude with a group of useful plugins, agents, and skills. Automates task-to-production workflows, PR management, code cleanup, performance investigation, drift detection, and multi-agent code review. Includes [agnix (⭐102)](https://github.com/avifenesh/agnix) for linting agent configurations. Built on thousands of lines of code with thousands of tests. Uses deterministic detection (regex, AST) with LLM judgment for efficiency. Used on many production systems.
+*   [AgentSys (⭐647)](https://github.com/avifenesh/agentsys) by [avifenesh](https://github.com/avifenesh) - Workflow automation system for Claude with a group of useful plugins, agents, and skills. Automates task-to-production workflows, PR management, code cleanup, performance investigation, drift detection, and multi-agent code review. Includes [agnix (⭐135)](https://github.com/avifenesh/agnix) for linting agent configurations. Built on thousands of lines of code with thousands of tests. Uses deterministic detection (regex, AST) with LLM judgment for efficiency. Used on many production systems.
 *   [AI Agent, AI Spy](https://youtu.be/0ANECpNdt-4) by [Whittaker & Tiwari](https://signalfoundation.org/) - Members from the Signal Foundation with some really great tips and tricks on how to turn your operating system into an instrument of total surveillance, and why some companies are doing this really awesome thing. \[warning: YouTube link].
 *   [Book Factory (⭐50)](https://github.com/robertguss/claude-skills) by [Robert Guss](https://github.com/robertguss) - A comprehensive pipeline of Skills that replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.
 *   [cc-devops-skills (⭐138)](https://github.com/akin-ozer/cc-devops-skills) by [akin-ozer](https://github.com/akin-ozer) - Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a source of documentation.
@@ -138,6 +138,11 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [RIPER Workflow (⭐73)](https://github.com/tony/claude-code-riper-5) by [Tony Narlock](https://tony.sh) - Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
 *   [Shipping Real Code w/ Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) by [Diwank](https://github.com/creatorrr) - A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
 *   [Simone (⭐550)](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi) - A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
+
+### Teams
+
+*   [Claude Code Agent Teams: Exercises (⭐5)](https://github.com/panaversity/claude-code-agent-teams-exercises) by [Panaversity](https://github.com/panaversity) - Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
+*   [Harness (⭐1.8k)](https://github.com/revfactory/harness) by [revfactory](https://github.com/revfactory) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.
 
 ### Ralph Wiggum
 
@@ -207,7 +212,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [Claude Task Master (⭐26k)](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 *   [Claude Task Runner (⭐66)](https://github.com/grahama1970/claude-task-runner) by [grahama1970](https://github.com/grahama1970) - A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.
 *   [Happy Coder (⭐16k)](https://github.com/slopus/happy) by [GrocerPublishAgent](https://peoplesgrocers.com/en/projects) - Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.
-*   [Ruflo (⭐21k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
+*   [Ruflo (⭐29k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
 *   [sudocode (⭐260)](https://github.com/sudocode-ai/sudocode) by [ssh-randy](https://github.com/ssh-randy) - Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
 *   [The Agentic Startup (⭐236)](https://github.com/rsmdt/the-startup) by [Rudolf Schmidt](https://github.com/rsmdt) - Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
 *   [TSK - AI Agent Task Manager and Sandbox (⭐153)](https://github.com/dtormoen/tsk) by [dtormoen](https://github.com/dtormoen) - A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.

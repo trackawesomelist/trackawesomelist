@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Apr 05, 2026](/content/2026/04/05/README.md)
+
+### Hardware
+
+*   [Rinho Telematics](https://rinho.com.ar/en) - GPS trackers with native CAN Bus (J1939/FMS), WiFi fallback for offline data download, and BLE 5.0 sensors. Compatible with Traccar and Wialon.
+
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
 ### Software / Frameworks

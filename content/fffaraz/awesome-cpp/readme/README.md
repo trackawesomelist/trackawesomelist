@@ -444,6 +444,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [retter (⭐113)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 *   [s2n (⭐4.7k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. \[Apache]
 *   [sha1collisiondetection (⭐1.4k)](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. \[MIT]
+*   [stduuid (⭐885)](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs. \[MIT]
 *   [Tink (⭐14k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
 *   [Tiny AES in C (⭐4.9k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 *   [tiny-ECDH-c (⭐291)](https://github.com/kokke/tiny-ECDH-c) - Small and portable implementation of the ECDH key agreement protocol in C. \[PublicDomain]
@@ -923,7 +924,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [mexce (⭐3)](https://github.com/imakris/mexce) - A single-header, dependency-free JIT compiler for scalar mathematical expressions that generates optimized x87 FPU machine code. \[BSD]
 *   [MIRACL (⭐690)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 *   [NumCpp (⭐4k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
-*   [NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
+*   [NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
 *   [OMath (⭐188)](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. \[ZLIB]
 *   [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
 *   [LibTomMath (⭐783)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)

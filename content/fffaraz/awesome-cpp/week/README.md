@@ -13,9 +13,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [OpenZL (⭐3k)](https://github.com/facebook/openzl) - A novel data compression framework. \[BSD] [website](https://openzl.org/)
 *   [ZXC (⭐317)](https://github.com/hellobertrand/zxc) - High-performance asymmetric lossless compression. \[BSD-3-Clause]
 
+### Cryptography
+
+*   [stduuid (⭐885)](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs. \[MIT]
+
 ### Math
 
-*   [NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
+*   [NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
 
 ### Miscellaneous
 

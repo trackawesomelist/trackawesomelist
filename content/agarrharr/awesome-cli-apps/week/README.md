@@ -12,6 +12,10 @@
 
 *   [kanban (⭐85)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
+### Data Manipulation / Processors
+
+*   [mq (⭐373)](https://github.com/harehare/mq) - Jq-like markdown processor.
+
 ### AI / Agents
 
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
@@ -195,7 +199,7 @@
 
 ### Entertainment / Music
 
-*   [spotatui (⭐477)](https://github.com/LargeModGames/spotatui) - Spotify client.
+*   [spotatui (⭐535)](https://github.com/LargeModGames/spotatui) - Spotify client.
 
 ### Utilities / macOS
 
@@ -338,7 +342,7 @@
 ### Files and Directories / Disk Usage
 
 *   [duf (⭐15k)](https://github.com/muesli/duf) - A better `df` alternative.
-*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
+*   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 *   [dutree (⭐869)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 
 ### Version Control / Git
@@ -378,7 +382,7 @@
 
 ### Files and Directories / Search
 
-*   [television (⭐4.7k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐5.6k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ### Version Control / Git
 
@@ -404,7 +408,7 @@
 
 ### Files and Directories / File Managers
 
-*   [yazi (⭐35k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐36k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -742,7 +746,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐821)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐823)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -969,7 +973,7 @@
 
 ### Development / Chat
 
-*   [just (⭐32k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐33k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ### Development / Docker
 
@@ -1355,7 +1359,7 @@
 
 ### Development / Release
 
-*   [clog (⭐909)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐910)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 

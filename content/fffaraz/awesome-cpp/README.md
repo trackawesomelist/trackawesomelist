@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 05, 2026](/content/2026/04/05/README.md)
+
+### Cryptography
+
+*   [stduuid (⭐885)](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs. \[MIT]
+
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
 ### Miscellaneous
@@ -16,7 +22,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
+*   [NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
 
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
