@@ -6,19 +6,21 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
-## [Apr 04, 2026](/content/2026/04/04/README.md)
+## [Apr 05, 2026](/content/2026/04/05/README.md)
 
 ### LSP
 
-*   [dchinmay2/clangd\_extensions.nvim (⭐576)](https://github.com/dchinmay2/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
+*   [\~chinmay/clangd\_extensions.nvim](https://sr.ht/~chinmay/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
+
+### Game / Competitive Programming
+
+*   [\~chinmay/cphelper.nvim](https://git.sr.ht/~chinmay/cphelper.nvim) - Helper for competitive programming written in Lua.
+
+## [Apr 04, 2026](/content/2026/04/04/README.md)
 
 ### AI / Diagnostics
 
 *   [cursortab/cursortab.nvim (⭐150)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
-
-### Game / Competitive Programming
-
-*   [dchinmay2/cphelper.nvim (⭐150)](https://github.com/dchinmay2/cphelper.nvim) - Helper for competitive programming written in Lua.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -3085,7 +3087,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Assembly
 
-*   [rolv-apneseth/tfm.nvim (⭐98)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐35k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐98)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐36k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Assembly
 
@@ -3210,7 +3212,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Assembly
 
-*   [IndianBoy42/tree-sitter-just (⭐185)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐32k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐185)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐33k)](https://github.com/casey/just).
 
 ### Snippet / Assembly
 
