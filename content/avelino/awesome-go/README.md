@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
+### Project Layout
+
+*   [go-rest-api-boilerplate (⭐48)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+
 ### Version Control
 
 *   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.

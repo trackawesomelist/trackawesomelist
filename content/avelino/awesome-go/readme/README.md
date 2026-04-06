@@ -1875,6 +1875,7 @@ additional ordered map implementations.
 *   [cookiecutter-golang (⭐734)](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 *   [go-blueprint (⭐8.7k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
 *   [go-module (⭐37)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-rest-api-boilerplate (⭐48)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
 *   [go-sample (⭐138)](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 *   [go-starter (⭐600)](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
 *   [go-todo-backend (⭐335)](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.

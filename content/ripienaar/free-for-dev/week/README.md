@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Email
+
+*   [anon.li Alias](https://anon.li/alias) - Open source, anonymous email alias/forwarding solution with PGP encryption, reply capability, 10 random & 1 custom alias on the free plan with developer API & CLI.
+
+### Storage and Media Processing
+
+*   [anon.li Drop](https://anon.li/drop) - Zero-knowledge E2EE file sharing with client-side AES-256-GCM encryption and zero server-side data access. Free uploads for files up to 5GB with max expiry up to 3 days through the website, CLI or API.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### APIs, Data, and ML
@@ -3418,7 +3428,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, gender detection, or email validation.
+*   [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, phone number validation, or email validation.
 *   [MockAPI](https://www.mockapi.io/) - MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/2 resources per project for free.
 *   [wrapapi.com](https://wrapapi.com/) - Turn any website into a parameterized API. 30k API calls per month.
 *   [Zenscrape](https://zenscrape.com/web-scraping-api) - Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.

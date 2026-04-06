@@ -36,6 +36,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Testing](#testing)
     *   [Querying](#querying)
     *   [Mocking](#mocking)
+    *   [Debugging Proxies](#debugging-proxies)
     *   [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 *   [Documentation](#documentation)
 *   [API Gateway](#api-gateway)
@@ -57,7 +58,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Guidelines
 
-*   [Adidas REST API Guidelines (⭐399)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
+*   [Adidas REST API Guidelines (⭐400)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
 *   [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.
 *   [Cisco REST API Guide (⭐119)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 *   [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
@@ -100,7 +101,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Ruby Clients
 
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Spyke (⭐903)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐904)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 *   [excon (⭐1.2k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 *   [httparty (⭐5.9k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 *   [Net::HTTP](https://ruby-doc.org/3.2.0/stdlibs/net/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
@@ -118,7 +119,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 *   [RestEase (⭐1.1k)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 *   [Tiny.RestClient (⭐209)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
-*   [RestLess (⭐113)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [RestLess (⭐112)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 *   [Apizr (⭐172)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### Generators
@@ -141,7 +142,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [flatiron/resourceful (⭐355)](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 *   [loopback](https://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 *   [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
-*   [Expressa (⭐448)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐449)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 *   [rest-hapi (⭐1.2k)](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 *   [Nestjsx/crud (⭐4.3k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
@@ -161,8 +162,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 *   [REST APIs with Symfony2: the Right Way](https://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
-*   [stanlemon/rest-bundle (⭐121)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
-*   [BazingaHateoasBundle (⭐297)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+*   [stanlemon/rest-bundle (⭐120)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
+*   [BazingaHateoasBundle (⭐298)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 *   [Symfony REST Edition (⭐636)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 *   [DunglasApiBundle (⭐2.6k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
@@ -207,13 +208,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Java
 
-*   [RestExpress (⭐941)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+*   [RestExpress (⭐940)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 *   [Vertx-Web (⭐1.1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 *   [Dropwizard (⭐8.6k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
 ### Scala
 
-*   [Chaos (⭐248)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐249)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ### Haskell
 
@@ -234,22 +235,31 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 *   [Milkman (⭐1.3k)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
-*   [Schemathesis (⭐3.1k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐3.2k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 *   [Step CI (⭐1.8k)](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 *   [RestQA (⭐93)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
+*   [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
+*   [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
 
 ### Mocking
 
-*   [FakeRest (⭐450)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
+*   [FakeRest (⭐452)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 *   [json-server (⭐76k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 *   [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 *   [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 *   [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-*   [Request Baskets (⭐421)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐420)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 *   [DuckRails (⭐1.7k)](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 *   [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 *   [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 *   [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+
+### Debugging Proxies
+
+*   [mitmproxy](https://mitmproxy.org/) - Free, open-source interactive HTTPS proxy for debugging API traffic.
+*   [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor for inspecting API traffic on Windows, Mac, and Linux.
+*   [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy tool by Telerik/Progress.
 
 ### Validating
 
@@ -271,13 +281,14 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Optic (⭐1.5k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 *   [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 *   [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
+*   [Stoplight](https://stoplight.io/) - Design-first API platform with visual OpenAPI editor, documentation, and mocking.
 
 ## API Gateway
 
 *   [Kong (⭐43k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
 *   [Tyk API Gateway (⭐11k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2.2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
-*   [WSO2 API Management (⭐973)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
+*   [WSO2 API Management (⭐974)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 *   [Express Gateway (⭐3k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 *   [Lura (⭐6.8k)](https://github.com/luraproject/lura) - Ultra performant API Gateway with middleware. Written in Go.
 *   [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
@@ -285,7 +296,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## SaaS Tools
 
-*   [Nango (⭐6.8k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐7k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 *   [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 *   [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 *   [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
@@ -297,10 +308,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 *   [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+*   [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
+*   [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
 
 ## Miscellaneous
 
-*   [shadcn-admin-kit (⭐805)](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
+*   [shadcn-admin-kit (⭐859)](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
 *   [react-admin (⭐27k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 *   [ng-admin (⭐3.9k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 *   [swagger-codegen (⭐18k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).

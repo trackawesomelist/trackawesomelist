@@ -13,6 +13,7 @@
 *   [Designing for Performance: Weighing Aesthetics and Speed](https://designingforperformance.com/) - Lara Hogan
 *   [High Performance Web Sites: Essential Knowledge for frontend Engineers](https://www.oreilly.com/library/view/high-performance-web/9780596529307/) - Steve Souders
 *   [High Performance Responsive Design: Building Faster Sites Across Devices](https://www.oreilly.com/library/view/high-performance-responsive/9781491949979/) – Tom Barker
+*   [Lean sites](https://www.sitepoint.com/premium/books/lean-websites/) – Barbara Bermes
 
 ### Case studies
 
@@ -191,12 +192,6 @@
 
 *   [BundleStats (⭐669)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
-## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
-
-### Metrics Monitor / Meetups
-
-*   [Bytes Matter Real User Monitoring](https://www.bytesmatter.io) - Full featured Real User Monitoring solution. Free tier for smaller sites. Includes monitoring for Google's Core Web Vitals.
-
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
 
 ### Generators / Meetups
@@ -254,7 +249,6 @@
 *   [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - Steve Souders
 *   [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
 *   [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
-*   [Lean sites](https://www.sitepoint.com/premium/books/lean-websites) – Barbara Bermes
 *   [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) – Tammy Everts
 *   [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran
 *   [Web Performance Daybook Volume 2](https://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/) - Stoyan Stefanov
@@ -441,7 +435,6 @@
 *   [Critical (⭐10k)](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 *   [Csscolormin (⭐13)](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 *   [Lazysizes (⭐18k)](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-*   [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existing performance tools.
 *   [TMI (⭐1.6k)](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
 
 ### SVG / Meetups

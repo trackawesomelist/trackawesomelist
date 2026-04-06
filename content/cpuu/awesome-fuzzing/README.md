@@ -36,53 +36,183 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 *   [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols, 2023](https://www.ndss-symposium.org/wp-content/uploads/2023-78-paper.pdf)
 *   [No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Description, 2023](https://www.ndss-symposium.org/wp-content/uploads/2023-688-paper.pdf)
 
-## [Nov 20, 2023](/content/2023/11/20/README.md)
+### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
+
+*   [CHIMERA: Fuzzing P4 Network Infrastructure for Multi-Plane Bug Detection and Vulnerability Discovery, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c865/26hiVb0gXUA)
+*   [FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I)
+*   [Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+*   [HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d507/26hiVy3bGHm)
+*   [Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a066/21B7Ray6BkA)
+*   [RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a003/21B7PWv1JGU)
+*   [Stateful Analysis and Fuzzing of Commercial Baseband Firmware, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b120/26EkFox5zyg)
+*   [AFGen: Whole-Function Fuzzing for Applications and Libraries, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a011/1RjE9PjiDss)
+*   [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA)
+*   [DY Fuzzing: Formal Dolev-Yao Models Meet Cryptographic Protocol Fuzz Testing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a096/1Ub234bjuWA)
+*   [Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a142/1Ub23ZRRhRu)
+*   [LABRADOR: Response Guided Directed Fuzzing for Black-box IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a127/1Ub23HQTJ1C)
+*   [LLMIF: Augmented Large Language Model for Fuzzing IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a196/1WPcYnhN15u)
+*   [Predecessor-aware Directed Greybox Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a040/1RjEaeMELbq)
+*   [SATURN: Host-Gadget Synergistic USB Driver Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a051/1RjEaqzRsfC)
+*   [SoK: Prudent Evaluation Practices for Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a137/1Ub23V26Svm)
+*   [SyzGen++: Dependency Inference for Augmenting Kernel Driver Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000e661/1ZZvBxFudzi)
+*   [SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a070/1RjEaG9OpTa)
+*   [Titan: Efficient Multi-target Directed Greybox Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a059/1RjEaxqvmQ8)
+*   [To Boldly Go Where No Fuzzer Has Gone Before: Finding Bugs in Linux' Wireless Stacks through VirtIO Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a024/1RjEa0y9RMQ)
+*   [Towards Smart Contract Fuzzing on GPU, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo)
+*   [TEEzz: Fuzzing Trusted Applications on COTS Android Devices, 2023](https://hexhive.epfl.ch/publications/files/23Oakland.pdf)
+*   [SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing, 2023](https://lifeasageek.github.io/papers/jeong-segfuzz.pdf)
+*   [RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b765/1OXH123kRcQ)
+*   [Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a116/1He7XPiaynS)
+*   [UTOPIA: Automatic Generation of Fuzz Driver using Unit Tests, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a746/1OXH6X6Fexi)
+*   [SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b050/1OXGOF6jNp6)
+*   [Finding Specification Blind Spots via Fuzz Testing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c708/1OXH7BohI2Y)
+*   [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c726/1OXH0xA0Lrq)
+*   [VIDEZZO: Dependency-aware Virtual Device Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d228/1OXH4y2HyuI)
+*   [DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d246/1OXH2Xsv2Du)
+
+### Papers / USENIX Security
+
+*   [AidFuzzer: Adaptive Interrupt-Driven Firmware Fuzzing via Run-Time State Recognition, 2025](https://www.usenix.org/system/files/usenixsecurity25-wang-jianqiang.pdf)
+*   [ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains, 2025](https://www.usenix.org/system/files/usenixsecurity25-deng.pdf)
+*   [CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks, 2025](https://www.usenix.org/system/files/usenixsecurity25-dong-yilu.pdf)
+*   [Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection, 2025](https://www.usenix.org/system/files/usenixsecurity25-lin-zihan.pdf)
+*   [Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection, 2025](https://www.usenix.org/system/files/usenixsecurity25-bolcskei.pdf)
+*   [From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification, 2025](https://www.usenix.org/system/files/usenixsecurity25-bao-andrew.pdf)
+*   [Fuzzing the PHP Interpreter via Dataflow Fusion, 2025](https://www.usenix.org/system/files/usenixsecurity25-jiang-yuancheng.pdf)
+*   [GenHuzz: An Efficient Generative Hardware Fuzzer, 2025](https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf)
+*   [Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz, 2025](https://www.usenix.org/system/files/usenixsecurity25-solt.pdf)
+*   [Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators, 2025](https://www.usenix.org/system/files/usenixsecurity25-zhang-kunpeng.pdf)
+*   [MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers, 2025](https://www.usenix.org/system/files/usenixsecurity25-song-xiangpu.pdf)
+*   [PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs, 2025](https://www.usenix.org/system/files/usenixsecurity25-gong-xueluan.pdf)
+*   [Robust, Efficient, and Widely Available Greybox Fuzzing for COTS Binaries with System Call Pattern Feedback, 2025](https://www.usenix.org/system/files/usenixsecurity25-xiao-jifan.pdf)
+*   [Waltzz: WebAssembly Runtime Fuzzing with Stack-Invariant Transformation, 2025](https://www.usenix.org/system/files/usenixsecurity25-zhang-lingming.pdf)
+*   [Atropos: Effective Fuzzing of Web Applications for Server-Side Vulnerabilities, 2024](https://www.usenix.org/system/files/usenixsecurity24-guler.pdf)
+*   [Cascade: CPU Fuzzing via Intricate Program Generation, 2024](https://www.usenix.org/system/files/usenixsecurity24-solt.pdf)
+*   [Critical Code Guided Directed Greybox Fuzzing for Commits, 2024](https://www.usenix.org/system/files/usenixsecurity24-xiang-yi.pdf)
+*   [EL3XIR: Fuzzing COTS Secure Monitors, 2024](https://www.usenix.org/system/files/usenixsecurity24-lindenmeier.pdf)
+*   [Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing, 2024](https://www.usenix.org/system/files/usenixsecurity24-asmita.pdf)
+*   [HYPERPILL: Fuzzing for Hypervisor-bugs by Leveraging the Hardware Virtualization Interface, 2024](https://www.usenix.org/system/files/usenixsecurity24-bulekov.pdf)
+*   [MultiFuzz: A Multi-Stream Fuzzer For Testing Monolithic Firmware, 2024](https://www.usenix.org/system/files/usenixsecurity24-chesser.pdf)
+*   [ResolverFuzz: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing, 2024](https://www.usenix.org/system/files/usenixsecurity24-zhang-qifan.pdf)
+*   [SDFuzz: Target States Driven Directed Fuzzing, 2024](https://www.usenix.org/system/files/usenixsecurity24-li-penghui.pdf)
+*   [SHiFT: Semi-hosted Fuzz Testing for Embedded Applications, 2024](https://www.usenix.org/system/files/usenixsecurity24-mera.pdf)
+*   [Towards Generic Database Management System Fuzzing, 2024](https://www.usenix.org/system/files/usenixsecurity24-yang-yupeng.pdf)
+*   [WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors, 2024](https://www.usenix.org/system/files/usenixsecurity24-borkar.pdf)
+*   [AIFORE: Smart Fuzzing Based on Automatic Input Format Reverse Engineering, 2023](https://www.usenix.org/system/files/usenixsecurity23-shi-ji.pdf)
+*   [autofz: Automated Fuzzer Composition at Runtime, 2023](https://www.usenix.org/system/files/usenixsecurity23-fu-yu-fu.pdf)
+*   [Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation, 2023](https://www.usenix.org/system/files/usenixsecurity23-zhang-cen.pdf)
+*   [Automated Exploitable Heap Layout Generation for Heap Overflows Through Manipulation Distance-Guided Fuzzing, 2023](https://www.usenix.org/system/files/usenixsecurity23-zhang-bin.pdf)
+*   [Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations, 2023](https://www.usenix.org/system/files/usenixsecurity23-luo-zhengxiong.pdf)
+*   [BoKASAN: Binary-only Kernel Address Sanitizer for Effective Kernel Fuzzing, 2023](https://www.usenix.org/system/files/usenixsecurity23-cho.pdf)
+*   [CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing, 2023](https://www.usenix.org/system/files/usenixsecurity23-wang-dawei.pdf)
+*   [DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing, 2023](https://www.usenix.org/system/files/usenixsecurity23-yuan-ming.pdf)
+*   [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation, 2023](https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf)
+*   [Forming Faster Firmware Fuzzers, 2023](https://www.usenix.org/system/files/usenixsecurity23-seidel.pdf)
+*   [FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler, 2023](https://www.usenix.org/system/files/usenixsecurity23-wang-junjie.pdf)
+*   [Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge, 2023](https://www.usenix.org/system/files/usenixsecurity23-bars.pdf)
+*   [GLeeFuzz: Fuzzing WebGL Through Error Message Guided Mutation, 2023](https://www.usenix.org/system/files/usenixsecurity23-peng.pdf)
+*   [Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance, 2023](https://www.usenix.org/system/files/usenixsecurity23-kim-jiwon.pdf)
+*   [KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations, 2023](https://www.usenix.org/system/files/usenixsecurity23-yin.pdf)
+*   [MINER: A Hybrid Data-Driven Approach for REST API Fuzzing, 2023](https://www.usenix.org/system/files/usenixsecurity23-lyu.pdf)
+*   [MorFuzz: Fuzzing Processor via Runtime Instruction Morphing enhanced Synchronizable Co-simulation, 2023](https://www.usenix.org/system/files/usenixsecurity23-xu-jinyan.pdf)
+*   [MTSan: A Feasible and Practical Memory Sanitizer for Fuzzing COTS Binaries, 2023](https://www.usenix.org/system/files/usenixsecurity23-chen-xingman.pdf)
+*   [PolyFuzz: Holistic Greybox Fuzzing of Multi-Language Systems, 2023](https://www.usenix.org/system/files/usenixsecurity23-li-wen.pdf)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
-*   [Fuzz on the Beach: Fuzzing Solana Smart Contracts, 2023](https://arxiv.org/pdf/2309.03006.pdf)
-*   [NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic, 2023](https://secsys.fudan.edu.cn/_upload/article/files/56/ed/788960544d56a38258aca7d3c8b5/216e599a-d6f6-4308-aa0b-ef45166a8431.pdf)
-*   [Profile-Driven System Optimizations for Accelerated Greybox Fuzzing, 2023](https://users.cs.utah.edu/~snagy/papers/23CCS.pdf)
-*   [Hopper: Interpretative Fuzzing for Libraries, 2023](https://arxiv.org/pdf/2309.03496.pdf)
-*   [Greybox Fuzzing of Distributed Systems, 2023](https://arxiv.org/pdf/2305.02601.pdf)
+*   [A Qualitative Analysis of Fuzzer Usability and Challenges, 2025](https://dl.acm.org/doi/10.1145/3719027.3765055)
+*   [ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory, 2025](https://dl.acm.org/doi/10.1145/3719027.3765129)
+*   [DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction, 2025](https://dl.acm.org/doi/10.1145/3719027.3765167)
+*   [Error Messages to Fuzzing: Detecting XPS Parsing Vulnerabilities in Windows Printing Components, 2025](https://dl.acm.org/doi/10.1145/3719027.3744807)
+*   [Fuzzing Processing Pipelines for Zero-Knowledge Circuits, 2025](https://dl.acm.org/doi/10.1145/3719027.3744791)
+*   [Intent-aware Fuzzing for Android Hardened Application, 2025](https://dl.acm.org/doi/10.1145/3719027.3744858)
+*   [PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models, 2025](https://dl.acm.org/doi/10.1145/3719027.3765222)
+*   [Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks, 2025](https://dl.acm.org/doi/10.1145/3719027.3765125)
+*   [RVISmith: Fuzzing Compilers for RVV Intrinsics, 2025](https://dl.acm.org/doi/10.1145/3719027.3744790)
+*   [SyzParam: Incorporating Runtime Parameters into Kernel Driver Fuzzing, 2025](https://dl.acm.org/doi/10.1145/3719027.3744838)
+*   [SyzSpec: Specification Generation for Linux Kernel Fuzzing via Under-Constrained Symbolic Execution, 2025](https://dl.acm.org/doi/10.1145/3719027.3744811)
+*   [Collapse Like A House of Cards: Hacking Building Automation System Through Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690216)
+*   [CountDown: Refcount-guided Fuzzing for Exposing Temporal Memory Errors in Linux Kernel, 2024](https://dl.acm.org/doi/10.1145/3658644.3690320)
+*   [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon, 2024](https://dl.acm.org/doi/10.1145/3658644.3690376)
+*   [DarthShader: Fuzzing WebGPU Shader Translators & Compilers, 2024](https://dl.acm.org/doi/10.1145/3658644.3690209)
+*   [FOX: Coverage-guided Fuzzing as Online Stochastic Control, 2024](https://dl.acm.org/doi/10.1145/3658644.3670362)
+*   [Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690278)
+*   [FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache, 2024](https://dl.acm.org/doi/10.1145/3658644.3670278)
+*   [Fuzzing JavaScript Engines with a Graph-based IR, 2024](https://dl.acm.org/doi/10.1145/3658644.3690336)
+*   [Leveraging Binary Coverage for Effective Generation Guidance in Kernel Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690232)
+*   [LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT, 2024](https://dl.acm.org/doi/10.1145/3658644.3670276)
+*   [No Peer, no Cry: Network Application Fuzzing via Fault Injection, 2024](https://dl.acm.org/doi/10.1145/3658644.3690274)
+*   [On Understanding and Forecasting Fuzzers Performance with Static Analysis, 2024](https://dl.acm.org/doi/10.1145/3658644.3670348)
+*   [OSmart: Whitebox Program Option Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690228)
+*   [Program Environment Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690229)
+*   [Prompt Fuzzing for Fuzz Driver Generation, 2024](https://dl.acm.org/doi/10.1145/3658644.3670396)
+*   [ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model, 2024](https://dl.acm.org/doi/10.1145/3658644.3690231)
+*   [RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces, 2024](https://dl.acm.org/doi/10.1145/3658644.3670320)
+*   [RIoTFuzzer: Companion App Assisted Remote Fuzzing for Detecting Vulnerabilities in IoT Devices, 2024](https://dl.acm.org/doi/10.1145/3658644.3670342)
+*   [Toss a Fault to BpfChecker: Revealing Implementation Flaws for eBPF runtimes with Differential Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3658644.3690237)
+*   [DSFuzz: Detecting Deep State Bugs with Dependent State Exploration, 2023](https://dl.acm.org/doi/10.1145/3576915.3616594)
+*   [Fuzz on the Beach: Fuzzing Solana Smart Contracts, 2023](https://dl.acm.org/doi/10.1145/3576915.3623178)
+*   [Greybox Fuzzing of Distributed Systems, 2023](https://dl.acm.org/doi/10.1145/3576915.3623097)
+*   [Hopper: Interpretative Fuzzing for Libraries, 2023](https://dl.acm.org/doi/10.1145/3576915.3616610)
+*   [Lifting Network Protocol Implementation to Precise Format Specification with Security Applications, 2023](https://dl.acm.org/doi/10.1145/3576915.3616614)
+*   [NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic, 2023](https://dl.acm.org/doi/10.1145/3576915.3623103)
+*   [Profile-guided System Optimizations for Accelerated Greybox Fuzzing, 2023](https://dl.acm.org/doi/10.1145/3576915.3616636)
+*   [PyRTFuzz: Detecting Bugs in Python Runtimes via Two-Level Collaborative Fuzzing, 2023](https://dl.acm.org/doi/10.1145/3576915.3623166)
+*   [SyzDirect: Directed Greybox Fuzzing for Linux Kernel, 2023](https://dl.acm.org/doi/10.1145/3576915.3623146)
+
+### Tools / Kernel
+
+*   [ACTOR (⭐39)](https://github.com/ucsb-seclab/actor) (2023) - An action-guided kernel fuzzing framework that generates inputs leveraging triggered actions and their temporal relationships.
+*   [NTFuzz (⭐110)](https://github.com/SoftSec-KAIST/NTFuzz) (2021) - A type-aware Windows kernel fuzzer that statically analyzes system binaries to infer system call types for more effective fuzzing.
+*   [KRACE (⭐32)](https://github.com/sslab-gatech/krace) (2020) - A coverage-guided fuzzing framework that detects data races in kernel file systems by exploring concurrency through multi-threaded syscall sequences.
+*   [Razzer (⭐379)](https://github.com/compsec-snu/razzer) (2019) - A kernel fuzzer that uses static analysis and two-phase fuzzing to detect race conditions and concurrency bugs in Linux kernels.
+*   [Hydra (⭐173)](https://github.com/sslab-gatech/hydra) (2019) - A fuzzing framework for automatically discovering semantic bugs in file systems using input mutators, feedback engines, and customizable checkers.
+*   [Janus (⭐234)](https://github.com/sslab-gatech/janus) (2019) - A file system fuzzer that finds memory corruptions in Linux kernel file systems by mutating both filesystem images and syscall sequences simultaneously.
+*   [DIFUZE (⭐384)](https://github.com/ucsb-seclab/difuze) (2017) - An interface-aware fuzzer for Linux kernel drivers that automatically recovers ioctl interfaces via LLVM analysis and generates targeted test cases.
+*   [IMF (⭐111)](https://github.com/SoftSec-KAIST/IMF) (2017) - A kernel API fuzzer that leverages automated API model inference to discover vulnerabilities in macOS kernel APIs.
+*   [kAFL (⭐592)](https://github.com/rub-syssec/kafl) (2017) - A hardware-assisted x86-64 VM kernel fuzzing framework with performant VM reloads for finding OS kernel vulnerabilities.
+*   [syzkaller (⭐6.1k)](https://github.com/google/syzkaller) (2015) - An unsupervised coverage-guided kernel fuzzer supporting FreeBSD, Fuchsia, gVisor, Linux, NetBSD, OpenBSD, and Windows.
+*   [Trinity (⭐901)](https://github.com/kernelslacker/trinity) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
+
+## [Nov 20, 2023](/content/2023/11/20/README.md)
 
 ### Tools / API
 
-*   [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - IvySyn is a fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
-*   [MINER (⭐43)](https://github.com/puppet-meteor/MINER) - MINER is a REST API fuzzer that utilizes three data-driven designs working together to guide the sequence generation, improve the request generation quality, and capture the unique errors caused by incorrect parameter usage.
-*   [RestTestGen (⭐62)](https://github.com/SeUniVr/RestTestGen) - RestTestGen is a robust tool and framework designed for automated black-box testing of RESTful web APIs.
-*   [GraphFuzz (⭐10)](https://github.com/ForAllSecure/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
-*   [Minerva (⭐35)](https://github.com/ChijinZ/Minerva) - Minerva is a browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
-*   [FANS (⭐266)](https://github.com/iromise/fans) - FANS is a fuzzing tool for fuzzing Android native system services. It contains four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
+*   [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - A fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
+*   [MINER (⭐43)](https://github.com/puppet-meteor/MINER) - A REST API fuzzer that utilizes three data-driven designs working together to guide sequence generation, improve request generation quality, and capture unique errors caused by incorrect parameter usage.
+*   [RestTestGen (⭐62)](https://github.com/SeUniVr/RestTestGen) - A robust tool and framework designed for automated black-box testing of RESTful web APIs.
+*   [GraphFuzz (⭐10)](https://github.com/ForAllSecure/GraphFuzz) - An experimental framework for building structure-aware, library API fuzzers.
+*   [Minerva (⭐35)](https://github.com/ChijinZ/Minerva) - A browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
+*   [FANS (⭐266)](https://github.com/iromise/fans) - A fuzzing tool for Android native system services with four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
 
 ### Tools / CPU
 
-*   [DifuzzRTL (⭐101)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification.
-*   [MorFuzz (⭐50)](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
-*   [SpecFuzz (⭐31)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities
-*   [Transynther (⭐19)](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
+*   [DifuzzRTL (⭐101)](https://github.com/compsec-snu/difuzz-rtl) - A differential fuzz testing approach for CPU verification.
+*   [MorFuzz (⭐50)](https://github.com/sycuricon/MorFuzz) - A generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
+*   [SpecFuzz (⭐31)](https://github.com/tudinfse/SpecFuzz) - A tool to enable fuzzing for Spectre vulnerabilities.
+*   [Transynther (⭐19)](https://github.com/vernamlab/Medusa) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 
 ### Tools / Web
 
-*   [TEFuzz (⭐18)](https://github.com/seclab-fudan/TEFuzz/) - TEFuzz is a tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
-*   [Witcher (⭐103)](https://github.com/sefcom/Witcher) - Witcher is a web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
-*   [CorbFuzz (⭐6)](https://github.com/shouc/corbfuzz) - CorbFuzz is a state-aware fuzzer for generating as much reponses from a web application as possible without need of setting up database, etc.
+*   [TEFuzz (⭐18)](https://github.com/seclab-fudan/TEFuzz/) - A tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
+*   [Witcher (⭐103)](https://github.com/sefcom/Witcher) - A web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
+*   [CorbFuzz (⭐6)](https://github.com/shouc/corbfuzz) - A state-aware fuzzer for generating as many responses from a web application as possible without need of setting up a database.
 
 ### Tools / Blockchain
 
-*   [Fluffy (⭐62)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
-*   [LOKI (⭐20)](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
+*   [Fluffy (⭐62)](https://github.com/snuspl/fluffy) - A multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
+*   [LOKI (⭐20)](https://github.com/ConsensusFuzz/LOKI) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
 
 ### Tools / DBMS
 
-*   [Squirrel (⭐211)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
+*   [Squirrel (⭐211)](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
 ### Tools / File
 
-*   [AFL++ (⭐6.4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
-*   [Angora (⭐955)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
+*   [AFL++ (⭐6.4k)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL with more speed, more and better mutations, more and better instrumentation, and custom module support.
+*   [Angora (⭐955)](https://github.com/AngoraFuzzer/Angora) - A mutation-based coverage guided fuzzer that increases branch coverage by solving path constraints without symbolic execution.
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -188,7 +318,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Talks
 
-*   [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ), Youtube
+*   [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ) - YouTube.
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -259,16 +389,15 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Talks
 
-*   [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8), Black Hat Europe 2016
-*   [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0), NYU Talk 2018
-*   [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo), NDC Conferences 2018
+*   [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8) - Black Hat Europe 2016.
+*   [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0) - NYU Talk 2018.
+*   [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo) - NDC Conferences 2018.
 
 ## [Jul 10, 2019](/content/2019/07/10/README.md)
 
 ### Books
 
-*   [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) -
-    Actually, this document is a paper, but it contains more important and essential content than any other book.
+*   [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - Actually, this document is a paper, but it contains more important and essential content than any other book.
 
 ### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
 

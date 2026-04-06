@@ -6,6 +6,24 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 06, 2026](/content/2026/04/06/README.md)
+
+### Applications
+
+*   [OxideTerm (⭐214)](https://github.com/AnalyseDeCircuit/oxideterm) - A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages. [![CI](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml/badge.svg)](https://github.com/AnalyseDeCircuit/oxideterm/actions/workflows/ci.yml)
+
+### Applications / Blockchain
+
+*   [equilibriumco/beerus (⭐264)](https://github.com/equilibriumco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/equilibriumco/beerus/actions/workflows/check.yml/badge.svg)](https://github.com/equilibriumco/beerus/actions/workflows/check.yml)
+
+### Applications / Utilities
+
+*   [Water-Run/treepp (⭐68)](https://github.com/Water-Run/treepp) - A Rust-based native Windows `tree` replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and `.gitignore` support, and several-times faster performance.
+
+### Libraries / Data processing
+
+*   [DataBora/elusion (⭐133)](https://github.com/DataBora/elusion) \[[elusion](https://crates.io/crates/elusion)] - An end-to-end data engineering DataFrame library built on DataFusion, with connectors for Microsoft Fabric, Azure, SharePoint, FTP, Postgres, MySQL, and REST APIs
+
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
 ### Applications / Productivity
@@ -98,13 +116,13 @@ A curated list of Rust code and resources.
 
 ### Libraries / Email
 
-*   [reacherhq/check-if-email-exists (⭐8.5k)](https://github.com/reacherhq/check-if-email-exists) \[[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions)
+*   [reacherhq/check-if-email-exists (⭐8.6k)](https://github.com/reacherhq/check-if-email-exists) \[[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions)
 
 ## [Mar 21, 2026](/content/2026/03/21/README.md)
 
 ### Applications / Web Servers
 
-*   [vetis-server/vetis (⭐104)](https://github.com/vetis-server/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
+*   [vetis-server/vetis (⭐108)](https://github.com/vetis-server/vetis) - A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!
 
 ### Development tools / Tunnel
 
@@ -112,12 +130,12 @@ A curated list of Rust code and resources.
 
 ### Libraries / Computation
 
-*   [alphaville/optimization-engine (⭐618)](https://github.com/alphaville/optimization-engine) \[[optimization-engine](https://crates.io/crates/optimization_engine)] - Optimization Engine (OpEn) is a solver for constrained nonconvex optimization problems [![Continuous integration](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml)
+*   [alphaville/optimization-engine (⭐621)](https://github.com/alphaville/optimization-engine) \[[optimization-engine](https://crates.io/crates/optimization_engine)] - Optimization Engine (OpEn) is a solver for constrained nonconvex optimization problems [![Continuous integration](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/alphaville/optimization-engine/actions/workflows/ci.yml)
 
 ### Libraries / Data structures
 
 *   [alrevuelta/rs-merkle-tree (⭐225)](https://github.com/alrevuelta/rs-merkle-tree) - Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.
-*   [ashvardanian/NumKong (⭐1.7k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/NumKong (⭐1.8k)](https://github.com/ashvardanian/NumKong) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
@@ -239,26 +257,26 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [temps (⭐287)](https://github.com/gotempsh/temps) - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
+*   [temps (⭐382)](https://github.com/gotempsh/temps) - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
 
 ### Applications / Database
 
-*   [sabiql (⭐147)](https://github.com/riii111/sabiql) \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml)
+*   [sabiql (⭐156)](https://github.com/riii111/sabiql) \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml)
 
 ### Applications / Productivity
 
-*   [max-sixty/worktrunk (⭐3.6k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
+*   [max-sixty/worktrunk (⭐4.2k)](https://github.com/max-sixty/worktrunk) \[[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main\&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
 
 ## [Mar 05, 2026](/content/2026/03/05/README.md)
 
 ### Applications / Security tools
 
-*   [EFForg/rayhunter (⭐5k)](https://github.com/EFForg/rayhunter) - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml)
+*   [EFForg/rayhunter (⭐5.1k)](https://github.com/EFForg/rayhunter) - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml)
 *   [sherlock (⭐54)](https://github.com/jonaylor89/sherlock-rs) \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 
 ### Applications / Utilities
 
-*   [ruvnet/RuView (⭐39k)](https://github.com/ruvnet/RuView) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
+*   [ruvnet/RuView (⭐46k)](https://github.com/ruvnet/RuView) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
 
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 
@@ -396,7 +414,7 @@ A curated list of Rust code and resources.
 
 ### Applications / File manager
 
-*   [spacedriveapp/spacedrive (⭐37k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
+*   [spacedriveapp/spacedrive (⭐38k)](https://github.com/spacedriveapp/spacedrive) - A file manager built on a virtual distributed filesystem.
 
 ### Libraries / Artificial Intelligence
 
@@ -406,7 +424,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [lzanini/mdbook-katex (⭐243)](https://github.com/lzanini/mdbook-katex) \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook (⭐21k)](https://github.com/rust-lang/mdBook), using KaTeX to render LaTeX math expressions.
+*   [lzanini/mdbook-katex (⭐244)](https://github.com/lzanini/mdbook-katex) \[[mdbook-katex](https://crates.io/crates/mdbook-katex)] - A preprocessor for [mdBook (⭐21k)](https://github.com/rust-lang/mdBook), using KaTeX to render LaTeX math expressions.
 
 ## [Feb 16, 2026](/content/2026/02/16/README.md)
 
@@ -556,7 +574,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [LargeModGames/spotatui (⭐477)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
+*   [LargeModGames/spotatui (⭐535)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
 ## [Dec 26, 2025](/content/2025/12/26/README.md)
 
@@ -768,7 +786,7 @@ A curated list of Rust code and resources.
     *   [ratatui-org/ratatui (⭐19k)](https://github.com/ratatui/ratatui) \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
     *   [redox-os/termion (⭐2.2k)](https://github.com/redox-os/termion) \[[termion](https://crates.io/crates/termion)] - bindless library for controlling terminals/TTY
     *   [ruterm](https://crates.io/crates/ruterm) - tiny & simple library for working with TTY
-    *   [subinium/SuperLightTUI (⭐65)](https://github.com/subinium/SuperLightTUI) \[[superlighttui](https://crates.io/crates/superlighttui)] - Immediate-mode TUI library with 50+ widgets, flexbox layout, and animation system [![CI](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml/badge.svg)](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml)
+    *   [subinium/SuperLightTUI (⭐81)](https://github.com/subinium/SuperLightTUI) \[[superlighttui](https://crates.io/crates/superlighttui)] - Immediate-mode TUI library with 50+ widgets, flexbox layout, and animation system [![CI](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml/badge.svg)](https://github.com/subinium/SuperLightTUI/actions/workflows/ci.yml)
     *   Termbox
         *   [gchp/rustbox (⭐469)](https://github.com/gchp/rustbox) \[[rustbox](https://crates.io/crates/rustbox)] - bindings to [Termbox (⭐2k)](https://github.com/nsf/termbox)
     *   [TimonPost/crossterm (⭐4k)](https://github.com/crossterm-rs/crossterm) \[[crossterm](https://crates.io/crates/crossterm)] - crossplatform terminal library
@@ -1195,7 +1213,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [television (⭐4.7k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
+*   [television (⭐5.6k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
 
 ### Applications / Web Servers
 
@@ -2003,12 +2021,6 @@ A curated list of Rust code and resources.
 
 *   [Qrlew/qrlew (⭐47)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
 
-## [Jan 20, 2024](/content/2024/01/20/README.md)
-
-### Applications / Blockchain
-
-*   [beerus (⭐264)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/check.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/check.yml)
-
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
 ### Applications / Security tools
@@ -2059,7 +2071,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐35k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐36k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
@@ -3377,7 +3389,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Bartib (⭐821)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐823)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
@@ -4481,10 +4493,10 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐909)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐910)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐2.1k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [git-journal (⭐645)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
-*   [just (⭐32k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [just (⭐33k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) - code completion for Rust
 
 ### Development tools / Build system
@@ -4953,7 +4965,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of du
+*   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of du
 
 ### Applications / Utilities
 
@@ -5185,7 +5197,7 @@ A curated list of Rust code and resources.
     *   [sauron (⭐2.1k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
-    *   [synphonyte/leptos-use (⭐460)](https://github.com/synphonyte/leptos-use) \[[leptos-use](https://crates.io/crates/leptos-use)] - Collection of essential Leptos utilities inspired by React-Use and VueUse, with SSR support [![Build Status](https://github.com/synphonyte/leptos-use/actions/workflows/cd.yml/badge.svg)](https://github.com/synphonyte/leptos-use/actions/workflows/cd.yml)
+    *   [synphonyte/leptos-use (⭐464)](https://github.com/synphonyte/leptos-use) \[[leptos-use](https://crates.io/crates/leptos-use)] - Collection of essential Leptos utilities inspired by React-Use and VueUse, with SSR support [![Build Status](https://github.com/synphonyte/leptos-use/actions/workflows/cd.yml/badge.svg)](https://github.com/synphonyte/leptos-use/actions/workflows/cd.yml)
     *   [thaw-ui/thaw (⭐573)](https://github.com/thaw-ui/thaw) \[[thaw](https://crates.io/crates/thaw)] - An easy to use Leptos component library based on Fluent Design
     *   [tinyweb (⭐100)](https://github.com/LiveDuo/tinyweb) - A minimal Rust web framework for wasm in 800 lines of code
     *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
