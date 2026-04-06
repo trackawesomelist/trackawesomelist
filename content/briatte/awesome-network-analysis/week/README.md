@@ -6,6 +6,12 @@ A curated list of awesome network analysis resources.
 
 [ [Daily](/content/briatte/awesome-network-analysis/README.md) / Weekly / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Books / Software-specific
+
+*   *[R for Social Network Analysis](https://schochastics.github.io/R4SNA/)* (R4SNA), by Termeh Shafie and David Schoch (work in progress).
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Professional Groups / Research Groups (Other)

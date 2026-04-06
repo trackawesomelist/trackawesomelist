@@ -6,6 +6,13 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Python
+
+*   [BeeWare Briefcase (⭐3.2k)](https://github.com/beeware/briefcase) *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
+*   [Mem0 (⭐51k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### TypeScript
@@ -201,7 +208,6 @@ A list of awesome beginners-friendly projects.
 ### Python
 
 *   [SuperDuperDB (⭐5.3k)](https://github.com/SuperDuperDB/superduperdb) *(label: good first issue)* <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
-*   [Embedchain (⭐52k)](https://github.com/embedchain/embedchain/) *(label: good first issue)* <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 *   [OMRChecker (⭐1k)](https://github.com/Udayraj123/OMRChecker) *(label: good first issue)* <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
 
 ### PHP
@@ -295,7 +301,6 @@ A list of awesome beginners-friendly projects.
 *   [ReactiveSearch (⭐4.9k)](https://github.com/appbaseio/reactivesearch) *(label: good first issue-:wave:)* <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 *   [serverless (⭐47k)](https://github.com/serverless/serverless) *(label: good first issue)* <br> The Serverless Framework
 *   [stryker (⭐2.8k)](https://github.com/stryker-mutator/stryker) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
-*   [Superalgos (⭐5.4k)](https://github.com/Superalgos/Superalgos) *(label: good first issue)* <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 *   [Svelte (⭐86k)](https://github.com/sveltejs/svelte) *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 *   [swag-for-dev (⭐4.4k)](https://github.com/swapagarwal/swag-for-dev) *(label: good first issue)* <br> Swag opportunities for developers.
 *   [Vest (⭐2.7k)](https://github.com/ealush/vest) *(label: good first issue)* <br> Validations framework inspired by unit testing frameworks.
@@ -429,7 +434,6 @@ A list of awesome beginners-friendly projects.
 
 ### Rust
 
-*   [a-b-street (⭐8.1k)](https://github.com/a-b-street/abstreet) *(label: good first issue)* <br> Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
 *   [dotenv-linter (⭐2.1k)](https://github.com/dotenv-linter/dotenv-linter) *(label: good first issue)* <br> Lightning-fast linter for .env files. Written in Rust
 *   [Hyper (⭐16k)](https://github.com/hyperium/hyper) *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
 *   [nushell (⭐39k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.

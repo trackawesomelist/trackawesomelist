@@ -213,7 +213,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [serverless (⭐47k)](https://github.com/serverless/serverless) *(label: good first issue)* <br> The Serverless Framework
 *   [Storybook JS (⭐90k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 *   [stryker (⭐2.8k)](https://github.com/stryker-mutator/stryker) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
-*   [Superalgos (⭐5.4k)](https://github.com/Superalgos/Superalgos) *(label: good first issue)* <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 *   [Svelte (⭐86k)](https://github.com/sveltejs/svelte) *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 *   [swag-for-dev (⭐4.4k)](https://github.com/swapagarwal/swag-for-dev) *(label: good first issue)* <br> Swag opportunities for developers.
 *   [The Odin Project Curriculum (⭐12k)](https://github.com/TheOdinProject/curriculum) *(label: See Description)* <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
@@ -286,6 +285,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [activist (⭐654)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 *   [Ansible (⭐68k)](https://github.com/ansible/ansible) *(label: easyfix)* <br> A simple IT automation platform
 *   [ArviZ (⭐1.8k)](https://github.com/arviz-devs/arviz) *(label: Beginner)* <br> Exploratory Analysis of Bayesian Models.
+*   [BeeWare Briefcase (⭐3.2k)](https://github.com/beeware/briefcase) *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
 *   [Bokeh (⭐20k)](https://github.com/bokeh/bokeh) *(label: good first issue)* <br> Bokeh is an interactive visualization library for modern web browsers.
 *   [BorgBackup (⭐13k)](https://github.com/borgbackup/borg) *(label: easy)* <br> Deduplicating backup program with compression and authenticated encryption.
 *   [CiviWiki (⭐620)](https://github.com/CiviWiki/OpenCiviWiki) *(label: good first issue)* <br> Building a Better Democracy for the Internet Age
@@ -295,7 +295,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Devopness (⭐367)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
 *   [django cookiecutter (⭐13k)](https://github.com/pydanny/cookiecutter-django) *(label: hacktoberfest)* <br> An implementation of Python for backend web development.
 *   [DocsGPT (⭐18k)](https://github.com/arc53/DocsGPT) *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
-*   [Embedchain (⭐52k)](https://github.com/embedchain/embedchain/) *(label: good first issue)* <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 *   [Fabric (⭐15k)](https://github.com/fabric/fabric) *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
 *   [FastAPI (⭐97k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
 *   [H2O Wave (⭐4.2k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
@@ -304,6 +303,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Jupyter notebook (⭐13k)](https://github.com/jupyter/notebook) *(label: good first issue)* <br> Jupyter interactive notebook.
 *   [Kinto (⭐4.4k)](https://github.com/Kinto/kinto) *(label: easy-pick)* <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 *   [matplotlib (⭐23k)](https://github.com/matplotlib/matplotlib) *(label: good first issue)* <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+*   [Mem0 (⭐51k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
 *   [MindsDB (⭐39k)](https://github.com/mindsdb/mindsdb) *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
 *   [mitmproxy (⭐43k)](https://github.com/mitmproxy/mitmproxy) *(label: help-wanted)* <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 *   [mygpo (⭐302)](https://github.com/gpodder/mygpo) *(label: starter-issue)* <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
@@ -342,7 +342,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Rust
 
-*   [a-b-street (⭐8.1k)](https://github.com/a-b-street/abstreet) *(label: good first issue)* <br> Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
 *   [dotenv-linter (⭐2.1k)](https://github.com/dotenv-linter/dotenv-linter) *(label: good first issue)* <br> Lightning-fast linter for .env files. Written in Rust
 *   [Hyper (⭐16k)](https://github.com/hyperium/hyper) *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
 *   [nushell (⭐39k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.

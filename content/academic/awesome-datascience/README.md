@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 06, 2026](/content/2026/04/06/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.
+*   [ZipCheckup (⭐1)](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
+
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
 ### Tutorials

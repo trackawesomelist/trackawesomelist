@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 06, 2026](/content/2026/04/06/README.md)
+
+### Workflow / Competitive Programming
+
+*   [emrearmagan/atlas.nvim (⭐13)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
+
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
 ### LSP

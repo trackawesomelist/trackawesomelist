@@ -6,12 +6,18 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Apr 06, 2026](/content/2026/04/06/README.md)
+
+### Platforms and Software Resources / AI in Planning Tools and Platforms
+
+*   [vLLM](https://docs.vllm.ai/en/latest/) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Folium (⭐7.4k)](https://github.com/python-visualization/folium) - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
-*   [Linref (⭐9)](https://github.com/tariqshihadah/linref)- A library that builds on tabular and geospatial libraries pandas and geopandas to implement powerful features for linearly referenced data through event collection objects.
+*   [Linref (⭐9)](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects.
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 

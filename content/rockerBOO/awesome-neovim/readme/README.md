@@ -1861,6 +1861,7 @@ then it is not supported:
 *   [saxon1964/neovim-tips (⭐453)](https://github.com/saxon1964/neovim-tips) - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
 *   [ecthelionvi/NeoComposer.nvim (⭐418)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 *   [yagiziskirik/AirSupport.nvim (⭐10)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+*   [emrearmagan/atlas.nvim (⭐13)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
 
 ### Stats Tracking
 

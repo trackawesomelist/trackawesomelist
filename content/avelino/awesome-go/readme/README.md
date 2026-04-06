@@ -1223,7 +1223,7 @@ additional ordered map implementations.
 *   [coinpaprika-api-go-client (⭐26)](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 *   [go-nowpayments (⭐5)](https://github.com/matm/go-nowpayments) - Library for the crypto NOWPayments API.
 *   [gobl (⭐268)](https://github.com/invopop/gobl) - Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
-*   [indicator (⭐828)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
+*   [indicator (⭐836)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 *   [ledger (⭐1.2k)](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
 *   [money (⭐50)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 *   [ofxgo (⭐147)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
@@ -3067,6 +3067,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [ggc (⭐275)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 *   [git2go (⭐2k)](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 *   [githooks (⭐122)](https://github.com/gabyx/githooks) - Per-repo and shared Git hooks with version control and auto update.
+*   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
 *   [go-git (⭐7.3k)](https://github.com/go-git/go-git) - highly extensible Git implementation in pure Go.
 *   [go-vcs (⭐80)](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 *   [hercules (⭐2.8k)](https://github.com/src-d/hercules) - gaining advanced insights from Git repository history.

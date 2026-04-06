@@ -397,7 +397,7 @@ Python Libraries & Related Resources.
 *   [TerraVide](https://pypi.org/project/TerraVide/) - An open source Python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 *   [Dash](https://dash.plotly.com/) - An open source Python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 *   [Neatnet (⭐152)](https://github.com/uscuni/neatnet) - An open source library for simplifying the structure of street networks.
-*   [Linref (⭐9)](https://github.com/tariqshihadah/linref)- A library that builds on tabular and geospatial libraries pandas and geopandas to implement powerful features for linearly referenced data through event collection objects.
+*   [Linref (⭐9)](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects.
 
 ### R
 
@@ -463,6 +463,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 *   [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
 *   [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
 *   [Roboflow](https://roboflow.com/) - A cloud based platform engineered to accelerate computer vision model development and deployment that can help build public sector applications.
+*   [vLLM](https://docs.vllm.ai/en/latest/) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ### Digital Twins Tools and Platforms
 

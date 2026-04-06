@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ [Daily](/content/Piebald-AI/awesome-gemini-cli/README.md) / Weekly / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Agent Orchestration & CLI Tools
+
+*   [clideck (⭐35)](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Agent Orchestration & CLI Tools
@@ -32,16 +38,16 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Frameworks
 
-*   [Maestro (⭐186)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
+*   [Maestro (⭐277)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
 
 ### Commands & Extensions
 
-*   [Task Monitor (⭐1)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
+*   [Task Monitor (⭐3)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
 *   [ATXP (⭐15)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
 
 ### Development Tools & Utilities
 
-*   [Signum (⭐10)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
+*   [Signum (⭐12)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
 *   [agnix (⭐135)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 *   [Gemini Dockerized CLI (⭐4)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 

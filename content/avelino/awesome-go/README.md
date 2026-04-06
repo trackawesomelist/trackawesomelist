@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 06, 2026](/content/2026/04/06/README.md)
+
+### Version Control
+
+*   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
+
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
 ### Hardware
@@ -21,7 +27,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [indicator (⭐828)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
+*   [indicator (⭐836)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 
 ### Job Scheduler
 

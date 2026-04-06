@@ -51,9 +51,9 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐9
 
 ## :tada: New
 
-*   [Maestro (⭐186)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
-*   [Task Monitor (⭐1)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
-*   [Signum (⭐10)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
+*   [Maestro (⭐277)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
+*   [Task Monitor (⭐3)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
+*   [Signum (⭐12)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
 *   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
 *   [ATXP (⭐15)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
 *   [Untether (⭐25)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
@@ -119,13 +119,14 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 *   [wolfpack (⭐20)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
 *   [Untether (⭐25)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
 *   [Parallel Code (⭐470)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+*   [clideck (⭐35)](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.
 
 ## Commands & Extensions
 
 **👉 See also: [Awesome Gemini CLI Extensions (⭐46)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
 Custom commands and extensions that add new capabilities to Gemini CLI.
 
-*   [Task Monitor (⭐1)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
+*   [Task Monitor (⭐3)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
 *   [ATXP (⭐15)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
 *   [brooks-lint (⭐10)](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in six classic engineering books. Diagnoses decay risks with structured findings (Symptom → Source → Consequence → Remedy).
 *   [gemini-notifier (⭐21)](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.
@@ -168,7 +169,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 *   [Splitrail (⭐141)](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
 *   [ccmanager (⭐976)](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
 *   [Gemini CLI Logs Prettifier (⭐12)](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
-*   [Signum (⭐10)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
+*   [Signum (⭐12)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
 
 ## Browser Extensions
 
@@ -223,7 +224,7 @@ Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
 Frameworks for building AI-powered development workflows with Gemini CLI.
 
-*   [Maestro (⭐186)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
+*   [Maestro (⭐277)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
 *   [GACUA (⭐128)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
 *   [gemini-code-flow (⭐148)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 *   [gemini-cli-commands-demo (⭐92)](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.
