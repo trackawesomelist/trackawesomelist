@@ -17,6 +17,21 @@
 *   [Using WebPagetest](https://www.oreilly.com/library/view/using-webpagetest/9781491902783/) - Rick Viscomi, Andy Davies, Marcel Duran
 *   [Web Performance Tuning](https://www.oreilly.com/library/view/web-performance-tuning/059600172X/) - Patrick Killelea
 
+### Analyzers / Meetups
+
+*   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
+*   [Redirect Checker (⭐0)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
+
+### Real User Monitoring / Meetups
+
+*   [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+*   [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+*   [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+*   [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+*   [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+*   [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+*   [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
+
 ### Benchmark - JavaScript / Meetups
 
 *   [JSBench](https://jsbench.me/) - A modern browser-based JavaScript benchmarking tool for quickly creating and sharing performance tests.

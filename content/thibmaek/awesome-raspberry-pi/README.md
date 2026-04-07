@@ -6,6 +6,23 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Apr 07, 2026](/content/2026/04/07/README.md)
+
+### OS Images
+
+*   [GlowBarn OS (⭐1)](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-4.png)
+
+### Tools
+
+*   [Rpi MQTT Monitor (⭐291)](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
+
+### Projects
+
+*   [Cama-Camel Pack (⭐30)](https://github.com/Barqawiz/iot_watering_system) - A home-based irrigation system for efficient plant care using IoT.
+*   [HookProbe (⭐23)](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
+*   [idle-less (⭐16)](https://github.com/tvup/idle-less) - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
+*   [Raspberry Pi Telegram Bot (⭐29)](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
+
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
 ### Projects
@@ -17,7 +34,7 @@
 
 ### Projects
 
-*   [ble-scale-sync (⭐38)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
+*   [ble-scale-sync (⭐41)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -29,7 +46,7 @@
 
 ### Projects
 
-*   [BotWave (⭐125)](https://github.com/dpipstudio/botwave/) - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [BotWave (⭐122)](https://github.com/dpipstudio/botwave/) - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -81,7 +98,7 @@
 
 ### Projects
 
-*   [Display\_Lib\_RPI (⭐40)](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
+*   [Display\_Lib\_RPI (⭐41)](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
 
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
@@ -104,7 +121,7 @@
 
 ### Tools
 
-*   [PiKISS (⭐987)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
+*   [PiKISS (⭐993)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
@@ -152,7 +169,7 @@
 
 ### OS Images
 
-*   [Mainsail OS (⭐716)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
+*   [Mainsail OS (⭐719)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
 
 ## [Jan 25, 2023](/content/2023/01/25/README.md)
 
@@ -238,7 +255,7 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐182)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐186)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
@@ -248,7 +265,7 @@
 
 ### Projects
 
-*   [USB Proxy (⭐253)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
+*   [USB Proxy (⭐255)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
 ## [Feb 08, 2022](/content/2022/02/08/README.md)
 
@@ -256,7 +273,7 @@
 
 *   [ndm (⭐81)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 *   [pistrong (⭐73)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐737)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [sdm (⭐741)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
@@ -285,13 +302,13 @@
 
 ### Tools
 
-*   [stressberry (⭐360)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐361)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [Nov 10, 2021](/content/2021/11/10/README.md)
 
 ### Projects
 
-*   [Haven (⭐761)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
+*   [Haven (⭐763)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
 
 ## [Nov 03, 2021](/content/2021/11/03/README.md)
 
@@ -348,7 +365,7 @@
 
 ### Projects
 
-*   [Raspberry Pi Dashboard (⭐357)](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
+*   [Raspberry Pi Dashboard (⭐358)](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
 
 ## [Jan 11, 2021](/content/2021/01/11/README.md)
 
@@ -360,7 +377,7 @@
 
 ### Projects
 
-*   [Lomorage (⭐237)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
+*   [Lomorage (⭐236)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -406,7 +423,7 @@
 
 ### OS Images
 
-*   [RasComm RaspberryPi MorseCode Translator (⭐12)](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
+*   [RasComm RaspberryPi MorseCode Translator (⭐13)](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 
 ## [Sep 17, 2020](/content/2020/09/17/README.md)
 
@@ -445,7 +462,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐197)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐198)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [Jul 03, 2020](/content/2020/07/03/README.md)
 
@@ -582,8 +599,8 @@
 
 *   [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 *   [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
-*   [DroneBridge (⭐906)](https://github.com/seeul8er/DroneBridge) - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
-*   [EZ-WifiBroadcast (⭐893)](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
+*   [DroneBridge (⭐912)](https://github.com/seeul8er/DroneBridge) - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [EZ-WifiBroadcast (⭐895)](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
 *   [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 *   [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
@@ -612,7 +629,7 @@
 
 *   [Alpha (⭐49)](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 *   [iotwifi (⭐312)](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
-*   [pi-gen (⭐3.1k)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
+*   [pi-gen (⭐3.2k)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 *   [PiShrink (⭐4k)](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 *   [RaspAP-webgui (⭐26)](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 *   [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
@@ -631,27 +648,27 @@
 *   [docsis-cable-load-monitor (⭐66)](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
 *   [FistBump BLE Edition (⭐50)](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
 *   [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
-*   [Hearing aid prototoype (⭐129)](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
-*   [Kubernetes on ARM (⭐601)](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+*   [Hearing aid prototoype (⭐128)](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [Kubernetes on ARM (⭐602)](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 *   [Looper/synth/drum thing (⭐1k)](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 *   [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 *   [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 *   [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 *   [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
-*   [NALIVATOR-9000 (⭐22)](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+*   [NALIVATOR-9000 (⭐21)](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
 *   [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
 *   [Occu-Pi (⭐10)](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
 *   [Pi Image Capturer (⭐13)](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
 *   [pi\_payments (⭐28)](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
-*   [pi-timolo (⭐579)](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
-*   [PiClock (⭐585)](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
+*   [pi-timolo (⭐580)](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
+*   [PiClock (⭐586)](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
 *   [PiFanTuner (⭐43)](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 *   [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 *   [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 *   [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
 *   [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
 *   [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
-*   [RPi Motor Library (⭐331)](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
+*   [RPi Motor Library (⭐332)](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 *   [RPI tempmon (⭐86)](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
 *   [SecPi (⭐260)](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 *   [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
@@ -729,7 +746,7 @@
 
 ### Projects
 
-*   [RaspiBlitz (⭐10)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
+*   [RaspiBlitz (⭐11)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 
 ## [Sep 16, 2018](/content/2018/09/16/README.md)
 

@@ -1,30 +1,97 @@
 # Awesome List Updates on Apr 07, 2026
 
-7 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Tools / Platforms
+
+*   [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Video
+
+*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### WebSocket
+
+*   [picows (⭐259)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
+
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+### OS Images
+
+*   [GlowBarn OS (⭐1)](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-4.png)
+
+### Tools
+
+*   [Rpi MQTT Monitor (⭐291)](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
+
+### Projects
+
+*   [Cama-Camel Pack (⭐30)](https://github.com/Barqawiz/iot_watering_system) - A home-based irrigation system for efficient plant care using IoT.
+*   [HookProbe (⭐23)](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
+*   [idle-less (⭐16)](https://github.com/tvup/idle-less) - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
+*   [Raspberry Pi Telegram Bot (⭐29)](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
+
+## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+
+### AI
+
+*   [FluadHTN (⭐10)](https://github.com/Safebox36/OdaiHTN) - A powerful hierarchical task network for AI planning.
+
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Files and Directories / Directory Listing
+
+*   [treepp (⭐68)](https://github.com/Water-Run/treepp) - Windows tree++.
+
+## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
+
+### Data Sources / Prediction Markets
+
+*   [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
+
+### Research Tools / Prediction Markets
+
+*   [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests U.S. STOCK Act congressional trade disclosures and converts them into machine-scored signals for retail investors.
+
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Misc
+
+*   [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/dailydotdev/daily)
+
+## [9. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Command Line Tools
 
 *   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-## [2. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Topology
 
 *   📝 [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Specialties
 
 *   [gems](https://ada-lang.io/docs/learn/lang/gems) - Ada Gem Archive.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -118,19 +185,24 @@
 
 *   [Mailpit (⭐9k)](https://github.com/axllent/mailpit) - An email and SMTP testing tool for developers.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Design and Product / Other Tools
+
+*   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/julyx10/lap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [CompressO (⭐2.6k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/codeforreal1/compressO) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
 *   [Cadran](https://cadranapp.com) - Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
 
-## [6. Magictools](/content/ellisonleao/magictools/README.md)
+## [14. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Voxel Editors
 
 *   :free: [Voxelle Desktop (⭐0)](https://github.com/Velfi/Voxelle-Desktop)
 
-## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [15. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 
@@ -140,6 +212,21 @@
 *   [Time Is Money: The Business Value of Web Performance](https://www.oreilly.com/library/view/time-is-money/9781491928783/) – Tammy Everts
 *   [Using WebPagetest](https://www.oreilly.com/library/view/using-webpagetest/9781491902783/) - Rick Viscomi, Andy Davies, Marcel Duran
 *   [Web Performance Tuning](https://www.oreilly.com/library/view/web-performance-tuning/059600172X/) - Patrick Killelea
+
+### Analyzers / Meetups
+
+*   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
+*   [Redirect Checker (⭐0)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
+
+### Real User Monitoring / Meetups
+
+*   [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+*   [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+*   [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+*   [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+*   [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+*   [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+*   [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
 ### Benchmark - JavaScript / Meetups
 

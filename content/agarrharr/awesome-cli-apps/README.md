@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 07, 2026](/content/2026/04/07/README.md)
+
+### Files and Directories / Directory Listing
+
+*   [treepp (⭐68)](https://github.com/Water-Run/treepp) - Windows tree++.
+
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
 ### Data Manipulation / Processors
@@ -46,11 +52,11 @@
 
 ### Entertainment
 
-*   [golazo (⭐391)](https://github.com/0xjuanma/golazo) - Soccer matches.
+*   [golazo (⭐397)](https://github.com/0xjuanma/golazo) - Soccer matches.
 
 ### AI / Agents
 
-*   [Shep (⭐43)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+*   [Shep (⭐118)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
@@ -66,7 +72,7 @@
 
 ### Development / Chat
 
-*   [mk (⭐124)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+*   [mk (⭐125)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Development / Docker
 
@@ -124,7 +130,7 @@
 
 ### Productivity / Testing
 
-*   [mynav (⭐229)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+*   [mynav (⭐232)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Productivity / Time Tracking
 
@@ -142,7 +148,7 @@
 
 ### Images / Image Conversion
 
-*   [gowall (⭐2k)](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
+*   [gowall (⭐2.1k)](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 *   [img2ascii (⭐64)](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ### Utilities / Shell Utilities
@@ -168,7 +174,7 @@
 
 ### Data Manipulation / Professional: Resume
 
-*   [sc-im (⭐5.4k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
+*   [sc-im (⭐5.6k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Files and Directories / Files
 
@@ -184,7 +190,7 @@
 
 ### Files and Directories / Search
 
-*   [srgn (⭐887)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
+*   [srgn (⭐888)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 *   [rawhide (⭐55)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 
 ### Version Control / Git
@@ -344,7 +350,7 @@
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐497)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐501)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -353,7 +359,7 @@
 ### Version Control / Git
 
 *   [ggc (⭐275)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
-*   [AI Git Narrator (⭐118)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
+*   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 
 ### Images / Image Conversion
 
@@ -367,7 +373,7 @@
 
 ### Files and Directories / Files
 
-*   [scc (⭐8.2k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+*   [scc (⭐8.3k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 
 ## [Aug 29, 2025](/content/2025/08/29/README.md)
 
@@ -583,7 +589,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐328)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐330)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [May 05, 2023](/content/2023/05/05/README.md)
 
@@ -758,7 +764,7 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐334)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐335)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
@@ -1591,7 +1597,7 @@
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐157)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐2.6k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [mpd (⭐2.7k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 *   [musikcube (⭐4.7k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 

@@ -8,6 +8,11 @@
 
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
+### Design and Product / Other Tools
+
+*   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/julyx10/lap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [CompressO (⭐2.6k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/codeforreal1/compressO) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / General Tools
 
 *   [Cadran](https://cadranapp.com) - Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
@@ -266,11 +271,11 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AXe (⭐1.7k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cameroncooke/AXe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
-*   [AppPorts (⭐909)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [AppPorts (⭐1k)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wzh4869/AppPorts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### QuickLook Plugins / System Related Tools
 

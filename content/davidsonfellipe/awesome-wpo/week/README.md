@@ -31,17 +31,29 @@
 
 ### Analyzers / Meetups
 
+*   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 *   [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 *   [YSlow for PhantomJS](https://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 *   [Yellow Lab Tools](https://yellowlab.tools/) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 *   [Pagelocity](https://pagelocity.com/) - A web performance optimization and analysis tool.
 *   [Speed Racer (⭐1.9k)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 *   [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
+*   [Redirect Checker (⭐0)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
 
 ### Analyzers - API / Meetups
 
 *   [PSI (⭐3.1k)](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
 *   [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations)
+
+### Real User Monitoring / Meetups
+
+*   [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+*   [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+*   [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+*   [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+*   [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+*   [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+*   [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
 ### Bundle Analyzer / Meetups
 

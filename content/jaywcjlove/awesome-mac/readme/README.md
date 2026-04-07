@@ -384,7 +384,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
-*   [AXe (⭐1.6k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
+*   [AXe (⭐1.7k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 *   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 *   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
@@ -733,7 +733,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [APNGb (⭐323)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 *   [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware][Freeware Icon]
 *   [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
+*   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 *   [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+*   [CompressO (⭐2.6k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 *   [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 *   [Eagle App](https://en.eagle.cool/) - Asset manager for images, videos, audio, fonts, and design files.
 *   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
@@ -1222,7 +1224,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Organization Tools
 
-*   [AppPorts (⭐909)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+*   [AppPorts (⭐1k)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 *   [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.

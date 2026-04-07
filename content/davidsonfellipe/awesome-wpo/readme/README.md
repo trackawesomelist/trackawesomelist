@@ -54,6 +54,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Minifiers HTML](#minifiers---html)
 *   [Minifiers JS & CSS](#minifiers---js--css)
 *   [Miscellaneous](#miscellaneous)
+*   [Real User Monitoring](#real-user-monitoring)
 *   [SVG](#svg)
 *   [Web Components](#web-components)
 *   [Web server Benchmarks](#web-server-benchmarks)
@@ -131,6 +132,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Analyzers
 
 *   [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
+*   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 *   [Confess (⭐869)](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
 *   [DebugBear](https://www.debugbear.com/) - DebugBear is a site monitoring tool based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. DebugBear is a paid product with a free 30-day trial.
 *   [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
@@ -148,6 +150,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Speed Racer (⭐1.9k)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 *   [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
 *   [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
+*   [Redirect Checker (⭐0)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
 
 ## Analyzers - API
 
@@ -161,6 +164,16 @@ Here's a quick overview of the categories covered in this collection:
 *   [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 *   [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details, and hosted status page in one simple dashboard.
+
+## Real User Monitoring
+
+*   [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+*   [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+*   [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+*   [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+*   [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+*   [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+*   [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
 ## Bundle Analyzer
 

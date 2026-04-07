@@ -1,30 +1,85 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2026
 
-21 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
-### Command Line Tools
+### Tools / Platforms
 
-*   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.
 
-## [2. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [2. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### WebSocket
+
+*   [picows (⭐259)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
+
+## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+
+### OS Images
+
+*   [GlowBarn OS (⭐1)](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-4.png)
+
+### Tools
+
+*   [Rpi MQTT Monitor (⭐291)](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
+
+### Projects
+
+*   [Cama-Camel Pack (⭐30)](https://github.com/Barqawiz/iot_watering_system) - A home-based irrigation system for efficient plant care using IoT.
+*   [HookProbe (⭐23)](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
+*   [idle-less (⭐16)](https://github.com/tvup/idle-less) - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
+*   [Raspberry Pi Telegram Bot (⭐29)](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
+
+## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+
+### AI
+
+*   [FluadHTN (⭐10)](https://github.com/Safebox36/OdaiHTN) - A powerful hierarchical task network for AI planning.
+
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Files and Directories / Directory Listing
+
+*   [treepp (⭐68)](https://github.com/Water-Run/treepp) - Windows tree++.
+
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
+
+### Data Sources / Prediction Markets
+
+*   [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
+
+### Research Tools / Prediction Markets
+
+*   [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests U.S. STOCK Act congressional trade disclosures and converts them into machine-scored signals for retail investors.
+
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Misc
+
+*   [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/dailydotdev/daily)
+
+## [8. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Topology
 
 *   📝 [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Specialties
 
 *   [gems](https://ada-lang.io/docs/learn/lang/gems) - Ada Gem Archive.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -118,37 +173,36 @@
 
 *   [Mailpit (⭐9k)](https://github.com/axllent/mailpit) - An email and SMTP testing tool for developers.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Design and Product / Other Tools
+
+*   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/julyx10/lap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [CompressO (⭐2.6k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/codeforreal1/compressO) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
 *   [Cadran](https://cadranapp.com) - Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
 
-## [6. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Voxel Editors
 
 *   :free: [Voxelle Desktop (⭐0)](https://github.com/Velfi/Voxelle-Desktop)
 
-## [7. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [13. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Workflow & Scheduling / Workflow Frameworks
 
-*   [dagucloud/dagu (⭐3.2k)](https://github.com/dagucloud/dagu) — Workflow engine with Web UI ☆`3,243`
+*   [dagucloud/dagu (⭐3.2k)](https://github.com/dagucloud/dagu) — Workflow engine with Web UI ☆`3,246`
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Multimedia
 
 *   [icey (⭐1.4k)](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative for RTSP ingest, media processing, signaling, TURN, and browser delivery, built in C++20. \[LGPL v2.1+]
 
-## [9. Awesome Go](/content/avelino/awesome-go/week/README.md)
-
-### Project Layout
-
-*   [go-rest-api-boilerplate (⭐48)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
-
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -166,7 +220,7 @@
 
 *   [DataBora/elusion (⭐133)](https://github.com/DataBora/elusion) \[[elusion](https://crates.io/crates/elusion)] - An end-to-end data engineering DataFrame library built on DataFusion, with connectors for Microsoft Fabric, Azure, SharePoint, FTP, Postgres, MySQL, and REST APIs
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -176,7 +230,7 @@
 
 *   [anon.li Drop](https://anon.li/drop) - Zero-knowledge E2EE file sharing with client-side AES-256-GCM encryption and zero server-side data access. Free uploads for files up to 5GB with max expiry up to 3 days through the website, CLI or API.
 
-## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [17. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
@@ -199,7 +253,7 @@
 *   [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
 *   [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
 
-## [13. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Books
 
@@ -367,26 +421,40 @@
 *   [syzkaller (⭐6.1k)](https://github.com/google/syzkaller) (2015) - An unsupervised coverage-guided kernel fuzzer supporting FreeBSD, Fuchsia, gVisor, Linux, NetBSD, OpenBSD, and Windows.
 *   [Trinity (⭐901)](https://github.com/kernelslacker/trinity) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
 
-## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Version Control
+
+*   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
+
+### Project Layout
+
+*   [go-rest-api-boilerplate (⭐48)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+
+### Video
+
+*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+
+## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Software-specific
 
 *   *[R for Social Network Analysis](https://schochastics.github.io/R4SNA/)* (R4SNA), by Termeh Shafie and David Schoch (work in progress).
 
-## [15. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [21. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Python
 
 *   [BeeWare Briefcase (⭐3.2k)](https://github.com/beeware/briefcase) *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
 *   [Mem0 (⭐51k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
 
-## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [22. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [vLLM](https://docs.vllm.ai/en/latest/) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
-## [17. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [23. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Books
 
@@ -411,17 +479,29 @@
 
 ### Analyzers / Meetups
 
+*   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 *   [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 *   [YSlow for PhantomJS](https://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 *   [Yellow Lab Tools](https://yellowlab.tools/) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 *   [Pagelocity](https://pagelocity.com/) - A web performance optimization and analysis tool.
 *   [Speed Racer (⭐1.9k)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 *   [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
+*   [Redirect Checker (⭐0)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
 
 ### Analyzers - API / Meetups
 
 *   [PSI (⭐3.1k)](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
 *   [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations)
+
+### Real User Monitoring / Meetups
+
+*   [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+*   [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+*   [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+*   [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+*   [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+*   [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+*   [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
 ### Bundle Analyzer / Meetups
 
@@ -504,20 +584,19 @@
 *   [Performance Timeline](https://www.w3.org/TR/performance-timeline/) - This specification defines a unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces.
 *   [HTTP Archive](https://httparchive.org/) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Workflow / Competitive Programming
 
 *   [emrearmagan/atlas.nvim (⭐13)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
 
-## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [25. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.
 *   [ZipCheckup (⭐1)](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 
-## [20. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [26. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Databases
 
@@ -568,7 +647,7 @@
 *   [Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily interviews about technical software topics, including data infrastructure.
 *   [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast) - How analytics engineers build and maintain data pipelines at scale.
 
-## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [27. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 

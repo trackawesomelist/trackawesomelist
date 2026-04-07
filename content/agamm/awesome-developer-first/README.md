@@ -2,9 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.5K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.6K · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Apr 07, 2026](/content/2026/04/07/README.md)
+
+### Misc
+
+*   [daily.dev](https://daily.dev/) - Personalized developer news feed aggregating from 1000+ tech sources with community discussion. [![daily.dev](https://img.shields.io/github/stars/dailydotdev/daily?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/dailydotdev/daily)
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 

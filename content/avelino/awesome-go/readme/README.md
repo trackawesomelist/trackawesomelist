@@ -399,7 +399,7 @@ Please take a quick gander at the [contribution guidelines (⭐168k)](https://gi
 *   [gocui (⭐11k)](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
 *   [gommon/color (⭐579)](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
 *   [gookit/color (⭐1.6k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
-*   [lazyenv (⭐1)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 *   [lipgloss (⭐11k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 *   [loom (⭐120)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 *   [marker (⭐53)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
@@ -3088,6 +3088,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goav (⭐2.1k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐899)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
 *   [hls-m3u8 (⭐56)](https://github.com/Eyevinn/hls-m3u8) - Parser and generator for HLS (M3U8) playlists; kept up to date with the spec.
+*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
 *   [libvlc-go (⭐506)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [mp4ff (⭐625)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 *   [v4l (⭐89)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.

@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
 
+### Video
+
+*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Artificial Intelligence
@@ -85,7 +89,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Advanced Console UIs
 
 *   [chroma16 (⭐0)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
-*   [lazyenv (⭐1)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ### Embeddable Scripting Languages
 

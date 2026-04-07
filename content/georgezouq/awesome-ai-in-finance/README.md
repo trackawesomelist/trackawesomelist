@@ -6,11 +6,25 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Apr 07, 2026](/content/2026/04/07/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
+
+### Data Sources / Prediction Markets
+
+*   [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
+
+### Research Tools / Prediction Markets
+
+*   [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests U.S. STOCK Act congressional trade disclosures and converts them into machine-scored signals for retail investors.
+
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
 
 ### Traditional Market / Prediction Markets
 
-*   [finclaw (⭐14)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
+*   [finclaw (⭐38)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -46,7 +60,7 @@
 
 ### Agents
 
-*   [OpenFinClaw (⭐119)](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
+*   [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
 
 ### LLMs
 
@@ -454,7 +468,7 @@
 
 ### Data Sources / Traditional Markets
 
-*   [Tushare (⭐15k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
+*   [Tushare (⭐15k)](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks.
 
 ## [Jul 28, 2020](/content/2020/07/28/README.md)
 

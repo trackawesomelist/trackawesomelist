@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 07, 2026](/content/2026/04/07/README.md)
+
+### Video
+
+*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
 ### Project Layout
@@ -149,7 +155,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [lazyenv (⭐1)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
