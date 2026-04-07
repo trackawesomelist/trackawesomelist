@@ -181,7 +181,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐384k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐385k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 *   [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 *   [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
@@ -437,6 +437,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Topology
 
+*   📝 [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard
 *   📝 [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (UPenn)
 *   📝 [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
 *   📝 [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya

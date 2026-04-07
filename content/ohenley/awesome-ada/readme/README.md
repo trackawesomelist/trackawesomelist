@@ -2,7 +2,7 @@
 
 A curated list of awesome resources related to the Ada and SPARK programming language
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ohenley/awesome-ada/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) · ⭐ 813 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ohenley/awesome-ada/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) · ⭐ 822 · 🏷️ Programming Languages
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / [Weekly](/content/ohenley/awesome-ada/week/README.md) / Overview ]
 
@@ -174,7 +174,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Specialties
 
-*   [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
+*   [gems](https://ada-lang.io/docs/learn/lang/gems) - Ada Gem Archive.
 *   [ada-composition (⭐10)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 *   [ada-ic-learning](https://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
 *   [ada-at-rosetta-code](https://rosettacode.org/wiki/Category:Ada) - A collection of programming tasks and their sample solutions in Ada.
@@ -231,8 +231,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### MIT
 
-*   [hac (⭐158)](https://github.com/zertovitch/hac) - The HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
-*   [byron (⭐63)](https://github.com/OneWingedShark/Byron) - A community project to build an Ada compiler, toolchain, and IDE-system.
+*   [hac (⭐160)](https://github.com/zertovitch/hac) - The HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [byron (⭐65)](https://github.com/OneWingedShark/Byron) - A community project to build an Ada compiler, toolchain, and IDE-system.
 
 #### Apache License
 
@@ -259,13 +259,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Integrated Development Editors
 
-<img width="120px" hspace="10px" src="https://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio (⭐496)](https://github.com/AdaCore/gps)
+<img width="120px" hspace="10px" src="https://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio (⭐498)](https://github.com/AdaCore/gps)
 
 *   [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 ### Editors
 
-*   [lea (⭐28)](https://github.com/zertovitch/lea) - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+*   [lea (⭐30)](https://github.com/zertovitch/lea) - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
 ### Text Modes
 
@@ -286,20 +286,20 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Build and Package
 
-*   [alire (⭐369)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐373)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 *   [alr2appimage (⭐13)](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 *   [aura (⭐24)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
-*   [gprbuild (⭐79)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
+*   [gprbuild (⭐78)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 *   [ravenadm (⭐21)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
 *   [synth (⭐267)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 *   [ada4cmake (⭐5)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 *   [cmake-ada-offa (⭐12)](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 *   [cmake-ada-cho3 (⭐1)](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of [plplot]'s cross-platform support code.
-*   [tada (⭐17)](https://github.com/tomekw/tada) - An opinionated package management tool for Ada.
+*   [tada (⭐20)](https://github.com/tomekw/tada) - An opinionated package management tool for Ada.
 
 ### Continuous Integration
 
-*   [continuous-verification (⭐8)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
+*   [continuous-verification (⭐9)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
 *   [ada-actions (⭐21)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
 *   [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
 
@@ -309,7 +309,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 *   [ada-runtime (⭐34)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 *   [cortex-gnat-rts (⭐78)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
-*   [adawebpack (⭐75)](https://github.com/godunko/adawebpack) - GNAT RTL for WebAssembly and bindings for Web API.
+*   [adawebpack (⭐76)](https://github.com/godunko/adawebpack) - GNAT RTL for WebAssembly and bindings for Web API.
 
 [ada-runtime]: https://github.com/Componolit/ada-runtime
 
@@ -326,7 +326,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
 *   [Straylight (⭐2)](https://github.com/ajxs/straylight) - A simple monolithic RISC-V operating system developed in Ada.
 *   [havk (⭐27)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
-*   [cubit (⭐84)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+*   [cubit (⭐86)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 *   [ironclad](https://ironclad-os.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire](https://codeberg.org/Ironclad/Gloire).
 *   [hirtos (⭐46)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
@@ -346,9 +346,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [play-2048 (⭐7)](https://github.com/mgrojo/play_2048) - A clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 *   [bingada (⭐8)](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 *   [civ-klon (⭐21)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
-*   [eepers (⭐443)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐31k)](https://github.com/raysan5/raylib)).
-*   [gade (⭐29)](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
-*   [gade-sdl (⭐0)](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade (⭐29)](https://github.com/ellamosi/gade) using [SDLAda (⭐128)](https://github.com/Lucretia/sdlada).
+*   [eepers (⭐448)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib (⭐32k)](https://github.com/raysan5/raylib)).
+*   [gade (⭐30)](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
+*   [gade-sdl (⭐2)](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade (⭐30)](https://github.com/ellamosi/gade) using [SDLAda (⭐129)](https://github.com/Lucretia/sdlada).
 
 ## Frameworks
 
@@ -377,7 +377,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
 *   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 *   [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 binding to FLTK (Fast Light Toolkit).
-*   [ada-gui (⭐44)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
+*   [ada-gui (⭐45)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 *   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack].
 *   [imgui-ada (⭐6)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
 *   [anuklear (⭐0)](https://github.com/ada-game-framework/anuklear) - Ada binding to the Nuklear GUI library and the Nuklear-SDL renderer.
@@ -398,11 +398,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [globe-3d (⭐19)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
 *   [engine-3d (⭐2)](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
 *   [ada-ogl (⭐4)](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework.
-*   [ada-doom-3 (⭐277)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐278)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Database
 
-*   [ada-ado (⭐28)](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
+*   [ada-ado (⭐29)](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
 *   [ada-base (⭐35)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 *   [apq-base (⭐2)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
 
@@ -410,11 +410,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <!--lint disable awesome-spell-check-->
 
-*   [aws (⭐152)](https://github.com/AdaCore/aws) - Ada Web Server is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐154)](https://github.com/AdaCore/aws) - Ada Web Server is a complete framework to develop Web based applications in Ada.
 
 <!--lint enable awesome-list-item-->
 
-*   [awa (⭐107)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+*   [awa (⭐108)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     *   [dynamo (⭐17)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     *   [ada-wiki (⭐20)](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
     *   [ada-security (⭐23)](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
@@ -435,7 +435,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [bbt (⭐18)](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 *   [gnatbdd (⭐7)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 *   [scripted-testing (⭐2)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
-*   [testy (⭐2)](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada (⭐17)](https://github.com/tomekw/tada).
+*   [testy (⭐2)](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada (⭐20)](https://github.com/tomekw/tada).
 
 ### Logging
 
@@ -457,26 +457,26 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### DevOps
 
-*   [septum (⭐396)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
-*   [powerjoular (⭐100)](https://github.com/joular/powerjoular) - This tool allows monitoring power consumption of multiple platforms and processes.
+*   [septum (⭐397)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+*   [powerjoular (⭐103)](https://github.com/joular/powerjoular) - This tool allows monitoring power consumption of multiple platforms and processes.
 *   [mat (⭐7)](https://github.com/stcarrez/mat) - Simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 
 *   [gnat-coverage (⭐46)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
 *   [adacontrol](https://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
-*   [spark-2014 (⭐295)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+*   [spark-2014 (⭐301)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
 *   [acats (⭐12)](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
 *   [acats-grading (⭐4)](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
 ### Generation
 
 *   [asn1scc (⭐0)](https://github.com/ttsiodras/asn1scc) - An open source ASN.1 generator to Ada type declarations and encoders/decoders.
-*   [ocarina (⭐73)](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
+*   [ocarina (⭐74)](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 *   [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 *   [automate (⭐7)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
-*   [record-flux (⭐122)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐124)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 *   [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
 ### UML
@@ -509,8 +509,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols
 
-*   [ada-language-server (⭐288)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
-*   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
+*   [ada-language-server (⭐292)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-lsp (⭐12)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 *   [ada-traits-containers (⭐34)](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
 *   [dequesterity](https://sourceforge.net/projects/dequesterity/) - Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.
@@ -536,7 +536,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [adagio (⭐4)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 *   [az3 (⭐7)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
-*   [chests (⭐4)](https://github.com/JeremyGrosser/chests) - Bounded containers for embedded systems.
+*   [chests (⭐5)](https://github.com/JeremyGrosser/chests) - Bounded containers for embedded systems.
 
 [ada-language-server]: https://github.com/AdaCore/ada_language_server
 
@@ -552,16 +552,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ascon-spark (⭐3)](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 *   [spark-sip-hash (⭐6)](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 *   [spark-norx (⭐9)](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
-*   [spark-nacl (⭐131)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [spark-nacl (⭐134)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [stotp (⭐9)](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 *   [xxhash-ada (⭐1)](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
-*   [libsodium-ada (⭐10)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
+*   [libsodium-ada (⭐11)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐2)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 *   [blake2s (⭐1)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
 ### Compression
 
-*   [zip-ada (⭐32)](https://github.com/zertovitch/zip-ada) - Programming library for dealing with the Zip compressed archive file format.
+*   [zip-ada (⭐33)](https://github.com/zertovitch/zip-ada) - Programming library for dealing with the Zip compressed archive file format.
 *   [ada-lzma (⭐7)](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
 *   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada]).
 
@@ -580,7 +580,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 
-*   [libadalang (⭐164)](https://github.com/AdaCore/libadalang/) - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐167)](https://github.com/AdaCore/libadalang/) - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 *   [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada scanner and parser generators.
 *   [wisitoken](https://elpa.gnu.org/packages/wisi.html) - An LALR, LR1, and Packrat parser generator and run-time.
 *   [gela (⭐0)](https://github.com/reznikmm/gela) - Ada code analyzer.
@@ -600,16 +600,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [protobuf (⭐44)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka].
 *   [ada-yaml (⭐45)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 *   [json-ada (⭐45)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
-*   [jwx (⭐19)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
-*   [xmlada (⭐29)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
+*   [jwx (⭐20)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
+*   [xmlada (⭐28)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
 *   [xml-ez-out (⭐3)](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 *   [spark-xml (⭐24)](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 *   [excel-writer (⭐9)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 *   [generic-image-decoder (⭐27)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
-*   [ada-pdf-writer (⭐23)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
+*   [ada-pdf-writer (⭐24)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-midi (⭐6)](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing.
 *   [ada-bar-codes (⭐17)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
-*   [ada-bin2asc (⭐0)](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
+*   [ada-bin2asc (⭐1)](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 *   [ada-toml (⭐36)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 *   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
@@ -641,15 +641,15 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Web
 
-*   [template-parser (⭐10)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
+*   [template-parser (⭐9)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
 [template-parser]: https://github.com/AdaCore/templates-parser
 
 ### Graphics and Multimedia
 
-*   [opengl-ada (⭐103)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
+*   [opengl-ada (⭐104)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 *   [adagl (⭐11)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WebAssembly/WebGL).
-*   [sdlada (⭐128)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [sdlada (⭐129)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 *   [asfml (⭐40)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
@@ -662,7 +662,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### General Purpose Computing
 
-*   [cuda (⭐21)](https://github.com/AdaCore/cuda) - Support for CUDA (Compute Unified Device Architecture) from AdaCore.
+*   [cuda (⭐22)](https://github.com/AdaCore/cuda) - Support for CUDA (Compute Unified Device Architecture) from AdaCore.
 *   [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA's CUDA parallel computing platform and programming model.
 *   [opencl-ada (⭐16)](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 *   [boehmgc-ada (⭐7)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
@@ -712,9 +712,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Linux and POSIX
 
-*   [florist (⭐8)](https://github.com/AdaCore/florist/) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+*   [florist (⭐7)](https://github.com/AdaCore/florist/) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 *   [florist-blady (⭐7)](https://github.com/Blady-Com/florist) - A fork of Florist which is available as an Alire crate.
-*   [wposix (⭐5)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
+*   [wposix (⭐4)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 *   [ada-v4l2 (⭐0)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 *   [inotify-ada (⭐9)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 *   [dl-ada (⭐1)](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
@@ -729,7 +729,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Bindings to Other Languages
 
-*   [tcl-ada-shell (⭐11)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
+*   [tcl-ada-shell (⭐12)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 *   [tashy (⭐8)](https://github.com/thindil/tashy) - Tcl Ada SHell Younger (Tashy) is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Derivate of Tashy that aims to be more idiomatic and uses a more permisive license.
 *   [ada-lua (⭐45)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
@@ -741,8 +741,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [SweetAda (⭐50)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 *   [robotics-with-ada (⭐17)](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego.
-*   [adamant (⭐41)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
-*   [libgfxinit (⭐25)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
+*   [adamant (⭐45)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+*   [libgfxinit (⭐26)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 
 ### Firmwares
 
@@ -750,7 +750,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Drivers
 
-*   [ada-drivers-library (⭐275)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
+*   [ada-drivers-library (⭐278)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
 *   [em-brick (⭐0)](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada.
 *   [dw1000 (⭐14)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 *   [evb1000 (⭐0)](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
@@ -823,7 +823,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-*   [eagle-lander (⭐32)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
+*   [eagle-lander (⭐33)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 *   [ghdl (⭐2.8k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 *   [parallel-sim (⭐1)](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
 *   [covid-19-simulator (⭐11)](https://github.com/ohenley/COVID-19_Simulator) - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
@@ -839,16 +839,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [tiled-code-gen (⭐3)](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 *   [j2ada (⭐4)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 *   [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
-*   [cappulada (⭐16)](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
+*   [cappulada (⭐17)](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 *   [asis2xml (⭐2)](https://github.com/simonjwright/asis2xml) - Converts Ada sources' ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 *   [winforms2gtk (⭐1)](https://github.com/fdesp87/winforms2gtk) - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
 
 ### Shells, Interpreters and Emulators
 
 *   [sparforte](https://sparforte.com/) - The SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
-*   [gsh (⭐118)](https://github.com/AdaCore/gsh) - Non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gsh (⭐119)](https://github.com/AdaCore/gsh) - Non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 *   [analytical-engine (⭐15)](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage's Analytical Engine.
-*   [a-shell (⭐16)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+*   [a-shell (⭐17)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 *   [dashera (⭐37)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada].
 *   [yotroc (⭐5)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada].
 
@@ -859,7 +859,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Misc
 
 *   [dhondt (⭐4)](https://github.com/simonjwright/dhondt) - Ada implementation of D'Hondt electoral result calculator.
-*   [whitakers-words (⭐310)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐312)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 *   [ada-chess (⭐9)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 *   [adage (⭐9)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 

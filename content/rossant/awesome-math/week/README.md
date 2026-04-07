@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Geometry and Topology / Topology
+
+*   📝 [General Topology](https://www.rexresearch1.com/TopologyLibrary/GeneralTopologyWillard.pdf) - Stephen Willard
+
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Geometry and Topology / Algebraic Topology
@@ -294,7 +300,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐384k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐385k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 

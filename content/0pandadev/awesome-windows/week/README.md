@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Command Line Tools
+
+*   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Security
