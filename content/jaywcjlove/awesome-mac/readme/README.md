@@ -718,6 +718,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [OBS Studio (⭐71k)](https://github.com/obsproject/obs-studio) - A free and open source software for live streaming and screen recording. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 *   [OpenScreen (⭐12k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
 *   [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
+*   [Recordly](https://recordly.dev/) - Open-source screen recorder and editor for polished demos, tutorials, and product videos. [![Open-Source Software][OSS Icon]](https://github.com/webadderall/Recordly) ![Freeware][Freeware Icon]
 *   [Reframed](https://reframed.dev) - Screen recorder with a built-in editor. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 *   [Screen Studio](https://www.screen.studio/) - Screen recorder for polished videos with automatic motion effects.
 *   [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
@@ -773,7 +774,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [ChatGPT](https://openai.com/chatgpt/mac/) - A conversational AI system that listens, learns, and challenges
 *   [Claude](https://claude.ai/download) - Your AI partner on desktop. Fast, focused, and designed for deep work.
 *   [Claude God](https://claudegod.app) - Monitor Claude usage, costs, and session stats. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
-*   [Claude Usage Monitor (⭐2)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
+*   [Claude Usage Monitor (⭐19)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 *   [Claudoscope (⭐30)](https://github.com/cordwainersmith/claudoscope) - Tool for browsing and analyzing Claude Code sessions. [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 *   [ClawdHome](https://clawdhome.app/) - Manage multiple isolated OpenClaw gateway instances from one control panel. [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
 *   [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
@@ -1212,7 +1213,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Cleanup and Uninstall
 
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
-*   [App Uninstaller (⭐0)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+*   [App Uninstaller (⭐3)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 *   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]

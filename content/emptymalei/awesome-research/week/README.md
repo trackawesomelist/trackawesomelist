@@ -2,15 +2,34 @@
 
 :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / Weekly / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
+
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Plotting and Charting Online / Enterprise Git Service
+
+*   [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
+
+### Notebooks for Researchers / Social Sciences
+
+*   [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
+
+### Editors / LaTeX
+
+*   [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
+
+### Investigate Papers / HTML+CSS+JS
+
+*   [Uncited](https://uncited.org): Keeping up with the literature.
+*   [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Scientific Computing / HTML+CSS+JS
 
-*   [dna-claude-analysis (⭐21)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+*   [dna-claude-analysis (⭐25)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Bibliography / HTML+CSS+JS
 
@@ -34,7 +53,7 @@
 ### Editors / LaTeX
 
 *   [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control, Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-*   [Overleaf Source Code (⭐17k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
+*   [Overleaf Source Code (⭐18k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 
 ### LaTeX Beamer / HTML+CSS+JS
 
@@ -160,7 +179,7 @@
 
 ### Graph Making / HTML+CSS+JS
 
-*   [colorcet (⭐727)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐728)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ### More / HTML+CSS+JS
 
@@ -193,7 +212,7 @@
 ### Writing / Social Sciences
 
 *   [rtd theme (⭐5k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐769)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [Alabaster (⭐770)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
 *   [proselint (⭐4.5k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
@@ -295,7 +314,7 @@
 
 ### Tips for Researchers / HTML+CSS+JS
 
-*   Check the [Academic Resources and Grey Literature List (⭐25k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐25k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐26k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐26k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
@@ -500,7 +519,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐445)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -586,7 +605,7 @@
 ### Use Licenses / HTML+CSS+JS
 
 *   [Choose a License](http://choosealicense.com/) which helps you decide which license to use through several steps.
-*   [Guokr Badge (⭐23)](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+*   [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
 ### More / HTML+CSS+JS
 
@@ -655,16 +674,16 @@
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐706)](https://github.com/harish-io/Impressionist)
+*   [Impressionist (⭐711)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source / HTML+CSS+JS
 
-*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐39k)](https://github.com/impress/impress.js/wiki).
+*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐38k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 *   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
 *   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
-*   [Scrolldeck (⭐664)](https://github.com/johnpolacek/scrolldeck.js)
+*   [Scrolldeck (⭐663)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
@@ -679,7 +698,7 @@
 *   [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-    *   [jiffylab (⭐186)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+    *   [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
     *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 

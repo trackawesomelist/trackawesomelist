@@ -2,7 +2,7 @@
 
 :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/emptymalei/awesome-research/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) · ⭐ 2.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / [Weekly](/content/emptymalei/awesome-research/week/README.md) / Overview ]
 
@@ -132,7 +132,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted (⭐282k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted (⭐285k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 ### Math and Programming Online
 
@@ -163,6 +163,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [GeoGebra](https://www.geogebra.org): very old but still very good. GeoGebra can be used for precise charting as well as calculations.
 *   [graph.tk](http://graph.tk/): Online plotting with rich features.
 *   [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
+*   [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
 
 ### Datasets
 
@@ -227,7 +228,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 **Sphinx Themes and configurations**
 
 *   [rtd theme (⭐5k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐769)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [Alabaster (⭐770)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 **Science Books Using Sphinx**
@@ -302,6 +303,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 ### Notebooks for Researchers
 
 *   [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
+*   [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
 
 ### Editors
 
@@ -343,10 +345,11 @@ Notebook softwares that you can write in Markdown:
 *   [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
 *   [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 *   [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
+*   [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
 
 **You can also host one using your own machine.**
 
-*   [Overleaf Source Code (⭐17k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
+*   [Overleaf Source Code (⭐18k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 *   [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 *   [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 *   [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -427,7 +430,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Google Drive](https://drive.google.com/): no introduction needed
 *   [Sway](https://sway.com/): Microsoft
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐706)](https://github.com/harish-io/Impressionist)
+*   [Impressionist (⭐711)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source
@@ -438,12 +441,12 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 > Use [colors (⭐9.4k)](https://github.com/mrmrs/colors) to make your HTML feels better.
 
-*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐39k)](https://github.com/impress/impress.js/wiki).
+*   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐38k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 *   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
 *   [Beckpoke.js (⭐4.8k)](https://github.com/bespokejs/bespoke)
 *   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
-*   [Scrolldeck (⭐664)](https://github.com/johnpolacek/scrolldeck.js)
+*   [Scrolldeck (⭐663)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
@@ -498,7 +501,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-    *   [jiffylab (⭐186)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+    *   [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
     *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 *   [Maple](https://www.maplesoft.com/index.aspx?L=E)
@@ -512,7 +515,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Julia](http://julialang.org/)
 *   [R](http://www.r-project.org/)
 *   [Rust](https://www.rust-lang.org/en-US/)
-*   [dna-claude-analysis (⭐21)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+*   [dna-claude-analysis (⭐25)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Coding is Fun
 
@@ -537,6 +540,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
 *   [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 *   [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
+*   [Uncited](https://uncited.org): Keeping up with the literature.
+*   [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ### Get Yourself A Citable Code for Anything
 
@@ -570,7 +575,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Tips for Researchers
 
 *   [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
-*   Check the [Academic Resources and Grey Literature List (⭐25k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐25k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐26k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐26k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## Pacifier
 
@@ -633,7 +638,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 > CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
 
-*   [Guokr Badge (⭐23)](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+*   [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
 ## Data Visualization and Graph Making
 
@@ -669,14 +674,14 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 > Professional graphs should be made using professional tools.
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐445)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 *   [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
 *   [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
-> Choose percentually accurate colors for your research plots. Why? ([1 (⭐727)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
+> Choose percentually accurate colors for your research plots. Why? ([1 (⭐728)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
 
-*   [colorcet (⭐727)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐728)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ## LaTeX
 

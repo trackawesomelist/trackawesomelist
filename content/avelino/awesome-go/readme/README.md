@@ -350,6 +350,7 @@ Please take a quick gander at the [contribution guidelines (⭐168k)](https://gi
 *   [telegram-bot-api (⭐6.4k)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 *   [TG (⭐48)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 *   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [ymsdk (⭐3)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
     *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 **[⬆ back to top](#contents)**
@@ -1995,6 +1996,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *   [go-stem (⭐81)](https://github.com/agonopol/go-stem) - Implementation of the porter stemming algorithm.
 *   [go2vec (⭐58)](https://github.com/danieldk/go2vec) - Reader and utility functions for word2vec embeddings.
+*   [go-propisyu (⭐4)](https://github.com/rekurt/go-propisyu) - Convert numbers to Russian words with correct grammatical gender and noun declension.
 *   [golibstemmer (⭐21)](https://github.com/rjohnsondev/golibstemmer) - Go bindings for the snowball libstemmer library including porter 2.
 *   [gosentiwordnet (⭐11)](https://github.com/dinopuguh/gosentiwordnet) - Sentiment analyzer using sentiwordnet lexicon in Go.
 *   [govader (⭐54)](https://github.com/jonreiter/govader) - Go implementation of [VADER Sentiment Analysis (⭐5k)](https://github.com/cjhutto/vaderSentiment).
@@ -2361,6 +2363,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-yara (⭐388)](https://github.com/hillu/go-yara) - Go Bindings for [YARA (⭐141)](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 *   [goArgonPass (⭐20)](https://github.com/dwin/goArgonPass) - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 *   [goSecretBoxPassword (⭐60)](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
+*   [gost-crypto (⭐1)](https://github.com/rekurt/gost-crypto) - Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
 *   [Interpol (⭐7)](https://github.com/avahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
 *   [leakhound (⭐14)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
 *   [lego (⭐9.3k)](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).

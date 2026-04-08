@@ -8,6 +8,10 @@
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
+### Design and Product / Screen Recording
+
+*   [Recordly](https://recordly.dev/) - Open-source screen recorder and editor for polished demos, tutorials, and product videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/webadderall/Recordly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Design and Product / Other Tools
 
 *   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/julyx10/lap) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -102,7 +106,7 @@
 
 ### AI Tools / Other Tools
 
-*   [Claude Usage Monitor (⭐2)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Claude Usage Monitor (⭐19)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 
 ### Voice-to-Text / Audio Record and Process
@@ -115,7 +119,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [App Uninstaller (⭐0)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [App Uninstaller (⭐3)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 

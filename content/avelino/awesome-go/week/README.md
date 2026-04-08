@@ -8,9 +8,22 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
+### Bot Building
+
+*   [ymsdk (⭐3)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
+    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
+
 ### Project Layout
 
 *   [go-rest-api-boilerplate (⭐48)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+
+### Morphological Analyzers
+
+*   [go-propisyu (⭐4)](https://github.com/rekurt/go-propisyu) - Convert numbers to Russian words with correct grammatical gender and noun declension.
+
+### Security
+
+*   [gost-crypto (⭐1)](https://github.com/rekurt/gost-crypto) - Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
 
 ### Version Control
 
@@ -3064,7 +3077,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Bot Building
 
 *   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
-    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 ### Standard CLI
 

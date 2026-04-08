@@ -12,6 +12,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [clideck (⭐35)](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.
 
+### Commands & Extensions
+
+*   [dRPC Agent Skills (⭐10)](https://github.com/drpcorg/drpc-agent-skills) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Agent Orchestration & CLI Tools
@@ -206,13 +210,13 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Frameworks
 
-*   [GACUA (⭐128)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
+*   [GACUA (⭐131)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
 
 ## [Sep 08 - Sep 14, 2025](/content/2025/36/README.md)
 
 ### Official
 
-*   [Gemini CLI (⭐99k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
+*   [Gemini CLI (⭐100k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
 *   [Gemini CLI cookbook (⭐17k)](https://github.com/google-gemini/cookbook) - Official collection of examples and guides demonstrating best practices for using the Gemini API. Essential resource for developers getting started.
 
 ### Forks
@@ -222,7 +226,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### Commands & Extensions
 
 *   [GeminiCLI\_Slash\_Listen (⭐20)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
-*   [gemini-cli-custom-slash-commands (⭐165)](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.
+*   [gemini-cli-custom-slash-commands (⭐167)](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.
 *   [gemini-flow (⭐378)](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
 
 ### Development Tools & Utilities
@@ -233,7 +237,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [geminicli2api (⭐557)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
+*   [geminicli2api (⭐570)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
 *   [gemini-openai-proxy (⭐52)](https://github.com/Brioch/gemini-openai-proxy) - Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.
 
 ### MCP Servers
@@ -247,7 +251,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Frameworks
 
-*   [gemini-code-flow (⭐148)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
+*   [gemini-code-flow (⭐152)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 
 ### Documentation & Examples
 
@@ -266,8 +270,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [gemini-cli-openai (⭐864)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
-*   [gemini-cli-proxy (⭐138)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
+*   [gemini-cli-openai (⭐871)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
+*   [gemini-cli-proxy (⭐140)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
 *   [gemini-cli-mcp-openai-bridge (⭐135)](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 
 ### MCP Servers

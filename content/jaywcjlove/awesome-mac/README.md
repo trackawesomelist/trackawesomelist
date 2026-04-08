@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 08, 2026](/content/2026/04/08/README.md)
+
+### Design and Product / Screen Recording
+
+*   [Recordly](https://recordly.dev/) - Open-source screen recorder and editor for polished demos, tutorials, and product videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/webadderall/Recordly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
 ### Design and Product / Other Tools
@@ -145,11 +151,11 @@
 
 ### AI Tools / Other Tools
 
-*   [Claude Usage Monitor (⭐2)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Claude Usage Monitor (⭐19)](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 
-*   [App Uninstaller (⭐0)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [App Uninstaller (⭐3)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kamjin3086/AppUninstaller) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
