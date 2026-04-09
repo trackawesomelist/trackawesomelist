@@ -6,6 +6,12 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 [ [Daily](/content/preactjs/awesome-preact/README.md) / Weekly / [Overview](/content/preactjs/awesome-preact/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Contents / Components
+
+*   [Kamod UI (⭐0)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Contents / Libraries
@@ -203,7 +209,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Toolkits
 
-*   [Vite (⭐79k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+*   [Vite (⭐80k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -453,7 +459,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 ### Contents / Community
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐38k)](https://github.com/developit/preact)
+*   [Github (⭐39k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Contents / Toolkits

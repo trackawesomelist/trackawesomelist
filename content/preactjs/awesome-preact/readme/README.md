@@ -12,9 +12,9 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact (⭐38k)](https://github.com/developit/preact) ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact (⭐39k)](https://github.com/developit/preact) ecosystem :star2:
 
-[Preact (⭐38k)](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact (⭐39k)](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 
@@ -35,13 +35,13 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 *   [Slack](https://chat.preactjs.com/) (Discussion Forum)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐38k)](https://github.com/developit/preact)
+*   [Github (⭐39k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
 
 *   [Preact CLI (⭐4.7k)](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
-*   [Vite (⭐79k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+*   [Vite (⭐80k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 *   [nwb (⭐5.6k)](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 *   [React App Rewire Preact (⭐9.9k)](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 *   [Preact CLI PostCSS (⭐16)](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
@@ -120,6 +120,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 *   [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 *   [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
+*   [Kamod UI (⭐0)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
 
 ### Libraries
 
