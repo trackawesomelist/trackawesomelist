@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 09, 2026](/content/2026/04/09/README.md)
+
+### Server Applications
+
+*   [Kono (⭐4)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
+
 ## [Apr 08, 2026](/content/2026/04/08/README.md)
 
 ### Bot Building
@@ -150,7 +156,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### File Handling
 
-*   [gxpdf (⭐13)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
+*   [gxpdf (⭐23)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
 
 ### Strings
 
@@ -160,11 +166,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Embeddable Scripting Languages
 
-*   [go-lua (⭐3)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
+*   [go-lua (⭐4)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
 
 ### Template Engines
 
-*   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+*   [bagme (⭐99)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
@@ -291,7 +297,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [onWatch (⭐416)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+*   [onWatch (⭐557)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
@@ -5957,7 +5963,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.3k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐18)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.

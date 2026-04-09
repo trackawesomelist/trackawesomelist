@@ -1,23 +1,14 @@
 # Track Awesome Chatgpt Prompts Updates Daily
 
-Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 141K · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) · ⭐ 145K · 🏷️ ChatGPT
 
 [ Daily / [Weekly](/content/f/awesome-chatgpt-prompts/week/README.md) / [Overview](/content/f/awesome-chatgpt-prompts/readme/README.md) ]
 
-## [Jan 06, 2026](/content/2026/01/06/README.md)
+## [Apr 08, 2026](/content/2026/04/08/README.md)
 
-### Want to deploy your own private prompt library for your team? / Manual Setup
+### 📜 License / MCP Server
 
-*   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
-*   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
-
-## [Dec 13, 2025](/content/2025/12/13/README.md)
-
-### Want to deploy your own private prompt library for your team? / Manual Setup
-
-*   **Branding** — Set your organization name, logo, and description
-*   **Theme** — Choose colors, border radius, and UI style
-*   **Languages** — Select supported locales
-*   **Sponsors** — Optionally add your own sponsor logos (prompts.chat sponsors are disabled)
+*   **Source code** is licensed under the [MIT License](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-MIT).
+*   **Prompt content and data** (prompts.csv, PROMPTS.md, user-submitted prompts) is dedicated to the public domain under [CC0 1.0 Universal](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-CC0).

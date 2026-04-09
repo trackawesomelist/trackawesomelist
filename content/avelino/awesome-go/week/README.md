@@ -25,6 +25,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gost-crypto (⭐1)](https://github.com/rekurt/gost-crypto) - Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
 
+### Server Applications
+
+*   [Kono (⭐4)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
+
 ### Version Control
 
 *   [gitty (⭐1)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
@@ -106,11 +110,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Embeddable Scripting Languages
 
-*   [go-lua (⭐3)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
+*   [go-lua (⭐4)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
 
 ### File Handling
 
-*   [gxpdf (⭐13)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
+*   [gxpdf (⭐23)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
 
 ### Financial
 
@@ -126,7 +130,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Template Engines
 
-*   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+*   [bagme (⭐99)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
 
 ### Selenium and browser control tools
 
@@ -233,7 +237,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [onWatch (⭐416)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+*   [onWatch (⭐557)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
@@ -5543,7 +5547,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.3k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐18)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.

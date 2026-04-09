@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 09, 2026](/content/2026/04/09/README.md)
+
+### IaaS
+
+*   [Modal](https://modal.com) - AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits
+
+### Managed Data Services
+
+*   [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
+
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
 ### Email
@@ -24,7 +34,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 500MB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
+*   [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 2GB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
 
 ### IDE and Code Editing
 
@@ -407,10 +417,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Choreo](https://wso2.com/choreo/) - AI-native internal developer platform as a service. The free tier includes up to 5 components and $100 credits per month.
 
-### Managed Data Services
-
-*   [Xata Lite](https://lite.xata.io/) - Xata Lite is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free plan provides 10 branches and 15 GB of storage without pausing or cold starts.
-
 ### Issue Tracking and Project Management
 
 *   [Tenzu](https://tenzu.net/) - Lightweight project management tool for agile teams. The SaaS relies on free contributions; users can always choose to give 0 and there is no features paywall {[more details](https://tenzu.net/pricing/)}
@@ -506,7 +512,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Managed Data Services
 
 *   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
-*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
+*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 500MB total storage, 5 databases, integrated with Prisma ORM.
 
 ### Design and UI
 
@@ -1946,7 +1952,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
+*   [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage per project, 100 Projects ,10 branches per project, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
 
 ## [May 02, 2023](/content/2023/05/02/README.md)
 
@@ -1959,12 +1965,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Artifact Repos
 
 *   [paperspace](https://www.paperspace.com/) - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
-
-## [Apr 22, 2023](/content/2023/04/22/README.md)
-
-### Managed Data Services
-
-*   [Turso by ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
 
 ## [Apr 21, 2023](/content/2023/04/21/README.md)
 
@@ -3183,7 +3183,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Managed Data Services
 
-*   [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).
+*   [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).
 
 ## [Sep 27, 2021](/content/2021/09/27/README.md)
 
@@ -4766,10 +4766,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Versoly](https://versoly.com/) - SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
 
 ## [Nov 26, 2019](/content/2019/11/26/README.md)
-
-### Managed Data Services
-
-*   [scalingo.com](https://scalingo.com/) - Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL, or MongoDB
 
 ### Data Visualization on Maps
 

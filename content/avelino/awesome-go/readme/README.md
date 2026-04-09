@@ -43,7 +43,7 @@ We use the *[Golang Bridge (⭐425)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐289k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐291k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -1127,7 +1127,7 @@ additional ordered map implementations.
 *   [gentee (⭐146)](https://github.com/gentee/gentee) - Embeddable scripting programming language.
 *   [gisp (⭐527)](https://github.com/jcla1/gisp) - Simple LISP in Go.
 *   [go-lua (⭐3.4k)](https://github.com/Shopify/go-lua) - Port of the Lua 5.2 VM to pure Go.
-*   [go-lua (⭐3)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
+*   [go-lua (⭐4)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
 *   [go-php (⭐938)](https://github.com/deuill/go-php) - PHP bindings for Go.
 *   [goal](https://codeberg.org/anaseto/goal) - An embeddable scripting array language.
 *   [goja (⭐6.8k)](https://github.com/dop251/goja) - ECMAScript 5.1(+) implementation in Go.
@@ -1190,7 +1190,7 @@ additional ordered map implementations.
 *   [gofs (⭐526)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 *   [gulter (⭐70)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
 *   [gut/yos (⭐27)](https://github.com/1set/gut) - Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links.
-*   [gxpdf (⭐13)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
+*   [gxpdf (⭐23)](https://github.com/coregx/gxpdf) - Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
 *   [higgs (⭐24)](https://github.com/dastoori/higgs) - A tiny cross-platform Go library to hide/unhide files and directories.
 *   [iso9660 (⭐281)](https://github.com/kdomanski/iso9660) - A package for reading and creating ISO9660 disk images
 *   [notify (⭐929)](https://github.com/rjeczalik/notify) - File system event notification library with simple API, similar to os/signal.
@@ -2435,6 +2435,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-feature-flag (⭐2k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 *   [go-proxy-cache (⭐150)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [gondola (⭐10)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
+*   [Kono (⭐4)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 *   [lets-proxy2 (⭐102)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
 *   [minio (⭐61k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐16)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
@@ -2450,6 +2451,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Trickster (⭐2.1k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 *   [wd-41 (⭐151)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
 *   [Wish (⭐5.1k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Kono (⭐4)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 
 **[⬆ back to top](#contents)**
 
@@ -2474,7 +2476,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *Libraries and tools for templating and lexing.*
 
-*   [bagme (⭐98)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+*   [bagme (⭐99)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
 *   [ego (⭐591)](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 *   [fasttemplate (⭐910)](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
 *   [gomponents](https://www.gomponents.com) - HTML 5 components in pure Go, that look something like this: `func(name string) g.Node { return Div(Class("headline"), g.Textf("Hi %v!", name)) }`.
@@ -3541,7 +3543,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [naclpipe (⭐23)](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.
 *   [Neo-cowsay (⭐343)](https://github.com/Code-Hex/Neo-cowsay) - 🐮 cowsay is reborn. for a New Era.
 *   [nes (⭐5.6k)](https://github.com/fogleman/nes) - Nintendo Entertainment System (NES) emulator written in Go.
-*   [onWatch (⭐416)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+*   [onWatch (⭐557)](https://github.com/onllm-dev/onWatch) - Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 *   [Orbit (⭐188)](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -3549,7 +3551,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐744)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
 *   [scc (⭐8.3k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-*   [Seaweed File System (⭐18)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
+*   [Seaweed File System (⭐21)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [sonic (⭐2.1k)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.

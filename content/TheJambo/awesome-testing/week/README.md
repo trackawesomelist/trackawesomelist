@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Software / AI & LLM Testing
+
+*   [Tenro (⭐1)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Software / AI & LLM Testing
@@ -99,7 +105,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [voicetest (⭐11)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [voicetest (⭐12)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -107,7 +113,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [flutter-skill (⭐91)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐177)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / A/B Testing
@@ -135,7 +141,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐18k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐20k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ### Software / UI & End-to-End Testing
 
@@ -507,7 +513,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐446k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐451k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.9k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

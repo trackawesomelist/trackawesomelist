@@ -308,7 +308,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [azorng/goose.nvim (⭐303)](https://github.com/azorng/goose.nvim) - Seamless integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
 *   [mozanunal/sllm.nvim (⭐107)](https://github.com/mozanunal/sllm.nvim) - In-editor chat powered by Simon Willison's LLM CLI: stream replies in a Markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 *   [chatvim/chatvim.nvim (⭐13)](https://github.com/chatvim/chatvim.nvim) - Chat with Markdown files using AI models from xAI, OpenAI and Anthropic.
-*   [3ZsForInsomnia/code-companion-picker (⭐7)](https://github.com/3ZsForInsomnia/code-companion-picker) - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
+*   [3ZsForInsomnia/code-companion-picker (⭐7)](https://github.com/3ZsForInsomnia/code-companion-picker) - Snacks picker integrations for previewing CodeCompanion prompts and Skills (using OpenSkills).
 *   [3ZsForInsomnia/vs-code-companion (⭐5)](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 *   [3ZsForInsomnia/token-count.nvim (⭐8)](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 *   [nishu-murmu/cursor-inline (⭐6)](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
@@ -346,7 +346,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [atomicptr/defold.nvim (⭐21)](https://github.com/atomicptr/defold.nvim) - Batteries-included development environment for the Defold game engine.
 *   [onlyati/quadlet-lsp.nvim (⭐12)](https://github.com/onlyati/quadlet-lsp.nvim) - Provides completion, hover and other language server features for Podman Quadlet files.
 *   [leblocks/hopcsharp.nvim (⭐15)](https://github.com/leblocks/hopcsharp.nvim) - Provides LSP-less navigation and type-hierarchy information in C# repositories.
-*   [AnsonH/copy-python-path.nvim (⭐2)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
+*   [AnsonH/copy-python-path.nvim (⭐3)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
 ### Golang
 
@@ -386,7 +386,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [rodrigoscc/nurl.nvim (⭐10)](https://github.com/rodrigoscc/nurl.nvim) - HTTP client with requests defined in pure Lua.
 *   [cjodo/convert.nvim (⭐55)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
 *   [tednguyendev/recent\_rails.nvim (⭐4)](https://github.com/tednguyendev/recent_rails.nvim) - Telescope picker for recent Rails actions, views, and errors.
-*   [ankushbhagats/liveserver.nvim (⭐8)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
+*   [ankushbhagats/liveserver.nvim (⭐11)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
 
 ### Markdown and LaTeX
 
@@ -421,7 +421,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 *   [rogue-87/inlyne.nvim (⭐3)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne (⭐1.3k)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 *   [Prgebish/sigil.nvim (⭐31)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
-*   [satozawa/graft.nvim (⭐2)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+*   [satozawa/graft.nvim (⭐7)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### PHP
 
@@ -453,7 +453,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [bennorichters/taal.nvim (⭐21)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 *   [walkersumida/deepl.nvim (⭐6)](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 *   [acidsugarx/babel.nvim (⭐13)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
-*   [noir4y/comment-translate.nvim (⭐10)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
+*   [noir4y/comment-translate.nvim (⭐11)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 
 <!--lint disable double-link -->
 
@@ -464,6 +464,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 ## Syntax
 
 *   [nvim-treesitter/nvim-treesitter (⭐13k)](https://github.com/nvim-treesitter/nvim-treesitter) - Tree-sitter configurations and abstraction layer.
+*   [romus204/tree-sitter-manager.nvim (⭐144)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
 *   [nvim-treesitter/nvim-treesitter-textobjects (⭐2.7k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using Tree-sitter queries.
 *   [RRethy/nvim-treesitter-textsubjects (⭐565)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
 *   [kylechui/nvim-surround (⭐4.2k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
@@ -477,7 +478,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [fei6409/log-highlight.nvim (⭐158)](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management support.
 *   [MeanderingProgrammer/treesitter-modules.nvim (⭐156)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 *   [BibekBhusal0/tree-hierarchy.nvim (⭐13)](https://github.com/BibekBhusal0/tree-hierarchy.nvim) - Edit text and nevigate based on Tree-sitter.
-*   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+*   [Sang-it/fluoride (⭐52)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 
 <!--lint disable double-link -->
 
@@ -574,6 +575,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [prochri/telescope-all-recent.nvim (⭐150)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
 *   [mahyarmirrashed/search-and-replace.nvim (⭐8)](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
 *   [bravoecho/brook.nvim (⭐10)](https://github.com/bravoecho/brook.nvim) - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
+*   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 
 <!--lint disable double-link -->
 
@@ -876,7 +878,7 @@ then it is not supported:
 *   [lalitmee/cobalt2.nvim (⭐114)](https://github.com/lalitmee/cobalt2.nvim) - ***`[Lua]`*** A port of cobalt2 colorscheme using colorbuddy.
 *   [dybdeskarphet/gruvbox-minimal.nvim (⭐14)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 *   [taigrr/cyberpunk.nvim (⭐3)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
-*   [ankushbhagats/pastel.nvim (⭐18)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+*   [ankushbhagats/pastel.nvim (⭐30)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 *   [0x-ximon/acario.nvim (⭐8)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 
 <!--lint disable double-link -->
@@ -1113,7 +1115,7 @@ then it is not supported:
 *   [0xJohnnyboy/scretch.nvim (⭐34)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
 *   [yutkat/confirm-quit.nvim (⭐36)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting.
 *   [bgaillard/readonly.nvim (⭐22)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
-*   [zeybek/camouflage.nvim (⭐39)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
+*   [zeybek/camouflage.nvim (⭐38)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 *   [linrongbin16/gentags.nvim (⭐25)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 *   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 *   [terje/simctl.nvim (⭐40)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
@@ -1142,8 +1144,8 @@ then it is not supported:
 *   [wsdjeg/ctags.nvim (⭐9)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
 *   [leo-alvarenga/quoth.nvim (⭐6)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 *   [indium114/cheaty.nvim (⭐7)](https://github.com/indium114/cheaty.nvim) - A simple, configurable cheatsheet.
-*   [indium114/unobtrusive-relnums.nvim](https://github.com/indium114/unobtrusive-relnums) - Unobtrusive relative line numbers in the sign column.
-*   [glyccogen/imprint.nvim (⭐15)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
+*   [indium114/unobtrusive-relnums.nvim (⭐10)](https://github.com/indium114/unobtrusive-relnums.nvim) - Unobtrusive relative line numbers in the sign column.
+*   [glyccogen/imprint.nvim (⭐16)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 *   [emrearmagan/dockyard.nvim (⭐17)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 
 ### CSV Files
@@ -1442,7 +1444,7 @@ then it is not supported:
 *   [3ZsForInsomnia/revman.nvim (⭐7)](https://github.com/3ZsForInsomnia/revman.nvim) - Track PRs that need review automatically and open them in Octo.nvim.
 *   [cd-4/git-needy.nvim (⭐4)](https://github.com/cd-4/git-needy.nvim) - Keeps a tally of workflows that need to be reviewed in your statusbar.
 *   [claydugo/browsher.nvim (⭐15)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
-*   [gh-tui-tools/gh-review.nvim (⭐9)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+*   [gh-tui-tools/gh-review.nvim (⭐11)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ### GitLab
 
@@ -1892,7 +1894,7 @@ then it is not supported:
 *   [kndndrj/nvim-dbee (⭐1.2k)](https://github.com/kndndrj/nvim-dbee) - Interactive database client.
 *   [tashikomaaa/neomongo.nvim (⭐7)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 *   [zerochae/dbab.nvim (⭐27)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
-*   [joryeugene/dadbod-grip.nvim (⭐122)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
+*   [joryeugene/dadbod-grip.nvim (⭐133)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 
 <!--lint disable double-link -->
 

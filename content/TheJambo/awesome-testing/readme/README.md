@@ -63,8 +63,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### AI & LLM Testing
 
 *   [Litmus (⭐2)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
-*   [promptfoo (⭐18k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
-*   [voicetest (⭐11)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [promptfoo (⭐20k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [Tenro (⭐1)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+*   [voicetest (⭐12)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Service Virtualization
 
@@ -98,7 +99,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Ferrum (⭐2k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 
-*   [flutter-skill (⭐91)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐177)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 
@@ -235,7 +236,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐446k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐451k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐6.9k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

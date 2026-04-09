@@ -1,190 +1,263 @@
 # Awesome Chatgpt Prompts Overview
 
-Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) · ⭐ 141K · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/f/awesome-chatgpt-prompts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) · ⭐ 145K · 🏷️ ChatGPT
 
 [ [Daily](/content/f/awesome-chatgpt-prompts/README.md) / [Weekly](/content/f/awesome-chatgpt-prompts/week/README.md) / Overview ]
 
 ---
 
-## ⚠️ Where are all the prompts gone?
-
-> **No worries! They're still here.** The README became too large to maintain, so prompts now live in [PROMPTS.md](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/PROMPTS.md). Your contributions to [prompts.chat](https://prompts.chat) automatically sync there. Still free, still open source.
->
-> 🌐 **[View All Prompts on prompts.chat](https://prompts.chat/prompts)**
->
-> 📖 **[View All Prompts on GitHub (PROMPTS.md)](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/PROMPTS.md)**
->
-> 🔍 **[View All Prompts synced on GitHub (prompts.csv) (⭐141k)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
->
-> 📊 **[View All Prompts synced on Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
-
-<p align="center">
-  <img width="558" height="148" alt="Screenshot 2025-12-12 at 02 40 52" src="https://github.com/user-attachments/assets/8de2ba4c-5e89-4aae-aecb-32b188fb1bfb" />
-  <br>
-  <small>a.k.a. Awesome ChatGPT Prompts</small>
-</p>
-
-<p align="center">
-  <a href="#cli">
-    <img src="https://img.shields.io/badge/Run_in_Terminal-npx_prompts.chat-black?style=for-the-badge&logo=npm&logoColor=white" alt="npx prompts.chat">
+<h1 align="center">
+  <a href="https://prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://prompts.chat/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://prompts.chat/logo.svg">
+      <img height="60" alt="prompts.chat" src="https://prompts.chat/logo.svg">
+    </picture>
+    <br>
+    prompts.chat
   </a>
+</h1>
+
+<p align="center">
+  <strong>The world's largest open-source prompt library for AI</strong><br>
+  <sub>Works with ChatGPT, Claude, Gemini, Llama, Mistral, and more</sub>
+</p>
+<p align="center">
+  <sub>formerly known as Awesome ChatGPT Prompts</sub>
 </p>
 
-<h2 align="center">Sponsors</h3>
+<p align="center">
+  <a href="https://prompts.chat"><img src="https://img.shields.io/badge/Website-prompts.chat-blue?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://huggingface.co/datasets/fka/prompts.chat"><img src="https://img.shields.io/badge/🤗-Hugging_Face-yellow?style=flat-square" alt="Hugging Face"></a>
+  <a href="https://deepwiki.com/f/prompts.chat"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+</p>
 
-<div align="center">
-  <a href="https://clemta.com/?utm_source=prompts.chat" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta-dark.webp">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta.webp">
-      <img align="center" height="40" alt="Clemta logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/clemta.webp">
-    </picture>
-  </a><br><br>
-  <a href="https://wiro.ai/?utm_source=prompts.chat" align="center">
-    <img align="center" height="40" alt="Wiro logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/wiro.png">
-  </a><br><br>
-  <a href="https://wind.surf/prompts-chat" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition.svg">
-      <img align="center" height="40" alt="Cognition logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/cognition.svg">
-    </picture>
-  </a><br><br>
-  <a href="https://mitte.ai/?utm_source=prompts.chat" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte.svg">
-      <img align="center" height="40" alt="MitteAI logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/mitte.svg">
-    </picture>
-  </a><br><br>
-  <a href="https://warp.dev/?utm_source=prompts.chat" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp.svg">
-      <img align="center" height="40" alt="Warp logo" src="https://raw.githubusercontent.com/f/awesome-chatgpt-prompts/main/public/sponsors/warp.svg">
-    </picture>
-  </a><br><br>
-  <sub>prompts.chat is built with Windsurf and Devin by Cognition</sub>
-<hr>
-  <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&amp;tier_id=529895">Be my sponsor and your logo will be here!</a></sub>
-</div>
+<p align="center">
+  <a href="https://prompts.chat/prompts">🌐 Browse Prompts</a> •
+  <a href="https://fka.gumroad.com/l/art-of-chatgpt-prompting">📖 Read the Book</a> •
+  <a href="https://raw.githubusercontent.com/f/prompts.chat/main/PROMPTS.md">📄 View on GitHub</a> •
+  <a href="#-self-hosting">🚀 Self-Host</a>
+</p>
+
+<p align="center">
+  <sub>
+    🏆 Featured in <a href="https://www.forbes.com/sites/tjmccue/2023/01/19/chatgpt-success-completely-depends-on-your-prompt/">Forbes</a> · 
+    🎓 Referenced by <a href="https://www.huit.harvard.edu/news/ai-prompts">Harvard</a>, <a href="https://etc.cuit.columbia.edu/news/columbia-prompt-library-effective-academic-ai-use">Columbia</a> · 
+    📄 <a href="https://scholar.google.com/citations?user=AZ0Dg8YAAAAJ&hl=en">40+ academic citations</a> · 
+    ❤️ <a href="https://huggingface.co/datasets/fka/prompts.chat">Most liked dataset</a> on Hugging Face<br>
+    ⭐ 143k+ GitHub stars · 
+    🏅 <a href="https://spotlights-feed.github.com/spotlights/prompts-chat/index/">GitHub Staff Pick</a> · 
+    🚀 First prompt library (Dec 2022)
+  </sub>
+</p>
+
+<p align="center">
+  <sub><strong>Loved by AI pioneers:</strong></sub><br>
+  <sub>
+    <a href="https://x.com/gdb/status/1602072566671110144"><strong>Greg Brockman</strong></a> (OpenAI Co-Founder) · 
+    <a href="https://x.com/woj_zaremba/status/1601362952841760769"><strong>Wojciech Zaremba</strong></a> (OpenAI Co-Founder) · 
+    <a href="https://x.com/clementdelangue/status/1830976369389642059"><strong>Clement Delangue</strong></a> (Hugging Face CEO) · 
+    <a href="https://x.com/ashtom/status/1887250944427237816"><strong>Thomas Dohmke</strong></a> (Former GitHub CEO)
+  </sub>
+</p>
 
 ***
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/f/awesome-chatgpt-prompts)
+## What is this?
 
-Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was originally created for [ChatGPT](https://chat.openai.com/chat), these prompts work great with other AI models like [Claude](https://claude.ai/new), [Gemini](https://gemini.google.com), [Hugging Face Chat](https://hf.co/chat), [Llama](https://meta.ai), [Mistral](https://chat.mistral.ai), and more.
+A curated collection of **prompt examples** for AI chat models. Originally created for ChatGPT, these prompts work great with any modern AI assistant.
 
-In this repository, you will find a variety of [prompts](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/prompts.csv) that can be used with ChatGPT and other AI chat models. We encourage you to [add your own prompts](https://prompts.chat) to the list, and to use AI to help generate new prompts as well. Your contributions to [prompts.chat](https://prompts.chat) will be contributions to this repository automatically.
+| Browse Prompts                                                                 | Data Formats                                                                     |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [prompts.chat](https://prompts.chat/prompts)                                   | [prompts.csv](https://github.com/f/prompts.chat/blob/main/README.md/prompts.csv) |
+| [PROMPTS.md](https://raw.githubusercontent.com/f/prompts.chat/main/PROMPTS.md) | [Hugging Face Dataset](https://huggingface.co/datasets/fka/prompts.chat)         |
 
-## Want to deploy your own private prompt library for your team?
+**Want to contribute?** Add prompts at [prompts.chat/prompts/new](https://prompts.chat/prompts/new) — they sync here automatically.
 
-Check out our [Self-Hosting Guide](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md/SELF-HOSTING.md) for instructions on setting up your own instance with **customizable branding, themes, and authentication**.
+***
 
-### Quick Start (Recommended)
+## 📖 The Interactive Book of Prompting
 
-Create a new prompts.chat instance with a single command:
+Learn prompt engineering with our **free, interactive guide** — 25+ chapters covering everything from basics to advanced techniques like chain-of-thought reasoning, few-shot learning, and AI agents.
+
+**[Start Reading →](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+
+***
+
+## 🎮 Prompting for Kids
+
+<p>
+  <a href="https://prompts.chat/kids">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://prompts.chat/promi-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://prompts.chat/promi.svg">
+      <img height="60" alt="Promi" src="https://prompts.chat/promi.svg" align="left">
+    </picture>
+  </a>
+</p>
+
+An interactive, game-based adventure to teach children (ages 8-14) how to communicate with AI through fun puzzles and stories.
+
+**[Start Playing →](https://prompts.chat/kids)**
+
+<br clear="left">
+
+***
+
+## 🚀 Self-Hosting
+
+Deploy your own private prompt library with custom branding, themes, and authentication.
+
+**Quick Start:**
 
 ```bash
 npx prompts.chat new my-prompt-library
 cd my-prompt-library
 ```
 
-This will clone a clean copy, install dependencies, and launch the interactive setup wizard.
-
-### Manual Setup
+**Manual Setup:**
 
 ```bash
-git clone https://github.com/f/awesome-chatgpt-prompts.git
-cd awesome-chatgpt-prompts
-npm install
-npm run setup
+git clone https://github.com/f/prompts.chat.git
+cd prompts.chat
+npm install && npm run setup
 ```
 
-The setup wizard will guide you through:
+The setup wizard configures branding, theme, authentication (GitHub/Google/Azure AD), and features.
 
-*   **Branding** — Set your organization name, logo, and description
-*   **Theme** — Choose colors, border radius, and UI style
-*   **Authentication** — Configure GitHub, Google, Apple, Azure AD, or email/password login
-*   **Features** — Enable/disable private prompts, categories, tags, comments, AI search, AI generation, MCP
-*   **Languages** — Select supported locales
-*   **Sponsors** — Optionally add your own sponsor logos (prompts.chat sponsors are disabled)
-
-After setup, complete the configuration:
-
-```bash
-# Edit .env with your database and OAuth credentials
-nano .env
-
-# Run database migrations
-npm run db:push
-
-# Start development server
-npm run dev
-```
-
-> 💡 **Tip:** The setup script automatically enables "clone branding mode" which hides prompts.chat branding, achievements, and sponsors from the homepage.
-
-We hope you find these prompts useful and have fun exploring AI chat models!
-
-**[View on prompts.chat](https://prompts.chat)**
-
-## **[View Hugging Face Dataset](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
-
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected
-> or may be rejected by the AI. Please try again, start a new thread, or log out
-> and log back in. If these solutions do not work, please try rewriting the
-> prompt using your own sentences while keeping the instructions same.
-
-### Want to Write Effective Prompts?
-
-I've authored an e-book called **"The Art of ChatGPT Prompting: A Guide to
-Crafting Clear and Effective Prompts"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies,
-Tips, and Tactics"**.
-
-📖
-**[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating
-Images from Text"**.
-
-📖
-**[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
+📖 **[Full Self-Hosting Guide](https://github.com/f/prompts.chat/blob/main/README.md/SELF-HOSTING.md)** • 🐳 **[Docker Guide](https://github.com/f/prompts.chat/blob/main/README.md/DOCKER.md)**
 
 ***
 
-# Prompts
+## 🔌 Integrations
 
-🔍 **[View All Prompts on GitHub (prompts.csv) (⭐141k)](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)**
+### CLI
 
-📊 **[View All Prompts as Data Studio on HF (prompts.csv)](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer?views%5B%5D=train)**
+```bash
+npx prompts.chat
+```
 
-🌐 **[View All Prompts on prompts.chat](https://prompts.chat/prompts)**
+### Claude Code Plugin
+
+    /plugin marketplace add f/prompts.chat
+    /plugin install prompts.chat@prompts.chat
+
+📖 [Plugin Documentation](https://github.com/f/prompts.chat/blob/main/README.md/CLAUDE-PLUGIN.md)
+
+### MCP Server
+
+Use prompts.chat as an MCP server in your AI tools.
+
+**Remote (recommended):**
+
+```json
+{
+  "mcpServers": {
+    "prompts.chat": {
+      "url": "https://prompts.chat/api/mcp"
+    }
+  }
+}
+```
+
+**Local:**
+
+```json
+{
+  "mcpServers": {
+    "prompts.chat": {
+      "command": "npx",
+      "args": ["-y", "prompts.chat", "mcp"]
+    }
+  }
+}
+```
+
+📖 [MCP Documentation](https://prompts.chat/docs/api)
 
 ***
 
-## Contributors 😍
+## 💖 Sponsors
 
-Many thanks to these AI whisperers:
+<p align="center">
+  <!-- Clemta -->
+  <a href="https://clemta.com/?utm_source=prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/clemta-dark.webp">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/clemta.webp">
+      <img height="35" alt="Clemta" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/clemta.webp">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <!-- Wiro (py-1) -->
+  <a href="https://wiro.ai/?utm_source=prompts.chat">
+    <img height="30" alt="Wiro" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/wiro.png">
+  </a>&nbsp;&nbsp;
+  <!-- Cognition -->
+  <a href="https://wind.surf/prompts-chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/cognition-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/cognition.svg">
+      <img height="35" alt="Cognition" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/cognition.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <!-- CodeRabbit (py-1) -->
+  <a href="https://coderabbit.link/fatih">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/coderabbit-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/coderabbit.svg">
+      <img height="30" alt="CodeRabbit" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/coderabbit.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <!-- Sentry (py-1) -->
+  <a href="https://sentry.io/?utm_source=prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/sentry-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/sentry.svg">
+      <img height="30" alt="Sentry" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/sentry.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <!-- Each Labs (py-[6px]) -->
+  <a href="https://www.eachlabs.ai/?utm_source=promptschat&utm_medium=referral">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/eachlabs-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/eachlabs.png">
+      <img height="28" alt="Each Labs" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/eachlabs.png">
+    </picture>
+  </a>&nbsp;&nbsp;
+  <!-- CommandCode (py-1) -->
+  <a href="https://commandcode.ai/?utm_source=prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/commandcode-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/commandcode.svg">
+      <img height="30" alt="CommandCode" src="https://raw.githubusercontent.com/f/prompts.chat/main/public/sponsors/commandcode.svg">
+    </picture>
+  </a>
+</p>
 
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
+<p align="center">
+  <sub>Built with <a href="https://wind.surf/prompts-chat">Windsurf</a> and <a href="https://devin.ai">Devin</a></sub><br>
+  <a href="https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=558224&preview=false"><strong>Become a Sponsor →</strong></a>
+</p>
+
+***
+
+## 👥 Contributors
+
+<a href="https://github.com/f/prompts.chat/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=f/prompts.chat" />
 </a>
 
-# License
+***
 
-This work is licensed under [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
+## 📜 License
 
-You can copy, modify, distribute, and use the prompts freely — even for commercial purposes — without asking permission or giving attribution. All prompts contributed to this repository are released into the public domain.
+This project is dual-licensed:
+
+*   **Source code** is licensed under the [MIT License](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-MIT).
+*   **Prompt content and data** (prompts.csv, PROMPTS.md, user-submitted prompts) is dedicated to the public domain under [CC0 1.0 Universal](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE-CC0).
+
+See [LICENSE](https://github.com/f/prompts.chat/blob/main/README.md/LICENSE) for details.
 

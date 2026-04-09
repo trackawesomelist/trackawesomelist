@@ -8,6 +8,18 @@ Collections of awesome neovim plugins.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
+### Syntax / Assembly
+
+*   [romus204/tree-sitter-manager.nvim (⭐144)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
+
+### Search / Assembly
+
+*   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+
+### Utility / Cursorline
+
+*   [indium114/unobtrusive-relnums.nvim (⭐10)](https://github.com/indium114/unobtrusive-relnums.nvim) - Unobtrusive relative line numbers in the sign column.
+
 ### Workflow / Competitive Programming
 
 *   [emrearmagan/atlas.nvim (⭐13)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
@@ -38,23 +50,23 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [AnsonH/copy-python-path.nvim (⭐2)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
+*   [AnsonH/copy-python-path.nvim (⭐3)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
 ### Programming Languages Support / Web Development
 
-*   [ankushbhagats/liveserver.nvim (⭐8)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
+*   [ankushbhagats/liveserver.nvim (⭐11)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [satozawa/graft.nvim (⭐2)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+*   [satozawa/graft.nvim (⭐7)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### Syntax / Assembly
 
-*   [Sang-it/fluoride (⭐40)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+*   [Sang-it/fluoride (⭐52)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 
 ### Colorscheme / Assembly
 
-*   [ankushbhagats/pastel.nvim (⭐18)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+*   [ankushbhagats/pastel.nvim (⭐30)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 
 ### Note Taking / Cursorline
 
@@ -62,7 +74,7 @@ Collections of awesome neovim plugins.
 
 ### Git / GitHub
 
-*   [gh-tui-tools/gh-review.nvim (⭐9)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+*   [gh-tui-tools/gh-review.nvim (⭐11)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -84,7 +96,6 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [indium114/cheaty.nvim (⭐7)](https://github.com/indium114/cheaty.nvim) - A simple, configurable cheatsheet.
-*   [indium114/unobtrusive-relnums.nvim](https://github.com/indium114/unobtrusive-relnums) - Unobtrusive relative line numbers in the sign column.
 
 ### Animation / CSV Files
 
@@ -112,7 +123,7 @@ Collections of awesome neovim plugins.
 
 ### Database / Automation
 
-*   [joryeugene/dadbod-grip.nvim (⭐122)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
+*   [joryeugene/dadbod-grip.nvim (⭐133)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -150,7 +161,7 @@ Collections of awesome neovim plugins.
 
 ### Language / Assembly
 
-*   [noir4y/comment-translate.nvim (⭐10)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
+*   [noir4y/comment-translate.nvim (⭐11)](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 
 ### Workflow / Stats Tracking
 
@@ -184,8 +195,8 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [zeybek/camouflage.nvim (⭐39)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
-*   [glyccogen/imprint.nvim (⭐15)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
+*   [zeybek/camouflage.nvim (⭐38)](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
+*   [glyccogen/imprint.nvim (⭐16)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 
 ### Terminal Integration / CSV Files
 
@@ -727,7 +738,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [3ZsForInsomnia/code-companion-picker (⭐7)](https://github.com/3ZsForInsomnia/code-companion-picker) - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
+*   [3ZsForInsomnia/code-companion-picker (⭐7)](https://github.com/3ZsForInsomnia/code-companion-picker) - Snacks picker integrations for previewing CodeCompanion prompts and Skills (using OpenSkills).
 
 ### Programming Languages Support / Diagnostics
 
