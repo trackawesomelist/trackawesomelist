@@ -8,9 +8,17 @@
 
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 
+### Developer Tools / Developer Utilities
+
+*   [Switzy (⭐6)](https://github.com/yefga/Switzy) - Open-source tool for switching Git identities and managing SSH keys. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yefga/Switzy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Developer Tools / Network Analysis
 
 *   [Rockxy (⭐4)](https://github.com/LocNguyenHuu/Rockxy) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LocNguyenHuu/Rockxy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [Kaset (⭐930)](https://github.com/sozercan/kaset) - Open-source YouTube Music client with library, lyrics, podcasts, and playback controls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sozercan/kaset) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 

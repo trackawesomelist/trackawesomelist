@@ -1299,6 +1299,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [gvm (dgnest) (⭐6)](https://github.com/dgnest/zsh-gvm-plugin) - A `gvm` (Go version manager) plugin for ZSH.
 *   [gvm (yerinle) (⭐1)](https://github.com/yerinle/zsh-gvm) - Provides autocompletion for `gvm` (Groovy enVironment Manager).
 *   [hab (⭐11)](https://github.com/alexdesousa/hab) - Automatically loads OS environment variables defined in the file `.envrc` if it's found when changing to a new directory.
+*   [halfpipe (⭐7)](https://github.com/raimo/zsh-halfpipe) - Edit shell pipeline and see its output update live. Get regexps correct fast and save in network requests.
 *   [hacker-quotes (⭐102)](https://github.com/oldratlee/hacker-quotes) - Outputs a random hacker quote when you open a terminal.
 *   [haiku (⭐3)](https://github.com/alesr/oh-my-zsh-haiku-plugin) - Prints a haiku promoting work-life balance and stress management once every 24 hours when the terminal is open.
 *   [hanami (⭐7)](https://github.com/davydovanton/hanami-zsh) - ZSH plugin for [hanami](http://hanamirb.org) projects.
@@ -1897,8 +1898,8 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [zcolors (⭐84)](https://github.com/marlonrichert/zcolors) - Uses your `$LS_COLORS` to generate a coherent theme for Git and your Zsh prompt, completions and [ZSH syntax highlighting (⭐22k)](https://github.com/zsh-users/zsh-syntax-highlighting).
 *   [zconvey (⭐6)](https://github.com/zdharma-continuum/zconvey) - Adds ability to send commands to other ZSH sessions, you can use this to `cd $PWD` on all active ZSH sessions, for example.
 *   [zed (⭐8)](https://github.com/eendroroy/zed-zsh) - A simple wrapper for [z (⭐17k)](https://github.com/rupa/z) to install it via a ZSH plugin.
-*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐30k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐44k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐30k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐31k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐44k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐31k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 *   [zeno (⭐293)](https://github.com/yuki-yano/zeno.zsh) - Fuzzy completion and utility plugin powered by [Deno](https://deno.land/).
 *   [zenplash (⭐4)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
 *   [zenv (⭐2)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like `direnv`, but uses a new shell instance to provide cleaner isolation).
@@ -3349,7 +3350,6 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 *   [completion-generators (⭐1)](https://github.com/zetlen/zsh-completion-generators) - Has a table of tool names and the commands for outputting completion scripts for those tools. On every load, will check that table and run the completion command for every tool found in your `$PATH` and save its output to a file `toolnam`e. If the path of this repo is in `$fpath`, completions will work immediately.
 *   [complgen (⭐317)](https://github.com/adaszko/complgen) - Generates completion scripts for bash/fish/zsh from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.
 *   [crazy-complete (⭐16)](https://github.com/crazy-complete/crazy-complete) - Every program should have autocompletion in the shell to enhance user experience and productivity. `crazy-complete` helps solve this task by generating robust and reliable autocompletion scripts.
-*   [gitstar](https://gitstar.ai) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 *   [manpage-completion-generator (⭐59)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐33k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 *   [oclif completion generator (⭐13)](https://github.com/MunifTanjim/oclif-plugin-completion) - Generates shell completions for commands lacking them.
 *   [oh-plugin (⭐3)](https://github.com/mbergo/oh-plugin) - Helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.

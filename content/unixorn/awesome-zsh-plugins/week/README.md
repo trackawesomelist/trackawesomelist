@@ -10,6 +10,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [halfpipe (⭐7)](https://github.com/raimo/zsh-halfpipe) - Edit shell pipeline and see its output update live. Get regexps correct fast and save in network requests.
 *   [jirarc (⭐0)](https://github.com/aoantov/jirarc) - Provides shortcuts for repetitive [Jira-cli (⭐5.5k)](https://github.com/ankitpokhrel/jira-cli) commands.
 *   [snap-list (⭐0)](https://github.com/crisis1er/zsh-snap-list) - Provides helper functions for `sudo snapper list` on openSUSE Tumbleweed.
 
@@ -21,10 +22,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [power (⭐13)](https://github.com/snakypy/zshpower) - Optimized for python developers. Includes `git` and `pyenv` status decorations, username and host. Tries to install other plugins and fonts, so read its instructions before installing.
 *   [warm-springs (⭐0)](https://github.com/brtmax/warm-springs) - A warm, earthy zsh theme, inspired by Sonoma's images of the [Warm Springs farm](https://www.mazzocco.com/Our-Story/Vineyards/Warm-Springs-Ranch).
-
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [gitstar](https://gitstar.ai) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -1283,7 +1280,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [dirbrowse (⭐3)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐186k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
 *   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐30k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [touchplus (⭐4)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐30k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐31k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2475,7 +2472,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [vterm (⭐0)](https://github.com/randomphrase/vterm-zsh-plugin) - Lets you run `emacs` commands directly from [vterm (⭐96)](https://github.com/vterm/vterm) shell sessions.
 *   [yapipenv (⭐0)](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's `pip` environment if `pipenv` detects the presence of one.
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
-*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐30k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐44k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
+*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐31k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐44k)](https://github.com/tmux/tmux). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
 *   [zsh-in-docker (⭐1.1k)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐3)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
