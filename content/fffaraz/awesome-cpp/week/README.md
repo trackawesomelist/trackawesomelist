@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
+### Compression
+
+*   [FSST (⭐505)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
+
 ### Multimedia
 
 *   [icey (⭐1.4k)](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative for RTSP ingest, media processing, signaling, TURN, and browser delivery, built in C++20. \[LGPL v2.1+]
@@ -823,7 +827,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Build Systems
 
-*   [Sccache (⭐7.1k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐7.2k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 

@@ -155,6 +155,7 @@ See [Vivraan/godot-lang-support (⭐539)](https://github.com/Vivraan/godot-lang-
 *   [Godot C# Template (⭐153)](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
 *   [First Person Starter (⭐932)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 *   [Godot-GameTemplate (⭐1.5k)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+*   [Godot 4 Custom Gravity (⭐24)](https://github.com/Ivorforce/Godot4-Custom-Gravity) - Template for a 3D project with planetary gravity (Super Mario Galaxy-like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
 *   [Godot XR Template (⭐200)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 *   [Maaack's Game Template (⭐1.3k)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [MechanicalFlower Godot Template (⭐61)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
@@ -494,11 +495,12 @@ See [Vivraan/godot-lang-support (⭐539)](https://github.com/Vivraan/godot-lang-
 *   [asdf-godot (⭐7)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 *   [codetranslator (⭐55)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gd2cs.py (⭐99)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
-*   [gdvm](https://gdvm.io) ([GitHub (⭐67)](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
+*   [gdvm](https://gdvm.io) ([GitHub (⭐71)](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
 *   [godot-actions (⭐36)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 *   [godot-ci (⭐1.1k)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 *   [godot-gdscript-toolkit (⭐1.5k)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
 *   [godot-launcher (⭐6)](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
+*   [Godot Awesome Scientific (⭐28)](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation.
 *   [Godot Package Manager (⭐17)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 *   [RetroPie Godot Game Engine "Emulator" (⭐105)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.

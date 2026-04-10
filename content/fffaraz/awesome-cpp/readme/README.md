@@ -294,6 +294,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [bzip3 (⭐1.1k)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 *   [FastLZ (⭐525)](https://github.com/ariya/FastLZ) - Small & portable byte-aligned LZ77 compression. \[MIT]
 *   [FiniteStateEntropy (⭐1.5k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
+*   [FSST (⭐505)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
 *   [heatshrink (⭐1.5k)](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  \[ISC]
 *   [Kanzi (⭐212)](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
 *   [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. \[LGPL]
@@ -1526,7 +1527,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Hunter](https://www.github.com/ruslo/hunter) - CMake driven cross-platform package manager for C++. \[BSD-2]
 *   [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 *   [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
-*   [Sccache (⭐7.1k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐7.2k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 *   [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 *   [Sconsolidator (⭐24)](https://github.com/IFS-HSR/SConsolidator) - Scons build system integration for Eclipse CDT.
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. \[Apache-2.0/MIT]

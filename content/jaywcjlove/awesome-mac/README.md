@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 10, 2026](/content/2026/04/10/README.md)
+
+### Developer Tools / Network Analysis
+
+*   [Rockxy (⭐4)](https://github.com/LocNguyenHuu/Rockxy) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LocNguyenHuu/Rockxy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 
 ### Reading and Writing Tools / Text Editors
@@ -153,7 +159,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Mocker (⭐71)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mocker (⭐103)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/us/mocker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 25, 2026](/content/2026/03/25/README.md)
 
@@ -279,7 +285,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Spotifly (⭐77)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Spotifly (⭐80)](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ralph/Spotifly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
@@ -583,7 +589,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Cocoa-Way (⭐130)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cocoa-Way (⭐801)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -869,7 +875,7 @@
 ### Reading and Writing Tools / RSS
 
 *   [Folo (⭐38k)](https://github.com/RSSNext/Folo) 🧡 Next generation information browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/RSSNext/Folo) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Saga Reader (⭐476)](https://github.com/sopaco/saga-reader) - AI-powered web and RSS reader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/dyerc/Doughnut)
+*   [Saga Reader (⭐488)](https://github.com/sopaco/saga-reader) - AI-powered web and RSS reader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/dyerc/Doughnut)
 
 ### Developer Tools / Developer Utilities
 

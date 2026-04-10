@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Apr 10, 2026](/content/2026/04/10/README.md)
+
+### Project Management / Voxel Editors
+
+*   :money\_with\_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
+
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
 ### Graphics / Voxel Editors

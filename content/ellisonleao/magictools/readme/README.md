@@ -510,6 +510,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
 *   :money\_with\_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
 *   :money\_with\_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
+*   :money\_with\_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
 *   :money\_with\_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
 *   :money\_with\_wings: [Trello](https://trello.com/) - Organize and prioritize projects
 

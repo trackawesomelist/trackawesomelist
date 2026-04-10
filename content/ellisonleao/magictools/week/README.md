@@ -12,6 +12,10 @@
 
 *   :free: [Voxelle Desktop (⭐0)](https://github.com/Velfi/Voxelle-Desktop)
 
+### Project Management / Voxel Editors
+
+*   :money\_with\_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### AI / Voxel Editors

@@ -363,6 +363,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Yu-Leo/gosigns.nvim (⭐4)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 *   [Yu-Leo/cmp-go-pkgs (⭐4)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
 *   [fredrikaverpil/godoc.nvim (⭐173)](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs.
+*   [sjclayton/goplexity.nvim (⭐1)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
 
 ### YAML
 
@@ -738,6 +739,7 @@ then it is not supported:
 
 <!--lint enable awesome-list-item-->
 
+*   [ThorstenRhau/token (⭐99)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [oskarnurm/koda.nvim (⭐257)](https://github.com/oskarnurm/koda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
 *   [yonatan-perel/lake-dweller.nvim (⭐20)](https://github.com/yonatan-perel/lake-dweller.nvim) - ***`[TS][LSP][Lua]`*** Dark and opinionated with selective highlighting aiming to be readable at a glance.
 *   [silentium-theme/silentium.nvim (⭐20)](https://github.com/silentium-theme/silentium.nvim) - ***`[TS][Luа]`*** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
@@ -1405,7 +1407,7 @@ then it is not supported:
 *   [sindrets/diffview.nvim (⭐5.5k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
 *   [barrettruth/diffs.nvim (⭐70)](https://github.com/barrettruth/diffs.nvim) - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 *   [kdheepak/lazygit.nvim (⭐2.2k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐387)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐388)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [aaronhallaert/advanced-git-search.nvim (⭐392)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
 *   [9seconds/repolink.nvim (⭐22)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 *   [chrisgrieser/nvim-tinygit (⭐203)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.

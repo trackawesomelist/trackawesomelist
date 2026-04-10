@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 10, 2026](/content/2026/04/10/README.md)
+
+### Compression
+
+*   [FSST (⭐505)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
+
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
 ### Multimedia
@@ -929,7 +935,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Build Systems
 
-*   [Sccache (⭐7.1k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+*   [Sccache (⭐7.2k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
 ## [Mar 25, 2024](/content/2024/03/25/README.md)
 

@@ -147,7 +147,7 @@ Inspired by the [awesome (⭐451k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.7k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐5.4k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -252,7 +252,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [updo (⭐917)](https://github.com/Owloops/updo) - Website monitoring tool.
 *   [cronboard (⭐1.3k)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 *   [s3m (⭐50)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
-*   [bencher (⭐812)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐819)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
@@ -261,7 +261,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
-*   [decompose (⭐128)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [decompose (⭐129)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 *   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
@@ -355,7 +355,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [nb (⭐8.1k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 *   [notesmd-cli (⭐1.3k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [journalot (⭐87)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
-*   [rucola (⭐482)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐484)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 *   [kanban (⭐85)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
@@ -800,13 +800,14 @@ Inclusion criteria are less strict for this fast-moving field.
 ### Agents
 
 *   [greywall (⭐118)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐1.3k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐1.5k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐1.8k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐62)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 *   [Shep (⭐118)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 *   [InkOS (⭐2.9k)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 *   [coi (⭐360)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 *   [agentify (⭐19)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
+*   [actionbook (⭐1.5k)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 
 ### LLM Interaction
 

@@ -6,6 +6,16 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Apr 10, 2026](/content/2026/04/10/README.md)
+
+### Templates / Godot 4
+
+*   [Godot 4 Custom Gravity (⭐24)](https://github.com/Ivorforce/Godot4-Custom-Gravity) - Template for a 3D project with planetary gravity (Super Mario Galaxy-like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
+
+### Other / Godot version unknown
+
+*   [Godot Awesome Scientific (⭐28)](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation.
+
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
 ### Plugins and scripts / Godot 4
@@ -130,7 +140,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Other / Godot version unknown
 
-*   [gdvm](https://gdvm.io) ([GitHub (⭐67)](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
+*   [gdvm](https://gdvm.io) ([GitHub (⭐71)](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
 
 ## [May 29, 2025](/content/2025/05/29/README.md)
 

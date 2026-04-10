@@ -12,6 +12,10 @@
 
 *   [treepp (⭐68)](https://github.com/Water-Run/treepp) - Windows tree++.
 
+### AI / Agents
+
+*   [actionbook (⭐1.5k)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Productivity / Note Taking and Lists
@@ -54,11 +58,11 @@
 
 ### Development / Devops
 
-*   [bencher (⭐812)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐819)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Development / Docker
 
-*   [decompose (⭐128)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [decompose (⭐129)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 *   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Development / Npm
@@ -81,7 +85,7 @@
 ### Productivity / Note Taking and Lists
 
 *   [notesmd-cli (⭐1.3k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
-*   [rucola (⭐482)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐484)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐938)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Productivity / Finance
@@ -164,7 +168,7 @@
 ### AI / Agents
 
 *   [greywall (⭐118)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐1.3k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐1.5k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐1.8k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐62)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
@@ -529,7 +533,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

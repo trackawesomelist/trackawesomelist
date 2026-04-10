@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 10, 2026](/content/2026/04/10/README.md)
+
+### Programming Languages Support / Golang
+
+*   [sjclayton/goplexity.nvim (⭐1)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
+
+### Colorscheme / Assembly
+
+*   [ThorstenRhau/token (⭐99)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
+
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 
 ### Syntax / Assembly
@@ -5136,7 +5146,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐387)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐388)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 

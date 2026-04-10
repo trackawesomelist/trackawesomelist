@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
+### Programming Languages Support / Golang
+
+*   [sjclayton/goplexity.nvim (⭐1)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
+
 ### Syntax / Assembly
 
 *   [romus204/tree-sitter-manager.nvim (⭐144)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Search / Assembly
 
 *   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+
+### Colorscheme / Assembly
+
+*   [ThorstenRhau/token (⭐99)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 
 ### Utility / Cursorline
 
@@ -4345,7 +4353,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐387)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐388)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
