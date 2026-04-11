@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |     Updated    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1098   | March 28, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1099   | April 10, 2026 |
 
 In parternship with:
 
@@ -335,6 +335,7 @@ In parternship with:
 
 *   [CoreML-Models (⭐7k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 *   [DL4S (⭐109)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [EdgeRunner (⭐26)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 *   [Espresso (⭐84)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 *   [Fazm (⭐96)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 *   [OpenAI (⭐2.9k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
@@ -534,7 +535,7 @@ In parternship with:
 *   [Commander (⭐1.5k)](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces.
 *   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) :penguin: - The smart and beautiful (POSIX compliant) command line framework.
 *   [LineNoise (⭐153)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
-*   [Mocker (⭐71)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+*   [Mocker (⭐103)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 *   [nef (⭐268)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 *   [Progress.swift (⭐350)](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 *   [Swift Argument Parser (⭐3.7k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
@@ -1155,7 +1156,7 @@ In parternship with:
 *   [SwiftHTTP (⭐2k)](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 *   [SwiftyOAuth (⭐485)](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
 *   [TermiNetwork (⭐106)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
-*   [Tiercel (⭐2.8k)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
+*   [Tiercel (⭐2.9k)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
 *   [TRON (⭐546)](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire.
 *   [Wormholy (⭐2.6k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
@@ -1238,7 +1239,7 @@ In parternship with:
 *   [L10nLint (⭐42)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 *   [swift-mod (⭐114)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 *   [SwiftCop (⭐536)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐8.7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐8.8k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [SwiftLint (⭐20k)](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 *   [Swimat (⭐1.6k)](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.

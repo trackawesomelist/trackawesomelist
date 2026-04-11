@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
+
+### Real-Time Search, Social Media Search, and General Social Media Tools
+
+*   [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
+
+### Other Tools / GitHub
+
+*   [keyFinder (⭐558)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Google Dorks Tools
@@ -201,10 +215,6 @@
 ### Domain and IP Research / GitHub
 
 *   [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
-
-### Geospatial Research and Mapping Tools / GitHub
-
-*   [GeoGuessr.ai](https://geoguessr.ai) - AI-powered geolocation tool for identifying locations from images.
 
 ### Other Tools / GitHub
 
@@ -1042,7 +1052,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐483)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 

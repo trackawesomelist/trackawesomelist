@@ -127,7 +127,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Helm (⭐30k)](https://github.com/kubernetes/helm) *(label: good first issue)* <br> The Kubernetes Package Manager
 *   [Hugo (⭐87k)](https://github.com/gohugoio/hugo) *(label: GoodFirstIssue)* <br> A Fast and Flexible Static Site Generator built with love in GoLang
 *   [Kanister (⭐868)](https://github.com/kanisterio/kanister) *(label: good first issue)* <br> A Data Protection Workflow Management Engine
-*   [Kubernetes (⭐121k)](https://github.com/kubernetes/kubernetes) *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
+*   [Kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
 *   [lxd (⭐5.1k)](https://github.com/lxc/lxd) *(label: easy)* <br> System container and virtual machine manager.
 *   [Mattermost (⭐36k)](https://github.com/mattermost/mattermost) *(label: Good First Issue, Difficulty/1:Easy)* <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
 *   [Meshery (⭐10k)](https://github.com/layer5io/meshery) *(label: good first issue)* <br> Meshery, the service mesh management plane.
@@ -297,13 +297,14 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [DocsGPT (⭐18k)](https://github.com/arc53/DocsGPT) *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 *   [Fabric (⭐15k)](https://github.com/fabric/fabric) *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
 *   [FastAPI (⭐97k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+*   [fenn (⭐43)](https://github.com/pyfenn/fenn) *(label: good first issue)* <br> A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.
 *   [H2O Wave (⭐4.2k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Harmony (⭐54)](https://github.com/harmonydata/harmony) *(label: Good First Issue)* <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!
 *   [jarvis (⭐3.4k)](https://github.com/sukeesh/Jarvis) *(label: difficulty/newcomer)* <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 *   [Jupyter notebook (⭐13k)](https://github.com/jupyter/notebook) *(label: good first issue)* <br> Jupyter interactive notebook.
 *   [Kinto (⭐4.4k)](https://github.com/Kinto/kinto) *(label: easy-pick)* <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 *   [matplotlib (⭐23k)](https://github.com/matplotlib/matplotlib) *(label: good first issue)* <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-*   [Mem0 (⭐51k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
+*   [Mem0 (⭐53k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
 *   [MindsDB (⭐39k)](https://github.com/mindsdb/mindsdb) *(label: good first issue)* <br> MindsDB is an open source AI layer for existing databases.
 *   [mitmproxy (⭐43k)](https://github.com/mitmproxy/mitmproxy) *(label: help-wanted)* <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 *   [mygpo (⭐302)](https://github.com/gpodder/mygpo) *(label: starter-issue)* <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
@@ -397,7 +398,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [tinyhttp (⭐2.9k)](https://github.com/talentlessguy/tinyhttp) *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 *   [TypeScript (⭐108k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
 *   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-*   [Visual Studio Code (⭐183k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
+*   [Visual Studio Code (⭐184k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 *   [Vite (⭐80k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 *   [Vitest (⭐16k)](https://github.com/vitest-dev/vitest) *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
 

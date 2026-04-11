@@ -464,6 +464,7 @@ Thanks to our main contributors
 *   [Netvibes](http://www.netvibes.com)
 *   [Oblivion (⭐589)](https://github.com/loseys/Oblivion)
 *   [OpinionCrawl](http://www.opinioncrawl.com)
+*   [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
 *   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
 *   [Rival IQ](https://www.rivaliq.com)
 *   [Social DownORNot](http://social.downornot.com)
@@ -1112,7 +1113,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐153k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1177,7 +1178,7 @@ Thanks to our main contributors
 *   [Flash Earth](http://www.flashearth.com)
 *   [GeoGig](http://geogig.org)
 *   [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
-*   [GeoGuessr.ai](https://geoguessr.ai) - AI-powered geolocation tool for identifying locations from images.
+*   [ReverseImageLocation](https://reverseimagelocation.com) - AI-powered geolocation tool for identifying locations from images.
 *   [GeoNames](http://www.geonames.org)
 *   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 *   [Google Earth](http://www.google.com/earth)
@@ -1644,6 +1645,7 @@ Thanks to our main contributors
 *   [IntelHub (⭐89)](https://github.com/tomsec8/IntelHub) – Browser-based open-source OSINT extension. All analysis runs locally (no servers). Features include text profiler, metadata analyzer, site & archive analysis, reverse image search, crypto/telegram analyzers.
 *   [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 *   [IntellyWeave (⭐57)](https://github.com/vericle/intellyweave)  - AI-powered OSINT platform with GLiNER entity extraction, Mapbox 3D geospatial visualization, and multi-agent archive research across 30+ international archives.
+*   [keyFinder (⭐558)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
 *   [LinkScope Client (⭐460)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 *   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.

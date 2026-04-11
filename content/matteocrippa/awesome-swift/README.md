@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Apr 11, 2026](/content/2026/04/11/README.md)
+
+### AI
+
+*   [EdgeRunner (⭐26)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
+
 ## [Mar 29, 2026](/content/2026/03/29/README.md)
 
 ### AI
@@ -45,7 +51,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Command Line
 
-*   [Mocker (⭐71)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+*   [Mocker (⭐103)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 
 ### Images / Barcode
 
@@ -68,7 +74,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [Tiercel (⭐2.8k)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
+*   [Tiercel (⭐2.9k)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
 
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
@@ -1388,7 +1394,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Quality / Barcode
 
-*   [SwiftFormat (⭐8.7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐8.8k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [Oct 03, 2019](/content/2019/10/03/README.md)
 

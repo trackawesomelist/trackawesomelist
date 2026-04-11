@@ -6,12 +6,18 @@ A list of awesome beginners-friendly projects.
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Apr 11, 2026](/content/2026/04/11/README.md)
+
+### Python
+
+*   [fenn (⭐43)](https://github.com/pyfenn/fenn) *(label: good first issue)* <br> A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.
+
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
 ### Python
 
 *   [BeeWare Briefcase (⭐3.2k)](https://github.com/beeware/briefcase) *(label: good first issue)* <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
-*   [Mem0 (⭐51k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
+*   [Mem0 (⭐53k)](https://github.com/mem0ai/mem0/) *(label: good first issue)* <br> Mem0 is a memory framework for LLM applications.
 
 ## [Apr 04, 2026](/content/2026/04/04/README.md)
 
@@ -362,7 +368,7 @@ A list of awesome beginners-friendly projects.
 *   [Docker/CLI (⭐5.8k)](https://github.com/docker/cli) *(label: exp/beginner)* <br> The Docker CLI
 *   [Helm (⭐30k)](https://github.com/kubernetes/helm) *(label: good first issue)* <br> The Kubernetes Package Manager
 *   [Hugo (⭐87k)](https://github.com/gohugoio/hugo) *(label: GoodFirstIssue)* <br> A Fast and Flexible Static Site Generator built with love in GoLang
-*   [Kubernetes (⭐121k)](https://github.com/kubernetes/kubernetes) *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
+*   [Kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) *(label: good first issue)* <br> Production-Grade Container Scheduling and Management System
 *   [lxd (⭐5.1k)](https://github.com/lxc/lxd) *(label: easy)* <br> System container and virtual machine manager.
 *   [Meshery (⭐10k)](https://github.com/layer5io/meshery) *(label: good first issue)* <br> Meshery, the service mesh management plane.
 *   [Moby (⭐72k)](https://github.com/moby/moby) *(label: exp/beginner)* <br> Open-source application container engine
@@ -486,4 +492,4 @@ A list of awesome beginners-friendly projects.
 *   [tinyhttp (⭐2.9k)](https://github.com/talentlessguy/tinyhttp) *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 *   [TypeScript (⭐108k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
 *   [typescript-eslint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-*   [Visual Studio Code (⭐183k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
+*   [Visual Studio Code (⭐184k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
