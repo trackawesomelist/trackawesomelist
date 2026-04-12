@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 12, 2026](/content/2026/04/12/README.md)
+
+### Project / Assembly
+
+*   [martuscellifaria/ahoicpp.nvim (⭐2)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
+
 ## [Apr 11, 2026](/content/2026/04/11/README.md)
 
 ### Colorscheme / Assembly

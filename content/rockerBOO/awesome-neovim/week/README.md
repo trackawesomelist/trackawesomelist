@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 
+### Project / Assembly
+
+*   [martuscellifaria/ahoicpp.nvim (⭐2)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
+
 ### Colorscheme / Assembly
 
 *   [ThorstenRhau/token (⭐99)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
