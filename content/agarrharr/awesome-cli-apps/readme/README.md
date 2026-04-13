@@ -258,8 +258,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 *   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [docker-pushrm (⭐149)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 *   [decompose (⭐129)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 *   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
@@ -304,6 +304,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [ain (⭐621)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 *   [curlie (⭐3.6k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 *   [ATAC (⭐3.5k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+*   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -419,7 +420,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### SSH
 
 *   [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-*   [xxh (⭐5.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+*   [xxh (⭐6k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
 
@@ -550,7 +551,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [visidata (⭐8.9k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 *   [sc-im (⭐5.6k)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
-*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+*   [nless (⭐115)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
 
 ### Processors
 
@@ -679,7 +680,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [happyfinder (⭐336)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐45)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐61k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐62k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐79k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐42k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
@@ -812,7 +813,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 
 *   [aye-chat (⭐61)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
-*   [cmd-ai (⭐42)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [cmd-ai (⭐46)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ## Other Resources
 

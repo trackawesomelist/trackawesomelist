@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 13, 2026](/content/2026/04/13/README.md)
+
+### Development / HTTP Client
+
+*   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 
 ### AI / Agents
@@ -52,7 +58,7 @@
 
 ### Data Manipulation / Professional: Resume
 
-*   [nless (⭐104)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+*   [nless (⭐115)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
@@ -221,7 +227,7 @@
 ### AI / LLM Interaction
 
 *   [aye-chat (⭐61)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
-*   [cmd-ai (⭐42)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [cmd-ai (⭐46)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ### Other Resources / LLM Interaction
 
@@ -391,7 +397,7 @@
 
 ### Utilities / SSH
 
-*   [xxh (⭐5.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+*   [xxh (⭐6k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Utilities / System Interaction Utilities
 
@@ -1064,8 +1070,8 @@
 
 *   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐50k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐148)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [docker-pushrm (⭐149)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Professional: Resume
 
@@ -1556,7 +1562,7 @@
 
 *   [happyfinder (⭐336)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐45)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐61k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐62k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐79k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ## [Mar 02, 2019](/content/2019/03/02/README.md)
