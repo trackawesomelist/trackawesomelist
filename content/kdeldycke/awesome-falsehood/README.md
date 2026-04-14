@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Postal Addresses
+
+*   [Letter Delivered Despite No Name, No Address](https://boingboing.net/2016/08/30/letter-sent-to-iceland-farm-wi.html) - Ultimate falsehood about postal addresses: you do not need one.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Business
@@ -226,7 +232,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐875)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐548)](https://github.com/sstephenson/global_phone) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐901)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -236,7 +242,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐1k)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐1.1k)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -308,12 +314,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐499)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐503)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐79)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐82)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -363,7 +369,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐69)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐70)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
@@ -379,7 +385,7 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐111)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐112)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [Dec 07, 2020](/content/2020/12/07/README.md)
 
@@ -422,12 +428,12 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐957)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐970)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 *   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
-*   [i18n Testing Data (⭐65)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
+*   [i18n Testing Data (⭐66)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
 *   [Big List of Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ### Networks
@@ -438,7 +444,6 @@
 
 ### Postal Addresses
 
-*   [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
 *   [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 *   [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
 *   [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.

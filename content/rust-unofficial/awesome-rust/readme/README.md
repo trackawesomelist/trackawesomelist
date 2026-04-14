@@ -301,7 +301,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [oxigraph/oxigraph (⭐1.6k)](https://github.com/oxigraph/oxigraph) \[[oxigraph](https://crates.io/crates/oxigraph)] - graph database implementing the [SPARQL](https://www.w3.org/TR/sparql11-overview/) standard ![Crates.io Version](https://img.shields.io/crates/v/oxigraph?logo=Rust)
 *   [ParadeDB (⭐8.6k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
 *   [ParityDB (⭐284)](https://github.com/paritytech/parity-db) - Fast and reliable database, optimised for read operation
-*   [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
+*   [pgdogdev/pgdog (⭐4.3k)](https://github.com/pgdogdev/pgdog) - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
 *   [PumpkinDB (⭐1.4k)](https://github.com/PumpkinDB/PumpkinDB) - an event sourcing database engine
 *   [Qdrant (⭐30k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg)](https://github.com/qdrant/qdrant/actions)
 *   [Qrlew/qrlew (⭐47)](https://github.com/Qrlew/qrlew) \[[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
@@ -608,6 +608,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 *   [gitui (⭐22k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
 *   [GQL (⭐3.5k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
 *   [httm (⭐1.6k)](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
+*   [hyperb1iss/unifly (⭐140)](https://github.com/hyperb1iss/unifly) \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml)
 *   [j0ru/kickoff (⭐474)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 *   [jacek-kurlit/pik (⭐512)](https://github.com/jacek-kurlit/pik) \[[pik](https://crates.io/crates/pik)] - A TUI command line tool that helps to find and kill processes
 *   [Kondo (⭐2.3k)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
@@ -734,6 +735,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 *   [tversteeg/emplace (⭐282)](https://github.com/tversteeg/emplace) - Synchronize installed packages on multiple machines
 *   [vamolessa/verco (⭐223)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
 *   [vaultwarden (⭐58k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
+*   [veirt/weathr (⭐2.7k)](https://github.com/Veirt/weathr) \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml)
 *   [Vibe (⭐5.7k)](https://github.com/thewh1teagle/vibe) - Transcribe audio or video in every language on every platform.
 *   [warpdotdev/Warp (⭐26k)](https://github.com/warpdotdev/Warp) - :heavy\_dollar\_sign: Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive.
 *   [Water-Run/treepp (⭐68)](https://github.com/Water-Run/treepp) - A Rust-based native Windows `tree` replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and `.gitignore` support, and several-times faster performance.
@@ -757,7 +759,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 
 ### Web
 
-*   [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions)
+*   [0xMassi/webclaw (⭐485)](https://github.com/0xMassi/webclaw) - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions)
 *   [agrinman/tunnelto (⭐6.5k)](https://github.com/agrinman/tunnelto) \[[tunnelto](https://crates.io/crates/tunnelto)] - Lets you expose your locally running web server via a public URL.
 *   [cfal/tobaru (⭐276)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 *   [importantimport/hatsu (⭐242)](https://github.com/importantimport/hatsu) - 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. [![release](https://github.com/importantimport/hatsu/actions/workflows/release.yml/badge.svg)](https://github.com/importantimport/hatsu/actions/workflows/release.yml)
@@ -797,7 +799,6 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 ## Development tools
 
 *   [aaif-goose/goose (⭐41k)](https://github.com/aaif-goose/goose) - An open-source, local AI agent that automates engineering tasks.
-*   [antinomyhq/forgecode (⭐6.4k)](https://github.com/antinomyhq/forgecode) - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
 *   [armgabrielyan/deadbranch (⭐168)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [ATAC (⭐3.5k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐3.2k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
@@ -815,12 +816,14 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 *   [envio (⭐932)](https://github.com/humblepenguinn/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml)
 *   [Feel-ix-343/markdown-oxide (⭐2k)](https://github.com/Feel-ix-343/markdown-oxide) - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
 *   [Flox (⭐3.9k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
+*   [forgecode (⭐6.5k)](https://github.com/tailcallhq/forgecode) - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
 *   [frolic (⭐200)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
 *   [fw (⭐561)](https://github.com/brocode/fw) - workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
 *   [fzf-make (⭐269)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] - A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
 *   [geiger (⭐1.6k)](https://github.com/geiger-rs/cargo-geiger) - A program that list statistics related to usage of unsafe code in a crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/geiger-rs.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
 *   [git-cliff (⭐12k)](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
 *   [git-journal (⭐645)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
+*   [git-time-machine (⭐50)](https://github.com/dinakars777/git-time-machine) - Visual git reflog TUI for undoing git mistakes [![crate](https://img.shields.io/crates/v/git-time-machine.svg)](https://crates.io/crates/git-time-machine) [![build badge](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml/badge.svg)](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml)
 *   [hot-lib-reloader (⭐744)](https://github.com/rksm/hot-lib-reloader-rs) - Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 *   [j178/prek (⭐7.2k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
@@ -982,14 +985,14 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 
 ### Formatters
 
-*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+*   [astral-sh/ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
 *   [dprint (⭐3.9k)](https://github.com/dprint/dprint) - A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
 *   [Prettier Rust (⭐204)](https://github.com/jinxdash/prettier-plugin-rust) - An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 *   [rustfmt (⭐6.8k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
 
 ### IDEs
 
-See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://rust-lang.org/tools/).
+See also [Rust Tools](https://rust-lang.org/tools/).
 
 *   [Eclipse](https://www.eclipse.org/)
     *   [Eclipse Corrosion (⭐238)](https://github.com/eclipse-corrosion/corrosion) - a Rust development plugin for the Eclipse IDE, providing a rich edition experience through integration with the Rust Analyzer language server, Cargo runner and gdb debugger
@@ -1266,7 +1269,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   Argument parsing
     *   [clap-rs (⭐16k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] - A simple to use, full featured command-line argument parser
     *   [cliparser](https://crates.io/crates/cliparser) - Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/actions/workflows/ci.yml/badge.svg)](https://github.com/sagiegurari/cliparser/actions)
-    *   [docopt/docopt.rs (⭐749)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] - Implementation of [DocOpt](http://docopt.org)
+    *   [docopt/docopt.rs (⭐749)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] - Implementation of DocOpt
     *   [google/argh (⭐1.9k)](https://github.com/google/argh) \[[argh](https://crates.io/crates/argh)] - An opinionated Derive-based argument parser optimized for code size [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions)
     *   [killercup/quicli (⭐537)](https://github.com/killercup/quicli) \[[quicli](https://crates.io/crates/quicli)] - quickly build cool CLI apps
     *   [ksk001100/seahorse (⭐305)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] - A minimal CLI framework [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
@@ -2141,7 +2144,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 *   [beneills/quantum (⭐283)](https://github.com/beneills/quantum) - Advanced quantum computer simulator
 *   [bytecodealliance/wasmtime (⭐18k)](https://github.com/bytecodealliance/wasmtime) - A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
-*   [capsule (⭐276)](https://github.com/mavdol/capsule) - WebAssembly sandboxing runtime for executing untrusted code
+*   [capsule (⭐277)](https://github.com/capsulerun/capsule) - WebAssembly sandboxing runtime for executing untrusted code
 *   [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) - CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 *   [oxidecomputer/propolis (⭐239)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 *   [saurvs/hypervisor-rs (⭐69)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
@@ -2245,6 +2248,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 *   [cenotelie/cratery (⭐174)](https://github.com/cenotelie/cratery) - A lightweight private cargo registry with batteries included, built for organisations, including features similar to [docs.rs](https://docs.rs) and [deps.rs](https://deps.rs). [![CI](https://github.com/cenotelie/cratery/actions/workflows/ci.yml/badge.svg)](https://github.com/cenotelie/cratery/actions/workflows/ci.yml)
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/cargo-registry) - A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.
 *   [Crates](https://crates.io) - The official public registry for Rust/Cargo.
+*   [getnora-io/nora (⭐35)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 *   [RepoFlow](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 *   [w4/chartered (⭐129)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 

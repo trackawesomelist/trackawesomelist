@@ -391,6 +391,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [regula (⭐964)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 *   [redc (⭐144)](https://github.com/wgpsec/redc) - Next-generation red team infrastructure automation tool built on Terraform, supporting multi-cloud deployment (Alibaba Cloud, Tencent Cloud, AWS, etc.) with one-command deployment for creating, configuring, and destroying red team environments.
 *   [renovate-config (⭐53)](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
+*   [Riftmap](https://riftmap.dev) - Cross-repo dependency and change impact engine that scans multi-repo infrastructure across Terraform, Docker, Helm, and more to visualize what depends on what and what breaks when something changes.
 *   [rover (⭐3.3k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 *   [ruby-terraform (⭐112)](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
@@ -431,7 +432,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-rake-tasks (⭐4)](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 *   [terraform-repl (⭐134)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 *   [Terraform-Visual (⭐666)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
-*   [terravision (⭐1.4k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
+*   [terravision (⭐1.5k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
 *   [terraform.py (⭐454)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
 *   [terraformer (⭐15k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`. :skull:

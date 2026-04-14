@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Network & Web / Network
+
+*   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
+
 ## [Apr 13, 2026](/content/2026/04/13/README.md)
 
 ### Fundamentals / Documentation and Testing

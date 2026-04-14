@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [ryo-zen/zig-docs-mcp (⭐0)](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
 
+### Network & Web / Network
+
+*   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
+
 ### Network & Web / Web3 Framework
 
 *   [ryo-zen/zeicoin (⭐3)](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.

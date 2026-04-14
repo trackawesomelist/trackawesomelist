@@ -68,54 +68,24 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 #### [Programming Languages](#programming-languages-1)
 
-*   [ABAP](#abap)
-*   [Ada](#ada)
-*   [Assembly](#asm)
-*   [Awk](#awk)
-*   [C](#c)
-*   [C#](#csharp)
-*   [C++](#cpp)
-*   [Clojure](#clojure)
-*   [CoffeeScript](#coffeescript)
-*   [ColdFusion](#coldfusion)
-*   [Crystal](#crystal)
-*   [Dart](#dart)
-*   [Delphi](#delphi)
-*   [Dlang](#dlang)
-*   [Elixir](#elixir)
-*   [Elm](#elm)
-*   [Erlang](#erlang)
-*   [F#](#fsharp)
-*   [Fortran](#fortran)
-*   [Go](#go)
-*   [Groovy](#groovy)
-*   [Haskell](#haskell)
-*   [Haxe](#haxe)
-*   [Java](#java)
-*   [JavaScript](#javascript)
-*   [Julia](#julia)
-*   [Kotlin](#kotlin)
-*   [Lua](#lua)
-*   [MATLAB](#matlab)
-*   [Nim](#nim)
-*   [Ocaml](#ocaml)
-*   [PHP](#php)
-*   [PL/SQL](#plsql)
-*   [Perl](#perl)
-*   [Python](#python)
-*   [R](#r)
-*   [Rego](#rego)
-*   [Ruby](#ruby)
-*   [Rust](#rust)
-*   [SQL](#sql)
-*   [Scala](#scala)
-*   [Shell](#shell)
-*   [Swift](#swift)
-*   [Tcl](#tcl)
-*   [TypeScript](#typescript)
-*   [Verilog/SystemVerilog](#verilog)
-*   [Vim Script](#vim-script)
-*   [WebAssembly](#wasm)
+|                               |                           |                                   |
+| ----------------------------- | ------------------------- | --------------------------------- |
+| [ABAP](#abap)                 | [Erlang](#erlang)         | [PL/SQL](#plsql)                  |
+| [Ada](#ada)                   | [F#](#fsharp)             | [Perl](#perl)                     |
+| [Assembly](#asm)              | [Fortran](#fortran)       | [Python](#python)                 |
+| [Awk](#awk)                   | [Go](#go)                 | [R](#r)                           |
+| [C](#c)                       | [Groovy](#groovy)         | [Rego](#rego)                     |
+| [C#](#csharp)                 | [Haskell](#haskell)       | [Ruby](#ruby)                     |
+| [C++](#cpp)                   | [Haxe](#haxe)             | [Rust](#rust)                     |
+| [Clojure](#clojure)           | [Java](#java)             | [SQL](#sql)                       |
+| [CoffeeScript](#coffeescript) | [JavaScript](#javascript) | [Scala](#scala)                   |
+| [ColdFusion](#coldfusion)     | [Julia](#julia)           | [Shell](#shell)                   |
+| [Crystal](#crystal)           | [Kotlin](#kotlin)         | [Swift](#swift)                   |
+| [Dart](#dart)                 | [Lua](#lua)               | [Tcl](#tcl)                       |
+| [Delphi](#delphi)             | [MATLAB](#matlab)         | [TypeScript](#typescript)         |
+| [Dlang](#dlang)               | [Nim](#nim)               | [Verilog/SystemVerilog](#verilog) |
+| [Elixir](#elixir)             | [Ocaml](#ocaml)           | [Vim Script](#vim-script)         |
+| [Elm](#elm)                   | [PHP](#php)               | [WebAssembly](#wasm)              |
 
 #### [Multiple Languages](#multiple-languages-1)
 
@@ -124,48 +94,22 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 <details>
  <summary>Show Other</summary>
 
-*   [.env](#dotenv)
-*   [Ansible](#ansible)
-*   [Archive](#archive)
-*   [Azure Resource Manager](#arm)
-*   [Binaries](#binary)
-*   [Build tools](#buildtool)
-*   [CSS/SASS/SCSS](#css)
-*   [Config Files](#configfile)
-*   [Configuration Management](#configmanagement)
-*   [Containers](#container)
-*   [Continuous Integration](#ci)
-*   [Deno](#deno)
-*   [Dockerfile](#dockerfile)
-*   [Embedded](#embedded)
-*   [Embedded Ruby (a.k.a. ERB, eRuby)](#erb)
-*   [Gherkin](#gherkin)
-*   [HTML](#html)
-*   [JSON](#json)
-*   [Kubernetes](#kubernetes)
-*   [LaTeX](#latex)
-*   [Laravel](#laravel)
-*   [Makefiles](#make)
-*   [Markdown](#markdown)
-*   [Metalinter](#meta)
-*   [Mobile](#mobile)
-*   [Nix](#nix)
-*   [Node.js](#nodejs)
-*   [Packages](#package)
-*   [Prometheus](#prometheus)
-*   [Protocol Buffers](#protobuf)
-*   [Puppet](#puppet)
-*   [Rails](#rails)
-*   [Security/SAST](#security)
-*   [Smart Contracts](#smart-contracts)
-*   [Support](#support)
-*   [Template-Languages](#template)
-*   [Terraform](#terraform)
-*   [Translation](#translation)
-*   [Vue.js](#vue)
-*   [Writing](#writing)
-*   [YAML](#yaml)
-*   [git](#git)
+|                                               |                                           |                                     |
+| --------------------------------------------- | ----------------------------------------- | ----------------------------------- |
+| [.env](#dotenv)                               | [Embedded Ruby (a.k.a. ERB, eRuby)](#erb) | [Prometheus](#prometheus)           |
+| [Ansible](#ansible)                           | [Gherkin](#gherkin)                       | [Protocol Buffers](#protobuf)       |
+| [Archive](#archive)                           | [HTML](#html)                             | [Puppet](#puppet)                   |
+| [Azure Resource Manager](#arm)                | [JSON](#json)                             | [Rails](#rails)                     |
+| [Binaries](#binary)                           | [Kubernetes](#kubernetes)                 | [Security/SAST](#security)          |
+| [Build tools](#buildtool)                     | [LaTeX](#latex)                           | [Smart Contracts](#smart-contracts) |
+| [CSS/SASS/SCSS](#css)                         | [Laravel](#laravel)                       | [Support](#support)                 |
+| [Config Files](#configfile)                   | [Makefiles](#make)                        | [Template-Languages](#template)     |
+| [Configuration Management](#configmanagement) | [Markdown](#markdown)                     | [Terraform](#terraform)             |
+| [Containers](#container)                      | [Metalinter](#meta)                       | [Translation](#translation)         |
+| [Continuous Integration](#ci)                 | [Mobile](#mobile)                         | [Vue.js](#vue)                      |
+| [Deno](#deno)                                 | [Nix](#nix)                               | [Writing](#writing)                 |
+| [Dockerfile](#dockerfile)                     | [Node.js](#nodejs)                        | [YAML](#yaml)                       |
+| [Embedded](#embedded)                         | [Packages](#package)                      | [git](#git)                         |
 
 </details>
 
@@ -837,7 +781,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
 
-*   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 *   [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 

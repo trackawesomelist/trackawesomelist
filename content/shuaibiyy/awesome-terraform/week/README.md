@@ -16,6 +16,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [compliance.tf docs](https://compliance.tf/docs/) - Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.
 
+### Tools / Community providers
+
+*   [Riftmap](https://riftmap.dev) - Cross-repo dependency and change impact engine that scans multi-repo infrastructure across Terraform, Docker, Helm, and more to visualize what depends on what and what breaks when something changes.
+
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [compliance.tf](https://compliance.tf) - Terraform modules with SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other frameworks built in. Non-compliant configs fail at `terraform plan` before anything applies. :heavy\_dollar\_sign:
@@ -24,7 +28,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [terravision (⭐1.4k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
+*   [terravision (⭐1.5k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 

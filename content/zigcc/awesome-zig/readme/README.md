@@ -447,6 +447,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [williamw520/zigjr (⭐49)](https://github.com/williamw520/zigjr) - A lightweight Zig library for building JSON-RPC 2.0 applications.
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 *   [zigcord](https://codeberg.org/lipfang/zigcord) - Typed Discord API for Zig.
+*   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
 *   [zigtls (⭐2)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
 ### Browser

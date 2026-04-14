@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Development / Database
+
+*   [squix (⭐206)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+
 ## [Apr 13, 2026](/content/2026/04/13/README.md)
 
 ### Development / HTTP Client

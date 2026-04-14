@@ -240,7 +240,7 @@ Please take a quick gander at the [contribution guidelines (⭐170k)](https://gi
 *   [localaik (⭐1)](https://github.com/harshaneel/localaik) - Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.
 *   [Ollama (⭐166k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 *   [OllamaFarm (⭐98)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
-*   [otellix (⭐0)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
+*   [otellix (⭐4)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 *   [routex (⭐2)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
 
 **[⬆ back to top](#contents)**
@@ -786,6 +786,7 @@ additional ordered map implementations.
 *   [Milvus (⭐44k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [moss (⭐1k)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [NoKV (⭐225)](https://github.com/feichai0017/NoKV) - High-performance distributed KV storage based on LSM Tree.
+*   [NornicDB (⭐570)](https://github.com/orneryd/NornicDB) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
 *   [nutsdb (⭐3.6k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 *   [objectbox-go (⭐1.3k)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 *   [pebble (⭐5.8k)](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go.
@@ -1006,7 +1007,7 @@ additional ordered map implementations.
 *   [arpc (⭐1.1k)](https://github.com/lesismal/arpc) - More effective network communication, support two-way-calling, notify, broadcast.
 *   [bedrock (⭐15)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
 *   [capillaries (⭐69)](https://github.com/capillariesio/capillaries) - distributed batch data processing framework.
-*   [circuit (⭐2)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
+*   [circuit (⭐3)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
 *   [committer (⭐41)](https://github.com/vadiminshakov/committer) - A distributed transactions management system (2PC/3PC implementation).
 *   [consistent (⭐769)](https://github.com/buraksezer/consistent) - Consistent hashing with bounded loads.
 *   [consistenthash (⭐32)](https://github.com/mbrostami/consistenthash) - Consistent hashing with configurable replicas.
@@ -1037,7 +1038,7 @@ additional ordered map implementations.
 *   [go-zero (⭐33k)](https://github.com/tal-tech/go-zero) - A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 *   [gorpc (⭐709)](https://github.com/valyala/gorpc) - Simple, fast and scalable RPC library for high load.
 *   [grpc-go (⭐23k)](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC.
-*   [health (⭐8)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
+*   [health (⭐11)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
 *   [hprose (⭐1.3k)](https://github.com/hprose/hprose-golang) - Very newbility RPC Library, support 25+ languages now.
 *   [jsonrpc (⭐193)](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0.
 *   [jsonrpc (⭐370)](https://github.com/ybbus/jsonrpc) - JSON-RPC 2.0 HTTP client implementation.
@@ -1903,7 +1904,7 @@ additional ordered map implementations.
 *   [caps (⭐61)](https://github.com/chanced/caps) - A case conversion library.
 *   [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 *   [gobeam/Stringy (⭐251)](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
-*   [str (⭐7)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
+*   [str (⭐9)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
 *   [strcase (⭐14)](https://github.com/charlievieth/strcase) - Case-insensitive implementation of the standard library's strings/bytes packages.
 *   [stringFormatter (⭐65)](https://github.com/Wissance/stringFormatter) - String formatting like in Python or C# manner with the additional text formatting features.
 *   [strutil (⭐206)](https://github.com/ozgio/strutil) - String utilities.
@@ -2328,7 +2329,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [sparse (⭐167)](https://github.com/james-bowman/sparse) - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
 *   [stats (⭐3k)](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
 *   [streamtools (⭐1.3k)](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
-*   [taxonkit (⭐466)](https://github.com/shenwei356/taxonkit) - A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files.
+*   [taxonkit (⭐469)](https://github.com/shenwei356/taxonkit) - A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files.
 *   [TextRank (⭐223)](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 *   [topk (⭐16)](https://github.com/keilerkonzept/topk) - Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm.
 *   [triangolatte (⭐37)](https://github.com/tchayen/triangolatte) - 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs.
@@ -2374,7 +2375,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [optimus-go (⭐366)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐291)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐74)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
-*   [pii-shield (⭐45)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+*   [pii-shield (⭐51)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 *   [qrand (⭐17)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 *   [SafeDep/vet (⭐1k)](https://github.com/safedep/vet) - Protect against malicious open source packages.
@@ -3484,7 +3485,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [terraform-provider-openapi (⭐280)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
 *   [tf-profile (⭐165)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 *   [tlm (⭐1.5k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
-*   [traefik (⭐62k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
+*   [traefik (⭐63k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐337)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 *   [uTask (⭐1.4k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐25k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!

@@ -8,9 +8,25 @@
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### Developer Tools / Virtualization
+
+*   [GhostVM (⭐132)](https://github.com/groundwater/GhostVM) - Virtualization tool for creating and managing isolated macOS virtual machine workspaces. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Design and Product / Screen Recording
 
 *   [ScreenKite](https://www.screenkite.com/) - Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Menu Bar Tools
+
+*   [ChargeMonitor (⭐4)](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CrashSystemZ/ChargeMonitor)
+
+### Utilities / Cleanup and Uninstall
+
+*   [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lcharvol/MacSift) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [SwiftMTP (⭐168)](https://github.com/Neighbor-Z/SwiftMTP) - Open-source MTP device manager for browsing and transferring files between Mac and Android devices. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -75,7 +91,7 @@
 *   [Atomic Chat (⭐258)](https://github.com/AtomicBot-ai/Atomic-Chat) - Open-source AI chat client for local and cloud models with MCP support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AtomicBot-ai/Atomic-Chat)
 *   [Claudoscope (⭐30)](https://github.com/cordwainersmith/claudoscope) - Tool for browsing and analyzing Claude Code sessions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cordwainersmith/claudoscope) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ClawdHome](https://clawdhome.app/) - Manage multiple isolated OpenClaw gateway instances from one control panel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
-*   [Flock (⭐2)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Divagation/flock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flock (⭐10)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Divagation/flock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -101,7 +117,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Repose (⭐1)](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikrikarim/repose) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Repose (⭐12)](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fikrikarim/repose) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NetFluss](https://www.ranagmbh.de/netfluss/) - Native menu bar app for real-time upload/download speeds and top bandwidth-using apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rana-gmbh/netfluss) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 *   [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - Keyboard sound tool that adds mechanical-style typing audio. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
@@ -146,7 +162,7 @@
 
 ### Security Tools / Audio Record and Process
 
-*   [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/HMAKT99/UnTouchID) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TouchBridge (⭐183)](https://github.com/HMAKT99/UnTouchID) - Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/HMAKT99/UnTouchID) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 
@@ -158,7 +174,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [markdown-quicklook (⭐0)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ruspg/markdown-quicklook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [markdown-quicklook (⭐1)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ruspg/markdown-quicklook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -211,7 +227,7 @@
 
 ### Terminal Apps / Databases
 
-*   [Awal Terminal (⭐12)](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AwalTerminal/Awal-terminal) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Awal Terminal (⭐14)](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AwalTerminal/Awal-terminal) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -311,7 +327,7 @@
 
 *   [Configs (⭐201)](https://github.com/iHongRen/configEditor) - Configuration file manager for quickly viewing, editing and managing config files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iHongRen/configEditor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Poirot (⭐165)](https://github.com/LeonardoCardoso/Poirot) - Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LeonardoCardoso/Poirot) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [PortKiller (⭐4.6k)](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/productdevbook/port-killer)
+*   [PortKiller (⭐4.7k)](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/productdevbook/port-killer)
 *   [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac) - .nib to .xib converter [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac)
 
 ### Developer Tools / Regular Expression Editors
@@ -353,7 +369,7 @@
 
 ### Translation Tools / Audio Record and Process
 
-*   [MoePeek (⭐573)](https://github.com/cosZone/MoePeek) - Translation tool with text selection, OCR, clipboard, and manual input support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cosZone/MoePeek) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MoePeek (⭐605)](https://github.com/cosZone/MoePeek) - Translation tool with text selection, OCR, clipboard, and manual input support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cosZone/MoePeek) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Finance / Audio Record and Process
 
@@ -1909,7 +1925,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐2.5k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐2.6k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [Syntax Highlight (⭐4k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)

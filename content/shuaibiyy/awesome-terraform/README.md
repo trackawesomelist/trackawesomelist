@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Tools / Community providers
+
+*   [Riftmap](https://riftmap.dev) - Cross-repo dependency and change impact engine that scans multi-repo infrastructure across Terraform, Docker, Helm, and more to visualize what depends on what and what breaks when something changes.
+
 ## [Apr 13, 2026](/content/2026/04/13/README.md)
 
 ### Community
@@ -24,7 +30,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [terravision (⭐1.4k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
+*   [terravision (⭐1.5k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
 
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 

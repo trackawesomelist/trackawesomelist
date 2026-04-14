@@ -429,7 +429,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [PaintCode](https://www.paintcodeapp.com/) - Vector drawing app that generates Objective-C or Swift code in real time.
 *   [Pasteboard Viewer (⭐821)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709?platform=mac)
 *   [Poirot (⭐165)](https://github.com/LeonardoCardoso/Poirot) - Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
-*   [PortKiller (⭐4.6k)](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
+*   [PortKiller (⭐4.7k)](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 *   [PPRows (⭐1.5k)](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 *   [ProcessSpy](https://process-spy.app/) - A clean and powerful process monitor.
 *   [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
@@ -540,6 +540,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *   [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 *   [Cocoa-Way (⭐801)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
+*   [GhostVM (⭐132)](https://github.com/groundwater/GhostVM) - Virtualization tool for creating and managing isolated macOS virtual machine workspaces. ![Freeware][Freeware Icon]
 *   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 *   [Mocker (⭐103)](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 *   [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
@@ -603,7 +604,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Terminal Apps
 
 *   [alacritty (⭐63k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
-*   [Awal Terminal (⭐12)](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
+*   [Awal Terminal (⭐14)](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 *   [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 *   [electerm](https://electerm.github.io/electerm/) - Terminal, SSH, and SFTP client. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 *   [Ghostty (⭐50k)](https://github.com/ghostty-org/ghostty) - Fast GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
@@ -786,7 +787,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 *   [CodexBar](https://codexbar.app) - Show usage stats for OpenAI Codex and Claude Code, without having to login. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 *   [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
-*   [Flock (⭐2)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
+*   [Flock (⭐10)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 *   [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 *   [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 *   [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
@@ -1052,7 +1053,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [iTranslate](http://www.itranslate.com/) - Translation app for text and web pages in multiple languages. ![Freeware][Freeware Icon]
 *   [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
 *   [Mate Translate](https://gikken.co/mate-translate/mac) - Translate in Safari and any app on macOS between 103 languages.
-*   [MoePeek (⭐573)](https://github.com/cosZone/MoePeek) - Translation tool with text selection, OCR, clipboard, and manual input support. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
+*   [MoePeek (⭐605)](https://github.com/cosZone/MoePeek) - Translation tool with text selection, OCR, clipboard, and manual input support. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
 *   [Nani](https://nani.now) - Fast AI translation with explanations.
 *   [OpenAI Translator (⭐25k)](https://github.com/yetone/openai-translator) - Translation app and browser extension powered by AI models. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
 *   [ScreenTranslate](https://screentranslate.filient.ai/) - Capture any area or select text to translate instantly, fully on-device. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
@@ -1096,7 +1097,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware][Freeware Icon]
 *   [swiftGuard (⭐452)](https://github.com/Lennolium/swiftGuard) - Tool for protecting USB ports from unauthorized access. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 *   [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/TaskExplorer)
-*   [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
+*   [TouchBridge (⭐183)](https://github.com/HMAKT99/UnTouchID) - Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 *   [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Finder extension for viewing a file's code-signing information. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/WhatsYourSign) ![Freeware][Freeware Icon]
 
 ## Proxy and VPN Tools
@@ -1160,6 +1161,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 *   [Atoll (⭐1.6k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 *   [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
+*   [ChargeMonitor (⭐4)](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 *   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with hidden zones and automation rules. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 *   [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - Menu bar tool for managing Bluetooth devices with hotkeys and automation. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 *   [BeardedSpice (⭐2.8k)](https://github.com/beardedspice/beardedspice) - Control web players and supported apps with your keyboard media keys. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
@@ -1171,7 +1173,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Dozer (⭐8.6k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 *   [DynamicHorizon](https://dynamichorizon.app) - Adds media controls, notifications, and system indicators to the notch area.
 *   [Eye Timer](https://adelmaer.com/eyetimer) - Take Breaks to prevent Eye Strain timer for Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/eye-timer/id1485856873?platform=mac)
-*   [Repose (⭐1)](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
+*   [Repose (⭐12)](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 *   [GoogleDriveSync (⭐364)](https://github.com/saihgupr/GoogleDriveSync) - A menu bar app for seamless Google Drive syncing. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 *   [Folder Peek](https://sindresorhus.com/folder-peek) - Quickly access documents, files, folders, and apps from the menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1615988943?platform=mac)
@@ -1227,6 +1229,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [ClearDisk (⭐252)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 *   [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 *   [Mac Cache Cleaner (⭐244)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+*   [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 *   [OmniDiskSweeper](https://www.omnigroup.com/more) - Scans files by size so you can quickly find space hogs. ![Freeware][Freeware Icon]
 *   [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 *   [PureMac (⭐19)](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
@@ -1495,6 +1498,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 *   [SteerMouse](https://plentycom.jp/en/steermouse/) - Customize mouse buttons, wheel behavior, and cursor speed.
 *   [SwiftQuit (⭐492)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit) ![Freeware][Freeware Icon]
+*   [SwiftMTP (⭐168)](https://github.com/Neighbor-Z/SwiftMTP) - Open-source MTP device manager for browsing and transferring files between Mac and Android devices. [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 *   [Core Tunnel](https://codinn.com/tunnel/) - Application for managing SSH connections. [![App Store][app-store Icon]](https://apps.apple.com/us/app/core-tunnel/id1354318707?platform=mac)
 *   [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 *   [Time Machine Inspector (⭐195)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
@@ -1529,9 +1533,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
-*   [QLMarkdown (⭐2.5k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+*   [QLMarkdown (⭐2.6k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 *   [FluxMarkdown (⭐81)](https://github.com/xykong/flux-markdown) - Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
-*   [markdown-quicklook (⭐0)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
+*   [markdown-quicklook (⭐1)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 *   [Torrent Preview (⭐20)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 *   [quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 *   [Syntax Highlight (⭐4k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]

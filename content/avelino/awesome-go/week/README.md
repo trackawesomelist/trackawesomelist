@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### Databases Implemented in Go
+
+*   [NornicDB (⭐570)](https://github.com/orneryd/NornicDB) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
+
 ### Web Frameworks
 
 *   [doors (⭐36)](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
@@ -53,7 +57,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [AegisFlow (⭐7)](https://github.com/saivedant169/AegisFlow) - AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.
 *   [localaik (⭐1)](https://github.com/harshaneel/localaik) - Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.
-*   [otellix (⭐0)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
+*   [otellix (⭐4)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 *   [routex (⭐2)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
 
 ### Advanced Console UIs
@@ -71,8 +75,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [circuit (⭐2)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
-*   [health (⭐8)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
+*   [circuit (⭐3)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
+*   [health (⭐11)](https://github.com/schigh/health) - Health checker for Go services with Kubernetes probe support.
 
 ### Financial
 
@@ -96,7 +100,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Strings
 
-*   [str (⭐7)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
+*   [str (⭐9)](https://github.com/schigh/str) - Pipeline-first string toolkit for composing transformations.
 
 ### Networking
 
@@ -225,12 +229,12 @@ A curated list of awesome Go frameworks, libraries and software
 ### Science and Data Analysis
 
 *   [entitydebs (⭐1)](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
-*   [taxonkit (⭐466)](https://github.com/shenwei356/taxonkit) - A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files.
+*   [taxonkit (⭐469)](https://github.com/shenwei356/taxonkit) - A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files.
 
 ### Security
 
 *   [leakhound (⭐14)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
-*   [pii-shield (⭐45)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+*   [pii-shield (⭐51)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 
 ### Testing Frameworks
@@ -5505,7 +5509,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [skm (⭐1k)](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
 *   [StatusOK (⭐1.6k)](https://github.com/sanathp/statusok) - Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 *   [terraform-provider-openapi (⭐280)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
-*   [traefik (⭐62k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
+*   [traefik (⭐63k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐337)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 *   [uTask (⭐1.4k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐25k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!

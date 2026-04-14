@@ -6,6 +6,29 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Applications / System tools
+
+*   [hyperb1iss/unifly (⭐140)](https://github.com/hyperb1iss/unifly) \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml)
+
+### Applications / Utilities
+
+*   [veirt/weathr (⭐2.7k)](https://github.com/Veirt/weathr) \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml)
+
+### Development tools / Workflow Automation
+
+*   [forgecode (⭐6.5k)](https://github.com/tailcallhq/forgecode) - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
+*   [git-time-machine (⭐50)](https://github.com/dinakars777/git-time-machine) - Visual git reflog TUI for undoing git mistakes [![crate](https://img.shields.io/crates/v/git-time-machine.svg)](https://crates.io/crates/git-time-machine) [![build badge](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml/badge.svg)](https://github.com/dinakars777/git-time-machine/actions/workflows/rust.yml)
+
+### Libraries / Virtualization
+
+*   [capsule (⭐277)](https://github.com/capsulerun/capsule) - WebAssembly sandboxing runtime for executing untrusted code
+
+### Registries / Web programming
+
+*   [getnora-io/nora (⭐35)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
 ### Development tools / Build system
@@ -92,7 +115,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions)
+*   [0xMassi/webclaw (⭐485)](https://github.com/0xMassi/webclaw) - Web content extraction for LLMs with TLS fingerprinting, MCP server, and no browser needed [![CI](https://github.com/0xMassi/webclaw/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMassi/webclaw/actions)
 
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
@@ -118,7 +141,6 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [antinomyhq/forgecode (⭐6.4k)](https://github.com/antinomyhq/forgecode) - A terminal-based AI pair programmer for code generation and editing. [![Website](https://img.shields.io/badge/website-forgecode.dev-blue)](https://forgecode.dev/)
 *   [Feel-ix-343/markdown-oxide (⭐2k)](https://github.com/Feel-ix-343/markdown-oxide) - A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune
 *   [mise (⭐27k)](https://github.com/jdx/mise) \[[mise](https://crates.io/crates/mise)] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance. [![build badge](https://github.com/jdx/mise/actions/workflows/test.yml/badge.svg)](https://github.com/jdx/mise/actions/workflows/test.yml)
 
@@ -219,7 +241,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+*   [astral-sh/ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
 
 ## [Mar 10, 2026](/content/2026/03/10/README.md)
 
@@ -372,7 +394,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
+*   [pgdogdev/pgdog (⭐4.3k)](https://github.com/pgdogdev/pgdog) - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
 *   [ruvnet/ruvector (⭐3.8k)](https://github.com/ruvnet/ruvector) \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
 
 ### Applications / Productivity
@@ -562,7 +584,6 @@ A curated list of Rust code and resources.
 
 ### Libraries / Virtualization
 
-*   [capsule (⭐276)](https://github.com/mavdol/capsule) - WebAssembly sandboxing runtime for executing untrusted code
 *   [wasmi-labs/wasmi (⭐2.1k)](https://github.com/wasmi-labs/wasmi) - A lightweight runtime for WebAssembly
 
 ## [Jan 07, 2026](/content/2026/01/07/README.md)
@@ -3478,7 +3499,7 @@ A curated list of Rust code and resources.
 *   Argument parsing
     *   [clap-rs (⭐16k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] - A simple to use, full featured command-line argument parser
     *   [cliparser](https://crates.io/crates/cliparser) - Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/actions/workflows/ci.yml/badge.svg)](https://github.com/sagiegurari/cliparser/actions)
-    *   [docopt/docopt.rs (⭐749)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] - Implementation of [DocOpt](http://docopt.org)
+    *   [docopt/docopt.rs (⭐749)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] - Implementation of DocOpt
     *   [google/argh (⭐1.9k)](https://github.com/google/argh) \[[argh](https://crates.io/crates/argh)] - An opinionated Derive-based argument parser optimized for code size [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions)
     *   [killercup/quicli (⭐537)](https://github.com/killercup/quicli) \[[quicli](https://crates.io/crates/quicli)] - quickly build cool CLI apps
     *   [ksk001100/seahorse (⭐305)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] - A minimal CLI framework [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)

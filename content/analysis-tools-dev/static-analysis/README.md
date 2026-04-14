@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -1212,7 +1218,6 @@
 *   [PHP-Parser (⭐17k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 *   [php-speller (⭐68)](https://github.com/mekras/php-speller) — PHP spell check library.
 *   [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
-*   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 *   [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
 *   [phpmnd (⭐579)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.

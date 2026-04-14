@@ -8,6 +8,10 @@
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### Development / Database
+
+*   [squix (⭐206)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+
 ### Development / HTTP Client
 
 *   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.

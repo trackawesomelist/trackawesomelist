@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Web
+
+*   [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
+
 ## [Mar 29, 2026](/content/2026/03/29/README.md)
 
 ### Command-line
@@ -27,7 +33,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Utilities
 
-*   [boj-server (⭐1)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
+*   [boj-server (⭐2)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
@@ -122,7 +128,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 
 *   [v-vite starter (⭐5)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
-*   [vite.v (⭐13)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
+*   [vite.v (⭐14)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
 ## [Mar 04, 2025](/content/2025/03/04/README.md)
 
@@ -151,7 +157,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [sdl (⭐108)](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
 *   [sgldraw (⭐11)](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
-*   [voronoi (⭐1)](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi (⭐712)](https://github.com/JCash/voronoi).
+*   [voronoi (⭐1)](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi (⭐713)](https://github.com/JCash/voronoi).
 *   [vqoi (⭐15)](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
 
 ### Interoperability
@@ -172,7 +178,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [vfetch (⭐13)](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
+*   [vfetch (⭐14)](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 
 ### Serialization
 
@@ -217,7 +223,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editor plugins / VS Code
 
-*   [v-analyzer (⭐200)](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
+*   [v-analyzer (⭐201)](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
 
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
@@ -334,7 +340,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Utilities
 
-*   [emoji-mart-desktop (⭐25)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
+*   [emoji-mart-desktop (⭐24)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 
 ### User Interface toolkits
 
@@ -359,7 +365,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Game development
 
-*   [shy (⭐60)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
+*   [shy (⭐61)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 
 ## [Jul 23, 2023](/content/2023/07/23/README.md)
 
@@ -429,7 +435,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Interpreters/Compilers
 
-*   [vas (⭐104)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
+*   [vas (⭐105)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
@@ -511,7 +517,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐403)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+*   [vscode-vlang (⭐404)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
 ### Online IDEs with V / Vim
 
@@ -575,7 +581,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Scientific computing
 
 *   [vsl (⭐393)](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
-*   [vtl (⭐160)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+*   [vtl (⭐161)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 
 ## [Oct 04, 2022](/content/2022/10/04/README.md)
 
@@ -718,7 +724,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [ascii\_robot (⭐14)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 *   [chalk (⭐23)](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 *   [cjson (⭐15)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-*   [crayon (⭐60)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
+*   [crayon (⭐61)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 *   [iconv (⭐7)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 *   [Rosie-RPL (⭐6)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 *   [v-regex (⭐15)](https://github.com/spytheman/v-regex) - A simple regex library for V.
@@ -792,7 +798,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Tutorials / Vim
 
 *   [Learn V in Y Minutes (⭐60)](https://github.com/v-community/learn_v_in_y_minutes)
-*   [V by Example (⭐176)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
+*   [V by Example (⭐177)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 *   [V for Node Devs (⭐29)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 *   [V learning notes (⭐180)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
@@ -858,8 +864,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command line interface (CLI) / Terminal / Shell
 
 *   [progressbar (⭐31)](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-*   [termtable (⭐50)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
-*   [vargs (⭐38)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+*   [termtable (⭐51)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
+*   [vargs (⭐39)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 
 ## [Apr 02, 2021](/content/2021/04/02/README.md)
 
@@ -907,7 +913,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [boxx (⭐105)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
+*   [boxx (⭐106)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 
 ### Operating system
 
