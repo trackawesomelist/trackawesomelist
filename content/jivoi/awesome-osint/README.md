@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Data Breach Search Engines
+
+*   [NOX (⭐146)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
+
+### Other Tools / GitHub
+
+*   [ReconFTW (⭐7.4k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
+
 ## [Apr 11, 2026](/content/2026/04/11/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
@@ -1767,7 +1777,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐74k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐81k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ## [Oct 09, 2020](/content/2020/10/09/README.md)
 

@@ -6,6 +6,16 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 [ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / Weekly / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Tooling 🧰 / Usage Monitors
+
+*   [ccxray (⭐104)](https://github.com/lis186/ccxray) by [lis186](https://github.com/lis186) - A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization.
+
+### Workflows & Knowledge Guides 🧠 / General
+
+*   [Encyclopedia of Agentic Coding Patterns](https://aipatternbook.com) by [Wolf McNally](https://github.com/wolfmcnally) - A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### CLAUDE.md Files 📂 / Domain-Specific
@@ -21,7 +31,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ### Tooling 🧰 / General
 
-*   [claude-devtools (⭐2.8k)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
+*   [claude-devtools (⭐3.1k)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 

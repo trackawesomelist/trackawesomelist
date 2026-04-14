@@ -573,7 +573,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nonius (⭐368)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐3.3k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 *   [snitch (⭐308)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐510)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐578)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐5.1k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 *   [utest.h (⭐963)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
@@ -1026,7 +1026,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [lwIP](http://savannah.nongnu.org/projects/lwip/) - A lightweight TCP/IP stack. \[Modified BSD]
 *   [mailio (⭐471)](https://github.com/karastojko/mailio) - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
 *   [Mongoose (⭐13k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
-*   [MQTT-C (⭐878)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐880)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 *   [mTCP (⭐2.1k)](https://github.com/mtcp-stack/mtcp) - Highly scalable user-level TCP stack for multicore systems. \[Modified BSD]
 *   [Muduo (⭐16k)](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
 *   [nghttp2 (⭐5k)](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
@@ -1406,6 +1406,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [StringZilla (⭐3.4k)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 *   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 *   [tgbotxx (⭐21)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
+*   [The RaBitQ Library (⭐190)](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm. \[Apache-2.0] [website](https://vectordb-ntu.github.io/RaBitQ-Library/)
 *   [tiny::optional (⭐145)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
 *   [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. \[LGPL]
 *   [ub-canaries (⭐184)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.

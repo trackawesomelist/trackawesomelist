@@ -181,6 +181,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [Rust Iot Platform (⭐299)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 *   [rx (⭐3.4k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 *   [Ryot (⭐3.2k)](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
+*   [s00d/switchshuttle (⭐120)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
 *   [Saga Reader (⭐488)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 *   [Servo (⭐36k)](https://github.com/servo/servo) - A prototype web browser engine
 *   [shoes (⭐1k)](https://github.com/cfal/shoes) - A multi-protocol proxy server
@@ -407,7 +408,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [gorilla-devs/ferium (⭐1.4k)](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 *   [HactarCE/Hyperspeedcube (⭐117)](https://github.com/HactarCE/Hyperspeedcube) - A modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving
 *   [lifthrasiir/angolmois-rust (⭐104)](https://github.com/lifthrasiir/angolmois-rust) - A minimalistic music video game which supports the BMS format
-*   [louis-e/arnis (⭐14k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+*   [louis-e/arnis (⭐15k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
 *   [maras-archive/rsnake (⭐144)](https://github.com/maras-archive/rsnake) - Snake.
 *   [mcthesw/game-save-manager (⭐1.1k)](https://github.com/mcthesw/game-save-manager) - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml)
 *   [mtkennerly/ludusavi (⭐5.3k)](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
@@ -444,7 +445,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 
 *   [Imager (⭐722)](https://github.com/imager-io/imager) - Automated image optimization.
 *   [oxipng (⭐3.9k)](https://github.com/oxipng/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] - Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/oxipng/oxipng/workflows/oxipng/badge.svg)](https://github.com/oxipng/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
-*   [visioncortex/vtracer (⭐5.7k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+*   [visioncortex/vtracer (⭐5.8k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
 
 ### Industrial automation
 
@@ -522,7 +523,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 *   [pier-cli/pier (⭐596)](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 *   [screenpipe (⭐18k)](https://github.com/screenpipe/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
 *   [ShadoySV/work-break (⭐22)](https://github.com/ShadoySV/work-break) \[[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/ShadoySV/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/actions/workflows/release.yml)
-*   [tambourine-voice (⭐323)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐327)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 *   [tassiovirginio/try-rs (⭐237)](https://github.com/tassiovirginio/try-rs) \[[try-rs](https://crates.io/crates/try-rs)] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.
 *   [yashs662/rust\_kanban (⭐255)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
@@ -580,7 +581,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 
 *   [ajeetdsouza/zoxide (⭐35k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [anylinuxfs (⭐1.2k)](https://github.com/nohajc/anylinuxfs) - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
-*   [anylinuxfs-gui (⭐71)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
+*   [anylinuxfs-gui (⭐81)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 *   [atuin (⭐29k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 *   [bandwhich (⭐12k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 *   [bottom (⭐13k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
@@ -796,10 +797,14 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 
 *   [dali-benothmen/cronflow (⭐104)](https://github.com/dali-benothmen/cronflow) - Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code. [![release](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml)
 
+<!---->
+
+*   [CCHub (⭐54)](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+
 ## Development tools
 
 *   [aaif-goose/goose (⭐41k)](https://github.com/aaif-goose/goose) - An open-source, local AI agent that automates engineering tasks.
-*   [armgabrielyan/deadbranch (⭐168)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
+*   [armgabrielyan/deadbranch (⭐202)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [ATAC (⭐3.5k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐3.2k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 *   [biome (⭐24k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
@@ -1165,7 +1170,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [0xplaygrounds/rig (⭐6.9k)](https://github.com/0xplaygrounds/rig) - Library for creating agents and modular, scalable LLM-powered applications
 *   [64bit/async-openai (⭐1.8k)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 *   [liquidos-ai/AutoAgents (⭐548)](https://github.com/liquidos-ai/AutoAgents) \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.
-*   [openai/codex (⭐68k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐75k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 *   [openai/harmony (⭐4.3k)](https://github.com/openai/harmony) \[[openai-harmony](https://crates.io/crates/openai-harmony/0.0.3)] - Renderer for the harmony response format to be used with gpt-oss.
 *   [zurawiki/tiktoken-rs (⭐381)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] - Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
@@ -1175,7 +1180,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [Cortex Memory (⭐255)](https://github.com/sopaco/cortex-mem) - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
 *   [juyterman1000/entroly (⭐94)](https://github.com/juyterman1000/entroly) - Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.
 *   [memvid/memvid (⭐15k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
-*   [pydantic/monty (⭐6.6k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
+*   [pydantic/monty (⭐6.8k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
 
 ### Astronomy
 
@@ -1372,7 +1377,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
 *   Science
     *   [Axect/Peroxide (⭐683)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐191)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐197)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐181)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐108)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐79)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
@@ -1926,7 +1931,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   CoAP
     *   [Covertness/coap-rs (⭐231)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard (⭐1.2k)](https://github.com/fussybeaver/bollard) - Docker daemon API
+    *   [fussybeaver/bollard (⭐1.3k)](https://github.com/fussybeaver/bollard) - Docker daemon API
 *   FTP
     *   [mattnenterprise/rust-ftp (⭐192)](https://github.com/mattnenterprise/rust-ftp) - an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client
 *   gRPC

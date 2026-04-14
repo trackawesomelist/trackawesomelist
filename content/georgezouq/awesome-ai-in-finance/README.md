@@ -2,9 +2,20 @@
 
 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/georgezouq/awesome-ai-in-finance/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) · ⭐ 5.6K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/georgezouq/awesome-ai-in-finance/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) · ⭐ 5.7K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
+
+## [Apr 14, 2026](/content/2026/04/14/README.md)
+
+### Data Sources / Crypto Currencies
+
+*   [TBD Predict (⭐1)](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+
+### Research Tools / Prediction Markets
+
+*   [Chart Library](https://chartlibrary.io) - Visual chart pattern search engine. Upload a screenshot or type a ticker+date to find the 10 most similar historical chart patterns and see what happened next. 24M+ embeddings, 19K symbols, REST API + MCP server.
+*   [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
 
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
@@ -40,7 +51,7 @@
 
 ### Agents
 
-*   [ProfitPlay Agent Arena (⭐4)](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
+*   [ProfitPlay Agent Arena (⭐5)](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
 
 ### Technical Analysis
 
@@ -48,13 +59,13 @@
 
 ### Research Tools / Prediction Markets
 
-*   [CRNG (⭐2)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
+*   [CRNG (⭐5)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
 ## [Mar 25, 2026](/content/2026/03/25/README.md)
 
 ### Skills
 
-*   [XVARY Stock Research (⭐0)](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+*   [XVARY Stock Research (⭐2)](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
@@ -149,7 +160,7 @@
 
 ### Traditional Market / Prediction Markets
 
-*   [the0 (⭐211)](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
+*   [the0 (⭐217)](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
 
 ## [Feb 12, 2026](/content/2026/02/12/README.md)
 
@@ -183,7 +194,7 @@
 
 ### Agents
 
-*   🌟🌟 [nofx (⭐11k)](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
+*   🌟🌟 [nofx (⭐12k)](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 
 ## [Oct 20, 2025](/content/2025/10/20/README.md)
 
@@ -207,25 +218,25 @@
 
 ### Agents
 
-*   [TradingAgents (⭐44k)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
+*   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 
 ## [May 27, 2025](/content/2025/05/27/README.md)
 
 ### Agents
 
-*   🌟 [FinRobot (⭐6.5k)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
+*   🌟 [FinRobot (⭐6.7k)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 
 ## [May 21, 2025](/content/2025/05/21/README.md)
 
 ### Technical Analysis
 
-*   [QTradeX (⭐61)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
+*   [QTradeX (⭐62)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
 
 ## [Apr 13, 2025](/content/2025/04/13/README.md)
 
 ### LLMs
 
-*   🌟 [AI Hedge Fund (⭐50k)](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
+*   🌟 [AI Hedge Fund (⭐54k)](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 
 ## [Mar 23, 2025](/content/2025/03/23/README.md)
 
@@ -249,7 +260,7 @@
 
 ### Traditional Market / Prediction Markets
 
-*   🌟🌟🌟 [OpenBB (⭐64k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+*   🌟🌟🌟 [OpenBB (⭐66k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
 ## [Jun 10, 2024](/content/2024/06/10/README.md)
 
@@ -267,7 +278,7 @@
 
 ### Others / Plugins
 
-*   [Floom (⭐45)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
+*   [Floom (⭐44)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
 
@@ -298,7 +309,7 @@
 
 ### LLMs
 
-*   [PIXIU (⭐842)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
+*   [PIXIU (⭐849)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
 *   [FinGPT (⭐19k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
 
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
@@ -386,14 +397,14 @@
 
 ### Time Series Data
 
-*   🌟 [Ensemble-Strategy (⭐2.8k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+*   🌟 [Ensemble-Strategy (⭐2.9k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
 *   [FinRL (⭐15k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
 ## [Oct 27, 2020](/content/2020/10/27/README.md)
 
 ### Courses & Books & Blogs
 
-*   [Mastering Python for Finance (⭐444)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
+*   [Mastering Python for Finance (⭐464)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ### High Frequency Trading
 
@@ -418,17 +429,17 @@
 
 *   [tf\_deep\_rl\_trader (⭐255)](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
 *   [deep\_rl\_trader (⭐420)](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
-*   [stock\_market\_reinforcement\_learning (⭐797)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
+*   [stock\_market\_reinforcement\_learning (⭐796)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 
 ### Portfolio Management
 
-*   [qtrader (⭐478)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
+*   [qtrader (⭐479)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
 *   [PGPortfolio (⭐1.9k)](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 
 ### Crypto Currencies Strategies
 
 *   [tforce\_btc\_trader (⭐835)](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
-*   [gekkoga (⭐311)](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
+*   [gekkoga (⭐312)](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
 
 ### Technical Analysis
 
@@ -437,11 +448,11 @@
 
 ### Data Sources / Crypto Currencies
 
-*   [Gekko-Datasets (⭐174)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+*   [Gekko-Datasets (⭐175)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 ### Research Tools / Prediction Markets
 
-*   🌟🌟 [TensorTrade (⭐6.1k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
+*   🌟🌟 [TensorTrade (⭐6.2k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 *   [empyrical (⭐1.5k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 
 ### Traditional Market / Prediction Markets
@@ -456,7 +467,7 @@
 
 ### TA Lib / Plugins
 
-*   [tulipnode (⭐514)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
+*   [tulipnode (⭐512)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 
 ## [Jul 30, 2020](/content/2020/07/30/README.md)
 
@@ -474,7 +485,7 @@
 
 ### Courses & Books & Blogs
 
-*   [Advanced-Deep-Trading (⭐566)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
+*   [Advanced-Deep-Trading (⭐567)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
 
 ### Event Drive
 
@@ -487,15 +498,15 @@
 
 ### Portfolio Management
 
-*   [Deep-Reinforcement-Stock-Trading (⭐693)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
+*   [Deep-Reinforcement-Stock-Trading (⭐691)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
 
 ### High Frequency Trading
 
-*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐2.2k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐2.3k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
 
 ### Crypto Currencies Strategies
 
-*   [LSTM-Crypto-Price-Prediction (⭐358)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
+*   [LSTM-Crypto-Price-Prediction (⭐359)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
 *   [Tensorflow-NeuroEvolution-Trading-Bot (⭐164)](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
 *   [bitcoin\_prediction (⭐234)](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
 
@@ -505,7 +516,7 @@
 
 ### Arbitrage
 
-*   [r2 (⭐812)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
+*   [r2 (⭐811)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
 *   [cryptocurrency-arbitrage (⭐1.3k)](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 *   [bitcoin-arbitrage (⭐2.6k)](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
 *   [blackbird](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
@@ -516,7 +527,7 @@
 
 ### Data Sources / Crypto Currencies
 
-*   [CryptoInscriber (⭐52)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
+*   [CryptoInscriber (⭐51)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 
 ### Research Tools / Prediction Markets
 
@@ -553,7 +564,7 @@
 
 ### Others / Other Resource
 
-*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐3.5k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
+*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐3.6k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 
 ## [Jul 26, 2020](/content/2020/07/26/README.md)
 
@@ -591,7 +602,7 @@
 
 ### Time Series Data
 
-*   [trading-rl (⭐223)](https://github.com/Kostis-S-Z/trading-rl) - Deep Reinforcement Learning for Financial Trading using Price Trailing.
+*   [trading-rl (⭐222)](https://github.com/Kostis-S-Z/trading-rl) - Deep Reinforcement Learning for Financial Trading using Price Trailing.
 *   [gym-trading (⭐712)](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models.
 *   [zenbrain (⭐51)](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 
@@ -601,7 +612,7 @@
 
 ### High Frequency Trading
 
-*   [HFT\_Bitcoin (⭐169)](https://github.com/ghgr/HFT_Bitcoin) - Analysis of High Frequency Trading on Bitcoin exchanges.
+*   [HFT\_Bitcoin (⭐172)](https://github.com/ghgr/HFT_Bitcoin) - Analysis of High Frequency Trading on Bitcoin exchanges.
 
 ### Event Drive
 
@@ -609,13 +620,13 @@
 
 ### Crypto Currencies Strategies
 
-*   [Gekko\_ANN\_Strategies (⭐55)](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
+*   [Gekko\_ANN\_Strategies (⭐54)](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
 *   [gekko-neuralnet (⭐94)](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 
 ### Technical Analysis
 
-*   [quant-trading (⭐9.6k)](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies.
-*   [Gekko-Bot-Resources (⭐196)](https://github.com/cloggy45/Gekko-Bot-Resources) - Gekko bot resources.
+*   [quant-trading (⭐9.7k)](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies.
+*   [Gekko-Bot-Resources (⭐195)](https://github.com/cloggy45/Gekko-Bot-Resources) - Gekko bot resources.
 *   [gekko\_tools (⭐143)](https://github.com/tommiehansen/gekko_tools) - Gekko strategies, tools etc.
 *   [gekko RSI\_WR (⭐4)](https://github.com/zzmike76/gekko) - Gekko RSI\_WR strategies.
 *   [gekko HL (⭐11)](https://github.com/mounirlabaied/gekko-strat-hl) - Calculate down peak and trade on.
@@ -626,7 +637,7 @@
 
 ### Lottery & Gamble
 
-*   [LotteryPredict (⭐411)](https://github.com/chengstone/LotteryPredict) - Use LSTM to predict lottery.
+*   [LotteryPredict (⭐412)](https://github.com/chengstone/LotteryPredict) - Use LSTM to predict lottery.
 
 ### Arbitrage
 
@@ -640,12 +651,12 @@
 
 *   [pyfolio (⭐6.3k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 *   [alphalens (⭐4.2k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
-*   [zvt (⭐4k)](https://github.com/zvtvz/zvt) - Zero vector trader.
+*   [zvt (⭐4.1k)](https://github.com/zvtvz/zvt) - Zero vector trader.
 
 ### Traditional Market / Prediction Markets
 
 *   🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
-*   [pylivetrader (⭐681)](https://github.com/alpacahq/pylivetrader) - Python live trade execution library with zipline interface.
+*   [pylivetrader (⭐683)](https://github.com/alpacahq/pylivetrader) - Python live trade execution library with zipline interface.
 
 ### Crypto Currencies / Prediction Markets
 
@@ -654,14 +665,14 @@
 
 ### TA Lib / Plugins
 
-*   [pandas\_talib (⭐780)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐778)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 *   [finta (⭐2.3k)](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Python-Pandas (70+ indicators).
 *   [techan.js (⭐2.4k)](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 
 ### Exchange API / Plugins
 
 *   [IbPy (⭐1.4k)](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
-*   [ctpwrapper (⭐569)](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
+*   [ctpwrapper (⭐570)](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
 
 ### Framework / Plugins
 
@@ -682,7 +693,7 @@
 
 ### Others / Plugins
 
-*   [gekko-quasar-ui (⭐112)](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
+*   [gekko-quasar-ui (⭐113)](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
 
 ### Others / Other Resource
 

@@ -8,6 +8,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
+### Fundamentals / Package and Version Manager
+
+*   [lispking/zvm (⭐0)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
+
 ### Network & Web / Network
 
 *   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.

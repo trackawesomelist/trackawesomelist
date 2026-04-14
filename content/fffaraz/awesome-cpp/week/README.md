@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [sqlpp23 (⭐132)](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
 
+### Miscellaneous
+
+*   [The RaBitQ Library (⭐190)](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm. \[Apache-2.0] [website](https://vectordb-ntu.github.io/RaBitQ-Library/)
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Compression
@@ -1631,7 +1635,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Debug
 
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐510)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -2617,7 +2621,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Networking
 
-*   [MQTT-C (⭐878)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐880)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 *   [WAFer (⭐694)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection

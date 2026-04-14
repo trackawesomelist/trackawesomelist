@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### Applications
+
+*   [s00d/switchshuttle (⭐120)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
+
 ### Applications / System tools
 
 *   [hyperb1iss/unifly (⭐140)](https://github.com/hyperb1iss/unifly) \[[unifly](https://crates.io/crates/unifly)] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard [![CI](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml/badge.svg)](https://github.com/hyperb1iss/unifly/actions/workflows/cicd.yml)
@@ -15,6 +19,10 @@ A curated list of Rust code and resources.
 ### Applications / Utilities
 
 *   [veirt/weathr (⭐2.7k)](https://github.com/Veirt/weathr) \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml)
+
+### Applications / Workflow Automation
+
+*   [CCHub (⭐54)](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Development tools / Workflow Automation
 
@@ -173,11 +181,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [louis-e/arnis (⭐14k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+*   [louis-e/arnis (⭐15k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
 
 ### Applications / System tools
 
-*   [anylinuxfs-gui (⭐71)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
+*   [anylinuxfs-gui (⭐81)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 
 ### Applications / Text editors
 
@@ -185,7 +193,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [armgabrielyan/deadbranch (⭐168)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
+*   [armgabrielyan/deadbranch (⭐202)](https://github.com/armgabrielyan/deadbranch) \[[deadbranch](https://crates.io/crates/deadbranch)] - Clean up stale git branches safely [![CI](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armgabrielyan/deadbranch/actions/workflows/ci.yml)
 *   [cachix/devenv (⭐6.7k)](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
 *   [jj-vcs/jj (⭐28k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
 *   [Wilfred/difftastic (⭐25k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
@@ -197,7 +205,7 @@ A curated list of Rust code and resources.
 ### Libraries / Artificial Intelligence
 
 *   [memvid/memvid (⭐15k)](https://github.com/memvid/memvid) \[[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
-*   [pydantic/monty (⭐6.6k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
+*   [pydantic/monty (⭐6.8k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -304,7 +312,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [visioncortex/vtracer (⭐5.7k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+*   [visioncortex/vtracer (⭐5.8k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
 
 ### Applications / Productivity
 
@@ -357,7 +365,7 @@ A curated list of Rust code and resources.
 ### Libraries / Artificial Intelligence
 
 *   [katanemo/plano (⭐6.2k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
-*   [openai/codex (⭐68k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐75k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -375,7 +383,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tambourine-voice (⭐323)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐327)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 
 ### Applications / Utilities
 
@@ -1418,7 +1426,7 @@ A curated list of Rust code and resources.
 
 *   Science
     *   [Axect/Peroxide (⭐683)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐191)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐197)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐181)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐108)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐79)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
@@ -3708,7 +3716,7 @@ A curated list of Rust code and resources.
 *   CoAP
     *   [Covertness/coap-rs (⭐231)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard (⭐1.2k)](https://github.com/fussybeaver/bollard) - Docker daemon API
+    *   [fussybeaver/bollard (⭐1.3k)](https://github.com/fussybeaver/bollard) - Docker daemon API
 
 ### Libraries / Parsing
 

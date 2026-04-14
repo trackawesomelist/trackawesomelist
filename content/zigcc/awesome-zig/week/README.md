@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [ryo-zen/zig-docs-mcp (⭐0)](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
 
+### Fundamentals / Package and Version Manager
+
+*   [lispking/zvm (⭐0)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
+
 ### Network & Web / Network
 
 *   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.

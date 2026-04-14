@@ -1,18 +1,60 @@
 # Awesome List Updates on Apr 20 - Apr 26, 2026
 
-18 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+
+### Tooling 🧰 / Usage Monitors
+
+*   [ccxray (⭐104)](https://github.com/lis186/ccxray) by [lis186](https://github.com/lis186) - A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization.
+
+### Workflows & Knowledge Guides 🧠 / General
+
+*   [Encyclopedia of Agentic Coding Patterns](https://aipatternbook.com) by [Wolf McNally](https://github.com/wolfmcnally) - A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Data Breach Search Engines
+
+*   [NOX (⭐146)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
+
+### Other Tools / GitHub
+
+*   [ReconFTW (⭐7.4k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
+
+## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+
+### Code samples and snippets
+
+*   [Esri Germany Github organization](https://github.com/EsriDE): code samples, tools and more by Esri Deutschland.
+*   [EsriJapan/arcgis-dev-resources (⭐10)](https://github.com/EsriJapan/arcgis-dev-resources) - ArcGIS Developers 開発リソース集 (by Esri Japan).
+
+## [4. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+
+### Data Sources / Crypto Currencies
+
+*   [TBD Predict (⭐1)](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+
+### Research Tools / Prediction Markets
+
+*   [Chart Library](https://chartlibrary.io) - Visual chart pattern search engine. Upload a screenshot or type a ticker+date to find the 10 most similar historical chart patterns and see what happened next. 24M+ embeddings, 19K symbols, REST API + MCP server.
+*   [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
+
+## [5. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [s00d/switchshuttle (⭐120)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
 
 ### Applications / System tools
 
@@ -21,6 +63,10 @@
 ### Applications / Utilities
 
 *   [veirt/weathr (⭐2.7k)](https://github.com/Veirt/weathr) \[[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg)](https://github.com/Veirt/weathr/actions/workflows/release.yml)
+
+### Applications / Workflow Automation
+
+*   [CCHub (⭐54)](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Development tools / Workflow Automation
 
@@ -35,29 +81,33 @@
 
 *   [getnora-io/nora (⭐35)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 
-## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [7. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Postal Addresses
 
 *   [Letter Delivered Despite No Name, No Address](https://boingboing.net/2016/08/30/letter-sent-to-iceland-farm-wi.html) - Ultimate falsehood about postal addresses: you do not need one.
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
-## [5. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [9. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Utilities / Project Layout
 
 *   [Fs02/go-todo-backend (⭐335)](https://github.com/Fs02/go-todo-backend) — Go Todo Backend example using modular project layout for product microservice. ☆`335`
 
-## [6. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [10. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Documentation and Testing
 
 *   [ryo-zen/zig-docs-mcp (⭐0)](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
+
+### Fundamentals / Package and Version Manager
+
+*   [lispking/zvm (⭐0)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 
 ### Network & Web / Network
 
@@ -67,7 +117,11 @@
 
 *   [ryo-zen/zeicoin (⭐3)](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
 
-## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [Aetheris (⭐3)](https://github.com/Colin4k1024/Aetheris) - AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go.
 
 ### Databases Implemented in Go
 
@@ -77,7 +131,7 @@
 
 *   [doors (⭐36)](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -92,7 +146,7 @@
 
 *   [tubular (⭐100)](https://github.com/azukds/tubular) - Collection of scikit-learn compatible transformers written in [narwhals (⭐1.6k)](https://github.com/narwhals-dev/narwhals), which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
-## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [13. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -103,7 +157,7 @@
 *   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
 *   [Overloop CLI (⭐4)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
@@ -113,7 +167,7 @@
 
 *   [@thesvg/svelte (⭐1.4k)](https://github.com/glincker/thesvg) - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP
 
@@ -123,13 +177,13 @@
 
 *   [quickui.nvim (⭐2)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
-## [12. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [16. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
 *   [ReliaDB EXPLAIN Analyzer (⭐0)](https://github.com/Mughees52/mysql-explain-analyzer) - a browser-based MySQL and MariaDB EXPLAIN visualizer with issue detection, index recommendations, and query rewrites. 100% client-side.
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -147,19 +201,23 @@
 
 *   [compliance.tf](https://compliance.tf) - Terraform modules with SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other frameworks built in. Non-compliant configs fail at `terraform plan` before anything applies. :heavy\_dollar\_sign:
 
-## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [18. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Customization
 
 *   [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [sqlpp23 (⭐132)](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### Miscellaneous
+
+*   [The RaBitQ Library (⭐190)](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm. \[Apache-2.0] [website](https://vectordb-ntu.github.io/RaBitQ-Library/)
+
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -181,7 +239,7 @@
 
 *   [SwiftMTP (⭐168)](https://github.com/Neighbor-Z/SwiftMTP) - Open-source MTP device manager for browsing and transferring files between Mac and Android devices. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -191,7 +249,7 @@
 *   [snap-new (⭐0)](https://github.com/crisis1er/zsh-snap-new) - Replaces the raw `snapper` command with a guided flow: a 14-scenario table pre-fills the description and suggests the right type (standard vs important) based on what you are about to do. Before executing, it checks disk usage, shows existing snapshot context, and asks for confirmation. --cleanup-algorithm timeline is always set — you cannot forget it.
 *   [snap-rollback (⭐0)](https://github.com/crisis1er/zsh-snap-rollback) - Native `snapper rollback` executes immediately with no safety checks. This plugin adds guided flow, snapshot summary, double confirmation, dry-run mode and a reboot reminder.
 
-## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / HTTP Client
 
