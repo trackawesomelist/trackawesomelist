@@ -16,6 +16,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [compliance.tf docs](https://compliance.tf/docs/) - Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.
 
+### Providers / Vendor supported providers
+
+*   [terraform-provider-planetscale (⭐22)](https://github.com/planetscale/terraform-provider-planetscale) -  Terraform provider for [PlanetScale](https://planetscale.com) (Vitess & Postgres).
+
 ### Tools / Community providers
 
 *   [Riftmap](https://riftmap.dev) - Cross-repo dependency and change impact engine that scans multi-repo infrastructure across Terraform, Docker, Helm, and more to visualize what depends on what and what breaks when something changes.
