@@ -6,6 +6,16 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 [ Daily / [Weekly](/content/hesreallyhim/awesome-claude-code/week/README.md) / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
+## [Apr 15, 2026](/content/2026/04/15/README.md)
+
+### Status Lines 📊 / General
+
+*   [claude-pace (⭐102)](https://github.com/Astro-Han/claude-pace) by [Astro-Han](https://github.com/Astro-Han) - A lightweight Bash + jq statusline for Claude Code that displays rate limit pace delta (burn rate vs. time remaining), 5h/7d usage percentage, context window usage, git branch and diff stats. Compares current consumption rate against time remaining in each rate limit window to indicate whether quota is being used faster or slower than the window allows. Single file with no external dependencies beyond jq.
+
+### Tooling 🧰 / IDE Integrations
+
+*   [Clawd on Desk (⭐1.2k)](https://github.com/rullerzhou-afk/clawd-on-desk) by [Ruller\_Lulu](https://github.com/rullerzhou-afk) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
+
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
 ### Tooling 🧰 / Usage Monitors
@@ -59,7 +69,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 
 ### Tooling 🧰 / Orchestrators
 
-*   [Ruflo (⭐29k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
+*   [Ruflo (⭐32k)](https://github.com/ruvnet/ruflo) by [rUv](https://github.com/ruvnet) - An orchestration platform for deploying and coordinating multi-agent swarms. If I tried to go into detail it would probably crash my browser. An impressive feat of engineering that tries to cover everything and actually does a good job. Self-learning, autonomous multi-agent swarms, vector-based multi-layered memory, systematic planning, security guardrails, and so on. It's a growing project, and YMMV, but even just studying the patterns is immensely valuable, and it's clearly well-engineered.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 
