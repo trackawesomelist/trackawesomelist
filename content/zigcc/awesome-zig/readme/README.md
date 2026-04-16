@@ -248,7 +248,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Parser Library
 
-*   [OrlovEvgeny/zigquery (⭐1)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery (⭐2)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 *   [tree-sitter/zig-tree-sitter (⭐90)](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 
 ### Logging Processing
@@ -536,7 +536,8 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [thanos/couchbase-zig-client (⭐2)](https://github.com/thanos/couchbase-zig-client) - A wrapper around Couchbase's c library libcoucbase.
 *   [mailmug/zentropy (⭐42)](https://github.com/mailmug/zentropy) - High-performance, lightweight key-value store (Redis alternative).
 *   [seqor/seqor (⭐22)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
-*   [zeno-core/zeno (⭐6)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+*   [zeno-core/zeno (⭐16)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+*   [lispking/kvdb (⭐8)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
 ### Linear Algebra
 

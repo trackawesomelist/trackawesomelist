@@ -10,6 +10,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Sound / GPL (no linking exception)
 
+*   [portable-openal-sound (⭐1)](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 *   [AdaTracker (⭐1)](https://github.com/UlrikHjort/Ada-Tracker) - A MOD, XM, S3M, and IT music tracker player written in Ada, using SDL2 for audio output and UI rendering.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
