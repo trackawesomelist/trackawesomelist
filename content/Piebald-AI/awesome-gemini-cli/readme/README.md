@@ -61,7 +61,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 *   [wolfpack (⭐20)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
 *   [Xquik MCP (⭐29)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 *   [rule-gen (⭐4)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
-*   [BGPT MCP (⭐11)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐16)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 
 > \[!tip]
 > **Track your local Gemini CLI usage with [Splitrail (⭐141)](https://github.com/Piebald-AI/splitrail).**
@@ -146,6 +146,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 *   [**ru-text**](https://github.com/talkstream/ru-text) - Russian text quality — \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
 *   [TokRepo Search Skill (⭐2)](https://github.com/henu-wang/tokrepo-search-skill) - Cross-platform TokRepo skill with Gemini extension files for finding and installing AI assets such as prompts, MCP configs, workflows, and reusable skills.
 *   [dRPC Agent Skills (⭐10)](https://github.com/drpcorg/drpc-agent-skills) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
+*   [OpenAccountants (⭐10)](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
 
 ## Fun
 
@@ -220,7 +221,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 
 Model Context Protocol servers that enable Gemini CLI integration with other AI tools.
 
-*   [BGPT MCP (⭐11)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐16)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 *   [ToolsForMCPServer (⭐99)](https://github.com/tanaikech/ToolsForMCPServer) - Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.
 *   [gemini-mcp-tool (⭐2.1k)](https://github.com/jamubc/gemini-mcp-tool) - Leverages Gemini's industry-leading 2M token context window through MCP, enabling analysis of entire codebases and large documents that other tools can't handle.
 *   [mcp-gemini-cli (⭐97)](https://github.com/choplin/mcp-gemini-cli) - A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI.

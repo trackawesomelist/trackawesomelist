@@ -1,18 +1,62 @@
 # Awesome List Updates on Apr 20 - Apr 26, 2026
 
-32 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [1. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+
+### AI Coding Agents / PR & Review
+
+*   [The-PR-Agent/pr-agent (⭐11k)](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`10,900`
+
+## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+
+### Showcases / XML
+
+*   [ShopSavvy Deno Deploy (⭐0)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
+
+## [3. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+
+### Packages / Apps
+
+*   [keystrum](https://keystrum.app) ([source (⭐0)](https://github.com/kimhinton/keystrum)) - A browser instrument that turns a QWERTY keyboard into a strum machine using Karplus-Strong synthesis. No samples loaded.
+
+## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Tools
+
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐0)](https://github.com/unitedideas/nothumansearch)
+
+### Books / Visualization Tools
+
+*   [Executive Data Science](https://leanpub.com/eds): A high-level guide to managing data science teams and projects.
+*   [Introduction to Modern Statistics](https://leanpub.com/imstat): A modern, open-access textbook on statistics with a heavy focus on data science applications.
+*   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/): Focuses on the "art" of data analysis, how to ask the right questions and refine them.
+
+### Journals, Publications and Magazines / Book Deals (Affiliated)
+
+*   [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
+
+## [5. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### Commands & Extensions
+
+*   [OpenAccountants (⭐10)](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
+
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Firmware projects / WIP
 
 *   [🤖 hypervisor (⭐4)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
@@ -34,7 +78,7 @@
 
 *   [Raspberry Pi 5 SSD Boot Guide](https://raspberry.tips/raspberry-pi-5-zubehoer-test) - Comprehensive guide on upgrading RPi 5 with NVMe SSDs, including benchmarks and hardware compatibility tests (2026 update).
 
-## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Preprocessing Tools
 
@@ -91,7 +135,7 @@
 *   [PLIP (⭐375)](https://github.com/PathologyFoundation/plip) — Vision-language foundation model for pathology trained with contrastive learning on pathology image–text pairs for image classification and text-to-image retrieval.
 *   [MUSK (⭐226)](https://github.com/lilab-stanford/MUSK) — Vision-language foundation model for precision oncology analyzing multimodal paired text and pathology image data for biomarker prediction and retrieval.
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Code Generators
 
@@ -99,38 +143,46 @@
 *   [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
 *   [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
 
-## [5. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
 
-## [6. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / QuickLook Plugins
 
-*   [sbarex/QLSyntaxHighlight (⭐4k)](https://github.com/sbarex/QLSyntaxHighlight) — Quick Look syntax highlighting ☆`4,016`
+*   [sbarex/QLSyntaxHighlight (⭐4k)](https://github.com/sbarex/QLSyntaxHighlight) — Quick Look syntax highlighting ☆`4,025`
 
-## [7. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [12. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Integration Software / Firmwares for ESP based Devices
 
 *   [shopsavvy-mqtt (⭐0)](https://github.com/shopsavvy/shopsavvy-mqtt) - MQTT bridge that publishes product price data with Home Assistant MQTT discovery support.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free email infrastructure grader that checks SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+### Managed Data Services
+
+*   [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.
+
+### Miscellaneous
+
+*   [redirs.com](https://www.redirs.com/) — Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).
+
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Sound / GPL (no linking exception)
 
 *   [portable-openal-sound (⭐1)](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 *   [AdaTracker (⭐1)](https://github.com/UlrikHjort/Ada-Tracker) - A MOD, XM, S3M, and IT music tracker player written in Ada, using SDL2 for audio output and UI rendering.
 
-## [10. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [15. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Status Lines 📊 / General
 
@@ -148,7 +200,7 @@
 
 *   [Encyclopedia of Agentic Coding Patterns](https://aipatternbook.com) by [Wolf McNally](https://github.com/wolfmcnally) - A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [16. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Data Breach Search Engines
 
@@ -166,14 +218,14 @@
 
 *   [DFIR Platform](https://platform.dfir-lab.ch) - Threat intelligence platform with multi-source IOC enrichment, phishing email analysis, exposure scanning, and domain reputation scoring. Free tier available.
 
-## [12. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [17. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Code samples and snippets
 
 *   [Esri Germany Github organization](https://github.com/EsriDE): code samples, tools and more by Esri Deutschland.
 *   [EsriJapan/arcgis-dev-resources (⭐10)](https://github.com/EsriJapan/arcgis-dev-resources) - ArcGIS Developers 開発リソース集 (by Esri Japan).
 
-## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [18. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Data Sources / Crypto Currencies
 
@@ -184,13 +236,13 @@
 *   [Chart Library](https://chartlibrary.io) - Visual chart pattern search engine. Upload a screenshot or type a ticker+date to find the 10 most similar historical chart patterns and see what happened next. 24M+ embeddings, 19K symbols, REST API + MCP server.
 *   [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
 
-## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -227,34 +279,34 @@
 
 ### Registries / Web programming
 
-*   [getnora-io/nora (⭐35)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+*   [getnora-io/nora (⭐111)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 
-## [16. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [21. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Postal Addresses
 
 *   [Letter Delivered Despite No Name, No Address](https://boingboing.net/2016/08/30/letter-sent-to-iceland-farm-wi.html) - Ultimate falsehood about postal addresses: you do not need one.
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Database
 
 *   [squix (⭐206)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
 
-## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [23. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
-## [19. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [24. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Utilities / Project Layout
 
 *   [lacion/cookiecutter-golang (⭐732)](https://github.com/lacion/cookiecutter-golang) — Go project template ☆`732`
 *   [Fs02/go-todo-backend (⭐335)](https://github.com/Fs02/go-todo-backend) — Go Todo Backend example using modular project layout for product microservice. ☆`335`
 
-## [20. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [25. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Documentation and Testing
 
@@ -276,7 +328,7 @@
 
 *   [lispking/kvdb (⭐8)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
-## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -291,7 +343,7 @@
 
 *   [doors (⭐36)](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 
-## [22. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [27. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -306,13 +358,13 @@
 
 *   [tubular (⭐100)](https://github.com/azukds/tubular) - Collection of scikit-learn compatible transformers written in [narwhals (⭐1.6k)](https://github.com/narwhals-dev/narwhals), which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
-## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### HTTP Clients
 
 *   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
 
-## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [29. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -323,7 +375,7 @@
 *   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
 *   [Overloop CLI (⭐4)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
-## [25. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [30. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
@@ -333,7 +385,7 @@
 
 *   [@thesvg/svelte (⭐1.4k)](https://github.com/glincker/thesvg) - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP
 
@@ -348,13 +400,13 @@
 
 *   [quickui.nvim (⭐2)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
-## [27. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [32. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
 *   [ReliaDB EXPLAIN Analyzer (⭐0)](https://github.com/Mughees52/mysql-explain-analyzer) - a browser-based MySQL and MariaDB EXPLAIN visualizer with issue detection, index recommendations, and query rewrites. 100% client-side.
 
-## [28. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -376,13 +428,13 @@
 
 *   [compliance.tf](https://compliance.tf) - Terraform modules with SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other frameworks built in. Non-compliant configs fail at `terraform plan` before anything applies. :heavy\_dollar\_sign:
 
-## [29. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [34. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Customization
 
 *   [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -396,7 +448,7 @@
 
 *   [The RaBitQ Library (⭐190)](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm. \[Apache-2.0] [website](https://vectordb-ntu.github.io/RaBitQ-Library/)
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -426,7 +478,7 @@
 
 *   [SwiftMTP (⭐168)](https://github.com/Neighbor-Z/SwiftMTP) - Open-source MTP device manager for browsing and transferring files between Mac and Android devices. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

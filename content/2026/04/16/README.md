@@ -1,12 +1,66 @@
 # Awesome List Updates on Apr 16, 2026
 
-10 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Ai](/content/abordage/awesome-ai/README.md)
+
+### AI Coding Agents / PR & Review
+
+*   [The-PR-Agent/pr-agent (⭐11k)](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`10,900`
+
+## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Showcases / XML
+
+*   [ShopSavvy Deno Deploy (⭐0)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Managed Data Services
+
+*   [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.
+
+### Miscellaneous
+
+*   [redirs.com](https://www.redirs.com/) — Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).
+
+## [4. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+
+### Packages / Apps
+
+*   [keystrum](https://keystrum.app) ([source (⭐0)](https://github.com/kimhinton/keystrum)) - A browser instrument that turns a QWERTY keyboard into a strum machine using Karplus-Strong synthesis. No samples loaded.
+
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Tools
+
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐0)](https://github.com/unitedideas/nothumansearch)
+
+### Books / Visualization Tools
+
+*   [Executive Data Science](https://leanpub.com/eds): A high-level guide to managing data science teams and projects.
+*   [Introduction to Modern Statistics](https://leanpub.com/imstat): A modern, open-access textbook on statistics with a heavy focus on data science applications.
+*   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/): Focuses on the "art" of data analysis, how to ask the right questions and refine them.
+
+### Journals, Publications and Magazines / Book Deals (Affiliated)
+
+*   [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
+
+## [6. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+### Commands & Extensions
+
+*   [OpenAccountants (⭐10)](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Email Search / Email Check / GitHub
 
@@ -16,31 +70,31 @@
 
 *   [DFIR Platform](https://platform.dfir-lab.ch) - Threat intelligence platform with multi-source IOC enrichment, phishing email analysis, exposure scanning, and domain reputation scoring. Free tier available.
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Firmware projects / WIP
 
 *   [🤖 hypervisor (⭐4)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [9. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Data & Science / Database
 
 *   [lispking/kvdb (⭐8)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
-## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Sound / GPL (no linking exception)
 
 *   [portable-openal-sound (⭐1)](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
 *   [Crossline (⭐150)](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. \[MIT]
 
-## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
@@ -62,13 +116,13 @@
 
 *   [Raspberry Pi 5 SSD Boot Guide](https://raspberry.tips/raspberry-pi-5-zubehoer-test) - Comprehensive guide on upgrading RPi 5 with NVMe SSDs, including benchmarks and hardware compatibility tests (2026 update).
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
 *   [WaifuX](https://jipika.github.io/WaifuX) - Open-source ACG app for wallpapers, animated backgrounds, and anime videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jipika/WaifuX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [14. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Preprocessing Tools
 
@@ -125,7 +179,7 @@
 *   [PLIP (⭐375)](https://github.com/PathologyFoundation/plip) — Vision-language foundation model for pathology trained with contrastive learning on pathology image–text pairs for image classification and text-to-image retrieval.
 *   [MUSK (⭐226)](https://github.com/lilab-stanford/MUSK) — Vision-language foundation model for precision oncology analyzing multimodal paired text and pathology image data for biomarker prediction and retrieval.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Code Generators
 
@@ -133,7 +187,7 @@
 *   [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
 *   [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 

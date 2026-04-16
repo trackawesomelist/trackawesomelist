@@ -12,6 +12,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free email infrastructure grader that checks SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
 
+### Managed Data Services
+
+*   [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.
+
+### Miscellaneous
+
+*   [redirs.com](https://www.redirs.com/) — Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### APIs, Data, and ML

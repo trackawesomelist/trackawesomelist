@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Apr 16, 2026](/content/2026/04/16/README.md)
+
+### Commands & Extensions
+
+*   [OpenAccountants (⭐10)](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
+
 ## [Apr 11, 2026](/content/2026/04/11/README.md)
 
 ### Development Tools & Utilities
@@ -102,7 +108,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [BGPT MCP (⭐11)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐16)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 

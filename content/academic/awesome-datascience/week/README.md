@@ -6,6 +6,26 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Tools
+
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐0)](https://github.com/unitedideas/nothumansearch)
+
+### Books / Visualization Tools
+
+*   [Executive Data Science](https://leanpub.com/eds): A high-level guide to managing data science teams and projects.
+*   [Introduction to Modern Statistics](https://leanpub.com/imstat): A modern, open-access textbook on statistics with a heavy focus on data science applications.
+*   [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/): Focuses on the "art" of data analysis, how to ask the right questions and refine them.
+
+### Journals, Publications and Magazines / Book Deals (Affiliated)
+
+*   [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -61,7 +81,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐11)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐16)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -240,7 +260,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐666)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐670)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -394,7 +414,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐638)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐639)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -1258,18 +1278,18 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐956)](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn (⭐955)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys (⭐490)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐422)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐705)](https://github.com/larsmans/seqlearn)
+*   [seqlearn (⭐706)](https://github.com/larsmans/seqlearn)
 *   [sklearn-bayes (⭐523)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐435)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
+*   [sklearn-crfsuite (⭐436)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐773)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.4k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐382)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐380)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
@@ -1279,8 +1299,8 @@
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐443)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐991)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐444)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐993)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1296,14 +1316,14 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐194k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐195k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.9k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.7k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐735)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐355)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐700)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐702)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1318,7 +1338,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐489)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐577)](https://github.com/google/qkeras)
+*   [qkeras (⭐580)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
