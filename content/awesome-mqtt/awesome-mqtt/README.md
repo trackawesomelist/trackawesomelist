@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Apr 17, 2026](/content/2026/04/17/README.md)
+
+### Tools
+
+*   [LabOverWire](https://laboverwire.com/features) - Visual diagram editor for designing MQTT topologies, built with Rust (WASM) and TypeScript. Features live in-browser simulation, code generation, and AsyncAPI export.
+
 ## [Apr 15, 2026](/content/2026/04/15/README.md)
 
 ### Smart Home Integration Software / Firmwares for ESP based Devices
@@ -16,13 +22,13 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Rust
 
-*   [mqtt5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
+*   [mqtt5 (⭐45)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 
 ## [Apr 01, 2026](/content/2026/04/01/README.md)
 
 ### Tools
 
-*   [mqttv5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
+*   [mqttv5 (⭐45)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 

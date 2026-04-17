@@ -286,6 +286,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Pin Code Authenticator for Keycloak ACR/LOA (⭐2)](https://github.com/ldesroch/keycloak-pin-code-authenticator)
 *   [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 *   [Keycloak Vault Provider for OpenBao and HashiCorp Vault (⭐8)](https://github.com/Nordix/keycloak-secrets-vault-provider)
+*   [Keycloak Redis Cache (⭐5)](https://github.com/p2-inc/keycloak-redis-cache)
 
 ## Integrations
 
@@ -301,7 +302,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐103)](https://github.com/InseeFr/Keycloak-FranceConnect)
 *   [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 *   [Keycloak Python Client (⭐59)](https://github.com/keycloak-client/keycloak-client)
-*   [Keycloak Terraform Provider (⭐906)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐910)](https://github.com/mrparkers/terraform-provider-keycloak)
 *   [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *   [React/NextJS Keycloak Bindings (⭐566)](https://github.com/panz3r/react-keycloak)
 *   [NextJS + tailwind + keycloak integration (⭐9)](https://github.com/santiblanko/keycloak-nextjs-auth)

@@ -8,6 +8,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### Tools
+
+*   [LabOverWire](https://laboverwire.com/features) - Visual diagram editor for designing MQTT topologies, built with Rust (WASM) and TypeScript. Features live in-browser simulation, code generation, and AsyncAPI export.
+
 ### Smart Home Integration Software / Firmwares for ESP based Devices
 
 *   [shopsavvy-mqtt (⭐0)](https://github.com/shopsavvy/shopsavvy-mqtt) - MQTT bridge that publishes product price data with Home Assistant MQTT discovery support.
@@ -16,11 +20,11 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Rust
 
-*   [mqtt5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
+*   [mqtt5 (⭐45)](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 
 ### Tools
 
-*   [mqttv5 (⭐40)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
+*   [mqttv5 (⭐45)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 

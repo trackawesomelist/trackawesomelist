@@ -2,28 +2,54 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 711 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 789 · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / Weekly / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
+
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Projects
+
+*   [Biohack Academy](https://assets.waag.org/biohackacademy) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
+
+### Platforms
+
+*   [Open Hardware Repository](https://ohwr.org/about) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.
+*   [Instructables](https://www.instructables.com/circuits/projects) - Instructables is a place that lets you explore, document, and share your creations.
+
+### Podcasts
+
+*   [Road to Open Science](https://soundcloud.com/utrechtuniversity/r2os-a-closer-look-at-open-hardware-with-jose-urra-llanusa-and-santosh-ilamparuthi) - Episode on open hardware in the Netherlands.
+*   [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H) - Episode on the global impact of open hardware.
+*   [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF) - Episode Makers unite.
+*   [A-podcast](https://www.youtube.com/watch?v=m6x03I9cDpw) - Open source hardware is the future.
+*   [Amp hour](https://www.youtube.com/watch?v=nVVhPMAtDyk) - Open Hardware and The Creative Economy.
+*   [Open source hardware podcast](https://www.programmingelectronics.com/category/radio-show/) - By the Programming Electronics Academy.
+
+### Books
+
+*   [Building open source hardware](https://books.google.com/books?id=wg27BQAAQBAJ\&pg=PP1) - Book by Alicia Gibb, on building open source hardware from 2014.
+*   [Open-source Lab](https://books.google.com/books?id=0bOKAAAAQBAJ\&pg=PP1) - Book by Josua M. Pearce, how to build your own hardware and reduce costs.
+*   [Free to Make](https://books.google.com/books?id=jz1bCwAAQBAJ\&pg=PP1) - Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
 ### Projects
 
 *   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
-*   [PiSpot Show (⭐0)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+*   [PiSpot Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Talks
 
-*   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
+*   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
 ### Projects
 
-*   [Mekanika](https://www.mekanika.io/) - Tools & Machines for Makers
+*   [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
@@ -36,13 +62,13 @@
 ### Projects
 
 *   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
-*   [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
+*   [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Projects
 
-*   [Open Gamma Detector (⭐332)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐340)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -65,7 +91,7 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐7.4k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐7.6k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -107,35 +133,31 @@
 
 ### Podcasts
 
-*   [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X\&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) - Open Hardware and The Creative Economy.
 *   [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance.
-*   [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - By the Programming Electronics Academy.
 
 ### Further Readings
 
 *   [Open Source Guide](https://opensource.guide/) - A website created by GitHub to help people work on open source projects.
 *   [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
-*   [OSHWA Certification](https://certification.oshwa.org/) -  Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
+*   [OSHWA Certification](https://certification.oshwa.org/) - Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
 ### Projects
 
-*   [Biohack Academy](http://biohackacademy.github.io/) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
 
 ### Platforms
 
-*   [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your creations.
 *   [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.
 *   [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 *   [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 
 ### Further Readings
 
-*   [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about Open Source Hardware.
+*   [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about open-source hardware.
 *   [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
-*   [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
+*   [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open-access scientific hardware journal.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -147,9 +169,9 @@
 *   [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 *   [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
-*   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
+*   [OpenSPIM](https://openspim.org/) - Open Access platform for three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐520)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐525)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -174,27 +196,16 @@
 
 ### Platforms
 
-*   [Open Hardware Repository](https://ohwr.org/welcome) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.
 *   [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Free blueprints for sustainable open hardware.
 *   [Hackster.io](https://www.hackster.io/about) - Connecting developers where exploring tomorrow starts today.
 *   [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
 *   [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 
-### Podcasts
-
-*   [Road to Open Science](https://open.spotify.com/episode/46WwrOofygFyGrp6X42NOe?si=_qxPzPXkQaGNBqB-bnKwyw) - Episode on open hardware in the Netherlands.
-*   [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H?si=ssJJH7ouSOW_ttGvF2Mtdg) - Episode on the global impact of open hardware.
-*   [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF?si=PwAZCT0qSxW87HQlCa7AeA) -  Episode Makers unite.
-*   [A-podcast](https://open.spotify.com/episode/2Zp3q6ePDCp0Yeyq9ADDny?si=8_CuBG2ESEeoxvcspVi3Xg) -  Open source hardware is the future.
-
 ### Books
 
-*   [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
-*   [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
-*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐689)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐93)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Open Electronics (⭐702)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐95)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
