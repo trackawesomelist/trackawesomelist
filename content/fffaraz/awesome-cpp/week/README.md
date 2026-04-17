@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Crossline (⭐150)](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. \[MIT]
 
+### Compression
+
+*   [LZAV (⭐523)](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm. \[MIT]
+
 ### Database
 
 *   [sqlpp23 (⭐132)](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
@@ -3565,7 +3569,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐451k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐456k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐9.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)

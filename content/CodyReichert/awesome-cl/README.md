@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Apr 17, 2026](/content/2026/04/17/README.md)
+
+### Shells, shells interfaces / Third-party APIs
+
+*   [Lish (⭐0)](https://github.com/lisp-mirror/yew) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+    *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
+    *   WARN: this is an old backup. The original repository is no more.
+
 ## [Apr 08, 2026](/content/2026/04/08/README.md)
 
 ### MCP servers
@@ -667,6 +675,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### YAML
 
 *   [rope (⭐21)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
+    *   see also: ropes in Sycamore.
 
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
 
@@ -2992,6 +3001,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+    *   [cross compilation](https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html#Cross-compilation)
     *   WASM support in development ([NLNET grant in 2025](https://nlnet.nl/project/ECL/))
     *   [eclweb (⭐20)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [CLASP (⭐2.7k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).

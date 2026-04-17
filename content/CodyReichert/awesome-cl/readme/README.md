@@ -534,6 +534,10 @@ and search for JSON RPC below.
 *   [cl-feedparser (⭐26)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL][8]
 *   [Buildnode (⭐19)](https://github.com/AccelerationNet/buildnode) - A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. [BSD][15].
 
+<!-- * [cl-xmlspan](https://github.com/rogpeppe/cl-xmlspam/) - concise, regexp-like pattern matching on streaming XML. BSD_3-clause. -->
+
+<!--   * "What do you do when you have a XML file that's larger than you want to fit in memory, and you want to extract some information from it? Writing code to deal with SAX events, or even using Klacks quickly becomes tedious. Cl-xmlspam is designed to make it easy to write code that mirrors the structure of the XML that it's parsing." -->
+
 To read Excel files:
 
 *   [cl-excel (⭐13)](https://github.com/gwangjinkim/cl-excel) - a modern and powerful Common Lisp library for reading and writing Microsoft Excel .xlsx and LibreOffice .ods files. MIT.
@@ -557,6 +561,7 @@ strings:
 
 *   👍 [str (⭐337)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
 *   [rope (⭐21)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
+    *   see also: ropes in Sycamore.
 
 lists and sequences:
 
@@ -864,6 +869,7 @@ Also:
     *   *tip: to enhance the default terminal experience of SBCL, see also `icl` or `cl-repl` in the Editors section below.*
 *   ⭐ [CCL](https://ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
+    *   [cross compilation](https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html#Cross-compilation)
     *   WASM support in development ([NLNET grant in 2025](https://nlnet.nl/project/ECL/))
     *   [eclweb (⭐20)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
@@ -1789,6 +1795,12 @@ Lisp utilities:
 *   [cmd (⭐68)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT][200].
     *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 *   [Clesh (⭐74)](https://github.com/Neronus/Clesh) - extends Common Lisp to embed shell code in a manner similar to perl's backtick. [FreeBSD][39].
+
+See also:
+
+*   [Lish (⭐0)](https://github.com/lisp-mirror/yew) - `lish` may someday be a lisp shell. [GPL3][2].
+    *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
+    *   WARN: this is an old backup. The original repository is no more.
 
 ## System administration
 

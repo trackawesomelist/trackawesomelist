@@ -8,6 +8,12 @@ Awesome list of computational biology.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
+### GitHub Pages UI
+
+*   Search matches `name`, `description`, `tasks`, `modalities`, and `tags`.
+*   The **Task**, **Modality**, and **Type** filters map directly to `tasks`, `modalities`, and `type` in `docs/data/resources.json`.
+*   Clicking badges on cards applies the corresponding filter.
+
 ### Preprocessing Tools
 
 *   [Numbat (⭐211)](https://github.com/kharchenkolab/numbat) — Haplotype-aware copy number variation inference from single-cell RNA-seq using hidden Markov models.
@@ -62,6 +68,31 @@ Awesome list of computational biology.
 *   [TOAD (⭐182)](https://github.com/mahmoodlab/TOAD) — Tumor Origin Assessment via Deep-learning; weakly-supervised multi-task model predicting cancer primary origin from H\&E whole-slide images.
 *   [PLIP (⭐375)](https://github.com/PathologyFoundation/plip) — Vision-language foundation model for pathology trained with contrastive learning on pathology image–text pairs for image classification and text-to-image retrieval.
 *   [MUSK (⭐226)](https://github.com/lilab-stanford/MUSK) — Vision-language foundation model for precision oncology analyzing multimodal paired text and pathology image data for biomarker prediction and retrieval.
+
+### Curation Criteria (Strict) / Protein Structure Prediction and Design
+
+*   The resource is trustworthy and relevant to computational biology.
+*   The primary link points to an official source (official docs, organization site, maintained repository, or official dataset page).
+*   The resource has evidence of technical substance: ideally a peer-reviewed paper; at minimum a preprint or official technical documentation.
+*   The description is factual and concise (no marketing copy).
+*   Duplicate or near-duplicate entries should be avoided.
+
+### Update & Link Rot Policy / Protein Structure Prediction and Design
+
+*   Link validity is monitored by the [Link Check workflow](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./.github/workflows/link-check.yml).
+*   If a link repeatedly fails, maintainers may replace it with an official mirror/canonical URL or remove the entry until a stable URL is available.
+*   Contributions fixing broken links are welcome and encouraged.
+
+### Data Schema & Contribution Workflow / Protein Structure Prediction and Design
+
+*   Data schema reference: [`docs/data/SCHEMA.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./docs/data/SCHEMA.md).
+*   Source-of-truth workflow:
+    1.  Edit/add resources in `README.md`.
+    2.  Regenerate machine-readable artifacts:
+        *   `python scripts/sync_resources_from_readme.py`
+        *   `python scripts/build_resources.py`
+    3.  Commit updated data files (`data/resources.yml`, `data/resources.json`, `data/resources.csv`, `docs/data/resources.json`) with your README change.
+*   Contribution guide: [`contributing.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./contributing.md).
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 

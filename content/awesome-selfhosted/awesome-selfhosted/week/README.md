@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Software / Booking and Scheduling
+
+*   [Cal.diy](https://cal.diy/) - Online appointment scheduling system. ([Source Code (⭐41k)](https://github.com/calcom/cal.diy)) `MIT` `Nodejs`
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Software / E-commerce
@@ -23,7 +29,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Analytics
 
 *   [d8a.tech](https://d8a.tech) - A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database. ([Demo](https://lookerstudio.google.com/u/0/reporting/0e4102b6-c38b-4f55-aa25-c1fe91d1c1e9), [Source Code (⭐8)](https://github.com/d8a-tech/d8a)) `MIT` `Go/Docker`
-*   [HitKeep](https://hitkeep.com/) - Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami). ([Source Code (⭐38)](https://github.com/pascalebeier/hitkeep)) `MIT` `Go/Docker`
+*   [HitKeep](https://hitkeep.com/) - Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami). ([Source Code (⭐42)](https://github.com/pascalebeier/hitkeep)) `MIT` `Go/Docker`
 
 ### Software / Document Management - E-books
 
@@ -40,11 +46,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [LLMKube](https://llmkube.com) - Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. ([Source Code (⭐36)](https://github.com/defilantech/LLMKube)) `Apache-2.0` `Go/Docker/K8S`
+*   [LLMKube](https://llmkube.com) - Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. ([Source Code (⭐50)](https://github.com/defilantech/LLMKube)) `Apache-2.0` `Go/Docker/K8S`
 
 ### Software / Task Management & To-do Lists
 
-*   [Super Productivity](https://super-productivity.com) - Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject. ([Source Code (⭐18k)](https://github.com/super-productivity/super-productivity)) `MIT` `Docker`
+*   [Super Productivity](https://super-productivity.com) - Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject. ([Source Code (⭐19k)](https://github.com/super-productivity/super-productivity)) `MIT` `Docker`
 
 ### Software / Wikis
 
@@ -152,7 +158,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [LLM Harbor (⭐2.5k)](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
+*   [LLM Harbor (⭐2.8k)](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
 *   [Local Deep Research (⭐4.2k)](https://github.com/LearningCircuit/local-deep-research) - AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage. `MIT` `Docker/Python`
 *   [LocalAI](https://localai.io/) - Run your AI models locally and generate images and audio (alternative to OpenAI and Claude). ([Source Code (⭐45k)](https://github.com/mudler/LocalAI), [Clients](https://localai.io/gallery.html)) `MIT` `Docker/K8S`
 
@@ -487,7 +493,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [AnythingLLM](https://anythingllm.com/) - All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ([Source Code (⭐57k)](https://github.com/Mintplex-Labs/anything-llm)) `MIT` `Nodejs/Docker`
+*   [AnythingLLM](https://anythingllm.com/) - All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ([Source Code (⭐58k)](https://github.com/Mintplex-Labs/anything-llm)) `MIT` `Nodejs/Docker`
 *   [Khoj](https://khoj.dev/) - Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ([Demo](https://app.khoj.dev/), [Source Code (⭐34k)](https://github.com/khoj-ai/khoj)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Health and Fitness
@@ -633,10 +639,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [LittleLink](https://littlelink.io/) - Simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). ([Demo](https://littlelink.io/), [Source Code (⭐2.9k)](https://github.com/sethcottle/littlelink)) `MIT` `Javascript`
 
-### Software / Recipe Management
-
-*   [KitchenOwl](https://docs.kitchenowl.org/latest/) - Cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ([Source Code (⭐3.2k)](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
-
 ### Software / Wikis
 
 *   [Otter Wiki](https://otterwiki.com/) - Simple, easy to use wiki software using markdown. ([Source Code (⭐1.4k)](https://github.com/redimp/otterwiki)) `MIT` `Docker`
@@ -696,7 +698,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code (⭐166k)](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
+*   [Ollama](https://ollama.com/) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ([Source Code (⭐169k)](https://github.com/ollama/ollama)) `MIT` `Docker/Python`
 *   [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code (⭐130k)](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Inventory Management
@@ -754,7 +756,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.karakeep.app/signin), [Source Code (⭐24k)](https://github.com/karakeep-app/karakeep)) `AGPL-3.0` `Docker`
+*   [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.karakeep.app/signin), [Source Code (⭐25k)](https://github.com/karakeep-app/karakeep)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
@@ -1380,7 +1382,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐464)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐465)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -1434,7 +1436,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Personal Dashboards
 
-*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐682)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
+*   [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. ([Source Code (⭐688)](https://github.com/hywax/mafl)) `MIT` `Docker/Nodejs`
 
 ### Software / Polls and Events
 
@@ -1731,7 +1733,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [OctoBot](https://www.octobot.cloud/) - Cryptocurrency trading bot. ([Source Code (⭐5.5k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
+*   [OctoBot](https://www.octobot.cloud/) - Cryptocurrency trading bot. ([Source Code (⭐5.7k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
 
 ### Software / Recipe Management
 
@@ -1994,7 +1996,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - Cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐920)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - Cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐923)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 *   [Kill Bill](https://killbill.io/) - Subscription billing & payments platform. Have access to real-time analytics and financial reports. ([Source Code (⭐5.4k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
 *   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐872)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
@@ -2382,7 +2384,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Pastebins
 
-*   [Password Pusher](https://pwpush.com) - Dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐2.9k)](https://github.com/pglombardo/PasswordPusher)) `Apache-2.0` `Docker/K8S/Ruby`
+*   [Password Pusher](https://pwpush.com) - Dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐3k)](https://github.com/pglombardo/PasswordPusher)) `Apache-2.0` `Docker/K8S/Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -2770,7 +2772,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [RSS-Bridge (⭐8.8k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
+*   [RSS-Bridge (⭐8.9k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP/Docker`
 
 ### Software / Internet of Things (IoT)
 
@@ -2906,7 +2908,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [Bubo Reader (⭐227)](https://github.com/georgemandis/bubo-rss) - Irrationally minimal RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
+*   [Bubo Reader (⭐230)](https://github.com/georgemandis/bubo-rss) - Irrationally minimal RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
 *   [Stringer (⭐4.1k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -2929,7 +2931,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Ghostfolio](https://ghostfol.io/) - Wealth management software to keep track of stocks, ETFs and cryptocurrencies. ([Source Code (⭐8k)](https://github.com/ghostfolio/ghostfolio)) `AGPL-3.0` `Docker/Nodejs`
+*   [Ghostfolio](https://ghostfol.io/) - Wealth management software to keep track of stocks, ETFs and cryptocurrencies. ([Source Code (⭐8.1k)](https://github.com/ghostfolio/ghostfolio)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Photo Galleries
 
@@ -3045,12 +3047,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / File Transfer - Web-based File Managers
 
 *   [miniserve (⭐7.5k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
-
-## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
-
-### Software / Booking and Scheduling
-
-*   [Cal.com](https://cal.com/) - Online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐41k)](https://github.com/calcom/cal.com)) `AGPL-3.0` `Nodejs`
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -3234,7 +3230,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Ansible-NAS (⭐3.7k)](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `Ansible/Docker`
 *   [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code (⭐6k)](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
-*   [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code (⭐2.5k)](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
+*   [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code (⭐2.6k)](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
 *   [HomelabOS](https://homelabos.com) - Offline privacy-centric data-center. Deploy over 100 services with a few commands. ([Source Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
 *   [OpenMediaVault](https://www.openmediavault.org/) - Network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code (⭐6.6k)](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
 *   [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code (⭐7k)](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Shell`
@@ -3324,7 +3320,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C/deb`
 *   [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](https://git.exim.org/exim.git)) `GPL-3.0` `C/deb`
-*   [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code (⭐566)](https://github.com/OpenSMTPD/OpenSMTPD/)) `ISC` `C/deb`
+*   [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code (⭐568)](https://github.com/OpenSMTPD/OpenSMTPD/)) `ISC` `C/deb`
 *   [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C/deb`
 
 ### Software / Communication - Email - Webmail Clients
@@ -3617,7 +3613,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [Leed (⭐231)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
+*   [Leed (⭐232)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
 *   [Miniflux](https://miniflux.app/) - Minimalist news reader. ([Source Code (⭐9k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go/deb/Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
@@ -3972,7 +3968,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [reader (⭐527)](https://github.com/lemon24/reader) - Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐532)](https://github.com/lemon24/reader) - Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
@@ -4096,11 +4092,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Conference Management
 
-*   [indico](https://getindico.io/) - Feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐2k)](https://github.com/indico/indico)) `MIT` `Python`
+*   [indico](https://getindico.io/) - Feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐2.1k)](https://github.com/indico/indico)) `MIT` `Python`
 
 ### Software / Document Management - E-books
 
-*   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐24k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
+*   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code (⭐25k)](https://github.com/kovidgoyal/calibre)) `GPL-3.0` `Python/deb`
 
 ### Software / Polls and Events
 
@@ -4606,7 +4602,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Transmission](https://transmissionbt.com/) - Fast, easy, free Bittorrent client. ([Source Code (⭐14k)](https://github.com/transmission/transmission)) `GPL-3.0` `C++/deb`
+*   [Transmission](https://transmissionbt.com/) - Fast, easy, free Bittorrent client. ([Source Code (⭐15k)](https://github.com/transmission/transmission)) `GPL-3.0` `C++/deb`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -4674,7 +4670,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [Loomio](https://www.loomio.org/) - Collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.5k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
-*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server. ([Source Code (⭐50k)](https://github.com/mastodon/mastodon), [Clients (⭐55)](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`
+*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server. ([Source Code (⭐50k)](https://github.com/mastodon/mastodon), [Clients (⭐56)](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`
 *   [OSSN](https://www.opensource-socialnetwork.org/) - Social networking software that allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐1.2k)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `CAL-1.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐2k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
 
@@ -4699,7 +4695,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Feed Readers
 
 *   [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Demo](https://www.commafeed.com/#/app/category/all), [Source Code (⭐3.5k)](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
-*   [RSS Monster (⭐463)](https://github.com/pietheinstrengholt/rssmonster) - Easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`
+*   [RSS Monster (⭐466)](https://github.com/pietheinstrengholt/rssmonster) - Easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). `MIT` `PHP`
 
 ### Software / File Transfer & Synchronization
 

@@ -2,9 +2,32 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 593 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 605 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Creative Technology
+
+- Name: [**Acronym**](https://acronym.lol/)
+
+  Locations: \[LA]
+
+  Keywords: end-to-end experience partner, strategy, narrative, creative, technology, on-the-ground execution (formerly VTProDesign)
+
+  Jobs: [🌐](https://acronym.lol/jobs)
+
+
+- Name: [**Territory Studio**](https://territorystudio.com/project-category/experiential/)
+
+  Locations: \[London] \[SF] \[Barcelona]
+
+  Keywords: narrative-led creative design to imagine, realise and build new worlds
+
+  Jobs: [🌐](https://territorystudio.com/jobs/)
+
+
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -1432,15 +1455,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Keywords: digital and physical content first experiences
 
   Jobs: [🌐](https://upswell.studio/contact)
-
-
-- Name: [**VTProDesign**](https://vtprodesign.com/)
-
-  Locations: \[LA]
-
-  Keywords: high tech robotics and projection mapping
-
-  Jobs: [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/main/README.md/mailto:jobs@vtprodesign.com)
 
 
 - Name: [**We Are Royale**](https://weareroyale.com/)

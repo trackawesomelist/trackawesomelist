@@ -6,6 +6,39 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Apr 17, 2026](/content/2026/04/17/README.md)
+
+### GitHub Pages UI
+
+*   Search matches `name`, `description`, `tasks`, `modalities`, and `tags`.
+*   The **Task**, **Modality**, and **Type** filters map directly to `tasks`, `modalities`, and `type` in `docs/data/resources.json`.
+*   Clicking badges on cards applies the corresponding filter.
+
+### Curation Criteria (Strict) / Protein Structure Prediction and Design
+
+*   The resource is trustworthy and relevant to computational biology.
+*   The primary link points to an official source (official docs, organization site, maintained repository, or official dataset page).
+*   The resource has evidence of technical substance: ideally a peer-reviewed paper; at minimum a preprint or official technical documentation.
+*   The description is factual and concise (no marketing copy).
+*   Duplicate or near-duplicate entries should be avoided.
+
+### Update & Link Rot Policy / Protein Structure Prediction and Design
+
+*   Link validity is monitored by the [Link Check workflow](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./.github/workflows/link-check.yml).
+*   If a link repeatedly fails, maintainers may replace it with an official mirror/canonical URL or remove the entry until a stable URL is available.
+*   Contributions fixing broken links are welcome and encouraged.
+
+### Data Schema & Contribution Workflow / Protein Structure Prediction and Design
+
+*   Data schema reference: [`docs/data/SCHEMA.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./docs/data/SCHEMA.md).
+*   Source-of-truth workflow:
+    1.  Edit/add resources in `README.md`.
+    2.  Regenerate machine-readable artifacts:
+        *   `python scripts/sync_resources_from_readme.py`
+        *   `python scripts/build_resources.py`
+    3.  Commit updated data files (`data/resources.yml`, `data/resources.json`, `data/resources.csv`, `docs/data/resources.json`) with your README change.
+*   Contribution guide: [`contributing.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./contributing.md).
+
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
 ### Preprocessing Tools

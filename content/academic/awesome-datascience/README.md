@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 17, 2026](/content/2026/04/17/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
+
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
 ### Tools

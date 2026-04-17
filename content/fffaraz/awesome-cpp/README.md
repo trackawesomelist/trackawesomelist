@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 17, 2026](/content/2026/04/17/README.md)
+
+### Compression
+
+*   [LZAV (⭐523)](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm. \[MIT]
+
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
 ### CLI
@@ -4051,7 +4057,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐451k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐456k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐9.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)

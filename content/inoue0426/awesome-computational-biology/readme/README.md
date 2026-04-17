@@ -16,9 +16,13 @@ A curated collection of databases, software, and papers related to computational
 
 ***
 
-## Interface
+## GitHub Pages UI
 
 Browse and search the resources via the [GitHub Pages UI](https://inoue0426.github.io/awesome-computational-biology/).
+
+*   Search matches `name`, `description`, `tasks`, `modalities`, and `tags`.
+*   The **Task**, **Modality**, and **Type** filters map directly to `tasks`, `modalities`, and `type` in `docs/data/resources.json`.
+*   Clicking badges on cards applies the corresponding filter.
 
 ***
 
@@ -26,6 +30,11 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 *   [Awesome Computational Biology](#awesome-computational-biology-)
     *   [Table of Contents](#table-of-contents)
+    *   [GitHub Pages UI](#github-pages-ui)
+    *   [Citation](#citation)
+    *   [Curation Criteria (Strict)](#curation-criteria-strict)
+    *   [Update & Link Rot Policy](#update--link-rot-policy)
+    *   [Data Schema & Contribution Workflow](#data-schema--contribution-workflow)
     *   [Databases](#databases)
         *   [scRNA](#scrna)
         *   [Compound](#compound)
@@ -455,4 +464,37 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [GPN (Genomic Pre-trained Network) (⭐338)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
 ***
+
+## Citation
+
+If you use this list in papers, slides, or documentation, please cite this repository via [`CITATION.cff`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./CITATION.cff) (also available through GitHub's **Cite this repository** button).
+
+## Curation Criteria (Strict)
+
+To keep quality high, additions should meet all of the following:
+
+*   The resource is trustworthy and relevant to computational biology.
+*   The primary link points to an official source (official docs, organization site, maintained repository, or official dataset page).
+*   The resource has evidence of technical substance: ideally a peer-reviewed paper; at minimum a preprint or official technical documentation.
+*   The description is factual and concise (no marketing copy).
+*   Duplicate or near-duplicate entries should be avoided.
+
+We generally do **not** accept entries that are only promotional pages, personal opinion posts, or generic blog posts without technical references.
+
+## Update & Link Rot Policy
+
+*   Link validity is monitored by the [Link Check workflow](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./.github/workflows/link-check.yml).
+*   If a link repeatedly fails, maintainers may replace it with an official mirror/canonical URL or remove the entry until a stable URL is available.
+*   Contributions fixing broken links are welcome and encouraged.
+
+## Data Schema & Contribution Workflow
+
+*   Data schema reference: [`docs/data/SCHEMA.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./docs/data/SCHEMA.md).
+*   Source-of-truth workflow:
+    1.  Edit/add resources in `README.md`.
+    2.  Regenerate machine-readable artifacts:
+        *   `python scripts/sync_resources_from_readme.py`
+        *   `python scripts/build_resources.py`
+    3.  Commit updated data files (`data/resources.yml`, `data/resources.json`, `data/resources.csv`, `docs/data/resources.json`) with your README change.
+*   Contribution guide: [`contributing.md`](https://github.com/inoue0426/awesome-computational-biology/blob/main/README.md/./contributing.md).
 

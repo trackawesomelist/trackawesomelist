@@ -22,6 +22,10 @@
 
 *   [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
 
+### Datasets / Book Deals (Affiliated)
+
+*   [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
+
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
