@@ -404,7 +404,7 @@ Please take a quick gander at the [contribution guidelines (⭐170k)](https://gi
 *   [gookit/color (⭐1.6k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
 *   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 *   [lipgloss (⭐11k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
-*   [loom (⭐120)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐124)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 *   [marker (⭐53)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
 *   [mpb (⭐2.5k)](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
 *   [phoenix (⭐22)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
@@ -433,7 +433,7 @@ Please take a quick gander at the [contribution guidelines (⭐170k)](https://gi
 *   [acmd (⭐139)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐640)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐43)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+*   [boa (⭐41)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 *   [carapace (⭐1.2k)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.8k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐29)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
@@ -2158,6 +2158,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-zoox/fetch (⭐89)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 *   [Grequest (⭐9)](https://github.com/lib4u/grequest)  - Simple and lightweight golang package for http requests. based on powerful net/http
 *   [grequests (⭐2.2k)](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
+*   [hedge (⭐193)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
 *   [heimdall (⭐2.7k)](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
 *   [httpretry (⭐57)](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
 *   [pester (⭐655)](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
@@ -2381,6 +2382,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 *   [procscope (⭐0)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 *   [qrand (⭐17)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+*   [redact (⭐0)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 *   [SafeDep/vet (⭐1k)](https://github.com/safedep/vet) - Protect against malicious open source packages.
 *   [secret (⭐33)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
@@ -2471,7 +2473,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [machine (⭐167)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 *   [nibbler (⭐14)](https://github.com/naughtygopher/nibbler) - A lightweight package for micro batch processing.
 *   [ro (⭐641)](https://github.com/samber/ro) - Reactive Programming: declarative and composable API for event-driven applications.
-*   [signals (⭐12)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
+*   [signals (⭐14)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 *   [stream (⭐92)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 *   [StreamSQL (⭐55)](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
@@ -2721,7 +2723,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [petrovich (⭐51)](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
 *   [radix (⭐196)](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 *   [TySug (⭐19)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
-*   [uniwidth (⭐4)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
+*   [uniwidth (⭐6)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
 *   [w2vgrep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder".
 
 **[⬆ back to top](#contents)**

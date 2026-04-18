@@ -17,9 +17,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [NornicDB (⭐570)](https://github.com/orneryd/NornicDB) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
 
+### HTTP Clients
+
+*   [hedge (⭐193)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
+
 ### Security
 
 *   [procscope (⭐0)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
+*   [redact (⭐0)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 
 ### Server Applications
 
@@ -83,7 +88,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [boa (⭐14)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+*   [boa (⭐41)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 
 ### Databases Implemented in Go
 
@@ -179,7 +184,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [loom (⭐120)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐124)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
 ### Configuration
 
@@ -310,11 +315,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Stream Processing
 
-*   [signals (⭐12)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
+*   [signals (⭐14)](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 
 ### Utility/Miscellaneous
 
-*   [uniwidth (⭐4)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
+*   [uniwidth (⭐6)](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
 
 ### Utilities
 

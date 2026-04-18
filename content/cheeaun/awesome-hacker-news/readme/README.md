@@ -2,7 +2,7 @@
 
 Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cheeaun/awesome-hacker-news/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cheeaun/awesome-hacker-news/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / Overview ]
 
@@ -88,6 +88,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [SmackerNews](https://smackernews.com/)
 *   [The Hacker Classics](http://jsomers.net/hn/)
 *   [Timbo's Hacker News Reader](https://www.thnr.net/)
+*   [underscore HN](https://underscore-hn.vercel.app/)
 *   [whnex](https://whnex.com/)
 
 ### Mobile Web
@@ -168,7 +169,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Userstyles
 
-*   [Modern Hacker News Userstyle (⭐21)](https://github.com/losuler/hacker-news-userstyle)
+*   [Modern Hacker News Userstyle (⭐22)](https://github.com/losuler/hacker-news-userstyle)
 
 ### Desktop (Windows, macOS, Linux)
 
@@ -206,8 +207,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐573)](https://github.com/Mosc/Glider)
-*   [Hacker News client for Android (⭐230)](https://github.com/bishopmatthew/hackernews)
+*   [Glider for Hacker News (⭐577)](https://github.com/Mosc/Glider)
+*   [Hacker News client for Android (⭐229)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Hacki for Hacker News (⭐1.5k)](https://github.com/Livinglist/Hacki)
@@ -235,7 +236,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### Emacs
 
 *   [Gnus Backend (⭐66)](https://github.com/dickmao/nnhackernews)
-*   [Hacker News Emacs Client (⭐256)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐258)](https://github.com/clarete/hackernews.el)
 
 ### Command Line
 
@@ -248,7 +249,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
 *   [Node HackerNews (⭐3)](https://github.com/headcanon/node-hn)
-*   [Pyhn (⭐384)](https://github.com/socketubs/pyhn)
+*   [Pyhn (⭐383)](https://github.com/socketubs/pyhn)
 
 ### Alfred workflows
 
@@ -265,7 +266,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ## Resources
 
-*   [Hacker News Groups (⭐122)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
 *   [Hacker News TLDR Podcast](https://open.spotify.com/show/3lGKG0r7A6DB25bz7ONkub?si=79e95c9d70de4c98)
 *   [Hacker News Undocumented Features and Behaviors (⭐3.8k)](https://github.com/minimaxir/hacker-news-undocumented)
 *   [Hacker News Headlines](https://github.com/bodaso/hacker-news-headlines)

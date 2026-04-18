@@ -2,9 +2,15 @@
 
 Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cheeaun/awesome-hacker-news/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cheeaun/awesome-hacker-news/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
+
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Web
+
+*   [underscore HN](https://underscore-hn.vercel.app/)
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -232,7 +238,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐573)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐577)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -262,7 +268,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Userstyles / Nevix
 
-*   [Modern Hacker News Userstyle (⭐21)](https://github.com/losuler/hacker-news-userstyle)
+*   [Modern Hacker News Userstyle (⭐22)](https://github.com/losuler/hacker-news-userstyle)
 
 ### Android / Nevix
 
@@ -349,14 +355,14 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Hacker News client for Android (⭐230)](https://github.com/bishopmatthew/hackernews)
+*   [Hacker News client for Android (⭐229)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [HN-Android (⭐495)](https://github.com/manmal/hn-android/)
 *   [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
 
 ### Emacs / Nevix
 
-*   [Hacker News Emacs Client (⭐256)](https://github.com/clarete/hackernews.el)
+*   [Hacker News Emacs Client (⭐258)](https://github.com/clarete/hackernews.el)
 
 ### Command Line / Nevix
 
@@ -423,7 +429,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 *   [Hacker News ncurses CLI (⭐273)](https://github.com/andrewstuart/hn)
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
-*   [Pyhn (⭐384)](https://github.com/socketubs/pyhn)
+*   [Pyhn (⭐383)](https://github.com/socketubs/pyhn)
 
 ### Alfred workflows / Nevix
 
@@ -439,7 +445,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Resources / Nevix
 
-*   [Hacker News Groups (⭐122)](https://github.com/antontarasenko/hacker-news-groups)
+*   [Hacker News Groups (⭐123)](https://github.com/antontarasenko/hacker-news-groups)
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 

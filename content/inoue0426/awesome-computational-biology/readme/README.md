@@ -228,6 +228,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [FLIP (Fitness Landscape Inference for Proteins) (⭐120)](https://github.com/J-SNACKKB/FLIP) — Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.
 *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for \~1000 human cancer cell lines and hundreds of compounds.
 *   [GuacaMol (⭐513)](https://github.com/BenevolentAI/guacamol) — Benchmark suite for generative molecular design models.
+*   [JUMP Cell Painting Datasets (⭐184)](https://github.com/jump-cellpainting/datasets) — Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.
 *   [LINCS L1000](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data) — Gene expression profiles (978 landmark genes) for >20,000 chemical and genetic perturbations across cell lines.
 *   [MoleculeNet](http://moleculenet.ai/) — Benchmark datasets for molecular machine learning.
 *   [MOSES (⭐964)](https://github.com/molecularsets/moses) — Benchmarking platform for molecular generation models.
@@ -240,6 +241,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [ProteinGym (⭐415)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 *   [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
 *   [scIB (Single-cell Integration Benchmarks) (⭐410)](https://github.com/theislab/scib) — Comprehensive benchmarking framework for single-cell data integration methods.
+*   [scPerturb (⭐172)](https://github.com/sanderlab/scPerturb) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
 *   [SIDER (Side Effect Resource)](http://sideeffects.embl.de/) — Database of 1,430 approved drugs with their recorded adverse drug reactions across 27 system-organ classes.
 *   [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
 *   [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of \~500K cells from 24 organs and tissues across multiple donors.
@@ -317,6 +319,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [TGSA (⭐23)](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 *   [HiDRA](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
 *   [PRNet (⭐78)](https://github.com/Perturbation-Response-Prediction/PRnet) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
+*   [chemCPA (⭐148)](https://github.com/theislab/chemCPA) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
+*   [cycleCDR (⭐3)](https://github.com/hliulab/cycleCDR) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
 *   [DRUML (⭐11)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
 
 #### Drug Repurposing

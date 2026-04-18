@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 18, 2026](/content/2026/04/18/README.md)
+
+### Font
+
+*   [SheenBidi (⭐194)](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. \[Apache-2.0]
+
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
 
 ### Compression

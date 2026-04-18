@@ -14,6 +14,11 @@ Awesome list of computational biology.
 *   The **Task**, **Modality**, and **Type** filters map directly to `tasks`, `modalities`, and `type` in `docs/data/resources.json`.
 *   Clicking badges on cards applies the corresponding filter.
 
+### Benchmarks & Datasets
+
+*   [JUMP Cell Painting Datasets (⭐184)](https://github.com/jump-cellpainting/datasets) — Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.
+*   [scPerturb (⭐172)](https://github.com/sanderlab/scPerturb) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
+
 ### Preprocessing Tools
 
 *   [Numbat (⭐211)](https://github.com/kharchenkolab/numbat) — Haplotype-aware copy number variation inference from single-cell RNA-seq using hidden Markov models.
@@ -31,6 +36,8 @@ Awesome list of computational biology.
 ### Drug Response Prediction
 
 *   [PRNet (⭐78)](https://github.com/Perturbation-Response-Prediction/PRnet) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
+*   [chemCPA (⭐148)](https://github.com/theislab/chemCPA) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
+*   [cycleCDR (⭐3)](https://github.com/hliulab/cycleCDR) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
 *   [DRUML (⭐11)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
 
 ### Drug Repurposing

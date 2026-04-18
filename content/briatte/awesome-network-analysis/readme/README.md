@@ -10,7 +10,7 @@ A curated list of awesome network analysis resources.
 
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481)
 
-An [awesome list (⭐451k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list (⭐456k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
 Inspired by [Awesome Deep Learning (⭐28k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐14k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
@@ -236,7 +236,7 @@ Inspired by [Awesome Deep Learning (⭐28k)](https://github.com/ChristosChristof
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 *   [Gephi Datasets (⭐6.4k)](https://github.com/gephi/gephi/wiki/Datasets).
-*   [Hetionet: an integrative network of disease (⭐347)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐350)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
 *   [igraphwalshdata](https://cran.r-project.org/package=igraphwalshdata) - Another R data-centric package.
 *   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
@@ -658,10 +658,11 @@ Inspired by [Awesome Deep Learning (⭐28k)](https://github.com/ChristosChristof
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code (⭐46)](https://github.com/maksim2042/PyCon2012)).\
-> For more awesome Python packages, see the [Awesome Python (⭐289k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4.2k)](https://github.com/Junnplus/awesome-python-books) lists.
+> For more awesome Python packages, see the [Awesome Python (⭐291k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4.2k)](https://github.com/Junnplus/awesome-python-books) lists.
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
 *   [cdlib (⭐423)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [CHSZLabLib (⭐20)](https://github.com/CHSZLab/CHSZLabLib) - Unified Python interface to 20 high-performance C++ libraries for graph partitioning, community detection, cuts, independent sets, and dynamic graph algorithms.
 *   [dash-cytoscape (⭐672)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 *   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 *   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
@@ -697,7 +698,7 @@ Inspired by [Awesome Deep Learning (⭐28k)](https://github.com/ChristosChristof
 
 ### R
 
-> For more awesome R resources, see the [Awesome R (⭐6.4k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐274)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
+> For more awesome R resources, see the [Awesome R (⭐6.4k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐275)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 *   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
@@ -1044,8 +1045,9 @@ Alden S. Klovdahl,
 [Rohan Dandage](https://github.com/rraadd88),
 [Benjamin Smith](https://github.com/benyamindsmith),
 [Beth Duckles](https://github.com/bduckles),
-[Lei Cao](https://github.com/cllei12) and
-[Simon Delarue](https://www.simondelarue.com/) -
+[Lei Cao](https://github.com/cllei12),
+[Simon Delarue](https://www.simondelarue.com/) and
+[Christian Schulz](https://schulzchristian.github.io/) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland),

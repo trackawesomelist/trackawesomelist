@@ -46,7 +46,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 *   [Keploy (⭐17k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 *   [RestQA (⭐93)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
-*   [SpecTest (⭐30)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
+*   [SpecTest (⭐23)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 *   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
 *   [Swagger Coverage Tool (⭐20)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 *   [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
@@ -62,7 +62,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### AI & LLM Testing
 
-*   [Litmus (⭐2)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
+*   [Litmus (⭐3)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 *   [promptfoo (⭐20k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 *   [Tenro (⭐1)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 *   [voicetest (⭐12)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
@@ -70,8 +70,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
-*   [DeepfakeHTTP (⭐530)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
-*   [mockd (⭐90)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [DeepfakeHTTP (⭐529)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [mockd (⭐116)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 *   [WireMock (⭐7.2k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 *   [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 
@@ -79,7 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Frostbyte Screenshot Action (⭐0)](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
-*   [GoodLooks (⭐51)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+*   [GoodLooks (⭐52)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 *   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 *   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 *   [recheck-web (⭐269)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
@@ -103,7 +103,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 
-*   [Hercules (⭐958)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐980)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
 
@@ -113,7 +113,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 
-*   [playwright-bdd (⭐642)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐660)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 
@@ -131,7 +131,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 *   [Synth (⭐1.5k)](https://github.com/getsynth/synth) - Open-source test data generator.
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐510)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 *   [test-each (⭐118)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ### Browser Extensions & Utilities
@@ -148,12 +148,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 *   [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+*   [VertaaUX CLI (⭐0)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 *   [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Performance & Load Testing
 
 *   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
-*   [Load Testing Hub Panel (⭐22)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+*   [Load Testing Hub Panel (⭐23)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
 ### Web3 & Blockchain Testing
 
@@ -168,7 +169,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Automation Frameworks
 
 *   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
-*   [ai-natural-language-tests (⭐13)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+*   [ai-natural-language-tests (⭐15)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐25)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ### Screen Recording & Session Replays
@@ -204,7 +205,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 
-*   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+*   [Learn to Code (⭐4.8k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -232,20 +233,20 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Falsehoods (⭐27k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐968)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
 
-*   [The Original (⭐451k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [The Original (⭐456k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Learn to Code (⭐4.8k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐6.9k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 *   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 *   [Awesome Cucumber (⭐45)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
-*   [Awesome JMeter (⭐779)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐786)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 *   [Awesome Performance Engineering (⭐21)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
-*   [How They Test (⭐6.5k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐6.7k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## QA and Testing Road Map
 
@@ -255,7 +256,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 *   [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
-*   [Software Testing Interview Tool (⭐51)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐52)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## Contributing
 

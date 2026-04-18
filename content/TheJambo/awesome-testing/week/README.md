@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Software / Accessibility & Usability Testing
+
+*   [VertaaUX CLI (⭐0)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Software / AI & LLM Testing
@@ -16,7 +22,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [Litmus (⭐2)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
+*   [Litmus (⭐3)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -55,7 +61,7 @@ A curated list of testing resources
 
 ### Software / Test Automation Frameworks
 
-*   [ai-natural-language-tests (⭐13)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+*   [ai-natural-language-tests (⭐15)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐25)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
@@ -76,7 +82,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐90)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐116)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Software / Accessibility & Usability Testing
 
@@ -167,7 +173,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [SpecTest (⭐30)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
+*   [SpecTest (⭐23)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 
 ### Software / Visual Testing
 
@@ -186,7 +192,7 @@ A curated list of testing resources
 
 ### Software / Performance & Load Testing
 
-*   [Load Testing Hub Panel (⭐22)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+*   [Load Testing Hub Panel (⭐23)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -204,7 +210,7 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-*   [Hercules (⭐958)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐980)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -222,13 +228,13 @@ A curated list of testing resources
 
 ### Software / Visual Testing
 
-*   [GoodLooks (⭐51)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+*   [GoodLooks (⭐52)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐642)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐660)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
@@ -301,7 +307,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca (⭐509)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐510)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -333,7 +339,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐530)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐529)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -387,7 +393,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐6.5k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐6.7k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 
@@ -413,7 +419,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐779)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐786)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -447,7 +453,7 @@ A curated list of testing resources
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐51)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐52)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -497,7 +503,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐4.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐4.8k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [Jan 23 - Jan 29, 2017](/content/2017/4/README.md)
 
@@ -509,11 +515,11 @@ A curated list of testing resources
 
 *   [Falsehoods (⭐27k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐968)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐451k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐456k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.9k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.

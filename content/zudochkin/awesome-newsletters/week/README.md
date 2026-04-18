@@ -2,9 +2,19 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.3K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.4K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
+
+### Miscellaneous / Svelte
+
+*   [Word of the Day](https://tally.so/r/mRQ1L4). Daily vocabulary email with definitions, examples, and practical usage tips.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -893,7 +903,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐802)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐812)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 
@@ -1012,7 +1022,7 @@ A list of amazing Newsletters
 ### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
 *   [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
-*   [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
+*   [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence and Machine Learning.
 *   [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 *   [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 *   [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c)

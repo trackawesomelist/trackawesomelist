@@ -1,8 +1,39 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.5K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.7K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Apr 18, 2026](/content/2026/04/18/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Dev Jobs](https://aidevboard.com) - 7,400+ AI/ML jobs from 417 companies with a free REST API and MCP server for AI agents
+*   [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+
+### Blockchain
+
+*   [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
+
+### Design
+
+*   [AIGA](https://designcareers.aiga.org/)
+
+### Programming / Mobile
+
+*   [React Native Jobs](https://reactnative-jobs.com) — A dedicated job board for React Native developers and companies.
+
+### Quantum Computing / Aggregator
+
+*   [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
+
+### Tech / Aggregator
+
+*   [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (only EM/Staff+ positions, VP, Director, CTO)
+
+### Tech / Europe
+
+*   [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -13,10 +44,6 @@
 ### Blockchain
 
 *   [Remote Web3 Jobs](https://www.remote3.co/) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
-
-### Design
-
-*   [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
 
 ### Open Source
 
@@ -49,10 +76,6 @@
 
 *   [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
-### Remote / Scala
-
-*   [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
-
 ### Tech / Latin America
 
 *   [Findjobit](https://findjobit.com/jobs)
@@ -77,12 +100,6 @@
 *   [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 *   [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
-## [Apr 14, 2024](/content/2024/04/14/README.md)
-
-### Cloud
-
-*   [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence
-
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
 ### Artificial Intelligence (AI)
@@ -95,19 +112,11 @@
 
 *   [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 
-### Programming / Mobile
-
-*   [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
-
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Programming / Rust
 
 *   [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
-
-### Quantum Computing / Aggregator
-
-*   [OkJob](https://okjob.io/) - 4 day week job board
 
 ## [Aug 25, 2023](/content/2023/08/25/README.md)
 
@@ -120,12 +129,6 @@
 ### Various / United Kingdom
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
-
-## [Jul 26, 2023](/content/2023/07/26/README.md)
-
-### eCommerce
-
-*   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
@@ -178,10 +181,6 @@
 ### Programming / Ruby
 
 *   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
-
-### Remote / Scala
-
-*   [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
 ### Various / United Kingdom
 
@@ -290,12 +289,6 @@
 
 *   [findwork.dev](https://findwork.dev/)
 
-## [Oct 21, 2021](/content/2021/10/21/README.md)
-
-### Programming / Functional
-
-*   [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
-
 ## [Oct 17, 2021](/content/2021/10/17/README.md)
 
 ### Big Data
@@ -364,16 +357,6 @@
 
 *   [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 
-## [Oct 19, 2019](/content/2019/10/19/README.md)
-
-### Programming / Go
-
-*   [Golang Developer Jobs](https://golangjob.xyz)
-
-### Programming / Python
-
-*   [Python Developer Jobs](https://pythonjob.xyz)
-
 ## [Oct 08, 2019](/content/2019/10/08/README.md)
 
 ### Tech / Aggregator
@@ -397,12 +380,6 @@
 ### Remote / Scala
 
 *   [DailyRemote](https://dailyremote.com/)
-
-## [Jul 14, 2019](/content/2019/07/14/README.md)
-
-### Programming / JavaScript
-
-*   [JavaScript Developer Board](https://javascriptjob.xyz/)
 
 ## [Jan 04, 2019](/content/2019/01/04/README.md)
 
@@ -430,12 +407,6 @@
 
 *   [Startup Jobs](https://startup.jobs/)
 
-## [Jan 19, 2018](/content/2018/01/19/README.md)
-
-### Design
-
-*   [AIGA](https://designjobs.aiga.org/)
-
 ## [Jan 03, 2018](/content/2018/01/03/README.md)
 
 ### Blockchain
@@ -443,10 +414,6 @@
 *   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)
-
-### InfoSec
-
-*   [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 
 ### Programming / PHP
 

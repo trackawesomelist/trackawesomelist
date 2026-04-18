@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.3K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.4K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / Overview ]
 
@@ -14,9 +14,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.3k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.4k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐4.4k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -254,7 +254,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐802)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐812)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -430,7 +430,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 ## Artificial Intelligence / Machine Learning / Big Data
 
 *   [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
-*   [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
+*   [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence and Machine Learning.
 *   [Machine Learnings](http://subscribe.machinelearnings.co/). A weekly roundup of ML & AI news.
 *   [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 *   [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c)
@@ -440,6 +440,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
 *   [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 *   [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
+*   [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
 
 ## Blockchain / Cryptocurrencies
 
@@ -579,6 +580,7 @@ Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-news
 *   [No-Code Shots](https://nocodeshots.com). A curated weekly newsletter that will bring you news, updates, and tips on how to improve your No-code skills.
 *   [News Minimalist](https://www.newsminimalist.com/). A curated newsletter utilizing AI (ChatGPT-4) to deliver only the most significant news. By analyzing 1000 top articles daily, it ensures subscribers stay informed without wasting time on unimportant updates.
 *   [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
+*   [Word of the Day](https://tally.so/r/mRQ1L4). Daily vocabulary email with definitions, examples, and practical usage tips.
 
 ## License
 

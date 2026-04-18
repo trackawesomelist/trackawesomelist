@@ -6,6 +6,12 @@ A curated list of awesome network analysis resources.
 
 [ [Daily](/content/briatte/awesome-network-analysis/README.md) / Weekly / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 
+## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
+
+### Software / Python
+
+*   [CHSZLabLib (⭐20)](https://github.com/CHSZLab/CHSZLabLib) - Unified Python interface to 20 high-performance C++ libraries for graph partitioning, community detection, cuts, independent sets, and dynamic graph algorithms.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Books / Software-specific
@@ -180,7 +186,7 @@ A curated list of awesome network analysis resources.
 
 ### Datasets / Topic-specific
 
-*   [Hetionet: an integrative network of disease (⭐347)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐350)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 *   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 *   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.

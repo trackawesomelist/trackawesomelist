@@ -6,6 +6,18 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Apr 18, 2026](/content/2026/04/18/README.md)
+
+### Benchmarks & Datasets
+
+*   [JUMP Cell Painting Datasets (⭐184)](https://github.com/jump-cellpainting/datasets) — Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.
+*   [scPerturb (⭐172)](https://github.com/sanderlab/scPerturb) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
+
+### Drug Response Prediction
+
+*   [chemCPA (⭐148)](https://github.com/theislab/chemCPA) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
+*   [cycleCDR (⭐3)](https://github.com/hliulab/cycleCDR) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
+
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
 
 ### GitHub Pages UI

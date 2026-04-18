@@ -20,6 +20,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [sqlpp23 (⭐132)](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
 
+### Font
+
+*   [SheenBidi (⭐194)](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. \[Apache-2.0]
+
 ### Miscellaneous
 
 *   [The RaBitQ Library (⭐190)](https://github.com/VectorDB-NTU/RaBitQ-Library) - A lightweight library for the RaBitQ algorithm. \[Apache-2.0] [website](https://vectordb-ntu.github.io/RaBitQ-Library/)
