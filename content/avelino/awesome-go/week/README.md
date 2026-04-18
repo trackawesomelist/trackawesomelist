@@ -38,6 +38,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gomarklint (⭐12)](https://github.com/shinagawa-web/gomarklint) - Markdown linter with built-in HTTP link validation, single binary, no Node.js required.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [pingtower (⭐1)](https://github.com/crleonard/pingtower) - Lightweight self-hosted uptime monitor for websites and APIs.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Bot Building

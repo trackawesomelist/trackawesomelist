@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [redact (⭐0)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [pingtower (⭐1)](https://github.com/crleonard/pingtower) - Lightweight self-hosted uptime monitor for websites and APIs.
+
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
 
 ### Security

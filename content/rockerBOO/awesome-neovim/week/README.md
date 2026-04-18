@@ -11,10 +11,12 @@ Collections of awesome neovim plugins.
 ### LSP
 
 *   [retran/meow.yarn.nvim (⭐60)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [ryan-WORK/ohm (⭐5)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 
 ### Colorscheme / Assembly
 
 *   [micdzu/aalto.nvim (⭐1)](https://github.com/micdzu/aalto.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
+*   [T-b-t-nchos/Aquavium.nvim (⭐11)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 
 ### Code Runner / Quickfix
 

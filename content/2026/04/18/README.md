@@ -1,18 +1,41 @@
 # Awesome List Updates on Apr 18, 2026
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+## [1. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Racing
+
+*   [Open76 (⭐1)](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
+
+### Simulator
+
+*   [Descent3 (⭐1)](https://github.com/DMJC/Descent3) - Descent 3 by Outrage Entertainment
+*   [dxx-vr (⭐4)](https://github.com/DMJC/dxx-vr) - Descent 1&2 VR source port based on DXX-Retro
+*   [ForsakenX (⭐176)](https://github.com/ForsakenX/forsaken) - Forsaken game engine.
+*   [ForsakenW (⭐9)](https://github.com/ForsakenW/forsaken) - The Forsaken source code.
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### LSP
+
+*   [ryan-WORK/ohm (⭐5)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
+
+### Colorscheme / Assembly
+
+*   [T-b-t-nchos/Aquavium.nvim (⭐11)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
+
+## [3. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
 
 ### Web
 
 *   [underscore HN](https://underscore-hn.vercel.app/)
 
-## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Artificial Intelligence (AI)
 
@@ -43,19 +66,19 @@
 
 *   [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
 
-## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Accessibility & Usability Testing
 
 *   [VertaaUX CLI (⭐0)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Font
 
 *   [SheenBidi (⭐194)](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. \[Apache-2.0]
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### HTTP Clients
 
@@ -65,19 +88,27 @@
 
 *   [redact (⭐0)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [pingtower (⭐1)](https://github.com/crleonard/pingtower) - Lightweight self-hosted uptime monitor for websites and APIs.
+
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Security Tools / Audio Record and Process
+
+*   [MakLock (⭐40)](https://github.com/dutkiewiczmaciej/MakLock) - Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
 *   [Clippy (⭐18)](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yarasaa/Clippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Python
 
 *   [CHSZLabLib (⭐20)](https://github.com/CHSZLab/CHSZLabLib) - Unified Python interface to 20 high-performance C++ libraries for graph partitioning, community detection, cuts, independent sets, and dynamic graph algorithms.
 
-## [8. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+## [10. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ### Creative Technology
 
@@ -649,7 +680,7 @@
 
 
 
-## [9. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [11. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Benchmarks & Datasets
 
@@ -661,13 +692,13 @@
 *   [chemCPA (⭐148)](https://github.com/theislab/chemCPA) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
 *   [cycleCDR (⭐3)](https://github.com/hliulab/cycleCDR) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
 
-## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍🔧 [Base-2 Rounding](https://objectivelyround.dev) - Spacing and sizing value picker for Tailwind CSS v4's bracketless arbitrary values.
 
-## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
@@ -677,7 +708,7 @@
 
 *   [Word of the Day](https://tally.so/r/mRQ1L4). Daily vocabulary email with definitions, examples, and practical usage tips.
 
-## [12. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [14. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
