@@ -1,24 +1,36 @@
 # Awesome List Updates on Apr 19, 2026
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [1. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Websites
+
+*   [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive guide to modern Python developer tools covering package management, linting, type checking, testing, and more.
+
+## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Racing
+
+*   [SpagettiKart (⭐2.1k)](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
+
+## [3. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Beginner-Friendly / Interactive Learning & Visualization
 
 *   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
 *   [cryload (⭐183)](https://github.com/sdogruyol/cryload) - cryload is a powerful, fast, and practical HTTP benchmarking tool for stress testing APIs and web services
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Distributed Systems
 
@@ -32,7 +44,7 @@
 
 *   [git-courer (⭐11)](https://github.com/Alejandro-M-P/git-courer) - Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 

@@ -77,6 +77,7 @@
 ### Racing
 
 *   [Open76 (⭐1)](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
+*   [SpagettiKart (⭐2.1k)](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
 
 ### Simulator
 
@@ -160,7 +161,7 @@
 
 ### System Tools / QuickLook Plugins
 
-*   [sbarex/SourceCodeSyntaxHighlight (⭐4k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) — Quick Look syntax highlighting ☆`4,029`
+*   [sbarex/SourceCodeSyntaxHighlight (⭐4k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) — Quick Look syntax highlighting ☆`4,032`
 
 ## [13. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -802,7 +803,7 @@
 
 ### AI Coding Agents / PR & Review
 
-*   [The-PR-Agent/pr-agent (⭐11k)](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`10,920`
+*   [The-PR-Agent/pr-agent (⭐11k)](https://github.com/The-PR-Agent/pr-agent) — AI-powered PR reviewer ☆`10,925`
 
 ## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -1222,6 +1223,10 @@
 ### HTTP Clients
 
 *   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
+
+### Websites
+
+*   [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive guide to modern Python developer tools covering package management, linting, type checking, testing, and more.
 
 ## [44. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 

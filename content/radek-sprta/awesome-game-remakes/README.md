@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Apr 19, 2026](/content/2026/04/19/README.md)
+
+### Racing
+
+*   [SpagettiKart (⭐2.1k)](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
+
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
 ### Racing
@@ -24,7 +30,7 @@ Actively maintained open-source game remakes.
 ### Adventure
 
 *   [DetectiveDS (⭐4)](https://github.com/RustyPixelsUK/DetectiveDS) - A remake of the original C64 classic The Detective Game for Nintendo DS.
-*   [lba2remake](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
+*   [lba2remake (⭐277)](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
 *   [twin-e (⭐88)](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
 *   [timeco (⭐8)](https://github.com/LBALab/timeco) - Time Commando Reimplementation
 *   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
@@ -35,7 +41,7 @@ Actively maintained open-source game remakes.
 *   [AcidDrop (⭐1)](https://github.com/lostjared/AcidDrop) - Remake of classic Atari 2600 game "Acid Drop".
 *   [openomf (⭐456)](https://github.com/omf2097/openomf) - One Must Fall 2097 Remake.
 *   [Retro-Arcade-Remakes (⭐2)](https://github.com/danywaked/Retro-Arcade-Remakes) - C++ retro arcade remakes showcasing clean OOP design, game loops, collision systems, and state management.
-*   [SpaceRox.MX2](https://github.com/lostjared/SpaceRox.MX2) - 2D Asteroids Style Game using MX2.
+*   [SpaceRox.MX2 (⭐1)](https://github.com/lostjared/SpaceRox.MX2) - 2D Asteroids Style Game using MX2.
 *   [WarhawkDS (⭐2)](https://github.com/RustyPixelsUK/WarhawkDS) - Warhawk DS remake of the C64 game Warhawk to the Nintendo DS in native assembler.
 
 ### FPS
@@ -76,7 +82,7 @@ Actively maintained open-source game remakes.
 *   [Chasm-Reverse (⭐174)](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
 *   [idTech4A++ (Harmattan Edition) (⭐537)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
 *   [jfsw (⭐93)](https://github.com/jonof/jfsw/) - Port of the 3D Realms game "Shadow Warrior".
-*   [jftekwar](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
+*   [jftekwar (⭐26)](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
 *   [jfwhaven (⭐25)](https://github.com/jonof/jfwhaven) - No-promises port of the Capstone Software game "Witchaven".
 *   [OpenChasm (⭐19)](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
 *   [Raze (⭐841)](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
@@ -111,17 +117,17 @@ Actively maintained open-source game remakes.
 
 ### FPS
 
-*   [Aleph One](https://github.com/Aleph-One-Marathon/alephone) - The open source continuation of Bungie’s Marathon 2 game engine.
+*   [Aleph One (⭐776)](https://github.com/Aleph-One-Marathon/alephone) - The open source continuation of Bungie’s Marathon 2 game engine.
 *   [Chocolate Quake (⭐193)](https://github.com/Henrique194/chocolate-quake) - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
 *   [Crispy Doom (⭐924)](https://github.com/fabiangreffrath/crispy-doom) - A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
 *   [dhewm3 (⭐2.1k)](https://github.com/dhewm/dhewm3) - A source port of Doom 3.
-*   [DSDA-Doom](https://github.com/kraflab/dsda-doom) - A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.
+*   [DSDA-Doom (⭐475)](https://github.com/kraflab/dsda-doom) - A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.
 *   [Eduke32](https://voidpoint.io/terminx/eduke32) - Source port of Duke Nukem 3D and the BUILD Engine.
-*   [iortcw](https://github.com/iortcw/iortcw) - Source port of Return to Castle Wolfenstein.
+*   [iortcw (⭐725)](https://github.com/iortcw/iortcw) - Source port of Return to Castle Wolfenstein.
 *   [ironwail (⭐933)](https://github.com/andrei-drexler/ironwail) - High-performance QuakeSpasm fork.
 *   [Quake3e (⭐1.5k)](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
-*   [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) - Open source game engine for Serious Sam Classic with Vulkan support.
-*   [Taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad.
+*   [SeriousSamClassic-VK (⭐149)](https://github.com/tx00100xt/SeriousSamClassic-VK) - Open source game engine for Serious Sam Classic with Vulkan support.
+*   [Taradino (⭐54)](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad.
 *   [UZDoom (⭐1.8k)](https://github.com/UZDoom/UZDoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower\_playing\_cards:
 *   [vkQuake (⭐2.2k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm.
 
@@ -133,7 +139,7 @@ Actively maintained open-source game remakes.
 
 ### FPS
 
-*   [NearChuckle](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
+*   [NearChuckle (⭐44)](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
 *   [OpenMoHAA (⭐746)](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 
 ### RPG
@@ -330,7 +336,7 @@ Actively maintained open-source game remakes.
 
 ### FPS
 
-*   [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
+*   [The Force Engine (⭐1.1k)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
 ## [Mar 26, 2020](/content/2020/03/26/README.md)
 
@@ -349,8 +355,8 @@ Actively maintained open-source game remakes.
 ### Action
 
 *   [Carnage3D (⭐539)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
-*   [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
-*   [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
+*   [donut (⭐467)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
+*   [OpenJK (⭐2.2k)](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 *   [OpenLara (⭐5k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 *   [remc2 (⭐130)](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 *   [San Andreas Unity (⭐2.6k)](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
@@ -358,14 +364,14 @@ Actively maintained open-source game remakes.
 
 ### Adventure
 
-*   [ScummVM](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
+*   [ScummVM (⭐2.7k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 
 ### Arcade
 
-*   [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower\_playing\_cards:
-*   [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower\_playing\_cards:
-*   [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series. :flower\_playing\_cards:
-*   [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C. :flower\_playing\_cards:
+*   [C-Dogs SDL (⭐1k)](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower\_playing\_cards:
+*   [Open Kick-Off (⭐52)](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower\_playing\_cards:
+*   [Taisei (⭐1.5k)](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series. :flower\_playing\_cards:
+*   [The Great Escape in C (⭐127)](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C. :flower\_playing\_cards:
 *   [Zelda Classic (⭐32)](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ### FPS
@@ -376,7 +382,7 @@ Actively maintained open-source game remakes.
 *   [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
 *   [Freedoom (⭐1.3k)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine. :flower\_playing\_cards:
 *   [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
-*   [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
+*   [NBlood (⭐764)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
 *   [Odamex (⭐269)](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower\_playing\_cards:
 *   [OpenSpades (⭐1.2k)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 *   [RBDOOM-3-BFG (⭐1.8k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
@@ -390,7 +396,7 @@ Actively maintained open-source game remakes.
 *   [FreeSO (⭐941)](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower\_playing\_cards:
 *   [Meridian 59 (⭐489)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 *   [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
-*   [RuneLite](https://github.com/runelite/runelite) - Open source Old School RuneScape (OSRS) client. :flower\_playing\_cards:
+*   [RuneLite (⭐5.4k)](https://github.com/runelite/runelite) - Open source Old School RuneScape (OSRS) client. :flower\_playing\_cards:
 
 ### RPG
 
