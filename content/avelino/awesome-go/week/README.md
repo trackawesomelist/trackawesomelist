@@ -17,6 +17,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [NornicDB (⭐570)](https://github.com/orneryd/NornicDB) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
 
+### Distributed Systems
+
+*   [cmd-stream-go (⭐87)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
+
 ### HTTP Clients
 
 *   [hedge (⭐193)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
@@ -26,9 +30,17 @@ A curated list of awesome Go frameworks, libraries and software
 *   [procscope (⭐0)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 *   [redact (⭐0)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 
+### Serialization
+
+*   [mus-go (⭐137)](https://github.com/mus-format/mus-go) - MUS format serializer for Go.
+
 ### Server Applications
 
 *   [goshs (⭐581)](https://github.com/patrickhener/goshs) - SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.
+
+### Version Control
+
+*   [git-courer (⭐11)](https://github.com/Alejandro-M-P/git-courer) - Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
 
 ### Web Frameworks
 
@@ -47,7 +59,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Bot Building
 
 *   [ymsdk (⭐3)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
-    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
+    *   [Wisp (⭐8)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 ### Project Layout
 
@@ -96,7 +108,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [minisql (⭐31)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+*   [minisql (⭐34)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
 *
 
 ### Distributed Systems
@@ -110,7 +122,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Generators
 
-*   [go-apispec (⭐4)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
+*   [go-apispec (⭐27)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
 
 ### Goroutines
 
@@ -328,7 +340,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [go-safecast (⭐84)](https://github.com/ccoVeille/go-safecast) - Safe number type conversion library that prevents integer overflow and underflow (addresses gosec G115 and CWE-190).
-*   [godoclive (⭐75)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐79)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ### Routers / Libraries for creating HTTP middlewares
 

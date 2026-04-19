@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 19, 2026](/content/2026/04/19/README.md)
+
+### Distributed Systems
+
+*   [cmd-stream-go (⭐87)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
+
+### Serialization
+
+*   [mus-go (⭐137)](https://github.com/mus-format/mus-go) - MUS format serializer for Go.
+
+### Version Control
+
+*   [git-courer (⭐11)](https://github.com/Alejandro-M-P/git-courer) - Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
+
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
 ### HTTP Clients
@@ -73,7 +87,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Bot Building
 
 *   [ymsdk (⭐3)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
-    *   [Wisp (⭐6)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
+    *   [Wisp (⭐8)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 ### Morphological Analyzers
 
@@ -109,7 +123,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [minisql (⭐31)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+*   [minisql (⭐34)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
 *
 
 ### Financial
@@ -132,7 +146,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Generators
 
-*   [go-apispec (⭐4)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
+*   [go-apispec (⭐27)](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
 
 ### Goroutines
 
@@ -399,7 +413,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [godoclive (⭐75)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
+*   [godoclive (⭐79)](https://github.com/syst3mctl/godoclive) - Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.
 
 ## [Mar 03, 2026](/content/2026/03/03/README.md)
 

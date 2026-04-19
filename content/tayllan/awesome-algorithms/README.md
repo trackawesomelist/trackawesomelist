@@ -6,6 +6,12 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
 
+## [Apr 19, 2026](/content/2026/04/19/README.md)
+
+### Beginner-Friendly / Interactive Learning & Visualization
+
+*   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
+
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Beginner-Friendly / YouTube Playlist
@@ -110,7 +116,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome List / YouTube Playlist
 
-*   [Math (⭐13k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐14k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Sep 11, 2020](/content/2020/09/11/README.md)
 

@@ -41,6 +41,7 @@ If you want to contribute, please read the [contribution guidelines (⭐25k)](ht
 
 *   [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 *   [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
+*   [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
 
 ## Programming Contest
 
@@ -110,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines (⭐25k)](ht
 ## Related Awesome List
 
 *   [Theoretical Computer Science (⭐1.1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
-*   [Math (⭐13k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐14k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## License
 
