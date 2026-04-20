@@ -2,9 +2,15 @@
 
 A curated list of resources on software architecture
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 2.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/simskij/awesome-software-architecture/README.md) / Weekly / [Overview](/content/simskij/awesome-software-architecture/readme/README.md) ]
+
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Tools / Scalability and Resilience
+
+*   [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -68,7 +74,7 @@ A curated list of resources on software architecture
 
 ### Frameworks / DevOps
 
-*   [Adidas DevOps Maturity Framework (⭐538)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
+*   [Adidas DevOps Maturity Framework (⭐606)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 
@@ -154,7 +160,6 @@ A curated list of resources on software architecture
 
 *   [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange\_book:.
 *   [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - Introduction to common software design patterns.
-*   [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) - Reasons about common design patterns as well as their upsides and downsides 🎥.
 
 ### Frameworks / Lean software development
 
