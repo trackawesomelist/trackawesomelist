@@ -653,6 +653,7 @@ See also [A comparison of operating systems written in Rust (⭐846)](https://gi
 *   [supercilex/fuc (⭐515)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 *   [topheman/webassembly-component-model-experiments (⭐59)](https://github.com/topheman/webassembly-component-model-experiments) - WebAssembly Component Model based REPL with sandboxed multi-language plugin system [![Crates.io](https://img.shields.io/crates/v/pluginlab.svg)](https://crates.io/crates/pluginlab)
 *   [trippy (⭐6.8k)](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
+*   [tw93/Kaku (⭐4.5k)](https://github.com/tw93/Kaku) - A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.
 *   [uutils/coreutils (⭐23k)](https://github.com/uutils/coreutils) - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 *   [watchexec (⭐6.9k)](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 *   [XAMPPRocky/tokei (⭐14k)](https://github.com/XAMPPRocky/tokei) - counts the lines of code

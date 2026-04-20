@@ -12,6 +12,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [terraform-provider-qovery (⭐18)](https://github.com/Qovery/terraform-provider-qovery) - Provider for [Qovery](https://www.qovery.com/) — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.
 
+### Tools / Community providers
+
+*   [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Community

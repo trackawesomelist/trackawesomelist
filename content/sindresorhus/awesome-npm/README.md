@@ -2,9 +2,15 @@
 
 Awesome npm resources and tips
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-npm/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) · ⭐ 4.6K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-npm/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) · ⭐ 4.7K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-npm/week/README.md) / [Overview](/content/sindresorhus/awesome-npm/readme/README.md) ]
+
+## [Apr 20, 2026](/content/2026/04/20/README.md)
+
+### Web
+
+*   [npmx.dev](https://npmx.dev) - Fast and modern viewer for the npm registry.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -16,8 +22,8 @@ Awesome npm resources and tips
 
 ### Other
 
-*   [package-up (⭐165)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
-*   [read-package-up (⭐267)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+*   [package-up (⭐166)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+*   [read-package-up (⭐268)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
 *   [package-config (⭐120)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
 ## [Feb 14, 2021](/content/2021/02/14/README.md)
@@ -54,19 +60,19 @@ Awesome npm resources and tips
 
 ### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐64k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐65k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [Nov 13, 2019](/content/2019/11/13/README.md)
 
 ### Other
 
-*   [lockfile-lint (⭐829)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐849)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [Oct 08, 2019](/content/2019/10/08/README.md)
 
 ### CLI
 
-*   [npkill (⭐9k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐9.1k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [Jun 12, 2019](/content/2019/06/12/README.md)
 
@@ -79,7 +85,7 @@ Awesome npm resources and tips
 
 ### Publishing
 
-*   [release-it (⭐8.7k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [release-it (⭐8.9k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## [Apr 27, 2019](/content/2019/04/27/README.md)
 
@@ -102,7 +108,7 @@ Awesome npm resources and tips
 
 ### Clients
 
-*   [npm (⭐9.3k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐9.7k)](https://github.com/npm/cli) - The official client.
 
 ## [Sep 07, 2018](/content/2018/09/07/README.md)
 
@@ -139,13 +145,13 @@ Awesome npm resources and tips
 
 ### Clients
 
-*   [pnpm (⭐33k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐35k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [Dec 04, 2017](/content/2017/12/04/README.md)
 
 ### Other
 
-*   [synp (⭐783)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [synp (⭐785)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
 ## [Oct 15, 2017](/content/2017/10/15/README.md)
 
@@ -157,19 +163,19 @@ Awesome npm resources and tips
 
 ### Registry
 
-*   [verdaccio (⭐17k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐18k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [Apr 05, 2017](/content/2017/04/05/README.md)
 
 ### Other
 
-*   [package-size (⭐427)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐425)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [Nov 04, 2016](/content/2016/11/04/README.md)
 
 ### Other
 
-*   [redrun (⭐126)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐128)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 
@@ -179,19 +185,19 @@ Awesome npm resources and tips
 
 ### Other
 
-*   [shrinkpack (⭐802)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐803)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [Jul 30, 2016](/content/2016/07/30/README.md)
 
 ### Registry
 
-*   [npm-register (⭐485)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐484)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [Jul 22, 2016](/content/2016/07/22/README.md)
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐491)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐499)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [Jul 15, 2016](/content/2016/07/15/README.md)
 
@@ -219,13 +225,13 @@ Awesome npm resources and tips
 
 ### Other
 
-*   [ntl (⭐951)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐959)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [Mar 07, 2016](/content/2016/03/07/README.md)
 
 ### Registry
 
-*   [npm-cli-login (⭐119)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐117)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [Feb 08, 2016](/content/2016/02/08/README.md)
 
@@ -248,15 +254,15 @@ Awesome npm resources and tips
 
 ### Registry
 
-*   [latest-version (⭐52)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
-*   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+*   [latest-version (⭐54)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
+*   [npm-user (⭐58)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 *   [npm-email (⭐32)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
 *   [npm-user-packages (⭐5)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
-*   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
+*   [npm-stats (⭐50)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐739)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐738)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐48)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [Jan 21, 2016](/content/2016/01/21/README.md)
@@ -298,28 +304,28 @@ Awesome npm resources and tips
 ### Publishing
 
 *   [np (⭐7.7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
-*   [publish-please (⭐738)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+*   [publish-please (⭐737)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐103)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
-*   [pkgfiles (⭐85)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐23k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [pkgfiles (⭐84)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+*   [semantic-release (⭐24k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐287)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐245)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-name (⭐289)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐246)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
 *   [npm-keyword (⭐52)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 *   [dpn (⭐27)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
 ### Other
 
-*   [npm-home (⭐199)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [gh-home (⭐191)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-*   [david (⭐967)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+*   [npm-home (⭐201)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐195)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+*   [david (⭐969)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 *   [npm-check (⭐6.6k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 *   [npm-shrinkwrap (⭐771)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [normalize-package-data (⭐203)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [npm-run-path (⭐105)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+*   [normalize-package-data (⭐205)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [npm-run-path (⭐108)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.2k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 *   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 *   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
@@ -353,7 +359,7 @@ Awesome npm resources and tips
 *   [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 *   [package.json](https://docs.npmjs.com/files/package.json)
 *   [npm run script](https://docs.npmjs.com/cli/run-script)
-*   [Stats API (⭐331)](https://github.com/npm/download-counts)
+*   [Stats API (⭐334)](https://github.com/npm/download-counts)
 
 ### Support / `pre` and `post` scripts
 

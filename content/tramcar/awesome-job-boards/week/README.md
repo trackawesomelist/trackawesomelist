@@ -4,6 +4,12 @@
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Various / United Kingdom
+
+*   [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Artificial Intelligence (AI)

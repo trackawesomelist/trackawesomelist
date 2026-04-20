@@ -6,6 +6,12 @@ Awesome list of computational biology.
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Benchmarks & Datasets
+
+*   [DUD-E (Directory of Useful Decoys, Enhanced)](http://dude.docking.org/) — Structure-based virtual screening benchmark with active ligands and challenging decoy sets across diverse protein targets.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### GitHub Pages UI
