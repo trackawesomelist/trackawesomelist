@@ -2,9 +2,15 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 683 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 696 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/deanhume/typography/week/README.md) / [Overview](/content/deanhume/typography/readme/README.md) ]
+
+## [Apr 21, 2026](/content/2026/04/21/README.md)
+
+### Tools
+
+*   [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
 
 ## [Nov 26, 2025](/content/2025/11/26/README.md)
 
@@ -192,7 +198,7 @@ A collection of web typography resources
 ### Tools
 
 *   [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
-*   [brick.im (⭐2.9k)](https://github.com/alfredxing/brick)
+*   [brick.im (⭐2.8k)](https://github.com/alfredxing/brick)
 
 ### Books
 
@@ -216,7 +222,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐792)](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐787)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 
 ## [Jul 21, 2015](/content/2015/07/21/README.md)

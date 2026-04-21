@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
 
+## [Apr 21, 2026](/content/2026/04/21/README.md)
+
+### Conferences
+
+*   [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
+*   [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
+*   [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
+*   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
+*   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
+
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
 
 ### Projects
@@ -190,8 +200,6 @@
 
 ### Conferences
 
-*   [Fosdem](https://fosdem.org/2022/) - Open Source event online on 5 & 6 February 2022.
-*   [Open Hardware Summit](https://2022.oshwa.org/) - Annual conference on open hardware on 22 April 2022.
 *   [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
 
 ### Platforms

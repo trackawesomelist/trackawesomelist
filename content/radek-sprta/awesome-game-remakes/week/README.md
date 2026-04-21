@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ [Daily](/content/radek-sprta/awesome-game-remakes/README.md) / Weekly / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Action
+
+*   [Heretic2R (⭐209)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Racing

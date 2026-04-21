@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 21, 2026](/content/2026/04/21/README.md)
+
+### APIs, Data, and ML
+
+*   [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
+
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
 ### Managed Data Services
@@ -2548,9 +2554,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
     *   BigQuery - 1 TB of querying per month, 10 GB of storage each month
     *   Cloud Build - 120 build-minutes per day
-    *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    *   [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ## [Jul 20, 2022](/content/2022/07/20/README.md)
