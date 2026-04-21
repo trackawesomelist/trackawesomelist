@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Apr 21, 2026](/content/2026/04/21/README.md)
+
+### iOS / Nevix
+
+*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
 ### Web

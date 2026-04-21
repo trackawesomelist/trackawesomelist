@@ -6,6 +6,24 @@
 
 [ [Daily](/content/georgezouq/awesome-ai-in-finance/README.md) / Weekly / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
+
+### Data Sources / Crypto Currencies
+
+*   [BitBank.nz](https://bitbank.nz) - AI-powered crypto forecasting and predictions API with machine learning models for 70+ cryptocurrency pairs.
+
+### Data Sources / Alternative Data
+
+*   [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
+
+### Others / Other Resource
+
+*   [MeterCall](https://metercall.ai/?v=f\&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Data Sources / Crypto Currencies
@@ -85,7 +103,7 @@
 
 ### Agents
 
-*   🌟 [ATLAS (⭐1.3k)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+*   🌟 [ATLAS (⭐1.4k)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 *   [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 
 ### Others / Plugins
@@ -95,8 +113,8 @@
 
 ### Time Series Data
 
-*   [patternity (⭐11)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
-*   [Quantium Research (⭐60)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+*   [patternity (⭐12)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
+*   [Quantium Research (⭐63)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ### Data Sources / Prediction Markets
 
@@ -146,7 +164,7 @@
 
 ### Data Sources / News Data
 
-*   [WorldMonitor (⭐46k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+*   [WorldMonitor (⭐51k)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 ### Research Tools / Prediction Markets
 

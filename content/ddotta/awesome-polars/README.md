@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 21, 2026](/content/2026/04/21/README.md)
+
+### Tutorials & workshops / Miscellaneous
+
+*   *   [Handling Nested Data in Polars: explode() and unnest()](https://pythonprohub.com/data-science/polars-nested-data-explode-unnest-guide/) - A comprehensive, 2026-updated guide to flattening complex nested JSON structures and arrays natively in Polars.
+
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 
 ### Polars plugins / Miscellaneous
@@ -16,11 +22,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Visualization
 
-*   [flowview (⭐0)](https://github.com/guillermodotn/flowview) - A visual debugger that shows what happens at each step of your Polars DataFrame transformations in the terminal. By [@guillermodotn](https://github.com/guillermodotn).
+*   [flowview (⭐7)](https://github.com/guillermodotn/flowview) - A visual debugger that shows what happens at each step of your Polars DataFrame transformations in the terminal. By [@guillermodotn](https://github.com/guillermodotn).
 
 ### Polars plugins / Miscellaneous
 
-*   [immunum-polars (⭐20)](https://github.com/ENPICOM/immunum) - high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.
+*   [immunum-polars (⭐25)](https://github.com/ENPICOM/immunum) - high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.
 
 ### Blog posts / Miscellaneous
 
@@ -49,7 +55,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars-map (⭐4)](https://github.com/hafaio/polars-map) - Polars extension that provids a Map extension type and functions by [@hafaio](https://github.com/hafaio).
+*   [polars-map (⭐6)](https://github.com/hafaio/polars-map) - Polars extension that provids a Map extension type and functions by [@hafaio](https://github.com/hafaio).
 
 ### Polars plugins / Statistics / Analytics
 
@@ -92,7 +98,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Data Manipulation
 
-*   [diffly (⭐26)](https://github.com/Quantco/diffly) - Python utility for programatically identifying differences between Polars DataFrames including schema differences, row-level mismatches, and column value changes by [@Quantco](https://github.com/Quantco).
+*   [diffly (⭐38)](https://github.com/Quantco/diffly) - Python utility for programatically identifying differences between Polars DataFrames including schema differences, row-level mismatches, and column value changes by [@Quantco](https://github.com/Quantco).
 
 ## [Mar 09, 2026](/content/2026/03/09/README.md)
 
@@ -134,7 +140,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Polars plugins / Import / Export
 
 *   [polars-redis (⭐5)](https://github.com/joshrotenberg/polars-redis) - Polars IO plugin for Redis - scan hashes, JSON, and other data types as LazyFrames with projection pushdown and RediSearch support by [@joshrotenberg](https://github.com/joshrotenberg).
-*   [excelsior](https://github.com/krakotay/excelsior) - High-performance library for modifying Excel files with Polars.
+*   [excelsior (⭐6)](https://github.com/krakotay/excelsior) - High-performance library for modifying Excel files with Polars.
 
 ### Polars plugins / Validation
 
@@ -179,7 +185,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Geographical / Spatial
 
-*   [polars-coord-transforms](https://github.com/georgypv/polars-coord-transforms) - Polars plugin for coordinates transformation and extractions features by [@georgypv](https://github.com/georgypv).
+*   [polars-coord-transforms (⭐4)](https://github.com/georgypv/polars-coord-transforms) - Polars plugin for coordinates transformation and extractions features by [@georgypv](https://github.com/georgypv).
 
 ### Polars plugins / String parsing
 
@@ -187,7 +193,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Time series / Datetime
 
-*   [polars-xdt-docs](https://github.com/MarcoGorelli/polars-xdt-docs) - Polars plugin for business day arithmetic by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-xdt-docs (⭐0)](https://github.com/MarcoGorelli/polars-xdt-docs) - Polars plugin for business day arithmetic by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Polars plugins / Machine Learning & Data Science
 
@@ -208,7 +214,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Polars plugins / General utilities / Performance
 
 *   [polars-argpartition (⭐10)](https://github.com/GiovanniGiacometti/polars-argpartition) - Polars plugin that implements the argpartition function by [@GiovanniGiacometti](https://github.com/GiovanniGiacometti).
-*   [polars-path](https://github.com/gorkaerana/polars-path) - Polars plugin with filesystem path utilities by [@gorkaerana](https://github.com/gorkaerana).
+*   [polars-path (⭐1)](https://github.com/gorkaerana/polars-path) - Polars plugin with filesystem path utilities by [@gorkaerana](https://github.com/gorkaerana).
 *   [polars-genson (⭐10)](https://github.com/lmmx/polars-genson) - Fast JSON schema inference with support for Polars DataFrames by [@lmmx](https://github.com/lmmx).
 *   [polars-extensions (⭐6)](https://github.com/jrasband-dev/polars-extensions) - Polars plugin that extends the capabilities of Polars with functionalities that are not currently found in Polars by [@jrasband-dev](https://github.com/jrasband-dev).
 *   [polars-nexpresso (⭐6)](https://github.com/heshamdar/polars-nexpresso) - Polars plugins for generating Polars expressions to work with nested data structures by [@heshamdar](https://github.com/heshamdar).
@@ -502,7 +508,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Text similarity / Fuzzy Matching
 
-*   [polars\_sim](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
+*   [polars\_sim (⭐17)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
 
 ## [Sep 27, 2024](/content/2024/09/27/README.md)
 
@@ -790,7 +796,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Time series / Datetime
 
-*   [polars-xdt](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-xdt (⭐234)](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Tutorials & workshops / Miscellaneous
 

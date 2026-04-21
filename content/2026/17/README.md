@@ -1,18 +1,60 @@
 # Awesome List Updates on Apr 27 - May 03, 2026
 
-26 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
+## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+
+### iOS / Nevix
+
+*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Tutorials & workshops / Miscellaneous
+
+*   *   [Handling Nested Data in Polars: explode() and unnest()](https://pythonprohub.com/data-science/polars-nested-data-explode-unnest-guide/) - A comprehensive, 2026-updated guide to flattening complex nested JSON structures and arrays natively in Polars.
+
+## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Editor plugins / Pulsar
+
+*   [language-v](https://packages.pulsar-edit.dev/packages/language-v) - V language support for Atom (port of vscode-vlang) (migrated from atom.io)
+
+## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+
+### GUI
+
+*   [TablePro (⭐2.1k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+
+## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
+
+### Data Sources / Crypto Currencies
+
+*   [BitBank.nz](https://bitbank.nz) - AI-powered crypto forecasting and predictions API with machine learning models for 70+ cryptocurrency pairs.
+
+### Data Sources / Alternative Data
+
+*   [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
+
+### Others / Other Resource
+
+*   [MeterCall](https://metercall.ai/?v=f\&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
+## [6. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/week/README.md)
 
 ### Commands cheatsheet and snippets
 
 *   [mdpick (⭐1)](https://github.com/toolleeo/mdpick) - A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane.
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / GitHub
 
@@ -22,13 +64,13 @@
 
 *   [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 
-## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [8. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
 *   [django-modern-rest (⭐1.1k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 
-## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Code Quality
 
@@ -49,7 +91,7 @@
 
 *   [ESlint Rules Index](https://eslint-rules-index.vercel.app/) - A big table of ESlint Rules to help developers find them easily.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -59,7 +101,7 @@
 
 *   [Nuxt (⭐60k)](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -81,7 +123,7 @@
 
 *   [YAML (⭐461) (⭐459)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [12. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -204,7 +246,7 @@
 
 
 
-## [8. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Conferences
 
@@ -214,73 +256,73 @@
 *   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
 *   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
-## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [14. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [Heretic2R (⭐209)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
 
-## [10. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [15. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Signal Lens (⭐333)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
 
-## [11. Typography](/content/deanhume/typography/week/README.md)
+## [16. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 
 *   [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
 
-## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
 *   [Percona Monitoring and Management (⭐1k)](https://github.com/percona/pmm) - Free and open-source platform for managing and monitoring databases performances
 
-## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [18. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Various / United Kingdom
 
 *   [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
 
-## [14. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [19. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
 *   [npmx.dev](https://npmx.dev) - Fast and modern viewer for the npm registry.
 
-## [15. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [20. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Benchmarks & Datasets
 
 *   [DUD-E (Directory of Useful Decoys, Enhanced)](http://dude.docking.org/) — Structure-based virtual screening benchmark with active ligands and challenging decoy sets across diverse protein targets.
 
-## [16. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [21. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [Burnish Components (⭐1)](https://github.com/danfking/burnish/tree/main/packages/components) - Web components for rendering MCP tool-call output as UI.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Comment
 
 *   [jeangiraldoo/codedocs.nvim (⭐77)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf) (PDF)
 
-## [19. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [24. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / Command Line and Argument Parser
 
 *   [plutowang/zlap (⭐4)](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 
-## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Security
 
@@ -290,7 +332,11 @@
 
 *   [stacktower (⭐507)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
 
-## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Web Frameworks
+
+*   [NotNet (⭐2)](https://github.com/nottechdm/notnet) - A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.
+
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Message Queue
 
@@ -310,13 +356,13 @@
 
 *   [claudectl (⭐61)](https://github.com/mercurialsolo/claudectl) \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml)
 
-## [22. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [27. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Tools / Scalability and Resilience
 
 *   [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
 
-## [23. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [28. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Legend
 
@@ -406,14 +452,14 @@
 *   [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
 *   [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
 
-## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Configuration Management
 
 *   [CINC](https://cinc.sh/) - Free distribution of [Chef](https://www.chef.io/products/chef-infra), a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://gitlab.com/cinc-project/upstream/chef)) `Apache-2.0` `Ruby`
 *   [OpenVox](https://voxpupuli.org/openvox/) - Community fork of the last open source version of [Puppet](https://www.puppet.com/), a software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐157)](https://github.com/OpenVoxProject/openvox)) `Apache-2.0` `Ruby/C`
 
-## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [30. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
@@ -423,7 +469,7 @@
 
 *   [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
 
-## [26. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Development Environment / Other
 

@@ -1,18 +1,66 @@
 # Awesome List Updates on Apr 21, 2026
 
-13 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+
+### iOS / Nevix
+
+*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Tutorials & workshops / Miscellaneous
+
+*   *   [Handling Nested Data in Polars: explode() and unnest()](https://pythonprohub.com/data-science/polars-nested-data-explode-unnest-guide/) - A comprehensive, 2026-updated guide to flattening complex nested JSON structures and arrays natively in Polars.
+
+## [3. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Editor plugins / Pulsar
+
+*   [language-v](https://packages.pulsar-edit.dev/packages/language-v) - V language support for Atom (port of vscode-vlang) (migrated from atom.io)
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Web Frameworks
+
+*   [NotNet (⭐2)](https://github.com/nottechdm/notnet) - A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.
+
+## [5. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### GUI
+
+*   [TablePro (⭐2.1k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
+
+### Data Sources / Crypto Currencies
+
+*   [BitBank.nz](https://bitbank.nz) - AI-powered crypto forecasting and predictions API with machine learning models for 70+ cryptocurrency pairs.
+
+### Data Sources / Alternative Data
+
+*   [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
+
+### Others / Other Resource
+
+*   [MeterCall](https://metercall.ai/?v=f\&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
+## [7. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ### Commands cheatsheet and snippets
 
 *   [mdpick (⭐1)](https://github.com/toolleeo/mdpick) - A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane.
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / GitHub
 
@@ -22,19 +70,19 @@
 
 *   [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Workflow Automation
 
 *   [claudectl (⭐61)](https://github.com/mercurialsolo/claudectl) \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml)
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / APIs
 
 *   [django-modern-rest (⭐1.1k)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 
-## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Code Quality
 
@@ -55,7 +103,7 @@
 
 *   [ESlint Rules Index](https://eslint-rules-index.vercel.app/) - A big table of ESlint Rules to help developers find them easily.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### QA Tools / Runner
 
@@ -65,7 +113,7 @@
 
 *   [Nuxt (⭐60k)](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -87,7 +135,7 @@
 
 *   [YAML (⭐461) (⭐459)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [14. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
@@ -210,7 +258,7 @@
 
 
 
-## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [15. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Conferences
 
@@ -220,25 +268,25 @@
 *   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
 *   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
-## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [16. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Action
 
 *   [Heretic2R (⭐209)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
 
-## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [17. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Signal Lens (⭐333)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
 
-## [12. Typography](/content/deanhume/typography/README.md)
+## [18. Typography](/content/deanhume/typography/README.md)
 
 ### Tools
 
 *   [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
 
-## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [19. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 

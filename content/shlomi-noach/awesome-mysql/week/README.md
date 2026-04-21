@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ [Daily](/content/shlomi-noach/awesome-mysql/README.md) / Weekly / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### GUI
+
+*   [TablePro (⭐2.1k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Analysis
@@ -68,7 +74,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Backup
 
-*   [Databasus (⭐6.3k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐6.4k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

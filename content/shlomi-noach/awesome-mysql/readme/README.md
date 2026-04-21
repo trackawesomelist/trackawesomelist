@@ -61,7 +61,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 
 *Backup/restore/recovery tools*
 
-*   [Databasus (⭐6.3k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐6.4k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [Dumpling (⭐40k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 *   [MyDumper (⭐3.1k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 *   [Percona Xtrabackup (⭐1.5k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
@@ -156,6 +156,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.6k)](htt
 *   [phpMyAdmin (⭐7.9k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 *   [pspg (⭐2.7k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 *   [Sequel Ace (⭐7.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [TablePro (⭐2.1k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 *   [SQLyog Community edition (⭐2.3k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 *   [squix (⭐206)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 *   [WebDB (⭐335)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
