@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/davidsonfellipe/awesome-wpo/week/README.md) / [Overview](/content/davidsonfellipe/awesome-wpo/readme/README.md) ]
 
+## [Apr 22, 2026](/content/2026/04/22/README.md)
+
+### Documentation
+
+*   [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
+    Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
+
 ## [Apr 08, 2026](/content/2026/04/08/README.md)
 
 ### Bundle Analyzer / Meetups
@@ -67,7 +74,6 @@
 *   [Yellow Lab Tools](https://yellowlab.tools/) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 *   [Pagelocity](https://pagelocity.com/) - A web performance optimization and analysis tool.
 *   [Speed Racer (⭐1.9k)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
-*   [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Monitors your site's performance in the background, displays Lighthouse reports over time, and delivers recommendations for improvement. Paid product with 14-day trial.
 
 ### Analyzers - API / Meetups
 
@@ -171,7 +177,7 @@
 
 ### Image Optimizers / Meetups
 
-*   [Optimizt (⭐164)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
+*   [Optimizt (⭐167)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 
 ## [Jan 20, 2025](/content/2025/01/20/README.md)
 
@@ -298,13 +304,7 @@
 
 ### Documentation
 
-*   [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
-    Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 *   [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-
-### Events / Conferences
-
-*   [Velocity](http://conferences.oreilly.com/velocity) - At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 
 ### Analyzers / Meetups
 
@@ -331,7 +331,7 @@
 
 ### Benchmark - CSS / Meetups
 
-*   [CSS-perf (⭐569)](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+*   [CSS-perf (⭐568)](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 ### Benchmark - JavaScript / Meetups
 
@@ -352,7 +352,7 @@
 *   [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 *   [PerfMap (⭐3.8k)](https://github.com/zeman/perfmap) - A bookmarklet to create a frontend performance heatmap of resources loaded in the browser using the Resource Timing API.
 *   [DOM Monster (⭐558)](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
-*   [Performance-Bookmarklet (⭐1.2k)](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser.
+*   [Performance-Bookmarklet (⭐1.1k)](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser.
 
 ### CDN / Meetups
 
@@ -378,9 +378,8 @@
 *   [SvgToCSS (⭐2)](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 *   [Assetgraph-sprite (⭐36)](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
 *   [Sprite Cow](http://www.spritecow.com/) - Get the background-position, width, and height of sprites within a spritesheet as copyable CSS.
-*   [ZeroSprites](http://zerosprites.com/) - CSS sprite generator aimed at area minimization using algorithms from VLSI floorplanning.
 *   [Sprity (⭐478)](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
-*   [Sprite Factory (⭐618)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
+*   [Sprite Factory (⭐617)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
 
 ### Image Optimizers / Meetups
 
@@ -389,23 +388,21 @@
 *   [Imagemin (⭐5.7k)](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 *   [Sharp (⭐32k)](https://github.com/lovell/sharp) - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
 *   [Gm (⭐7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
-*   [Exexif (⭐13k)](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from JPEG files.
 *   [ExifCleaner](https://exifcleaner.com) - GUI app to remove EXIF metadata from images and video files with drag and drop. Free and open source.
 *   [Grunt-contrib-imagemin (⭐1.2k)](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 *   [Gulp-imagemin (⭐1.9k)](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 *   [Grunt-WebP (⭐118)](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
-*   [Gulp-WebP (⭐220)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
+*   [Gulp-WebP (⭐219)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 *   [Grunt-imageoptim (⭐476)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
 *   [ImageOptim-CLI (⭐3.5k)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 *   [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 *   [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 *   [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
-*   [Shrinkray](https://shrinkray.io) - One-click optimization for images in your GitHub repos.
 *   [mozjpeg (⭐5.7k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 *   [Jpegoptim (⭐1.8k)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 *   [ZopfliPNG (⭐3.6k)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
 *   [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
-*   [Leanify (⭐850)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
+*   [Leanify (⭐851)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 *   [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 
 ### Lazyloaders / Meetups
@@ -418,7 +415,7 @@
 *   [HeadJS (⭐4.1k)](https://github.com/headjs/headjs) - The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 *   [Defer.js (⭐68)](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 *   [InstantClick (⭐5.5k)](https://github.com/dieulot/instantclick) - Preloads pages on hover so in-site links feel instant.
-*   [JIT (⭐506)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
+*   [JIT (⭐505)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
 
 ### Metrics Monitor / Meetups
 
@@ -428,7 +425,7 @@
 *   [GTmetrix](https://gtmetrix.com/) - Free tool to test and monitor your page's performance. Uses Lighthouse to score your pages and offers actionable recommendations on how to optimize them.
 *   [Pingbreak.com](https://pingbreak.com/) - Free site and SSL Monitoring with response time alerting (on Slack, Twitter, Mattermost, Discord or custom Webhook).
 *   [Sitespeed.io](https://www.sitespeed.io/documentation/) - Open-source tool that checks your site against web performance best practices and uses the Navigation Timing API to collect metrics. Outputs XML and HTML reports.
-*   [Grunt-phantomas (⭐280)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
+*   [Grunt-phantomas (⭐281)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 *   [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo (⭐0)](https://github.com/asciidisco/perfjankie-test)).
 
 ### Minifiers - HTML / Meetups
@@ -442,14 +439,14 @@
 *   [HTML\_press (⭐35)](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 *   [Koa HTML Minifier (⭐32)](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 *   [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
-*   [Html-minifier (⭐137)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
+*   [Html-minifier (⭐138)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
 
 ### Minifiers - JS & CSS / Meetups
 
 *   [YUI Compressor (⭐3k)](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
 *   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [CSSmin.js (⭐77)](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - JavaScript port of YUICompressor's CSS minifier.
-*   [Grunt-contrib-concat (⭐801)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
+*   [Grunt-contrib-concat (⭐800)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 *   [Grunt-contrib-uglify (⭐1.5k)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
 *   [Django-compressor (⭐2.9k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [JShrink (⭐761)](https://github.com/tedious/JShrink) - PHP class that minifies JavaScript for faster delivery to the client.
@@ -465,7 +462,7 @@
 
 *   [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
 *   [uCSS (⭐1.6k)](https://github.com/oyvindeh/ucss) - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
-*   [HTTPinvoke (⭐342)](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
+*   [HTTPinvoke (⭐341)](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
 *   [Critical (⭐10k)](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 *   [Csscolormin (⭐13)](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 *   [Lazysizes (⭐18k)](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
@@ -493,7 +490,7 @@
 *   [PHP-httperf (⭐6)](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
 *   [HTTPerf.js (⭐25)](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 *   [HTTPerf.py (⭐11)](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
-*   [Gohttperf (⭐4)](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
+*   [Gohttperf (⭐5)](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 *   [beeswithmachineguns (⭐6.6k)](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 *   [k6](https://k6.io/) - An open-source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and sites using HTTP/1.1, HTTP/2 and WebSocket.
 
@@ -509,7 +506,7 @@
 
 ### Other Awesome Lists / Meetups
 
-*   [iamakulov/awesome-webpack-perf (⭐963)](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of Webpack tools for web performance.
+*   [iamakulov/awesome-webpack-perf (⭐961)](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of Webpack tools for web performance.
 
 ## [Nov 01, 2014](/content/2014/11/01/README.md)
 

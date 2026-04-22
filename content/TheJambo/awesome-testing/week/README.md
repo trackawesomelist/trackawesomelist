@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Software / AI & LLM Testing
+
+*   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Software / Accessibility & Usability Testing
@@ -136,12 +142,6 @@ A curated list of testing resources
 
 *   [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 *   [Nuclei Scanner (⭐28k)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
-
-## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
-
-### Software / API Testing
-
-*   [Vedika API](https://vedika.io/) - Vedic astrology API with free sandbox environment for testing. Includes Postman collection, 108+ endpoints, and AI-powered chatbot API for integration testing.
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
