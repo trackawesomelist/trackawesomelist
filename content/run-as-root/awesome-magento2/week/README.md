@@ -43,6 +43,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / CMS
 
+*   [hyva-ai-tools (⭐61)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 *   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
 
 ### Open Source Extensions / Adminhtml / Backend

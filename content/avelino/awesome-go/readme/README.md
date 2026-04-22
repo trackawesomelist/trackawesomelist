@@ -402,7 +402,7 @@ Please take a quick gander at the [contribution guidelines (⭐170k)](https://gi
 *   [gocui (⭐11k)](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
 *   [gommon/color (⭐581)](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
 *   [gookit/color (⭐1.6k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
-*   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐37)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 *   [lipgloss (⭐11k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 *   [loom (⭐124)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 *   [marker (⭐53)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
@@ -1114,6 +1114,7 @@ additional ordered map implementations.
 *   [SendGrid (⭐1.1k)](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 *   [smtp (⭐76)](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
 *   [smtpmock (⭐164)](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
+*   [tickstem/verify (⭐0)](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
 *   [truemail-go (⭐131)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 **[⬆ back to top](#contents)**

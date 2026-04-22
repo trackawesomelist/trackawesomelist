@@ -10,6 +10,16 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### AI and Agents
 
+*   Orchestration
+    *   [ag2 (⭐4.4k)](https://github.com/ag2ai/ag2) - An open-source AgentOS for multi-agent orchestration and building agentic AI systems.
+    *   [autogen (⭐57k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
+    *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
+    *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
+    *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
+    *   [hermes-agent (⭐36k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
+    *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+    *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
+    *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Speech
     *   [openai-whisper (⭐98k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
     *   [vibevoice (⭐41k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
@@ -43,7 +53,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### WebSocket
 
-*   [picows (⭐259)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
+*   [picows (⭐264)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -83,9 +93,9 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 ### AI and Agents
 
 *   Agent Skills
-    *   [django-ai-plugins (⭐37)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
-    *   [sentry-skills (⭐504)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
-    *   [trailofbits-skills (⭐4.3k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development. Also [skills-curated (⭐369)](https://github.com/trailofbits/skills-curated).
+    *   [django-ai-plugins (⭐49)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+    *   [sentry-skills (⭐616)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+    *   [trailofbits-skills (⭐4.7k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development. Also [skills-curated (⭐369)](https://github.com/trailofbits/skills-curated).
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
@@ -107,7 +117,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [peewee (⭐12k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
     *   [pony (⭐3.8k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
     *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
-    *   [tortoise-orm (⭐5.5k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
+    *   [tortoise-orm (⭐5.6k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
 
 ### Geolocation
 
@@ -166,7 +176,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 *   Framework Agnostic
     *   [connexion (⭐4.6k)](https://github.com/spec-first/connexion) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
     *   [falcon (⭐9.8k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐97k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
+    *   [fastapi (⭐98k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
     *   [sanic (⭐19k)](https://github.com/sanic-org/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
     *   [strawberry (⭐4.6k)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
     *   [webargs (⭐1.4k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
@@ -280,7 +290,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 ### Text Processing
 
 *   Unique identifiers
-    *   [sqids (⭐498)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
+    *   [sqids (⭐501)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
     *   [shortuuid (⭐2.2k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 
 ### Audio & Video Processing
@@ -298,7 +308,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 ### Date and Time
 
 *   [dateparser (⭐2.8k)](https://github.com/scrapinghub/dateparser) - A Python parser for human-readable dates in dozens of languages.
-*   [pendulum (⭐6.6k)](https://github.com/python-pendulum/pendulum) - Python datetimes made easy.
+*   [pendulum (⭐6.7k)](https://github.com/python-pendulum/pendulum) - Python datetimes made easy.
 
 ### Package Management
 
@@ -313,18 +323,6 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 *   [mitmproxy (⭐43k)](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
-
-### AI and Agents
-
-*   Orchestration
-    *   [autogen (⭐57k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
-    *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
-    *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
-    *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
-    *   [hermes-agent (⭐36k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
-    *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
-    *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
-    *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 
 ### Machine Learning
 
@@ -344,7 +342,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### Database
 
-*   [chromadb (⭐27k)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
+*   [chromadb (⭐28k)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
 
 ### Serialization
 
@@ -364,7 +362,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [repowise (⭐1.1k)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
     *   [vulture (⭐4.5k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 *   Code Linters
-    *   [bandit (⭐7.9k)](https://github.com/PyCQA/bandit) - A tool designed to find common security issues in Python code.
+    *   [bandit (⭐8k)](https://github.com/PyCQA/bandit) - A tool designed to find common security issues in Python code.
     *   [flake8 (⭐3.8k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.3k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
     *   [pylint (⭐5.7k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
@@ -713,7 +711,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 *   Other Relational Databases
     *   [clickhouse-driver (⭐1.3k)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
-    *   [mssql-python (⭐408)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
+    *   [mssql-python (⭐415)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
 
 ### Interactive Interpreter
 
@@ -779,7 +777,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [html2text (⭐2.1k)](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
     *   [micawber (⭐675)](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
     *   [sumy (⭐3.7k)](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
-    *   [trafilatura (⭐5.7k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
+    *   [trafilatura (⭐5.8k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
 ### Caching
 
@@ -1367,7 +1365,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 ### Documentation
 
 *   [sphinx (⭐7.8k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
-    *   [awesome-sphinxdoc (⭐972)](https://github.com/ygzgxyz/awesome-sphinxdoc)
+    *   [awesome-sphinxdoc (⭐974)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 
 ### Job Schedulers
 
@@ -1422,7 +1420,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 *   GUI / Web Testing
     *   [locust (⭐28k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [playwright-python (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+    *   [playwright-python (⭐15k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
     *   [pyautogui (⭐12k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [schemathesis (⭐3.2k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [selenium (⭐34k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).

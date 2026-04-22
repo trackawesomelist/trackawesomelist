@@ -11,6 +11,16 @@ A curated list of awesome Lit resources.
 ### Component Libraries
 
 *   [Burnish Components (⭐1)](https://github.com/danfking/burnish/tree/main/packages/components) - Web components for rendering MCP tool-call output as UI.
+*   [PatternFly Elements (⭐389)](https://github.com/patternfly/patternfly-elements) - Lightweight web components based on the PatternFly design system.
+
+### Tools / Building
+
+*   [Mappa (⭐4)](https://github.com/bennypowers/mappa) - Fast import map generator for ES modules, resolving bare specifiers from package.json dependencies.
+
+### Tools / Other Tools
+
+*   [Asimonim (⭐18)](https://github.com/bennypowers/asimonim) - Design tokens parser, validator, and language server for the W3C DTCG specification.
+*   [cem (⭐39)](https://github.com/bennypowers/cem) - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 

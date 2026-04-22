@@ -31,7 +31,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **221** projects · **44** actively maintained · **6** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **222** projects · **44** actively maintained · **6** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 *   [What is an awesome list? (⭐456k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 *   [Contribution guide](https://github.com/run-as-root/awesome-magento2/blob/master/README.md/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -246,6 +246,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 *   [Magento 2 Blog Extension by Magefan (⭐270)](https://github.com/magefan/module-blog) 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 *   [Mageplaza Blog Extension (⭐122)](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
 *   [Opengento GDPR (⭐143)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
+*   [hyva-ai-tools (⭐61)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 *   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
 
 ### Marketing

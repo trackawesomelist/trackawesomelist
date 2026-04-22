@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [iBz-04/gloamy (⭐51)](https://github.com/iBz-04/gloamy) \[[gloamy](https://crates.io/crates/gloamy)] - Rust-first autonomous agent runtime for CLI, channels, gateway, and hardware workflows.
 
+### Libraries / Data visualization
+
+*   [wangjiawen2013/charton (⭐152)](https://github.com/wangjiawen2013/charton) - A layered grammar of graphics library in Rust. [![Documentation](https://img.shields.io/docsrs/charton/latest)](https://docs.rs/charton) [![Build Status](https://github.com/wangjiawen2013/charton/actions/workflows/ci.yml/badge.svg)](https://github.com/wangjiawen2013/charton/actions)
+
 ## [Apr 21, 2026](/content/2026/04/21/README.md)
 
 ### Development tools / Workflow Automation

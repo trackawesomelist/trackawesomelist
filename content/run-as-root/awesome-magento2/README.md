@@ -6,6 +6,12 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 [ Daily / [Weekly](/content/run-as-root/awesome-magento2/week/README.md) / [Overview](/content/run-as-root/awesome-magento2/readme/README.md) ]
 
+## [Apr 22, 2026](/content/2026/04/22/README.md)
+
+### Open Source Extensions / CMS
+
+*   [hyva-ai-tools (⭐61)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
 ### Legend

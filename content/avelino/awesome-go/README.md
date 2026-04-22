@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
+### Email
+
+*   [tickstem/verify (⭐0)](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
+
 ### Job Scheduler
 
 *   [tickstem/cron (⭐0)](https://github.com/tickstem/cron) - Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials.
@@ -268,7 +272,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [lazyenv (⭐7)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐37)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 

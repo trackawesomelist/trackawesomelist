@@ -30,6 +30,10 @@ A curated list of Rust code and resources.
 
 *   [claudectl (⭐61)](https://github.com/mercurialsolo/claudectl) \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml)
 
+### Libraries / Data visualization
+
+*   [wangjiawen2013/charton (⭐152)](https://github.com/wangjiawen2013/charton) - A layered grammar of graphics library in Rust. [![Documentation](https://img.shields.io/docsrs/charton/latest)](https://docs.rs/charton) [![Build Status](https://github.com/wangjiawen2013/charton/actions/workflows/ci.yml/badge.svg)](https://github.com/wangjiawen2013/charton/actions)
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Applications

@@ -13,6 +13,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [CINC](https://cinc.sh/) - Free distribution of [Chef](https://www.chef.io/products/chef-infra), a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://gitlab.com/cinc-project/upstream/chef)) `Apache-2.0` `Ruby`
 *   [OpenVox](https://voxpupuli.org/openvox/) - Community fork of the last open source version of [Puppet](https://www.puppet.com/), a software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐157)](https://github.com/OpenVoxProject/openvox)) `Apache-2.0` `Ruby/C`
 
+### Software / IT Asset Management
+
+*   [openDCIM](https://opendcim.org/) - GPL v3 Data Center Inventory Management (DCIM). ([Source Code (⭐346)](https://github.com/opendcim/openDCIM), [Demo](https://opendcim.org/demo.html)) `GPL-3.0` `PHP/JavaScript`
+
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
 ### Software / Time Servers

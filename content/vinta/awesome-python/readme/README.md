@@ -140,10 +140,11 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *Libraries for building AI applications, LLM integrations, and autonomous agents.*
 
 *   Agent Skills
-    *   [django-ai-plugins (⭐37)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
-    *   [sentry-skills (⭐504)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
-    *   [trailofbits-skills (⭐4.3k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development. Also [skills-curated (⭐369)](https://github.com/trailofbits/skills-curated).
+    *   [django-ai-plugins (⭐49)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+    *   [sentry-skills (⭐616)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+    *   [trailofbits-skills (⭐4.7k)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development. Also [skills-curated (⭐369)](https://github.com/trailofbits/skills-curated).
 *   Orchestration
+    *   [ag2 (⭐4.4k)](https://github.com/ag2ai/ag2) - An open-source AgentOS for multi-agent orchestration and building agentic AI systems.
     *   [autogen (⭐57k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
     *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
     *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
@@ -264,7 +265,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   Framework Agnostic
     *   [connexion (⭐4.6k)](https://github.com/spec-first/connexion) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
     *   [falcon (⭐9.8k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐97k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
+    *   [fastapi (⭐98k)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
     *   [sanic (⭐19k)](https://github.com/sanic-org/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
     *   [strawberry (⭐4.6k)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
     *   [webargs (⭐1.4k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
@@ -293,7 +294,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [autobahn-python (⭐2.5k)](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 *   [channels (⭐6.3k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
 *   [flask-socketio (⭐5.5k)](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
-*   [picows (⭐259)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
+*   [picows (⭐264)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
 *   [websockets (⭐5.7k)](https://github.com/python-websockets/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ## Template Engines
@@ -380,7 +381,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [html2text (⭐2.1k)](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
     *   [micawber (⭐675)](https://github.com/coleifer/micawber) - A small library for extracting rich content from URLs.
     *   [sumy (⭐3.7k)](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
-    *   [trafilatura (⭐5.7k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
+    *   [trafilatura (⭐5.8k)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
 ## Email
 
@@ -403,7 +404,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [peewee (⭐12k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
     *   [pony (⭐3.8k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
     *   [sqlmodel (⭐18k)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
-    *   [tortoise-orm (⭐5.5k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
+    *   [tortoise-orm (⭐5.6k)](https://github.com/tortoise/tortoise-orm) - An easy-to-use asyncio ORM inspired by Django, with relations support.
 *   NoSQL Databases
     *   [beanie (⭐2.7k)](https://github.com/BeanieODM/beanie) - An asynchronous Python object-document mapper (ODM) for MongoDB.
     *   [mongoengine (⭐4.4k)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
@@ -423,7 +424,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQLite interface compliant with DB-API 2.0.
 *   Other Relational Databases
     *   [clickhouse-driver (⭐1.3k)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
-    *   [mssql-python (⭐408)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
+    *   [mssql-python (⭐415)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
 *   NoSQL Databases
     *   [cassandra-driver (⭐1.4k)](https://github.com/apache/cassandra-python-driver) - The Python Driver for Apache Cassandra.
     *   [django-mongodb-backend (⭐218)](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
@@ -434,7 +435,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Databases implemented in Python.*
 
-*   [chromadb (⭐27k)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
+*   [chromadb (⭐28k)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
 *   [duckdb (⭐37k)](https://github.com/duckdb/duckdb) - An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
 *   [pickledb (⭐1.1k)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
 *   [tinydb (⭐7.5k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
@@ -603,7 +604,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [repowise (⭐1.1k)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
     *   [vulture (⭐4.5k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 *   Code Linters
-    *   [bandit (⭐7.9k)](https://github.com/PyCQA/bandit) - A tool designed to find common security issues in Python code.
+    *   [bandit (⭐8k)](https://github.com/PyCQA/bandit) - A tool designed to find common security issues in Python code.
     *   [flake8 (⭐3.8k)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.3k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
     *   [pylint (⭐5.7k)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
@@ -638,7 +639,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [tox (⭐3.9k)](https://github.com/tox-dev/tox) - Auto builds and tests distributions in multiple Python versions
 *   GUI / Web Testing
     *   [locust (⭐28k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [playwright-python (⭐14k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+    *   [playwright-python (⭐15k)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
     *   [pyautogui (⭐12k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [schemathesis (⭐3.2k)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [selenium (⭐34k)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
@@ -693,7 +694,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *Libraries for generating project documentation.*
 
 *   [sphinx (⭐7.8k)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
-    *   [awesome-sphinxdoc (⭐972)](https://github.com/ygzgxyz/awesome-sphinxdoc)
+    *   [awesome-sphinxdoc (⭐974)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 *   [diagrams (⭐42k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 *   [mkdocs (⭐22k)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 *   [pdoc (⭐2.5k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
@@ -859,7 +860,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [textdistance (⭐3.5k)](https://github.com/life4/textdistance) - Compute distance between sequences with 30+ algorithms.
     *   [unidecode (⭐604)](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
 *   Unique identifiers
-    *   [sqids (⭐498)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
+    *   [sqids (⭐501)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
     *   [shortuuid (⭐2.2k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 *   Parser
     *   [pygments (⭐2.1k)](https://github.com/pygments/pygments) - A generic syntax highlighter.
@@ -1020,7 +1021,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [dateparser (⭐2.8k)](https://github.com/scrapinghub/dateparser) - A Python parser for human-readable dates in dozens of languages.
 *   [dateutil (⭐2.6k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
-*   [pendulum (⭐6.6k)](https://github.com/python-pendulum/pendulum) - Python datetimes made easy.
+*   [pendulum (⭐6.7k)](https://github.com/python-pendulum/pendulum) - Python datetimes made easy.
 *   [zoneinfo](https://docs.python.org/3/library/zoneinfo.html) - (Python standard library) IANA time zone support. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 
 **Python Toolchain**

@@ -6,6 +6,12 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 22, 2026](/content/2026/04/22/README.md)
+
+### Software / IT Asset Management
+
+*   [openDCIM](https://opendcim.org/) - GPL v3 Data Center Inventory Management (DCIM). ([Source Code (⭐346)](https://github.com/opendcim/openDCIM), [Demo](https://opendcim.org/demo.html)) `GPL-3.0` `PHP/JavaScript`
+
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
 ### Software / Configuration Management

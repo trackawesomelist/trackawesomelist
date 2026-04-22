@@ -31,39 +31,39 @@
 <hr>
 
 <p style="display: inline_block">
-<sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
-<a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
-<a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/VidCrop/6752624705" title="VidCrop for macOS"><img alt="VidCrop" height="52" src="https://wangchujiang.com/appicon/vidcrop.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img alt="Vidwall" height="52" src="https://wangchujiang.com/appicon/vidwall.png"></a>
-<a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img alt="Mousio Hint" height="52" src="https://wangchujiang.com/appicon/mousio-hint.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img alt="Mousio" height="52" src="https://wangchujiang.com/appicon/mousio.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img alt="Musicer" height="52" src="https://wangchujiang.com/appicon/musicer.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img alt="Audioer" height="52" src="https://wangchujiang.com/appicon/audioer.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img alt="FileSentinel" height="52" src="https://wangchujiang.com/appicon/file-sentinel.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6743495172" title="FocusCursor for macOS"><img alt="FocusCursor" height="52" src="https://wangchujiang.com/appicon/focus-cursor.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6742680573" title="Videoer for macOS"><img alt="Videoer" height="52" src="https://wangchujiang.com/appicon/videoer.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img alt="KeyClicker" height="52" src="https://wangchujiang.com/appicon/key-clicker.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img alt="DayBar" height="52" src="https://wangchujiang.com/appicon/daybar.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img alt="Iconed" height="52" src="https://wangchujiang.com/appicon/iconed.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6737160756" title="Menuist for macOS"><img alt="Menuist" height="52" src="https://wangchujiang.com/appicon/rightmenu-master.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/paste-quick.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6670696072?platform=mac" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/quick-rss.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img alt="Web Serve" height="52" src="https://wangchujiang.com/appicon/web-serve.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6503953628?platform=mac" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" src="https://wangchujiang.com/appicon/copybook-generator.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6471227008?platform=mac" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" src="https://wangchujiang.com/appicon/devtutor.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6479819388?platform=mac" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" src="https://wangchujiang.com/appicon/regex-mate.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6479194014?platform=mac" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" src="https://wangchujiang.com/appicon/time-passage.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6478772538" title="IconizeFolder for macOS"><img alt="Iconize Folder" height="52" src="https://wangchujiang.com/appicon/iconize-folder.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6478511402?platform=mac" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" src="https://wangchujiang.com/appicon/textsound-saver.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6476924627" title="Create Custom Symbols for macOS"><img alt="Create Custom Symbols" height="52" src="https://wangchujiang.com/appicon/create-custom-symbols.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6476452351" title="DevHub for macOS"><img alt="DevHub" height="52" src="https://wangchujiang.com/appicon/devhub.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" src="https://wangchujiang.com/appicon/resume-revise.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
+  <sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
+  <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6752624705" title="VidCrop for macOS"><img alt="VidCrop" height="52" src="https://wangchujiang.com/appicon/vidcrop.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6747587746" title="Vidwall for macOS"><img alt="Vidwall" height="52" src="https://wangchujiang.com/appicon/vidwall.png"></a>
+  <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img alt="Mousio Hint" height="52" src="https://wangchujiang.com/appicon/mousio-hint.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6746747327" title="Mousio for macOS"><img alt="Mousio" height="52" src="https://wangchujiang.com/appicon/mousio.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6745227444" title="Musicer for macOS"><img alt="Musicer" height="52" src="https://wangchujiang.com/appicon/musicer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6743841447" title="Audioer for macOS"><img alt="Audioer" height="52" src="https://wangchujiang.com/appicon/audioer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6744690194" title="FileSentinel for macOS"><img alt="FileSentinel" height="52" src="https://wangchujiang.com/appicon/file-sentinel.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6743495172" title="FocusCursor for macOS"><img alt="FocusCursor" height="52" src="https://wangchujiang.com/appicon/focus-cursor.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6742680573" title="Videoer for macOS"><img alt="Videoer" height="52" src="https://wangchujiang.com/appicon/videoer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6740425504" title="KeyClicker for macOS"><img alt="KeyClicker" height="52" src="https://wangchujiang.com/appicon/key-clicker.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6739052447" title="DayBar for macOS"><img alt="DayBar" height="52" src="https://wangchujiang.com/appicon/daybar.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6739444407" title="Iconed for macOS"><img alt="Iconed" height="52" src="https://wangchujiang.com/appicon/iconed.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6737160756" title="Menuist for macOS"><img alt="Menuist" height="52" src="https://wangchujiang.com/appicon/rightmenu-master.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6723903021" title="Paste Quick for macOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/paste-quick.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670696072&platform=mac" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/quick-rss.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve" height="52" src="https://wangchujiang.com/appicon/web-serve.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628&platform=mac" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" src="https://wangchujiang.com/appicon/copybook-generator.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=mac" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" src="https://wangchujiang.com/appicon/devtutor.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388&platform=mac" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" src="https://wangchujiang.com/appicon/regex-mate.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479194014&platform=mac" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" src="https://wangchujiang.com/appicon/time-passage.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6478772538" title="IconizeFolder for macOS"><img alt="Iconize Folder" height="52" src="https://wangchujiang.com/appicon/iconize-folder.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6478511402&platform=mac" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" src="https://wangchujiang.com/appicon/textsound-saver.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476924627" title="Create Custom Symbols for macOS"><img alt="Create Custom Symbols" height="52" src="https://wangchujiang.com/appicon/create-custom-symbols.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476452351" title="DevHub for macOS"><img alt="DevHub" height="52" src="https://wangchujiang.com/appicon/devhub.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" src="https://wangchujiang.com/appicon/resume-revise.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
 </p>
 <hr>
 
@@ -201,7 +201,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [LiteEdit](https://arietan.github.io/lite-edit/) - Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron. [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 *   [MacVim (⭐7.8k)](https://github.com/macvim-dev/macvim) - the text editor Vim - for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 *   [micro](https://micro-editor.github.io) - Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
-*   [Neovim (⭐98k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
+*   [Neovim (⭐99k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 *   [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 *   [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple distraction-free notepad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 *   [Sublime Text](http://www.sublimetext.com/3) - Text editor with a fast interface and plugin ecosystem. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -280,7 +280,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 *   [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
 *   [VNote](https://app.vnote.fun/) - Open-source Markdown note-taking app with a polished editor. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
-*   [Zettel (⭐57)](https://github.com/AlexW00/Zettel) - Minimal, distraction-free note-taking app with Markdown and hashtag-based organization. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
+*   [Zettel (⭐59)](https://github.com/AlexW00/Zettel) - Minimal, distraction-free note-taking app with Markdown and hashtag-based organization. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
 ### Journaling
 
@@ -385,7 +385,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
-*   [AXe (⭐1.7k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
+*   [AXe (⭐1.8k)](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 *   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 *   [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
@@ -499,7 +499,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Frameworks For Hybrid Applications
 
 *   [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-*   [DMG Maker (⭐249)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
+*   [DMG Maker (⭐266)](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 *   [create-dmg (⭐5.2k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 *   [Electrino (⭐4.4k)](https://github.com/pojala/electrino) - Desktop runtime for web apps using the system's browser engine. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 *   [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
@@ -740,9 +740,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [APNGb (⭐324)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 *   [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware][Freeware Icon]
 *   [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
-*   [Lap (⭐331)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
+*   [Lap (⭐489)](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 *   [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
-*   [CompressO (⭐2.6k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
+*   [CompressO (⭐3.5k)](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 *   [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 *   [Eagle App](https://en.eagle.cool/) - Asset manager for images, videos, audio, fonts, and design files.
 *   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
@@ -1008,7 +1008,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [EnviousWispr](https://enviouswispr.com) - Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish. ![Freeware][Freeware Icon]
 *   [FnKey (⭐44)](https://github.com/evoleinik/fnkey) - Push-to-talk voice input tool that pastes transcribed text instantly. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 *   [OpenDictation (⭐44)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-*   [OpenTypeless (⭐89)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+*   [OpenTypeless (⭐139)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 *   [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 *   [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 *   [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
@@ -1090,7 +1090,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malware scanner and removal tool. ![Freeware][Freeware Icon]
 *   [Mana Security](https://www.manasecurity.com/) - vulnerability management app for individuals. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 *   [Vulert](https://vulert.com) - Dependency vulnerability monitoring service for open-source packages.
-*   [NoxKey (⭐4)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
+*   [NoxKey (⭐7)](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 *   [OverSight](https://objective-see.com/products/oversight.html) - Tool for monitoring microphone and webcam access. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight) ![Freeware][Freeware Icon]
 *   [ParetoSecurity](https://paretosecurity.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
 *   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
@@ -1123,7 +1123,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 *   [Tunnelbear](https://www.tunnelbear.com) - Simple VPN service for secure browsing and location switching. ![Freeware][Freeware Icon]
 *   [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
-*   [VPN Bypass (⭐49)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+*   [VPN Bypass (⭐62)](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 *   [Windscribe](https://windscribe.com) - VPN and proxy service with ad blocking and flexible server switching. ![Freeware][Freeware Icon]
 *   [Tailscale](https://tailscale.com/) - Mesh VPN for securely connecting devices, services, and users. ![Freeware][Freeware Icon]
 
@@ -1162,7 +1162,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Menu Bar Tools
 
 *   [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
-*   [Atoll (⭐1.6k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+*   [Atoll (⭐1.8k)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 *   [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 *   [ChargeMonitor (⭐4)](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 *   [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with hidden zones and automation rules. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
@@ -1239,7 +1239,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Organization Tools
 
-*   [AppPorts (⭐1k)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+*   [AppPorts (⭐1.1k)](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 *   [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 *   [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
@@ -1324,7 +1324,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [escrcpy (⭐9.2k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android devices, powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 *   [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 *   [Focus Firewall](https://focusfirewall.com) - A minimalist focus app to block social media and other distractions during work. [![App Store][app-store Icon]](\[https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8\&platform=mac]\(https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8\&platform=mac\))
-*   [FnKeyboard (⭐6)](https://github.com/kotique123/FnKeyboard) - Quick access to function keys from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
+*   [FnKeyboard (⭐7)](https://github.com/kotique123/FnKeyboard) - Quick access to function keys from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 *   [Freeter](https://freeter.io/) - Organize apps, links, and files by project in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 *   [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 *   [HapticKey (⭐1.7k)](https://github.com/niw/HapticKey/releases) - Add haptic feedback when using the Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
@@ -1519,6 +1519,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Ryubing](https://github.com/Ryubing) - A fork of the discontinued Switch emulator, Ryujinx. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 *   [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
 *   [Whisky](https://getwhisky.app/) - Wine wrapper that supports GPTK (Game Porting Toolkit) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Whisky-App/Whisky)
+*   [ConsoleMini (⭐29)](https://github.com/momenbasel/ConsoleMini) - Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/momenbasel/ConsoleMini)
 
 ## Remote Login Software
 
@@ -1538,9 +1539,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 *   [QLMarkdown (⭐2.6k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
-*   [FluxMarkdown (⭐81)](https://github.com/xykong/flux-markdown) - Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
+*   [FluxMarkdown (⭐662)](https://github.com/xykong/flux-markdown) - Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 *   [markdown-quicklook (⭐1)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
-*   [Torrent Preview (⭐20)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
+*   [Torrent Preview (⭐24)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 *   [quick-look-plugins (⭐19k)](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 *   [Syntax Highlight (⭐4k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 

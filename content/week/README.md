@@ -24,26 +24,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for MySQL, PostgreSQL, and more, with SQL review, schema migration, and access control. By [Bytebase](https://github.com/bytebase).
 
-#### [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-##### Software / Configuration Management
-
-*   [CINC](https://cinc.sh/) - Free distribution of [Chef](https://www.chef.io/products/chef-infra), a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://gitlab.com/cinc-project/upstream/chef)) `Apache-2.0` `Ruby`
-*   [OpenVox](https://voxpupuli.org/openvox/) - Community fork of the last open source version of [Puppet](https://www.puppet.com/), a software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐157)](https://github.com/OpenVoxProject/openvox)) `Apache-2.0` `Ruby/C`
-
-#### [3. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+#### [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ##### Tools / Scalability and Resilience
 
 *   [Pumler](https://pumler.com) - Real-time collaborative text-to-diagram editor for PlantUML, Mermaid, and Structurizr (C4), with browser-based PNG/SVG export.
 
-#### [4. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Language Essentials / Command Line and Argument Parser
 
 *   [plutowang/zlap (⭐4)](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 
-#### [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Providers / Vendor supported providers
 
@@ -53,151 +46,71 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
 
-#### [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+#### [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ##### Python / Constraint Logic Programming (extended Prolog)
 
 *   [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf) (PDF)
 
-#### [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+#### [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ##### Component Libraries
 
 *   [Burnish Components (⭐1)](https://github.com/danfking/burnish/tree/main/packages/components) - Web components for rendering MCP tool-call output as UI.
+*   [PatternFly Elements (⭐389)](https://github.com/patternfly/patternfly-elements) - Lightweight web components based on the PatternFly design system.
 
-#### [8. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+##### Tools / Building
 
-##### Legend
+*   [Mappa (⭐4)](https://github.com/bennypowers/mappa) - Fast import map generator for ES modules, resolving bare specifiers from package.json dependencies.
 
-*   🔥 **Hot** — one of the top-10% most-starred GitHub repos in its category (requires at least 5 GitHub entries in the category).
-*   🫡 **Actively maintained** — last commit within 90 days and a release within the last year.
-*   🪦 **Graveyard** — archived on GitHub or no commits/releases in the last three years. Graveyard entries live in a collapsed block at the bottom of their section and are kept for historical reference. Pinned entries are never moved here.
+##### Tools / Other Tools
 
-##### Events: Meet the community
+*   [Asimonim (⭐18)](https://github.com/bennypowers/asimonim) - Design tokens parser, validator, and language server for the W3C DTCG specification.
+*   [cem (⭐39)](https://github.com/bennypowers/cem) - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
 
-*   [MageUnconference Netherlands](https://mageunconference.nl/) 🫡 - Magento unconference held in the Netherlands.
-*   [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
-
-##### Front-ends / Meet Magento
-
-*   [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
-*   [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
-*   [Alokai (⭐11k)](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
-*   [ScandiPWA (⭐552)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
-*   [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
-*   [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
-*   [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
-
-##### Tools / Meet Magento
-
-*   [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
-
-##### Open Source Extensions / Development Utilities
-
-*   [Magewire PHP (⭐256)](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
-
-##### Open Source Extensions / Deployment
-
-*   [easyaudit-cli (⭐14)](https://github.com/crealoz/easyaudit-cli) - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
-
-##### Open Source Extensions / CMS
-
-*   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
-
-##### Open Source Extensions / Adminhtml / Backend
-
-*   [magento2-hyva-admin (⭐175)](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
-*   [theme-adminhtml-m137 (⭐36)](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
-
-##### Open Source Extensions / Infrastructure
-
-*   [magento-cache-clean (⭐48)](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
-*   [module-theme-optimization (⭐41)](https://github.com/mage-os/module-theme-optimization) - bfcache, speculative loading, and view transitions for Magento
-
-##### Open Source Extensions / Progressive Web Application
-
-*   [magento2-default-theme (⭐74)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
-*   [magento2-default-theme-csp (⭐15)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
-*   [magento2-theme-module (⭐22)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
-
-##### Blogs / Other
-
-*   [MageTalk](http://magetalk.com/) - Community podcast by Kalen Jordan and Phillip Jackson.
-
-##### Learning / Other
-
-*   [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
-*   [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D) - Free YouTube series for learning Magento 2.
-
-##### Official Resources / Other
-
-*   [Magento GitHub Repository (⭐12k)](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
-*   [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
-
-##### Influencing People / Other
-
-*   [Alan Storm](https://alanstorm.com/) - Prolific Magento tech writer and creator of Pestle.
-*   [Alessandro Ronchi](https://github.com/aleron75) - Co-founder of ExtDN; maintainer of Mageres.
-*   [Anna Völkl](https://github.com/avoelkl) - integer\_net; regular speaker and language-pack contributor.
-*   [Ben Marks](https://twitter.com/benmarks) - Former Magento Evangelist; long-time community advocate.
-*   [David Alger](https://davidalger.com/) - Creator of Warden; long-time Magento infrastructure voice.
-*   [Fabian Schmengler](https://github.com/schmengler) - integer\_net; frequent conference speaker on Magento 2 architecture.
-*   [Ivan Chepurnyi](https://github.com/EcomDev) - Long-time core contributor; speaker.
-*   [Jisse Reitsma](https://github.com/jreitsma) - Founder of Yireo; trainer and book author.
-*   [Kalen Jordan](http://magetalk.com/) - Co-host of MageTalk podcast.
-*   [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento; educator on YouTube.
-*   [Mathias Elle](https://github.com/MathiasElle) - Author of the Magento Log Viewer VS Code extension.
-*   [Max Pronko](https://github.com/maxpronko) - Trainer; runs the DevChannel YouTube series.
-*   [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; open-source contributor.
-*   [Phillip Jackson](http://magetalk.com/) - Co-host of MageTalk podcast.
-*   [Riccardo Tempesta](https://github.com/rpanarin) - MageSpecialist; creator of MSP\_DevTools.
-*   [Roma Glushko](https://github.com/roma-glushko) - Maintains magento2-dev-plus-exam notes and the Tango CLI.
-*   [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
-*   [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
-
-#### [9. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+#### [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ##### Benchmarks & Datasets
 
 *   [DUD-E (Directory of Useful Decoys, Enhanced)](http://dude.docking.org/) — Structure-based virtual screening benchmark with active ligands and challenging decoy sets across diverse protein targets.
 
-#### [10. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+#### [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ##### Web
 
 *   [npmx.dev](https://npmx.dev) - Fast and modern viewer for the npm registry.
 
-#### [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+#### [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ##### Various / United Kingdom
 
 *   [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
 
-#### [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Tools / Monitoring
 
 *   [Percona Monitoring and Management (⭐1k)](https://github.com/percona/pmm) - Free and open-source platform for managing and monitoring databases performances
 
-#### [13. Typography](/content/deanhume/typography/README.md)
+#### [11. Typography](/content/deanhume/typography/README.md)
 
 ##### Tools
 
 *   [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
 
-#### [14. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [12. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Plugins and scripts / Godot 4
 
 *   [Signal Lens (⭐333)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
 
-#### [15. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+#### [13. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ##### Action
 
 *   [Heretic2R (⭐209)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
 
-#### [16. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+#### [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ##### Conferences
 
@@ -207,7 +120,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
 *   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
-#### [17. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+#### [15. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ##### Awesome Repositories
 
@@ -330,7 +243,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [18. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Domain and IP Research / GitHub
 
@@ -340,7 +253,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 
-#### [19. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -362,7 +275,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YAML (⭐461) (⭐459)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [20. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [18. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### QA Tools / Runner
 
@@ -372,7 +285,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Nuxt (⭐60k)](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
-#### [21. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+#### [19. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ##### Plugins / Code Quality
 
@@ -393,7 +306,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ESlint Rules Index](https://eslint-rules-index.vercel.app/) - A big table of ESlint Rules to help developers find them easily.
 
-#### [22. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [20. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Web APIs
 
@@ -405,6 +318,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### AI and Agents
 
+*   Orchestration
+    *   [ag2 (⭐4.4k)](https://github.com/ag2ai/ag2) - An open-source AgentOS for multi-agent orchestration and building agentic AI systems.
+    *   [autogen (⭐57k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
+    *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
+    *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
+    *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
+    *   [hermes-agent (⭐36k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
+    *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+    *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
+    *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Speech
     *   [openai-whisper (⭐98k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
     *   [vibevoice (⭐41k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
@@ -414,13 +337,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [timesfm (⭐18k)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting.
 
-#### [23. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
+#### [21. Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md)
 
 ##### Commands cheatsheet and snippets
 
 *   [mdpick (⭐1)](https://github.com/toolleeo/mdpick) - A terminal user interface (TUI) tool for interactively selecting and extracting code blocks or links from Markdown files and copy them to the clipboard, ready for being pasted right in the command line or anywhere else, or a tmux pane.
 
-#### [24. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### Data Sources / Traditional Markets
 
@@ -438,31 +361,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [MeterCall](https://metercall.ai/?v=f\&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
 
-#### [25. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+#### [23. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ##### GUI
 
 *   [TablePro (⭐2.1k)](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 
-#### [26. Awesome V](/content/vlang/awesome-v/README.md)
+#### [24. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Editor plugins / Pulsar
 
 *   [language-v](https://packages.pulsar-edit.dev/packages/language-v) - V language support for Atom (port of vscode-vlang) (migrated from atom.io)
 
-#### [27. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [25. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Tutorials & workshops / Miscellaneous
 
 *   *   [Handling Nested Data in Polars: explode() and unnest()](https://pythonprohub.com/data-science/polars-nested-data-explode-unnest-guide/) - A comprehensive, 2026-updated guide to flattening complex nested JSON structures and arrays natively in Polars.
 
-#### [28. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+#### [26. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
 
 ##### iOS / Nevix
 
 *   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
 
-#### [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### IMPORTANT NOTE ON PRs:
 
@@ -474,7 +397,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   For a list of blogs and newsletters on data science and machine learning, go [here (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
 *   For a list of free-to-attend meetups and local events, go [here (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
-#### [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / Diagnostics
 
@@ -488,14 +411,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [plutowang/nvim.pack (⭐3)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 
-#### [31. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+#### [29. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ##### Documentation
 
 *   [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
     Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 
-#### [32. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+#### [30. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ##### Top / Game Engine resources
 
@@ -506,7 +429,166 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Nocterm (⭐312)](https://github.com/Norbert515/nocterm) <!--stargazers:Norbert515/nocterm--> - TUI framework for Dart with Flutter-like patterns (StatefulComponent, setState, Row, Column) and hot reload by [Norbert Kozsir](https://github.com/Norbert515)
 
-#### [33. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [31. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Miscellaneous
+
+*   [Patternia (⭐133)](https://github.com/sentomk/patternia) - Providing pattern matching for modern c++. \[MIT] [website](https://patternia.tech/)
+
+#### [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+##### no-std crates / WIP
+
+*   [uf-ahrs](https://crates.io/crates/uf-ahrs): AHRS sensor fusion library for embedded and `no_std` environments, implementing `Mahony`, `Madgwick`, and `VQF` filters. - [![crates.io](https://img.shields.io/crates/v/uf-ahrs.svg)](https://crates.io/crates/uf-ahrs)
+
+#### [33. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / AI & LLM Testing
+
+*   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
+
+#### [34. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+
+##### Status Lines 📊 / General
+
+*   [Claude HUD (⭐20k)](https://github.com/jarrodwatts/claude-hud) by [Jarrod Watts](https://github.com/jarrodwatts) - A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.
+
+#### [35. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+##### Software / Configuration Management
+
+*   [CINC](https://cinc.sh/) - Free distribution of [Chef](https://www.chef.io/products/chef-infra), a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://gitlab.com/cinc-project/upstream/chef)) `Apache-2.0` `Ruby`
+*   [OpenVox](https://voxpupuli.org/openvox/) - Community fork of the last open source version of [Puppet](https://www.puppet.com/), a software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐157)](https://github.com/OpenVoxProject/openvox)) `Apache-2.0` `Ruby/C`
+
+##### Software / IT Asset Management
+
+*   [openDCIM](https://opendcim.org/) - GPL v3 Data Center Inventory Management (DCIM). ([Source Code (⭐346)](https://github.com/opendcim/openDCIM), [Demo](https://opendcim.org/demo.html)) `GPL-3.0` `PHP/JavaScript`
+
+#### [36. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+
+##### Legend
+
+*   🔥 **Hot** — one of the top-10% most-starred GitHub repos in its category (requires at least 5 GitHub entries in the category).
+*   🫡 **Actively maintained** — last commit within 90 days and a release within the last year.
+*   🪦 **Graveyard** — archived on GitHub or no commits/releases in the last three years. Graveyard entries live in a collapsed block at the bottom of their section and are kept for historical reference. Pinned entries are never moved here.
+
+##### Events: Meet the community
+
+*   [MageUnconference Netherlands](https://mageunconference.nl/) 🫡 - Magento unconference held in the Netherlands.
+*   [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
+
+##### Front-ends / Meet Magento
+
+*   [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
+*   [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
+*   [Alokai (⭐11k)](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
+*   [ScandiPWA (⭐552)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
+*   [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
+*   [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
+*   [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
+
+##### Tools / Meet Magento
+
+*   [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
+
+##### Open Source Extensions / Development Utilities
+
+*   [Magewire PHP (⭐256)](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+
+##### Open Source Extensions / Deployment
+
+*   [easyaudit-cli (⭐14)](https://github.com/crealoz/easyaudit-cli) - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
+
+##### Open Source Extensions / CMS
+
+*   [hyva-ai-tools (⭐61)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+*   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
+
+##### Open Source Extensions / Adminhtml / Backend
+
+*   [magento2-hyva-admin (⭐175)](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+*   [theme-adminhtml-m137 (⭐36)](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
+
+##### Open Source Extensions / Infrastructure
+
+*   [magento-cache-clean (⭐48)](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
+*   [module-theme-optimization (⭐41)](https://github.com/mage-os/module-theme-optimization) - bfcache, speculative loading, and view transitions for Magento
+
+##### Open Source Extensions / Progressive Web Application
+
+*   [magento2-default-theme (⭐74)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
+*   [magento2-default-theme-csp (⭐15)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
+*   [magento2-theme-module (⭐22)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
+
+##### Blogs / Other
+
+*   [MageTalk](http://magetalk.com/) - Community podcast by Kalen Jordan and Phillip Jackson.
+
+##### Learning / Other
+
+*   [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
+*   [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D) - Free YouTube series for learning Magento 2.
+
+##### Official Resources / Other
+
+*   [Magento GitHub Repository (⭐12k)](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
+*   [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
+
+##### Influencing People / Other
+
+*   [Alan Storm](https://alanstorm.com/) - Prolific Magento tech writer and creator of Pestle.
+*   [Alessandro Ronchi](https://github.com/aleron75) - Co-founder of ExtDN; maintainer of Mageres.
+*   [Anna Völkl](https://github.com/avoelkl) - integer\_net; regular speaker and language-pack contributor.
+*   [Ben Marks](https://twitter.com/benmarks) - Former Magento Evangelist; long-time community advocate.
+*   [David Alger](https://davidalger.com/) - Creator of Warden; long-time Magento infrastructure voice.
+*   [Fabian Schmengler](https://github.com/schmengler) - integer\_net; frequent conference speaker on Magento 2 architecture.
+*   [Ivan Chepurnyi](https://github.com/EcomDev) - Long-time core contributor; speaker.
+*   [Jisse Reitsma](https://github.com/jreitsma) - Founder of Yireo; trainer and book author.
+*   [Kalen Jordan](http://magetalk.com/) - Co-host of MageTalk podcast.
+*   [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento; educator on YouTube.
+*   [Mathias Elle](https://github.com/MathiasElle) - Author of the Magento Log Viewer VS Code extension.
+*   [Max Pronko](https://github.com/maxpronko) - Trainer; runs the DevChannel YouTube series.
+*   [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; open-source contributor.
+*   [Phillip Jackson](http://magetalk.com/) - Co-host of MageTalk podcast.
+*   [Riccardo Tempesta](https://github.com/rpanarin) - MageSpecialist; creator of MSP\_DevTools.
+*   [Roma Glushko](https://github.com/roma-glushko) - Maintains magento2-dev-plus-exam notes and the Tango CLI.
+*   [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
+*   [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
+
+#### [37. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+##### Training/Documentation / Introductions to Web Archiving Concepts
+
+*   [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
+*   [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
+*   [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - An attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+*   [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
+
+##### Training/Documentation / Training Materials
+
+*   [UNT Web Archiving Course (⭐23)](https://github.com/vphill/web-archiving-course)
+*   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+*   [A Whirlwind Tour of Common Crawl's Datasets using Python (⭐43)](https://github.com/commoncrawl/whirlwind-python/)
+*   [A Whirlwind Tour of Common Crawl's Datasets as a Python notebook (⭐3)](https://github.com/commoncrawl/whirlwind-python-notebook)
+*   [A Whirlwind Tour of Common Crawl's Datasets using Java (⭐3)](https://github.com/commoncrawl/whirlwind-java/)
+
+##### Training/Documentation / The WARC Standard
+
+*   [The warc-specifications](https://iipc.github.io/warc-specifications/) - A community HTML version of the official specification and hub for new proposals.
+*   [Offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/)
+
+##### Training/Documentation / For Researchers using Web Archives
+
+*   [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
+*   [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
+
+#### [38. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Gaming Software / System Related Tools
+
+*   [ConsoleMini (⭐29)](https://github.com/momenbasel/ConsoleMini) - Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/momenbasel/ConsoleMini)
+
+#### [39. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Message Queue
 
@@ -530,7 +612,15 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [claudectl (⭐61)](https://github.com/mercurialsolo/claudectl) \[[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml)
 
-#### [34. Awesome Go](/content/avelino/awesome-go/README.md)
+##### Libraries / Data visualization
+
+*   [wangjiawen2013/charton (⭐152)](https://github.com/wangjiawen2013/charton) - A layered grammar of graphics library in Rust. [![Documentation](https://img.shields.io/docsrs/charton/latest)](https://docs.rs/charton) [![Build Status](https://github.com/wangjiawen2013/charton/actions/workflows/ci.yml/badge.svg)](https://github.com/wangjiawen2013/charton/actions)
+
+#### [40. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Email
+
+*   [tickstem/verify (⭐0)](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
 
 ##### Job Scheduler
 
@@ -548,30 +638,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NotNet (⭐2)](https://github.com/nottechdm/notnet) - A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.
 
-#### [35. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Miscellaneous
-
-*   [Patternia (⭐133)](https://github.com/sentomk/patternia) - Providing pattern matching for modern c++. \[MIT] [website](https://patternia.tech/)
-
-#### [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-##### no-std crates / WIP
-
-*   [uf-ahrs](https://crates.io/crates/uf-ahrs): AHRS sensor fusion library for embedded and `no_std` environments, implementing `Mahony`, `Madgwick`, and `VQF` filters. - [![crates.io](https://img.shields.io/crates/v/uf-ahrs.svg)](https://crates.io/crates/uf-ahrs)
-
-#### [37. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / AI & LLM Testing
-
-*   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
-
-#### [38. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
-
-##### Status Lines 📊 / General
-
-*   [Claude HUD (⭐20k)](https://github.com/jarrodwatts/claude-hud) by [Jarrod Watts](https://github.com/jarrodwatts) - A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.
-
 ---
 
 - Next: [Apr 20 - Apr 26, 2026](&#x2F;content&#x2F;2026&#x2F;16&#x2F;README.md)
@@ -580,22 +646,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 386K 📝 04&#x2F;20) - :books: Freely available programming books
 2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 292K 📝 04&#x2F;22) - An opinionated list of Python frameworks, libraries, tools, and resources
-3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 287K 📝 04&#x2F;17) - A list of Free Software network services and web applications which can be hosted on your own servers
-4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 170K 📝 04&#x2F;22) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 170K 📝 04&#x2F;22) - A curated list of awesome Go frameworks, libraries and software
+4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 287K 📝 04&#x2F;17) - A list of Free Software network services and web applications which can be hosted on your own servers
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 121K 📝 04&#x2F;21) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 111K 📝 04&#x2F;21) - A collection of various awesome lists for hackers, pentesters and security researchers
-7. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 72K 📝 04&#x2F;22) - A curated list of awesome Machine Learning frameworks, libraries and software.
-8. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 102K 📝 04&#x2F;18) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 102K 📝 04&#x2F;22) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+7. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 111K 📝 04&#x2F;21) - A collection of various awesome lists for hackers, pentesters and security researchers
+8. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 72K 📝 04&#x2F;22) - A curated list of awesome Machine Learning frameworks, libraries and software.
 9. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 71K 📝 04&#x2F;22) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 10. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source](https://github.com/Solido/awesome-flutter) ⭐ 60K 📝 04&#x2F;22) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-11. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 451K 📝 04&#x2F;01) - 😎 Awesome lists about all kinds of interesting topics
-12. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 57K 📝 04&#x2F;22) - A curated list of Rust code and resources.
+11. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 57K 📝 04&#x2F;22) - A curated list of Rust code and resources.
+12. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 451K 📝 04&#x2F;01) - 😎 Awesome lists about all kinds of interesting topics
 13. [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source](https://github.com/f/awesome-chatgpt-prompts) ⭐ 160K 📝 04&#x2F;08) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 14. [Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md) - ([Source](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 38K 📝 04&#x2F;22) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-15. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 04&#x2F;21) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-16. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 04&#x2F;20) - :whale: A curated list of Docker resources and projects
-17. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source](https://github.com/MunGell/awesome-for-beginners) ⭐ 84K 📝 04&#x2F;11) - A list of awesome beginners-friendly projects.
-18. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 34K 📝 04&#x2F;20) - A curated list of amazingly awesome open-source sysadmin resources.
+15. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 34K 📝 04&#x2F;22) - A curated list of amazingly awesome open-source sysadmin resources.
+16. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source](https://github.com/sorrycc/awesome-javascript) ⭐ 35K 📝 04&#x2F;21) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+17. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 04&#x2F;20) - :whale: A curated list of Docker resources and projects
+18. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source](https://github.com/MunGell/awesome-for-beginners) ⭐ 84K 📝 04&#x2F;11) - A list of awesome beginners-friendly projects.
 19. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 26K 📝 04&#x2F;21) - :scream: A curated list of amazingly awesome OSINT
 20. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 04&#x2F;22) - Collections of awesome neovim plugins.
 21. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source](https://github.com/tayllan/awesome-algorithms) ⭐ 25K 📝 04&#x2F;19) - A curated list of awesome places to learn and/or practice algorithms.
@@ -835,7 +901,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Qgis](/content/totpero/awesome-qgis/README.md) - ([Source ⭐ 25, 📝 03&#x2F;27 ](https://github.com/totpero/awesome-qgis)) - An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 - [Awesome Shell](/content/alebcay/awesome-shell/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;02&#x2F;20 ](https://github.com/alebcay/awesome-shell)) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Ssh](/content/moul/awesome-ssh/README.md) - ([Source ⭐ 2K, 📝 21&#x2F;09&#x2F;14 ](https://github.com/moul/awesome-ssh)) - :computer: A curated list of SSH resources.
-- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 34K, 📝 04&#x2F;20 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
+- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 34K, 📝 04&#x2F;22 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Awesome Terminals](/content/cdleon/awesome-terminals/README.md) - ([Source ⭐ 2.6K, 📝 25&#x2F;09&#x2F;22 ](https://github.com/cdleon/awesome-terminals)) - Terminal Emulators
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 9.7K, 📝 03&#x2F;30 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 6.3K, 📝 03&#x2F;31 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
@@ -907,7 +973,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Js Tooling in Rust](/content/karimould/awesome-js-tooling-in-rust/README.md) - ([Source ⭐ 421, 📝 24&#x2F;12&#x2F;28 ](https://github.com/karimould/awesome-js-tooling-in-rust)) - A curated list of JavaScript tooling written in Rust
 - [Awesome Knockout](/content/dnbard/awesome-knockout/README.md) - ([Source ⭐ 91, 📝 16&#x2F;05&#x2F;06 ](https://github.com/dnbard/awesome-knockout)) - A curated list of awesome plugins for Knockout
 - [Awesome Less](/content/LucasBassetti/awesome-less/README.md) - ([Source ⭐ 52, 📝 17&#x2F;05&#x2F;10 ](https://github.com/LucasBassetti/awesome-less)) - :sunglasses: A curated list of awesome {Less}
-- [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source ⭐ 1.7K, 📝 04&#x2F;20 ](https://github.com/web-padawan/awesome-lit)) - A curated list of awesome Lit resources.
+- [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source ⭐ 1.7K, 📝 04&#x2F;22 ](https://github.com/web-padawan/awesome-lit)) - A curated list of awesome Lit resources.
 - [Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md) - ([Source ⭐ 154, 📝 17&#x2F;01&#x2F;01 ](https://github.com/sadcitizen/awesome-marionette)) - A list of resources for marionette.js
 - [Awesome Material](/content/sachin1092/awesome-material/README.md) - ([Source ⭐ 593, 📝 22&#x2F;10&#x2F;05 ](https://github.com/sachin1092/awesome-material)) - A curated list of Google's material design libraries for different frameworks.
 - [Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md) - ([Source ⭐ 219, 📝 24&#x2F;08&#x2F;28 ](https://github.com/nadunindunil/awesome-material-ui)) - A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date 
@@ -1134,7 +1200,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 451K, 📝 04&#x2F;01 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 - [Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md) - ([Source ⭐ 574, 📝 04&#x2F;13 ](https://github.com/antdimot/awesome-lowcode)) - A collection of Awesome low-code development platform (LCDP).
 - [Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md) - ([Source ⭐ 4.2K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/agarrharr/awesome-macos-screensavers)) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
-- [Awesome Magento2](/content/run-as-root/awesome-magento2/README.md) - ([Source ⭐ 1.2K, 📝 04&#x2F;20 ](https://github.com/run-as-root/awesome-magento2)) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
+- [Awesome Magento2](/content/run-as-root/awesome-magento2/README.md) - ([Source ⭐ 1.2K, 📝 04&#x2F;22 ](https://github.com/run-as-root/awesome-magento2)) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 - [Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;08&#x2F;14 ](https://github.com/nayafia/awesome-maintainers)) - Talks, blog posts, and interviews about the experience of being an open source maintainer
 - [Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md) - ([Source ⭐ 668, 📝 22&#x2F;05&#x2F;26 ](https://github.com/BubuAnabelas/awesome-markdown)) - :memo: Delightful Markdown stuff.
 - [Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md) - ([Source ⭐ 204, 📝 25&#x2F;11&#x2F;24 ](https://github.com/marketingtoolslist/awesome-marketing)) - A curated list of awesome marketing tools and resources
@@ -1187,7 +1253,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.6K, 📝 25&#x2F;03&#x2F;14 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 3.2K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
-- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.5K, 📝 03&#x2F;18 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.5K, 📝 04&#x2F;22 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
 - [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 279, 📝 23&#x2F;09&#x2F;10 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 261, 📝 03&#x2F;08 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
@@ -1257,7 +1323,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 433, 📝 04&#x2F;05 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 102K, 📝 04&#x2F;18 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 102K, 📝 04&#x2F;22 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 9, 📝 04&#x2F;17 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4.9K, 📝 02&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 65K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
