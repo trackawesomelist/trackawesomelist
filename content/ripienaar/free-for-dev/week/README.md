@@ -12,6 +12,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
 
+### Email
+
+*   [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
+*   [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Email

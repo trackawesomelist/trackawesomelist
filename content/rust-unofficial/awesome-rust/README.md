@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [tabularis (⭐1.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
+### Applications / System tools
+
+*   [bolivian-peru/os-moda (⭐86)](https://github.com/bolivian-peru/os-moda) - NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise\_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Applications / Productivity

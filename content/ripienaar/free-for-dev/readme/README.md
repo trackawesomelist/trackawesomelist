@@ -886,11 +886,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Mailtrap.io](https://mailtrap.io/) - Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
 *   [Mutant Mail](https://www.mutantmail.com/) - Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
 *   [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
+*   [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
 *   [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
 *   [Plunk](https://useplunk.com) - 3K emails/month for free
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
 *   [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
+*   [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
 *   [Sender](https://www.sender.net) - Up to 15,000 emails/month, up to 2,500 subscribers
 *   [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
 *   [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
