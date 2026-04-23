@@ -68,6 +68,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
                 *   [Spatial Foundation Models](#spatial-foundation-models)
                 *   [Multi-Omics Foundation Models](#multi-omics-foundation-models)
                 *   [Domain Alignment](#domain-alignment)
+            *   [Compound Foundation Models](#compound-foundation-models)
+                *   [Compound Embedding](#compound-embedding)
             *   [Protein Foundation Models](#protein-foundation-models)
                 *   [Pre-trained Embedding](#pre-trained-embedding)
                 *   [Protein Structure Prediction and Design](#protein-structure-prediction-and-design)
@@ -417,12 +419,21 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 *   [scArches (⭐402)](https://github.com/theislab/scarches) — Transfer learning framework for mapping new single-cell datasets onto pre-trained reference atlases across batches, conditions, and modalities.
 *   [TOSICA](https://github.com/JackieHanlaopo/TOSICA) — Transformer-based framework for one-stop interpretable cell-type annotation supporting cross-dataset and cross-species transfer.
 
+#### Compound Foundation Models
+
+##### Compound Embedding
+
+*   [ChemBERTa-2 (⭐489)](https://github.com/seyonechithrananda/bert-loves-chemistry) — RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.
+*   [GROVER (⭐387)](https://github.com/tencent-ailab/grover) — Self-supervised graph transformer for large-scale molecular representation learning from unlabeled compounds.
+*   [Mol2Vec (⭐289)](https://github.com/samoturk/mol2vec) — Unsupervised molecular embedding method inspired by Word2Vec for learning vector representations of chemical substructures.
+*   [MolFormer (⭐389)](https://github.com/IBM/molformer) — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
+*   [Uni-Mol (⭐1.1k)](https://github.com/deepmodeling/Uni-Mol) — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+
 #### Protein Foundation Models
 
 ##### Pre-trained Embedding
 
 *   [Evolutionary Scale Modeling (ESM) (⭐4k)](https://github.com/facebookresearch/esm) — Protein embeddings.
-*   [ChemBERTa-2 (⭐489)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
 *   [ProtTrans (⭐1.3k)](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
 *   [ProGen2 (⭐697)](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
 *   [Ankh (⭐246)](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.

@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
+### Applications / Database
+
+*   [tabularis (⭐1.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+
 ### Applications / Message Queue
 
 *   [lonewolf-io/Narwhal (⭐129)](https://github.com/lonewolf-io/narwhal) - An extensible pub/sub messaging server for edge applications.
@@ -400,10 +404,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [vortix (⭐410)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
-
-### Applications / Database
-
-*   [debba/tabularis (⭐1.2k)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
 ### Applications / Operating systems
 

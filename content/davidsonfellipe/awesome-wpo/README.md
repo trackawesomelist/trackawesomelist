@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/davidsonfellipe/awesome-wpo/week/README.md) / [Overview](/content/davidsonfellipe/awesome-wpo/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Events / Conferences
+
+*   [PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Documentation
@@ -260,7 +266,6 @@
 ### Events / Conferences
 
 *   [performance.now()](https://perfnow.nl/) - The performance.now() conference will return to Amsterdam! We're a single-track conference with fourteen world-class speakers, covering today’s most important web performance insights.
-*   [#PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
 ## [Sep 25, 2020](/content/2020/09/25/README.md)
 

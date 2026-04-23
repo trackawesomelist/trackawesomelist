@@ -1576,6 +1576,7 @@ then it is not supported:
 
 ## Editing Support
 
+*   [DrKJeff16/shebang.nvim (⭐3)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
 *   [nxhung2304/lastplace.nvim (⭐25)](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
 *   [attilarepka/header.nvim (⭐40)](https://github.com/attilarepka/header.nvim) - Add or update copyright and license headers in any source file.
 *   [rlychrisg/truncateline.nvim (⭐21)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.

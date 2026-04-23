@@ -13,6 +13,10 @@
 *   [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
     Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 
+### Events / Conferences
+
+*   [PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Books
@@ -242,7 +246,6 @@
 ### Events / Conferences
 
 *   [performance.now()](https://perfnow.nl/) - The performance.now() conference will return to Amsterdam! We're a single-track conference with fourteen world-class speakers, covering today’s most important web performance insights.
-*   [#PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 

@@ -12,6 +12,10 @@ A curated list of testing resources
 
 *   [AgentSkeptic (⭐0)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 
+### Software / Service Virtualization
+
+*   [fakecloud (⭐163)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Software / Accessibility & Usability Testing

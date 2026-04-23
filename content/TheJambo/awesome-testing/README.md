@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Software / Service Virtualization
+
+*   [fakecloud (⭐163)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Software / AI & LLM Testing

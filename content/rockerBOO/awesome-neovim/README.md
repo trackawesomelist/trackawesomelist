@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Editing Support / Scrollbar
+
+*   [DrKJeff16/shebang.nvim (⭐3)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Programming Languages Support / Diagnostics

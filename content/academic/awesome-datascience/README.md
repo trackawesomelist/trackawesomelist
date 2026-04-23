@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
+
 ## [Apr 17, 2026](/content/2026/04/17/README.md)
 
 ### Datasets / Book Deals (Affiliated)

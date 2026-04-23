@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Piebald-AI/awesome-gemini-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) · ⭐ 383 · 🏷️ Agentic AI
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Piebald-AI/awesome-gemini-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) · ⭐ 422 · 🏷️ Agentic AI
 
 [ [Daily](/content/Piebald-AI/awesome-gemini-cli/README.md) / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / Overview ]
 
@@ -41,7 +41,7 @@ Download it and try it out for free!  **<https://piebald.ai/>**
 
 <a href="https://github.com/google-gemini/gemini-cli" rel="noopener"><img width="4339" height="1373" alt="banner" src="https://github.com/Piebald-AI/awesome-gemini-cli/raw/main/./assets/banner.png" /></a>
 
-A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐100k)](https://github.com/google-gemini/gemini-cli)—an open-source AI agent that brings the power of Gemini directly into your terminal.  See also: [Awesome Gemini CLI Extensions (⭐46)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions).
+A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐102k)](https://github.com/google-gemini/gemini-cli)—an open-source AI agent that brings the power of Gemini directly into your terminal.  See also: [Awesome Gemini CLI Extensions (⭐50)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions).
 
 **Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
 
@@ -51,20 +51,21 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 
 ## :tada: New
 
-*   [Maestro (⭐277)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
-*   [Task Monitor (⭐3)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
-*   [Signum (⭐12)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
+*   [Maestro (⭐369)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
+*   [Task Monitor (⭐5)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
+*   [Signum (⭐14)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
 *   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
-*   [ATXP (⭐15)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
-*   [Untether (⭐25)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
-*   [Parallel Code (⭐470)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
-*   [wolfpack (⭐20)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
-*   [Xquik MCP (⭐29)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
-*   [rule-gen (⭐4)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
+*   [ATXP (⭐22)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
+*   [Untether (⭐37)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
+*   [Parallel Code (⭐540)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+*   [wolfpack (⭐27)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
+*   [Xquik MCP (⭐53)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
+*   [rule-gen (⭐6)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
 *   [BGPT MCP (⭐16)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [Helium MCP (⭐1)](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. 9 tools, free tier. Works with any MCP client including Gemini CLI.
 
 > \[!tip]
-> **Track your local Gemini CLI usage with [Splitrail (⭐141)](https://github.com/Piebald-AI/splitrail).**
+> **Track your local Gemini CLI usage with [Splitrail (⭐168)](https://github.com/Piebald-AI/splitrail).**
 
 ## Contents
 
@@ -89,7 +90,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 
 Core tools and resources maintained by the Gemini CLI team.
 
-*   [Gemini CLI (⭐100k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
+*   [Gemini CLI (⭐102k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
 *   [Gemini CLI cookbook (⭐17k)](https://github.com/google-gemini/cookbook) - Official collection of examples and guides demonstrating best practices for using the Gemini API. Essential resource for developers getting started.
 *   [Run Gemini CLI (⭐1.9k)](https://github.com/google-github-actions/run-gemini-cli) - Official GitHub Action that seamlessly integrates Gemini into your CI/CD pipeline, enabling automated code reviews, testing, and documentation generation.
 
@@ -97,8 +98,8 @@ Core tools and resources maintained by the Gemini CLI team.
 
 Alternative user interfaces and frontends for interacting with Gemini CLI beyond the terminal.
 
-*   [Gemini CLI Desktop (⭐363)](https://github.com/Piebald-AI/gemini-CLI-desktop) - Beautiful desktop and web UI that makes Gemini CLI accessible to non-terminal/mobile users while preserving all its powerful features.
-*   [AionUi (⭐21k)](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more.
+*   [Gemini CLI Desktop (⭐410)](https://github.com/Piebald-AI/gemini-CLI-desktop) - Beautiful desktop and web UI that makes Gemini CLI accessible to non-terminal/mobile users while preserving all its powerful features.
+*   [AionUi (⭐22k)](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more.
 *   [Yaw](https://yaw.sh) - Cross-platform terminal that auto-detects Gemini CLI and opens a split-pane workflow with a companion terminal.
 *   [Termly](https://termly.dev/) - Free native iOS and Android app to monitor and control Gemini CLI (and other CLI AI assistants) remotely. Zero-knowledge E2E encryption, pairs in under 60 seconds via QR code. No subscriptions, no usage limits.
 
@@ -106,46 +107,46 @@ Alternative user interfaces and frontends for interacting with Gemini CLI beyond
 
 Modified versions of Gemini CLI with enhanced features or alternative model support.
 
-*   [LLxprt Code (⭐656)](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of Gemini CLI. Use whatever LLM you want to code in your terminal.
+*   [LLxprt Code (⭐667)](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of Gemini CLI. Use whatever LLM you want to code in your terminal.
 *   [iFlow CLI (⭐5.1k)](https://github.com/iflow-ai/iflow-cli) - Powerful fork that extends Gemini CLI with repository analysis, context interpretation, and complex workflow automation. Perfect for teams needing advanced orchestration capabilities.
-*   [Qwen Code (⭐22k)](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+*   [Qwen Code (⭐24k)](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Agent Orchestration & CLI Tools
 
-*   [Bernstein (⭐32)](https://github.com/chernistry/bernstein) - Multi-agent orchestrator that coordinates Gemini CLI alongside Claude Code and Codex CLI. Spawns parallel coding agents from a single goal, verifies with tests, auto-commits. Deterministic Python coordination, zero LLM tokens on orchestration.
+*   [Bernstein (⭐158)](https://github.com/chernistry/bernstein) - Multi-agent orchestrator that coordinates Gemini CLI alongside Claude Code and Codex CLI. Spawns parallel coding agents from a single goal, verifies with tests, auto-commits. Deterministic Python coordination, zero LLM tokens on orchestration.
 *   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
 *   [hcom (⭐207)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
-*   [squads-cli (⭐38)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
-*   [wolfpack (⭐20)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
-*   [Untether (⭐25)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
-*   [Parallel Code (⭐470)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
-*   [clideck (⭐35)](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.
+*   [squads-cli (⭐43)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
+*   [wolfpack (⭐27)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
+*   [Untether (⭐37)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
+*   [Parallel Code (⭐540)](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+*   [clideck (⭐58)](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (including Gemini CLI) in one browser window. Live status, session resume, autopilot that routes work between agents while afk, mobile remote to check in from a phone.
 
 ## Commands & Extensions
 
-**👉 See also: [Awesome Gemini CLI Extensions (⭐46)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
+**👉 See also: [Awesome Gemini CLI Extensions (⭐50)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
 Custom commands and extensions that add new capabilities to Gemini CLI.
 
-*   [Task Monitor (⭐3)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
-*   [ATXP (⭐15)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
-*   [brooks-lint (⭐10)](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in six classic engineering books. Diagnoses decay risks with structured findings (Symptom → Source → Consequence → Remedy).
+*   [Task Monitor (⭐5)](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
+*   [ATXP (⭐22)](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
+*   [brooks-lint (⭐49)](https://github.com/hyhmrright/brooks-lint) - AI code reviews grounded in six classic engineering books. Diagnoses decay risks with structured findings (Symptom → Source → Consequence → Remedy).
 *   [gemini-notifier (⭐21)](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.
-*   [Pickle Rick (⭐433)](http://github.com/galz10/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
-*   [gemini-beads (⭐22)](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
-*   [Conductor (⭐3.4k)](http://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
+*   [Pickle Rick (⭐448)](http://github.com/galz10/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
+*   [gemini-beads (⭐24)](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
+*   [Conductor (⭐3.5k)](http://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 *   [Listen (⭐13)](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
-*   [Screenshare (⭐19)](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
+*   [Screenshare (⭐20)](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 *   [pyATS (⭐10)](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 *   [Subnet calculator (⭐3)](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 *   [Packet Buddy (⭐20)](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 *   [Flutter Gemini CLI extension](https://github.com/flutter/gemini-cli-extension) - Official extension for Gemini CLI that assists with creating and maintaining Flutter code.
-*   [gemini-cli-on-vscode (⭐15)](https://github.com/d3j/gemini-cli-on-vscode) - MAGUS Council: World's first? 4-AI consultation system (Gemini+Claude+GPT-5+Qwen) in VS Code - Revolutionary multi-agent development environment
+*   [gemini-cli-on-vscode (⭐16)](https://github.com/d3j/gemini-cli-on-vscode) - MAGUS Council: World's first? 4-AI consultation system (Gemini+Claude+GPT-5+Qwen) in VS Code - Revolutionary multi-agent development environment
 *   [GeminiCLI\_Slash\_Listen (⭐20)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
 *   [gemini-cli-custom-slash-commands (⭐167)](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.
-*   [gemini-flow (⭐378)](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
+*   [gemini-flow (⭐380)](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
 *   [**ru-text**](https://github.com/talkstream/ru-text) - Russian text quality — \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
 *   [TokRepo Search Skill (⭐2)](https://github.com/henu-wang/tokrepo-search-skill) - Cross-platform TokRepo skill with Gemini extension files for finding and installing AI assets such as prompts, MCP configs, workflows, and reusable skills.
-*   [dRPC Agent Skills (⭐10)](https://github.com/drpcorg/drpc-agent-skills) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
+*   [dRPC Agent Skills (⭐16)](https://github.com/drpcorg/drpc-agent-skills) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
 *   [OpenAccountants (⭐10)](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
 
 ## Fun
@@ -160,11 +161,11 @@ Tools that enhance your development workflow when using Gemini CLI.
 
 *   [CCHub (⭐54)](https://github.com/Moresl/cchub) - Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.
 
-*   [agnix (⭐135)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
+*   [agnix (⭐196)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 
-*   [Self Command (⭐20)](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
+*   [Self Command (⭐24)](https://github.com/stevenAthompson/self-command) - Allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux. Reduces usage and improves reliability by avoiding loop detection. After installing the extension you must lauch gemini-cli into a tmux session named "gemini-cli".
 
-*   [vsync (⭐32)](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
+*   [vsync (⭐41)](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 
 *   [Gemini Dockerized CLI (⭐4)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 
@@ -174,68 +175,69 @@ Tools that enhance your development workflow when using Gemini CLI.
 
 *   [Rulesync (⭐994)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 
-*   [Nix AI Tools (⭐921)](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
+*   [Nix AI Tools (⭐1.1k)](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
 
-*   [Terminal Jarvis (⭐124)](https://github.com/BA-CalderonMorales/terminal-jarvis) - Ultimate command center unifying multiple AI coding assistants in one elegant interface. Switch between tools seamlessly and manage sessions efficiently.
+*   [Terminal Jarvis (⭐129)](https://github.com/BA-CalderonMorales/terminal-jarvis) - Ultimate command center unifying multiple AI coding assistants in one elegant interface. Switch between tools seamlessly and manage sessions efficiently.
 
-*   [rule-gen (⭐4)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
+*   [rule-gen (⭐6)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
 
-*   [Splitrail (⭐141)](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
+*   [Splitrail (⭐168)](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
 
-*   [ccmanager (⭐976)](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
+*   [ccmanager (⭐1k)](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
 
 *   [codebase-recon (⭐2)](https://github.com/yujiachen-y/codebase-recon-skill) - AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.
 
-*   [Gemini CLI Logs Prettifier (⭐12)](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
+*   [Gemini CLI Logs Prettifier (⭐13)](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
 
-*   [Signum (⭐12)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
+*   [Signum (⭐14)](https://github.com/heurema/signum) - Evidence-driven development pipeline that uses Gemini CLI as one of three independent reviewers in a multi-model code audit panel (alongside Claude and Codex).
 
 ## Browser Extensions
 
-*   [SRT Subtitle Translator Validator (⭐57)](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.
+*   [SRT Subtitle Translator Validator (⭐64)](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.
 
 ## SDKs
 
 Software development kits and libraries for integrating Gemini CLI into your applications.
 
-*   [Python Gemini CLI SDK (⭐17)](https://github.com/oneryalcin/gemini-cli-sdk) - Python SDK for Gemini CLI; API-compatible with Claude Code SDK.
-*   [Gemini CLI Vercel AI SDK Provider (⭐68)](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - Seamless Vercel AI SDK integration that unlocks Gemini's capabilities in Next.js and React applications with minimal configuration.
+*   [Python Gemini CLI SDK (⭐18)](https://github.com/oneryalcin/gemini-cli-sdk) - Python SDK for Gemini CLI; API-compatible with Claude Code SDK.
+*   [Gemini CLI Vercel AI SDK Provider (⭐71)](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - Seamless Vercel AI SDK integration that unlocks Gemini's capabilities in Next.js and React applications with minimal configuration.
 
 ## API Bridges & Proxies
 
 Services that expose Gemini CLI functionality through standard API protocols.
 
-*   [geminicli2api (⭐570)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
+*   [geminicli2api (⭐579)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
 *   [Gemini CLI Termux (⭐166)](https://github.com/print-yuhuan/Gemini-CLI-Termux) - Provides a one-click deployment solution for Gemini CLI reverse proxy service for Android Termux users.
 *   [gemini-openai-proxy (⭐52)](https://github.com/Brioch/gemini-openai-proxy) - Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.
-*   [gemini-cli-openai (⭐871)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
-*   [gemini-cli-proxy (⭐140)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
+*   [gemini-cli-openai (⭐877)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
+*   [gemini-cli-proxy (⭐141)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
 *   [CLIProxyAPI](https://github.com/router-form-me/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
-*   [gemini-cli-mcp-openai-bridge (⭐135)](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
+*   [gemini-cli-mcp-openai-bridge (⭐138)](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 
 ## Prompts
 
-*   [gemini-cli-prompt-library (⭐366)](https://github.com/harish-garg/gemini-cli-prompt-library) - 30+ professional prompts for Gemini CLI.
+*   [gemini-cli-prompt-library (⭐385)](https://github.com/harish-garg/gemini-cli-prompt-library) - 30+ professional prompts for Gemini CLI.
 
 ## MCP Servers
 
 Model Context Protocol servers that enable Gemini CLI integration with other AI tools.
 
 *   [BGPT MCP (⭐16)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
-*   [ToolsForMCPServer (⭐99)](https://github.com/tanaikech/ToolsForMCPServer) - Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.
-*   [gemini-mcp-tool (⭐2.1k)](https://github.com/jamubc/gemini-mcp-tool) - Leverages Gemini's industry-leading 2M token context window through MCP, enabling analysis of entire codebases and large documents that other tools can't handle.
-*   [mcp-gemini-cli (⭐97)](https://github.com/choplin/mcp-gemini-cli) - A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI.
-*   [gemini-cli-mcp (⭐28)](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.
+*   [Helium MCP (⭐1)](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. 9 tools, free tier. Works with any MCP client including Gemini CLI.
+*   [ToolsForMCPServer (⭐100)](https://github.com/tanaikech/ToolsForMCPServer) - Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.
+*   [gemini-mcp-tool (⭐2.2k)](https://github.com/jamubc/gemini-mcp-tool) - Leverages Gemini's industry-leading 2M token context window through MCP, enabling analysis of entire codebases and large documents that other tools can't handle.
+*   [mcp-gemini-cli (⭐101)](https://github.com/choplin/mcp-gemini-cli) - A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI.
+*   [gemini-cli-mcp (⭐29)](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.
 *   [gemini-mcp (⭐8)](https://github.com/neriousy/gemini-mcp) - A simple MCP server for using the Gemini CLI.
-*   [gemini-cli-mcp (⭐5)](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.
-*   [Xquik MCP (⭐29)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
+*   [gemini-cli-mcp](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.
+*   [Xquik MCP (⭐53)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 *   [TokRepo MCP Server (⭐0)](https://github.com/henu-wang/tokrepo-mcp-server) - Search and install AI skills, prompts, MCP configs, and workflows from TokRepo from Gemini CLI and other MCP clients.
 
 ## Neovim Plugins
 
 Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
-*   [nvim Gemini Companion (⭐78)](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen Code now).
+*   [nvim Gemini Companion (⭐80)](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen Code now).
 *   [gemini-cli.nvim (⭐54)](https://github.com/JonRoosevelt/gemini-cli.nvim) - Native Neovim integration bringing Gemini's AI capabilities directly into your editor with keybindings, commands, and buffer manipulation support.
 *   [gemini-nvim (⭐6)](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
 
@@ -243,9 +245,9 @@ Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
 Frameworks for building AI-powered development workflows with Gemini CLI.
 
-*   [Maestro (⭐277)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
-*   [GACUA (⭐131)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
-*   [gemini-code-flow (⭐152)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
+*   [Maestro (⭐369)](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
+*   [GACUA (⭐133)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
+*   [gemini-code-flow (⭐154)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 *   [gemini-cli-commands-demo (⭐92)](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.
 
 ## Documentation & Examples
@@ -257,13 +259,14 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 *   [gemini-docs-ext (⭐52)](https://github.com/markmcd/gemini-docs-ext) - Gemini CLI extension that adds Gemini API docs and MCP.
 *   [gemini-cli-media-generation (⭐19)](https://github.com/vladkol/gemini-cli-media-generation) - An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model (Nano-banana)
 *   [gemini-cli-demos (⭐14)](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
-*   [cli-demo-cookbook (⭐10)](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
+*   [cli-demo-cookbook (⭐11)](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
 
 ## Non-Gemini CLI
 
 Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gemini.
 
 *   [Git-Alchemist (⭐21)](https://github.com/abduznik/Git-Alchemist) - A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.
+*   [toprank (⭐452)](https://github.com/nowork-studio/toprank) - Claude Code plugin for SEO and Google Ads that includes a Gemini cross-model review skill. Uses Gemini for second-opinion reviews on Google Ads campaigns, SEO metadata, and schema markup — leveraging Gemini's native Google ecosystem knowledge for higher-quality decisions than Claude alone. MIT, 107 stars.
 
 ## Contributing
 

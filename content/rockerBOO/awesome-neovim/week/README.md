@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [J-Cowsert/classlayout.nvim (⭐36)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 
+### Editing Support / Scrollbar
+
+*   [DrKJeff16/shebang.nvim (⭐3)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
+
 ### Editing Support / Comment
 
 *   [jeangiraldoo/codedocs.nvim (⭐77)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.

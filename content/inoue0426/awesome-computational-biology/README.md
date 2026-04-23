@@ -6,6 +6,15 @@ Awesome list of computational biology.
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Compound Foundation Models / Compound Embedding
+
+*   [GROVER (⭐387)](https://github.com/tencent-ailab/grover) — Self-supervised graph transformer for large-scale molecular representation learning from unlabeled compounds.
+*   [Mol2Vec (⭐289)](https://github.com/samoturk/mol2vec) — Unsupervised molecular embedding method inspired by Word2Vec for learning vector representations of chemical substructures.
+*   [MolFormer (⭐389)](https://github.com/IBM/molformer) — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
+*   [Uni-Mol (⭐1.1k)](https://github.com/deepmodeling/Uni-Mol) — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
 ### Benchmarks & Datasets
@@ -540,9 +549,9 @@ Awesome list of computational biology.
 *   [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) — LLM for chemical & molecular science.
 *   [BioGPT (⭐4.5k)](https://github.com/microsoft/BioGPT) — LLM for biomedical text generation.
 
-### Protein Foundation Models / Pre-trained Embedding
+### Compound Foundation Models / Compound Embedding
 
-*   [ChemBERTa-2 (⭐489)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
+*   [ChemBERTa-2 (⭐489)](https://github.com/seyonechithrananda/bert-loves-chemistry) — RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.
 
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 

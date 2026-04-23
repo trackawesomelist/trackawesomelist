@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 23, 2026](/content/2026/04/23/README.md)
+
+### Applications / Database
+
+*   [tabularis (⭐1.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Applications / Productivity
@@ -516,10 +522,6 @@ A curated list of Rust code and resources.
 *   [cong-or/hud (⭐154)](https://github.com/cong-or/hud) - Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
-
-### Applications / Database
-
-*   [debba/tabularis (⭐1.2k)](https://github.com/debba/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
 ### Libraries / Data processing
 

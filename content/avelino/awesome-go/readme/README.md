@@ -352,7 +352,7 @@ Please take a quick gander at the [contribution guidelines (⭐170k)](https://gi
 *   [telegram-bot-api (⭐6.4k)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 *   [TG (⭐48)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 *   [wayback (⭐2.2k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
-*   [ymsdk (⭐3)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
+*   [ymsdk (⭐4)](https://github.com/rekurt/ymsdk) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
     *   [Wisp (⭐8)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 **[⬆ back to top](#contents)**
@@ -2114,6 +2114,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [lhttp (⭐688)](https://github.com/fanux/lhttp) - Powerful websocket framework, build your IM server more easily.
 *   [linkio (⭐54)](https://github.com/ian-kent/linkio) - Network link speed simulation for Reader/Writer interfaces.
 *   [llb (⭐16)](https://github.com/kirillDanshin/llb) - It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zero memory allocation and fast response.
+*   [macwifi (⭐1)](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
 *   [mdns (⭐1.4k)](https://github.com/hashicorp/mdns) - Simple mDNS (Multicast DNS) client/server library in Golang.
 *   [mqttPaho](https://eclipse.org/paho/clients/golang/) - The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
 *   [natiu-mqtt (⭐104)](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
@@ -3203,6 +3204,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [chi (⭐22k)](https://github.com/go-chi/chi) - Small, fast and expressive HTTP router built on net/context.
 *   [fasthttprouter (⭐870)](https://github.com/buaazp/fasthttprouter) - High performance router forked from `httprouter`. The first router fit for `fasthttp`.
 *   [FastRouter (⭐25)](https://github.com/razonyang/fastrouter) - a fast, flexible HTTP router written in Go.
+*   [Fox (⭐11)](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
 *   [fursy (⭐3)](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
 *   [goblin (⭐82)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 *   [gocraft/web (⭐1.5k)](https://github.com/gocraft/web) - Mux and middleware package in Go.
