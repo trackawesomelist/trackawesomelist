@@ -84,9 +84,9 @@ Build automation.
 *   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code (⭐460)](https://github.com/apache/ant)) `Apache-2.0` `Java`
 *   [Apache Maven](https://maven.apache.org/) - Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ([Source Code (⭐5k)](https://github.com/apache/maven)) `Apache-2.0` `Java`
 *   [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code (⭐25k)](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
-*   [Bolt](https://www.puppet.com/community/open-source/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐549)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 *   [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
 *   [Gradle](https://gradle.org/) - Another build automation system. ([Source Code (⭐19k)](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
+*   [OpenBolt](https://voxpupuli.org/openvox/) - Orchestration tool to run orchestration workflows or one-off tasks/scripts to automate the provisioning and management of nodes. Community fork of the last open source version of [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm). ([Source Code (⭐21)](https://github.com/OpenVoxProject/openbolt)) `Apache-2.0` `Ruby`
 *   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.4k)](https://github.com/ruby/rake)) `MIT` `Ruby`
 
 ### Backups
@@ -134,7 +134,7 @@ Build and software organization tools.
 
 Conversation-driven development and management.
 
-\_See also: [/r/chatops](https://old.reddit.com/r/chatops)\*
+*See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 
 *   [Eggdrop](https://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code (⭐568)](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 *   [Errbot](https://errbot.io/) - Plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code (⭐3.3k)](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`

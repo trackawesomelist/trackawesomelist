@@ -8,6 +8,14 @@
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
+### Security
+
+*   [pindock (⭐1)](https://github.com/deadnews/pindock) - Pin and update Docker image digests in Dockerfiles and compose files. By [deadnews](https://github.com/deadnews).
+
+### Terminal / Terminal UI
+
+*   [easydocker (⭐101)](https://github.com/joao-zanutto/easydocker) - A Terminal UI highly inpired by k9s levaraging beatiful BubbleTea graphics. By [joao-zanutto](https://github.com/joao-zanutto).
+
 ### Development Environment / Other
 
 *   [Bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for MySQL, PostgreSQL, and more, with SQL review, schema migration, and access control. By [Bytebase](https://github.com/bytebase).
@@ -56,7 +64,7 @@
 
 ### Reverse Proxy
 
-*   [idle-less (⭐16)](https://github.com/tvup/idle-less) - Reverse proxy with automatic Wake-on-LAN — wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By [tvup](https://github.com/tvup).
+*   [idle-less (⭐17)](https://github.com/tvup/idle-less) - Reverse proxy with automatic Wake-on-LAN — wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By [tvup](https://github.com/tvup).
 
 ### Volume Management / Data
 
@@ -794,7 +802,7 @@
 *   [docker-gen (⭐4.6k)](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data.
 *   [GoSu (⭐5k)](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool).
 *   [is-docker (⭐233)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container.
-*   [lstags (⭐341)](https://github.com/ivanilves/lstags) :ice\_cube: - Sync Docker images across registries.
+*   [lstags (⭐343)](https://github.com/ivanilves/lstags) :ice\_cube: - Sync Docker images across registries.
 *   [su-exec (⭐1k)](https://github.com/ncopa/su-exec) - This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa).
 *   [sue (⭐13)](https://github.com/theAkito/sue) :ice\_cube: - Executes a program as a user different from the user running sue. This is a maintainable alternative to ncopa/su-exec, which is the better tianon/gosu. This one is far better (higher performance, smaller size), than the original gosu, however it is far easier to maintain, than su-exec, which is written in plain C. Made by [Akito](https://github.com/theAkito).
 *   [supercronic (⭐2.5k)](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
