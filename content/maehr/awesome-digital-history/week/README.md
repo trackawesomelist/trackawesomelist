@@ -2,9 +2,36 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 299 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 312 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / Weekly / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
+
+### Archives and primary sources / Africa
+
+*   [West African Arabic Manuscript Database](https://waamd.lib.berkeley.edu/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
+
+### Archives and primary sources / Austria
+
+*   [Digitarium](https://digitarium.acdh.oeaw.ac.at/) - Digital edition of the historical Wiener Zeitung.
+
+### Archives and primary sources / Global
+
+*   [Mementoweb](https://mementoweb.org/) - Find archived web pages in Internet Archive, Archive-It, British Library, archive.today, and GitHub.
+
+### Archives and primary sources / Great Britain
+
+*   [British Library](https://www.bl.uk/collection) - Maps, manuscripts and sounds.
+
+### Archives and primary sources / North America
+
+*   [Women Working 1800-1930](https://curiosity.lib.harvard.edu/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
+
+### Archives and primary sources / Switzerland
+
+*   [e-gs](https://gs.ethz.ch/en/collection-catalogue-online/) - Online web portal of the ETH Zurich Graphics Collection.
+*   [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/online/) - Retrodigitalisierte und digitale Editionseinheiten der Schweizerischen Rechtsquellen. Ediert wird rechtshistorisches Quellenmaterial vom Mittelalter bis in die Frühe Neuzeit (1798).
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -87,10 +114,6 @@ Find primary sources online and learn how to research history digitally.
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
-### Archives and primary sources / Africa
-
-*   [West African Arabic Manuscript Database](https://islam.zmo.de/s/westafrica/page/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
-
 ### Learning / Switzerland
 
 *   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
@@ -135,10 +158,6 @@ Find primary sources online and learn how to research history digitally.
 
 *   [HathiTrust](https://www.hathitrust.org) - A not-for-profit collaborative of academic and research libraries preserving and making accessible millions of digitized items.
 
-### Archives and primary sources / Switzerland
-
-*   [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/projekte/ssrq-online/) - Retrodigitalisierte und digitale Editionseinheiten der Schweizerischen Rechtsquellen. Ediert wird rechtshistorisches Quellenmaterial vom Mittelalter bis in die Frühe Neuzeit (1798).
-
 ### Learning / Switzerland
 
 *   [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
@@ -167,7 +186,6 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Great Britain
 
-*   [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - Maps, manuscripts and sounds.
 *   [National Records of Scotland](https://www.nrscotland.gov.uk/) - Repository for the public and legal records of Scotland.
 *   [The National Archives](https://www.nationalarchives.gov.uk/) - A non-ministerial department, and the official archive and publisher for the UK Government, and for England and Wales.
 
@@ -219,10 +237,6 @@ Find primary sources online and learn how to research history digitally.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
-### Archives and primary sources / Global
-
-*   [Mementoweb](http://timetravel.mementoweb.org/) - Find archived web pages in Internet Archive, Archive-It, British Library, archive.today, and GitHub.
-
 ### Archives and primary sources / Switzerland
 
 *   [chgov](https://www.chgov.bar.admin.ch/) - Minutes of the Federal Council (1848-1963).
@@ -270,7 +284,6 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Austria
 
-*   [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) - Digital edition of the historical Wiener Zeitung.
 *   [Österreichische Mediathek](https://www.mediathek.at/) - The Austrian archive for sound recordings and videos from cultural and contemporary history.
 *   [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - It is based on the Historical Dictionary Vienna by Felix Czeike, currently there are 50,156 contributions and 12,510 images.
 
@@ -374,7 +387,6 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / North America
 
 *   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - Online collection of scanned maps.
-*   [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
 
 ### Archives and primary sources / Switzerland
 
@@ -397,9 +409,9 @@ Find primary sources online and learn how to research history digitally.
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐4.2k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
-*   [Research Tools (⭐2.5k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐913)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Research Tools (⭐2.6k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐938)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -435,12 +447,6 @@ Find primary sources online and learn how to research history digitally.
 
 *   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
 *   [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
-
-## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
-
-### Archives and primary sources / Switzerland
-
-*   [e-gs](https://www.e-gs.ethz.ch/) - Online web portal of the ETH Zurich Graphics Collection.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 

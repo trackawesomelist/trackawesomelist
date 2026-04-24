@@ -10,6 +10,11 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
+- Repository: [Cellular Hacking (⭐3.7k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
+
+  Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
+
+
 - Repository: [CI/CD Attacks (⭐581)](https://github.com/TupleType/awesome-cicd-attacks)
 
   Description: Offensive research of CI/CD systems and deployment processes
@@ -28,6 +33,11 @@ A collection of various awesome lists for hackers, pentesters and security resea
 - Repository: [Detection Engineering (⭐1.2k)](https://github.com/infosecB/awesome-detection-engineering)
 
   Description: Resources for designing, building, and operating detective cybersecurity controls
+
+
+- Repository: [Drone Hacking (⭐58)](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
+
+  Description: List of Drone hacking tools and resources
 
 
 - Repository: [IoT and Hardware Security (⭐35)](https://github.com/kayranfatih/awesome-iot-and-hardware-security)
@@ -142,11 +152,6 @@ A collection of various awesome lists for hackers, pentesters and security resea
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Awesome Repositories
-
-- Repository: [Celluar Hacking (⭐3.7k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
-
-  Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
-
 
 - Repository: [Web3 Security (⭐1.6k)](https://github.com/Anugrahsr/Awesome-web3-Security)
 

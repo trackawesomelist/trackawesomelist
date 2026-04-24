@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Apr 24, 2026](/content/2026/04/24/README.md)
+
+### APL
+
+*   [Introduction to College Mathematics with A Programming Language (1978)](https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf) - E. J. LeCuyer (PDF)
+
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
@@ -382,7 +388,7 @@
 
 ### Scala / Sinatra
 
-*   [Hands-on Scala (⭐706)](https://github.com/handsonscala/handsonscala)
+*   [Hands-on Scala (⭐708)](https://github.com/handsonscala/handsonscala)
 
 ## [Oct 06, 2025](/content/2025/10/06/README.md)
 
@@ -461,7 +467,7 @@
 
 ### Arduino
 
-*   [Science, Programming, Art and Radioelectronics Club (SPARC) (⭐67)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
+*   [Science, Programming, Art and Radioelectronics Club (SPARC) (⭐68)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 ## [Mar 06, 2025](/content/2025/03/06/README.md)
 
@@ -1014,7 +1020,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Learn Python 3 (⭐475)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+*   [Learn Python 3 (⭐477)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 
 ## [Nov 09, 2022](/content/2022/11/09/README.md)
 
@@ -1812,7 +1818,7 @@
 ### Visual Prolog / Vulkan
 
 *   [Vulkan Tutorial Java (⭐201)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
-*   [Vulkan Tutorial RS (⭐746)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *( :construction: in process)* (Rust)
+*   [Vulkan Tutorial RS (⭐747)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *( :construction: in process)* (Rust)
 *   [Vulkano](https://vulkano.rs/guide/introduction) - Tomaka, et al. (HTML) (Rust)
 
 ## [Aug 26, 2022](/content/2022/08/26/README.md)
@@ -2145,7 +2151,7 @@
 
 ### Smalltalk / Play Scala
 
-*   [Squeak by Example (⭐34)](https://github.com/hpi-swa-lab/SqueakByExample-english)
+*   [Squeak by Example (⭐33)](https://github.com/hpi-swa-lab/SqueakByExample-english)
 
 ## [Nov 11, 2021](/content/2021/11/11/README.md)
 
@@ -2565,7 +2571,7 @@
 
 ### Graphs / GraphQL
 
-*   [Fullstack GraphQL (⭐596)](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
+*   [Fullstack GraphQL (⭐597)](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
 
 ### Language Agnostic / TeX
 
@@ -2620,7 +2626,7 @@
 *   [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 *   [Angular Docs](https://angular.io/docs) (HTML)
 *   [Angular Tutorial](https://angular.io/tutorial) (HTML)
-*   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples (⭐50)](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
+*   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples (⭐49)](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 
 ## [Aug 31, 2021](/content/2021/08/31/README.md)
 
@@ -2719,7 +2725,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [Introduction to SQL (⭐467)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to SQL (⭐469)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 
 ## [May 07, 2021](/content/2021/05/07/README.md)
 
@@ -2802,7 +2808,7 @@
 
 ### .NET Core / PicoLisp
 
-*   [Clean Code .NET (⭐7.6k)](https://github.com/thangchung/clean-code-dotnet)
+*   [Clean Code .NET (⭐7.7k)](https://github.com/thangchung/clean-code-dotnet)
 *   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
 *   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
 *   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
@@ -3096,7 +3102,7 @@
 *   [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
-*   [You Don't Know JS (⭐185k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐184k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 ### JavaScript / jQuery
 
@@ -3222,7 +3228,7 @@
 
 ### Ruby / Ruby on Rails
 
-*   [Api on Rails 6 (⭐382)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+*   [Api on Rails 6 (⭐383)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 
 ## [Oct 26, 2020](/content/2020/10/26/README.md)
 
@@ -3981,7 +3987,7 @@
 
 ### C / Non-X86
 
-*   [Bare-metal programming for ARM (⭐821)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](https://umanovskis.se/files/arm-baremetal-ebook.pdf)
+*   [Bare-metal programming for ARM (⭐826)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](https://umanovskis.se/files/arm-baremetal-ebook.pdf)
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -4466,7 +4472,7 @@
 
 ### Elixir / Non-X86
 
-*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐158)](https://github.com/radar/joyofelixir) *( :construction: in process)*
+*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐159)](https://github.com/radar/joyofelixir) *( :construction: in process)*
 
 ## [Nov 01, 2017](/content/2017/11/01/README.md)
 
@@ -4653,7 +4659,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Build applications in Python the antitextbook (⭐573)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+*   [Build applications in Python the antitextbook (⭐575)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 
 ## [Feb 24, 2017](/content/2017/02/24/README.md)
 
@@ -4768,7 +4774,7 @@
 
 ### Unix / Deno
 
-*   [Unix as IDE (⭐391)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+*   [Unix as IDE (⭐390)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 
 ## [Oct 02, 2016](/content/2016/10/02/README.md)
 
@@ -5043,7 +5049,7 @@
 
 ### Ruby / Sinatra
 
-*   [Sinatra Book (⭐678)](https://github.com/sinatra/sinatra-book)
+*   [Sinatra Book (⭐674)](https://github.com/sinatra/sinatra-book)
 
 ## [Dec 13, 2015](/content/2015/12/13/README.md)
 
@@ -5203,8 +5209,8 @@
 
 ### Scala / Sinatra
 
-*   [Pro Scala: Monadic Design Patterns for the Web (⭐94)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-*   [Xtrace (⭐94)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+*   [Pro Scala: Monadic Design Patterns for the Web (⭐93)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+*   [Xtrace (⭐93)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
 ### Scala / Lift
 
@@ -5212,7 +5218,7 @@
 
 ### VHDL / Deno
 
-*   [Free Range VHDL (⭐338)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+*   [Free Range VHDL (⭐341)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 
 ## [Nov 13, 2015](/content/2015/11/13/README.md)
 
@@ -5876,7 +5882,7 @@
 
 ### Erlang / Phoenix
 
-*   [Erlang Handbook (⭐295)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+*   [Erlang Handbook (⭐294)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 
 ## [Dec 16, 2013](/content/2013/12/16/README.md)
 

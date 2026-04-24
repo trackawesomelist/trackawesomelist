@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
+### Applications
+
+*   [LWE (⭐110)](https://github.com/YangYuS8/lwe) - Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.
+
 ### Applications / Database
 
 *   [tabularis (⭐1.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.

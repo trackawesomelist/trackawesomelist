@@ -1,24 +1,113 @@
 # Awesome List Updates on Apr 24, 2026
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Generative AI
+
+*   [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
+
+## [2. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Cellular Hacking (⭐3.7k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
+
+  Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
+
+
+- Repository: [Drone Hacking (⭐58)](https://github.com/nicholasaleks/Awesome-Drone-Hacking)
+
+  Description: List of Drone hacking tools and resources
+
+
+
+## [3. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+
+### Archives and primary sources / Africa
+
+*   [West African Arabic Manuscript Database](https://waamd.lib.berkeley.edu/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
+
+### Archives and primary sources / Austria
+
+*   [Digitarium](https://digitarium.acdh.oeaw.ac.at/) - Digital edition of the historical Wiener Zeitung.
+
+### Archives and primary sources / Global
+
+*   [Mementoweb](https://mementoweb.org/) - Find archived web pages in Internet Archive, Archive-It, British Library, archive.today, and GitHub.
+
+### Archives and primary sources / Great Britain
+
+*   [British Library](https://www.bl.uk/collection) - Maps, manuscripts and sounds.
+
+### Archives and primary sources / North America
+
+*   [Women Working 1800-1930](https://curiosity.lib.harvard.edu/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
+
+### Archives and primary sources / Switzerland
+
+*   [e-gs](https://gs.ethz.ch/en/collection-catalogue-online/) - Online web portal of the ETH Zurich Graphics Collection.
+*   [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/online/) - Retrodigitalisierte und digitale Editionseinheiten der Schweizerischen Rechtsquellen. Ediert wird rechtshistorisches Quellenmaterial vom Mittelalter bis in die Frühe Neuzeit (1798).
+
+## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Language SDKs & Tools / Swift
+
+*   [swift-algorand (⭐1)](https://github.com/CorvidLabs/swift-algorand) - Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.
+*   [swift-algokit (⭐2)](https://github.com/CorvidLabs/swift-algokit) - AlgoKit utilities for Swift developers.
+*   [swift-arc (⭐1)](https://github.com/CorvidLabs/swift-arc) - Swift library for working with Algorand ARC metadata standards for NFTs.
+*   [swift-mint (⭐1)](https://github.com/CorvidLabs/swift-mint) - Swift library for minting NFTs on the Algorand Blockchain.
+*   [swift-algochat (⭐1)](https://github.com/CorvidLabs/swift-algochat) - End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.
+
+### Testing & Debugging / Visual Studio
+
+*   [swift-algotest (⭐1)](https://github.com/CorvidLabs/swift-algotest) - Swift testing framework for Algorand smart contracts with mock chain support.
+
+### Blockchain Explorers / Visual Studio
+
+*   [Algo Explorer (⭐0)](https://github.com/corvid-agent/algo-explorer) - Modern Algorand Blockchain explorer with real-time transaction monitoring.
+
+### AI and Machine Learning / Visual Studio
+
+*   [corvid-agent (⭐0)](https://github.com/corvid-agent/corvid-agent) - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
+*   [AlgoChat (⭐3)](https://github.com/corvid-agent/corvid-agent-chat) - Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.
+
+### DeFi Platforms / Visual Studio
+
+*   [DorkFi](https://dork.fi/) - Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.
+
+### NFT Marketplaces / Visual Studio
+
+*   [NFT Gallery (⭐0)](https://github.com/corvid-agent/nft-gallery) - Algorand NFT gallery browser with ARC-standard support.
+
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### APL
+
+*   [Introduction to College Mathematics with A Programming Language (1978)](https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf) - E. J. LeCuyer (PDF)
+
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Static Analysis
 
 *   [Deptrac (⭐2.9k)](https://github.com/deptrac/deptrac) - A static analysis tool for enforcing dependency rules between architectural layers.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
 *   [SNMP++](https://www.agentpp.com/api/cpp/snmp_pp.html) - a C++ API which supports SNMP v1/2c/v3. \[custom permissive license]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [LWE (⭐110)](https://github.com/YangYuS8/lwe) - Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.
 
 ### Development tools / Workflow Automation
 
@@ -31,7 +120,7 @@
     *   [jamesmunns/postcard (⭐1.4k)](https://github.com/jamesmunns/postcard) \[[postcard](https://crates.io/crates/postcard)] - Postcard is a #!\[no\_std] focused serializer and deserializer for Serde.
     *   [m4b/goblin (⭐1.5k)](https://github.com/m4b/goblin) \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
 
-## [4. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Programming Language
 
@@ -81,7 +170,7 @@
 *   [SQL Roadmap](https://www.geeksforgeeks.org/sql-roadmap/) - Article covering a structured SQL learning path from fundamentals to advanced querying and database skills. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 *   [The VM Lifecycle: How We Got Here, and Where We're Going](https://www.rapid7.com/blog/post/2022/03/16/the-vm-lifecycle-how-we-got-here-and-where-were-going/) - Roadmap-style article explaining the vulnerability management lifecycle, its phases, and how mature VM programs evolve over time. <img alt="Year 2023" src="https://img.shields.io/badge/Year-2023-yellow"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
-## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Agent Skills
 
@@ -144,13 +233,13 @@
 
 *   [Chrome User Experience Report (CrUX)](https://developer.chrome.com/docs/crux/) - Origin-level real-user performance data from Chrome users.
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Automation
 
 *   [OpenBolt](https://voxpupuli.org/openvox/) - Orchestration tool to run orchestration workflows or one-off tasks/scripts to automate the provisioning and management of nodes. Community fork of the last open source version of [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm). ([Source Code (⭐21)](https://github.com/OpenVoxProject/openbolt)) `Apache-2.0` `Ruby`
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [12. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Security
 

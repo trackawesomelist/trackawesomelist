@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 24, 2026](/content/2026/04/24/README.md)
 
+### Applications
+
+*   [LWE (⭐110)](https://github.com/YangYuS8/lwe) - Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.
+
 ### Development tools / Workflow Automation
 
 *   [GitoxideLabs/gitoxide (⭐11k)](https://github.com/GitoxideLabs/gitoxide) \[[gix](https://crates.io/crates/gix)] - Pure-Rust Git implementation with high-performance plumbing crates and CLI tools for clone, fetch, status, diff, commit, config, refs, and more. [![CI](https://github.com/GitoxideLabs/gitoxide/workflows/ci/badge.svg)](https://github.com/GitoxideLabs/gitoxide/actions)
