@@ -1,18 +1,48 @@
 # Awesome List Updates on Apr 25, 2026
 
-6 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### 🏆 Top 100 by Stars / Workflow Frameworks
+
+*   [minio/minio (⭐61k)](https://github.com/minio/minio) — High-performance object storage ☆`60,795`
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Testing
+
+*   *   [CheckAPI](https://checkapi.io) - API health monitoring with Silent Failure Detection — validates response body via JSON Path assertions and regex, not just HTTP status codes. Free plan includes 10 monitors, 5-minute intervals, all 5 alert channels (Email, Slack, Telegram, Discord, Webhook), and is free for commercial use with no time limit.
+
+## [3. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+
+### Archives and primary sources / Germany
+
+*   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen) - Over 1.8 million graphic media (photographs, maps, drawings).
+
+## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Platformer
+
+*   [Jak Project (⭐3.3k)](https://github.com/open-goal/jak-project) - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
+
+## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+
+### 📁 Recipes / 🌱 Third Party
+
+*   [kubestellar/console (⭐62)](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
+
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mine - single-download beginner friendly IDE for Common Lisp and Coalton / Third-party APIs
 
 *   [mine](https://coalton-lang.github.io/mine/) - an integrated development environment for Coalton and Common Lisp for Windows, macOS, and Linux.
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Messaging
 
@@ -22,7 +52,7 @@
 
 *   [secure (⭐985)](https://github.com/TypeError/secure) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
 
-## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
@@ -36,7 +66,7 @@
 
 *   [NoCodeVista](https://nocodevista.com/) - No-code website builder for creating professional websites visually â€” no coding needed.
 
-## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [9. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Useful Links
 
@@ -57,7 +87,7 @@
 *   `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
 *   `⭐` [Data (⭐1.7k)](https://github.com/spatie/laravel-data) - Larave package for working with data objects, with built-in support for Inertia.
 
-## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Documentation
 
@@ -75,7 +105,7 @@
 *   [Dareboost](https://www.dareboost.com/) - \[Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
 *   [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

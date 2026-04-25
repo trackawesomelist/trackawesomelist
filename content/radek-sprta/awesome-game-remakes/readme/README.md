@@ -188,6 +188,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [BanjoRecomp (⭐1.7k)](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled.
 *   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games. :flower\_playing\_cards:
 *   [Ghostship (⭐481)](https://github.com/HarbourMasters/Ghostship) - Super Mario 64 reimplementation for PC.
+*   [Jak Project (⭐3.3k)](https://github.com/open-goal/jak-project) - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
 *   [Jazz² Resurrection (⭐544)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
 *   [Lionheart Remake (⭐85)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
 *   [ManicMinerLL (⭐3)](https://github.com/RustyPixelsUK/ManicMinerLL) - A re-working of Manic Miner onto the DS using levels created for other official computer released versions.

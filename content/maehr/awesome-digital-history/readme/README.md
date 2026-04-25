@@ -90,7 +90,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - Collection of Mannheim newspapers and historical printed matter on the history of Mannheim.
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 *   [Scripta Paedagogica](https://scripta.bbf.dipf.de/viewer/index/) - Collection of archival material and digitized journals in the field of history of education.
-*   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - Over 1.8 million graphic media (photographs, maps, drawings).
+*   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen) - Over 1.8 million graphic media (photographs, maps, drawings).
 *   [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - SPIEGEL archive since 1947.
 *   [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - Manuscripts, documents, maps and literature.
 *   [Uni Frankfurt](http://sammlungen.ub.uni-frankfurt.de/) - Rare prints, manuscripts, bequests and more.
@@ -216,5 +216,5 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐312)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐312)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐312)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
 

@@ -12,6 +12,10 @@ Actively maintained open-source game remakes.
 
 *   [Heretic2R (⭐209)](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port.
 
+### Platformer
+
+*   [Jak Project (⭐3.3k)](https://github.com/open-goal/jak-project) - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Racing

@@ -6,6 +6,12 @@ Find primary sources online and learn how to research history digitally.
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Apr 25, 2026](/content/2026/04/25/README.md)
+
+### Archives and primary sources / Germany
+
+*   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen) - Over 1.8 million graphic media (photographs, maps, drawings).
+
 ## [Apr 24, 2026](/content/2026/04/24/README.md)
 
 ### Archives and primary sources / Africa
@@ -315,7 +321,6 @@ Find primary sources online and learn how to research history digitally.
 *   [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) - Over 12 million objects.
 *   [Digitale Sammlungen](https://www.digitale-sammlungen.de/) - Collections of the Munich Digitization Center.
 *   [leo bw](https://www.leo-bw.de/) - Platform of the State Archives of Baden-Württemberg.
-*   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - Over 1.8 million graphic media (photographs, maps, drawings).
 *   [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - Manuscripts, documents, maps and literature.
 *   [ZLB](https://digital.zlb.de/) - Collections of the Berlin Central and State Library.
 
