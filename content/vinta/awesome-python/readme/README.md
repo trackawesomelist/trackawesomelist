@@ -81,6 +81,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [DevOps Tools](#devops-tools)
 *   [Distributed Computing](#distributed-computing)
 *   [Task Queues](#task-queues)
+*   [Messaging](#messaging)
 *   [Job Schedulers](#job-schedulers)
 *   [Logging](#logging)
 *   [Network Virtualization](#network-virtualization)
@@ -124,6 +125,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [Cryptography](#cryptography)
 *   [Penetration Testing](#penetration-testing)
+*   [Web Security](#web-security)
 
 **Miscellaneous**
 
@@ -149,8 +151,9 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
     *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
     *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
-    *   [hermes-agent (⭐36k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
+    *   [hermes-agent (⭐115k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
     *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+    *   [openai-agents (⭐25k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
     *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
     *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Data Layer
@@ -748,6 +751,12 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [huey (⭐5.9k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 *   [rq (⭐11k)](https://github.com/rq/rq) - Simple job queues for Python.
 
+## Messaging
+
+*Libraries for working with message brokers and event streaming.*
+
+*   [faststream (⭐5.1k)](https://github.com/ag2ai/faststream) - A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
+
 ## Job Schedulers
 
 *Libraries for scheduling jobs.*
@@ -808,7 +817,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [thefuck (⭐97k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐44k)](https://github.com/tmux/tmux) session manager.
     *   [xonsh (⭐9.3k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
-    *   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
+    *   [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 *   CLI Enhancements
     *   [httpie (⭐38k)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
     *   [iredis (⭐2.7k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
@@ -1090,6 +1099,12 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [sherlock (⭐81k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 *   [sqlmap (⭐37k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
+## Web Security
+
+*Libraries for application-layer web security.*
+
+*   [secure (⭐985)](https://github.com/TypeError/secure) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
+
 **Miscellaneous**
 
 ## Hardware
@@ -1141,7 +1156,7 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐291k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐294k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 ***
 

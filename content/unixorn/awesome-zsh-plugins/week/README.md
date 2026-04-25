@@ -13,6 +13,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [mise (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-mise) - Adds [mise](https://mise.jdx.dev/) shims to your `$PATH`. Uses the shims strategy so that tools are available in non-interactive shells (e.g. Emacs exec-path-from-shell).
 *   [mise (wintermi) (⭐20)](https://github.com/wintermi/zsh-mise) - Plugin for [mise](https://mise.jdx.dev/) (formerly called rtx) a fast polyglot version manager, replacing tools like `nvm`, `nodenv`, `rbenv`, `rvm`, `chruby`, `pyenv`, etc.
 *   [patina (⭐201)](https://github.com/michel-kraemer/zsh-patina) - A blazingly fast ZSH syntax highlighter written in Rust.
+*   [zsh-pkg-update-nag (⭐2)](https://github.com/madisonrickert/zsh-pkg-update-nag) - At new-shell start — rate-limited to once every 4 hours — checks your Homebrew formulae/casks, `npm -g`, `uv tool`, and RubyGems globals for available updates and offers to upgrade them behind a single `Y/n/s` confirmation.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -3277,7 +3278,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [history-enquirer (⭐98)](https://github.com/zthxxx/zsh-history-enquirer) - Enhances history search with more interaction and a multiline selection menu. Requires Node.js.
 *   [history-filter (⭐35)](https://github.com/MichaelAquilina/zsh-history-filter) - Allows you to specify patterns that will automatically exclude commands from being inserted into your permanent history. Particularly useful for preventing secrets being written.
 *   [history-here (⭐9)](https://github.com/leonjza/history-here) - Binds `^G` to quickly toggle the current shell history file location.
-*   [history-search-multi-word (⭐121)](https://github.com/zdharma-continuum/history-search-multi-word) - A syntax highlighted, multi-word history searcher for ZSH, bound to Ctrl-R, with advanced functions (e.g. bump of history entry to top of history).
+*   [history-search-multi-word (⭐122)](https://github.com/zdharma-continuum/history-search-multi-word) - A syntax highlighted, multi-word history searcher for ZSH, bound to Ctrl-R, with advanced functions (e.g. bump of history entry to top of history).
 *   [history-substring-search (⭐3k)](https://github.com/zsh-users/zsh-history-substring-search) - Needs to be loaded after `zsh-syntax-highlighting`, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md.
 *   [history (⭐83)](https://github.com/b4b4r07/zsh-history) - Extend history so that it can be queried by SQL.
 *   [hitokoto (⭐13)](https://github.com/derry96/hitokoto) - Displays a random quote from [hitokoto.cn](https://hitokoto.cn/).

@@ -27,6 +27,7 @@
 *   [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 *   [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
 *   [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
+*   [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 *   [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
 *   [Long Tasks API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API) - Detect main-thread blocking work.
 *   [Paint Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Paint_Timing_API) - First paint and first contentful paint signals.
@@ -37,12 +38,21 @@
 
 *   [PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
+### Tools / Meetups
+
+*   [Speculation Rules Generator](https://www.corewebvitals.io/tools/speculation-rules-generator) - Build speculation rules JSON for prefetch and prerender configurations.
+*   [Critical CSS Generator](https://www.corewebvitals.io/tools/critical-css-generator) - Generate critical-path CSS for above-the-fold rendering.
+*   [Core Web Vitals Report](https://www.corewebvitals.io/core-web-vitals-report) - Generate a Core Web Vitals report using CrUX historical data.
+
 ### Analyzers / Meetups
 
+*   [Request Map](https://requestmap.webperf.tools/) - Visualize first- and third-party request dependencies as an interactive map.
 *   [PageSpeed Insights](https://pagespeed.web.dev/) - Lab and field CWV diagnostics for any URL.
+*   [Dareboost](https://www.dareboost.com/) - \[Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
 *   [Third Party Analysis Tool](https://tools.paulcalvano.com/wpt-third-party-analysis/) - Analyze third-party request risk, render-blocking impact, and potential single points of failure from WebPageTest runs.
 *   [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
 *   [Webfont Usage Analyzer (⭐11)](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
+*   [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
 
 ### Real User Monitoring / Meetups
 
@@ -180,7 +190,7 @@
 *   [DareBoost](https://www.dareboost.com/en) - Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.
 *   [WebPageTest API Wrapper for Node.js (⭐1.6k)](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 
-### Minifiers - JS & CSS / Meetups
+### Minifiers / Meetups
 
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 *   [Clean-css (⭐4.2k)](https://github.com/clean-css/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
@@ -290,7 +300,7 @@
 
 *   [AtBuild (⭐35)](https://github.com/jarred-sumner/atbuild) - JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime.
 
-### Minifiers - HTML / Meetups
+### Minifiers / Meetups
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - Small, fast Java library that minifies HTML or XML by removing extra whitespace, comments, and unneeded characters without breaking structure. Includes a command-line build.
 
@@ -302,7 +312,7 @@
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
-### Minifiers - HTML / Meetups
+### Minifiers / Meetups
 
 *   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 
@@ -310,7 +320,7 @@
 
 ### Analyzers / Meetups
 
-*   [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool.
+*   [Screpy](https://screpy.com) - \[Multi-audit] AI-based performance, SEO, uptime, and quality monitoring.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -458,7 +468,7 @@
 *   [Grunt-phantomas (⭐281)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 *   [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo (⭐0)](https://github.com/asciidisco/perfjankie-test)).
 
-### Minifiers - HTML / Meetups
+### Minifiers / Meetups
 
 *   [Django-htmlmin (⭐544)](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5. Supports Django, Flask, and any other Python web framework, plus a command-line tool for static sites or deployment scripts.
 *   [HTMLMinifier (⭐5.1k)](https://github.com/kangax/html-minifier) - Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.
@@ -470,9 +480,6 @@
 *   [Koa HTML Minifier (⭐32)](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 *   [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
 *   [Html-minifier (⭐138)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
-
-### Minifiers - JS & CSS / Meetups
-
 *   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [Grunt-contrib-concat (⭐800)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 *   [Grunt-contrib-uglify (⭐1.5k)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.

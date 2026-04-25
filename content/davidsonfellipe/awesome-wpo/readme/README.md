@@ -52,8 +52,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Lazyloaders](#lazyloaders)
 *   [Loaders](#loaders)
 *   [Metrics Monitor](#metrics-monitor)
-*   [Minifiers HTML](#minifiers---html)
-*   [Minifiers JS & CSS](#minifiers---js--css)
+*   [Minifiers](#minifiers)
 *   [Miscellaneous](#miscellaneous)
 *   [Real User Monitoring](#real-user-monitoring)
 *   [SVG](#svg)
@@ -121,6 +120,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 *   [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
 *   [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
+*   [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 *   [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
 *   [Long Tasks API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API) - Detect main-thread blocking work.
 *   [Paint Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Paint_Timing_API) - First paint and first contentful paint signals.
@@ -148,14 +148,20 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Tools
 
+*   [Speculation Rules Generator](https://www.corewebvitals.io/tools/speculation-rules-generator) - Build speculation rules JSON for prefetch and prerender configurations.
+*   [Critical CSS Generator](https://www.corewebvitals.io/tools/critical-css-generator) - Generate critical-path CSS for above-the-fold rendering.
+*   [Core Web Vitals Report](https://www.corewebvitals.io/core-web-vitals-report) - Generate a Core Web Vitals report using CrUX historical data.
+
 ## Analyzers
 
+*   [Request Map](https://requestmap.webperf.tools/) - Visualize first- and third-party request dependencies as an interactive map.
 *   [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 *   [PageSpeed Insights](https://pagespeed.web.dev/) - Lab and field CWV diagnostics for any URL.
 *   [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 *   [DebugBear](https://www.debugbear.com/) - Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.
 *   [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
-*   [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool.
+*   [Dareboost](https://www.dareboost.com/) - \[Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
+*   [Screpy](https://screpy.com) - \[Multi-audit] AI-based performance, SEO, uptime, and quality monitoring.
 *   [YSlow (⭐2.2k)](https://github.com/marcelduran/yslow) - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 *   [Grunt-WebPageTest (⭐35)](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuous measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 *   [Grunt-perfbudget (⭐851)](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
@@ -169,6 +175,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Third Party Analysis Tool](https://tools.paulcalvano.com/wpt-third-party-analysis/) - Analyze third-party request risk, render-blocking impact, and potential single points of failure from WebPageTest runs.
 *   [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
 *   [Webfont Usage Analyzer (⭐11)](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
+*   [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
 
 ## Analyzers - API
 
@@ -358,7 +365,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [WebPageTest API Wrapper for Node.js (⭐1.6k)](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 *   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
-## Minifiers - HTML
+## Minifiers
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - Small, fast Java library that minifies HTML or XML by removing extra whitespace, comments, and unneeded characters without breaking structure. Includes a command-line build.
 *   [Django-htmlmin (⭐544)](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5. Supports Django, Flask, and any other Python web framework, plus a command-line tool for static sites or deployment scripts.
@@ -372,9 +379,6 @@ Here's a quick overview of the categories covered in this collection:
 *   [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
 *   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 *   [Html-minifier (⭐138)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
-
-## Minifiers - JS & CSS
-
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 *   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [Grunt-contrib-concat (⭐800)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.

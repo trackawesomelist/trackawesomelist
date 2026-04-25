@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 574 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 575 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -55,7 +55,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-*   [PraisonAI (⭐6.2k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐7k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 *   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
@@ -82,6 +82,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [SheetsToLabels](https://sheetstolabels.com/) - Automate label printing workflows directly from Google Sheets, Excel, and CSV.
 *   [tines](https://www.tines.com/) - No-code automation for security teams.
 *   [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
+*   [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ## Educational
 
@@ -136,6 +137,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
 *   [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 *   [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
+*   [RootCX](https://rootcx.com/) - One place for every internal app and AI agent. Shared database, SSO, RBAC, audit logs, and integrations.
 *   [Rows](https://rows.com/) - The spreadsheet with superpowers.
 *   [Supabase](https://supabase.com/) - The Open SourceFirebase Alternative.
 
@@ -219,4 +221,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 *   [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
+
+<!---->
+
+*   [NoCodeVista](https://nocodevista.com/) - No-code website builder for creating professional websites visually â€” no coding needed.
 

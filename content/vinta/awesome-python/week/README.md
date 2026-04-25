@@ -16,8 +16,9 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
     *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
     *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
-    *   [hermes-agent (⭐36k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
+    *   [hermes-agent (⭐115k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
     *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+    *   [openai-agents (⭐25k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
     *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
     *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Speech
@@ -36,6 +37,14 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [django-ninja (⭐9k)](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
     *   [django-rest-framework (⭐30k)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
     *   [strawberry-django (⭐491)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
+
+### Messaging
+
+*   [faststream (⭐5.1k)](https://github.com/ag2ai/faststream) - A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
+
+### Web Security
+
+*   [secure (⭐985)](https://github.com/TypeError/secure) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -393,7 +402,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [thefuck (⭐97k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐44k)](https://github.com/tmux/tmux) session manager.
     *   [xonsh (⭐9.3k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
-    *   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
+    *   [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 
 ### GUI Development
 
