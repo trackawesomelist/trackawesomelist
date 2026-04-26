@@ -115,7 +115,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 
 *   [Bernstein (⭐158)](https://github.com/chernistry/bernstein) - Multi-agent orchestrator that coordinates Gemini CLI alongside Claude Code and Codex CLI. Spawns parallel coding agents from a single goal, verifies with tests, auto-commits. Deterministic Python coordination, zero LLM tokens on orchestration.
 *   [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
-*   [hcom (⭐207)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
+*   [hcom (⭐239)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 *   [squads-cli (⭐43)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 *   [wolfpack (⭐27)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
 *   [Untether (⭐37)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
@@ -159,7 +159,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
-*   [CCHub (⭐54)](https://github.com/Moresl/cchub) - Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.
+*   [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.
 
 *   [agnix (⭐196)](https://github.com/avifenesh/agnix) - Linter for AI agent configurations. Validates GEMINI.md, SKILL.md, hooks, MCP, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics.
 
@@ -173,7 +173,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 
 *   [Docker Gemini CLI (⭐14)](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
 
-*   [Rulesync (⭐994)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
+*   [Rulesync (⭐1k)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 
 *   [Nix AI Tools (⭐1.1k)](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
 
@@ -185,7 +185,9 @@ Tools that enhance your development workflow when using Gemini CLI.
 
 *   [ccmanager (⭐1k)](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
 
-*   [codebase-recon (⭐2)](https://github.com/yujiachen-y/codebase-recon-skill) - AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.
+*   [Agent Sessions (⭐499)](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to search, browse, and resume Gemini CLI sessions alongside Codex CLI, Claude Code, OpenCode, and other agents, with live iTerm2 monitoring via Agent Cockpit.
+
+*   [codebase-recon (⭐6)](https://github.com/yujiachen-y/codebase-recon-skill) - AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.
 
 *   [Gemini CLI Logs Prettifier (⭐13)](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
 

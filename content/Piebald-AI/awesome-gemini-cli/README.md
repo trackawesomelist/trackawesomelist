@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Apr 26, 2026](/content/2026/04/26/README.md)
+
+### Development Tools & Utilities
+
+*   [Agent Sessions (⭐499)](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to search, browse, and resume Gemini CLI sessions alongside Codex CLI, Claude Code, OpenCode, and other agents, with live iTerm2 monitoring via Agent Cockpit.
+
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
 ### MCP Servers
@@ -26,8 +32,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [CCHub (⭐54)](https://github.com/Moresl/cchub) - Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.
-*   [codebase-recon (⭐2)](https://github.com/yujiachen-y/codebase-recon-skill) - AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.
+*   [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing MCP servers and AI coding tool configs across Claude Code, Codex, Gemini CLI, and OpenCode. MCP marketplace, config profile switching, workflow templates, security audit. Built with Tauri + React + Rust.
+*   [codebase-recon (⭐6)](https://github.com/yujiachen-y/codebase-recon-skill) - AI agent skill that analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, and development momentum before reading any code. Works with Gemini CLI, Claude Code, Cursor, and 20+ other coding agents.
 
 ## [Apr 08, 2026](/content/2026/04/08/README.md)
 
@@ -124,7 +130,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Agent Orchestration & CLI Tools
 
-*   [hcom (⭐207)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
+*   [hcom (⭐239)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 
 ## [Feb 05, 2026](/content/2026/02/05/README.md)
 
@@ -199,7 +205,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 *   [Listen (⭐13)](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
 *   [Screenshare (⭐20)](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 *   [pyATS (⭐10)](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
-*   [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
+*   [Subnet calculator (⭐3)](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 *   [Packet Buddy (⭐20)](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 
 ### Fun
@@ -239,7 +245,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Rulesync (⭐994)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
+*   [Rulesync (⭐1k)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 
 ## [Oct 10, 2025](/content/2025/10/10/README.md)
 
@@ -330,7 +336,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [gemini-cli-openai (⭐877)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
 *   [gemini-cli-proxy (⭐141)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
-*   [gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
+*   [gemini-cli-mcp-openai-bridge (⭐138)](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 
 ### MCP Servers
 

@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
+### Artificial Intelligence
+
+*   [cpp-mcp (⭐265)](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
+
 ### Networking
 
 *   [SNMP++](https://www.agentpp.com/api/cpp/snmp_pp.html) - a C++ API which supports SNMP v1/2c/v3. \[custom permissive license]
@@ -42,7 +46,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Compression
 
-*   [FSST (⭐505)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
+*   [FSST (⭐507)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
 
 ### Containers
 
@@ -986,7 +990,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [catboost (⭐8.9k)](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
 *   [FAISS (⭐40k)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. \[MIT]
 *   [ggml (⭐14k)](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
-*   [USearch (⭐4k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
+*   [USearch (⭐4.1k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
 
 ### Networking
 
@@ -4761,7 +4765,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. \[LGPL]
 *   [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. \[LGPL]
-*   [imgui (⭐72k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
+*   [imgui (⭐73k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
 *   [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. \[Own based on LGPL]
 *   [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. \[zlib]
 *   [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. \[Own LGPL]

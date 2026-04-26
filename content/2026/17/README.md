@@ -246,6 +246,10 @@
 
 *   [Helium MCP (⭐1)](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. 9 tools, free tier. Works with any MCP client including Gemini CLI.
 
+### Development Tools & Utilities
+
+*   [Agent Sessions (⭐499)](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to search, browse, and resume Gemini CLI sessions alongside Codex CLI, Claude Code, OpenCode, and other agents, with live iTerm2 monitoring via Agent Cockpit.
+
 ### Non-Gemini CLI
 
 *   [toprank (⭐452)](https://github.com/nowork-studio/toprank) - Claude Code plugin for SEO and Google Ads that includes a Gemini cross-model review skill. Uses Gemini for second-opinion reviews on Google Ads campaigns, SEO metadata, and schema markup — leveraging Gemini's native Google ecosystem knowledge for higher-quality decisions than Claude alone. MIT, 107 stars.
@@ -306,6 +310,10 @@
 *   [uf-ahrs](https://crates.io/crates/uf-ahrs): AHRS sensor fusion library for embedded and `no_std` environments, implementing `Mahony`, `Madgwick`, and `VQF` filters. - [![crates.io](https://img.shields.io/crates/v/uf-ahrs.svg)](https://crates.io/crates/uf-ahrs)
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Artificial Intelligence
+
+*   [cpp-mcp (⭐265)](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
 
 ### Networking
 
@@ -881,6 +889,7 @@
 ### Applications / Productivity
 
 *   [iBz-04/gloamy (⭐51)](https://github.com/iBz-04/gloamy) \[[gloamy](https://crates.io/crates/gloamy)] - Rust-first autonomous agent runtime for CLI, channels, gateway, and hardware workflows.
+*   [thClaws/thClaws (⭐255)](https://github.com/thClaws/thClaws) - Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes. [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](https://github.com/thClaws/thClaws)
 
 ### Applications / System tools
 

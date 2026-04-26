@@ -156,6 +156,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [ANNetGPGPU (⭐112)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
 *   [btsk (⭐485)](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. \[zlib]
+*   [cpp-mcp (⭐265)](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
 *   [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. \[LGPL]
 *   [frugally-deep (⭐1.1k)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 *   [Genann (⭐2.3k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
@@ -295,7 +296,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [bzip3 (⭐1.1k)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 *   [FastLZ (⭐526)](https://github.com/ariya/FastLZ) - Small & portable byte-aligned LZ77 compression. \[MIT]
 *   [FiniteStateEntropy (⭐1.5k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
-*   [FSST (⭐505)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
+*   [FSST (⭐507)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
 *   [heatshrink (⭐1.5k)](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  \[ISC]
 *   [Kanzi (⭐213)](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
 *   [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. \[LGPL]
@@ -669,7 +670,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [GacUI (⭐2.6k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 *   [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. \[LGPL]
 *   [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. \[LGPL]
-*   [imgui (⭐72k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
+*   [imgui (⭐73k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
 *   [implot (⭐6k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 *   [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. \[MIT]
 *   [libui (⭐11k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
@@ -896,7 +897,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [RNNLIB (⭐904)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 *   [SHOGUN (⭐3.1k)](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. \[GPLv3]
 *   [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. \[Apache2]
-*   [USearch (⭐4k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
+*   [USearch (⭐4.1k)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. \[Apache2]
 *   [VLFeat (⭐1.6k)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
 *   [xgboost (⭐28k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
 *   [TensorComprehensions (⭐1.8k)](https://github.com/facebookresearch/TensorComprehensions) - A fully-functional C++ library to automatically synthesize high-performance machine learning kernels. \[Apache-2.0]
