@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 26, 2026](/content/2026/04/26/README.md)
+
+### Neovim Lua Development / Quickfix
+
+*   [saghen/blink.lib (⭐38)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
+
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
 ### Editing Support / Scrollbar
@@ -75,31 +81,31 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [hyperb1iss/silkcircuit (⭐43)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
+*   [hyperb1iss/silkcircuit (⭐49)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 
 ### Programming Languages Support / Golang
 
-*   [sjclayton/goplexity.nvim (⭐1)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
+*   [sjclayton/goplexity.nvim (⭐4)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
 
 ### Colorscheme / Assembly
 
-*   [ThorstenRhau/token (⭐99)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
+*   [ThorstenRhau/token (⭐150)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 
 ### Syntax / Assembly
 
-*   [romus204/tree-sitter-manager.nvim (⭐144)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
+*   [romus204/tree-sitter-manager.nvim (⭐418)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
 
 ### Search / Assembly
 
-*   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+*   [KieranCanter/candela.nvim (⭐37)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 
 ### Utility / Cursorline
 
-*   [indium114/unobtrusive-relnums.nvim (⭐10)](https://github.com/indium114/unobtrusive-relnums.nvim) - Unobtrusive relative line numbers in the sign column.
+*   [indium114/unobtrusive-relnums.nvim (⭐12)](https://github.com/indium114/unobtrusive-relnums.nvim) - Unobtrusive relative line numbers in the sign column.
 
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
@@ -147,21 +153,21 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [satozawa/graft.nvim (⭐7)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+*   [satozawa/graft.nvim (⭐8)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### Colorscheme / Assembly
 
-*   [ankushbhagats/pastel.nvim (⭐30)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+*   [ankushbhagats/pastel.nvim (⭐31)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 
 ## [Mar 24, 2026](/content/2026/03/24/README.md)
 
 ### Syntax / Assembly
 
-*   [Sang-it/fluoride (⭐52)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+*   [Sang-it/fluoride (⭐55)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 
 ### Git / GitHub
 
-*   [gh-tui-tools/gh-review.nvim (⭐11)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+*   [gh-tui-tools/gh-review.nvim (⭐12)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
@@ -832,7 +838,7 @@ Collections of awesome neovim plugins.
     *   [mikavilpas/blink-ripgrep.nvim (⭐112)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐21)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐6)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐44k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐45k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐76)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐14)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐35)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -4615,7 +4621,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Assembly
 
-*   [luukvbaal/nnn.nvim (⭐460)](https://github.com/luukvbaal/nnn.nvim) - File explorer powered by [nnn (⭐21k)](https://github.com/jarun/nnn) and Lua.
+*   [luukvbaal/nnn.nvim (⭐460)](https://github.com/luukvbaal/nnn.nvim) - File explorer powered by [nnn (⭐22k)](https://github.com/jarun/nnn) and Lua.
 *   [tamago324/lir.nvim (⭐379)](https://github.com/tamago324/lir.nvim) - Simple file explorer.
 *   [kevinhwang91/rnvimr (⭐843)](https://github.com/kevinhwang91/rnvimr) - A simple yet amazing file explorer.
 *   [Xuyuanp/yanil (⭐98)](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua.
