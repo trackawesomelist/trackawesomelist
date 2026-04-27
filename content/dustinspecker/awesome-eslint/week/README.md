@@ -6,16 +6,22 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Plugins / Practices and Specific ES Features
+
+*   [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Plugins / Code Quality
 
 *   [Deslint (⭐0)](https://github.com/jaydrao215/deslint) - The design quality gate for AI-generated frontend code. 20 rules covering arbitrary colors/spacing/typography, design-system drift, responsive coverage, and WCAG 2.2 / 2.1 AA accessibility across React, Vue, Svelte, Angular, and plain HTML.
-*   [eslint-plugin-ai-guard](https://github.com/YashJadhav21/eslint-plugin-ai-guard) - Detects bugs and security issues commonly introduced by AI-generated code (async misuse, empty catch, auth gaps, SQL concat, secrets).
+*   [eslint-plugin-ai-guard (⭐9)](https://github.com/YashJadhav21/eslint-plugin-ai-guard) - Detects bugs and security issues commonly introduced by AI-generated code (async misuse, empty catch, auth gaps, SQL concat, secrets).
 
 ### Plugins / Practices and Specific ES Features
 
-*   [eslint-plugin-hex-under](https://github.com/2nd-Labs/eslint-plugin-hex-under) - A plugin to prove that a hexadecimal number is less than a specified value.
+*   [eslint-plugin-hex-under (⭐0)](https://github.com/2nd-Labs/eslint-plugin-hex-under) - A plugin to prove that a hexadecimal number is less than a specified value.
 *   [ime-safe-form (⭐5)](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form) - Prevents accidental form submission during IME composition by requiring `e.isComposing` guard or form `submit` event.
 
 ### Plugins / Testing Tools
@@ -32,12 +38,12 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Languages and Environments
 
 *   [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
-    *   [eslint-plugin-erasable-syntax-only](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
-    *   [eslint-plugin-expect-type](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions.
+    *   [eslint-plugin-erasable-syntax-only (⭐50)](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
+    *   [eslint-plugin-expect-type (⭐120)](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions.
 
 ### Plugins / Libraries
 
-*   [Tailwind CSS v4](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+*   [Tailwind CSS v4 (⭐761)](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -157,7 +163,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
-*   [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
+*   [eslint-config-prettier (⭐5.9k)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
@@ -239,7 +245,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Misc
 
-*   [Misc](https://github.com/ilyub/eslint-plugin-misc) - Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.
+*   [Misc (⭐12)](https://github.com/ilyub/eslint-plugin-misc) - Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -269,7 +275,7 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Languages and Environments
 
 *   [Babel (⭐44k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐232)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
@@ -344,10 +350,10 @@ A list of awesome ESLint plugins, configs, etc.
 
 *   JSON
     *   [JSON (⭐216)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
-    *   [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
+    *   [JSON, package.json (⭐42)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
     *   [JSON with Comments (⭐234)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
     *   [JSON Schema (⭐94)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
-    *   [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) - Rules for consistent, readable, and valid package.json files.
+    *   [eslint-plugin-package-json (⭐234)](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) - Rules for consistent, readable, and valid package.json files.
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
@@ -357,7 +363,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Configs / Other Configs
 
-*   [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
+*   [Adjunct (⭐52)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 
 ### Plugins / Languages and Environments
 
@@ -416,19 +422,19 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Libraries
 
-*   [TypeGraphQL](https://github.com/borremosch/eslint-plugin-type-graphql) - Linting rules for TypeGraphQL, targeted at finding common mistakes.
+*   [TypeGraphQL (⭐19)](https://github.com/borremosch/eslint-plugin-type-graphql) - Linting rules for TypeGraphQL, targeted at finding common mistakes.
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### Plugins / Libraries
 
 *   GraphQL
-    *   [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
-    *   [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
+    *   [dotansimha/graphql-eslint (⭐832)](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
+    *   [apollostack/eslint-plugin-graphql (⭐1.2k)](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 
 ### Parsers / Testing Tools
 
-*   [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
+*   [GraphQL (⭐832)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 
@@ -482,7 +488,7 @@ A list of awesome ESLint plugins, configs, etc.
 ### Globals / Testing Tools
 
 *   [ES and browser globals (⭐579)](https://github.com/sindresorhus/globals) (originally from ESLint)
-*   [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+*   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
@@ -527,14 +533,14 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Libraries
 
 *   Lodash
-    *   [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
+    *   [Lodash (⭐275)](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
     *   [Lodash/fp (⭐150)](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
     *   [Lodash template (⭐17)](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
     *   [Microtemplates (⭐4)](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
 
 ### Plugins / Misc
 
-*   [PutOut (⭐784)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐784)](https://github.com/coderaiser/putout) linter into ESLint.
+*   [PutOut (⭐785)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐785)](https://github.com/coderaiser/putout) linter into ESLint.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -545,7 +551,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 *   [DOM (⭐9)](https://github.com/amilajack/eslint-plugin-dom)
 *   [Optimize Regex (⭐75)](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
-*   Perf-Standard [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
+*   Perf-Standard [plugin (⭐24)](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config (⭐3)](https://github.com/Raynos/eslint-config-perf-standard)
 
 ### Plugins / Testing Tools
 
@@ -561,7 +567,7 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Misc
 
 *   [Only-Error (⭐17)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Warn (⭐184)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
@@ -571,7 +577,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Security
 
-*   [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+*   [no-secrets (⭐165)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 *   [no-unsanitized (⭐243)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 *   [Security (⭐2.3k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 *   [xss (⭐71)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
@@ -630,7 +636,7 @@ A list of awesome ESLint plugins, configs, etc.
     *   [permitted keywords (⭐1)](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
     *   [with chai-as-promised plugin (⭐4)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
     <!-- lint disable double-link -->
-    *   [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+    *   [globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 *   Mocha
     *   [Enforcing practices (⭐288)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
     *   [Enforcing manageability (⭐13)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
@@ -700,7 +706,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Libraries
 
-*   [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
+*   [Mongodb (⭐20)](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 *   [Ramda (⭐117)](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 *   [RequireJS (⭐29)](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 
