@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 28, 2026](/content/2026/04/28/README.md)
+
+### Startup / Cursorline
+
+*   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+
 ## [Apr 26, 2026](/content/2026/04/26/README.md)
 
 ### Neovim Lua Development / Quickfix
@@ -75,7 +81,7 @@ Collections of awesome neovim plugins.
 
 ### Project / Assembly
 
-*   [martuscellifaria/ahoicpp.nvim (⭐2)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
+*   [martuscellifaria/ahoicpp.nvim (⭐3)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
 
 ## [Apr 11, 2026](/content/2026/04/11/README.md)
 

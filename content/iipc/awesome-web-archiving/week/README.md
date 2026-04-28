@@ -6,6 +6,12 @@ An Awesome List for getting started with web archiving
 
 [ [Daily](/content/iipc/awesome-web-archiving/README.md) / Weekly / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Tools & Software / Utilities
+
+*   [duckdb\_warc (⭐4)](https://github.com/midwork-finds-jobs/duckdb_warc) - DuckDB extension to query WARC files. *(In Development)*
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Training/Documentation / Introductions to Web Archiving Concepts

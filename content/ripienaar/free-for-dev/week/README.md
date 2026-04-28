@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### PaaS
+
+*   [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### APIs, Data, and ML

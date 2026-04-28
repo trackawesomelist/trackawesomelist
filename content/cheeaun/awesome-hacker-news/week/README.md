@@ -6,6 +6,15 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Web
+
+*   [HackYourNews](https://hackyournews.com/) – AI summaries of the top HN stories
+*   [hcker.news](http://hckrnews.com/) - Story and Best Comments Timeline
+*   [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
+*   [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### iOS / Nevix
@@ -23,12 +32,6 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 ### Web
 
 *   [SmackerNews](https://smackernews.com/)
-
-## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
-
-### Web
-
-*   [HN Games - Videogames made by the HN community](https://hn-games.marcolabarile.me/)
 
 ## [Oct 20 - Oct 26, 2025](/content/2025/42/README.md)
 
@@ -53,12 +56,6 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 ### Linux / Nevix
 
 *   [HackUp](https://flathub.org/apps/com.github.mdh34.hackup)
-
-## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
-
-### Web
-
-*   [hcker.news - Story and Best Comments Timeline ](http://hckrnews.com/)
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 

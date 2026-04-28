@@ -668,7 +668,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [cosmicbuffalo/root\_swapper.nvim (⭐2)](https://github.com/cosmicbuffalo/root_swapper.nvim) - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 *   [mrjones2014/codesettings.nvim (⭐64)](https://github.com/mrjones2014/codesettings.nvim) - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 *   [josephschmitt/pj.nvim (⭐23)](https://github.com/josephschmitt/pj.nvim) - Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua).
-*   [martuscellifaria/ahoicpp.nvim (⭐2)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
+*   [martuscellifaria/ahoicpp.nvim (⭐3)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
 
 <!--lint disable double-link -->
 
@@ -1011,6 +1011,7 @@ then it is not supported:
 *   [mong8se/actually.nvim (⭐65)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 *   [Kurama622/profile.nvim (⭐75)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
 *   [leo-alvarenga/homecoming.nvim (⭐5)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
+*   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 
 <!--lint disable double-link -->
 

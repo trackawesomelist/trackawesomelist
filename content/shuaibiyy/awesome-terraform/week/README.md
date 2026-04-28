@@ -8,6 +8,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Tools / Community providers
+
+*   [terraformer (⭐3)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [StackGuardian](https://stackguardian.io/) - Infrastructure codification and orchestration platform that converts existing cloud resources into IaC, featuring policy-driven workflows with Tirith, OPA, and Checkov, with support for private runtimes and no-code templates.
@@ -1133,10 +1137,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Community Modules / Miscellaneous
 
 *   [terraform-cloudflare-maintenance (⭐128)](https://github.com/adinhodovic/terraform-cloudflare-maintenance) - Module to create a Maintenance Page using Cloudflare Workers.
-
-### Tools / Community providers
-
-*   [terraformer (⭐15k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 

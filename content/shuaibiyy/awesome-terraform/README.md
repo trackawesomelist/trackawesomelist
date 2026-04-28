@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Apr 28, 2026](/content/2026/04/28/README.md)
+
+### Tools / Community providers
+
+*   [terraformer (⭐3)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+
 ## [Apr 27, 2026](/content/2026/04/27/README.md)
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
@@ -1205,12 +1211,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Tools / Community providers
 
 *   [terraform-landscape (⭐1.6k)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
-
-## [Jul 18, 2020](/content/2020/07/18/README.md)
-
-### Tools / Community providers
-
-*   [terraformer (⭐15k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [Jul 15, 2020](/content/2020/07/15/README.md)
 

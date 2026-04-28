@@ -164,6 +164,7 @@ This list of tools and software is intended to briefly describe some of the most
 *   [ArchiveTools (⭐78)](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
 *   [bagnabit2warc (⭐1)](https://github.com/internetarchive/bagnabit2warc) - Convert a [bag-nabit (⭐38)](https://github.com/harvard-lil/bag-nabit) dataset stored in a ZIP into a full-content WARC.
 *   [cdx-toolkit](https://pypi.org/project/cdx-toolkit/) - Library and CLI to consult cdx indexes and create WARC extractions of subsets. Abstracts away Common Crawl's unusual crawl structure. *(Stable)*
+*   [duckdb\_warc (⭐4)](https://github.com/midwork-finds-jobs/duckdb_warc) - DuckDB extension to query WARC files. *(In Development)*
 *   [duckdb-web-archive-cdx (⭐18)](https://github.com/midwork-finds-jobs/duckdb-web-archive) - DuckDB extension to query the Internet Archive and CommonCrawl CDX APIs directly from SQL. *(In Development)*
 *   [Go Get Crawl (⭐175)](https://github.com/karust/gogetcrawl) - Extract web archive data using <!--lint ignore double-link-->[Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 *   [gowarcserver (⭐17)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐16k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).

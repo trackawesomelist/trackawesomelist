@@ -149,23 +149,24 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [ag2 (⭐4.4k)](https://github.com/ag2ai/ag2) - An open-source AgentOS for multi-agent orchestration and building agentic AI systems.
     *   [autogen (⭐57k)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
     *   [bub (⭐1.3k)](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
-    *   [crewai (⭐49k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
+    *   [crewai (⭐50k)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
     *   [dspy (⭐34k)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
     *   [hermes-agent (⭐115k)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
     *   [langchain (⭐134k)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
     *   [openai-agents (⭐25k)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
+    *   [OpenChronicle (⭐1.6k)](https://github.com/Einsia/OpenChronicle) - Open-source, local-first memory for any tool-capable LLM agent.
     *   [pydantic-ai (⭐16k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
     *   [TradingAgents (⭐50k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Data Layer
     *   [instructor (⭐13k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
     *   [llama-index (⭐49k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
-    *   [mem0 (⭐53k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
+    *   [mem0 (⭐54k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
 *   Pre-trained Models and Inference
     *   [diffusers (⭐33k)](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
     *   [mlx-lm (⭐4.9k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
     *   [sglang (⭐26k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [transformers (⭐159k)](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
-    *   [unsloth (⭐61k)](https://github.com/unslothai/unsloth) - A library for faster LLM fine-tuning and training with reduced memory usage.
+    *   [unsloth (⭐63k)](https://github.com/unslothai/unsloth) - A library for faster LLM fine-tuning and training with reduced memory usage.
     *   [vllm (⭐77k)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 *   Speech
     *   [openai-whisper (⭐98k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
@@ -365,7 +366,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [aiohttp (⭐16k)](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
 *   [furl (⭐2.8k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
-*   [httptap (⭐485)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
+*   [httptap (⭐489)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
 *   [httpx (⭐15k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 *   [requests (⭐54k)](https://github.com/psf/requests) - HTTP Requests for Humans.
 *   [urllib3 (⭐4k)](https://github.com/urllib3/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
@@ -488,7 +489,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   Financial Data
     *   [akshare (⭐18k)](https://github.com/akfamily/akshare) - A financial data interface library, built for human beings!
     *   [edgartools (⭐2k)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
-    *   [lumibot (⭐1.3k)](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
+    *   [lumibot (⭐1.4k)](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
     *   [openbb (⭐66k)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
     *   [yfinance (⭐23k)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 
@@ -499,7 +500,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [cerberus (⭐3.3k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
 *   [jsonschema (⭐4.9k)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
 *   [pandera (⭐4.3k)](https://github.com/unionai-oss/pandera) - A data validation library for dataframes, with support for pandas, polars, and Spark.
-*   [pydantic (⭐27k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
+*   [pydantic (⭐28k)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 *   [voluptuous (⭐1.8k)](https://github.com/alecthomas/voluptuous) - A Python data validation library primarily intended for validating data from untrusted sources.
 
 ## Data Visualization
@@ -570,7 +571,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 *Libraries for quantum computing.*
 
 *   [Cirq (⭐4.9k)](https://github.com/quantumlib/Cirq) — A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
-*   [pennylane (⭐3.1k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
+*   [pennylane (⭐3.2k)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 *   [qiskit (⭐7.3k)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 *   [qutip (⭐2k)](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
 
@@ -772,7 +773,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Libraries for generating and working with logs.*
 
-*   [logfmter (⭐104)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
+*   [logfmter (⭐105)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
 *   [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 *   [loguru (⭐24k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 *   [structlog (⭐4.7k)](https://github.com/hynek/structlog) - Structured logging made easy.
@@ -815,7 +816,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [copier (⭐3.3k)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
     *   [doitlive (⭐3.6k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
     *   [thefuck (⭐97k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐44k)](https://github.com/tmux/tmux) session manager.
+    *   [tmuxp (⭐4.5k)](https://github.com/tmux-python/tmuxp) - A [tmux (⭐45k)](https://github.com/tmux/tmux) session manager.
     *   [xonsh (⭐9.3k)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
     *   [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 *   CLI Enhancements
@@ -897,7 +898,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   General
     *   [docling (⭐58k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
-    *   [kreuzberg (⭐7.5k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+    *   [kreuzberg (⭐8k)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
     *   [pyelftools (⭐2.2k)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 *   MS Office
@@ -909,7 +910,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
     *   [xlsxwriter (⭐3.9k)](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
     *   [xlwings (⭐3.3k)](https://github.com/xlwings/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
 *   PDF
-    *   [pdf\_oxide (⭐557)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
+    *   [pdf\_oxide (⭐690)](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
     *   [pdfminer.six (⭐7k)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
     *   [pikepdf (⭐2.7k)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
     *   [pypdf (⭐9.9k)](https://github.com/py-pdf/pypdf) - A library capable of splitting, merging, cropping, and transforming PDF pages.
@@ -1039,6 +1040,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *Libraries for Python version and virtual environment management.*
 
+*   [KillPy (⭐109)](https://github.com/Tlaloc-Es/killpy) - Analyze, detect, and clean unused Python environments and pipx packages.
 *   [pyenv (⭐45k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 *   [pyenv-win (⭐7.2k)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 *   [uv (⭐83k)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.

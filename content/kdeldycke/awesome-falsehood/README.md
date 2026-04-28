@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Apr 28, 2026](/content/2026/04/28/README.md)
+
+### Internationalization
+
+*   [Awesome Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+
+### Phone Numbers
+
+*   [Falsehoods about Phone Numbers (⭐18k)](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+*   [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐901)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
+
+### Postal Addresses
+
+*   [`libaddressinput`](https://github.com/google/libaddressinput) - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
 ### Postal Addresses
@@ -38,10 +53,6 @@
 ### Networks
 
 *   [Falsehoods about Networks](https://web.archive.org/web/20250215201837/http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
-
-### Software Engineering
-
-*   [Falsehoods about authorization](https://www.osohq.com/post/falsehoods-about-authorization) - Misconceptions about implementing permissions systems.
 
 ### Transportation
 
@@ -98,7 +109,7 @@
 
 ### Emails
 
-*   [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) - A library that implements RFC-based checks for e-mail addresses.
+*   [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) - 🆓 A library that implements RFC-based checks for e-mail addresses.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -147,12 +158,6 @@
 
 *   [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML is full of obscure complexity like accidental numbers and non-string keys.
 
-## [Dec 26, 2022](/content/2022/12/26/README.md)
-
-### Software Engineering
-
-*   [Falsehoods about Quantum Technology (⭐11)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
-
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
 ### Networks
@@ -195,7 +200,7 @@
 ### Internationalization
 
 *   [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - Plain text can't cut it, which makes Unicode even more incredible for its ability to just work well.
-*   [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - A subset of the falsehoods from above, illustrated with some examples.
+*   [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - Practical examples illustrating Unicode normalization, ligatures, surrogate pairs, character widths, and grapheme cluster pitfalls in substring operations.
 
 ## [Apr 26, 2022](/content/2022/04/26/README.md)
 
@@ -230,10 +235,6 @@
 *   Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender is part of human identity and has its own subtleties.
 *   [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood might lead to security holes.
 
-### Phone Numbers
-
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐901)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.7k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐5k)](https://github.com/giggsey/libphonenumber-for-php).
-
 ### Software Engineering
 
 *   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
@@ -242,7 +243,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐1.1k)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐1.1k)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 🆓 Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -349,10 +350,6 @@
 
 *   [Falsehoods about Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover it all: video decoding and playback, files, image scaling, color spaces and conversion, displays and subtitles.
 
-### Phone Numbers
-
-*   [Falsehoods about Phone Numbers (⭐18k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
-
 ### Postal Addresses
 
 *   [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
@@ -379,10 +376,6 @@
 *   [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
 *   [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
 
-### Transportation
-
-*   [Falsehoods about Cars (⭐5)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
-
 ### Typography
 
 *   [Falsehoods about Fonts (⭐112)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
@@ -395,12 +388,12 @@
 
 ### Business
 
-*   [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
+*   [`tax`](https://github.com/commerceguys/tax) - 🆓 A PHP 5.4+ tax management library.
 
 ### Dates and Time
 
 *   [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - List covering intercalation and cultural influence, made by a community of iOS and macOS developers.
-*   [Time Zone Database](https://www.iana.org/time-zones) - Code and data that represent the history of local time for many representative locations around the globe.
+*   [Time Zone Database](https://www.iana.org/time-zones) - 🆓 Code and data that represent the history of local time for many representative locations around the globe.
 *   [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
 *   [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so.
 *   [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
@@ -428,28 +421,25 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐970)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 *   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
-*   [i18n Testing Data (⭐66)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
-*   [Big List of Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+*   [i18n Testing Data (⭐66)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
+*   [Big List of Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ### Networks
 
 *   [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions that programmers new to distributed applications invariably make.
 *   [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some parts of the address are optional, mind the decimal and octal notations, and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
-*   [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An attempt to validate hostnames in Python.
 
 ### Postal Addresses
 
 *   [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 *   [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
-*   [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
-*   [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ addressing library, powered by Google's dataset.
-*   [`postal-address`](https://github.com/scaleway/postal-address) - Python module to parse, normalize and render postal addresses.
-*   [`address`](https://github.com/Boostport/address) - Go library to validate and format addresses using Google's dataset.
+*   [`addressing`](https://github.com/commerceguys/addressing) - 🆓 A PHP 5.4+ addressing library, powered by Google's dataset.
+*   [`postal-address`](https://github.com/scaleway/postal-address) - 🆓 Python module to parse, normalize and render postal addresses.
+*   [`address`](https://github.com/Boostport/address) - 🆓 Go library to validate and format addresses using Google's dataset.
 
 ### Software Engineering
 
