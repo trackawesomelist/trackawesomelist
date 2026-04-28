@@ -6,6 +6,12 @@
 
 [ [Daily](/content/davidsonfellipe/awesome-wpo/README.md) / Weekly / [Overview](/content/davidsonfellipe/awesome-wpo/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Miscellaneous / Meetups
+
+*   [Fontaine (⭐1.9k)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Agent Skills
@@ -60,7 +66,7 @@
 
 ### Image Optimizers / Meetups
 
-*   [Imager (⭐722)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+*   [Imager (⭐724)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 
 ### Lazyloaders / Meetups
 

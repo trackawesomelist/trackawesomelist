@@ -6,6 +6,12 @@ A curated list of awesome Inertia.js resources
 
 [ [Daily](/content/innocenzi/awesome-inertiajs/README.md) / Weekly / [Overview](/content/innocenzi/awesome-inertiajs/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Adapters / Server-side
+
+*   [Symfony (⭐5)](https://github.com/nytodev/inertia-bundle)
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Useful Links

@@ -311,7 +311,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Grunt-WebP (⭐118)](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
 *   [Gulp-WebP (⭐219)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 *   [Imageoptim](https://imageoptim.com/mac) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, and removes junk metadata and unnecessary color profiles.
-*   [Imager (⭐722)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+*   [Imager (⭐724)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 *   [Grunt-imageoptim (⭐476)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
 *   [ImageOptim-CLI (⭐3.5k)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 *   [Tapnesh-CLI (⭐21)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
@@ -398,6 +398,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Miscellaneous
 
+*   [Fontaine (⭐1.9k)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 *   [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
 *   [uCSS (⭐1.6k)](https://github.com/oyvindeh/ucss) - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
 *   [HTTPinvoke (⭐341)](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.

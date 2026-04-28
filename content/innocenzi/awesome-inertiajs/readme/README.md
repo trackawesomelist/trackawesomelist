@@ -66,6 +66,7 @@ A curated list of awesome Inertia.js resources
 *   [FastAPI (⭐68)](https://github.com/hxjo/fastapi-inertia)
 *   [Grails (⭐13)](https://github.com/matrei/grails-inertia-plugin)
 *   [Flask (⭐50)](https://github.com/j0ack/flask-inertia)
+*   [Symfony (⭐5)](https://github.com/nytodev/inertia-bundle)
 
 ## Resources
 

@@ -1,12 +1,48 @@
 # Awesome List Updates on Apr 28, 2026
 
-8 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+## [1. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Multimedia & Graphics / Game Development
+
+*   [deckarep/CosmicInvaders (⭐8)](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Scripting
+
+*   [kyren/piccolo (⭐2.1k)](https://github.com/kyren/piccolo) \[[piccolo](https://crates.io/crates/piccolo)] - Experimental stackless Lua VM implemented in pure Rust with cycle-detecting incremental GC, sandboxing features, and safe Rust <-> Lua bindings. [![crates.io](https://img.shields.io/crates/v/piccolo)](https://crates.io/crates/piccolo)
+
+## [3. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Baysian inferance.
+
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
+
+## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+
+### Adapters / Server-side
+
+*   [Symfony (⭐5)](https://github.com/nytodev/inertia-bundle)
+
+## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+### Miscellaneous / Meetups
+
+*   [Fontaine (⭐1.9k)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
+
+## [7. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
 
 ### Web
 
@@ -15,19 +51,19 @@
 *   [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
 *   [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Environment Management
 
 *   [KillPy (⭐109)](https://github.com/Tlaloc-Es/killpy) - Analyze, detect, and clean unused Python environments and pipx packages.
 
-## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [duckdb\_warc (⭐4)](https://github.com/midwork-finds-jobs/duckdb_warc) - DuckDB extension to query WARC files. *(In Development)*
 
-## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [10. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Internationalization
 
@@ -42,19 +78,19 @@
 
 *   [`libaddressinput`](https://github.com/google/libaddressinput) - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Startup / Cursorline
 
 *   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [13. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Cost Forecast / Market Research
 
@@ -77,7 +113,7 @@
 
 *   [Apache Superset (⭐72k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 

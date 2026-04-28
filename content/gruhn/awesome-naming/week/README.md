@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Baysian inferance.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Computer Graphics
@@ -19,7 +25,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [bubblewrap (⭐5.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool froming a protective layer for your system.
+*   [bubblewrap (⭐6.9k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -31,7 +37,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
+*   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -43,13 +49,13 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
+*   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g., claiming a GitHub issue, then not working on it.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
+*   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
@@ -59,7 +65,7 @@ A curated list for when naming things is done right.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
-### Design Patterns and Anti Patterns
+### Design Patterns and Anti-Patterns
 
 *   [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
 
@@ -67,7 +73,7 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
+*   [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix it is made, introduces multiple new bugs. It's a bug that cannot be fixed.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -95,13 +101,13 @@ A curated list for when naming things is done right.
 
 ### User Interface Design
 
-*   [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid based layout resembling the compartmentation of bento boxes.
+*   [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid-based layout resembling the compartmentation of bento boxes.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux (⭐5k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐5.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
@@ -114,7 +120,7 @@ A curated list for when naming things is done right.
 
 ### Theoretical Computer Science
 
-*   [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanly large, no other algorithm can keep up with them.
+*   [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanely large, no other algorithm can keep up with them.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
@@ -143,7 +149,7 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Brick](https://en.m.wikipedia.org/wiki/Brick_\(electronics\)) - When your device is so corrupted it virtually turns into a brick.
+*   [Brick](https://en.m.wikipedia.org/wiki/Brick_\(electronics\)) - When your device is so corrupted, it virtually turns into a brick.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -155,7 +161,7 @@ A curated list for when naming things is done right.
 
 ### Data Structures and Algorithms
 
-*   [Tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\)) - A hierarchically organized data structure. From the *root* item the other items *branch out* into *nodes* and *leaves*. A collection of trees is often called a *forest*.
+*   [Tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\)) - A hierarchically organized data structure. From the *root* item, the other items *branch out* into *nodes* and *leaves*. A collection of trees is often called a *forest*.
 
 ### Tools, Applications, Libraries, Frameworks
 
@@ -166,13 +172,13 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐93k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐94k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
-### Design Patterns and Anti Patterns
+### Design Patterns and Anti-Patterns
 
-*   [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where in a single change you wildly add code everywhere in your codebase.
+*   [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where, in a single change, you wildly add code everywhere in your codebase.
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
@@ -191,13 +197,13 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
+*   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing its job, but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
 
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
 
 ### Theoretical Computer Science
 
-*   [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem.
+*   [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undecidable questions like the halting problem.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -214,13 +220,13 @@ A curated list for when naming things is done right.
 
 ### Data Structures and Algorithms
 
-*   [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution but not a very clever one.
+*   [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution, but not a very clever one.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
 ### Data Structures and Algorithms
 
-*   [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills though.
+*   [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions, you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills, though.
 
 ### Programming Languages and Programming Language Theory
 
@@ -230,22 +236,22 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point *float* instead of being fixed in place.
+*   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with a limited amount of digits by letting the radix point *float* instead of being fixed in place.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
 ### Machine Learning and Artificial Intelligence
 
-*   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
+*   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifier's "confusion", i.e., how often it thought to make correct predictions when it actually didn't.
 
 ### User Interface Design
 
-*   [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully thereby improving the perceived performance.
-*   [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e. a scroll.
+*   [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - User interfaces that assume expensive operations will complete successfully, thereby improving the perceived performance.
+*   [Scrolling](https://en.wikipedia.org/wiki/Scrolling) - Screen content is often less like a book with discrete pages and more like a continuous roll of parchment, i.e., a scroll.
 
 ### Other
 
-*   [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.
+*   [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture), frameworks provide a basic structure to build upon, guiding and constraining further development.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -257,13 +263,13 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
+*   [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg, who discovered that the act of observing quantum systems inevitably alters their state.
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [uppy (⭐30k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐31k)](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -287,26 +293,26 @@ A curated list for when naming things is done right.
 
 ### Other
 
-*   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
+*   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface, but you can always glue them together.
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
 ### Data Structures and Algorithms
 
-*   [Stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)) - Like with a stack of pancakes you can only add and remove items from the top of this data structure.
-*   [Queue](https://en.wikipedia.org/wiki/Queue_\(abstract_data_type\)) - In this data structure items are always added at the end and removed at the front as if the items were waiting in line.
+*   [Stack](https://en.wikipedia.org/wiki/Stack_\(abstract_data_type\)) - Like with a stack of pancakes, you can only add and remove items from the top of this data structure.
+*   [Queue](https://en.wikipedia.org/wiki/Queue_\(abstract_data_type\)) - In this data structure, items are always added at the end and removed at the front as if the items were waiting in line.
 
-### Design Patterns and Anti Patterns
+### Design Patterns and Anti-Patterns
 
 *   [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
 
 ### Theoretical Computer Science
 
-*   [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
+*   [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more generally, finding complete subgraphs.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
-### Design Patterns and Anti Patterns
+### Design Patterns and Anti-Patterns
 
 *   [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
 
@@ -314,21 +320,21 @@ A curated list for when naming things is done right.
 
 ### IT Security
 
-*   [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by *infecting* other computer programs similar to the behavior of biological viruses.
+*   [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self-replicates by *infecting* other computer programs, similar to the behavior of biological viruses.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
+*   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.
 
 ### Other
 
-*   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
+*   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature, especially in video games, in reference to the Easter egg hunt.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
 
 ### Data Structures and Algorithms
 
-*   [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best looking option without thinking too much about past and future decisions.
+*   [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - An algorithm that finds a solution by always picking the currently best-looking option without thinking too much about past and future decisions.
 
 ### IT Security
 
@@ -340,18 +346,18 @@ A curated list for when naming things is done right.
 
 ### Programming Languages and Programming Language Theory
 
-*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutely necessary and then never does it again.
+*   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation strategy which suspends evaluation until it's absolutely necessary and then never does it again.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
-### Design Patterns and Anti Patterns
+### Design Patterns and Anti-Patterns
 
 *   [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
 
 ### Functions
 
 *   [fold](https://en.wikipedia.org/wiki/Fold_\(higher-order_function\)) - Like a blanket being folded up, this function iterates a collection and in each step combines the current item with everything that has already been folded.
-*   [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions which itself return functions. Like a child on a trampoline that *returns* and bounces back up.
+*   [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions that themselves return functions. Like a child on a trampoline that *returns* and bounces back up.
 *   [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) - Merges two lists into one list of pairs like the interlocking teeth of a zipper.
 
 ### IT Security
