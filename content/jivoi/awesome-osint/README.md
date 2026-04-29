@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Apr 29, 2026](/content/2026/04/29/README.md)
+
+### Data and Statistics / GitHub
+
+*   [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
+
+### Threat Intelligence / GitHub
+
+*   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
+
 ## [Apr 21, 2026](/content/2026/04/21/README.md)
 
 ### Company Research / GitHub
@@ -48,7 +58,7 @@
 
 ### Other Tools / GitHub
 
-*   [keyFinder (⭐558)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
+*   [keyFinder (⭐653)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
 
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
@@ -77,11 +87,6 @@
 ### Google Dorks Tools
 
 *   [DorkEye (⭐104)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
-
-### Company Research / GitHub
-
-*   [uk-company-number (⭐0)](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
-*   [uk-sic-codes (⭐0)](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 
 ## [Mar 19, 2026](/content/2026/03/19/README.md)
 
@@ -377,6 +382,11 @@
 *   [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 *   [ZoomEye](https://www.zoomeye.ai/) - ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.
 
+### Threat Intelligence / GitHub
+
+*   [Threat Actor Usernames Scrape (⭐185)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [PhishingSecLists (⭐81)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
+
 ### Live Cyber Threat Maps
 
 *   [IBM X-Force Exchange Current Malicious Activity](https://exchange.xforce.ibmcloud.com/activity/map) -
@@ -427,11 +437,6 @@
 *   [IntelHub (⭐94)](https://github.com/tomsec8/IntelHub) – Browser-based open-source OSINT extension. All analysis runs locally (no servers). Features include text profiler, metadata analyzer, site & archive analysis, reverse image search, crypto/telegram analyzers.
 *   [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 *   [Pyba (⭐28)](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
-
-### Threat Intelligence / GitHub
-
-*   [PhishingSecLists (⭐81)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
-*   [Threat Actor Usernames Scrape (⭐185)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [Jul 28, 2025](/content/2025/07/28/README.md)
 
@@ -491,10 +496,8 @@
 ### Threat Actor Search
 
 *   [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
-*   [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
 *   [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 *   [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
-*   [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
 *   [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
 *   [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
 *   [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
@@ -620,10 +623,8 @@
 *   [NoPaste](https://nopaste.boris.sh/) - NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
 *   [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
 *   [n0paste](https://n0paste.eu/) - Paste and share your code online.
-*   [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 *   [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 *   [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
-*   [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 *   [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 *   [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
 *   [Spacebin](https://spaceb.in/) - Spacebin is a modern Pastebin server implemented in Go and is capable of serving notes, novels, code, or any other form of text.
@@ -675,10 +676,7 @@
 ### Pastebins
 
 *   [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
-*   [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 *   [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
-*   [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
-*   [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 *   [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 *   [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
 *   [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
@@ -1121,7 +1119,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐488)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
@@ -1552,8 +1550,6 @@
 
 ### File Search
 
-*   [FileListing](https://filelisting.com/)
-*   [FilePursuit](https://filepursuit.com/)
 *   [NAPALM FTP Indexer](https://www.searchftps.net/)
 *   [SearchFiles.de](https://searchfiles.de/)
 
@@ -1816,7 +1812,6 @@
 ### Pastebins
 
 *   [cl1p](https://Cl1p.net) - The Internet Clipboard.
-*   [dpaste2](https://Dpaste.org)
 *   [dpaste](https://Dpaste.com)
 *   [ideone](https://Ideone.com)
 *   [ivpaste](https://Ivpaste.com)

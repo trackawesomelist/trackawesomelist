@@ -1,42 +1,137 @@
 # Awesome List Updates on May 04 - May 10, 2026
 
-27 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [1. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+
+### 🏠 Self-Hosted & Local AI Agents
+
+*   **[GhostClaw (⭐61)](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
+*   **[OpenPaw (⭐121)](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Data and Statistics / GitHub
+
+*   [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
+
+### Threat Intelligence / GitHub
+
+*   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Board support crates / Special Purpose
+
+*   [`tildagon`](https://github.com/DanNixon/tildagon-rs) - Board support for the EMF Camp [Tildagon badge](https://tildagon.badge.emfcamp.org/)
+
+## [4. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+
+### Software / Publishing , Collaboration and Organization
+
+*   [Yourself to Science](https://yourselftoscience.org/) - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
+
+## [5. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+
+- : [Italia Design System](https://designers.italia.it/design-system/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat:](https://github.com/italia)
+
+
+- : [JB Design System](https://javadbat.github.io/design-system)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 
+
+  Source code \*: [:octocat:](https://javadbat.github.io/design-system)
+
+
+- : [Korea Design System](https://www.krds.go.kr)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐214)](https://github.com/KRDS-uiux/krds-uiux)
+
+
+- : [New York State Design System](https://designsystem.ny.gov/components/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐44)](https://github.com/ITS-HCD/nysds)
+
+
+- : [Radix](https://www.radix-ui.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat:](https://github.com/radix-ui)
+
+
+
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Terminal / Terminal UI
+
+*   [wharf (⭐2)](https://github.com/idesyatov/wharf) - A k9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. By [@idesyatov](https://github.com/idesyatov)
+
+## [7. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Multimedia & Graphics / Game Development
 
 *   [deckarep/CosmicInvaders (⭐8)](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
 
-## [2. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [8. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [git bayesect](https://hauntsaninja.github.io/git_bayesect.html) - Like `git bisect` but can cope with flaky tests using Baysian inferance.
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
+*   [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
+*   [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 
-## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [10. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [Symfony (⭐5)](https://github.com/nytodev/inertia-bundle)
 
-## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [11. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Miscellaneous / Meetups
 
 *   [Fontaine (⭐1.9k)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 
-## [6. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+## [12. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
 
 ### Web
 
@@ -45,19 +140,19 @@
 *   [HN Games](https://hn-games.marcolabarile.me/) - Videogames made by the HN community
 *   [HN Time Machine](https://aiparte.ro/examples/hn/) – HN comments AI generated summary (Romanian)
 
-## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Environment Management
 
 *   [KillPy (⭐109)](https://github.com/Tlaloc-Es/killpy) - Analyze, detect, and clean unused Python environments and pipx packages.
 
-## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [14. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [duckdb\_warc (⭐4)](https://github.com/midwork-finds-jobs/duckdb_warc) - DuckDB extension to query WARC files. *(In Development)*
 
-## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [15. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Internationalization
 
@@ -72,19 +167,27 @@
 
 *   [`libaddressinput`](https://github.com/google/libaddressinput) - 🆓 Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
 *   [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
 
 ### Startup / Cursorline
 
 *   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 
-## [12. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+### External / Remote Control
+
+*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
+
+## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Cost Forecast / Market Research
 
@@ -107,24 +210,28 @@
 
 *   [Apache Superset (⭐72k)](https://github.com/apache/superset) - 🆓 Enterprise-ready business intelligence web application, governed by the Apache Software Foundation.
 
-## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
 *   [lynxdb (⭐47)](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Web
 
 *   [hook0/hook0 (⭐1.4k)](https://github.com/hook0/hook0) - An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks
 *   [zhom/donutbrowser (⭐2k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
 
+### Development tools / Workflow Automation
+
+*   [Muvon/octocode (⭐336)](https://github.com/Muvon/octocode) \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml)
+
 ### Libraries / Scripting
 
 *   [kyren/piccolo (⭐2.1k)](https://github.com/kyren/piccolo) \[[piccolo](https://crates.io/crates/piccolo)] - Experimental stackless Lua VM implemented in pure Rust with cycle-detecting incremental GC, sandboxing features, and safe Rust <-> Lua bindings. [![crates.io](https://img.shields.io/crates/v/piccolo)](https://crates.io/crates/piccolo)
 
-## [15. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [21. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Boardgame
 
@@ -176,7 +283,7 @@
 *   [MelonJavaScript (⭐6.3k)](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 *   [PhysicsJavaScript (⭐3.7k)](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
 
-## [16. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [22. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Multi-factor auth / SMS-based
 
@@ -210,7 +317,7 @@
 
 *   [Conversion Optimization](https://web.archive.org/web/2020/https://www.nickkolenda.com/conversion-optimization-psychology/#cro-tactic11) - A collection of tactics to increase the chance of users finishing the account creation funnel.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
@@ -220,13 +327,13 @@
 
 *   [StackGuardian](https://stackguardian.io/) - Infrastructure codification and orchestration platform that converts existing cloud resources into IaC, featuring policy-driven workflows with Tirith, OPA, and Checkov, with support for private runtimes and no-code templates.
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Templating
 
 *   [TailwindUi plugin (⭐0)](https://github.com/dereuromark/cakephp-tailwind-ui) - Tailwind CSS / DaisyUI (or KTUI/Metronic) integration for form, pagination, flash, and breadcrumb helpers.
 
-## [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Knowledge Management
 
@@ -236,7 +343,7 @@
 
 *   [Promptise Foundry (⭐815)](https://github.com/promptise-com/foundry): Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain `BaseChatModel`. ![GitHub Repo stars](https://img.shields.io/github/stars/promptise-com/foundry?style=social)
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
@@ -246,46 +353,51 @@
 
 *   [Enchantum (⭐122)](https://github.com/ZXShady/enchantum) - modern C++17 header-only library for compile-time enum reflection. \[MIT]
 
-## [21. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+### Regular Expression
+
+*   [PCRE2 (⭐1.3k)](https://github.com/PCRE2Project/pcre2) - a set of C functions that implement
+    regular expression pattern matching. \[BSD] [website](https://pcre2project.github.io/pcre2/)
+
+## [27. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Photo Galleries
 
 *   [Memtly](https://docs.memtly.com/) - Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ([Demo](https://demo.memtly.com/), [Source Code (⭐21)](https://github.com/Memtly/Memtly.Community)) `GPL-3.0` `C#/Docker`
 
-## [23. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [29. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [gui-cs/Terminal.Gui (⭐11k)](https://github.com/gui-cs/Terminal.Gui#readme) - Status badges (NuGet version, codecov, downloads, license). Project name and concise cross-platform tagline. Hero animation followed by the project logo. Versioning callout distinguishing the current v2 from the v1 maintenance line. Sample app demo GIF. Quick start with template install and a runnable C# example. Bulleted capability inventory across forms, data views, visualizations, text editors, file management, wizards, and cross-platform tooling.
 *   [htmlhint/HTMLHint (⭐3.3k)](https://github.com/htmlhint/HTMLHint#readme) - Centered hero animation as the masthead. Concise tagline. Useful badges (npm version, OpenSSF best practices, downloads, license). Quick navigation links. Table of contents. Sectioned installation guide for local and global use, with both ESM and CommonJS code samples.
 
-## [24. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [30. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Website Analyzers
 
 *   [PageGuard](https://pageguard.org) - Free website health scanner. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), performance scores and provides AI-powered action plans. No signup required.
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [buddy (⭐2)](https://github.com/iZuminnnn/zsh-buddy-theme) - Multi-language support with a extension system, overtime reminders from 1730-1830, decorators for `git` status, time and virtual environment information, OS detection, 70+ contextual messages for different times and commands.
 *   [dwep (⭐0)](https://github.com/dwep1337/dwep-zsh-theme) - Includes decorators for username\@hostname, current directory and `git` status.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [Ombre (⭐3)](https://github.com/pypl0/Ombre) - Open source AI infrastructure layer. Eight agents run automatically: security, caching, memory, hallucination detection, and tamper-proof audit trail. Runs locally.
     *   [ParaMonte (⭐304)](https://github.com/cdslaborg/paramonte) - A general-purpose library with C/C++ interface for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
-## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tools
 

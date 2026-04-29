@@ -2,7 +2,7 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 300 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 308 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dylanrees/citizen-science/README.md) / [Weekly](/content/dylanrees/citizen-science/week/README.md) / Overview ]
 
@@ -51,22 +51,23 @@ Below is a curated list of awesome software and other resources to enable those 
 *   [vegan](http://vegan.r-forge.r-project.org/) - R package for statistical work in community ecology.
 *   [BOINC](https://boinc.berkeley.edu/) - Open-source cross-platform volunteer computing network connecting computers of volunteers/citizen scientists to scientific research projects. Used by CERN and universities around the world.
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐463)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐476)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ### Publishing , Collaboration and Organization
 
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐215)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐216)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
 *   [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
 *   [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
-*   [RapidPro (⭐894)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐900)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 *   [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
 *   [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
+*   [Yourself to Science](https://yourselftoscience.org/) - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
 
 ### Graphs and Visualization
 
@@ -109,7 +110,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### GIS and Mapping
 
-*   [IMGtoKMZ (⭐0)](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
+*   [IMGtoKMZ (⭐1)](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
 
 ### 3D Printing and Fabrication
 
@@ -255,7 +256,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐300)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐308)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## License

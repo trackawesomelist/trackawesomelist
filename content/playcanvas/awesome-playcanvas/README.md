@@ -6,6 +6,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Apr 29, 2026](/content/2026/04/29/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
+*   [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables

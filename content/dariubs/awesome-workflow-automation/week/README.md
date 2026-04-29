@@ -2,9 +2,16 @@
 
 A curated list of Workflow Automation  Software, Engines and Tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 836 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 915 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dariubs/awesome-workflow-automation/README.md) / Weekly / [Overview](/content/dariubs/awesome-workflow-automation/readme/README.md) ]
+
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### 🏠 Self-Hosted & Local AI Agents
+
+*   **[GhostClaw (⭐61)](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
+*   **[OpenPaw (⭐121)](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -63,12 +70,12 @@ A curated list of Workflow Automation  Software, Engines and Tools
 
 ### 🏠 Self-Hosted & Local AI Agents
 
-*   **[OpenClaw (⭐228k)](https://github.com/openclaw/openclaw)** ⭐ — Your own personal AI assistant. Runs locally on any OS. Connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, and more. Uses natural language — no predefined workflows needed. Features browser control, cron jobs, voice via ElevenLabs, multi-agent routing, Canvas workspace, and a public skill registry ([ClawHub (⭐20k)](https://github.com/VoltAgent/awesome-openclaw-skills)) with 5,700+ community skills. Privacy-first. MIT license.
-*   **[Openwork (⭐8.9k)](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
+*   **[OpenClaw (⭐366k)](https://github.com/openclaw/openclaw)** ⭐ — Your own personal AI assistant. Runs locally on any OS. Connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, and more. Uses natural language — no predefined workflows needed. Features browser control, cron jobs, voice via ElevenLabs, multi-agent routing, Canvas workspace, and a public skill registry ([ClawHub (⭐48k)](https://github.com/VoltAgent/awesome-openclaw-skills)) with 5,700+ community skills. Privacy-first. MIT license.
+*   **[Openwork (⭐11k)](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
 ### 🏠 Self-Hosted & Local AI Agents / 🦞 Awesome OpenClaw Resources
 
-*   **[Awesome OpenClaw Skills (⭐20k)](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
+*   **[Awesome OpenClaw Skills (⭐48k)](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
 *   **[OpenClaw Workflow Guide](https://www.devshorts.in/p/openclaw-workflow-and-automation)** — Practical workflows: GitHub PR automation, WhatsApp AI digest, cron jobs
 *   **[Self-Hosted OpenClaw Setup](https://contabo.com/blog/what-is-openclaw-self-hosted-ai-agent-guide/)** — Full deployment walkthrough
 *   **[OpenClaw vs n8n & ChatGPT](https://www.vpsbg.eu/blog/meet-openclaw-a-revolution-in-ai-workflow-automation)** — How it compares to other tools
@@ -84,46 +91,46 @@ A curated list of Workflow Automation  Software, Engines and Tools
 
 ### Multi-Agent Orchestration / 🦞 Awesome OpenClaw Resources
 
-*   **[CrewAI (⭐44k)](https://github.com/crewAIInc/crewAI)** ⭐ 32K+ stars — Role-based multi-agent framework. Agents collaborate like a team, each with a defined role. Minimal setup, works without LangChain. Popular for customer service and marketing automation.
-*   **[LangChain (⭐127k)](https://github.com/langchain-ai/langchain)** ⭐ 90K+ stars — The foundational LLM framework. Tools, memory, retrieval, agents, chains. Vast ecosystem and wide adoption.
-*   **[LangGraph (⭐25k)](https://github.com/langchain-ai/langgraph)** ⭐ 10K+ stars — Graph-based stateful multi-agent orchestration from LangChain. Build cyclical, precise agent workflows with full control over state.
-*   **[AutoGen (Microsoft) (⭐55k)](https://github.com/microsoft/autogen)** ⭐ 35K+ stars — Conversational multi-agent framework. Agents collaborate, iterate, and execute with minimal human input. Popular in academic and training environments.
-*   **[OpenAI Agents SDK (⭐19k)](https://github.com/openai/openai-agents-python)** ⭐ 11K+ stars — Lightweight Python SDK for multi-agent workflows. Provider-agnostic (100+ LLMs), built-in tracing and guardrails. Released March 2025.
+*   **[CrewAI (⭐50k)](https://github.com/crewAIInc/crewAI)** ⭐ 32K+ stars — Role-based multi-agent framework. Agents collaborate like a team, each with a defined role. Minimal setup, works without LangChain. Popular for customer service and marketing automation.
+*   **[LangChain (⭐134k)](https://github.com/langchain-ai/langchain)** ⭐ 90K+ stars — The foundational LLM framework. Tools, memory, retrieval, agents, chains. Vast ecosystem and wide adoption.
+*   **[LangGraph (⭐31k)](https://github.com/langchain-ai/langgraph)** ⭐ 10K+ stars — Graph-based stateful multi-agent orchestration from LangChain. Build cyclical, precise agent workflows with full control over state.
+*   **[AutoGen (Microsoft) (⭐58k)](https://github.com/microsoft/autogen)** ⭐ 35K+ stars — Conversational multi-agent framework. Agents collaborate, iterate, and execute with minimal human input. Popular in academic and training environments.
+*   **[OpenAI Agents SDK (⭐25k)](https://github.com/openai/openai-agents-python)** ⭐ 11K+ stars — Lightweight Python SDK for multi-agent workflows. Provider-agnostic (100+ LLMs), built-in tracing and guardrails. Released March 2025.
 *   **[Google ADK](https://google.github.io/adk-docs/)** — Google's Agent Development Kit. Modular framework integrating with Gemini and Vertex AI. Released April 2025.
 *   **[Mastra](https://mastra.ai/)** — TypeScript-native agent framework. Workflows, memory, RAG, and integrations built for JavaScript teams.
-*   **[SmolAgents (Hugging Face) (⭐26k)](https://github.com/huggingface/smolagents)** ⭐ 10K+ stars — Minimal Python library for powerful agents. Uses code execution as the primary agent action rather than JSON tool calls.
+*   **[SmolAgents (Hugging Face) (⭐27k)](https://github.com/huggingface/smolagents)** ⭐ 10K+ stars — Minimal Python library for powerful agents. Uses code execution as the primary agent action rather than JSON tool calls.
 *   **[PydanticAI](https://ai.pydantic.dev/)** ⭐ 7K+ stars — Agent framework built on Pydantic. Type-safe, structured LLM outputs and actions. Natural fit for FastAPI developers.
-*   **[Semantic Kernel (Microsoft) (⭐27k)](https://github.com/microsoft/semantic-kernel)** ⭐ 22K+ stars — SDK for integrating LLMs into .NET, Python, and Java applications. Enterprise-ready agentic workflows.
-*   **[Swarms (⭐5.8k)](https://github.com/kyegomez/swarms)** ⭐ 4K+ stars — Framework for orchestrating large swarms of AI agents for enterprise automation at scale.
+*   **[Semantic Kernel (Microsoft) (⭐28k)](https://github.com/microsoft/semantic-kernel)** ⭐ 22K+ stars — SDK for integrating LLMs into .NET, Python, and Java applications. Enterprise-ready agentic workflows.
+*   **[Swarms (⭐6.6k)](https://github.com/kyegomez/swarms)** ⭐ 4K+ stars — Framework for orchestrating large swarms of AI agents for enterprise automation at scale.
 *   **[SuperAGI (⭐17k)](https://github.com/TransformerOptimus/SuperAGI)** ⭐ 15K+ stars — Open-source autonomous AI agent framework with GUI, performance telemetry, and a tools marketplace.
-*   **[MetaGPT (⭐64k)](https://github.com/geekan/MetaGPT)** ⭐ 44K+ stars — Multi-agent software company simulation. Assigns product manager, engineer, and QA roles to automate entire development workflows from a single natural language requirement.
+*   **[MetaGPT (⭐67k)](https://github.com/geekan/MetaGPT)** ⭐ 44K+ stars — Multi-agent software company simulation. Assigns product manager, engineer, and QA roles to automate entire development workflows from a single natural language requirement.
 
 ### LLM App & RAG Builders / 🦞 Awesome OpenClaw Resources
 
-*   **[Dify (⭐130k)](https://github.com/langgenius/dify)** ⭐ 58K+ stars — Open-source LLM app platform. Workflow builder, RAG, knowledge base management, code nodes, agent mode. Enterprise edition with SOC2 compliance.
-*   **[Langflow (⭐145k)](https://github.com/langflow-ai/langflow)** ⭐ 42K+ stars — Visual builder for LLM apps and MCP servers. Python-based, 100+ integrations, strong RAG pipeline support. Backed by DataStax.
-*   **[Flowise (⭐49k)](https://github.com/FlowiseAI/Flowise)** ⭐ 30K+ stars — Drag-and-drop LLM flow builder using LangChain. Chatflow, Agentflow, and Assistant builders. 100+ model and vector DB integrations.
-*   **[LlamaIndex (⭐47k)](https://github.com/run-llama/llama_index)** ⭐ 36K+ stars — Data framework for LLM apps. Best-in-class RAG pipelines, retrieval, and observability/evals.
-*   **[Haystack (deepset) (⭐24k)](https://github.com/deepset-ai/haystack)** ⭐ 18K+ stars — Python LLM framework for production RAG and agent pipelines. Maximum developer control.
+*   **[Dify (⭐139k)](https://github.com/langgenius/dify)** ⭐ 58K+ stars — Open-source LLM app platform. Workflow builder, RAG, knowledge base management, code nodes, agent mode. Enterprise edition with SOC2 compliance.
+*   **[Langflow (⭐147k)](https://github.com/langflow-ai/langflow)** ⭐ 42K+ stars — Visual builder for LLM apps and MCP servers. Python-based, 100+ integrations, strong RAG pipeline support. Backed by DataStax.
+*   **[Flowise (⭐52k)](https://github.com/FlowiseAI/Flowise)** ⭐ 30K+ stars — Drag-and-drop LLM flow builder using LangChain. Chatflow, Agentflow, and Assistant builders. 100+ model and vector DB integrations.
+*   **[LlamaIndex (⭐49k)](https://github.com/run-llama/llama_index)** ⭐ 36K+ stars — Data framework for LLM apps. Best-in-class RAG pipelines, retrieval, and observability/evals.
+*   **[Haystack (deepset) (⭐25k)](https://github.com/deepset-ai/haystack)** ⭐ 18K+ stars — Python LLM framework for production RAG and agent pipelines. Maximum developer control.
 *   **[Botpress](https://botpress.com/)** ⭐ 12K+ stars — Open-source chatbot and conversational AI platform. Multi-channel deployment and no-code flow builder.
 *   **[Rasa](https://rasa.com/)** ⭐ 18K+ stars — Enterprise open-source conversational AI. CALM architecture separates language understanding from business logic. Trusted by American Express.
 *   **[Rivet](https://rivet.ironcladapp.com/)** ⭐ 3K+ stars — Visual programming environment for creating and debugging AI agent pipelines with a node graph UI.
-*   **[OpenWebUI (⭐125k)](https://github.com/open-webui/open-webui)** ⭐ 50K+ stars — Feature-rich local web interface for LLMs (Ollama, OpenAI-compatible). Agent and workflow support.
+*   **[OpenWebUI (⭐132k)](https://github.com/open-webui/open-webui)** ⭐ 50K+ stars — Feature-rich local web interface for LLMs (Ollama, OpenAI-compatible). Agent and workflow support.
 *   **[Sim Studio](https://simstudio.ai/)** — Open-source visual builder for AI agent simulations and workflows.
 
 ### Specialized Agent Libraries / 🦞 Awesome OpenClaw Resources
 
-*   **[Mem0 (⭐48k)](https://github.com/mem0ai/mem0)** — Persistent memory layer for AI agents. Remembers users, preferences, and past interactions across sessions and tools.
-*   **[Agno (Phidata) (⭐38k)](https://github.com/agno-agi/agno)** — Framework for building multimodal agents with memory, knowledge, tools, and reasoning.
+*   **[Mem0 (⭐54k)](https://github.com/mem0ai/mem0)** — Persistent memory layer for AI agents. Remembers users, preferences, and past interactions across sessions and tools.
+*   **[Agno (Phidata) (⭐40k)](https://github.com/agno-agi/agno)** — Framework for building multimodal agents with memory, knowledge, tools, and reasoning.
 *   **[Firecrawl](https://www.firecrawl.dev/)** — Web data layer for AI agents. Search the web, navigate pages, and extract structured data from any website. Used inside OpenClaw and many agent stacks.
-*   **[ZenML (⭐5.2k)](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
+*   **[ZenML (⭐5.4k)](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
 ### AI Browser Agents / 🦞 Awesome OpenClaw Resources
 
-*   **[Browser-Use (⭐79k)](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
+*   **[Browser-Use (⭐88k)](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 *   **[Skyvern (⭐21k)](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
 *   **[Stagehand](https://www.stagehand.dev/)** ⭐ 5K+ stars — AI-native Playwright wrapper. Adds LLM reasoning on top of deterministic Playwright scripting. Built and maintained by Browserbase.
-*   **[Playwright MCP (⭐28k)](https://github.com/microsoft/playwright-mcp)** ⭐ 10K+ stars — Microsoft's MCP server for AI-controlled browser automation. Uses the accessibility tree (Snapshot Mode) — no screenshots needed, fast and deterministic.
+*   **[Playwright MCP (⭐32k)](https://github.com/microsoft/playwright-mcp)** ⭐ 10K+ stars — Microsoft's MCP server for AI-controlled browser automation. Uses the accessibility tree (Snapshot Mode) — no screenshots needed, fast and deterministic.
 *   **[Perplexity Comet](https://www.perplexity.ai/comet)** — Consumer AI browser (Chromium-based). Autonomous navigation, form filling, email and calendar management, voice control. Launched July 2025.
 
 ### Browser Infrastructure / 🦞 Awesome OpenClaw Resources
@@ -140,7 +147,7 @@ A curated list of Workflow Automation  Software, Engines and Tools
 *   **[GitHub Copilot](https://github.com/features/copilot)** — Microsoft's AI coding assistant. Agent mode, Copilot Workspace for issue-to-PR flows, and the strongest enterprise IP indemnity in the market.
 *   **[Windsurf](https://codeium.com/windsurf)** — Agentic IDE with Cascade agent and persistent memory across sessions. Acquired by Cognition (makers of Devin) in 2025.
 *   **[Devin](https://devin.ai/)** — The most autonomous coding agent available. Plans, codes, tests, and deploys in its own cloud sandbox with a shell, editor, and browser. Goldman Sachs uses hundreds of instances internally.
-*   **[Cline (⭐58k)](https://github.com/clinebot/cline)** — Open-source agentic coding assistant for VS Code. BYOK (bring your own key), full shell access, and MCP support.
+*   **[Cline (⭐61k)](https://github.com/clinebot/cline)** — Open-source agentic coding assistant for VS Code. BYOK (bring your own key), full shell access, and MCP support.
 *   **[Aider](https://aider.chat/)** — Open-source terminal coding agent. Git-integrated pair programming that works with any LLM. Excellent for open-source codebases.
 *   **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** — AWS-native AI coding assistant. Deep AWS integration, security scanning, and code transformation features.
 *   **[Kiro (AWS)](https://kiro.dev/)** — AWS's agentic IDE with dual spec-driven and vibe-coding modes. Differentiates through DevOps automation. Launched mid-2025.
@@ -156,10 +163,10 @@ A curated list of Workflow Automation  Software, Engines and Tools
 ### Core MCP Resources / 🦞 Awesome OpenClaw Resources
 
 *   **[MCP Specification](https://modelcontextprotocol.io/)** — Official protocol spec and documentation
-*   **[MCP Official Servers (⭐79k)](https://github.com/modelcontextprotocol/servers)** — Reference implementations: GitHub, Google Drive, Slack, databases, browsers, and more
+*   **[MCP Official Servers (⭐85k)](https://github.com/modelcontextprotocol/servers)** — Reference implementations: GitHub, Google Drive, Slack, databases, browsers, and more
 *   **[MCP TypeScript SDK (⭐12k)](https://github.com/modelcontextprotocol/typescript-sdk)** — Official TypeScript SDK for building MCP servers and clients
-*   **[MCP Python SDK (⭐22k)](https://github.com/modelcontextprotocol/python-sdk)** — Official Python SDK
-*   **[Awesome MCP Servers (⭐82k)](https://github.com/punkpeye/awesome-mcp-servers)** — Community-curated list of 500+ MCP servers
+*   **[MCP Python SDK (⭐23k)](https://github.com/modelcontextprotocol/python-sdk)** — Official Python SDK
+*   **[Awesome MCP Servers (⭐86k)](https://github.com/punkpeye/awesome-mcp-servers)** — Community-curated list of 500+ MCP servers
 
 ### Platforms with MCP Support / 🦞 Awesome OpenClaw Resources
 

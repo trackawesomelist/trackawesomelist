@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 29, 2026](/content/2026/04/29/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+
+### External / Remote Control
+
+*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### Startup / Cursorline
@@ -71,11 +81,11 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [retran/meow.yarn.nvim (⭐60)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐73)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 
 ### UI / OS-specific
 
-*   [quickui.nvim (⭐2)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [quickui.nvim (⭐6)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
@@ -866,7 +876,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / PHP
 
-*   [gbprod/phpactor.nvim (⭐94)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.8k)](https://github.com/phpactor/phpactor).
+*   [gbprod/phpactor.nvim (⭐94)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.9k)](https://github.com/phpactor/phpactor).
 
 ### Utility / Cursorline
 

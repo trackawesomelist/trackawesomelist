@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Terminal / Terminal UI
+
+*   [wharf (⭐2)](https://github.com/idesyatov/wharf) - A k9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. By [@idesyatov](https://github.com/idesyatov)
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Security
@@ -29,11 +35,11 @@
 
 ### Runtime
 
-*   [Mocker (⭐103)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By [us](https://github.com/us).
+*   [Mocker (⭐135)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By [us](https://github.com/us).
 
 ### Security
 
-*   [Den (⭐5)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By [us](https://github.com/us).
+*   [Den (⭐6)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By [us](https://github.com/us).
 *   [Grype (⭐12k)](https://github.com/anchore/grype) - A vulnerability scanner for container images, filesystems and SBOMs. By [Anchore](https://github.com/anchore).
 
 ### Terminal / Terminal UI
@@ -161,7 +167,7 @@
 
 ### Container Composition
 
-*   [LLM Harbor (⭐2.8k)](https://github.com/av/harbor) - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
+*   [LLM Harbor (⭐2.9k)](https://github.com/av/harbor) - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
 
 ### Monitoring
 
@@ -314,7 +320,7 @@
 ### Security
 
 *   [Anchor Enterprise](https://anchore.com/) - :yen: Analyze images for CVE vulnerabilities and against custom security policies.
-*   [Syft (⭐8.7k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
+*   [Syft (⭐8.8k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 
@@ -426,7 +432,7 @@
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐129)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [s0rg](https://github.com/s0rg).
+*   [decompose (⭐131)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [s0rg](https://github.com/s0rg).
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -521,7 +527,7 @@
 
 ### Registry / Other
 
-*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
+*   [Dragonfly (⭐3.2k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -579,7 +585,7 @@
 
 ### Security
 
-*   [Checkov (⭐8.6k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
+*   [Checkov (⭐8.7k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
@@ -756,7 +762,7 @@
 
 *   [captain (⭐244)](https://github.com/jenssegers/captain) :ice\_cube: - Easily start and stop docker compose projects from any directory. By [jenssegers](https://github.com/jenssegers).
 *   [dcinja (⭐13)](https://github.com/Falldog/dcinja) - The powerful and smallest binary size of template engine for docker command line environment. By [Falldog](https://github.com/Falldog).
-*   [docker pushrm (⭐149)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [christian-korneck](https://github.com/christian-korneck).
+*   [docker pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [christian-korneck](https://github.com/christian-korneck).
 *   [DVM (⭐527)](https://github.com/howtowhale/dvm) :ice\_cube: - Docker version manager.
 *   [goinside (⭐30)](https://github.com/iamsoorena/goinside) :ice\_cube: - Get inside a running docker container easily.
 *   [Pdocker (⭐7)](https://github.com/g31s/Pdocker) :ice\_cube: - A simple tool to manage and maintain Docker for personal projects.
@@ -836,7 +842,7 @@
 ### Dockerfile / Other
 
 *   [chaperone-docker (⭐66)](https://github.com/garywiz/chaperone-docker) :ice\_cube: - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
-*   [Dockerfile Generator (⭐185)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile Generator (⭐186)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
 *   [dockerfilegraph (⭐263)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [PatrickHoefler](https://github.com/patrickhoefler).
 *   [Dockershelf (⭐96)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job.

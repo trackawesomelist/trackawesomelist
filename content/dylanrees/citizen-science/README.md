@@ -2,22 +2,28 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 300 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 308 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/dylanrees/citizen-science/week/README.md) / [Overview](/content/dylanrees/citizen-science/readme/README.md) ]
+
+## [Apr 29, 2026](/content/2026/04/29/README.md)
+
+### Software / Publishing , Collaboration and Organization
+
+*   [Yourself to Science](https://yourselftoscience.org/) - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
 ### Tools and Equipment / GIS and Mapping
 
-*   [IMGtoKMZ (⭐0)](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
+*   [IMGtoKMZ (⭐1)](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Software / Modeling and Computation
 
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐463)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐476)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## [Nov 14, 2024](/content/2024/11/14/README.md)
 
@@ -85,7 +91,7 @@
 
 ### Software / Publishing , Collaboration and Organization
 
-*   [RapidPro (⭐894)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐900)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 
 ### Literature / Citizen Science Practice
 
@@ -202,7 +208,7 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐215)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐216)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -364,7 +370,7 @@
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐300)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐308)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [Aug 25, 2016](/content/2016/08/25/README.md)

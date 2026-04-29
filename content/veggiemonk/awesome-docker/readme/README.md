@@ -161,7 +161,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 > Docker EE is on the same code base as Docker CE, so also built from Moby, with commercial components added, such as "docker data center / universal control plane"
 
-*   [Moby (⭐72k)](https://github.com/moby/moby)
+*   [Moby (⭐71k)](https://github.com/moby/moby)
 *   [Docker Images](https://hub.docker.com)
 *   [Docker Compose (⭐37k)](https://github.com/docker/compose/) (Define and run multi-container applications with Docker)
 *   [Docker Registry][distribution] (The Docker toolset to pack, ship, store, and deliver content)
@@ -178,7 +178,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [elsy (⭐80)](https://github.com/cisco/elsy) :ice\_cube: - An opinionated, multi-language, build tool based on Docker and Docker Compose.
 *   [habitus (⭐1.4k)](https://github.com/cloud66-oss/habitus) :ice\_cube: - A Build Flow Tool for Docker.
 *   [kompose (⭐11k)](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
-*   [LLM Harbor (⭐2.8k)](https://github.com/av/harbor) - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
+*   [LLM Harbor (⭐2.9k)](https://github.com/av/harbor) - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
 *   [plash (⭐384)](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 *   [podman-compose (⭐6k)](https://github.com/containers/podman-compose) - A script to run docker-compose.yml using podman.
 *   [Smalte (⭐36)](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container. By [roquie](https://github.com/roquie)
@@ -322,7 +322,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 *   [cri-o (⭐5.6k)](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface by [cri-o](https://github.com/cri-o).
 *   [lxc (⭐5.2k)](https://github.com/lxc/lxc) - LXC - Linux Containers.
-*   [Mocker (⭐103)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By [us](https://github.com/us).
+*   [Mocker (⭐135)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By [us](https://github.com/us).
 *   [podman (⭐31k)](https://github.com/containers/libpod) - Libpod is a library used to create container pods. Home of Podman.
 *   [rlxc (⭐17)](https://github.com/brauner/rlxc) :ice\_cube: - LXC binary written in Rust.
 *   [runtime-tools (⭐479)](https://github.com/opencontainers/runtime-tools) - Oci-runtime-tool is a collection of tools for working with the OCI runtime specification.
@@ -335,14 +335,14 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [bane (⭐1.2k)](https://github.com/genuinetools/bane) :ice\_cube: - AppArmor profile generator for Docker containers.
 *   [buildcage (⭐4)](https://github.com/dash14/buildcage) - Restricts outbound network access during Docker builds to prevent supply chain attacks, working as a drop-in BuildKit remote driver for Docker Buildx, with ready-to-use GitHub Actions.
 *   [CetusGuard (⭐83)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
-*   [Checkov (⭐8.6k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
+*   [Checkov (⭐8.7k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
 *   [CIS Docker Benchmark (⭐522)](https://github.com/dev-sec/cis-docker-benchmark) :ice\_cube: - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [dev-sec](https://github.com/dev-sec).
 *   [Clair (⭐11k)](https://github.com/quay/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [coreos][coreos].
 *   [crowdsec-blocklist-import (⭐200)](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By [wolffcatskyy](https://github.com/wolffcatskyy).
 *   [Dagda (⭐1.2k)](https://github.com/eliasgranderubio/dagda) :ice\_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [eliasgranderubio](https://github.com/eliasgranderubio).
 *   [Deepfence Enterprise](https://deepfence.io) - :yen: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
 *   [Deepfence Threat Mapper (⭐5.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
-*   [Den (⭐5)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By [us](https://github.com/us).
+*   [Den (⭐6)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By [us](https://github.com/us).
 *   [docker-bench-security (⭐9.6k)](https://github.com/docker/docker-bench-security) - Script that checks for dozens of common best-practices around deploying Docker containers in production. By [docker][docker].
 *   [docker-explorer (⭐555)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions.
 *   [dvwassl (⭐6)](https://github.com/Peco602/dvwassl) :ice\_cube: - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [Peco602][peco602].
@@ -352,7 +352,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 *   [pindock (⭐1)](https://github.com/deadnews/pindock) - Pin and update Docker image digests in Dockerfiles and compose files. By [deadnews](https://github.com/deadnews).
 *   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) - :yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
 *   [segspec (⭐15)](https://github.com/dormstern/segspec) - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [dormstern](https://github.com/dormstern).
-*   [Syft (⭐8.7k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
+*   [Syft (⭐8.8k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
 *   [Sysdig Falco (⭐8.9k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 *   [Sysdig Secure](https://www.sysdig.com/solutions/cloud-detection-and-response-cdr) - :yen: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.
 *   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) - :yen: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.
@@ -422,6 +422,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [oxker (⭐1.6k)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui (⭐20k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐1.3k)](https://github.com/fussybeaver/bollard),.
 *   [swarmcli (⭐13)](https://github.com/Eldara-Tech/swarmcli) - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
 *   [tdocker (⭐82)](https://github.com/pivovarit/tdocker) - A `docker ps` replacement for everyday container operations by [@pivovarit](https://github.com/pivovarit).
+*   [wharf (⭐2)](https://github.com/idesyatov/wharf) - A k9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. By [@idesyatov](https://github.com/idesyatov)
 
 ##### CLI tools
 
@@ -433,9 +434,9 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 *   [dctl (⭐23)](https://github.com/FabienD/docker-stack) - Dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD).
 
-*   [decompose (⭐129)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [s0rg](https://github.com/s0rg).
+*   [decompose (⭐131)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [s0rg](https://github.com/s0rg).
 
-*   [docker pushrm (⭐149)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [christian-korneck](https://github.com/christian-korneck).
+*   [docker pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [christian-korneck](https://github.com/christian-korneck).
 
 *   [docker-captain (⭐2)](https://github.com/lucabello/docker-captain) - A friendly CLI to manage multiple Docker Compose deployments with style — powered by Typer, Rich, questionary, and sh.
 
@@ -589,7 +590,7 @@ Applications designed to help or simplify building **new** images
 ### Dockerfile
 
 *   [chaperone-docker (⭐66)](https://github.com/garywiz/chaperone-docker) :ice\_cube: - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
-*   [Dockerfile Generator (⭐185)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile Generator (⭐186)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
 *   [dockerfilegraph (⭐263)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [PatrickHoefler](https://github.com/patrickhoefler).
 *   [Dockershelf (⭐96)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job.
@@ -634,7 +635,7 @@ Services to securely store your Docker images.
 *   [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 *   [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
 *   [Docket (⭐709)](https://github.com/netvarun/docket) :ice\_cube: - Custom docker registry that allows for lightning fast deploys through bittorrent.
-*   [Dragonfly (⭐3.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
+*   [Dragonfly (⭐3.2k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 *   [GCP Artifact Registry :yen:](https://cloud.google.com/artifact-registry/docs) Fast, private Docker image storage on Google Cloud Platform.
 *   [Gitea Container Registry](https://docs.gitea.com/usage/packages/container) - Integrated Docker registry in Gitea, ideal for private, small-scale image hosting.
 *   [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry) - GitHub's solution for storing and managing Docker images, with tight integration into GitHub Actions.

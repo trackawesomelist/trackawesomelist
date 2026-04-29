@@ -289,10 +289,8 @@ Thanks to our main contributors
 *Search for Threat actors and their associated information.*
 
 *   [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
-*   [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
 *   [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 *   [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
-*   [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
 *   [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
 *   [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
 *   [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
@@ -303,6 +301,7 @@ Thanks to our main contributors
 *   [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 *   [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 *   [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
+*   [Threat Actor Usernames Scrape (⭐185)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [↑](#-live-cyberthreat-maps) Live Cyber Threat Maps
 
@@ -332,8 +331,6 @@ Thanks to our main contributors
 
 *   [eyedex](https://www.eyedex.org/) - Open directory search engine.
 *   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
-*   [FileListing](https://filelisting.com/)
-*   [FilePursuit](https://filepursuit.com/)
 *   [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 *   \[Find Security Contacts] <https://findsecuritycontacts.com> - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 *   [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
@@ -352,11 +349,9 @@ Thanks to our main contributors
 *   [commie](https://commie.io/) - commie is a pastebin script with line commenting support.
 *   [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
 *   [ControlC Pastebin](https://Controlc.com) - The easiest way to host your text.
-*   [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 *   [Cutapaste](https://cutapaste.net/) - Short Code and Share.
 *   [Defuse](https://defuse.ca/pastebin.htm) - Encrypted Pastebin - Keep your data private and secure!
 *   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers.
-*   [dpaste2](https://Dpaste.org)
 *   [dpaste](https://Dpaste.com)
 *   [Etusivu](https://pastebin.fi/) - It's an open source clone of pastebin.com. Default Language is Finnish.
 *   [Friendpaste](https://friendpaste.com/) - Paste stuff to your friends.
@@ -378,10 +373,7 @@ Thanks to our main contributors
 *   [nekobin](https://nekobin.com/) - Paste code, save and share the link!
 *   [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
 *   [n0paste](https://n0paste.eu/) - Paste and share your code online.
-*   [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 *   [paaster](https://paaster.io/) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
-*   [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
-*   [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 *   [Pastebin.cz](https://www.pastebin.cz/en/) - A simple Pastebin.
 *   [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 *   [paste.centos](https://paste.centos.org)
@@ -395,7 +387,6 @@ Thanks to our main contributors
 *   [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 *   [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
 *   [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
-*   [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 *   [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 *   [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 *   [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -876,8 +867,6 @@ Thanks to our main contributors
 *   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 *   [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
-*   [uk-company-number (⭐0)](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
-*   [uk-sic-codes (⭐0)](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 *   [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 *   [Xing](http://www.xing.com)
 *   [YouControl](https://youcontrol.com.ua/en/)
@@ -1117,7 +1106,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐155k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1315,6 +1304,7 @@ Thanks to our main contributors
 *   [Center for International Earth Science Information Network](http://www.ciesin.org)
 *   [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
 *   [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+*   [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
 *   [Data.gov.uk](https://data.gov.uk)
 *   [DBPedia](http://wiki.dbpedia.org)
 *   [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -1649,7 +1639,7 @@ Thanks to our main contributors
 *   [IntelHub (⭐94)](https://github.com/tomsec8/IntelHub) – Browser-based open-source OSINT extension. All analysis runs locally (no servers). Features include text profiler, metadata analyzer, site & archive analysis, reverse image search, crypto/telegram analyzers.
 *   [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 *   [IntellyWeave (⭐59)](https://github.com/vericle/intellyweave)  - AI-powered OSINT platform with GLiNER entity extraction, Mapbox 3D geospatial visualization, and multi-agent archive research across 30+ international archives.
-*   [keyFinder (⭐558)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
+*   [keyFinder (⭐653)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
 *   [LinkScope Client (⭐462)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
 *   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
@@ -1694,7 +1684,8 @@ Thanks to our main contributors
 *   [PhishingSecLists (⭐81)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
-*   [Threat Actor Usernames Scrape (⭐185)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Threat Actor Usernames Scrape (⭐185)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 
 ## [↑](#-table-of-contents) Gaming Platforms
 

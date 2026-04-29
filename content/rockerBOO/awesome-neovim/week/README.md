@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+
 ### Startup / Cursorline
 
 *   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+
+### External / Remote Control
+
+*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -38,7 +46,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [retran/meow.yarn.nvim (⭐60)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐73)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 *   [ryan-WORK/ohm (⭐5)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 
 ### Colorscheme / Assembly
@@ -57,7 +65,7 @@ Collections of awesome neovim plugins.
 
 ### UI / OS-specific
 
-*   [quickui.nvim (⭐2)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [quickui.nvim (⭐6)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -716,7 +724,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / PHP
 
-*   [gbprod/phpactor.nvim (⭐94)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.8k)](https://github.com/phpactor/phpactor).
+*   [gbprod/phpactor.nvim (⭐94)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.9k)](https://github.com/phpactor/phpactor).
 
 ### Language / Assembly
 

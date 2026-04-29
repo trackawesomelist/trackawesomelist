@@ -11,6 +11,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
+*   [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
+*   [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
