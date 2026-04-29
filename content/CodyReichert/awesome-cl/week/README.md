@@ -6,6 +6,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [May 04 - May 10, 2026](/content/2026/18/README.md)
+
+### Date and time / Third-party APIs
+
+*   ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   [local-time documentation](https://local-time.common-lisp.dev/), [github mirror (⭐115)](https://github.com/dlowe-net/local-time).
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Mine - single-download beginner friendly IDE for Common Lisp and Coalton / Third-party APIs
@@ -1588,10 +1595,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   built on cl-store
     *   a cache can be persistent or have an expiration time.
     *   exposes the store locations too.
-
-### Date and time / Third-party APIs
-
-*   ⭐ [local-time](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Documentation builders / Third-party APIs
 

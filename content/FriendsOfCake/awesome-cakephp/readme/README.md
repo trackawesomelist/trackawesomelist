@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 932 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 933 · 🏷️ Back-End Development
 
 [ [Daily](/content/FriendsOfCake/awesome-cakephp/README.md) / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / Overview ]
 
@@ -16,10 +16,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 If you are looking for previous CakePHP resources please visit:
 
-*   the [CakePHP 2.x version (⭐932)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
-*   the [CakePHP 3.x version (⭐932)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) of this awesome list
-*   the [CakePHP 4.x version (⭐932)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) of this awesome list
-*   this wiki with a [list of not-yet upgraded plugins (⭐932)](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
+*   the [CakePHP 2.x version (⭐933)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
+*   the [CakePHP 3.x version (⭐933)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) of this awesome list
+*   the [CakePHP 4.x version (⭐933)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) of this awesome list
+*   this wiki with a [list of not-yet upgraded plugins (⭐933)](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 Additional lists you might find useful:
 
@@ -89,7 +89,7 @@ Additional lists you might find useful:
 *Plugins and libraries for integrating artificial intelligence and machine learning tools.*
 
 *   [Crustum/OpenRouter plugin (⭐0)](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
-*   [Synapse plugin (⭐4)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
+*   [Synapse plugin (⭐6)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
 ### Architecture
 
@@ -165,7 +165,7 @@ Additional lists you might find useful:
 
 *   [AssociationsDebugger plugin (⭐11)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.
 *   [CakephpWhoops plugin (⭐14)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops (⭐13k)](https://github.com/filp/whoops).
-*   [DebugKit plugin (⭐842)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐841)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 *   [Execution order (⭐21)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 *   [Sentry plugin (⭐12)](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 *   [Setup plugin (⭐35)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
@@ -211,7 +211,8 @@ Additional lists you might find useful:
 *Image processing and manipulation libraries.*
 
 *   [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
-*   [QrCodePlugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+*   [file-storage-image-processor (⭐0)](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin (⭐10)](https://github.com/dereuromark/cakephp-file-storage).
+*   [QrCode plugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ### Libs
 
@@ -281,7 +282,7 @@ Additional lists you might find useful:
 *   [Duplicatable plugin (⭐51)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 *   [Lampager/Cake plugin (⭐7)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 *   [Muffin/Orderly plugin (⭐22)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
-*   [Muffin/Trash plugin (⭐85)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   [Muffin/Trash plugin (⭐86)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 *   [Itosho/EasyQuery plugin (⭐26)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 *   [Icings/Partitionable plugin (⭐15)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
@@ -306,7 +307,7 @@ Additional lists you might find useful:
 
 *Plugins and web tools for developing REST-ful APIs.*
 
-*   [CRUD plugin (⭐375)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   [CRUD plugin (⭐376)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 *   [CakeDC/Api plugin (⭐61)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 *   [FractalTransformerView plugin (⭐18)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 *   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
@@ -319,7 +320,7 @@ Additional lists you might find useful:
 *   [Cake/Elasticsearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 *   [CakeDC/SearchFilter plugin (⭐3)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 *   [PlumSearch plugin (⭐19)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
-*   [Search plugin (⭐172)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 *   [Tags plugin (⭐16)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
 ### Security
@@ -343,7 +344,7 @@ Additional lists you might find useful:
 
 *Plugins and repositories around app skeletons.*
 
-*   [App template (⭐383)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐382)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 *   [BS flavored App template (⭐4)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ### Social
@@ -376,7 +377,7 @@ Additional lists you might find useful:
 *Plugins/Tools for testing codebases and generating test data.*
 
 *   [CakePHP CodeSniffer rules (⭐231)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-*   [CakephpFixtureFactories plugin (⭐1)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐2)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 *   [FriendsOfCake/Fixturize plugin (⭐24)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
 ### Third Party APIs
@@ -409,7 +410,7 @@ IDE specific compatibility information and tips can be found [here (⭐186)](htt
 
 ### CMS and applications built on CakePHP
 
-*   [baserCMS (⭐189)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+*   [baserCMS (⭐190)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ### Demo
 
@@ -488,5 +489,5 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 ## Footnotes
 
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors (⭐932)](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors (⭐933)](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
 

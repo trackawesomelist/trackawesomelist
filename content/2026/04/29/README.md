@@ -1,19 +1,71 @@
 # Awesome List Updates on Apr 29, 2026
 
-10 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Audio & Video / Images
+
+*   [ungerik/go-cairo (⭐152)](https://github.com/ungerik/go-cairo) — Go binding for the cairo graphics library ☆`152`
+
+## [2. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+
+### Solutions / Java (Unofficial) - Community
+
+*   [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Date and time / Third-party APIs
+
+*   ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   [local-time documentation](https://local-time.common-lisp.dev/), [github mirror (⭐115)](https://github.com/dlowe-net/local-time).
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
+*   [MarkViewer](https://markviewer.com) - Markdown viewer and editor for macOS with AI-assisted editing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+
+### Tools
+
+*   [Ansible101](https://ansible101.com) - An interactive, zero-setup sandbox for architecting and debugging playbooks with real-time visual execution flow.
+*   [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator and formatter with Ansible JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.
+
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+
+### Animation, Graphics & Video Playout
+
+*   [caspar-obs-client (⭐2)](https://github.com/michalramus/caspar-obs-client) - Python GUI application for seamless integration between CasparCG media servers and OBS Studio.
+
+### Video Production
+
+*   [ATEM Tally Light with ESP8266 (⭐191)](https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266) - Wireless tally light for ATEM switchers using an ESP8266 WiFi module, supporting unlimited tally units.
+*   [obs-shotlister (⭐1)](https://github.com/michalramus/obs-shotlister) - Camera shot queue manager for live productions with OBS Studio integration, LAN web monitoring, and OSC support.
+*   [TallyLights (⭐3)](https://github.com/michalramus/TallyLights) - DIY tally lights supporting TSL 3.1 and 5.0 protocols, built around the WeMos D1 Mini microcontroller.
+*   [wifi-tally (⭐97)](https://github.com/wifi-tally/wifi-tally) - Affordable WiFi-enabled tally light system based on NodeMCU/ESP8266, supporting multiple video mixers.
+
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+
+### Plugins / Imagery
+
+*   [file-storage-image-processor (⭐0)](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin (⭐10)](https://github.com/dereuromark/cakephp-file-storage).
+*   [QrCode plugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+
+## [8. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
 
 ### 🏠 Self-Hosted & Local AI Agents
 
 *   **[GhostClaw (⭐61)](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
 *   **[OpenPaw (⭐121)](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Data and Statistics / GitHub
 
@@ -23,39 +75,47 @@
 
 *   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / Special Purpose
 
 *   [`tildagon`](https://github.com/DanNixon/tildagon-rs) - Board support for the EMF Camp [Tildagon badge](https://tildagon.badge.emfcamp.org/)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Regular Expression
 
 *   [PCRE2 (⭐1.3k)](https://github.com/PCRE2Project/pcre2) - a set of C functions that implement
     regular expression pattern matching. \[BSD] [website](https://pcre2project.github.io/pcre2/)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Games
+
+*   [garkimasera/gaia-maker (⭐62)](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
 
 ### Development tools / Workflow Automation
 
 *   [Muvon/octocode (⭐336)](https://github.com/Muvon/octocode) \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml)
 
-## [6. Citizen Science](/content/dylanrees/citizen-science/README.md)
+### Libraries / Asynchronous
+
+*   [nextest-rs/future-queue (⭐69)](https://github.com/nextest-rs/future-queue) \[[future-queue](https://crates.io/crates/future-queue)] - Stream adaptors for running futures concurrently with weighted concurrency limits and optional per-group limits.
+
+## [13. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Software / Publishing , Collaboration and Organization
 
 *   [Yourself to Science](https://yourselftoscience.org/) - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
 *   [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 
-## [8. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [15. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
 - : [Italia Design System](https://designers.italia.it/design-system/)
 
@@ -113,7 +173,7 @@
 
 
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -123,7 +183,7 @@
 
 *   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
-## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [17. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / Terminal UI
 

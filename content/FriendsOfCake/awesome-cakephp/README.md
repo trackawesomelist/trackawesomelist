@@ -2,9 +2,16 @@
 
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 932 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 933 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
+
+## [Apr 29, 2026](/content/2026/04/29/README.md)
+
+### Plugins / Imagery
+
+*   [file-storage-image-processor (⭐0)](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin (⭐10)](https://github.com/dereuromark/cakephp-file-storage).
+*   [QrCode plugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ## [Apr 27, 2026](/content/2026/04/27/README.md)
 
@@ -72,7 +79,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / AI Tools
 
-*   [Synapse plugin (⭐4)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
+*   [Synapse plugin (⭐6)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
 ## [Nov 22, 2025](/content/2025/11/22/README.md)
 
@@ -82,7 +89,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / Testing
 
-*   [CakephpFixtureFactories plugin (⭐1)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐2)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ### Software / Development Environment
 
@@ -211,12 +218,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 *   [CakeDC/SearchFilter plugin (⭐3)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 
-## [Apr 12, 2024](/content/2024/04/12/README.md)
-
-### Plugins / Imagery
-
-*   [QrCodePlugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
-
 ## [Apr 09, 2024](/content/2024/04/09/README.md)
 
 ### Plugins / Social
@@ -280,7 +281,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Software / CMS and applications built on CakePHP
 
-*   [baserCMS (⭐189)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+*   [baserCMS (⭐190)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -292,7 +293,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / REST and API
 
-*   [CRUD plugin (⭐375)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   [CRUD plugin (⭐376)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
@@ -416,7 +417,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / Skeleton
 
-*   [App template (⭐383)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐382)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
 ## [Jul 23, 2020](/content/2020/07/23/README.md)
 
@@ -514,7 +515,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / ORM / Database / Datamapping
 
-*   [Muffin/Trash plugin (⭐85)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   [Muffin/Trash plugin (⭐86)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### Plugins / REST and API
 
@@ -546,7 +547,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / Debugging
 
-*   [DebugKit plugin (⭐842)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐841)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Plugins / Security
 
@@ -570,7 +571,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Plugins / Search
 
-*   [Search plugin (⭐172)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   [Search plugin (⭐170)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ## [Jan 03, 2020](/content/2020/01/03/README.md)
 
