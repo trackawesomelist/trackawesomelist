@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 30, 2026](/content/2026/04/30/README.md)
+
+### Marks / Assembly
+
+*   [adithyasource/spearmint.nvim (⭐1)](https://github.com/adithyasource/spearmint.nvim) - Lightweight harpoon-style marks with terminal support.
+
+### Note Taking / Cursorline
+
+*   [MattHandzel/taskwarrior.nvim (⭐5)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
+
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
@@ -40,7 +50,7 @@ Collections of awesome neovim plugins.
 
 *   [J-Cowsert/classlayout.nvim (⭐36)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [plutowang/nvim.pack (⭐3)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 
@@ -494,7 +504,7 @@ Collections of awesome neovim plugins.
 
 *   [Rtarun3606k/takatime (⭐59)](https://github.com/Rtarun3606k/takatime) - Privacy-first WakaTime alternative using Go and MongoDB.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [abdellatif-temsamani/adev.nvim (⭐7)](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 
@@ -772,7 +782,7 @@ Collections of awesome neovim plugins.
 
 *   [alexmozaidze/tree-comment.nvim (⭐11)](https://github.com/alexmozaidze/tree-comment.nvim) - Highlight and configure TODO comments for [tree-sitter-comment (⭐166)](https://github.com/stsewd/tree-sitter-comment).
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [TheItcor/MoaiVim (⭐5)](https://github.com/TheItcor/MoaiVim) - A minimalist config that emulates a lightweight IDE.
 
@@ -796,7 +806,7 @@ Collections of awesome neovim plugins.
 
 *   [claydugo/browsher.nvim (⭐16)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [crivotz/nv-ide (⭐646)](https://github.com/crivotz/nv-ide) - Custom configuration oriented for Full-Stack developers (Rails, Ruby, PHP, HTML, CSS, SCSS, JavaScript).
 
@@ -1137,7 +1147,7 @@ Collections of awesome neovim plugins.
 *   [Exafunction/windsurf.nvim (⭐1.3k)](https://github.com/Exafunction/windsurf.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 *   [Flemma-Dev/flemma.nvim (⭐52)](https://github.com/Flemma-Dev/flemma.nvim) - A first-class AI workspace.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [nvim-mini/MiniMax (⭐389)](https://github.com/nvim-mini/MiniMax) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 
@@ -2284,7 +2294,7 @@ Collections of awesome neovim plugins.
 
 ## [Sep 06, 2024](/content/2024/09/06/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [adoyle-h/one.nvim (⭐181)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
 
@@ -2393,7 +2403,7 @@ Collections of awesome neovim plugins.
 
 *   [stevearc/quicker.nvim (⭐953)](https://github.com/stevearc/quicker.nvim) - Improved quickfix UI and editable quickfix buffer.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [dam9000/kickstart-modular.nvim (⭐972)](https://github.com/dam9000/kickstart-modular.nvim) - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 
@@ -2481,7 +2491,7 @@ Collections of awesome neovim plugins.
 
 ## [Jul 04, 2024](/content/2024/07/04/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [legobeat/l7-devenv (⭐25)](https://github.com/legobeat/l7-devenv) - Security-focused IDE with a hackable (in the right way) framework based on Neovim and shell.
 
@@ -2501,7 +2511,7 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-lsp-endhints (⭐236)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [ayamir/nvimdots (⭐3.4k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 
@@ -2815,7 +2825,7 @@ Collections of awesome neovim plugins.
 
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [Shaobin-Jiang/IceNvim (⭐303)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
 
@@ -2857,7 +2867,7 @@ Collections of awesome neovim plugins.
 
 *   [kevinm6/kurayami.nvim (⭐8)](https://github.com/kevinm6/kurayami.nvim) - ***`[TS][LSP][Lua]`*** Dark only theme with Tree-sitter support.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [StratOS-Linux/StratVIM (⭐13)](https://github.com/StratOS-Linux/StratVIM) - A full-fledged Neovim distribution included by default in [StratOS-Linux](https://github.com/StratOS-Linux).
 
@@ -3064,7 +3074,7 @@ Collections of awesome neovim plugins.
 
 ## [Jan 30, 2024](/content/2024/01/30/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [drybalka/clean.nvim (⭐39)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
@@ -3142,7 +3152,7 @@ Collections of awesome neovim plugins.
 
 *   [3rd/image.nvim (⭐2k)](https://github.com/3rd/image.nvim) - Add image support through kitty's graphics protocol or ueberzugpp.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [crispybaccoon/chaivim (⭐73)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
@@ -3156,7 +3166,7 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-chainsaw (⭐138)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [pgosar/CyberNvim (⭐376)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 
@@ -3440,7 +3450,7 @@ Collections of awesome neovim plugins.
 
 *   [mrcjkb/rustaceanvim (⭐2.9k)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [mrcjkb/kickstart-nix.nvim (⭐400)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
@@ -3472,7 +3482,7 @@ Collections of awesome neovim plugins.
 
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [sontungexpt/stinvim (⭐51)](https://github.com/sontungexpt/stinvim) - Configuration for Full-Stack developers.
 
@@ -3589,7 +3599,7 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-puppeteer (⭐74)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [chrisgrieser/nvim-kickstart-python (⭐154)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration (for Python).
 
@@ -3721,7 +3731,7 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-origami (⭐484)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [NormalNvim/NormalNvim (⭐709)](https://github.com/NormalNvim/NormalNvim) - Configuration focused on stability for your daily work.
 
@@ -3920,7 +3930,7 @@ Collections of awesome neovim plugins.
 
 ## [May 25, 2023](/content/2023/05/25/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [doctorfree/nvim-lazyman (⭐430)](https://github.com/doctorfree/nvim-lazyman) - Configuration manager and a modular configuration on its own. Supports over 40 preconfigured configurations.
 
@@ -4206,7 +4216,7 @@ Collections of awesome neovim plugins.
 
 ## [Feb 17, 2023](/content/2023/02/17/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [LazyVim/LazyVim (⭐26k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
 
@@ -4226,7 +4236,7 @@ Collections of awesome neovim plugins.
 
 *   [savq/melange-nvim (⭐945)](https://github.com/savq/melange-nvim) - ***`[TS][LSP][L/D][Lua]`*** Warm colorscheme written in Lua with support for various terminal emulators.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [linrongbin16/lin.nvim (⭐91)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by `spf13-vim`.
 
@@ -4449,7 +4459,7 @@ Collections of awesome neovim plugins.
 
 *   [Civitasv/cmake-tools.nvim (⭐533)](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [ldelossa/nvim-ide (⭐872)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
 
@@ -4594,7 +4604,7 @@ Collections of awesome neovim plugins.
 
 ## [Sep 28, 2022](/content/2022/09/28/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [cunderw/nvim (⭐11)](https://github.com/cunderw/nvim) - A custom, IDE-like configuration for JS/TS, Go, and Java development.
 
@@ -4863,7 +4873,7 @@ Collections of awesome neovim plugins.
 
 *   [kazhala/close-buffers.nvim (⭐173)](https://github.com/kazhala/close-buffers.nvim) - Delete multiple Vim buffers based on different conditions.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, inspired by `spacemacs`.
 *   [hackorum/VapourNvim (⭐558)](https://github.com/hackorum/VapourNvim) - Configuration for the ultimate Vim IDE-like experience.
@@ -4900,7 +4910,7 @@ Collections of awesome neovim plugins.
 
 *   [nguyenvukhang/nvim-toggler (⭐194)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [nvim-lua/kickstart.nvim (⭐30k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
@@ -4946,7 +4956,7 @@ Collections of awesome neovim plugins.
 
 *   [rebelot/kanagawa.nvim (⭐6.1k)](https://github.com/rebelot/kanagawa.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [Abstract-IDE/Abstract (⭐207)](https://github.com/Abstract-IDE/Abstract) - Configuration to achieve the power of Modern IDE.
 *   [cstsunfu/.sea.nvim (⭐148)](https://github.com/cstsunfu/.sea.nvim) - A modular configuration with a beautiful UI and some useful features such as a pomodoro clock and window numbers.
@@ -5048,7 +5058,7 @@ Collections of awesome neovim plugins.
 
 *   [smjonas/inc-rename.nvim (⭐845)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on the command-preview feature.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [imbacraft/dusk.nvim (⭐54)](https://github.com/imbacraft/dusk.nvim) - A lightweight, aesthetically minimal config, written in Lua, able to provide for web and Java development.
 
@@ -5126,7 +5136,7 @@ Collections of awesome neovim plugins.
 
 *   [Shatur/neovim-session-manager (⭐616)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [AstroNvim/AstroNvim (⭐14k)](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins.
 
@@ -5181,7 +5191,7 @@ Collections of awesome neovim plugins.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [jrychn/moduleVim (⭐8)](https://github.com/jrychn/ModuleVim) - A very easy to use for backend and frontend, install LSP automatically.
 
@@ -5193,7 +5203,7 @@ Collections of awesome neovim plugins.
 
 ## [Mar 27, 2022](/content/2022/03/27/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [shaunsingh/nyoom.nvim (⭐1.6k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
 
@@ -5209,7 +5219,7 @@ Collections of awesome neovim plugins.
 
 ## [Mar 19, 2022](/content/2022/03/19/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [LunarVim/LunarVim (⭐19k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
@@ -5301,7 +5311,7 @@ Collections of awesome neovim plugins.
 
 *   [sQVe/sort.nvim (⭐210)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [CosmicNvim/CosmicNvim (⭐1.1k)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 
@@ -5331,13 +5341,13 @@ Collections of awesome neovim plugins.
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [shaeinst/roshnivim (⭐207)](https://github.com/shaeinst/roshnivim) - A predefined config to save you thousands of hours to setup Neovim as an IDE.
 
 ## [Nov 03, 2021](/content/2021/11/03/README.md)
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [artart222/CodeArt (⭐904)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
 
@@ -5408,7 +5418,7 @@ Collections of awesome neovim plugins.
 
 *   [karb94/neoscroll.nvim (⭐2k)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 
-### Preconfigured Configuration / Automation
+### Pre-made Configuration / Automation
 
 *   [siduck76/NvChad (⭐28k)](https://github.com/siduck76/NvChad) - An attempt to make Neovim's CLI as functional as an IDE while retaining beauty with less bloat.
 

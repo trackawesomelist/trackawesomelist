@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Apr 30, 2026](/content/2026/04/30/README.md)
+
+### Plugins / Miscellaneous
+
+*   [Workflow plugin (⭐1)](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
+
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Plugins / Imagery

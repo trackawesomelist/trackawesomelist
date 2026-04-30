@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Email
+
+*   [Emitlo](https://emitlo.com) - free 12,000 emails/month, Email API and SMTP, SPF/DKIM/DMARC support, No Credit Cards are required.
+
 ### PaaS
 
 *   [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.

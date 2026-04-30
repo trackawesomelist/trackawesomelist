@@ -8,6 +8,10 @@
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Social Media Tools / Instagram
+
+*   [insto (⭐1)](https://github.com/subzeroid/insto) - Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (`/where`), shared-followers intersection (`/intersect`), superfan ranking (`/fans`), location search (`/place`), URL→metadata resolution (`/postinfo`), posting-cadence histogram (`/timeline`), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in `aiograpi` backend.
+
 ### Data and Statistics / GitHub
 
 *   [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
@@ -30,7 +34,7 @@
 
 ### Data Breach Search Engines
 
-*   [NOX (⭐146)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
+*   [NOX (⭐217)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 
 ### Email Search / Email Check / GitHub
 
@@ -38,7 +42,7 @@
 
 ### Other Tools / GitHub
 
-*   [ReconFTW (⭐7.4k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
+*   [ReconFTW (⭐7.5k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
 
 ### Threat Intelligence / GitHub
 
@@ -1715,7 +1719,7 @@
 
 ### Username Check / GitHub
 
-*   [Sherlock (⭐81k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐83k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### Browsers / GitHub
 

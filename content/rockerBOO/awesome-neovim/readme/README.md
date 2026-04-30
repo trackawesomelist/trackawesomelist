@@ -94,7 +94,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
     *   [Stats Tracking](#stats-tracking)
     *   [Automation](#automation)
 *   [Database](#database)
-*   [Preconfigured Configuration](#preconfigured-configuration)
+*   [Pre-made Configuration](#pre-made-configuration)
 *   [External](#external)
     *   [Version Manager](#version-manager)
     *   [Plugin Template](#plugin-template)
@@ -552,6 +552,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [walkersumida/fusen.nvim (⭐37)](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 *   [markgandolfo/dartboard.nvim (⭐15)](https://github.com/markgandolfo/dartboard.nvim) - Mark files and quickly access them, inspired by Harpoon and Lasso.
 *   [dimtion/guttermarks.nvim (⭐51)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+*   [adithyasource/spearmint.nvim (⭐1)](https://github.com/adithyasource/spearmint.nvim) - Lightweight harpoon-style marks with terminal support.
 
 <!--lint disable double-link -->
 
@@ -1098,6 +1099,7 @@ then it is not supported:
 *   [indium114/studytools.nvim (⭐5)](https://github.com/indium114/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
 *   [iwe-org/iwe.nvim (⭐41)](https://github.com/iwe-org/iwe.nvim) - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
 *   [carloscalla/notepad.nvim (⭐4)](https://github.com/carloscalla/notepad.nvim) - Quick note-taking in Markdown with both repo-specific and global notepad support.
+*   [MattHandzel/taskwarrior.nvim (⭐5)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 <!--lint disable double-link -->
 
@@ -1919,7 +1921,7 @@ then it is not supported:
 
 <!--lint enable double-link -->
 
-## Preconfigured Configuration
+## Pre-made Configuration
 
 *   [abdellatif-temsamani/adev.nvim (⭐7)](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 *   [pgosar/CyberNvim (⭐376)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 30, 2026](/content/2026/04/30/README.md)
+
+### Email
+
+*   [Emitlo](https://emitlo.com) - free 12,000 emails/month, Email API and SMTP, SPF/DKIM/DMARC support, No Credit Cards are required.
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### PaaS

@@ -13,6 +13,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 *   [file-storage-image-processor (⭐0)](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin (⭐10)](https://github.com/dereuromark/cakephp-file-storage).
 *   [QrCode plugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
+### Plugins / Miscellaneous
+
+*   [Workflow plugin (⭐1)](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
+
 ### Plugins / Templating
 
 *   [TailwindUi plugin (⭐0)](https://github.com/dereuromark/cakephp-tailwind-ui) - Tailwind CSS / DaisyUI (or KTUI/Metronic) integration for form, pagination, flash, and breadcrumb helpers.
