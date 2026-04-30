@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Apr 30, 2026](/content/2026/04/30/README.md)
+
+### SQL / Über SQL
+
+*   [sq (⭐2.5k)](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
+
 ## [Apr 16, 2026](/content/2026/04/16/README.md)
 
 ### SQL / Code Generators
@@ -30,7 +36,7 @@ Everything that makes working with databases easier
 
 ### Backup / Samples
 
-*   [Portabase (⭐681)](https://github.com/Portabase/portabase) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.
+*   [Portabase (⭐745)](https://github.com/Portabase/portabase) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.
 
 ## [Jan 06, 2026](/content/2026/01/06/README.md)
 
@@ -42,7 +48,7 @@ Everything that makes working with databases easier
 
 ### Backup / Samples
 
-*   [Databasus (⭐6.3k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [Databasus (⭐6.4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 *   [pg\_probackup (⭐785)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 
 ## [Dec 18, 2025](/content/2025/12/18/README.md)
@@ -50,7 +56,7 @@ Everything that makes working with databases easier
 ### Data / Data Profilers
 
 *   [Data Profiler (⭐1.6k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
-*   [Desbordante (⭐472)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐476)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 *   [YData Profiling (⭐14k)](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 
 ## [Dec 16, 2025](/content/2025/12/16/README.md)
@@ -67,7 +73,7 @@ Everything that makes working with databases easier
 
 ### Kubernetes / Zabbix
 
-*   [PostgreSQL operator](https://github.com/zalando/postgres-operator) - The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.
+*   [PostgreSQL operator (⭐5.1k)](https://github.com/zalando/postgres-operator) - The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.
 
 ### SQL / Scripts
 
@@ -115,7 +121,7 @@ Everything that makes working with databases easier
 ### IDE
 
 *   [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-*   [Kangaroo](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+*   [Kangaroo (⭐468)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 ### SQL / Formatters
 
@@ -231,7 +237,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Graphweaver (⭐548)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐549)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
@@ -265,7 +271,7 @@ Everything that makes working with databases easier
 
 ### IDE
 
-*   [Slashbase](https://github.com/slashbaseide/slashbase) - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
+*   [Slashbase (⭐1.3k)](https://github.com/slashbaseide/slashbase) - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
 
 ### SQL / Learning
 
@@ -373,7 +379,7 @@ Everything that makes working with databases easier
 
 ### GUI
 
-*   [Sequel Ace (⭐7.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+*   [Sequel Ace (⭐7.4k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 
 ### Machine Learning / Compare
 
@@ -396,7 +402,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐39k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐40k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### SQL / Über SQL
 
@@ -617,7 +623,7 @@ Everything that makes working with databases easier
 ### SQL / Parsers
 
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-*   [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+*   [jOOQ (⭐6.7k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
 *   [JSqlParser (⭐5.9k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
 *   [More SQL Parsing! (⭐293)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 *   [sqlparse (⭐4k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
@@ -757,7 +763,7 @@ Everything that makes working with databases easier
 
 ### Configuration Tuning / Zabbix
 
-*   [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [MySQLTuner-perl (⭐9.4k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 *   [postgresqltuner.pl (⭐2.7k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 
 ### Distributions / Zabbix
@@ -785,7 +791,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐148)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [Dec 23, 2019](/content/2019/12/23/README.md)
 
@@ -871,7 +877,7 @@ Everything that makes working with databases easier
 *   [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 *   [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
 *   [psequel](http://www.psequel.com) - Provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.
-*   [Sequel Pro](https://github.com/sequelpro/sequelpro) - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+*   [Sequel Pro (⭐9.2k)](https://github.com/sequelpro/sequelpro) - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 *   [sqlpad (⭐5.2k)](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 *   [SQLPro](https://www.macpostgresclient.com) - A simple, powerful PostgreSQL manager for macOS.
 *   [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
@@ -946,7 +952,7 @@ Everything that makes working with databases easier
 
 ### GUI
 
-*   [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+*   [OmniDB (⭐3.3k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 
 ### API / Samples
 
@@ -1020,7 +1026,7 @@ Everything that makes working with databases easier
 
 ### GUI
 
-*   [Adminer (⭐7.3k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+*   [Adminer (⭐7.4k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
 *   [phpMyAdmin (⭐7.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
@@ -1079,8 +1085,8 @@ Everything that makes working with databases easier
 ### Schema / Changes
 
 *   [2bass (⭐44)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [flyway (⭐9.7k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐5.5k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 *   [Pyrseas (⭐407)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
