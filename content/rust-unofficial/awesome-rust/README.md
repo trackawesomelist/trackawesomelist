@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 
+### Libraries / Parsing
+
+*   [oxc-project/oxc (⭐21k)](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
+
 ## [Apr 30, 2026](/content/2026/04/30/README.md)
 
 ### Development tools / Workflow Automation

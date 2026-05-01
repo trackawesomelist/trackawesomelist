@@ -8,6 +8,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [May 01, 2026](/content/2026/05/01/README.md)
 
+### Database Tools
+
+*   [pgxcli (⭐16)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
+
+### Game Development
+
+*   [gogpu/wgpu (⭐80)](https://github.com/gogpu/wgpu) - Pure Go WebGPU implementation with Vulkan, DX12, and Metal backends, zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+
 ### GUI
 
 *   [gogpu/systray (⭐4)](https://github.com/gogpu/systray) - Pure Go system tray library for Windows, macOS, and Linux with zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).

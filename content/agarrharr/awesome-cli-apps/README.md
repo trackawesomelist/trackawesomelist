@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [May 01, 2026](/content/2026/05/01/README.md)
+
+### Development / Text Editors
+
+*   [Prosaic (⭐10)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+
 ## [Apr 30, 2026](/content/2026/04/30/README.md)
 
 ### AI / Agents
@@ -1303,7 +1309,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐656)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
+*   [sqlline (⭐657)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 
 ## [Jul 17, 2019](/content/2019/07/17/README.md)
 

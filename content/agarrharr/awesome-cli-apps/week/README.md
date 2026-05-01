@@ -8,6 +8,10 @@
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Development / Text Editors
+
+*   [Prosaic (⭐10)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+
 ### AI / Agents
 
 *   [lean-ctx (⭐925)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
@@ -1212,7 +1216,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐656)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
+*   [sqlline (⭐657)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
