@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 01, 2026](/content/2026/05/01/README.md)
+
+### Applications / Finance
+
+*   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+
 ## [Apr 30, 2026](/content/2026/04/30/README.md)
 
 ### Development tools / Workflow Automation

@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
+### Applications / Finance
+
+*   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+
 ### Applications / Games
 
 *   [garkimasera/gaia-maker (⭐62)](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
