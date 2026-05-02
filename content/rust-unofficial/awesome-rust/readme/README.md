@@ -810,6 +810,7 @@ See also [A comparison of operating systems written in Rust (⭐850)](https://gi
 
 ### Workflow Automation
 
+*   [cowork-forge (⭐52)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
 *   [dali-benothmen/cronflow (⭐108)](https://github.com/dali-benothmen/cronflow) - Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code. [![release](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml)
 
 ## Development tools
@@ -1464,6 +1465,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [GoPlasmatic/datalogic-rs (⭐61)](https://github.com/GoPlasmatic/datalogic-rs) \[[datalogic-rs](https://crates.io/crates/datalogic-rs)] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.
 *   [ironcalc/IronCalc (⭐3.9k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
 *   [kernelmachine/utah (⭐145)](https://github.com/kernelmachine/utah) - Dataframe structure and operations
+*   [lakehq/sail (⭐2.3k)](https://github.com/lakehq/sail) - Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 *   [pathwaycom/pathway (⭐63k)](https://github.com/pathwaycom/pathway) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 *   [pg\_analytics (⭐8.7k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 *   [pg\_lakehouse (⭐8.7k)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.

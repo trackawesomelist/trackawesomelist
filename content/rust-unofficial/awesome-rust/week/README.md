@@ -25,6 +25,10 @@ A curated list of Rust code and resources.
 *   [hook0/hook0 (⭐1.4k)](https://github.com/hook0/hook0) - An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks
 *   [zhom/donutbrowser (⭐2k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
 
+### Applications / Workflow Automation
+
+*   [cowork-forge (⭐52)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
+
 ### Development tools / Workflow Automation
 
 *   [Muvon/octocode (⭐336)](https://github.com/Muvon/octocode) \[[octocode](https://crates.io/crates/octocode)] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf. [![CI](https://github.com/Muvon/octocode/actions/workflows/ci.yml/badge.svg)](https://github.com/Muvon/octocode/actions/workflows/ci.yml)
@@ -37,6 +41,10 @@ A curated list of Rust code and resources.
 ### Libraries / Caching
 
 *   [salsa-rs/salsa (⭐2.8k)](https://github.com/salsa-rs/salsa) \[[salsa](https://crates.io/crates/salsa)] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system. [![Test](https://github.com/salsa-rs/salsa/workflows/Test/badge.svg)](https://github.com/salsa-rs/salsa/actions?query=workflow%3ATest)
+
+### Libraries / Data processing
+
+*   [lakehq/sail (⭐2.3k)](https://github.com/lakehq/sail) - Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 
 ### Libraries / Parsing
 
