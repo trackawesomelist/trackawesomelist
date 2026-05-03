@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 03, 2026](/content/2026/05/03/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [awakenworks/awaken (⭐70)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
+
 ## [May 02, 2026](/content/2026/05/02/README.md)
 
 ### Applications

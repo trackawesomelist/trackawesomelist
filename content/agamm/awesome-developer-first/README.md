@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [May 03, 2026](/content/2026/05/03/README.md)
+
+### Misc
+
+*   [Frigade](https://frigade.com) - SDK for shipping an in-product AI assistant that learns your app and takes actions on the user's behalf (open modals, navigate, walk through workflows).
+
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
 ### Misc
