@@ -6,6 +6,13 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [May 04, 2026](/content/2026/05/04/README.md)
+
+### Downloading, Installing, Upgrading, and Building
+
+*   [Qubes OS 4.3.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.3.0 download.
+*   [Qubes OS 4.3.0 Weekly Alpha Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.3 Weekly Alpha Build download.
+
 ## [May 03, 2026](/content/2026/05/03/README.md)
 
 ### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos
@@ -84,10 +91,6 @@ A curated list of awesome qubes os links
 ### Qubes OS Websites
 
 *   [Qubes OS Developer Books](https://www.qubes-os.org/doc/devel-books/) - A list of various books that might be useful in learning some basics needed for Qubes development.
-
-### Downloading, Installing, Upgrading, and Building
-
-*   [Qubes OS 4.3 Weekly Alpha Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.3 Weekly Alpha Build download.
 
 ### How-to guides
 
@@ -231,13 +234,6 @@ A curated list of awesome qubes os links
 ### Clearnet & Anonymous Networking / Crypto
 
 *   [Split Monero Wallet](https://www.getmonero.org/resources/user-guides/cli_wallet_daemon_isolation_qubes_whonix.html) - With Qubes + Whonix you can have a Monero wallet that is without networking and running on a virtually isolated system from the Monero daemon which has all of its traffic forced over Tor.
-
-## [Oct 20, 2024](/content/2024/10/20/README.md)
-
-### Downloading, Installing, Upgrading, and Building
-
-*   [Qubes OS 4.2.3](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.3 download.
-*   [Qubes OS 4.2.3 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2.3 Weekly Build download.
 
 ## [Jul 12, 2024](/content/2024/07/12/README.md)
 
