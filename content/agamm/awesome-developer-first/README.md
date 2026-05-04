@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [May 04, 2026](/content/2026/05/04/README.md)
+
+### Monitoring
+
+*   [Middleware](https://middleware.io/) - Full-stack observability platform with APM, distributed tracing, logs and infra metrics in one place.
+
 ## [May 03, 2026](/content/2026/05/03/README.md)
 
 ### Misc
