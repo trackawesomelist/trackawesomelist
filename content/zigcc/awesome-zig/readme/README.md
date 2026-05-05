@@ -147,8 +147,9 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [nix-community/zon2nix (⭐114)](https://github.com/nix-community/zon2nix) - Convert dependencies in build.zig.zon files to Nix expressions.
 *   [Cloudef/nix-zig-stdenv (⭐48)](https://github.com/Cloudef/nix-zig-stdenv) - Zig based cross-compiling toolchain.
 *   [joachimschmidt557/zigpkgs (⭐8)](https://github.com/joachimschmidt557/zigpkgs) - A collection of Zig packages built with Nix.
-*   [lispking/zvm (⭐0)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
+*   [lispking/zvm (⭐20)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 *   [nektro/zigmod (⭐924)](https://github.com/nektro/zigmod) - A package manager for the Zig programming language.
+*   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 *   [vezel-dev/zig-sdk (⭐104)](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 *   [tristanisham/zvm (⭐950)](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
 *   [rosarp/nu-zigup (⭐1)](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
@@ -248,7 +249,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Parser Library
 
-*   [OrlovEvgeny/zigquery (⭐2)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery (⭐4)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 *   [tree-sitter/zig-tree-sitter (⭐94)](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 
 ### Logging Processing
@@ -449,7 +450,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [williamw520/zigjr (⭐49)](https://github.com/williamw520/zigjr) - A lightweight Zig library for building JSON-RPC 2.0 applications.
 *   [zat.dev/zat](https://tangled.org/zat.dev/zat) - AT Protocol building blocks for zig.
 *   [zigcord](https://codeberg.org/lipfang/zigcord) - Typed Discord API for Zig.
-*   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
+*   [zquic (⭐7)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
 *   [zigtls (⭐2)](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 
 ### Browser
@@ -537,8 +538,8 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [thanos/couchbase-zig-client (⭐2)](https://github.com/thanos/couchbase-zig-client) - A wrapper around Couchbase's c library libcoucbase.
 *   [mailmug/zentropy (⭐43)](https://github.com/mailmug/zentropy) - High-performance, lightweight key-value store (Redis alternative).
 *   [seqor/seqor (⭐30)](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
-*   [zeno-core/zeno (⭐16)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
-*   [lispking/kvdb (⭐8)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
+*   [zeno-core/zeno (⭐19)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+*   [lispking/kvdb (⭐9)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
 ### Linear Algebra
 
@@ -765,7 +766,7 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 *   [Standalone (⭐5)](https://github.com/kassane/Standalone-Server) - An Asio standalone C++ HTTP/S Server (uses Zig build-system).
 *   [asio (⭐8)](https://github.com/kassane/asio) - The Asio C++ Library with Zig build-system.
 *   [observable (⭐0)](https://github.com/kassane/observable_unique_ptr) - Unique-ownership smart pointers with observable lifetime.
-*   [Catch2](https://github.com/kassane/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) - uses Zig build-system.
+*   [Catch2 (⭐0)](https://github.com/kassane/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) - uses Zig build-system.
 *   [cppfront (⭐1)](https://github.com/kassane/cppfront-zigbuild) - Build Cppfront w/ Zig build.
 *   [hana (⭐2)](https://github.com/kassane/hana) - Your standard library for metaprogramming.
 *   [intrusive (⭐0)](https://github.com/kassane/intrusive) - Boost.org intrusive module.

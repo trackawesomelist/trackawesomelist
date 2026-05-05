@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 05, 2026](/content/2026/05/05/README.md)
+
+### Fundamentals / Package and Version Manager
+
+*   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### Multimedia & Graphics / Game Development
@@ -22,17 +28,17 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [lispking/kvdb (⭐8)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
+*   [lispking/kvdb (⭐9)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
 ### Fundamentals / Package and Version Manager
 
-*   [lispking/zvm (⭐0)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
+*   [lispking/zvm (⭐20)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 
 ### Network & Web / Network
 
-*   [zquic (⭐3)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
+*   [zquic (⭐7)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
 
 ## [Apr 13, 2026](/content/2026/04/13/README.md)
 
@@ -54,7 +60,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [zeno-core/zeno (⭐16)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+*   [zeno-core/zeno (⭐19)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 
 ## [Mar 27, 2026](/content/2026/03/27/README.md)
 
@@ -76,7 +82,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Language Essentials / Parser Library
 
-*   [OrlovEvgeny/zigquery (⭐2)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery (⭐4)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
@@ -1266,7 +1272,7 @@ A collaborative list of awesome Zig libraries and resources.
 *   [Standalone (⭐5)](https://github.com/kassane/Standalone-Server) - An Asio standalone C++ HTTP/S Server (uses Zig build-system).
 *   [asio (⭐8)](https://github.com/kassane/asio) - The Asio C++ Library with Zig build-system.
 *   [observable (⭐0)](https://github.com/kassane/observable_unique_ptr) - Unique-ownership smart pointers with observable lifetime.
-*   [Catch2](https://github.com/kassane/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) - uses Zig build-system.
+*   [Catch2 (⭐0)](https://github.com/kassane/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) - uses Zig build-system.
 *   [cppfront (⭐1)](https://github.com/kassane/cppfront-zigbuild) - Build Cppfront w/ Zig build.
 *   [hana (⭐2)](https://github.com/kassane/hana) - Your standard library for metaprogramming.
 *   [intrusive (⭐0)](https://github.com/kassane/intrusive) - Boost.org intrusive module.
