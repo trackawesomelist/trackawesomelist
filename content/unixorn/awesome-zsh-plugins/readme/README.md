@@ -991,7 +991,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [baseballfunfacts (⭐3)](https://github.com/richardmoyer/baseballfunfacts) - Print random baseball related "fun facts" in your shell. Depends on `fortune` and `cowsay` being installed.
 *   [bash-quote (⭐7)](https://github.com/jtprog/bash-quote) - Get random quote from Bash.im.
 *   [bash (⭐40)](https://github.com/chrissicool/zsh-bash) - Makes ZSH more Bash compatible. It redefines the source command to act more like `bash` does. It also enables `bash` completions.
-*   [bat (⭐72)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐58k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐72)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐59k)](https://github.com/sharkdp/bat) users.
 *   [battery\_state (⭐8)](https://github.com/Jactry/zsh_battery_state) - Show battery state in right-prompt.
 *   [bd (⭐447)](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`.
 *   [bepoptimist (⭐2)](https://github.com/sheoak/zsh-bepoptimist/) Remaps vi-mode for the French [bépo](http://bepo.fr/wiki/Accueil) keyboard.
@@ -1172,12 +1172,12 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [extend-history (⭐11)](https://github.com/xav-b/zsh-extend-history) - Extends command history by adding the exit code for each command in the history.
 *   [ez-cmd (⭐2)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
 *   [ez-compinit (⭐38)](https://github.com/mattmc3/ez-compinit) - Wraps `compinit`, queueing up calls to `compdef`, and hooking the real `compinit` call to an event that runs at the end of your `.zshrc`. That way you get all the benefits of calling `compinit` early without any of the downsides.
-*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐21k)](https://github.com/eza-community/eza).
-*   [eza (mohamedelashri) (⭐9)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐21k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
-*   [eza (twopizza9621536) (⭐7)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐21k)](https://github.com/eza-community/eza).
-*   [eza (z-shell) (⭐117)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐21k)](https://github.com/eza-community/eza).
-*   [eza (zsh-contrib) (⭐0)](https://github.com/zsh-contrib/zsh-eza) - Plugin for [eza (⭐21k)](https://github.com/eza-community/eza) with Catppuccin and Rose Pine theming, smart defaults, and full alias support.
-*   [eza-ls (⭐1)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing [eza (⭐21k)](https://github.com/eza-community/eza), to act as a drop-in replacement for `ls` and `tree`.
+*   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
+*   [eza (mohamedelashri) (⭐9)](https://github.com/MohamedElashri/eza-zsh) - Adds aliases for [eza (⭐22k)](https://github.com/eza-community/eza), a modern replacement for `ls`.
+*   [eza (twopizza9621536) (⭐7)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
+*   [eza (z-shell) (⭐117)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐22k)](https://github.com/eza-community/eza).
+*   [eza (zsh-contrib) (⭐0)](https://github.com/zsh-contrib/zsh-eza) - Plugin for [eza (⭐22k)](https://github.com/eza-community/eza) with Catppuccin and Rose Pine theming, smart defaults, and full alias support.
+*   [eza-ls (⭐1)](https://github.com/birdhackor/zsh-eza-ls-plugin) - Adds aliases allowing [eza (⭐22k)](https://github.com/eza-community/eza), to act as a drop-in replacement for `ls` and `tree`.
 *   [f-shortcuts (⭐9)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐25)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [fast-alias-tips (⭐15)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐810)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐60)](https://github.com/sei40kr/zsh-fast-alias-tips).
@@ -1208,11 +1208,11 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [fzf (gimbo) (⭐1)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐80k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 *   [fzf (scaryrawr) (⭐3)](https://github.com/scaryrawr/fzf.zsh) - Adds keybindings for [fzf (⭐80k)](https://github.com/junegunn/fzf) inspired by [PatrickF1/fzf.fish (⭐2.6k)](https://github.com/PatrickF1/fzf.fish).
 *   [fzf (unixorn) (⭐414)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐80k)](https://github.com/junegunn/fzf) history and file searches.
-*   [fzf (zsh-contrib)](https://github.com/zsh-contrib/zsh-fzf) - Configures [fzf (⭐80k)](https://github.com/junegunn/fzf) with beautiful Catppuccin and Rose Pine color themes, adds file and directory picker key bindings, and wires up your preferred editor and file manager — so fuzzy finding feels native from day one.
+*   [fzf (zsh-contrib) (⭐1)](https://github.com/zsh-contrib/zsh-fzf) - Configures [fzf (⭐80k)](https://github.com/junegunn/fzf) with beautiful Catppuccin and Rose Pine color themes, adds file and directory picker key bindings, and wires up your preferred editor and file manager — so fuzzy finding feels native from day one.
 *   [fzf-copyq-clipboard (⭐5)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐80k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
 *   [fzf-dir-navigator (⭐59)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for ZSH using [fzf (⭐80k)](https://github.com/junegunn/fzf) that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session.
 *   [fzf-fasd (⭐59)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐80k)](https://github.com/junegunn/fzf) and [fasd (⭐5.9k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
-*   [fzf-finder (⭐23)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐80k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐58k)](https://github.com/sharkdp/bat) and [fd (⭐43k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
+*   [fzf-finder (⭐23)](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf (⭐80k)](https://github.com/junegunn/fzf) and (optionally) [bat (⭐59k)](https://github.com/sharkdp/bat) and [fd (⭐43k)](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
 *   [fzf-git-worktree (⭐2)](https://github.com/banyan/zsh-fzf-git-worktree) - Manage `git` worktrees with [fzf (⭐80k)](https://github.com/junegunn/fzf) integration.
 *   [fzf-history-search (⭐456)](https://github.com/joshskidmore/zsh-fzf-history-search) - Replaces `Ctrl+R` with an [fzf (⭐80k)](https://github.com/junegunn/fzf)-driven history search that includes date/times.
 *   [fzf-it (⭐7)](https://github.com/micakce/fzf-it) - Make any command interactive wrapping it with [fzf (⭐80k)](https://github.com/junegunn/fzf) functionality.
@@ -1279,7 +1279,8 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [git-status (⭐4)](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
 *   [git-switch-branch-skim (⭐1)](https://github.com/okhiroyuki/zsh-git-switch-branch-skim) - Allows you to switch `git` branches with [skim (⭐6.8k)](https://github.com/lotabout/skim)
 *   [git-sync (⭐46)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [git-to-jj (⭐17)](https://github.com/elithrar/zsh-git-to-jj) - Helps you progressively learn [Jujutsu (⭐28k)](https://github.com/jj-vcs/jj) (aka `jj`) porcelain as you use `git` commands.
+*   [git-tidy (⭐0)](https://github.com/silee9019/git-tidy) - Plugin for safely reviewing and removing local branches whose upstream branch is marked \[gone].
+*   [git-to-jj (⭐17)](https://github.com/elithrar/zsh-git-to-jj) - Helps you progressively learn [Jujutsu](https://github.com/jj-vcs/jj) (aka `jj`) porcelain as you use `git` commands.
 *   [git-worktree (alexiszamanidis) (⭐35)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐80k)](https://github.com/junegunn/fzf) tooling.
 *   [git-worktree (trthomps) (⭐5)](https://github.com/trthomps/git-worktree-zsh-plugin) - Enhanced `git worktree` management with bare repository support. This plugin provides convenient commands for working with `git` worktrees, making it easy to work on multiple branches simultaneously.
 *   [git-worktree-manager (⭐0)](https://github.com/tmbtech/zsh-git-worktree-manager) - Manage `git` worktrees with ease. Streamline your workflow when working with multiple branches simultaneously.
@@ -1378,7 +1379,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [jhipster (⭐39)](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) - Adds commands for [jHipster](https://www.jhipster.tech/).
 *   [jira-plus (⭐6)](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRA tickets from the command line.
 *   [jirarc (⭐0)](https://github.com/aoantov/jirarc) - Provides shortcuts for repetitive [Jira-cli (⭐5.5k)](https://github.com/ankitpokhrel/jira-cli) commands.
-*   [jj (⭐16)](https://github.com/rkh/zsh-jj) - Add support for [jujitsu (⭐28k)](https://github.com/jj-vcs/jj) VCS.
+*   [jj (⭐16)](https://github.com/rkh/zsh-jj) - Add support for [jujitsu](https://github.com/jj-vcs/jj) VCS.
 *   [journal (⭐4)](https://github.com/onurhanak/zsh-journal) - Lets you attach notes to shell commands you have run. Handy for remembering what a oneliner was actually doing when you look back at it later.
 *   [jq (⭐358)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3.7k)](https://github.com/itchyny/gojq). Requires [fzf (⭐80k)](https://github.com/junegunn/fzf).
 *   [jrgit (⭐0)](https://github.com/jrocha-dev/ohmyzsh-plugin-jrgit) - Provides a suite of functions to streamline the Git user experience. It includes features for installing and configuring `git`, handling large files with Git LFS, improving diff outputs, and managing credentials and keys securely.
@@ -1747,7 +1748,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [sshpky (⭐1)](https://github.com/jeffzhangc/sshpky_zsh_plugin) - Auto updates git-repositories in the `$ZSH_CUSTOM` folder.
 *   [sshukh (⭐8)](https://github.com/anatolykopyl/sshukh-zsh-plugin) - Will update your `known_hosts` file when you `ssh` into a server.
 *   [startify (⭐5)](https://github.com/NorthIsMirror/zsh-startify) - Shows recently used `vim` files, shell-util files, active `tmux` sessions, recently-run `git` commands and more.
-*   [startcache](https://github.com/rndjams/zsh-startcache) - Speeds up shell startup by caching the output of slow `eval "$(tool init)"` commands and replacing `compinit`'s fpath-string invalidation with time-based staleness. Saves 110ms–1180ms per shell depending on configuration.
+*   [startcache (⭐0)](https://github.com/rndjams/zsh-startcache) - Speeds up shell startup by caching the output of slow `eval "$(tool init)"` commands and replacing `compinit`'s fpath-string invalidation with time-based staleness. Saves 110ms–1180ms per shell depending on configuration.
 *   [startup-timer (⭐23)](https://github.com/paulmelnikow/zsh-startup-timer) - Print the time it takes for the shell to start up.
 *   [stashy (⭐6)](https://github.com/MisterRios/stashy) - Plugin that simplifies using `git stash`.
 *   [statify (⭐5)](https://github.com/vladmrnv/statify) - Plugin that does basic statistical analysis.
@@ -1907,8 +1908,8 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh).
 *   [yadm (⭐9)](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local `yadm` configuration changes.
 *   [yapipenv (⭐0)](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's `pip` environment if `pipenv` detects the presence of one.
-*   [yazi-mount (⭐0)](https://github.com/splixx05/zsh-yazi-mount) - Mount USB partitions via `udisksctl`, open them in [yazi (⭐37k)](https://github.com/sxyazi/yazi), and unmount them afterward – safe, clean, and user-friendly.
-*   [yazi-zoxide (⭐18)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐36k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐37k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
+*   [yazi-mount (⭐0)](https://github.com/splixx05/zsh-yazi-mount) - Mount USB partitions via `udisksctl`, open them in [yazi (⭐38k)](https://github.com/sxyazi/yazi), and unmount them afterward – safe, clean, and user-friendly.
+*   [yazi-zoxide (⭐18)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐36k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐38k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
 *   [yeoman (⭐41)](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's [Yeoman](http://yeoman.io/) plugin for [oh-my-zsh](https://ohmyz.sh/), compatible with yeoman version ≥1.0 (includes options and command auto-completion).
 *   [you-should-use (⭐1.9k)](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use those aliases you defined.
 *   [youtube-dl-aliases (⭐7)](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) - Adds `yt` aliases to download videos from YouTube.
@@ -1930,7 +1931,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [zenplash (⭐4)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
 *   [zenv (⭐2)](https://github.com/janitha/zenv) - Isolated working shell enviornments per directory (like `direnv`, but uses a new shell instance to provide cleaner isolation).
 *   [zero (⭐16)](https://github.com/arlimus/zero.zsh) - Zero is both a plugin and a theme. See the GitHub page for installation details. Includes `git` and `hg` status decorators.
-*   [zeza (⭐5)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐21k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
+*   [zeza (⭐5)](https://github.com/duggum/zeza) - Manages and customizes [eza (⭐22k)](https://github.com/eza-community/eza), the very colorful `ls` replacement.
 *   [zflai (⭐4)](https://github.com/zdharma-continuum/zflai) - A fast logging framework for ZSH.
 *   [zfzf (⭐26)](https://github.com/b0o/zfzf) - A [fzf (⭐80k)](https://github.com/junegunn/fzf)-powered file picker for ZSH which allows you to quickly navigate the directory hierarchy.
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
@@ -1970,7 +1971,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 *   [zsh-dev-navigator (⭐0)](https://github.com/dvigo/zsh-dev-navigator) - A minimal ZSH plugin that lets you quickly jump into your development directories with a single command.
 *   [zsh-expand (⭐40)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 *   [zsh-hookie-projects (⭐0)](https://github.com/aemonge/zsh-hookie-projects) - Language-agnostic project detection with smart hooks, PowerLevel10k integration, and intelligent path shortening. Automatically detects 100+ project types, provides customizable on\_project/off\_project hooks, features a smart `cd` command that goes to project root, and includes a beautiful `hookie_dir` segment that shortens paths like `~/projects/my-app` → `~/p/my-app`. Perfect for polyglot developers who want seamless project-aware shell behavior.
-*   [zsh-in-docker (⭐1.1k)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
+*   [zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-llm-assist (⭐5)](https://github.com/championswimmer/zsh-llm-assist) - Plain english to shell command suggestions as well as shell command to plain english explanation using Gemini CLI, Codex, Claude Code or OpenCode
 *   [zsh-make-completion (⭐1)](https://github.com/pksublime/zsh-make-completion) - Correct `make` tab completion for zsh. Uses `make -qp` to fully expand the makefile database, so targets generated via `$(eval $(call ...))` are included. Results are cached per-directory and invalidated automatically when Makefiles change.
 *   [zsh-not-vim (⭐3)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
@@ -2015,7 +2016,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [bash-completions-fallback (⭐67)](https://github.com/3v1n0/zsh-bash-completions-fallback) - Support `bash` completions for commands when no native ZSH one is available.
 *   [batect (⭐1)](https://github.com/batect/batect-zsh-completion/) - Adds tab completions for [batect](https://batect.dev/) build system.
 *   [berkshelf-completions (⭐17)](https://github.com/berkshelf/berkshelf-zsh-plugin) - Adds tab completion for berkshelf.
-*   [better-npm-completion (⭐499)](https://github.com/lukechilds/zsh-better-npm-completion) - Better tab completion for `npm`.
+*   [better-npm-completion (⭐500)](https://github.com/lukechilds/zsh-better-npm-completion) - Better tab completion for `npm`.
 *   [bio (⭐9)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 *   [bitbake (⭐7)](https://github.com/antznin/zsh-bitbake) - Completions for [bitbake](https://git.openembedded.org/bitbake).
 *   [bosh (krujos) (⭐2)](https://github.com/krujos/bosh-zsh-autocompletion) - Adds [BOSH (⭐2.1k)](https://github.com/cloudfoundry/bosh) autocompletion.
@@ -2076,7 +2077,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [fnm (⭐2)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐25k)](https://github.com/Schniz/fnm).
 *   [fvm (⭐1)](https://github.com/olrtg/zsh-fvm) - Adds tab completions for the [Flutter Version Manager (FVM)](https://fvm.app/).
 *   [fzf-gcloud (⭐26)](https://github.com/mbhynes/fzf-gcloud) - Fuzzy completion to navigate and preview all Google Cloud SDK `gcloud` CLI commands
-*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐80k)](https://github.com/junegunn/fzf), [bat (⭐58k)](https://github.com/sharkdp/bat) and [ripgrep (⭐63k)](https://github.com/BurntSushi/ripgrep).
+*   [fzf-rg (⭐1)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐80k)](https://github.com/junegunn/fzf), [bat (⭐59k)](https://github.com/sharkdp/bat) and [ripgrep (⭐63k)](https://github.com/BurntSushi/ripgrep).
 *   [fzf-tab-completion (⭐832)](https://github.com/lincheney/fzf-tab-completion) - Add tab completion for ZSH, `bash` & applications using GNU Readline.
 *   [fzf-zsh-completions (⭐169)](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for [fzf (⭐80k)](https://github.com/junegunn/fzf) and [ZSH](https://www.zsh.org/) that can be triggered by a trigger sequence that defaults to `**`.
 *   [fzshell (⭐80)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
@@ -2214,7 +2215,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [wsl-notify (⭐1)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐179)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
 *   [xcode (⭐62)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 *   [yabai (⭐16)](https://github.com/Amar1729/yabai-zsh-completions) - Add completions for macOS [yabai (⭐29k)](https://github.com/koekeishiya/yabai/) tiling window manager.
-*   [yarn-extra-completion (⭐36)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐499)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐36)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐500)](https://github.com/lukechilds/zsh-better-npm-completion).
 *   [yarn (⭐588)](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
 *   [yt-dlp (⭐9)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐158k)](https://github.com/yt-dlp/yt-dlp).
 *   [zenquotes (⭐0)](https://github.com/aminelch/zenquotes) - Displays a random quote from [zenquotes.io](https://zenquotes.io).
@@ -2712,7 +2713,6 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
 *   [lagnoda (⭐4)](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username\@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
 *   [lagune (⭐1)](https://github.com/noplay/lagune) - A minimal ZSH theme.
-*   [lambda (bluedragon1221) (⭐2)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
 *   [lambda (cdimascio) (⭐68)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐186k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
 *   [lambda (halfo) (⭐470)](https://github.com/halfo/lambda-mod-zsh-theme/) - A ZSH theme optimized for `git` users who use unicode-compatible fonts and terminal applications.
 *   [lambda-blazinggit (⭐0)](https://github.com/zalefin/lambda-blazinggit) - Includes blazing fast, detailed `git` information. Requires [Nerd Fonts (⭐63k)](https://github.com/ryanoasis/nerd-fonts) and the [gitstatus (⭐1.8k)](https://github.com/romkatv/gitstatus) plugin.

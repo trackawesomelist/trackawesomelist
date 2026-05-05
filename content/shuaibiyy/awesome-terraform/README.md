@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [May 05, 2026](/content/2026/05/05/README.md)
+
+### Boilerplates / IDE
+
+*   [Solo-Engineer Stack (⭐0)](https://github.com/sarmakska/terraform-stack) - Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One `terraform apply` provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.
+
 ## [May 04, 2026](/content/2026/05/04/README.md)
 
 ### Community

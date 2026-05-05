@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [leolaurindo/tunnelvision.nvim (⭐3)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
 
+### Bars and Lines / Colorscheme Switchers
+
+*   [zaakiy/line-justice.nvim (⭐11)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
+
 ### Terminal Integration / CSV Files
 
 *   [hawknewton/termyank.nvim (⭐2)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.
@@ -68,7 +72,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Comment
 
-*   [jeangiraldoo/codedocs.nvim (⭐77)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+*   [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 
 ### Pre-made Configuration / Automation
 
@@ -138,7 +142,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [cursortab/cursortab.nvim (⭐163)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+*   [cursortab/cursortab.nvim (⭐186)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
 
 ### Fuzzy Finder / Assembly
 
@@ -186,7 +190,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [emrearmagan/dockyard.nvim (⭐21)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+*   [emrearmagan/dockyard.nvim (⭐22)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -244,7 +248,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [dtormoen/neural-open.nvim (⭐58)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐59)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 ### Colorscheme / Assembly
 
@@ -253,7 +257,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player (⭐14)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐13)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ### Dependency Management / Quickfix
 
@@ -281,7 +285,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [nickjvandyke/opencode.nvim (⭐3.2k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐3.3k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 
 ### Programming Languages Support / Diagnostics
 
@@ -306,16 +310,16 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / CSV Files
 
-*   [TheLazyCat00/runner-nvim (⭐8)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+*   [TheLazyCat00/runner-nvim (⭐7)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 
 ### Git / Quickfix
 
-*   [YouSame2/inlinediff-nvim (⭐24)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
-*   [chojs23/ec (⭐182)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [YouSame2/inlinediff-nvim (⭐26)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
+*   [chojs23/ec (⭐192)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim (⭐98)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Database / Automation
 
@@ -2742,7 +2746,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Assembly
 
-*   [rolv-apneseth/tfm.nvim (⭐99)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐37k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐99)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐38k)](https://github.com/sxyazi/yazi)).
 
 ### Buffers / Assembly
 

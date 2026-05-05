@@ -851,6 +851,7 @@ additional ordered map implementations.
 *   [octillery (⭐200)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [onedump (⭐960)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 *   [pg\_timetable (⭐1.3k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
+*   [pgrwl (⭐106)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 *   [pgweb (⭐9.3k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 *   [pgxcli (⭐16)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
 *   [prep (⭐36)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
@@ -1586,7 +1587,7 @@ additional ordered map implementations.
 *   [pending (⭐6)](https://github.com/kahoon/pending) - ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.
 *   [sched (⭐30)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
 *   [scheduler (⭐469)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
-*   [scheduler (⭐4)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
+*   [scheduler (⭐5)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
 *   [tasks (⭐326)](https://github.com/madflojo/tasks) - An easy to use in-process scheduler for recurring tasks in Go.
 *   [tickstem/cron (⭐0)](https://github.com/tickstem/cron) - Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials.
 *   [tickstem/heartbeat (⭐0)](https://github.com/tickstem/heartbeat) - Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving.
@@ -2395,6 +2396,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 *   [procscope (⭐2)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 *   [qrand (⭐17)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+*   [Razify (⭐3)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 *   [redact (⭐1)](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 *   [SafeDep/vet (⭐1k)](https://github.com/safedep/vet) - Protect against malicious open source packages.
 *   [secret (⭐33)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
@@ -3023,7 +3025,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [sqlx (⭐18k)](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
 *   [sqlz (⭐9)](https://github.com/rfberaldo/sqlz) - Extension for the database/sql package, adding named queries, struct scanning, and batch operations.
 *   [sshman (⭐55)](https://github.com/shoobyban/sshman) - SSH Manager for authorized\_keys files on multiple remote servers.
-*   [stacktower (⭐507)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
+*   [stacktower (⭐508)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
 *   [statiks (⭐11)](https://github.com/janiltonmaciel/statiks) - Fast, zero-configuration, static HTTP filer server.
 *   [Storm (⭐2.1k)](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
 *   [structs (⭐24)](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
@@ -3536,7 +3538,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐35k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [CrunchyCleaner (⭐24)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
@@ -3582,7 +3584,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [portal (⭐1.7k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐743)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
-*   [scc (⭐8.3k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
+*   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐19)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.

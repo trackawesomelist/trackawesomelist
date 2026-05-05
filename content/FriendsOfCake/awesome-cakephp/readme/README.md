@@ -24,7 +24,7 @@ If you are looking for previous CakePHP resources please visit:
 Additional lists you might find useful:
 
 *   [CakePHP Plugins](https://plugins.cakephp.org)
-*   [Awesome PHP (⭐32k)](https://github.com/ziadoz/awesome-php)
+*   [Awesome PHP (⭐33k)](https://github.com/ziadoz/awesome-php)
 *   [Awesome Awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -409,6 +409,8 @@ IDE specific compatibility information and tips can be found [here (⭐186)](htt
 
 ### Web Applications
 
+*   [Toolbox](https://toolbox.dereuromark.de) - Online toolbox with useful tools for modern CakePHP apps. Powers the awesome CI/linter.
+
 ### CMS and applications built on CakePHP
 
 *   [baserCMS (⭐190)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
@@ -422,9 +424,10 @@ IDE specific compatibility information and tips can be found [here (⭐186)](htt
 *   [Fluentd + Grafana Loki demo application (⭐1)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/) via [Fluentd](https://www.fluentd.org/).
 *   [RealWorld (⭐105)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐83k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 *   [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-*   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
+*   [TinyAuth demo](https://github.com/dereuromark/cakephp-tinyauth-demo) - Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.
+*   [Query examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 *   [Xeta (⭐51)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
-*   [Vue.js Demo App (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
+*   [Vue.js demo app (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
 
 ## Resources
 

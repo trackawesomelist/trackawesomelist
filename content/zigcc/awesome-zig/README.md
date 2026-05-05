@@ -12,6 +12,18 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 
+### Multimedia & Graphics / GUI
+
+*   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
+
+### Interoperability / FFI Bindings
+
+*   [happystraw/phpz (⭐1)](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+
+### Interoperability / Build with Zig
+
+*   [libui-ng (⭐0)](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### Multimedia & Graphics / Game Development
@@ -54,7 +66,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [midasdf/zt (⭐34)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -124,7 +136,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Web3 Framework
 
-*   [StrobeLabs/eth.zig (⭐70)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+*   [StrobeLabs/eth.zig (⭐73)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
 
 ### Multimedia & Graphics / Image and Video Processing
 
@@ -185,7 +197,7 @@ A collaborative list of awesome Zig libraries and resources.
 ### Network & Web / Web3 Framework
 
 *   [gballet/zevem (⭐1)](https://github.com/gballet/zevem/) - Ethereum Virtual Machine written in Zig.
-*   [blockblaz/hash-zig (⭐9)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
+*   [blockblaz/hash-zig (⭐10)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
 
 ### Data & Science / Machine Learning Framework
 
@@ -199,7 +211,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Graphics Library
 
-*   [zsdl3 (⭐17)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
@@ -225,7 +237,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Machine Learning Framework
 
-*   [zml (⭐3.4k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [zml (⭐3.5k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 05, 2026](/content/2026/05/05/README.md)
+
+### Storage and Media Processing
+
+*   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
+
 ## [May 03, 2026](/content/2026/05/03/README.md)
 
 ### Tools for Teams and Collaboration
@@ -84,7 +90,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Metashot](https://metashot.io) — Open Graph (OG) social preview image generation API. Generate dynamic 1200×630 images for Twitter, LinkedIn and Facebook via URL params, edge-cached on Cloudflare Workers. Free tier: 1,000 renders/month. Paid plans from $12/month.
-    **[⬆️ Back to Top](#table-of-contents)**
 
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 

@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Tools Built with Polars / Miscellaneous
+
+*   [polars-query-dev-complexity](https://github.com/fran6w/polars-query-dev-complexity) - A lightweight tool for measuring the authoring complexity of Polars LazyFrame queries by [@fran6w](https://github.com/fran6w).
+
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Tutorials & workshops / Miscellaneous
@@ -16,7 +22,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Miscellaneous
 
-*   [polarise (⭐2)](https://github.com/egayer/polarise) - A Polars-native DataFrame styling tool for HTML visualization by [@egayer](https://github.com/egayer).
+*   [polarise (⭐3)](https://github.com/egayer/polarise) - A Polars-native DataFrame styling tool for HTML visualization by [@egayer](https://github.com/egayer).
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -55,7 +61,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Tutorials & workshops / Miscellaneous
 
-*   [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://medium.com/towards-data-science/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece) - First part of an article that explores the world of Rust’s Polars and explain some basic concepts of Polars such as Series by [@wiseaidev](https://github.com/wiseaidev). Code used is available on Github [here (⭐458)](https://github.com/wiseaidev/rust-data-analysis/blob/main/3-polars-tutorial-part-1.ipynb).
+*   [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://medium.com/towards-data-science/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece) - First part of an article that explores the world of Rust’s Polars and explain some basic concepts of Polars such as Series by [@wiseaidev](https://github.com/wiseaidev). Code used is available on Github [here (⭐460)](https://github.com/wiseaidev/rust-data-analysis/blob/main/3-polars-tutorial-part-1.ipynb).
 *   [Fast String Processing with Polars — Scam Emails Dataset](https://medium.com/towards-data-science/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐69)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 *   [Data Pipelines with Polars: Step-by-Step Guide](https://medium.com/towards-data-science/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐69)](https://github.com/aruberts/tutorials/tree/main/polars).
 *   [Introduction course that introduces the concept of DataFrame (⭐0)](https://github.com/TLouf/Py4DataSci-course) with Polars and Python. It also proposes some corrected exercices by [@TLouf](https://github.com/TLouf).
@@ -70,7 +76,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Pandas vs. Polars — Time to Switch?](https://medium.com/towards-data-science/pandas-vs-polars-time-to-switch-932d62e7e829) - A blog post that compares Polars to Pandas in a series of 4 benchmarks performed on a csv file with 11 million rows by [@daradecic](https://github.com/daradecic).
 *   [Polars: A Modern DataFrame Library](https://medium.com/gitconnected/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
 *   [Case Study Comparing Pandas and Polars with 1 Million Rows Data](https://medium.com/towards-data-science/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2) - An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python.
-*   [Build a Decision Tree in Polars from Scratch](https://medium.com/towards-data-science/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐6)](https://github.com/tocab/efficient-trees).
+*   [Build a Decision Tree in Polars from Scratch](https://medium.com/towards-data-science/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here](https://github.com/tocab/efficient-trees).
 *   [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
 
 ### Talks and videos / Miscellaneous
@@ -81,7 +87,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Finance
 
-*   [jquantstats (⭐27)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github.com/tschm).
+*   [jquantstats (⭐30)](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github.com/tschm).
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -103,7 +109,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Validation
 
-*   [wimsey (⭐170)](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
+*   [wimsey](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
 
 ### Polars plugins / Machine Learning & Data Science
 
@@ -113,7 +119,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Validation
 
-*   [truthound (⭐17)](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
+*   [truthound](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
 
 ### Polars plugins / General utilities / Performance
 
@@ -132,12 +138,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Import / Export
 
-*   [polars-redis (⭐5)](https://github.com/joshrotenberg/polars-redis) - Polars IO plugin for Redis - scan hashes, JSON, and other data types as LazyFrames with projection pushdown and RediSearch support by [@joshrotenberg](https://github.com/joshrotenberg).
+*   [polars-redis](https://github.com/joshrotenberg/polars-redis) - Polars IO plugin for Redis - scan hashes, JSON, and other data types as LazyFrames with projection pushdown and RediSearch support by [@joshrotenberg](https://github.com/joshrotenberg).
 *   [excelsior (⭐6)](https://github.com/krakotay/excelsior) - High-performance library for modifying Excel files with Polars.
 
 ### Polars plugins / Validation
 
-*   [daffy (⭐57)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
+*   [daffy (⭐58)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -153,7 +159,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Miscellaneous
 
-*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐155)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐159)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -164,14 +170,14 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Import / Export
 
-*   [polars\_readstat (⭐25)](https://github.com/jrothbaum/polars_readstat) - Polars IO plugin to read SAS, Stata and SPSS file by [@jrothbaum](https://github.com/jrothbaum).
+*   [polars\_readstat (⭐30)](https://github.com/jrothbaum/polars_readstat) - Polars IO plugin to read SAS, Stata and SPSS file by [@jrothbaum](https://github.com/jrothbaum).
 *   [polars-root (⭐5)](https://github.com/DanielMaysWilliams/polars-root) - Polars plugin for reading CERN's ROOT file format by [@DanielMaysWilliams](https://github.com/DanielMaysWilliams).
-*   [polars-fastx (⭐4)](https://github.com/apcamargo/polars-fastx) - Polars plugin for parsing FASTA and FASTQ files into DataFrames by [@apcamargo](https://github.com/apcamargo).
+*   [polars-fastx](https://github.com/apcamargo/polars-fastx) - Polars plugin for parsing FASTA and FASTQ files into DataFrames by [@apcamargo](https://github.com/apcamargo).
 
 ### Polars plugins / Data Manipulation
 
 *   [polars-permute-plugin (⭐15)](https://github.com/lmmx/polars-permute-plugin) - Polars plugin for easily reordering DataFrame columns by [@lmmx](https://github.com/lmmx).
-*   [polars-schema-index (⭐4)](https://github.com/lmmx/polars-schema-index) - Polars plugin for flattening nested data by [@lmmx](https://github.com/lmmx).
+*   [polars-schema-index](https://github.com/lmmx/polars-schema-index) - Polars plugin for flattening nested data by [@lmmx](https://github.com/lmmx).
 *   [polars-expr-hopper (⭐6)](https://github.com/lmmx/polars-expr-hopper) - Polars plugin providing a hopper of expressions for automatic, schema-aware application by [@lmmx](https://github.com/lmmx).
 
 ### Polars plugins / Geographical / Spatial
@@ -188,35 +194,35 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Machine Learning & Data Science
 
-*   [polars-fastembed (⭐2)](https://github.com/lmmx/polars-fastembed) - Polars plugin for embedding DataFrames by [@lmmx](https://github.com/lmmx).
-*   [retrofit (⭐26)](https://github.com/AdrianAntico/RetroFit) - Machine learning framework built with Polars by [@AdrianAntico](https://github.com/AdrianAntico).
+*   [polars-fastembed (⭐5)](https://github.com/lmmx/polars-fastembed) - Polars plugin for embedding DataFrames by [@lmmx](https://github.com/lmmx).
+*   [retrofit](https://github.com/AdrianAntico/RetroFit) - Machine learning framework built with Polars by [@AdrianAntico](https://github.com/AdrianAntico).
 
 ### Polars plugins / Language
 
-*   [polars-sbert (⭐2)](https://github.com/lmmx/polars-sbert) - Polars plugin for embedding data with Sentence Transformers by [@lmmx](https://github.com/lmmx).
+*   [polars-sbert](https://github.com/lmmx/polars-sbert) - Polars plugin for embedding data with Sentence Transformers by [@lmmx](https://github.com/lmmx).
 
 ### Polars plugins / Finance
 
 *   [polars-trading (⭐61)](https://github.com/ngriffiths13/polars-trading) - A collection of helpful polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [polars\_plugin\_option\_pricing (⭐5)](https://github.com/oscar6echo/polars-plugin-option-pricing) - Polars plugin exposing rust crate option-pricing by [@oscar6echo](https://github.com/oscar6echo).
 *   [polars-order-book (⭐5)](https://github.com/ChristopherRussell/polars-order-book) - Polars plugin  for enriching orderbook data with best bid and offer information by [@ChristopherRussell](https://github.com/ChristopherRussell).
-*   [polars-fin (⭐2)](https://github.com/LVG77/polars-fin) - Polars plugin to calculate financial metrics by [@LVG77](https://github.com/LVG77).
+*   [polars-fin](https://github.com/LVG77/polars-fin) - Polars plugin to calculate financial metrics by [@LVG77](https://github.com/LVG77).
 
 ### Polars plugins / General utilities / Performance
 
 *   [polars-argpartition (⭐10)](https://github.com/GiovanniGiacometti/polars-argpartition) - Polars plugin that implements the argpartition function by [@GiovanniGiacometti](https://github.com/GiovanniGiacometti).
 *   [polars-path (⭐1)](https://github.com/gorkaerana/polars-path) - Polars plugin with filesystem path utilities by [@gorkaerana](https://github.com/gorkaerana).
-*   [polars-genson (⭐10)](https://github.com/lmmx/polars-genson) - Fast JSON schema inference with support for Polars DataFrames by [@lmmx](https://github.com/lmmx).
-*   [polars-extensions (⭐6)](https://github.com/jrasband-dev/polars-extensions) - Polars plugin that extends the capabilities of Polars with functionalities that are not currently found in Polars by [@jrasband-dev](https://github.com/jrasband-dev).
-*   [polars-nexpresso (⭐6)](https://github.com/heshamdar/polars-nexpresso) - Polars plugins for generating Polars expressions to work with nested data structures by [@heshamdar](https://github.com/heshamdar).
+*   [polars-genson (⭐11)](https://github.com/lmmx/polars-genson) - Fast JSON schema inference with support for Polars DataFrames by [@lmmx](https://github.com/lmmx).
+*   [polars-extensions](https://github.com/jrasband-dev/polars-extensions) - Polars plugin that extends the capabilities of Polars with functionalities that are not currently found in Polars by [@jrasband-dev](https://github.com/jrasband-dev).
+*   [polars-nexpresso (⭐7)](https://github.com/heshamdar/polars-nexpresso) - Polars plugins for generating Polars expressions to work with nested data structures by [@heshamdar](https://github.com/heshamdar).
 *   [polarsFE (⭐4)](https://github.com/AdrianAntico/PolarsFE) - Polars plugins with helper functions for feature engineering, using Polars by [@AdrianAntico](https://github.com/AdrianAntico).
 
 ### Polars plugins / Miscellaneous
 
 *   [polars-graphframes (⭐9)](https://github.com/t-ded/polars-graphframes) - Polars plugin for interconnection of graphs and networks with Frames by [@t-ded](https://github.com/t-ded).
-*   [polars-phonetics (⭐3)](https://github.com/LeCodeMinister/polars-phonetics) - Polars plugin for phonetic algorithms by [@LeCodeMinister](https://github.com/LeCodeMinister).
+*   [polars-phonetics](https://github.com/LeCodeMinister/polars-phonetics) - Polars plugin for phonetic algorithms by [@LeCodeMinister](https://github.com/LeCodeMinister).
 *   [polars-holidays (⭐1)](https://github.com/mrjsj/polars-holidays) - Polars plugin for determining if a date is a holiday  by [@mrjsj](https://github.com/mrjsj).
-*   [polars-cache (⭐4)](https://github.com/alipatti/polars_cache) - Polars plugin to automatically cache the result of expensive queries to disc by [@alipatti](https://github.com/alipatti).
+*   [polars-cache](https://github.com/alipatti/polars_cache) - Polars plugin to automatically cache the result of expensive queries to disc by [@alipatti](https://github.com/alipatti).
 *   [pl\_series\_hash (⭐2)](https://github.com/paddymul/pl_series_hash) - Fast series hashing for polars, useful for caching by [@paddymul](https://github.com/paddymul).
 
 ### Books / Miscellaneous
@@ -238,15 +244,15 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Import / Export
 
-*   [polars\_io (⭐5)](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
+*   [polars\_io (⭐6)](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
 
 ### Polars plugins / Mathematical & Statistical Functions
 
-*   [polars\_rng (⭐4)](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
+*   [polars\_rng (⭐5)](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
 
 ### Go / Miscellaneous
 
-*   [go-polars (⭐79)](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
+*   [go-polars](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -257,11 +263,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Machine Learning & Data Science
 
-*   [polars-ds (⭐624)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
+*   [polars-ds (⭐634)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 
 ### Polars plugins / AI
 
-*   [polar\_llama (⭐28)](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
+*   [polar\_llama](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
 
 ### Polars plugins / Language
 
@@ -269,12 +275,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars-avro (⭐4)](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
-*   [turtle-island (⭐7)](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
+*   [polars-avro](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
+*   [turtle-island (⭐9)](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 
 ### Polars plugins / Visualization
 
-*   [seaborn\_polars (⭐32)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
+*   [seaborn\_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 
 ### Polars plugins / Miscellaneous
 
@@ -282,7 +288,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Rust / Miscellaneous
 
-*   [plotlars (⭐636)](https://github.com/alceal/plotlars) `plotlars` is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
+*   [plotlars (⭐657)](https://github.com/alceal/plotlars) `plotlars` is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
 
 ### Tutorials & workshops / Miscellaneous
 
@@ -310,13 +316,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Validation
 
-*   [dataframely (⭐568)](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
+*   [dataframely (⭐588)](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars\_streaming\_csv\_decompression (⭐22)](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
+*   [polars\_streaming\_csv\_decompression](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -326,7 +332,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars\_list\_utils (⭐14)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
+*   [polars\_list\_utils](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
 
 ### Rust / Miscellaneous
 
@@ -350,7 +356,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Import / Export
 
-*   [polars\_access\_mdbtools (⭐6)](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
+*   [polars\_access\_mdbtools (⭐7)](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
 
 ### Polars plugins / Time series / Datetime
 
@@ -358,7 +364,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Tools Built with Polars / Miscellaneous
 
-*   [polars-explorer (⭐37)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
+*   [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -370,13 +376,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars-config-meta (⭐19)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
+*   [polars-config-meta (⭐20)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Polars plugins / Time series / Datetime
 
-*   [polars-ts (⭐36)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
+*   [polars-ts (⭐39)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
 
 ### Blog posts / Miscellaneous
 
@@ -388,7 +394,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Geographical / Spatial
 
-*   [polars-st (⭐174)](https://github.com/Oreilles/polars-st) - Polars plugin that provides geographical/spatial operations on Polars DataFrames, Series, and Expressions by [@Oreilles](https://github.com/Oreilles).
+*   [polars-st (⭐176)](https://github.com/Oreilles/polars-st) - Polars plugin that provides geographical/spatial operations on Polars DataFrames, Series, and Expressions by [@Oreilles](https://github.com/Oreilles).
 
 ### Polars plugins / Mathematical & Statistical Functions
 
@@ -396,19 +402,19 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [polars-utils (⭐18)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
+*   [polars-utils (⭐20)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
 ### Polars plugins / Geographical / Spatial
 
-*   [polars-h3 (⭐120)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
+*   [polars-h3 (⭐123)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Polars plugins / Validation
 
-*   [polars-validator (⭐15)](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
+*   [polars-validator](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -446,7 +452,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Text similarity / Fuzzy Matching
 
-*   [polars-strsim (⭐28)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
+*   [polars-strsim (⭐29)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
 
 ### Polars plugins / Mathematical & Statistical Functions
 
@@ -454,7 +460,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Talks and videos / Miscellaneous
 
-*   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=5V_MvnwTVwc) ⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by [@kimfetti](https://github.com/kimfetti). Associated github repo is [here (⭐35)](https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024).
+*   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=5V_MvnwTVwc) ⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by [@kimfetti](https://github.com/kimfetti). Associated github repo is [here](https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024).
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -480,7 +486,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [harley (⭐12)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
+*   [harley (⭐13)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
@@ -511,7 +517,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Text similarity / Fuzzy Matching
 
-*   [polars-distance (⭐102)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for text similarity/pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-distance (⭐103)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for text similarity/pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
 
 ### Polars plugins / General utilities / Performance
 
@@ -527,13 +533,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Talks and videos / Miscellaneous
 
-*   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=OTVDmA6CRlQ) ⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by [@KeithGalli](https://github.com/KeithGalli). Associated github repo is [here (⭐5)](https://github.com/KeithGalli/polars-livestream).
+*   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=OTVDmA6CRlQ) ⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by [@KeithGalli](https://github.com/KeithGalli). Associated github repo is [here](https://github.com/KeithGalli/polars-livestream).
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Polars plugins / Machine Learning & Data Science
 
-*   [polars-ml (⭐15)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
+*   [polars-ml](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
@@ -543,7 +549,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / General utilities / Performance
 
-*   [life\_polars\_plugin (⭐4)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
+*   [life\_polars\_plugin](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
 
 ### Talks and videos / Miscellaneous
 
@@ -565,7 +571,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / String parsing
 
-*   [polars\_iptools (⭐29)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
+*   [polars\_iptools (⭐32)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
 
 ### Polars plugins / Miscellaneous
 
@@ -591,7 +597,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Blog posts / Miscellaneous
 
-*   [Spark vs Polars. Real-life Test Case](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐13)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
+*   [Spark vs Polars. Real-life Test Case](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Polars vs. Pandas: 30 Comparison Functions](https://medium.com/@yunuskaradagg/polars-vs-pandas-30-comparison-functions-95335430021b) - A reminder blog post that compares 30 functions written with Polars and Pandas by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 *   [Polars vs. SQL: When to Choose Python for Your Data Adventures](https://medium.com/@yunuskaradagg/polars-vs-sql-when-to-choose-python-for-your-data-adventures-a3bb24c93baf) - A blog post that explores some common functions and their counterparts in both Polars and SQL by [Yunuskaradagg](https://medium.com/@yunuskaradagg).
 *   [Age of DataFrames II: Polars Edition](https://medium.com/datamindedbe/age-of-dataframes-2-polars-edition-83442a06bced) - A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by \[@woutergins]. Source code available [here (⭐0)](https://github.com/woutergins/age-of-dataframes)
@@ -607,11 +613,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Machine Learning & Data Science
 
-*   [polars-candle (⭐29)](https://github.com/wdoppenberg/polars-candle) - Polars plugin for running [candle (⭐20k)](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
+*   [polars-candle (⭐30)](https://github.com/wdoppenberg/polars-candle) - Polars plugin for running [candle](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 
 ### Blog posts / Miscellaneous
 
-*   [Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!](https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1) - An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github [here (⭐1)](https://github.com/sm823zw/pandas-vs-polars).
+*   [Pandas vs Polars? Bid Adieu to Pandas and Switch To Polars!](https://towardsai.net/p/machine-learning/pandas-vs-polars-bid-adieu-to-pandas-and-switch-to-polars?amp=1) - An article that compares Polars to Pandas with a dataset of 1.2 GB. Code used is available on Github [here](https://github.com/sm823zw/pandas-vs-polars).
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
@@ -627,18 +633,18 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Talks and videos / Miscellaneous
 
 *   [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by Igor Mintz.
-*   [Polars-Cookbook in Python (⭐357)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
+*   [Polars-Cookbook in Python](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Polars plugins / Miscellaneous
 
-*   [polars-finance (⭐61)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+*   [polars-finance](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [Polars OLS (⭐199)](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
 
 ### Tutorials & workshops / Miscellaneous
 
-*   [Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide (⭐315)](https://github.com/jeroenjanssens/python-polars-the-definitive-guide) - Useful Python notebooks ordered by book chapter by [@jeroenjanssens](https://github.com/jeroenjanssens).
+*   [Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide (⭐317)](https://github.com/jeroenjanssens/python-polars-the-definitive-guide) - Useful Python notebooks ordered by book chapter by [@jeroenjanssens](https://github.com/jeroenjanssens).
 
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
@@ -648,7 +654,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Polars plugins / Miscellaneous
 
-*   [polars\_ta (⭐242)](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
+*   [polars\_ta](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
@@ -697,7 +703,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Blog posts / Miscellaneous
 
-*   [Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins?](https://www.confessionsofadataguy.com/dataframe-showdown-polars-vs-spark-vs-pandas-vs-datafusion-guess-who-wins/) - A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐6)](https://github.com/danielbeach/DataFrameShowDown).
+*   [Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins?](https://www.confessionsofadataguy.com/dataframe-showdown-polars-vs-spark-vs-pandas-vs-datafusion-guess-who-wins/) - A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here](https://github.com/danielbeach/DataFrameShowDown).
 *   [Polars - modern data frame library](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
 *   [Lightning-fast queries with Polars](https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3) - Another blog post that is a good introduction to Polars by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [Exploring Polars - The Lightning-Fast DataFrame Library in Python](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
@@ -738,7 +744,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Official documentation
 
 *   [Documentation for Node.js API](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
-*   [Shared library plugins for Polars (⭐307)](https://github.com/pola-rs/pyo3-polars).
+*   [Shared library plugins for Polars](https://github.com/pola-rs/pyo3-polars).
 
 ### Blog posts / Miscellaneous
 
@@ -784,7 +790,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Talks and videos / Miscellaneous
 
 *   [Polars DataFrame](https://www.youtube.com/watch?v=clq4NB1OaIA) ⏳ 41 min - A video that shows some basic manipulations with Polars and Python by [@vedica1011](https://github.com/vedica1011). Notebook used for the video [in this github repo (⭐0)](https://github.com/vedica1011/Polars).
-*   [Why I switched grom Pandas to Polars](https://www.youtube.com/watch?v=u5mIDz5ldmI) ⏳ 53 min - A workshop that breaks down the 3 reasons why you could switched from Pandas to Polars by [@bfeif](https://github.com/bfeif). Notebook used for the video [in this github repo (⭐2)](https://github.com/bfeif/personal-website/blob/main/code/notebooks/the-3-reasons-why-i-have-permanently-switched-from-pandas-to-polars.ipynb).
+*   [Why I switched grom Pandas to Polars](https://www.youtube.com/watch?v=u5mIDz5ldmI) ⏳ 53 min - A workshop that breaks down the 3 reasons why you could switched from Pandas to Polars by [@bfeif](https://github.com/bfeif). Notebook used for the video [in this github repo](https://github.com/bfeif/personal-website/blob/main/code/notebooks/the-3-reasons-why-i-have-permanently-switched-from-pandas-to-polars.ipynb).
 *   [Intro to Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo6M-YXwZ5cadqr3EMwPoteP\&si=wc1GLcOGcRZU3Uz1) ⏳ 7 videos - A playlist of 7 videos that introduces the basic concepts of Polars (DataFrames, filtering, splitting...) by Joram Mutenge.
 *   [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u\&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by Joram Mutenge.
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
@@ -820,11 +826,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Rust / Miscellaneous
 
-*   [Polars CLI (⭐197)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
+*   [Polars CLI (⭐198)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
 
 ### Tutorials & workshops / Miscellaneous
 
-*   [Python Polars: A Lightning-Fast DataFrame Library](https://realpython.com/polars-python/) - A tutorial that shows how to use Polars with Python ecosystem by [@hfhoffman1144](https://github.com/hfhoffman1144). Code used is available on Github [here (⭐5.1k)](https://github.com/realpython/materials/tree/master/python-polars).
+*   [Python Polars: A Lightning-Fast DataFrame Library](https://realpython.com/polars-python/) - A tutorial that shows how to use Polars with Python ecosystem by [@hfhoffman1144](https://github.com/hfhoffman1144). Code used is available on Github [here (⭐5.2k)](https://github.com/realpython/materials/tree/master/python-polars).
 
 ### Talks and videos / Miscellaneous
 
@@ -849,7 +855,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### R / Miscellaneous
 
-*   [tidypolars for R (⭐232)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+*   [tidypolars for R (⭐233)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 
 ### Blog posts / Miscellaneous
 
@@ -861,7 +867,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Blog posts / Miscellaneous
 
 *   [EDA with Polars: Step-by-Step Guide to Aggregate and Analytic Functions (Part 2)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-to-aggregate-and-analytic-functions-part-2-a22d986315aa) - A blog post that shows how to perform with Polars and Python some fairly complex aggregates, rolling statistics and more by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available in [this notebook (⭐69)](https://github.com/aruberts/tutorials/blob/main/polars/time_analysis.ipynb).
-*   [Pyspark or Polars — What should you use?](https://medium.com/data-engineer-things/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6) - A blog post that explores and breaks down some of the similarities between PySpark and Polars. It provides insights on when to choose one over the other by [Vivek Kovvuru](https://www.linkedin.com/in/vivekkovvuru/).
+*   [Pyspark or Polars — What should you use?](https://medium.com/data-engineer-things/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6) - A blog post that explores and breaks down some of the similarities between PySpark and Polars. It provides insights on when to choose one over the other.
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -871,13 +877,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Talks and videos / Miscellaneous
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐94)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Tutorials & workshops / Miscellaneous
 
-*   [Polars cookbook in Python (⭐277)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
+*   [Polars cookbook in Python (⭐278)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -890,7 +896,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Tutorials & workshops / Miscellaneous
 
 *   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/) - A side-by-side comparison of Polars, R base, dplyr and data.table packages by [@ddotta](https://github.com/ddotta).
-*   [Polars Workshop on AWS (⭐16)](https://github.com/debnsuma/pycon_polars101) - A comprehensive workshop comparing Polars to Pandas, exploring a wide range of functions and features by [@debnsuma](https://github.com/debnsuma).
+*   [Polars Workshop on AWS](https://github.com/debnsuma/pycon_polars101) - A comprehensive workshop comparing Polars to Pandas, exploring a wide range of functions and features by [@debnsuma](https://github.com/debnsuma).
 
 ### Blog posts / Miscellaneous
 
@@ -914,7 +920,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Ruby / Miscellaneous
 
-*   [polars for Ruby (⭐981)](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
+*   [polars for Ruby (⭐984)](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
 ### Blog posts / Miscellaneous
 
@@ -945,7 +951,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Blog posts / Miscellaneous
 
 *   [DuckDB vs Polars vs Spark!](https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/) - An article that performs a benchmark against duckdb/Polars/spark, with varying row count, with swap usage as another metric, in addition to runtime in seconds. Code used is available on Github [here (⭐6)](https://github.com/kahnwong/dataframe-frameworks-showdown).
-*   [Benchmarking PySpark Pandas, Pandas UDFs, and Fugue Polars](https://medium.com/fugue-project/benchmarking-pyspark-pandas-pandas-udfs-and-fugue-polars-198c3109a226) - A blog post that compares the execution time of [fugue (⭐2.1k)](https://github.com/fugue-project/fugue/) + Polars, Pandas UDFs and PySpark Pandas by [@kvnkho](https://github.com/kvnkho).
+*   [Benchmarking PySpark Pandas, Pandas UDFs, and Fugue Polars](https://medium.com/fugue-project/benchmarking-pyspark-pandas-pandas-udfs-and-fugue-polars-198c3109a226) - A blog post that compares the execution time of [fugue (⭐2.2k)](https://github.com/fugue-project/fugue/) + Polars, Pandas UDFs and PySpark Pandas by [@kvnkho](https://github.com/kvnkho).
 *   [Pandas vs. Polars: The Battle of Performance](https://www.makeuseof.com/pandas-vs-polars-which-is-better/) - An another blog post that compares the performance between Pandas and Polars across a range of common data manipulation tasks by [@makeuseofcode](https://github.com/makeuseofcode). Code used is available on [Github (⭐0)](https://github.com/makeuseofcode/Polars-vs-Pandas-Comparison).
 *   [Pandas 2.0 vs Polars: The Ultimate Battle](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1) - A blog post that analyzes in terms of Syntax, Speed, and Usability between Pandas 2.0 and Polars 0.17.0 by [@priyanshu7401](https://github.com/priyanshu7401).
 
@@ -973,18 +979,14 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Scala/Java / Miscellaneous
 
-*   [scala-polars for Scala and Java (⭐105)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐107)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ### Tutorials & workshops / Miscellaneous
 
-*   [A Practical Comparison of Polars and Pandas](https://florianwilhelm.info/2021/05/polars_pandas_comparison_notebook/) - A tutorial that showcases several common operations in Pandas and Polars side by side to demonstrate how much easier Polars is by [@FlorianWilhelm](https://github.com/FlorianWilhelm/). There is also an accompanying [Jupyter notebook (⭐44)](https://github.com/FlorianWilhelm/polars_vs_pandas/blob/master/pl_vs_pd.ipynb) available.
+*   [A Practical Comparison of Polars and Pandas](https://florianwilhelm.info/2021/05/polars_pandas_comparison_notebook/) - A tutorial that showcases several common operations in Pandas and Polars side by side to demonstrate how much easier Polars is by [@FlorianWilhelm](https://github.com/FlorianWilhelm/). There is also an accompanying [Jupyter notebook](https://github.com/FlorianWilhelm/polars_vs_pandas/blob/master/pl_vs_pd.ipynb) available.
 *   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post](https://ssphub.netlify.app/post/polars/).
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
-
-### Tutorials & workshops / Miscellaneous
-
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐40)](https://github.com/barbosarafael/polars_python_test).
 
 ### Blog posts / Miscellaneous
 
@@ -999,7 +1001,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Talks and videos / Miscellaneous
 
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐55)](https://github.com/martinbel/polars-tutorial).
-*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) ⏳ `51 min` - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) ⏳ `51 min` - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -1045,15 +1047,15 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Rust / Miscellaneous
 
-*   [GeoPolars](https://geopolars.org/) `Geopolars` pre-alpha Rust crate that extends the Polars DataFrame library for use with geospatial data (not in active development - see [top of readme (⭐875)](https://github.com/geopolars/geopolars)).
+*   [GeoPolars](https://geopolars.org/) `Geopolars` pre-alpha Rust crate that extends the Polars DataFrame library for use with geospatial data (not in active development - see [top of readme](https://github.com/geopolars/geopolars)).
 
 ### R / Miscellaneous
 
-*   [rpolars for R (⭐562)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+*   [rpolars for R (⭐561)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 
 ### Node.js / Miscellaneous
 
-*   [nodejs-polars for Node.js (⭐710)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+*   [nodejs-polars for Node.js (⭐721)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
 
 ### Tutorials & workshops / Miscellaneous
 

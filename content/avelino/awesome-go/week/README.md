@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
+### Database Tools
+
+*   [pgrwl (⭐106)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
+
 ### Distributed Systems
 
 *   [lock (⭐1)](https://github.com/ubgo/lock) - Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability hooks across all backends.
@@ -15,6 +19,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Job Scheduler
 
 *   [tickstem/heartbeat (⭐0)](https://github.com/tickstem/heartbeat) - Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving.
+
+### Security
+
+*   [Razify (⭐3)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -79,7 +87,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [stacktower (⭐507)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
+*   [stacktower (⭐508)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
 
 ### Web Frameworks
 
@@ -217,7 +225,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Job Scheduler
 
-*   [scheduler (⭐4)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
+*   [scheduler (⭐5)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
 
 ### Strings
 
@@ -5642,7 +5650,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐35k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐78)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
@@ -5676,7 +5684,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.7k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
-*   [scc (⭐8.3k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
+*   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐19)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.

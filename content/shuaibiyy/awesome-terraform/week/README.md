@@ -24,6 +24,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [terraform-risk-assessor (⭐5)](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
 
+### Boilerplates / IDE
+
+*   [Solo-Engineer Stack (⭐0)](https://github.com/sarmakska/terraform-stack) - Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One `terraform apply` provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Tools / Community providers

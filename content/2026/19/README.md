@@ -1,18 +1,77 @@
 # Awesome List Updates on May 11 - May 17, 2026
 
-13 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Tools Built with Polars / Miscellaneous
+
+*   [polars-query-dev-complexity](https://github.com/fran6w/polars-query-dev-complexity) - A lightweight tool for measuring the authoring complexity of Polars LazyFrame queries by [@fran6w](https://github.com/fran6w).
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Chat
+
+*   [swiftui-messaging-ui (⭐45)](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Storage and Media Processing
+
+*   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
+
+## [4. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+
+### Contents / EHR
+
+*   [Ottehr (⭐298)](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
+
+## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Python / Yii
+
+*   [Matplotlib 3.0.3 中文文档](https://www.osgeo.cn/matplotlib/) (Online)
+*   [Numpy 1.16 中文文档](https://www.osgeo.cn/numpy/) (Online)
+*   [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.org/en/latest/)
+*   [Python 3.8.0a3中文文档](https://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+*   [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
+*   [Tornado 6.1 中文文档](https://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
+
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Software / Web Applications
+
+*   [Toolbox](https://toolbox.dereuromark.de) - Online toolbox with useful tools for modern CakePHP apps. Powers the awesome CI/linter.
+
+### Software / Demo
+
+*   [TinyAuth demo](https://github.com/dereuromark/cakephp-tinyauth-demo) - Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.
+*   [Query examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
+*   [Vue.js demo app (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
+
+## [7. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Package and Version Manager
 
 *   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+### Multimedia & Graphics / GUI
+
+*   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
+
+### Interoperability / FFI Bindings
+
+*   [happystraw/phpz (⭐1)](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+
+### Interoperability / Build with Zig
+
+*   [libui-ng (⭐0)](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
+
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Courses
 
@@ -27,29 +86,33 @@
 
 *   [gbfs R package (⭐38)](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
-## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [9. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Unofficial Godot builds / Godot version unknown
 
 *   [Godot RISC-V](https://gitee.com/openkylin/godot-riscv) - Godot built for the RISC‑V architecture.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Assembly
 
 *   [leolaurindo/tunnelvision.nvim (⭐3)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
 
+### Bars and Lines / Colorscheme Switchers
+
+*   [zaakiy/line-justice.nvim (⭐11)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
+
 ### Terminal Integration / CSV Files
 
 *   [hawknewton/termyank.nvim (⭐2)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Middleware](https://middleware.io/) - Full-stack observability platform with APM, distributed tracing, logs and infra metrics in one place.
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -67,13 +130,21 @@
 
 *   [terraform-risk-assessor (⭐5)](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
 
-## [7. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+### Boilerplates / IDE
+
+*   [Solo-Engineer Stack (⭐0)](https://github.com/sarmakska/terraform-stack) - Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One `terraform apply` provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.
+
+## [13. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Mira (⭐36)](https://github.com/vwww-droid/Mira) - Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Database Tools
+
+*   [pgrwl (⭐106)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 
 ### Distributed Systems
 
@@ -82,6 +153,10 @@
 ### Job Scheduler
 
 *   [tickstem/heartbeat (⭐0)](https://github.com/tickstem/heartbeat) - Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving.
+
+### Security
+
+*   [Razify (⭐3)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -92,7 +167,7 @@
 
 *   [mac-cleanup-go (⭐386)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 
-## [9. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### **Sponsors**
 
@@ -106,7 +181,7 @@
     *   [pymc (⭐9.6k)](https://github.com/pymc-devs/pymc) - Probabilistic programming and Bayesian modeling in Python.
     *   [simpy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -116,27 +191,28 @@
 
 *   [Notchly](https://notchly.xyz) - Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
 *   [Qubes OS 4.3.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.3.0 download.
 *   [Qubes OS 4.3.0 Weekly Alpha Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.3 Weekly Alpha Build download.
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dune.zsh (⭐0)](https://github.com/bitpeppr/dune.zsh) - Plugin to randomly display a quote from an extensive pool of Dune quotes.
+*   [git-tidy (⭐0)](https://github.com/silee9019/git-tidy) - Plugin for safely reviewing and removing local branches whose upstream branch is marked \[gone].
 *   [smart-history (⭐0)](https://github.com/lstasi/zsh-smart-history-plugin) - Turns your recent ZSH history into command suggestions powered by Ollama.
-*   [startcache](https://github.com/rndjams/zsh-startcache) - Speeds up shell startup by caching the output of slow `eval "$(tool init)"` commands and replacing `compinit`'s fpath-string invalidation with time-based staleness. Saves 110ms–1180ms per shell depending on configuration.
+*   [startcache (⭐0)](https://github.com/rndjams/zsh-startcache) - Speeds up shell startup by caching the output of slow `eval "$(tool init)"` commands and replacing `compinit`'s fpath-string invalidation with time-based staleness. Saves 110ms–1180ms per shell depending on configuration.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [buddy (⭐2)](https://github.com/hieudnm/zsh-buddy-theme) - Multi-language support with a extension system, overtime reminders from 1730-1830, decorators for `git` status, time and virtual environment information, OS detection, 70+ contextual messages for different times and commands.
 *   [spaceshit (⭐0)](https://github.com/claudiosanches/spaceshit-zsh-theme) - The beauty of [spaceship (⭐20k)](https://github.com/denysdovhan/spaceship-prompt) with the speed of a minimalist setup. Includes decorators for current directory, `git` status, command execution time and color-coded success/error symbols.
 
-## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 

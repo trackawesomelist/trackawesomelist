@@ -278,7 +278,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
-*   [cursortab/cursortab.nvim (⭐163)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+*   [cursortab/cursortab.nvim (⭐186)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
 *   [carlos-algms/agentic.nvim (⭐431)](https://github.com/carlos-algms/agentic.nvim) - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 *   [0xble/dotagent.nvim (⭐8)](https://github.com/0xble/dotagent.nvim) - Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories.
 *   [blob42/codegpt-ng.nvim (⭐9)](https://github.com/blob42/codegpt-ng.nvim) - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
@@ -317,7 +317,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [3ZsForInsomnia/token-count.nvim (⭐8)](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 *   [nishu-murmu/cursor-inline (⭐5)](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 *   [ishiooon/codex.nvim (⭐24)](https://github.com/ishiooon/codex.nvim) - Codex IDE integration, no API key required.
-*   [nickjvandyke/opencode.nvim (⭐3.2k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
+*   [nickjvandyke/opencode.nvim (⭐3.3k)](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 *   [taigrr/neocrush.nvim (⭐14)](https://github.com/taigrr/neocrush.nvim) - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 
 <!--lint disable double-link -->
@@ -613,7 +613,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [dmtrKovalenko/fff.nvim (⭐5.7k)](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
 *   [wsdjeg/picker.nvim (⭐42)](https://github.com/wsdjeg/picker.nvim) - Simple fuzzy finder, including files, ctags outline, and more.
 *   [juniorsundar/refer.nvim (⭐47)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
-*   [dtormoen/neural-open.nvim (⭐58)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+*   [dtormoen/neural-open.nvim (⭐59)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 
 <!--lint disable double-link -->
 
@@ -629,7 +629,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [kevinhwang91/rnvimr (⭐842)](https://github.com/kevinhwang91/rnvimr) - A simple yet amazing file explorer.
 *   [Xuyuanp/yanil (⭐98)](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua.
 *   [ms-jpq/chadtree (⭐1.7k)](https://github.com/ms-jpq/chadtree) - File manager. Better than NERDTree.
-*   [rolv-apneseth/tfm.nvim (⭐99)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐37k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐99)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi (⭐38k)](https://github.com/sxyazi/yazi)).
 *   [nvim-neo-tree/neo-tree.nvim (⭐5.4k)](https://github.com/nvim-neo-tree/neo-tree.nvim) - Browse the file system and other tree-like structures in whatever style suits you, including sidebars, floating windows, `netrw` split style, or all of them at once.
 *   [theblob42/drex.nvim (⭐95)](https://github.com/TheBlob42/drex.nvim) - A simple and configurable file explorer written in Lua.
 *   [SidOfc/carbon.nvim (⭐186)](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer written in Lua.
@@ -955,6 +955,7 @@ then it is not supported:
 *   [mawkler/hml.nvim (⭐35)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 *   [neur1n/noline.nvim (⭐1)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets nor constraints.
 *   [OXY2DEV/bars.nvim (⭐94)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
+*   [zaakiy/line-justice.nvim (⭐11)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
 
 ### Statusline
 
@@ -1057,7 +1058,7 @@ then it is not supported:
 *   [neo451/feed.nvim (⭐203)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, Atom, JSON feed).
 *   [vyfor/cord.nvim (⭐619)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 *   [iamt4nk/smm.nvim (⭐31)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
-*   [sanjay-np/nvim-yt-player (⭐14)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐13)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 <!--lint disable double-link -->
 
@@ -1165,7 +1166,7 @@ then it is not supported:
 *   [indium114/cheaty.nvim (⭐7)](https://github.com/indium114/cheaty.nvim) - A simple, configurable cheatsheet.
 *   [indium114/unobtrusive-relnums.nvim (⭐12)](https://github.com/indium114/unobtrusive-relnums.nvim) - Unobtrusive relative line numbers in the sign column.
 *   [glyccogen/imprint.nvim (⭐16)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
-*   [emrearmagan/dockyard.nvim (⭐21)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
+*   [emrearmagan/dockyard.nvim (⭐22)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 
 ### CSV Files
 
@@ -1198,7 +1199,7 @@ then it is not supported:
 
 ## Terminal Integration
 
-*   [TheLazyCat00/runner-nvim (⭐8)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+*   [TheLazyCat00/runner-nvim (⭐7)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 *   [LuxVim/nvim-luxterm (⭐13)](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 *   [waiting-for-dev/ergoterm.nvim (⭐99)](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 *   [ingur/floatty.nvim (⭐25)](https://github.com/ingur/floatty.nvim) - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -1413,7 +1414,7 @@ then it is not supported:
 
 ## Git
 
-*   [YouSame2/inlinediff-nvim (⭐24)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
+*   [YouSame2/inlinediff-nvim (⭐26)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 *   [mrloop/telescope-git-branch.nvim (⭐11)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 *   [f-person/git-blame.nvim (⭐1.1k)](https://github.com/f-person/git-blame.nvim) - Show Git blame info.
 *   [trevorhauter/gitportal.nvim (⭐91)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
@@ -1454,7 +1455,7 @@ then it is not supported:
 *   [BibekBhusal0/nvim-git-utils (⭐7)](https://github.com/BibekBhusal0/nvim-git-utils) - Simple commands to make life easier while working with Git.
 *   [spacedentist/resolve.nvim (⭐55)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 *   [jceb/jiejie.nvim (⭐53)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
-*   [chojs23/ec (⭐182)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [chojs23/ec (⭐192)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 
 ### GitHub
 
@@ -1671,11 +1672,11 @@ then it is not supported:
 *   [smoka7/multicursors.nvim (⭐641)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 *   [tigion/swap.nvim (⭐17)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 *   [XXiaoA/atone.nvim (⭐174)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
-*   [nemanjamalesija/smart-paste.nvim (⭐98)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Comment
 
-*   [jeangiraldoo/codedocs.nvim (⭐77)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+*   [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 *   [numToStr/Comment.nvim (⭐4.6k)](https://github.com/numToStr/Comment.nvim) - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 *   [b3nj5m1n/kommentary (⭐533)](https://github.com/b3nj5m1n/kommentary) - Commenting plugin written in Lua.
 *   [gennaro-tedesco/nvim-commaround (⭐42)](https://github.com/gennaro-tedesco/nvim-commaround) - Fast and light commenting plugin written in Lua.

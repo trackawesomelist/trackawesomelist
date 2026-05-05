@@ -6,6 +6,18 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ [Daily](/content/FriendsOfCake/awesome-cakephp/README.md) / Weekly / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Software / Web Applications
+
+*   [Toolbox](https://toolbox.dereuromark.de) - Online toolbox with useful tools for modern CakePHP apps. Powers the awesome CI/linter.
+
+### Software / Demo
+
+*   [TinyAuth demo](https://github.com/dereuromark/cakephp-tinyauth-demo) - Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.
+*   [Query examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
+*   [Vue.js demo app (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Plugins / Imagery
@@ -669,12 +681,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 *   [FriendsOfCake/Fixturize plugin (⭐24)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
-## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
-
-### Software / Demo
-
-*   [Vue.js Demo App (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
-
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
 
 ### Software / Development Environment
@@ -737,7 +743,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### Software / Demo
 
 *   [Bookmarkr (⭐17)](https://github.com/lorenzo/cakephp3-bookmarkr) - A bookmarking application built with the CRUD plugin.
-*   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 
 ## [Aug 04 - Aug 10, 2014](/content/2014/31/README.md)
 

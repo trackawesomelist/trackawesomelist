@@ -173,7 +173,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [shepherdjerred/macos-cross-compiler (⭐404)](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐33)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
 *   [ghostty (⭐52k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
-*   [midasdf/zt (⭐34)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐37)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
 *   [zmx (⭐1.4k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 *   [ghext (⭐3)](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
@@ -492,12 +492,12 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [zen-eth/zig-libp2p (⭐37)](https://github.com/zen-eth/zig-libp2p) - Zig implementation of [libp2p](https://libp2p.io/), a modular network stack that allows you to build your own peer-to-peer applications.
 *   [EclesioMeloJunior/libp2p-zig (⭐1)](https://github.com/EclesioMeloJunior/libp2p-zig) - A [libp2p](https://libp2p.io/) written in Zig.
 *   [Raiden1411/zabi (⭐116)](https://github.com/Raiden1411/zabi) - Zabi aims to add support for interacting with Ethereum or any compatible EVM based chain.
-*   [StrobeLabs/eth.zig (⭐70)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+*   [StrobeLabs/eth.zig (⭐73)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
 *   [ch4r10t33r/zigeth (⭐20)](https://github.com/ch4r10t33r/zigeth) - Zig package to interact with Ethereum (inspired from alloy-rs).
 *   [gballet/zevem (⭐1)](https://github.com/gballet/zevem/) - Ethereum Virtual Machine written in Zig.
 *   [blockblaz/ssz.zig (⭐33)](https://github.com/blockblaz/ssz.zig) - A Zig implementation of the [SSZ serialization protocol (⭐3.9k)](https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md).
 *   [blockblaz/zeam (⭐91)](https://github.com/blockblaz/zeam) - A [Beam Chain (⭐91)](https://github.com/blockblaz/zeam/blob/main/resources/beam.md) written in Zig.
-*   [blockblaz/hash-zig (⭐9)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
+*   [blockblaz/hash-zig (⭐10)](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
 *   [jsign/verkle-crypto (⭐42)](https://github.com/jsign/verkle-crypto) - Cryptography for Ethereum Verkle Trees.
 *   [Ultra-Code/recblock (⭐9)](https://github.com/Ultra-Code/recblock) - Blockchain for a record management and money transfer system.
 *   [keep-starknet-strange/ziggy-starkdust (⭐86)](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
@@ -562,7 +562,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [maihd/zten (⭐7)](https://github.com/maihd/zten) - Tensor library for Zig, based on ggml.
 *   [andrewCodeDev/ZEIN (⭐60)](https://github.com/andrewCodeDev/ZEIN) - Zig-based implementation of tensors.
 *   [recursiveGecko/onnxruntime.zig (⭐34)](https://github.com/recursiveGecko/onnxruntime.zig) - Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
-*   [zml (⭐3.4k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [zml (⭐3.5k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 *   [Zigrad (⭐195)](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 *   [SilasMarvin/dnns-from-scratch-in-zig (⭐80)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
 
@@ -637,7 +637,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [rockorager/libvaxis (⭐1.8k)](https://github.com/rockorager/libvaxis) - Modern TUI library written in Zig.
 *   [zig-plotille (⭐14)](https://github.com/tammoippen/zig-plotille) - Terminal plotting library using Unicode braille characters.
 *   [xtxf (⭐18)](https://github.com/charlesrocket/xtxf) - The Matrix screensaver in Zig.
-*   [zsdl3 (⭐17)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ### GUI
 
@@ -656,6 +656,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [star-tek-mb/zig-tray (⭐24)](https://github.com/star-tek-mb/zig-tray) - Create tray applications with Zig.
 *   [kotsutsumi/zylix (⭐41)](https://github.com/kotsutsumi/zylix) - Zig powered cross-platform UI framework with Virtual DOM.
 *   [meszmate/zigzag (⭐285)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+*   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 
 ### Game Development
 
@@ -738,6 +739,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 *   [jiacai2050/zig-jemalloc (⭐4)](https://github.com/jiacai2050/zig-jemalloc) - Zig allocator baked by jemalloc.
 *   [arshidkv12/zig-php (⭐24)](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 *   [OnlyF0uR/pqc-zig (⭐4)](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean (⭐909)](https://github.com/PQClean/PQClean/), post-quantum cryptography.
+*   [happystraw/phpz (⭐1)](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
 
 ### Build with Zig
 
@@ -774,4 +776,5 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 *   [benchmark (⭐0)](https://github.com/kassane/benchmark) - A microbenchmark support library.
     First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
 *   [boring\_tls (⭐12)](https://github.com/Thomvanoorschot/boring_tls) - Google's BoringTLS client and server. Adds TLS to any (including non standard library) TCP/HTTP traffic.
+*   [libui-ng (⭐0)](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
 
