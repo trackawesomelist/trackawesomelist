@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [zaakiy/line-justice.nvim (⭐11)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
 
+### Bars and Lines / Statusline
+
+*   [tajirhas9/muslim.nvim (⭐34)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+
 ### Terminal Integration / CSV Files
 
 *   [hawknewton/termyank.nvim (⭐2)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.

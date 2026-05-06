@@ -1,18 +1,133 @@
 # Awesome List Updates on May 06, 2026
 
-10 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+### Design & Graphics / Image Tools
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`9,807`
+
+## [2. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Utilities / General
+
+*   [arthurkushman/pgo (⭐88)](https://github.com/arthurkushman/pgo) — Go library for PHP community with convenient functions ☆`88`
+
+## [3. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Chatbots
+
+*   [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages. `#freemium`
+
+### Document Processing
+
+*   [Instafill.ai](https://instafill.ai) - AI-powered PDF form filler. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data. `#paid`
+
+### Human Resources
+
+*   [AI Dev Jobs](https://aidevboard.com/) - AI/ML engineering job board with 8,400+ active listings from 580 ATS sources. Free REST API + MCP server. `#free`
+
+### Search Engine
+
+*   [Not Human Search](https://nothumansearch.ai/) - Agent-first search engine indexing 8,000+ MCP servers and AI tools, ranked by agentic readiness. REST API + MCP server. `#free`
+
+### Video
+
+*   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
+*   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
+
+## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+
+### IR Tools Collection / Linux Distributions
+
+*   [NullSec Linux (⭐55)](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 140+ pre-installed forensic and offensive security tools, custom hardened kernel, and integrated incident response workflows.
+
+### IR Tools Collection / Log Analysis Tools
+
+*   [NullSec LogReaper (⭐80)](https://github.com/bad-antics/nullsec-logreaper) - High-speed log analysis and forensics tool with multi-format parsing, pattern matching, timeline reconstruction and anomaly detection for incident response.
+
+### IR Tools Collection / Other Tools
+
+*   [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
+
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Embedded
+
+*   [embassy-rs/embassy (⭐9.2k)](https://github.com/embassy-rs/embassy) \[[embassy](https://crates.io/crates/embassy)] - Next-generation async/await framework for embedded Rust with HALs for STM32, nRF, RP, ESP32, and more. Features embassy-time, embassy-net, embassy-usb, and low-power support. [![Build Status](https://github.com/embassy-rs/embassy/actions/workflows/ci.yml/badge.svg)](https://github.com/embassy-rs/embassy/actions)
+
+## [6. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+
+### Pathway
+
+*   [OmniPath](https://omnipathdb.org/) — Comprehensive resource integrating protein interactions, signaling pathways, gene regulatory networks, and miRNA targets from over 100 databases.
+*   [SIGNOR 2.0](https://signor.uniroma2.it/) — Database of causal signaling interactions and pathways, with signed and directed relationships between proteins.
+
+### Gene Regulatory Network
+
+*   [TRRUST v2](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes, expanded with literature-derived evidence.
+
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+
+### Data Ingestion
+
+*   [DataSpoc Pipe (⭐1)](https://github.com/dataspoclab/dataspoc-pipe) - Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.
+*   [DBConvert Streams](https://streams.dbconvert.com) - self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.
+*   [data-genie (⭐16)](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
+*   [pdfmux (⭐57)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
+*   [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
+
+### Serialization format
+
+*   [AKF (⭐3)](https://github.com/HMAKT99/AKF) - The AI native file format. Trust scores, source provenance, and compliance metadata that embed into 20+ formats (DOCX, PDF, images, code). EXIF for AI.
+*   [PFC-JSONL (⭐1)](https://github.com/ImpossibleForge/pfc-jsonl) - Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves \~9% compression ratio (better than gzip) with time-range random access queries.
+
+### Charts and Dashboards
+
+*   [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and paths directly on DuckDB, Postgres, Snowflake, or ClickHouse.
+*   [AI for Database](https://aifordatabase.com/) - Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
+
+### Workflow
+
+*   [Dotflow (⭐5)](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
+
+### Data Lake Management
+
+*   [rawquery](https://rawquery.dev) - Managed lakehouse platform on Apache Iceberg with DuckDB query compute, S3 storage, Postgres wire protocol, and SQL transforms.
+
+### Datasets / Realtime
+
+*   [Helium MCP (⭐1)](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time financial data, 3.2M+ news articles, ML options pricing, and news bias analysis. Free, no API key. [MCP](https://heliumtrades.com/mcp)
+*   [Sorsa API](https://api.sorsa.io) - Real-time X (Twitter) data API providing tweets, profiles, search, communities and engagement metrics. Up to 50x cheaper than the official X API with 20 req/sec rate limit, JSON output.
+
+### Datasets / Data Dumps
+
+*   [Mindweave Synthetic Business Data (⭐1)](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
+
+### Monitoring / Prometheus
+
+*   [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for data pipelines.
+
+### Testing / Data Profiler
+
+*   [Scherlok](https://github.com/rbmuller/scherlok) - Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.
+
+### Community / Forums
+
+*   [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI, ML, and data engineering roles with 7,400+ listings, salary data, and a free REST API.
+
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Tools / AI
 
 *   [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
 
-## [2. Awesome V](/content/vlang/awesome-v/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
@@ -82,7 +197,7 @@
 *   [structlog (⭐1)](https://github.com/gechandesu/structlog) - Structured logs library for V.
 *   [V-crypto (⭐4)](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
@@ -92,7 +207,7 @@
 
 *   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -122,7 +237,7 @@
 
 
 
-## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### VM-Hardening
 
@@ -132,31 +247,35 @@
 
 *   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
 
-## [6. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [homie-home-assistant-discovery (⭐0)](https://github.com/labodj/homie-home-assistant-discovery) - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Messaging and Streaming
 
 *   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Tutorials
 
 *   [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
 *   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 
-## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+### Bars and Lines / Statusline
+
+*   [tajirhas9/muslim.nvim (⭐34)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 

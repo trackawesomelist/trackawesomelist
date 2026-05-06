@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 
+### Bars and Lines / Statusline
+
+*   [tajirhas9/muslim.nvim (⭐34)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### Color / Assembly
