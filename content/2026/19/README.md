@@ -1,36 +1,202 @@
 # Awesome List Updates on May 11 - May 17, 2026
 
-19 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Tools / AI
+
+*   [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Command-line
+
+*   [minimax-v (⭐5)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
+*   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
+*   [v\_llama\_cpp (⭐8)](https://github.com/sakana-ctf/v_llama_cpp) - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
+*   [vfc (⭐9)](https://github.com/Ict00/vfc) - A simple TUI file manager, made with V.
+*   [vsqlite (⭐6)](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
+
+### Editors
+
+*   [lilly (⭐448)](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative.
+
+### Games
+
+*   [vchess (⭐18)](https://github.com/hedgeg0d/vchess) - Chess game written in V programming language.
+
+### Graphics
+
+*   [vpaint (⭐84)](https://github.com/pisaiah/vpaint) - MS-Paint alternative written in V.
+*   [vglyph (⭐27)](https://github.com/vlang/vglyph) - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
+
+### Interpreters/Compilers
+
+*   [papyrus-compiler (⭐44)](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
+
+### Utilities
+
+*   [qptorrent (⭐36)](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
+*   [raur (⭐1)](https://github.com/Matejsdevelopment/raur) - Simple Arch User Repository (AUR) helper coded in Vlang.
+*   [unix-emulators-win (⭐0)](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
+
+### Web
+
+*   [gitval (⭐6)](https://github.com/davlgd/gitval) - A static site generator for Git repositories, written in V.
+*   [Verne (⭐0)](https://github.com/davlgd/Verne) - The other static site generator named after a famous French author.
+*   [vico\_bot (⭐19)](https://github.com/KArjmand/vico_bot) - Lightweight self-hosted AI chatbot with persistent memory and tool calling.
+*   [jsonrpcv (⭐7)](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
+
+### Automation
+
+*   [v-webdriver (⭐10)](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
+
+### Game development
+
+*   [sdl2test (⭐20)](https://github.com/nsauzede/sdl2test) - Exhaustive suite of tests and examples for SDL2 with V.
+
+### Interoperability
+
+*   [vjsx (⭐2)](https://github.com/guweigang/vjsx) - V bindings to quickjs javascript engine. Run JS in V.
+*   [vphp (⭐3)](https://github.com/guweigang/vphp) - Vlang library for building PHP extensions natively in Vlang.
+
+### Networking
+
+*   [netio (⭐3)](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
+
+### Text processing
+
+*   [xlsx (⭐29)](https://github.com/hungrybluedev/xlsx) - V library for reading and writing Microsoft Excel files.
+
+### User Interface toolkits
+
+*   [bobatea (⭐19)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
+
+### Utility
+
+*   [structlog (⭐1)](https://github.com/gechandesu/structlog) - Structured logs library for V.
+*   [V-crypto (⭐4)](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
+
+## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Development
+
+- API: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+
+  Description: Fake REST API for testing and prototyping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [EmailJS](https://www.emailjs.com/docs/)
+
+  Description: Send emails directly from client-side JavaScript without a backend server
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [4. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+
+### Tools
+
+*   [homie-home-assistant-discovery (⭐0)](https://github.com/labodj/homie-home-assistant-discovery) - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
+
+## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Tutorials
+
+*   [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
+
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Backups
+
+*   [Shield (⭐396)](https://github.com/shieldproject/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+
+### Software / Build and software organization tools
+
+*   [Environment Modules](https://envmodules.io/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐848)](https://github.com/envmodules/modules)) `GPL-2.0` `Tcl`
+
+### Software / Continuous Integration & Continuous Deployment
+
+*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐35k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
+
+### Software / Deployment Automation
+
+*   [Genesis (⭐63)](https://github.com/genesis-community/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
+
+### Software / DNS - Control Panels & Domain Management
+
+*   [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code (⭐3.8k)](https://github.com/itstoragesvc/dnscontrol)) `MIT` `Go/Docker`
+*   [octoDNS (⭐3.7k)](https://github.com/octodns/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+
+### Software / Identity Management - LDAP
+
+*   [lldap (⭐6.2k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+
+### Software / Metrics & Metric Collection
+
+*   [Statsd (⭐18k)](https://github.com/statsd/statsd) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
+
+### Software / Monitoring & Status Pages
+
+*   [EdMon (⭐11)](https://github.com/eahlys/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
+*   [Linux Dash (⭐11k)](https://github.com/tariqbuilds/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
+
+### Software / Packaging
+
+*   [tito (⭐399)](https://github.com/rpm-software-management/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
+
+### Software / Software Containers
+
+*   [Incus](https://linuxcontainers.org/incus/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐5.3k)](https://github.com/lxc/incus)) `Apache-2.0` `Go`
+
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Tools Built with Polars / Miscellaneous
 
 *   [polars-query-dev-complexity](https://github.com/fran6w/polars-query-dev-complexity) - A lightweight tool for measuring the authoring complexity of Polars LazyFrame queries by [@fran6w](https://github.com/fran6w).
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chat
 
 *   [swiftui-messaging-ui (⭐45)](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Messaging and Streaming
+
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
 
 ### Storage and Media Processing
 
 *   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
 
-## [4. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
 *   [Ottehr (⭐298)](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
 
-## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### Python / Yii
 
@@ -41,7 +207,7 @@
 *   [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 *   [Tornado 6.1 中文文档](https://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Software / Web Applications
 
@@ -53,7 +219,7 @@
 *   [Query examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 *   [Vue.js demo app (⭐47)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
 
-## [7. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [13. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Fundamentals / Package and Version Manager
 
@@ -71,7 +237,7 @@
 
 *   [libui-ng (⭐0)](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Courses
 
@@ -86,13 +252,17 @@
 
 *   [gbfs R package (⭐38)](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [15. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Unofficial Godot builds / Godot version unknown
 
 *   [Godot RISC-V](https://gitee.com/openkylin/godot-riscv) - Godot built for the RISC‑V architecture.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Plugin Manager
+
+*   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 
 ### Color / Assembly
 
@@ -106,13 +276,13 @@
 
 *   [hawknewton/termyank.nvim (⭐2)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Middleware](https://middleware.io/) - Full-stack observability platform with APM, distributed tracing, logs and infra metrics in one place.
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -134,13 +304,13 @@
 
 *   [Solo-Engineer Stack (⭐0)](https://github.com/sarmakska/terraform-stack) - Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One `terraform apply` provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.
 
-## [13. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [19. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Mira (⭐36)](https://github.com/vwww-droid/Mira) - Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -156,7 +326,12 @@
 
 ### Security
 
+*   [aes-ctr-drbg (⭐5)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
 *   [Razify (⭐3)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
+
+### Serialization
+
+*   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -167,7 +342,7 @@
 
 *   [mac-cleanup-go (⭐386)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 
-## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [21. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### **Sponsors**
 
@@ -181,7 +356,7 @@
     *   [pymc (⭐9.6k)](https://github.com/pymc-devs/pymc) - Probabilistic programming and Bayesian modeling in Python.
     *   [simpy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -191,14 +366,22 @@
 
 *   [Notchly](https://notchly.xyz) - Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [23. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
 *   [Qubes OS 4.3.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.3.0 download.
 *   [Qubes OS 4.3.0 Weekly Alpha Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.3 Weekly Alpha Build download.
 
-## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### VM-Hardening
+
+*   \[Automatically attaching known devices by UUID (like SD cards)] - (<https://forum.qubes-os.org/t/automatically-attaching-known-devices-by-uuid-like-sd-cards/36661>) - This is how to automatically attach USB devices that have a ID\_FS\_UUID property to your assigned VM.
+
+### GPU
+
+*   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
+
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -212,7 +395,7 @@
 *   [buddy (⭐2)](https://github.com/hieudnm/zsh-buddy-theme) - Multi-language support with a extension system, overtime reminders from 1730-1830, decorators for `git` status, time and virtual environment information, OS detection, 70+ contextual messages for different times and commands.
 *   [spaceshit (⭐0)](https://github.com/claudiosanches/spaceshit-zsh-theme) - The beauty of [spaceship (⭐20k)](https://github.com/denysdovhan/spaceship-prompt) with the speed of a minimalist setup. Includes decorators for current directory, `git` status, command execution time and color-coded success/error symbols.
 
-## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [25. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 

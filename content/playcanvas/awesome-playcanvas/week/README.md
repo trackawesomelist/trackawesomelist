@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Tutorials
+
+*   [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
@@ -187,7 +193,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.6k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.7k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 

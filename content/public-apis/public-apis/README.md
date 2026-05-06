@@ -6,6 +6,36 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 06, 2026](/content/2026/05/06/README.md)
+
+### Development
+
+- API: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+
+  Description: Fake REST API for testing and prototyping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [EmailJS](https://www.emailjs.com/docs/)
+
+  Description: Send emails directly from client-side JavaScript without a backend server
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 02, 2026](/content/2026/05/02/README.md)
 
 ### Animals
@@ -2174,7 +2204,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes)
+- API: [Web Series Quotes Generator (⭐24)](https://github.com/yogeshwaran01/web-series-quotes)
 
   Description: API generates various Web Series Quote Images
 
@@ -9590,7 +9620,7 @@ A collective list of free APIs
 
 ### Video
 
-- API: [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes)
+- API: [Lucifer Quotes (⭐12)](https://github.com/shadowoff09/lucifer-quotes)
 
   Description: Returns Lucifer quotes
 
@@ -10905,7 +10935,7 @@ A collective list of free APIs
 
 ### Security
 
-- API: [Passwordinator](https://github.com/fawazsullia/password-generator/)
+- API: [Passwordinator (⭐38)](https://github.com/fawazsullia/password-generator/)
 
   Description: Generate random passwords of varying complexities
 
@@ -14597,7 +14627,7 @@ A collective list of free APIs
 
 ### Personality
 
-- API: [Dictum](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐192)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -17243,6 +17273,141 @@ A collective list of free APIs
 
 
 
+### Music
+
+- API: [TasteDive](https://tastedive.com/read/api)
+
+  Description: Similar artist API (also works for movies and TV shows)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
+
+  Description: Music Events
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Deezer](https://developers.deezer.com/api)
+
+  Description: Music
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Discogs](https://www.discogs.com/developers/)
+
+  Description: Music
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Genius](https://docs.genius.com/)
+
+  Description: Crowdsourced lyrics and music knowledge
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Genrenator](https://binaryjazz.us/genrenator-api/)
+
+  Description: Music genre generator
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+
+  Description: Software products
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [LastFm](https://www.last.fm/api)
+
+  Description: Music
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
+
+  Description: Music
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Musixmatch](https://developer.musixmatch.com/)
+
+  Description: Music
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Songsterr](https://www.songsterr.com/a/wa/api/)
+
+  Description: Provides guitar, bass and drums tabs and chords
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Vagalume](https://api.vagalume.com.br/docs/)
+
+  Description: Crowdsourced lyrics and music knowledge
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Environment
 
 - API: [OpenAQ](https://docs.openaq.org/)
@@ -18135,141 +18300,6 @@ A collective list of free APIs
 
 
 
-### Music
-
-- API: [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
-
-  Description: Music Events
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Deezer](https://developers.deezer.com/api)
-
-  Description: Music
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Discogs](https://www.discogs.com/developers/)
-
-  Description: Music
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Genius](https://docs.genius.com/)
-
-  Description: Crowdsourced lyrics and music knowledge
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Genrenator](https://binaryjazz.us/genrenator-api/)
-
-  Description: Music genre generator
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
-
-  Description: Software products
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [LastFm](https://www.last.fm/api)
-
-  Description: Music
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
-
-  Description: Music
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Musixmatch](https://developer.musixmatch.com/)
-
-  Description: Music
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Songsterr](https://www.songsterr.com/a/wa/api/)
-
-  Description: Provides guitar, bass and drums tabs and chords
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [TasteDive](https://tastedive.com/read/api)
-
-  Description: Similar artist API (also works for movies and TV shows)
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Vagalume](https://api.vagalume.com.br/docs/)
-
-  Description: Crowdsourced lyrics and music knowledge
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### News
 
 - API: [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)
@@ -18570,7 +18600,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Medium](https://github.com/Medium/medium-api-docs)
+- API: [Medium (⭐2.3k)](https://github.com/Medium/medium-api-docs)
 
   Description: Community of readers and writers offering unique perspectives on ideas
 

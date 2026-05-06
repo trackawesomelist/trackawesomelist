@@ -192,6 +192,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
 *   [Using Multi-Factor Authentication with Qubes (⭐261)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html) - The following setup instructions walk through the process of configuring dom0 and a USB qube so that OnlyKey will function as a keyboard and be able to communicate with the OnlyKey app (required for TOTP).
+*   \[Automatically attaching known devices by UUID (like SD cards)] - (<https://forum.qubes-os.org/t/automatically-attaching-known-devices-by-uuid-like-sd-cards/36661>) - This is how to automatically attach USB devices that have a ID\_FS\_UUID property to your assigned VM.
 *   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/) - The qrexec framework is used by core Qubes components to implement communication between domains.
 *   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/) - The qrexec framework consists of a number of processes communicating with each other using a common IPC protocol, described in detail below.
 *   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/) - The qrexec allows implementing services not only as executable files, but also as Unix sockets.
@@ -246,6 +247,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Qubes SaltStack configuration of Videos Playback VM](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - An mpv salt start step-by-step easy guide.
 *   [Improve video playback performance including YouTube (ytfzf)](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube-ytfzf/21946/1) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [GPU passthrough with lots of RAM](https://forum.qubes-os.org/t/quick-howto-gpu-passthrough-with-lots-of-ram/21156) - GPU passthru with max RAM
+*   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
 
 ## ML, LLM & AI
 

@@ -558,6 +558,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [jsDelivr (⭐236)](https://github.com/jsdelivr/data.jsdelivr.com)                                                                          | Package info and download stats on jsDelivr CDN                                                      | No              | Yes   | Yes     |
 | [JSON 2 JSONP](https://json2jsonp.com/)                                                                                                   | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript  | No              | Yes   | Unknown |
 | [JSONbin.io](https://jsonbin.io)                                                                                                          | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                  | `apiKey`        | Yes   | Yes     |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com)                                                                                   | Fake REST API for testing and prototyping                                                            | No              | Yes   | Yes     |
 | [Kroki](https://kroki.io)                                                                                                                 | Creates diagrams from textual descriptions                                                           | No              | Yes   | Yes     |
 | [License-API (⭐5)](https://github.com/cmccandless/license-api/blob/master/README.md)                                                      | Unofficial REST API for choosealicense.com                                                           | No              | Yes   | No      |
 | [Logs.to](https://logs.to/)                                                                                                               | Generate logs                                                                                        | `apiKey`        | Yes   | Unknown |
@@ -678,6 +679,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api)                                                              | Validate email addresses, phone numbers, VAT numbers and domain names                               | `apiKey` | Yes   | Yes     |
 | [Disify](https://www.disify.com/)                                                                                           | Validate and detect disposable and temporary email addresses                                        | No       | Yes   | Yes     |
 | [DropMail](https://dropmail.me/api/#live-demo)                                                                              | GraphQL API for creating and managing ephemeral e-mail inboxes                                      | No       | Yes   | Unknown |
+| [EmailJS](https://www.emailjs.com/docs/)                                                                                    | Send emails directly from client-side JavaScript without a backend server                           | `apiKey` | Yes   | Yes     |
 | [Email Validation](https://www.abstractapi.com/email-verification-validation-api)                                           | Validate email addresses for deliverability and spam                                                | `apiKey` | Yes   | Yes     |
 | [EVA](https://eva.pingutil.com/)                                                                                            | Validate email addresses                                                                            | No       | Yes   | Yes     |
 | [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html)                                                       | Disposable temporary Email addresses                                                                | No       | Yes   | Unknown |
@@ -696,18 +698,19 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Entertainment
 
-| API                                                                                        | Description                                                                         | Auth | HTTPS | CORS    |
-| :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--- | :---- | :------ |
-| [chucknorris.io](https://api.chucknorris.io)                                               | JSON API for hand curated Chuck Norris jokes                                        | No   | Yes   | Unknown |
-| [Corporate Buzz Words (⭐339)](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                                                   | No   | Yes   | Yes     |
-| [Excuser](https://excuser.herokuapp.com/)                                                  | Get random excuses for various situations                                           | No   | Yes   | Unknown |
-| [Fun Fact](https://api.aakhilv.me)                                                         | A simple HTTPS api that can randomly select and return a fact from the FFA database | No   | Yes   | Yes     |
-| [Imgflip](https://imgflip.com/api)                                                         | Gets an array of popular memes                                                      | No   | Yes   | Unknown |
-| [Meme Maker](https://mememaker.github.io/API/)                                             | REST API for create your own meme                                                   | No   | Yes   | Unknown |
-| [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)                                     | Memes on Narendra Modi                                                              | No   | Yes   | Unknown |
-| [Random Useless Facts](https://uselessfacts.jsph.pl/)                                      | Get useless, but true facts                                                         | No   | Yes   | Unknown |
-| [Techy](https://techy-api.vercel.app/)                                                     | JSON and Plaintext API for tech-savvy sounding phrases                              | No   | Yes   | Unknown |
-| [Yo Momma Jokes (⭐77)](https://github.com/beanboi7/yomomma-apiv2)                          | REST API for Yo Momma Jokes                                                         | No   | Yes   | Unknown |
+| API                                                                                        | Description                                                                           | Auth     | HTTPS | CORS    |
+| :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :------- | :---- | :------ |
+| [chucknorris.io](https://api.chucknorris.io)                                               | JSON API for hand curated Chuck Norris jokes                                          | No       | Yes   | Unknown |
+| [Corporate Buzz Words (⭐339)](https://github.com/sameerkumar18/corporate-bs-generator-api) | REST API for Corporate Buzz Words                                                     | No       | Yes   | Yes     |
+| [Excuser](https://excuser.herokuapp.com/)                                                  | Get random excuses for various situations                                             | No       | Yes   | Unknown |
+| [Fun Fact](https://api.aakhilv.me)                                                         | A simple HTTPS api that can randomly select and return a fact from the FFA database   | No       | Yes   | Yes     |
+| [Imgflip](https://imgflip.com/api)                                                         | Gets an array of popular memes                                                        | No       | Yes   | Unknown |
+| [Meme Maker](https://mememaker.github.io/API/)                                             | REST API for create your own meme                                                     | No       | Yes   | Unknown |
+| [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)                                     | Memes on Narendra Modi                                                                | No       | Yes   | Unknown |
+| [Random Useless Facts](https://uselessfacts.jsph.pl/)                                      | Get useless, but true facts                                                           | No       | Yes   | Unknown |
+| [TasteDive](https://tastedive.com/read/api)                                                | Content-based recommendations for movies, music, TV shows, books, games, and podcasts | `apiKey` | Yes   | No      |
+| [Techy](https://techy-api.vercel.app/)                                                     | JSON and Plaintext API for tech-savvy sounding phrases                                | No       | Yes   | Unknown |
+| [Yo Momma Jokes (⭐77)](https://github.com/beanboi7/yomomma-apiv2)                          | REST API for Yo Momma Jokes                                                           | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1357,7 +1360,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Advice Slip](http://api.adviceslip.com/)                                          | Generate random advice slips                                                     | No       | Yes   | Unknown |
 | [Biriyani As A Service](https://biriyani.anoram.com/)                              | Biriyani images placeholder                                                      | No       | Yes   | No      |
 | [Dev.to](https://developers.forem.com/api)                                         | Access Forem articles, users and other resources via API                         | `apiKey` | Yes   | Unknown |
-| [Dictum](https://github.com/fisenkodv/dictum)                                      | API to get access to the collection of the most inspiring expressions of mankind | No       | Yes   | Unknown |
+| [Dictum (⭐192)](https://github.com/fisenkodv/dictum)                               | API to get access to the collection of the most inspiring expressions of mankind | No       | Yes   | Unknown |
 | [FavQs.com](https://favqs.com/api)                                                 | FavQs allows you to collect, discover and share your favorite quotes             | `apiKey` | Yes   | Unknown |
 | [FOAAS](http://www.foaas.com/)                                                     | Fuck Off As A Service                                                            | No       | No    | Unknown |
 | [Forismatic](http://forismatic.com/en/api/)                                        | Inspirational Quotes                                                             | No       | No    | Unknown |
@@ -1365,7 +1368,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Inspiration](https://inspiration.goprogram.ai/docs/)                              | Motivational and Inspirational quotes                                            | No       | Yes   | Yes     |
 | [kanye.rest](https://kanye.rest)                                                   | REST API for random Kanye West quotes                                            | No       | Yes   | Yes     |
 | [kimiquotes](https://kimiquotes.herokuapp.com/doc)                                 | Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen              | No       | Yes   | Yes     |
-| [Medium](https://github.com/Medium/medium-api-docs)                                | Community of readers and writers offering unique perspectives on ideas           | `OAuth`  | Yes   | Unknown |
+| [Medium (⭐2.3k)](https://github.com/Medium/medium-api-docs)                        | Community of readers and writers offering unique perspectives on ideas           | `OAuth`  | Yes   | Unknown |
 | [Programming Quotes (⭐497)](https://github.com/skolakoda/programming-quotes-api)   | Programming Quotes API for open source projects                                  | No       | Yes   | Unknown |
 | [Quotable Quotes (⭐2.1k)](https://github.com/lukePeavey/quotable)                  | Quotable is a free, open source quotations API                                   | No       | Yes   | Unknown |
 | [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)                     | REST API for more than 5000 famous quotes                                        | No       | Yes   | Unknown |
@@ -1513,7 +1516,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Mozilla http scanner (⭐1.9k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Mozilla observatory http scanner                                                                     | No       | Yes   | Unknown |
 | [Mozilla tls scanner (⭐545)](https://github.com/mozilla/tls-observatory#api-endpoints)                      | Mozilla observatory tls scanner                                                                      | No       | Yes   | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog)                 | U.S. National Vulnerability Database                                                                 | No       | Yes   | Unknown |
-| [Passwordinator](https://github.com/fawazsullia/password-generator/)                                        | Generate random passwords of varying complexities                                                    | No       | Yes   | Yes     |
+| [Passwordinator (⭐38)](https://github.com/fawazsullia/password-generator/)                                  | Generate random passwords of varying complexities                                                    | No       | Yes   | Yes     |
 | [PhishStats](https://phishstats.info/)                                                                      | Phishing database                                                                                    | No       | Yes   | Unknown |
 | [Privacy.com](https://privacy.com/developer/docs)                                                           | Generate merchant-specific and one-time use credit card numbers that link back to your bank          | `apiKey` | Yes   | Unknown |
 | [Pulsedive](https://pulsedive.com/api/)                                                                     | Scan, search and collect threat intelligence data in real-time                                       | `apiKey` | Yes   | Unknown |
@@ -1842,7 +1845,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [IMDb-API](https://imdb-api.com/)                                                                         | API for receiving movie, serial and cast information                                               | `apiKey` | Yes   | Unknown |
 | [IMDbOT (⭐156)](https://github.com/SpEcHiDe/IMDbOT)                                                       | Unofficial IMDb Movie / Series Information                                                         | No       | Yes   | Yes     |
 | [JSON2Video](https://json2video.com)                                                                      | Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations | `apiKey` | Yes   | No      |
-| [Lucifer Quotes](https://github.com/shadowoff09/lucifer-quotes)                                           | Returns Lucifer quotes                                                                             | No       | Yes   | Unknown |
+| [Lucifer Quotes (⭐12)](https://github.com/shadowoff09/lucifer-quotes)                                     | Returns Lucifer quotes                                                                             | No       | Yes   | Unknown |
 | [MCU Countdown (⭐222)](https://github.com/DiljotSG/MCU-Countdown)                                         | A Countdown to the next MCU Film                                                                   | No       | Yes   | Yes     |
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/)                                             | Random Motivational Quotes                                                                         | No       | Yes   | Unknown |
 | [Movie Quote (⭐39)](https://github.com/F4R4N/movie-quote/)                                                | Random Movie and Series Quotes                                                                     | No       | Yes   | Yes     |
@@ -1868,7 +1871,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [uNoGS](https://rapidapi.com/unogs/api/unogsng)                                                           | Unofficial Netflix Online Global Search, Search all netflix regions in one place                   | `apiKey` | Yes   | Yes     |
 | [Vimeo](https://developer.vimeo.com/)                                                                     | Vimeo Developer API                                                                                | `OAuth`  | Yes   | Unknown |
 | [Watchmode](https://api.watchmode.com/)                                                                   | API for finding out the streaming availability of movies & shows                                   | `apiKey` | Yes   | Unknown |
-| [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes)                         | API generates various Web Series Quote Images                                                      | No       | Yes   | Yes     |
+| [Web Series Quotes Generator (⭐24)](https://github.com/yogeshwaran01/web-series-quotes)                   | API generates various Web Series Quote Images                                                      | No       | Yes   | Yes     |
 | [YouTube](https://developers.google.com/youtube/)                                                         | Add YouTube functionality to your sites and apps                                                   | `OAuth`  | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >

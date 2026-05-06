@@ -108,6 +108,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
+*   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 *   [lewis6991/pckr.nvim (⭐347)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 *   [savq/paq-nvim (⭐716)](https://github.com/savq/paq-nvim) - Package manager written in Lua.
 
@@ -1672,11 +1673,11 @@ then it is not supported:
 *   [smoka7/multicursors.nvim (⭐641)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 *   [tigion/swap.nvim (⭐17)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 *   [XXiaoA/atone.nvim (⭐174)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
-*   [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐109)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Comment
 
-*   [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+*   [jeangiraldoo/codedocs.nvim (⭐83)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 *   [numToStr/Comment.nvim (⭐4.6k)](https://github.com/numToStr/Comment.nvim) - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 *   [b3nj5m1n/kommentary (⭐533)](https://github.com/b3nj5m1n/kommentary) - Commenting plugin written in Lua.
 *   [gennaro-tedesco/nvim-commaround (⭐42)](https://github.com/gennaro-tedesco/nvim-commaround) - Fast and light commenting plugin written in Lua.

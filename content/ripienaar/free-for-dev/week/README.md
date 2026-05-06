@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
+### Messaging and Streaming
+
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
+
 ### Storage and Media Processing
 
 *   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN

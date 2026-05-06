@@ -13,6 +13,14 @@ A curated list of awesome qubes os links
 *   [Qubes OS 4.3.0](https://www.qubes-os.org/downloads/) - Qubes OS 4.3.0 download.
 *   [Qubes OS 4.3.0 Weekly Alpha Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.3 Weekly Alpha Build download.
 
+### VM-Hardening
+
+*   \[Automatically attaching known devices by UUID (like SD cards)] - (<https://forum.qubes-os.org/t/automatically-attaching-known-devices-by-uuid-like-sd-cards/36661>) - This is how to automatically attach USB devices that have a ID\_FS\_UUID property to your assigned VM.
+
+### GPU
+
+*   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Optics and Extra Info / Qubes OS Summit - 3mdeb Summit videos

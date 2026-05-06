@@ -6,6 +6,16 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [May 06, 2026](/content/2026/05/06/README.md)
+
+### VM-Hardening
+
+*   \[Automatically attaching known devices by UUID (like SD cards)] - (<https://forum.qubes-os.org/t/automatically-attaching-known-devices-by-uuid-like-sd-cards/36661>) - This is how to automatically attach USB devices that have a ID\_FS\_UUID property to your assigned VM.
+
+### GPU
+
+*   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
+
 ## [May 04, 2026](/content/2026/05/04/README.md)
 
 ### Downloading, Installing, Upgrading, and Building

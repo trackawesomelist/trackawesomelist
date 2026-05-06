@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 06, 2026](/content/2026/05/06/README.md)
+
+### Security
+
+*   [aes-ctr-drbg (⭐5)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
+
+### Serialization
+
+*   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### Database Tools
@@ -6096,7 +6106,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐35k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐78)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.

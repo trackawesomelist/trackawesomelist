@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
+### Plugin Manager
+
+*   [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
+
 ### Color / Assembly
 
 *   [leolaurindo/tunnelvision.nvim (⭐3)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
@@ -72,7 +76,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Comment
 
-*   [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+*   [jeangiraldoo/codedocs.nvim (⭐83)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 
 ### Pre-made Configuration / Automation
 
@@ -319,7 +323,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+*   [nemanjamalesija/smart-paste.nvim (⭐109)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Database / Automation
 

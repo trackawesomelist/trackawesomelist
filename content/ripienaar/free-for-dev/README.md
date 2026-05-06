@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 06, 2026](/content/2026/05/06/README.md)
+
+### Messaging and Streaming
+
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### Storage and Media Processing

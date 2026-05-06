@@ -2358,6 +2358,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [acmetool (⭐2.1k)](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 *   [acopw-go](https://sr.ht/~jamesponddotco/acopw-go/) - Small cryptographically secure password generator package for Go.
 *   [acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [aes-ctr-drbg (⭐5)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
 *   [age (⭐22k)](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 *   [argon2-hashing (⭐25)](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 *   [autocert](https://pkg.go.dev/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
@@ -2433,6 +2434,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [mus-go (⭐138)](https://github.com/mus-format/mus-go) - MUS format serializer for Go.
 *   [php\_session\_decoder (⭐169)](https://github.com/yvasiyarov/php_session_decoder) - GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.
 *   [pletter (⭐19)](https://github.com/vimeda/pletter) - A standard way to wrap a proto message for message brokers.
+*   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 *   [structomap (⭐145)](https://github.com/tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 *   [unitpacking (⭐7)](https://github.com/recolude/unitpacking) - Library to pack unit vectors into as fewest bytes as possible.
 
@@ -3538,7 +3540,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐35k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [CrunchyCleaner (⭐24)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
