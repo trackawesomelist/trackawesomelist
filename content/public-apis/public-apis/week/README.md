@@ -36,6 +36,34 @@ A collective list of free APIs
 
 
 
+### Open Data
+
+- API: [AcreLens](https://www.acrelens.com)
+
+  Description: Land suitability scoring API for any US property: off-grid, rural, recreational, investment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [Bluesky](https://docs.bsky.app/)
+
+  Description: Decentralized social networking via the AT protocol
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Animals
@@ -275,9 +303,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: **[⬆ Back to Index](#index)**
 
 
 

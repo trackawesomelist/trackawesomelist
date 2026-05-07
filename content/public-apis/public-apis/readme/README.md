@@ -1288,6 +1288,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | API                                                                                      | Description                                                                                         | Auth     | HTTPS | CORS    |
 | :--------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :------- | :---- | :------ |
 | [18F](http://18f.github.io/API-All-the-X/)                                               | Unofficial US Federal Government API Development                                                    | No       | No    | Unknown |
+| [AcreLens](https://www.acrelens.com)                                                     | Land suitability scoring API for any US property: off-grid, rural, recreational, investment         | `apiKey` | Yes   | Unknown |
 | [API Setu](https://www.apisetu.gov.in/)                                                  | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | No       | Yes   | Yes     |
 | [Archive.org](https://archive.readme.io/docs)                                            | The Internet Archive                                                                                | No       | Yes   | No      |
 | [Black History Facts](https://www.blackhistoryapi.io/docs)                               | Contribute or search one of the largest black history fact databases on the web                     | `apiKey` | Yes   | Yes     |
@@ -1559,6 +1560,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Ayrshare](https://www.ayrshare.com)                                            | Social media APIs to post, get analytics, and manage multiple users social media accounts         | `apiKey` | Yes   | Yes     |   |   |
 | [aztro](https://aztro.sameerkumar.website/)                                     | Daily horoscope info for yesterday, today, and tomorrow                                           | No       | Yes   | Unknown |   |   |
 | [Blogger](https://developers.google.com/blogger/)                               | The Blogger APIs allows client applications to view and update Blogger content                    | `OAuth`  | Yes   | Unknown |   |   |
+| [Bluesky](https://docs.bsky.app/)                                               | Decentralized social networking via the AT protocol                                               | No       | Yes   | Yes     |   |   |
 | [Cisco Spark](https://developer.ciscospark.com)                                 | Team Collaboration Software                                                                       | `OAuth`  | Yes   | Unknown |   |   |
 | [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php)    | Database of malicious Discord accounts                                                            | `apiKey` | Yes   | Unknown |   |   |
 | [Discord](https://discord.com/developers/docs/intro)                            | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  | Yes   | Unknown |   |   |
@@ -1912,10 +1914,8 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [WeatherAPI](https://www.weatherapi.com/)                                                                                    | Weather API with other stuff like Astronomy and Geolocation API                      | `apiKey`     | Yes   | Yes     |
 | [Weatherbit](https://www.weatherbit.io/api)                                                                                  | Weather                                                                              | `apiKey`     | Yes   | Unknown |
 | [Yandex.Weather](https://yandex.com/dev/weather/)                                                                            | Assesses weather condition in specific locations                                     | `apiKey`     | Yes   | No      |
-| **[⬆ Back to Index](#index)**                                                                                                |                                                                                      |              |       |         |
 
-<br >
-<br >
+**[⬆ Back to Index](#index)** <br > <br >
 
 <br>
 

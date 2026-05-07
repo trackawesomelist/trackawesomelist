@@ -6,6 +6,36 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 07, 2026](/content/2026/05/07/README.md)
+
+### Open Data
+
+- API: [AcreLens](https://www.acrelens.com)
+
+  Description: Land suitability scoring API for any US property: off-grid, rural, recreational, investment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [Bluesky](https://docs.bsky.app/)
+
+  Description: Decentralized social networking via the AT protocol
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
 ### Development
@@ -275,9 +305,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: **[⬆ Back to Index](#index)**
 
 
 

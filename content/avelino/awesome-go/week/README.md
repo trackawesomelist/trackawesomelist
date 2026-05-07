@@ -29,6 +29,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 
+### Utilities
+
+*   [relimpact (⭐10)](https://github.com/hashmap-kz/relimpact) - Fast API compatibility reports for Go projects.
+
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [tickstem/uptime (⭐0)](https://github.com/tickstem/uptime) - Go client for HTTP uptime monitoring with SSL expiry alerts and configurable response assertions.
@@ -159,7 +163,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Project Layout
 
-*   [go-rest-api-boilerplate (⭐50)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+*   [go-rest-api-boilerplate (⭐51)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
 
 ### Morphological Analyzers
 
@@ -179,7 +183,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Version Control
 
-*   [gitty (⭐18)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
+*   [gitty (⭐21)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
 
 ### Video
 
@@ -214,7 +218,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [indicator (⭐841)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
+*   [indicator (⭐850)](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 
 ### Generators
 
@@ -395,7 +399,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [hotplex (⭐11)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
+*   [hotplex (⭐3)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 
 ### Audio and Music
 
@@ -403,7 +407,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [phoenix (⭐25)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
+*   [phoenix (⭐27)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -440,7 +444,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [fursy (⭐3)](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
+*   [fursy (⭐4)](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
 
 ### Windows / Libraries for creating HTTP middlewares
 
