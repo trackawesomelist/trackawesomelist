@@ -12,6 +12,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [MobilityData - "Understanding GTFS: An intro and overview"](https://www.youtube.com/watch?v=SDz2460AjNo) - Video provides an overview of of the General Transit Feed Specification (GTFS) and why it is useful for transit agencies, riders, and policymakers.
 
+### GTFS Data Collection and Maintenance Tools / Rust
+
+*   [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator).
+
 ### Pilot or development stage / Rust
 
 *   [NCHRP 08-119](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
@@ -46,10 +50,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [MOTIS](https://motis-project.org/) - Intermodal Mobility Information System, global server run by [Transitous.org community](https://transitous.org)
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
-
-### GTFS Analysis Tools / Rust
-
-*   [GTFS Explorer](https://gtfs-explorer.org) - Web application to upload, validate and visually explore GTFS feeds, featuring an interactive network map, route and stop inspection, schedule grids, and a network statistics dashboard.
 
 ### GTFS Based Visualizations / Rust
 

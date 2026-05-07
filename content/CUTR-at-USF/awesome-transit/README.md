@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [May 07, 2026](/content/2026/05/07/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Rust
+
+*   [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator).
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### GTFS Courses
@@ -46,10 +52,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [MOTIS](https://motis-project.org/) - Intermodal Mobility Information System, global server run by [Transitous.org community](https://transitous.org)
 
 ## [Apr 02, 2026](/content/2026/04/02/README.md)
-
-### GTFS Analysis Tools / Rust
-
-*   [GTFS Explorer](https://gtfs-explorer.org) - Web application to upload, validate and visually explore GTFS feeds, featuring an interactive network map, route and stop inspection, schedule grids, and a network statistics dashboard.
 
 ### GTFS Based Visualizations / Rust
 
