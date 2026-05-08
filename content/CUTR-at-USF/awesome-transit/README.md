@@ -12,6 +12,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
 
+### GTFS Based Visualizations / Rust
+
+*   [GTFS City (⭐9)](https://github.com/ttezer/gtfs-city) - Open-source GTFS visualization and analysis tool with trip simulation, isochrone analysis, heatmaps, stop connectivity, and route planning.
+
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
@@ -74,7 +78,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [Data-Tools Server (⭐55)](https://github.com/ibi-group/datatools-server) - Server for IBI's GTFS data management platform.
-*   [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐139)](https://github.com/conveyal/gtfs-editor).)
 *   [Uttu (⭐7)](https://github.com/entur/uttu) - Back-end for Nplan, a simple timetable editor.
 
 ### Agency Tools / General GIS Applications for making transit visualizations
@@ -648,7 +651,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [gtfs-blocks-to-transfers (⭐9)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐948)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐948)](https://github.com/google/transit/pull/303).
-*   [GTFS Editor (⭐139)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐145)](https://github.com/ibi-group/datatools-ui).)
+*   [GTFS Editor (⭐139)](https://github.com/conveyal/gtfs-editor) and [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐145)](https://github.com/ibi-group/datatools-ui).)
 *   [GTFS Editor for Vagrant (⭐7)](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 
 ## [Mar 22, 2022](/content/2022/03/22/README.md)
@@ -881,7 +884,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [Open-Transport SYNTHESE Convertors (⭐24)](https://github.com/Open-Transport/synthese/wiki) - Converts French-Transmodel, SIRI, NETeX, HAFAS, HASTUS, VDV452, and more.
 *   [onebusaway-gtfs-to-barefoot (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-to-barefoot) - A Java tool to create a [Barefoot (⭐691)](https://github.com/bmwcarit/barefoot) mapfile from a GTFS file.
 *   [osm2gtfs (⭐101)](https://github.com/grote/osm2gtfs) - Turn OpenStreetMap data and schedule information into GTFS.
-*   [transloc-gtfs-rectifier (⭐2)](https://github.com/laidig/transloc-gtfs-rectifier) - Python application that attempts to assign GTFS stop\_ids to [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 *   [Transmodel and IFF to GTFS (⭐5)](https://github.com/bliksemlabs/bliksemintegration) - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
 
 ## [Apr 13, 2021](/content/2021/04/13/README.md)
@@ -1116,12 +1118,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### GTFS Converters / Rust
 
 *   [onebusaway-vdv-modules (⭐15)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
-
-## [Dec 03, 2019](/content/2019/12/03/README.md)
-
-### GTFS Realtime Convertors / Rust
-
-*   [Transloc API to GTFS-realtime (⭐3)](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) - A Node.js based tool to convert the Transloc API to GTFS-realtime.
 
 ## [Nov 18, 2019](/content/2019/11/18/README.md)
 

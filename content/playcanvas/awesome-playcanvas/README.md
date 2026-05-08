@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [May 08, 2026](/content/2026/05/08/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
+
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
 ### Tutorials
@@ -87,7 +93,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 *   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 *   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
-*   [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
 *   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 *   [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
@@ -185,7 +190,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [PlayCanvas Web Components (⭐93)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 *   [Texture Tool (⭐11)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐756)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [PCUI (⭐767)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ### Community
 

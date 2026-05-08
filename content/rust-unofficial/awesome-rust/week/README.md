@@ -19,6 +19,11 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [Hmbown/DeepSeek-TUI (⭐18k)](https://github.com/Hmbown/DeepSeek-TUI) \[[deepseek-tui-cli](https://crates.io/crates/deepseek-tui-cli)] - Terminal coding agent for DeepSeek V4 with streaming reasoning blocks, local workspace editing, auto model selection, MCP support, and ratatui-based TUI. [![CI](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml/badge.svg)](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml)
+*   [xingkongliang/skills-manager (⭐1.2k)](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
+
+### Development tools / Build system
+
+*   [vercel/turborepo (⭐30k)](https://github.com/vercel/turborepo) - High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
@@ -80,7 +85,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [tabularis (⭐1.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
+*   [tabularis](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 
 ### Applications / Message Queue
 
@@ -96,7 +101,7 @@ A curated list of Rust code and resources.
 
 *   [ataraxy-labs/sem (⭐2k)](https://github.com/ataraxy-labs/sem) - Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter. [![Release](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml)
 *   [ataraxy-labs/weave (⭐980)](https://github.com/ataraxy-labs/weave) - Entity-level merge driver for Git. Resolves merge conflicts by understanding code structure via tree-sitter. Drops into git as a custom merge driver via .gitattributes. [![Release](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/weave/actions/workflows/release.yml)
-*   [bolivian-peru/os-moda (⭐86)](https://github.com/bolivian-peru/os-moda) - NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise\_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.
+*   [bolivian-peru/os-moda (⭐93)](https://github.com/bolivian-peru/os-moda) - NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise\_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.
 *   [tw93/Kaku (⭐4.9k)](https://github.com/tw93/Kaku) - A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.
 
 ### Applications / Virtualization

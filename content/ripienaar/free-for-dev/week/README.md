@@ -12,6 +12,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
 
+### Education and Career Development
+
+*   [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
+
+### Email
+
+*   [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
+
+### PaaS
+
+*   [boxd](https://boxd.sh) - Persistent Linux VMs accessible through SSH or CLI. Free tier includes 10 VMs at 2 vCPU / 8 GB RAM / 100 GB disk each, with a public HTTPS URL per VM (so no networking fuss) and the ability to fork any running machine. <30ms cold boot, <100ms fork, <1ms suspend/resume, EU-hosted & EU-made, idle VMs sleep to zero.
+
 ### Storage and Media Processing
 
 *   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
@@ -2778,6 +2790,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
+    *   [isitdownstatus.com](https://isitdownstatus.com) – Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
 
 ### Design and UI
 

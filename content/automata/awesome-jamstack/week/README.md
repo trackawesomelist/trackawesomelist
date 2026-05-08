@@ -6,6 +6,12 @@ Carefully curated list of awesome Jamstack resources
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / Weekly / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Static Site Generators
+
+*   [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
+
 ## [Jun 30 - Jul 06, 2025](/content/2025/26/README.md)
 
 ### CMS
@@ -36,7 +42,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐22k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐23k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -88,7 +94,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐112)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐126)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -122,7 +128,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Authentication
 
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐132k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐139k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -471,7 +477,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐581)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐578)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 25 - Mar 31, 2019](/content/2019/12/README.md)
 
@@ -552,7 +558,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Coisas (⭐329)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐332)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -571,7 +577,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐1k)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 

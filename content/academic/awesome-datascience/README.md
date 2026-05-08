@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 08, 2026](/content/2026/05/08/README.md)
+
+### Tools
+
+*   [CAJAL (⭐11)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
+
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
 ### Tutorials
@@ -1584,7 +1590,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐11k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐294k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐297k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.4k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐18k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

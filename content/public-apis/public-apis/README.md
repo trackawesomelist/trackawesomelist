@@ -22,6 +22,20 @@ A collective list of free APIs
 
 
 
+### Currency Exchange
+
+- API: [paralelo.bo](https://paralelo.bo/api)
+
+  Description: Bolivia parallel-market USD/BOB exchange rate, aggregated from P2P sources every 60s
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Development
 
 - API: [isitdownstatus](https://isitdownstatus.com)
@@ -36,6 +50,62 @@ A collective list of free APIs
 
 
 
+### Email
+
+- API: [PostStack](https://poststack.dev/docs)
+
+  Description: EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Government
+
+- API: [CPFHub](https://cpfhub.io)
+
+  Description: Brazilian CPF lookup — returns full name, birth date, and gender for any CPF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [Edamam](https://developer.edamam.com/)
+
+  Description: Food and nutrition data API with recipe search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### News
+
+- API: [Florida Man (⭐0)](https://github.com/juliayxhuang/florida-man-api#readme)
+
+  Description: Static JSON dataset of 10,000+ Florida Man headlines by date
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Open Data
 
 - API: [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api)
@@ -47,6 +117,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar)
+
+  Description: Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 
@@ -2854,7 +2935,7 @@ A collective list of free APIs
 
   HTTPS: Yes
 
-  CORS: No
+  CORS: Yes
 
 
 

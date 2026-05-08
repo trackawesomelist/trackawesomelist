@@ -2,9 +2,15 @@
 
 Curated list of resources for Embedded and Low-level development in the Rust programming language
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 7.8K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rust-embedded/awesome-embedded-rust/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) · ⭐ 7.9K · 🏷️ Programming Languages
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
+
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Driver crates / WIP
+
+*   [tmag5273 (⭐0)](https://github.com/coffiot/tmag5273-rs) - I2C - TI TMAG5273 3-axis Hall-effect sensor with hardware CORDIC angle engine and typestate API - [![crates.io](https://img.shields.io/crates/v/tmag5273.svg)](https://crates.io/crates/tmag5273)
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
@@ -22,19 +28,19 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [🤖 hypervisor (⭐4)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
+*   [🤖 hypervisor (⭐5)](https://github.com/willamhou/hypervisor): Bare-metal ARM64 Type-1 hypervisor in `no_std` Rust (single dependency: `fdt`). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1 SPMC at S-EL2. Targets QEMU virt machine (no real hardware tested yet).
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### no-std crates / WIP
 
-*   [usbpd (⭐25)](https://github.com/elagil/usbpd): USB-PD library and traits, supports Sink mode, with Source functionality planned.
+*   [usbpd (⭐26)](https://github.com/elagil/usbpd): USB-PD library and traits, supports Sink mode, with Source functionality planned.
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
 ### no-std crates / WIP
 
-*   [🤖 crispy-bootloader (⭐7)](https://github.com/ADNTIO/crispy-bootloader-rp2040-rs): Minimal dual-bank bootloader for RP2040 with USB firmware upload, A/B bank switching, and CRC verification.
+*   [🤖 crispy-bootloader (⭐9)](https://github.com/ADNTIO/crispy-bootloader-rp2040-rs): Minimal dual-bank bootloader for RP2040 with USB firmware upload, A/B bank switching, and CRC verification.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -50,15 +56,15 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [embedded-test (⭐166)](https://github.com/probe-rs/embedded-test): A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
+*   [embedded-test (⭐169)](https://github.com/probe-rs/embedded-test): A versatile test harness for embedded devices, supporting unit tests, integration tests, async tests, and more.
 
 ### Driver crates / Other
 
-*   [AP33772S-rs](https://crates.io/crates/ap33772s-rs) - I2C - no-std sync and async compatible rust driver for the AP33772S USB C Power Delivery with Extended Power Range I2C chip - [github (⭐1)](https://github.com/ScottGibb/AP33772S-rs) - [![crates.io](https://img.shields.io/crates/v/ap33772s-rs.svg)](https://crates.io/crates/ap33772s-rs)
+*   [AP33772S-rs](https://crates.io/crates/ap33772s-rs) - I2C - no-std sync and async compatible rust driver for the AP33772S USB C Power Delivery with Extended Power Range I2C chip - [github (⭐2)](https://github.com/ScottGibb/AP33772S-rs) - [![crates.io](https://img.shields.io/crates/v/ap33772s-rs.svg)](https://crates.io/crates/ap33772s-rs)
 
 ### no-std crates / WIP
 
-*   [hayasen (⭐29)](https://github.com/Vaishnav-Sabari-Girish/Hayasen): An Embedded Rust crate with support for multiple sensors.  [![crates.io](https://img.shields.io/crates/v/hayasen.svg)](https://crates.io/crates/hayasen)
+*   [hayasen (⭐30)](https://github.com/Vaishnav-Sabari-Girish/Hayasen): An Embedded Rust crate with support for multiple sensors.  [![crates.io](https://img.shields.io/crates/v/hayasen.svg)](https://crates.io/crates/hayasen)
 *   [post-haste (⭐8)](https://github.com/petekubiak/post-haste): A no\_std, alloc-free async Rust library for creating modular projects.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
@@ -82,7 +88,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [commitment-issues (⭐16)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
+*   [commitment-issues (⭐17)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
 
 ### Peripheral Access Crates / STMicroelectronics
 
@@ -100,8 +106,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / WIP
 
-*   [tmag5273](https://github.com/dysonltd/tmag5273) - Cross-platform no\_std compatible i2c library for 3-axis Hall Effect sensor.
-*   [paa5100je-pwm3901 (⭐3)](https://github.com/dysonltd/paa5100je-pwm3901) - Cross platform no-std compatible spi async library for an Optical Flow Sensor.
+*   [paa5100je-pwm3901](https://github.com/dysonltd/paa5100je-pwm3901) - Cross platform no-std compatible spi async library for an Optical Flow Sensor.
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
@@ -186,8 +191,8 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐198)](https://github.com/ImplFerris/esp32-book))
-*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐139)](https://github.com/ImplFerris/pico-pico))
+*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐201)](https://github.com/ImplFerris/esp32-book))
+*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐146)](https://github.com/ImplFerris/pico-pico))
 
 ### Peripheral Access Crates / NXP
 
@@ -294,7 +299,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐435)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
+*   [lorawan-encoding (⭐445)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
@@ -341,7 +346,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / WIP
 
-*   [ad57xx (⭐1)](https://github.com/deltronix/ad57xx) - SPI - Quad and dual channel DAC - [![crates.io](https://img.shields.io/crates/v/ad57xx.svg)](https://crates.io/crates/ad57xx)
+*   [ad57xx](https://github.com/deltronix/ad57xx) - SPI - Quad and dual channel DAC - [![crates.io](https://img.shields.io/crates/v/ad57xx.svg)](https://crates.io/crates/ad57xx)
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -354,7 +359,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### no-std crates / WIP
 
 *   [embedded-cli](https://crates.io/crates/embedded-cli): CLI library with autocompletion, subcommands, options, help and history support. [![crates.io](https://img.shields.io/crates/v/embedded-cli.svg)](https://crates.io/crates/embedded-cli)
-*   [lorawan-device (⭐435)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
+*   [lorawan-device (⭐445)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-device): A LoRaWAN MAC implementation supporting both event-driven and async mode.
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
@@ -370,7 +375,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [BillMock (⭐16)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+*   [BillMock](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -399,7 +404,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [LuLuu (⭐9)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
+*   [LuLuu](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -419,7 +424,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [ethercrab (⭐405)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
+*   [ethercrab (⭐410)](https://github.com/ethercrab-rs/ethercrab): A Rust implementation of the [EtherCAT](https://ethercat.org) industrial automation protocol - [![crates.io](https://img.shields.io/crates/v/ethercrab.svg)](https://crates.io/crates/ethercrab)
 
 ### Firmware projects / WIP
 
@@ -438,11 +443,11 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [BMA400](https://crates.io/crates/bma400) - I2C/SPI - Bosch 12-bit 3-axis accelerometer - [github (⭐4)](https://github.com/cfrenette/bma400-rs) [![crates.io](https://img.shields.io/crates/v/bma400.svg)](https://crates.io/crates/bma400)
 *   [FUSB302B (⭐23)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐23)](https://github.com/fmckeogh/usb-pd-rs)
 *   [i2c-multiplexer](https://crates.io/crates/i2c-multiplexer) - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github (⭐2)](https://github.com/FloppyDisck/i2c-multiplexer) - [![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)](https://crates.io/crates/i2c-multiplexer)
-*   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐6)](https://github.com/FloppyDisck/SHT31-rs) - [![crates.io](https://img.shields.io/crates/v/sht31.svg)](https://crates.io/crates/sht31)
+*   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐7)](https://github.com/FloppyDisck/SHT31-rs) - [![crates.io](https://img.shields.io/crates/v/sht31.svg)](https://crates.io/crates/sht31)
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐140)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Stabilizer](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
 *   [Booster (⭐13)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐8)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
 *   [Card/IO ECG (⭐52)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card-sized ECG device with Wifi connectivity
@@ -463,14 +468,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [air-gradient-pro-rs (⭐12)](https://github.com/jonlamb-gh/air-gradient-pro-rs): Bootloader, firmware, and CLI tools for the AirGradient PRO
+*   [air-gradient-pro-rs](https://github.com/jonlamb-gh/air-gradient-pro-rs): Bootloader, firmware, and CLI tools for the AirGradient PRO
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [espflash (⭐687)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
-*   [espup (⭐412)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
+*   [espflash (⭐699)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - [![crates.io](https://img.shields.io/crates/v/espflash.svg)](https://crates.io/crates/espflash)
+*   [espup (⭐418)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - [![crates.io](https://img.shields.io/crates/v/espup.svg)](https://crates.io/crates/espup)
 
 ### Real-time / Real-time tools
 
@@ -484,7 +489,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐917)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐925)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -506,7 +511,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐78)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐79)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
 
 ### Peripheral Access Crates / Renesas
 
@@ -616,7 +621,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / Other
 
-*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐63)](https://github.com/almindor/st7789) - [![crates.io](https://img.shields.io/crates/v/st7789.svg)](https://crates.io/crates/st7789)
+*   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github](https://github.com/almindor/st7789) - [![crates.io](https://img.shields.io/crates/v/st7789.svg)](https://crates.io/crates/st7789)
 *   [ST7565](http://crates.io/crates/st7565) - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github (⭐8)](https://github.com/Finomnis/st7565) - [![crates.io](https://img.shields.io/crates/v/st7565.svg)](https://crates.io/crates/st7565)
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
@@ -643,7 +648,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [moonboot (⭐28)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
+*   [moonboot (⭐29)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -656,14 +661,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐258)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐259)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### no-std crates / WIP
 
 *   [drogue-device (⭐204)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
 *   [ector (⭐66)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐29)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐226)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [embedded-tls (⭐228)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs, and training materials / WIP
 
@@ -748,51 +753,51 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Board support crates / Adafruit
 
-*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/metro_m0.svg)](https://crates.io/crates/metro_m0)
-*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/metro_m4.svg)](https://crates.io/crates/metro_m4)
-*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/pyportal.svg)](https://crates.io/crates/pyportal)
-*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/pygamer.svg)](https://crates.io/crates/pygamer)
-*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)](https://crates.io/crates/trellis_m4)
-*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/feather_m0.svg)](https://crates.io/crates/feather_m0)
-*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/feather_m4.svg)](https://crates.io/crates/feather_m4)
-*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)](https://crates.io/crates/circuit_playground_express)
-*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/edgebadge.svg)](https://crates.io/crates/edgebadge)
-*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)](https://crates.io/crates/gemma_m0)
-*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)](https://crates.io/crates/itsybitsy_m0)
-*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)](https://crates.io/crates/itsybitsy_m4)
-*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)](https://crates.io/crates/trinket_m0)
-*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)](https://crates.io/crates/neo_trinkey)
-*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)](https://crates.io/crates/neokey_trinkey)
-*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)](https://crates.io/crates/grand_central_m4)
-*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)](https://crates.io/crates/qt_py_m0)
+*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/metro_m0.svg)](https://crates.io/crates/metro_m0)
+*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/metro_m4.svg)](https://crates.io/crates/metro_m4)
+*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/pyportal.svg)](https://crates.io/crates/pyportal)
+*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/pygamer.svg)](https://crates.io/crates/pygamer)
+*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)](https://crates.io/crates/trellis_m4)
+*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/feather_m0.svg)](https://crates.io/crates/feather_m0)
+*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/feather_m4.svg)](https://crates.io/crates/feather_m4)
+*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)](https://crates.io/crates/circuit_playground_express)
+*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/edgebadge.svg)](https://crates.io/crates/edgebadge)
+*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)](https://crates.io/crates/gemma_m0)
+*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)](https://crates.io/crates/itsybitsy_m0)
+*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)](https://crates.io/crates/itsybitsy_m4)
+*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)](https://crates.io/crates/trinket_m0)
+*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)](https://crates.io/crates/neo_trinkey)
+*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)](https://crates.io/crates/neokey_trinkey)
+*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)](https://crates.io/crates/grand_central_m4)
+*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)](https://crates.io/crates/qt_py_m0)
 
 ### Board support crates / Arduino
 
-*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)](https://crates.io/crates/arduino_mkr1000)
-*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)](https://crates.io/crates/arduino_mkrvidor4000)
-*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)](https://crates.io/crates/arduino_mkrzero)
-*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)](https://crates.io/crates/arduino_nano33iot)
+*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)](https://crates.io/crates/arduino_mkr1000)
+*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)](https://crates.io/crates/arduino_mkrvidor4000)
+*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)](https://crates.io/crates/arduino_mkrzero)
+*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)](https://crates.io/crates/arduino_nano33iot)
 
 ### Board support crates / Sparkfun
 
-*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)](https://crates.io/crates/samd21_mini)
+*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)](https://crates.io/crates/samd21_mini)
 
 ### Board support crates / SeeedStudio
 
-*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)](https://crates.io/crates/xiao_m0)
-*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/wio_lite_mg126.svg)](https://crates.io/crates/wio_lite_mg126)
-*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/wio_lite_w600.svg)](https://crates.io/crates/wio_lite_w600)
-*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board [![crates.io](https://img.shields.io/crates/v/wio_terminal.svg)](https://crates.io/crates/wio_terminal)
+*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)](https://crates.io/crates/xiao_m0)
+*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/wio_lite_mg126.svg)](https://crates.io/crates/wio_lite_mg126)
+*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/wio_lite_w600.svg)](https://crates.io/crates/wio_lite_w600)
+*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board [![crates.io](https://img.shields.io/crates/v/wio_terminal.svg)](https://crates.io/crates/wio_terminal)
 
 ### Board support crates / Sodaq
 
-*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://support.sodaq.com/Boards/One/) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
-*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)](https://crates.io/crates/sodaq_sara_aff)
+*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://support.sodaq.com/Boards/One/) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
+*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)](https://crates.io/crates/sodaq_sara_aff)
 
 ### Board support crates / Other
 
-*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/serpente.svg)](https://crates.io/crates/serpente)
-*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐648)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐648)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/p1am_100.svg)](https://crates.io/crates/p1am_100)
+*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/serpente.svg)](https://crates.io/crates/serpente)
+*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐649)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐649)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/p1am_100.svg)](https://crates.io/crates/p1am_100)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -832,7 +837,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [cargo-flash](https://probe.rs/docs/tools/cargo-flash/) A small cargo subcommand to download your binary to your target chip. - [![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)](https://crates.io/crates/cargo-flash)
 *   [cargo-embed](https://probe.rs/docs/tools/cargo-embed/) A superset of cargo-flash with additional useful features like configuration file support, an RTT terminal, or a GDB server. - [![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)](https://crates.io/crates/cargo-embed)
-*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.1k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.2k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -946,7 +951,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [DSP on STM32F407G-DISC1 (⭐35)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
+*   [DSP on STM32F407G-DISC1 (⭐36)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 
 ### no-std crates / WIP
 
@@ -1000,9 +1005,9 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
     *   [defmt (⭐1.2k)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [derive-mmio (⭐18)](https://github.com/knurling-rs/derive-mmio): Creating MMIO-friendly APIs for embedded peripherals.
-    *   [flip-link (⭐404)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐454)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [derive-mmio (⭐19)](https://github.com/knurling-rs/derive-mmio): Creating MMIO-friendly APIs for embedded peripherals.
+    *   [flip-link (⭐413)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐458)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐10)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -1065,7 +1070,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [embassy (⭐11)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
@@ -1181,7 +1186,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / Other
 
-*   [AnyLeaf](https://crates.io/crates/anyleaf) - I2C - pH sensor module - [github (⭐6)](https://github.com/AnyLeaf/ph-rust) - [![crates.io](https://img.shields.io/crates/v/anyleaf.svg)](https://crates.io/crates/anyleaf)
+*   [AnyLeaf](https://crates.io/crates/anyleaf) - I2C - pH sensor module - [github](https://github.com/AnyLeaf/ph-rust) - [![crates.io](https://img.shields.io/crates/v/anyleaf.svg)](https://crates.io/crates/anyleaf)
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -1212,11 +1217,11 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Real-time / Real-time Operating System (RTOS)
 
-*   [FreeRTOS-rust (⭐482)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
+*   [FreeRTOS-rust (⭐477)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
 
 ### Driver crates / WIP
 
-*   [lvgl (⭐904)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐23k)](https://github.com/littlevgl/lvgl) port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
+*   [lvgl (⭐909)](https://github.com/rafaelcaricio/lvgl-rs) - no\_std [LittleVGL (⭐23k)](https://github.com/littlevgl/lvgl) port - [![crates.io](https://img.shields.io/crates/v/lvgl.svg)](https://crates.io/crates/lvgl)
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -1328,10 +1333,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / Other
 
-*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐133)](https://github.com/mvirkkunen/usbd-serial) - [![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)](https://crates.io/crates/usbd-serial)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐111)](https://github.com/twitchyliquid64/usbd-hid) - [![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)](https://crates.io/crates/usbd-hid)
+*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐134)](https://github.com/mvirkkunen/usbd-serial) - [![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)](https://crates.io/crates/usbd-serial)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐110)](https://github.com/twitchyliquid64/usbd-hid) - [![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)](https://crates.io/crates/usbd-hid)
 *   [usbd-hid-device](http://crates.io/crates/usbd-hid-device) - USB HID class implementation without `unsafe` - [github (⭐14)](https://github.com/agalakhov/usbd-hid-device) - [![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)](https://crates.io/crates/usbd-hid-device)
-*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github (⭐63)](https://github.com/btrepp/usbd-midi) - [![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)](https://crates.io/crates/usbd-midi)
+*   [usbd-midi](http://crates.io/crates/usbd-midi) - USB MIDI class implementation - [github](https://github.com/btrepp/usbd-midi) - [![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)](https://crates.io/crates/usbd-midi)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐23)](https://github.com/redpfire/usbd-webusb) - [![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)](https://crates.io/crates/usbd-webusb)
 
 ### Driver crates / WIP
@@ -1463,7 +1468,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / WIP
 
-*   [AFE4400 (⭐6)](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
+*   [AFE4400](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
 *   [APDS9960](https://crates.io/crates/apds9960) - I2C - Proximity, ambient light, RGB, and gesture sensor - [![crates.io](https://img.shields.io/crates/v/apds9960.svg)](https://crates.io/crates/apds9960)
 *   [AS5048A (⭐3)](https://github.com/uwearzt/as5048a) - SPI - AMS AS5048A Magnetic Rotary Encoder
 *   [AXP209 (⭐5)](https://github.com/RandomInsano/axp209-rs) - I2C - Power management unit
@@ -1477,14 +1482,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [DS323x](https://crates.io/crates/ds323x) - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - [![crates.io](https://img.shields.io/crates/v/ds323x.svg)](https://crates.io/crates/ds323x)
 *   [embedded-nrf24l01](https://crates.io/crates/embedded-nrf24l01) - SPI+GPIO - 2.4 GHz radio
 *   [GridEYE](https://crates.io/crates/grideye) - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - [![crates.io](https://img.shields.io/crates/v/GridEYE.svg)](https://crates.io/crates/GridEYE)
-*   [HC-SR04 (⭐17)](https://github.com/nordmoen/hc-sr04) - DIO - Ultrasound sensor
+*   [HC-SR04](https://github.com/nordmoen/hc-sr04) - DIO - Ultrasound sensor
 *   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - [![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)](https://crates.io/crates/hd44780-driver)
 *   [HD44780 (⭐12)](http://github.com/kunerd/clerk) - Parallel port - LCD controller
 *   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - [![crates.io](https://img.shields.io/crates/v/hm11.svg)](https://crates.io/crates/hm11)
 *   [hub75 (⭐28)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - [![crates.io](https://img.shields.io/crates/v/hub75.svg)](https://crates.io/crates/hub75)
 *   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - [![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)](https://crates.io/crates/hzgrow-r502)
 *   [iAQ-Core (⭐2)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
-*   [ILI9341 (⭐70)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
+*   [ILI9341 (⭐71)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
 *   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - [![crates.io](https://img.shields.io/crates/v/ina260.svg)](https://crates.io/crates/ina260)
 *   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - [![crates.io](https://img.shields.io/crates/v/lm75.svg)](https://crates.io/crates/lm75)
 *   [LS010B7DH01 (⭐7)](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
@@ -1492,7 +1497,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [MAG3110 (⭐1)](https://github.com/therealprof/mag3110) - I2C - Magnetometer
 *   [MAX31865](https://crates.io/crates/max31865) - SPI - RTD to Digital converter - [![crates.io](https://img.shields.io/crates/v/max31865.svg)](https://crates.io/crates/max31865)
 *   [MAX44009](https://crates.io/crates/max44009) - I2C - Ambient light sensor - [![crates.io](https://img.shields.io/crates/v/max44009.svg)](https://crates.io/crates/max44009)
-*   [MAX7219 (⭐17)](https://github.com/almindor/max7219) - SPI - LED display driver - [![crates.io](https://img.shields.io/crates/v/max7219.svg)](https://crates.io/crates/max7219)
+*   [MAX7219](https://github.com/almindor/max7219) - SPI - LED display driver - [![crates.io](https://img.shields.io/crates/v/max7219.svg)](https://crates.io/crates/max7219)
 *   [MCP49xx](https://crates.io/crates/mcp49xx) - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - [![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)](https://crates.io/crates/mcp49xx)
 *   [MCP9808](https://crates.io/crates/mcp9808) - I2C - Temperature sensor - [![crates.io](https://img.shields.io/crates/v/mcp9808.svg)](https://crates.io/crates/mcp9808)
 *   [MFRC522 (⭐32)](https://github.com/japaric/mfrc522) - SPI - RFID tag reader/writer
@@ -1518,14 +1523,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - [![crates.io](https://img.shields.io/crates/v/ssd1675.svg)](https://crates.io/crates/ssd1675)
 *   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - [![crates.io](https://img.shields.io/crates/v/st7032i.svg)](https://crates.io/crates/st7032i)
 *   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix [![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)](https://crates.io/crates/st7735-lcd)
-*   [stm32-eth (⭐161)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
+*   [stm32-eth (⭐160)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
 *   [SX1278 (⭐11)](https://github.com/susu/sx1278) - SPI - Long range (LoRa) transceiver
 *   [SX1509 (⭐1)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
 *   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - [![crates.io](https://img.shields.io/crates/v/tcs3472.svg)](https://crates.io/crates/tcs3472)
 *   [TPA2016D2](https://crates.io/crates/tpa2016d2) - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - [![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)](https://crates.io/crates/tpa2016d2)
 *   [VEML6040](https://crates.io/crates/veml6040) - I2C - RGBW color light sensor - [![crates.io](https://img.shields.io/crates/v/veml6040.svg)](https://crates.io/crates/veml6040)
 *   [VEML6070](https://crates.io/crates/veml6070) - I2C - UVA light sensor - [![crates.io](https://img.shields.io/crates/v/veml6070.svg)](https://crates.io/crates/veml6070)
-*   [vesc-comm (⭐1)](https://github.com/chocol4te/vesc-comm) - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) [![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)](https://crates.io/crates/vesc-comm)
+*   [vesc-comm (⭐2)](https://github.com/chocol4te/vesc-comm) - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) [![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)](https://crates.io/crates/vesc-comm)
 *   [VL53L0X](https://crates.io/crates/vl53l0x) - A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) [![crates.io](https://img.shields.io/crates/v/vl53l0x.svg)](https://crates.io/crates/vl53l0x)
 *   [w5500](https://crates.io/crates/w5500) - SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - [![crates.io](https://img.shields.io/crates/v/w5500.svg)](https://crates.io/crates/w5500)
 *   [xCA9548A](https://crates.io/crates/xca9548a) - I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - [![crates.io](https://img.shields.io/crates/v/xca9548a.svg)](https://crates.io/crates/xca9548a)
@@ -1539,17 +1544,17 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [bluetooth-hci](https://crates.io/crates/bluetooth-hci): device-independent Bluetooth Host-Controller Interface implementation. [![crates.io](https://img.shields.io/crates/v/bluetooth-hci.svg)](https://crates.io/crates/bluetooth-hci)
 *   [bounded-registers](https://crates.io/crates/bounded-registers) A high-assurance memory-mapped register code generation and interaction library. `bounded-registers` provides a Tock-like API for MMIO registers with the addition of type-based bounds checking. - [![crates.io](https://img.shields.io/crates/v/bounded-registers.svg)](https://crates.io/crates/bounded-registers)
 *   [combine](https://crates.io/crates/combine): parser combinator library - [![crates.io](https://img.shields.io/crates/v/combine.svg)](https://crates.io/crates/combine)
-*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐61)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs). [![crates.io](https://img.shields.io/crates/v/console-tratis.svg)](https://crates.io/crates/console-tratis)
+*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs). [![crates.io](https://img.shields.io/crates/v/console-tratis.svg)](https://crates.io/crates/console-tratis)
 *   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - [![crates.io](https://img.shields.io/crates/v/cmim.svg)](https://crates.io/crates/cmim)
 *   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements [![crates.io](https://img.shields.io/crates/v/dcmimu.svg)](https://crates.io/crates/dcmimu)
-*   [gcode (⭐103)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+*   [gcode (⭐104)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
 *   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - [![crates.io](https://img.shields.io/crates/v/heapless.svg)](https://crates.io/crates/heapless)
 *   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - [![crates.io](https://img.shields.io/crates/v/ieee802154.svg)](https://crates.io/crates/ieee802154)
 *   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - [![crates.io](https://img.shields.io/crates/v/infrared.svg)](https://crates.io/crates/infrared)
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - [![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)](https://crates.io/crates/intrusive-collections)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - [![crates.io](https://img.shields.io/crates/v/managed.svg)](https://crates.io/crates/managed)
-*   [menu (⭐61)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. [![crates.io](https://img.shields.io/crates/v/menu.svg)](https://crates.io/crates/menu)
-*   [micromath (⭐485)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
+*   [menu](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. [![crates.io](https://img.shields.io/crates/v/menu.svg)](https://crates.io/crates/menu)
+*   [micromath (⭐486)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - [![crates.io](https://img.shields.io/crates/v/nalgebra.svg)](https://crates.io/crates/nalgebra)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - [![crates.io](https://img.shields.io/crates/v/nom.svg)](https://crates.io/crates/nom)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - [![crates.io](https://img.shields.io/crates/v/null-terminated.svg)](https://crates.io/crates/null-terminated)
@@ -1557,7 +1562,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [pc-keyboard (⭐114)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. [![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)](https://crates.io/crates/pc-keyboard)
 *   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - [![crates.io](https://img.shields.io/crates/v/qei.svg)](https://crates.io/crates/qei)
 *   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - [![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)](https://crates.io/crates/qemu-exit)
-*   [register-rs (⭐49)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
+*   [register-rs (⭐50)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
 *   [scroll](https://crates.io/crates/scroll): extensible and endian-aware Read/Write traits for generic containers - [![crates.io](https://img.shields.io/crates/v/scroll.svg)](https://crates.io/crates/scroll)
 *   [smoltcp (⭐4.4k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
 *   [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - [![crates.io](https://img.shields.io/crates/v/tinybmp.svg)](https://crates.io/crates/tinybmp)
@@ -1708,7 +1713,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐403)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack [![crates.io](https://img.shields.io/crates/v/rubble.svg)](https://crates.io/crates/rubble)
+*   [Rubble](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack [![crates.io](https://img.shields.io/crates/v/rubble.svg)](https://crates.io/crates/rubble)
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
@@ -1877,7 +1882,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐61)](https://github.com/thejpster/menu), [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐114)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu](https://github.com/thejpster/menu), [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐114)](https://github.com/thejpster/pc-keyboard).
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -1899,7 +1904,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Paid and commercially available materials
 
-*   [svd2rust (⭐834)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐838)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - [![crates.io](https://img.shields.io/crates/v/bindgen.svg)](https://crates.io/crates/bindgen)
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
