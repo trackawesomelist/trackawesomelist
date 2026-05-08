@@ -257,6 +257,7 @@ Converters from various static schedule formats to and from GTFS.
 *   [gtfs-validator-api (⭐3)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
 *   [GTFSVTOR (⭐30)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
 *   [MobilityData's gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
+*   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
 *   [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib (⭐81)](https://github.com/conveyal/gtfs-lib/).
 *   [Transit App's gtfs-fares-v2-validator (⭐7)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 *   [Transport Validator (⭐46)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
@@ -445,13 +446,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 #### Sample GTFS and GTFS Realtime datasets used for software testing
 
 *   [sample-gtfs-feed (⭐13)](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
-*   [transitfeed unit tests (⭐690)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐690)](https://github.com/google/transitfeed/wiki/FeedValidator).
 *   [Transitland GTFS and GTFS Realtime unit tests (⭐51)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐51)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
-    *   [GTFS - "bad entities" at the single row level (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
-    *   [GTFS - validation errors that that involve entities in one or more files (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
-    *   [GTFS - best practices (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices)
-*   [gtfs-realtime-validator unit tests (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
-*   [OpenTripPlanner unit tests (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
 
 ## Using Data
 

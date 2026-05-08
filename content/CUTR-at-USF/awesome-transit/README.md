@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [May 08, 2026](/content/2026/05/08/README.md)
+
+### GTFS Validators / Rust
+
+*   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
+
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
@@ -637,14 +643,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐8)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
 
-## [Mar 24, 2022](/content/2022/03/24/README.md)
-
-### Sample GTFS and GTFS Realtime datasets used for software testing / Rust
-
-*   [transitfeed unit tests (⭐690)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐690)](https://github.com/google/transitfeed/wiki/FeedValidator).
-*   [gtfs-realtime-validator unit tests (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐58)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
-*   [OpenTripPlanner unit tests (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐2.6k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
-
 ## [Mar 23, 2022](/content/2022/03/23/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
@@ -658,9 +656,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### Sample GTFS and GTFS Realtime datasets used for software testing / Rust
 
 *   [Transitland GTFS and GTFS Realtime unit tests (⭐51)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐51)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
-    *   [GTFS - "bad entities" at the single row level (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
-    *   [GTFS - validation errors that that involve entities in one or more files (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
-    *   [GTFS - best practices (⭐51)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices)
 
 ## [Mar 21, 2022](/content/2022/03/21/README.md)
 

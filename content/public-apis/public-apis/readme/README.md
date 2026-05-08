@@ -386,6 +386,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [0x](https://0x.org/api)                                                                                              | API for querying token and pool stats across various liquidity pools                             | No       | Yes   | Yes     |
 | [1inch](https://1inch.io/api/)                                                                                        | API for querying decentralize exchange                                                           | No       | Yes   | Unknown |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/)                                                                 | Ethereum Node-as-a-Service Provider                                                              | `apiKey` | Yes   | Yes     |
+| [Alpha (Mossland)](https://alpha.moss.land/developers)                                                                | Korean crypto channel stance + RAG Q\&A + canonical entity/topic/event store                     | No       | Yes   | Yes     |
 | [Binance (⭐4.8k)](https://github.com/binance/binance-spot-api-docs)                                                   | Exchange for Trading Cryptocurrencies based in China                                             | `apiKey` | Yes   | Unknown |
 | [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public)                                                       | Get the list of all traded assets in the exchange                                                | No       | Yes   | Unknown |
 | [BitcoinAverage](https://apiv2.bitcoinaverage.com/)                                                                   | Digital Asset Price Data for the blockchain industry                                             | `apiKey` | Yes   | Unknown |
@@ -555,6 +556,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [ipfind.io](https://ipfind.io)                                                                                                            | Geographic location of an IP address or any domain name along with some other useful information     | `apiKey`        | Yes   | Yes     |
 | [IPify](https://www.ipify.org/)                                                                                                           | A simple IP Address API                                                                              | No              | Yes   | Unknown |
 | [IPinfo](https://ipinfo.io/developers)                                                                                                    | Another simple IP Address API                                                                        | No              | Yes   | Unknown |
+| [isitdownstatus](https://isitdownstatus.com)                                                                                              | Check if websites and online services are currently down                                             | No              | Yes   | Unknown |
 | [jsDelivr (⭐236)](https://github.com/jsdelivr/data.jsdelivr.com)                                                                          | Package info and download stats on jsDelivr CDN                                                      | No              | Yes   | Yes     |
 | [JSON 2 JSONP](https://json2jsonp.com/)                                                                                                   | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript  | No              | Yes   | Unknown |
 | [JSONbin.io](https://jsonbin.io)                                                                                                          | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                  | `apiKey`        | Yes   | Yes     |
@@ -789,7 +791,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [SmartAPI](https://smartapi.angelbroking.com/)                                                                             | Gain access to set of <SmartAPI> and create end-to-end broking services                             | `apiKey` | Yes   | Unknown |   |
 | [StockData](https://www.StockData.org)                                                                                     | Real-Time, Intraday & Historical Market Data, News and Sentiment API                                | `apiKey` | Yes   | Yes     |   |
 | [Styvio](https://www.Styvio.com)                                                                                           | Realtime and historical stock data and current stock sentiment                                      | `apiKey` | Yes   | Unknown |   |
-| [Tax Data API](https://apilayer.com/marketplace/tax_data-api)                                                              | Instant VAT number and tax validation across the globe                                              | `apiKey` | Yes   | Unkown  |   |
+| [Tax Data API](https://apilayer.com/marketplace/tax_data-api)                                                              | Instant VAT number and tax validation across the globe                                              | `apiKey` | Yes   | Unknown |   |
 | [Tradier](https://developer.tradier.com)                                                                                   | US equity/option market data (delayed, intraday, historical)                                        | `OAuth`  | Yes   | Yes     |   |
 | [Twelve Data](https://twelvedata.com/)                                                                                     | Stock market data (real-time & historical)                                                          | `apiKey` | Yes   | Unknown |   |
 | [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api)                                                     | Validate VAT numbers and calculate VAT rates                                                        | `apiKey` | Yes   | Yes     |   |
@@ -1304,6 +1306,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [LinkPreview](https://www.linkpreview.net)                                               | Get JSON formatted summary with title, description and preview image for any requested URL          | `apiKey` | Yes   | Yes     |
 | [Lowy Asia Power Index (⭐8)](https://github.com/0x0is1/lowy-index-api-docs)              | Get measure resources and influence to rank the relative power of states in Asia                    | No       | Yes   | Unknown |
 | [Microlink.io](https://microlink.io)                                                     | Extract structured data from any website                                                            | No       | Yes   | Yes     |
+| [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api)                      | Lookup appliance and equipment error codes by brand and code, with recommended replacement parts    | No       | Yes   | Yes     |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/)                                        | Stock market data                                                                                   | `apiKey` | Yes   | Unknown |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)                        | Open data about nobel prizes and events                                                             | No       | Yes   | Yes     |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/)                             | Spatial (GIS) and non-spatial city data for Minneapolis                                             | No       | Yes   | No      |
@@ -1386,13 +1389,14 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Phone
 
-| API                                                                                                                   | Description                              | Auth     | HTTPS | CORS    |
-| :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :------- | :---- | :------ |
-| [Numverify](https://numverify.com?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers) | Phone number validation                  | `apiKey` | Yes   | Unknown |
-| [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API)                                         | Validate international phone numbers     | `apiKey` | Yes   | Yes     |
-| [Phone Specification (⭐173)](https://github.com/azharimm/phone-specs-api)                                             | Rest Api for Phone specifications        | No       | Yes   | Yes     |
-| [Phone Validation](https://www.abstractapi.com/phone-validation-api)                                                  | Validate phone numbers globally          | `apiKey` | Yes   | Yes     |
-| [Veriphone](https://veriphone.io)                                                                                     | Phone number validation & carrier lookup | `apiKey` | Yes   | Yes     |
+| API                                                                                                                   | Description                                                         | Auth     | HTTPS | CORS    |
+| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------ | :------- | :---- | :------ |
+| [Numlookup](https://numlookupapi.com)                                                                                 | Phone number validation and carrier lookup API with global coverage | `apiKey` | Yes   | Unknown |
+| [Numverify](https://numverify.com?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers) | Phone number validation                                             | `apiKey` | Yes   | Unknown |
+| [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API)                                         | Validate international phone numbers                                | `apiKey` | Yes   | Yes     |
+| [Phone Specification (⭐173)](https://github.com/azharimm/phone-specs-api)                                             | Rest Api for Phone specifications                                   | No       | Yes   | Yes     |
+| [Phone Validation](https://www.abstractapi.com/phone-validation-api)                                                  | Validate phone numbers globally                                     | `apiKey` | Yes   | Yes     |
+| [Veriphone](https://veriphone.io)                                                                                     | Phone number validation & carrier lookup                            | `apiKey` | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1470,6 +1474,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Ocean Facts](https://oceanfacts.herokuapp.com/)                               | Facts pertaining to the physical science of Oceanography                                          | No       | Yes   | Unknown |
 | [Open Notify](http://open-notify.org/Open-Notify-API/)                         | ISS astronauts, current location, etc                                                             | No       | No    | No      |
 | [Open Science Framework](https://developer.osf.io)                             | Repository and archive for study designs, research materials, data, manuscripts, etc              | No       | Yes   | Unknown |
+| [OpenAlex](https://docs.openalex.org/)                                         | Open catalog of scholarly works, authors, institutions, sources, and concepts                     | No       | Yes   | Yes     |
 | [Purple Air](https://www2.purpleair.com/)                                      | Real Time Air Quality Monitoring                                                                  | No       | Yes   | Unknown |
 | [Remote Calc (⭐6)](https://github.com/elizabethadegbaju/remotecalc)            | Decodes base64 encoding and parses it to return a solution to the calculation in JSON             | No       | Yes   | Yes     |
 | [SHARE](https://share.osf.io/api/v2/)                                          | A free, open, dataset about research and scholarly activities                                     | No       | Yes   | No      |
@@ -1611,6 +1616,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [City Bikes](https://api.citybik.es/v2/)                                                    | City Bikes around the world                                                                         | No              | Yes   | Unknown |
 | [Cloudbet](https://www.cloudbet.com/api/)                                                   | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | `apiKey`        | Yes   | Yes     |
 | [CollegeFootballData.com](https://collegefootballdata.com)                                  | Unofficial detailed American college football statistics, records, and results API                  | `apiKey`        | Yes   | Unknown |
+| [DiscGolf](https://discgolfapi.com/docs/)                                                   | Structured disc golf course data                                                                    | No              | Yes   | Yes     |
 | [Ergast F1](http://ergast.com/mrd/)                                                         | F1 data from the beginning of the world championships in 1950                                       | No              | Yes   | Unknown |
 | [Fitbit](https://dev.fitbit.com/)                                                           | Fitbit Information                                                                                  | `OAuth`         | Yes   | Unknown |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/)                        | A simple Open Source Football API to get squads’ stats, best scorers and more                       | `X-Mashape-Key` | Yes   | Unknown |
@@ -1709,6 +1715,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [UPS](https://www.ups.com/upsdeveloperkit)                          | Shipment and Address information                                                               | `apiKey`        | Yes   | Unknown |
 | [WeCanTrack](https://docs.wecantrack.com)                           | Automatically place subids in affiliate links to attribute affiliate conversions to click data | `apiKey`        | Yes   | Yes     |
 | [WhatPulse](https://developer.whatpulse.org/#web-api)               | Small application that measures your keyboard/mouse usage                                      | No              | Yes   | Unknown |
+| [WhereParcel](https://whereparcel.com/docs)                         | Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)        | `apiKey`        | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1913,6 +1920,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [weather-api (⭐468)](https://github.com/robertoduessmann/weather-api)                                                        | A RESTful free API to check the weather                                              | No           | Yes   | No      |
 | [WeatherAPI](https://www.weatherapi.com/)                                                                                    | Weather API with other stuff like Astronomy and Geolocation API                      | `apiKey`     | Yes   | Yes     |
 | [Weatherbit](https://www.weatherbit.io/api)                                                                                  | Weather                                                                              | `apiKey`     | Yes   | Unknown |
+| [wttr.in](https://wttr.in/:help)                                                                                             | Weather in your terminal, supports JSON output                                       | No           | Yes   | Yes     |
 | [Yandex.Weather](https://yandex.com/dev/weather/)                                                                            | Assesses weather condition in specific locations                                     | `apiKey`     | Yes   | No      |
 
 **[⬆ Back to Index](#index)** <br > <br >

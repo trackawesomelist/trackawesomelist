@@ -6,6 +6,120 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 08, 2026](/content/2026/05/08/README.md)
+
+### Cryptocurrency
+
+- API: [Alpha (Mossland)](https://alpha.moss.land/developers)
+
+  Description: Korean crypto channel stance + RAG Q\&A + canonical entity/topic/event store
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [isitdownstatus](https://isitdownstatus.com)
+
+  Description: Check if websites and online services are currently down
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Open Data
+
+- API: [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api)
+
+  Description: Lookup appliance and equipment error codes by brand and code, with recommended replacement parts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Phone
+
+- API: [Numlookup](https://numlookupapi.com)
+
+  Description: Phone number validation and carrier lookup API with global coverage
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Science & Math
+
+- API: [OpenAlex](https://docs.openalex.org/)
+
+  Description: Open catalog of scholarly works, authors, institutions, sources, and concepts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [DiscGolf](https://discgolfapi.com/docs/)
+
+  Description: Structured disc golf course data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Tracking
+
+- API: [WhereParcel](https://whereparcel.com/docs)
+
+  Description: Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [wttr.in](https://wttr.in/:help)
+
+  Description: Weather in your terminal, supports JSON output
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
 ### Open Data
@@ -759,7 +873,7 @@ A collective list of free APIs
 
   HTTPS: Yes
 
-  CORS: Unkown
+  CORS: Unknown
 
   : 
 

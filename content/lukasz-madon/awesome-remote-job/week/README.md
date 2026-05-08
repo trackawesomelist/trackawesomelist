@@ -2,9 +2,71 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 43K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 46K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Languages
+
+*   [English (default)](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.md)
+*   [Español](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.es.md)
+*   [Français](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.fr.md)
+*   [简体中文](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.zh.md)
+
+### Job boards
+
+*   [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board featuring verified remote-first positions across various tech and non-tech roles.
+*   [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
+*   [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
+*   [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
+*   [devtooljobs](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/https//devtooljobs.com/) - GTM jobs in dev tooling companies. For remote jobs, just filter it in search and, for better results, choose the country you're located in.
+*   [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
+*   [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Remote contract roles in AI training, evaluation, and domain-expert work, curated from Mercor referrals.
+*   [Human Pages](https://humanpages.ai) - AI agents hire humans for real-world tasks.
+*   [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with remote-friendly filters, Glassdoor ratings, and culture values for 45+ companies.
+*   [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical professionals, moms returning to work, and career changers.
+*   [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
+*   [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
+
+### Job boards aggregators
+
+*   [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
+
+### Relocation Incentives
+
+*   [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
+
+### Interviewing
+
+*   [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+*   [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
+
+### Companies with "remote DNA"
+
+*   [Innostax Tech LLC](https://innostax.com) - Full-stack software engineering partner specializing in AI-native managed pods and rigorous development guardrails.
+*   [Tribe](https://www.tribexyz.com/careers) - Embedded recruiting for European tech companies. Fully remote team of 100+ across Europe.
+
+### Tools / HR
+
+*   [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
+
+### Tools / Communication
+
+*   [Hopp (⭐572)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+*   [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
+
+### Tools / Others
+
+*   [BeginThings](https://beginthings.com) - 96+ free productivity tools for remote workers and freelancers: invoice generator, QR code maker, UTM builder, bio link builder, resume formatter and more. No login required.
+*   [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
+*   [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
+
+### Law & Finance / Others
+
+*   [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
+*   [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -149,7 +211,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Interviewing
 
 *   [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-*   [awesome-interviews (⭐81k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐82k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 *   [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
@@ -310,7 +372,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
 *   [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
-*   [thatmlopsguy/remote-pt (⭐13)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+*   [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
 *   [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
 
 ### Interviewing
@@ -461,7 +523,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
 *   [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
@@ -790,7 +852,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
+*   [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role! - Requires premium membership to view and apply.
 
 ### Newsletters
 
@@ -842,7 +904,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐8.6k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐8.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -1053,13 +1115,13 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐1k)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
 ### Others / Others
 
-*   [Remote Working (⭐11k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐12k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [Jan 23 - Jan 29, 2017](/content/2017/4/README.md)
 
