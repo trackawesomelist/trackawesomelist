@@ -6,6 +6,24 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [May 09, 2026](/content/2026/05/09/README.md)
+
+### GTFS Realtime Utilities / Rust
+
+*   [gtfs-mcp (⭐0)](https://github.com/jdamcd/gtfs-mcp) - Experimental MCP (Model Context Protocol) server enabling LLMs to query GTFS schedule and GTFS-RT data, for answering transit questions or running analysis.
+
+### Native Apps (open source) / Rust
+
+*   [Arrivals KMP (⭐13)](https://github.com/jdamcd/arrivals-kmp) - Kotlin Multiplatform live transit arrivals app with macOS toolbar, CLI, and desktop targets. Supports e.g. MTA, TfL, UK National Rail, or any GTFS-RT feed.
+
+### Hardware / Rust
+
+*   [Arrivals LED (⭐0)](https://github.com/jdamcd/arrivals-led) - Python renderer that drives a 128×32 HUB75 LED matrix on a Raspberry Pi to display live transit arrivals.
+
+### GTFS Based Visualizations / Rust
+
+*   [Pantograph](https://pantographapp.com) - A way to explore a transit system in real time.
+
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### GTFS Validators / Rust

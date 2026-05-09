@@ -20,14 +20,27 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
 
+### GTFS Realtime Utilities / Rust
+
+*   [gtfs-mcp (⭐0)](https://github.com/jdamcd/gtfs-mcp) - Experimental MCP (Model Context Protocol) server enabling LLMs to query GTFS schedule and GTFS-RT data, for answering transit questions or running analysis.
+
 ### Pilot or development stage / Rust
 
 *   [NCHRP 08-119](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
 *   [TCRP G-16](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
 
+### Native Apps (open source) / Rust
+
+*   [Arrivals KMP (⭐13)](https://github.com/jdamcd/arrivals-kmp) - Kotlin Multiplatform live transit arrivals app with macOS toolbar, CLI, and desktop targets. Supports e.g. MTA, TfL, UK National Rail, or any GTFS-RT feed.
+
+### Hardware / Rust
+
+*   [Arrivals LED (⭐0)](https://github.com/jdamcd/arrivals-led) - Python renderer that drives a 128×32 HUB75 LED matrix on a Raspberry Pi to display live transit arrivals.
+
 ### GTFS Based Visualizations / Rust
 
 *   [GTFS City (⭐9)](https://github.com/ttezer/gtfs-city) - Open-source GTFS visualization and analysis tool with trip simulation, isochrone analysis, heatmaps, stop connectivity, and route planning.
+*   [Pantograph](https://pantographapp.com) - A way to explore a transit system in real time.
 
 ### Transit Map Aggregation / General GIS Applications for making transit visualizations
 
