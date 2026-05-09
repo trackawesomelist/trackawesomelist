@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [May 09, 2026](/content/2026/05/09/README.md)
+
+### Command-line
+
+*   [envelop (⭐1)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
+
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
 ### Command-line

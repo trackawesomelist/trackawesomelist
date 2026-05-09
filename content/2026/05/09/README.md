@@ -1,12 +1,99 @@
 # Awesome List Updates on May 09, 2026
 
-3 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [1. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+
+### Android / Nevix
+
+*   [Haiker](https://haiker.app)
+
+## [2. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Command-line
+
+*   [envelop (⭐1)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
+
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
+
+### Development
+
+- API: [Thunderbit](https://thunderbit.com/docs/introduction)
+
+  Description: Extract web pages as Markdown or structured data for AI apps
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Documents & Productivity
+
+- API: [staffSign](https://staffsign.de/docs)
+
+  Description: Digital employment contract API with QES/eIDAS support for HR and staffing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [Anycrap](https://anycrap.shop/developers)
+
+  Description: 35,000+ absurdist AI-generated product concepts with names, descriptions, and images
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Memesio](https://memesio.com/developers/api)
+
+  Description: Meme creation API with templates, editable captions and hosted share links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Government
+
+- API: [LocalGov.jp](https://localgov.jp/)
+
+  Description: Japan grants and subsidies (central J-Grants + 1,916 municipalities)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [4. Tools](/content/lvwzhen/tools/README.md)
+
+### Tools collection
+
+*   [WebToolkit Pro](https://wtkpro.site/)
+
+## [5. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### In case you need help / 🌍 In your language
 
@@ -273,7 +360,7 @@
 *   [visionOS (⭐298)](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by Apple's visionOS (296★).
 *   [Nordic (⭐41)](https://github.com/coltondick/nordic-theme-main) - Light and dark themes in a Nordic palette, with several blue-tinted variants (41★).
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime Utilities / Rust
 
@@ -291,7 +378,7 @@
 
 *   [Pantograph](https://pantographapp.com) - A way to explore a transit system in real time.
 
-## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [7. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Arcade
 

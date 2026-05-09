@@ -158,7 +158,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [HN Favourite Users (⭐2)](https://github.com/janhancic/hn-favourite-users)
 *   [HN Unread Comments (⭐4)](https://github.com/janhancic/hn-unread-comments)
 *   [hnHiringFilter (⭐4)](https://github.com/janhancic/hnHiringFilter)
-*   [hnlinks (⭐16)](https://github.com/dit7ya/hnlinks)
+*   [hnlinks (⭐17)](https://github.com/dit7ya/hnlinks)
 *   [HNRank](https://www.jitbit.com/hacker-news-rank/)
 *   [ModernHN](https://www.modernhn.com)
 *   [HN discussions for the current page](https://discu.eu/extension/)
@@ -181,6 +181,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 *   [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
 *   [Hacker News Reader](https://www.hn-reader.com)
+*   [Haiker](https://haiker.app)
 *   [HNReader (⭐196)](https://github.com/mattrighetti/HNReaderApp)
 *   [touchHNews (⭐193)](https://github.com/mrmekon/toucHNews)
 
@@ -193,7 +194,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 *   [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
-*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐79)](https://github.com/Livinglist/Gem)
 *   [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 *   [Hack Later](http://brushedtype.co/apps/hack-later/)
 *   [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
@@ -201,7 +202,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hacker News by Reapp](https://itunes.apple.com/us/app/hacker-news-by-reapp/id972297110)
 *   [Hacker News Client](http://hnclient.weebly.com/)
 *   [Hackery](https://itunes.apple.com/us/app/hackery-hacker-news-stories/id1095090759)
-*   [Hacki for Hacker News (⭐1.5k)](https://github.com/Livinglist/Hacki)
+*   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
+*   [Haiker](https://haiker.app)
 *   [iHNews (⭐3)](https://github.com/guidefreitas/iHNews)
 *   [Octal](https://itunes.apple.com/us/app/id1308885491)
 *   [SwiftHN](http://dimillian.github.io/SwiftHN/)
@@ -210,13 +212,14 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐577)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 *   [Hacker News client for Android (⭐229)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [Hacker News Reader](https://www.hn-reader.com)
-*   [Hacki for Hacker News (⭐1.5k)](https://github.com/Livinglist/Hacki)
+*   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
+*   [Haiker](https://haiker.app)
 *   [Hews](https://leavjenn.github.io/Hews/)
-*   [HN-Android (⭐495)](https://github.com/manmal/hn-android/)
+*   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
 *   [Materialistic](https://f-droid.org/de/packages/io.github.hidroh.materialistic/)
 *   [Panda](https://play.google.com/store/apps/details?id=uk.co.elliotmurray.hackernews)
 *   [Pumpkin Reader (⭐25)](https://github.com/pumpkinz/pumpkin-reader)

@@ -60,6 +60,31 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Thunderbit](https://thunderbit.com/docs/introduction)
+
+  Description: Extract web pages as Markdown or structured data for AI apps
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Documents & Productivity
+
+- API: [staffSign](https://staffsign.de/docs)
+
+  Description: Digital employment contract API with QES/eIDAS support for HR and staffing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Email
 
@@ -86,6 +111,31 @@ A collective list of free APIs
 
 
 
+### Entertainment
+
+- API: [Anycrap](https://anycrap.shop/developers)
+
+  Description: 35,000+ absurdist AI-generated product concepts with names, descriptions, and images
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Memesio](https://memesio.com/developers/api)
+
+  Description: Meme creation API with templates, editable captions and hosted share links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ### Government
 
 - API: [CPFHub](https://cpfhub.io)
@@ -93,6 +143,17 @@ A collective list of free APIs
   Description: Brazilian CPF lookup — returns full name, birth date, and gender for any CPF
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LocalGov.jp](https://localgov.jp/)
+
+  Description: Japan grants and subsidies (central J-Grants + 1,916 municipalities)
+
+  Auth: No
 
   HTTPS: Yes
 

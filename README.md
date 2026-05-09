@@ -309,6 +309,93 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [visionOS (⭐298)](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by Apple's visionOS (296★).
 *   [Nordic (⭐41)](https://github.com/coltondick/nordic-theme-main) - Light and dark themes in a Nordic palette, with several blue-tinted variants (41★).
 
+#### [4. Tools](/content/lvwzhen/tools/README.md)
+
+##### Tools collection
+
+*   [WebToolkit Pro](https://wtkpro.site/)
+
+#### [5. Public Apis](/content/public-apis/public-apis/README.md)
+
+##### Development
+
+- API: [Thunderbit](https://thunderbit.com/docs/introduction)
+
+  Description: Extract web pages as Markdown or structured data for AI apps
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### Documents & Productivity
+
+- API: [staffSign](https://staffsign.de/docs)
+
+  Description: Digital employment contract API with QES/eIDAS support for HR and staffing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Entertainment
+
+- API: [Anycrap](https://anycrap.shop/developers)
+
+  Description: 35,000+ absurdist AI-generated product concepts with names, descriptions, and images
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Memesio](https://memesio.com/developers/api)
+
+  Description: Meme creation API with templates, editable captions and hosted share links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+##### Government
+
+- API: [LocalGov.jp](https://localgov.jp/)
+
+  Description: Japan grants and subsidies (central J-Grants + 1,916 municipalities)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+#### [6. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Command-line
+
+*   [envelop (⭐1)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
+
+#### [7. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+
+##### Android / Nevix
+
+*   [Haiker](https://haiker.app)
+
 ### [May 08, 2026](/content/2026/05/08/README.md)
 
 
@@ -349,7 +436,249 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
 
-#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+##### Modules / CLI utils
+
+*   [cli-spinner (⭐57)](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks.
+*   [cliffy (⭐1.1k)](https://github.com/c4spar/cliffy) - The complete solution for building interactive command-line tools.
+
+##### Modules / Database
+
+*   [aloedb (⭐142)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
+*   [deno\_mongo (⭐514)](https://github.com/denodrivers/mongo) - MongoDB database driver.
+*   [maxminddb (⭐17)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
+
+##### Modules / Markdown
+
+*   [LiteMarkup (⭐1)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
+
+##### Modules / Social Platform APIs
+
+*   [discordeno (⭐935)](https://github.com/discordeno/discordeno) - Discord API library for Deno
+*   [grammY (⭐3.6k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
+
+##### Modules / Template engine
+
+*   [eta (⭐1.7k)](https://github.com/bgub/eta) - Fast, lightweight, and configurable embedded template engine.
+
+##### Modules / Testing
+
+*   [superdeno (⭐122)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+*   [superoak (⭐119)](https://github.com/cmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+
+##### Modules / Utils
+
+*   [croner (⭐2.6k)](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+*   [deno-config (⭐6)](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
+*   [PLS (⭐9)](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
+*   [rubico (⭐283)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous function composition; it just works.
+
+##### Modules / Web framework
+
+*   [aqua (⭐216)](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
+*   [drash (⭐1.1k)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+*   [opine (⭐849)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+    *   [opine-http-proxy (⭐17)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
+
+##### Modules / Web utils
+
+*   [djwt (⭐235)](https://github.com/Zaubrik/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+*   [gentleRpc (⭐45)](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
+*   [graphql-tag (⭐8)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
+*   [obsidian (⭐763)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
+*   [ts-prometheus (⭐31)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
+
+##### Modules / Webview
+
+*   [webview (⭐1.6k)](https://github.com/webview/webview_deno) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
+
+##### Showcases / XML
+
+*   [Deno Rest (⭐162)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
+
+##### Tools / XML
+
+*   [denopkg (⭐239)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
+*   dvm
+    *   [asdf-community/asdf-deno (⭐134)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [justjavac/dvm (⭐705)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
+    *   [ghosind/dvm (⭐53)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+*   [pup (⭐195)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
+
+#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Productivity
+
+*   [xingkongliang/skills-manager (⭐1.2k)](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
+
+##### Development tools / Build system
+
+*   [vercel/turborepo (⭐30k)](https://github.com/vercel/turborepo) - High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.
+
+#### [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+##### Driver crates / WIP
+
+*   [tmag5273 (⭐0)](https://github.com/coffiot/tmag5273-rs) - I2C - TI TMAG5273 3-axis Hall-effect sensor with hardware CORDIC angle engine and typestate API - [![crates.io](https://img.shields.io/crates/v/tmag5273.svg)](https://crates.io/crates/tmag5273)
+
+#### [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### Data Breach Search Engines
+
+*   [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
+
+##### Social Media Tools / GitHub
+
+*   [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
+
+##### Company Research / GitHub
+
+*   [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
+
+#### [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+##### GTFS Validators / Rust
+
+*   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
+
+##### GTFS Based Visualizations / Rust
+
+*   [GTFS City (⭐9)](https://github.com/ttezer/gtfs-city) - Open-source GTFS visualization and analysis tool with trip simulation, isochrone analysis, heatmaps, stop connectivity, and route planning.
+
+#### [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+
+##### Public Configurations / 💬 Other community spaces
+
+*   [Ryan Warner (⭐5)](https://github.com/rwarner/Home-Assistant-Config) - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
+
+##### Dashboard Cards / 📐 Layout helpers
+
+*   [Config Template Card (⭐547)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace (547★).
+*   [Button card (⭐2.4k)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities (2,432★).
+*   [Expander Card (⭐412)](https://github.com/Alia5/lovelace-expander-card) - Expandable and collapsible card to group and hide other cards behind a header (412★).
+
+##### Dashboard Cards / 📈 Charts & graphs
+
+*   [Dual Gauge Card (⭐220)](https://github.com/custom-cards/dual-gauge-card) - Shows two gauges in one (220★).
+
+##### Dashboard Cards / 🗺️ Maps & location
+
+*   [ha-map-card (⭐110)](https://github.com/nathan-gs/ha-map-card) - Leaflet-based map card with history trails, custom tile layers, and tap actions (110★).
+
+##### Dashboard Cards / 🧹 Vacuum cards
+
+*   [Vacuum Map Card (⭐1.9k)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,863★).
+
+##### Dashboards / 🖥️ Kiosk & wallpanel
+
+*   [Mushroom Strategy (⭐640)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (640★).
+
+##### Apps / 📦 Third Party Apps
+
+*   [SSH & Web Terminal (⭐494)](https://github.com/hassio-addons/app-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools (494★).
+*   [UniFi Controller (⭐367)](https://github.com/hassio-addons/app-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser (367★).
+*   [Node-RED (⭐635)](https://github.com/hassio-addons/app-node-red) - Flow-based programming for the Internet of Things (635★).
+*   [Plex Media Server (⭐187)](https://github.com/hassio-addons/app-plex) - Your recorded media beautifully organized and ready to stream (187★).
+*   [Tor (⭐62)](https://github.com/hassio-addons/app-tor) - Protect your privacy and access your instance via Tor (62★).
+*   [Spotify Connect (⭐252)](https://github.com/hassio-addons/app-spotify-connect) - Stream music from Spotify directly to your Home Assistant device (252★).
+*   [Aircast (⭐393)](https://github.com/hassio-addons/app-aircast) - AirPlay capabilities for your Chromecast players (394★).
+*   [AirSonos (⭐120)](https://github.com/hassio-addons/app-airsonos) - AirPlay capabilities for your Sonos players (120★).
+*   [Glances (⭐184)](https://github.com/hassio-addons/app-glances) - A cross-platform system monitoring tool written in Python (184★).
+*   [AdGuard Home (⭐511)](https://github.com/hassio-addons/app-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control (511★).
+*   [Grocy (⭐429)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home (429★).
+
+##### DIY / 🧩 Standalone projects
+
+*   [Sonoff NSPanel (⭐986)](https://github.com/joBr99/nspanel-lovelace-ui) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (986★).
+*   [CODESYS V3 Home Automation (⭐142)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) - PLC home-automation software that communicates over MQTT for wired automation setups (142★).
+
+##### Tools & Utilities / 🔨 DIY Projects
+
+*   [GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
+
+##### Online Resources / ✍️ Blogs
+
+*   [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
+
+##### Online Resources / 📺 YouTube Channels
+
+*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
+*   [Warner Discovers](https://www.youtube.com/c/WarnerDiscovers) - Tech reviews, DIY installs, smart home gear, and solar DIY.
+
+##### Alternative Home Automation Software / 📱 Social
+
+*   [Gladys (⭐3.1k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,054★).
+
+##### Other Awesome Lists / 📱 Social
+
+*   [awesome-mqtt (⭐2.3k)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,332★).
+
+#### [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+
+##### Languages
+
+*   [English (default)](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.md)
+*   [Español](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.es.md)
+*   [Français](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.fr.md)
+*   [简体中文](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.zh.md)
+
+##### Job boards
+
+*   [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board featuring verified remote-first positions across various tech and non-tech roles.
+*   [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
+*   [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
+*   [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
+*   [devtooljobs](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/https//devtooljobs.com/) - GTM jobs in dev tooling companies. For remote jobs, just filter it in search and, for better results, choose the country you're located in.
+*   [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
+*   [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Remote contract roles in AI training, evaluation, and domain-expert work, curated from Mercor referrals.
+*   [Human Pages](https://humanpages.ai) - AI agents hire humans for real-world tasks.
+*   [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with remote-friendly filters, Glassdoor ratings, and culture values for 45+ companies.
+*   [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical professionals, moms returning to work, and career changers.
+*   [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
+*   [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
+
+##### Job boards aggregators
+
+*   [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
+
+##### Relocation Incentives
+
+*   [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
+
+##### Interviewing
+
+*   [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+*   [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
+
+##### Companies with "remote DNA"
+
+*   [Innostax Tech LLC](https://innostax.com) - Full-stack software engineering partner specializing in AI-native managed pods and rigorous development guardrails.
+*   [Tribe](https://www.tribexyz.com/careers) - Embedded recruiting for European tech companies. Fully remote team of 100+ across Europe.
+
+##### Tools / HR
+
+*   [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
+
+##### Tools / Communication
+
+*   [Hopp (⭐572)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+*   [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
+
+##### Tools / Others
+
+*   [BeginThings](https://beginthings.com) - 96+ free productivity tools for remote workers and freelancers: invoice generator, QR code maker, UTM builder, bio link builder, resume formatter and more. No login required.
+*   [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
+*   [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
+
+##### Law & Finance / Others
+
+*   [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
+*   [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
+
+#### [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Education and Career Development
 
@@ -363,7 +692,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [boxd](https://boxd.sh) - Persistent Linux VMs accessible through SSH or CLI. Free tier includes 10 VMs at 2 vCPU / 8 GB RAM / 100 GB disk each, with a public HTTPS URL per VM (so no networking fuss) and the ability to fork any running machine. <30ms cold boot, <100ms fork, <1ms suspend/resume, EU-hosted & EU-made, idle VMs sleep to zero.
 
-#### [8. Public Apis](/content/public-apis/public-apis/README.md)
+#### [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ##### Cryptocurrency
 
@@ -558,248 +887,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-##### Modules / CLI utils
-
-*   [cli-spinner (⭐57)](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks.
-*   [cliffy (⭐1.1k)](https://github.com/c4spar/cliffy) - The complete solution for building interactive command-line tools.
-
-##### Modules / Database
-
-*   [aloedb (⭐142)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
-*   [deno\_mongo (⭐514)](https://github.com/denodrivers/mongo) - MongoDB database driver.
-*   [maxminddb (⭐17)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
-
-##### Modules / Markdown
-
-*   [LiteMarkup (⭐1)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
-
-##### Modules / Social Platform APIs
-
-*   [discordeno (⭐935)](https://github.com/discordeno/discordeno) - Discord API library for Deno
-*   [grammY (⭐3.6k)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
-
-##### Modules / Template engine
-
-*   [eta (⭐1.7k)](https://github.com/bgub/eta) - Fast, lightweight, and configurable embedded template engine.
-
-##### Modules / Testing
-
-*   [superdeno (⭐122)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-*   [superoak (⭐119)](https://github.com/cmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
-
-##### Modules / Utils
-
-*   [croner (⭐2.6k)](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
-*   [deno-config (⭐6)](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
-*   [PLS (⭐9)](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
-*   [rubico (⭐283)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous function composition; it just works.
-
-##### Modules / Web framework
-
-*   [aqua (⭐216)](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
-*   [drash (⭐1.1k)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-*   [opine (⭐849)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
-    *   [opine-http-proxy (⭐17)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
-
-##### Modules / Web utils
-
-*   [djwt (⭐235)](https://github.com/Zaubrik/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
-*   [gentleRpc (⭐45)](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [graphql-tag (⭐8)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
-*   [obsidian (⭐763)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
-*   [ts-prometheus (⭐31)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
-
-##### Modules / Webview
-
-*   [webview (⭐1.6k)](https://github.com/webview/webview_deno) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
-
-##### Showcases / XML
-
-*   [Deno Rest (⭐162)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
-
-##### Tools / XML
-
-*   [denopkg (⭐239)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
-*   [dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
-*   dvm
-    *   [asdf-community/asdf-deno (⭐134)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐705)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
-    *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
-    *   [ghosind/dvm (⭐53)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
-*   [pup (⭐195)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
-
-#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Productivity
-
-*   [xingkongliang/skills-manager (⭐1.2k)](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
-
-##### Development tools / Build system
-
-*   [vercel/turborepo (⭐30k)](https://github.com/vercel/turborepo) - High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.
-
-#### [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-##### Driver crates / WIP
-
-*   [tmag5273 (⭐0)](https://github.com/coffiot/tmag5273-rs) - I2C - TI TMAG5273 3-axis Hall-effect sensor with hardware CORDIC angle engine and typestate API - [![crates.io](https://img.shields.io/crates/v/tmag5273.svg)](https://crates.io/crates/tmag5273)
-
-#### [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### Data Breach Search Engines
-
-*   [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
-
-##### Social Media Tools / GitHub
-
-*   [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
-
-##### Company Research / GitHub
-
-*   [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
-
-#### [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-##### GTFS Validators / Rust
-
-*   [gtfs-validator-metrics-service (⭐1)](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
-
-##### GTFS Based Visualizations / Rust
-
-*   [GTFS City (⭐9)](https://github.com/ttezer/gtfs-city) - Open-source GTFS visualization and analysis tool with trip simulation, isochrone analysis, heatmaps, stop connectivity, and route planning.
-
-#### [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
-
-##### Public Configurations / 💬 Other community spaces
-
-*   [Ryan Warner (⭐5)](https://github.com/rwarner/Home-Assistant-Config) - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
-
-##### Dashboard Cards / 📐 Layout helpers
-
-*   [Config Template Card (⭐547)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace (547★).
-*   [Button card (⭐2.4k)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities (2,432★).
-*   [Expander Card (⭐412)](https://github.com/Alia5/lovelace-expander-card) - Expandable and collapsible card to group and hide other cards behind a header (412★).
-
-##### Dashboard Cards / 📈 Charts & graphs
-
-*   [Dual Gauge Card (⭐220)](https://github.com/custom-cards/dual-gauge-card) - Shows two gauges in one (220★).
-
-##### Dashboard Cards / 🗺️ Maps & location
-
-*   [ha-map-card (⭐110)](https://github.com/nathan-gs/ha-map-card) - Leaflet-based map card with history trails, custom tile layers, and tap actions (110★).
-
-##### Dashboard Cards / 🧹 Vacuum cards
-
-*   [Vacuum Map Card (⭐1.9k)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,863★).
-
-##### Dashboards / 🖥️ Kiosk & wallpanel
-
-*   [Mushroom Strategy (⭐640)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (640★).
-
-##### Apps / 📦 Third Party Apps
-
-*   [SSH & Web Terminal (⭐494)](https://github.com/hassio-addons/app-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools (494★).
-*   [UniFi Controller (⭐367)](https://github.com/hassio-addons/app-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser (367★).
-*   [Node-RED (⭐635)](https://github.com/hassio-addons/app-node-red) - Flow-based programming for the Internet of Things (635★).
-*   [Plex Media Server (⭐187)](https://github.com/hassio-addons/app-plex) - Your recorded media beautifully organized and ready to stream (187★).
-*   [Tor (⭐62)](https://github.com/hassio-addons/app-tor) - Protect your privacy and access your instance via Tor (62★).
-*   [Spotify Connect (⭐252)](https://github.com/hassio-addons/app-spotify-connect) - Stream music from Spotify directly to your Home Assistant device (252★).
-*   [Aircast (⭐393)](https://github.com/hassio-addons/app-aircast) - AirPlay capabilities for your Chromecast players (394★).
-*   [AirSonos (⭐120)](https://github.com/hassio-addons/app-airsonos) - AirPlay capabilities for your Sonos players (120★).
-*   [Glances (⭐184)](https://github.com/hassio-addons/app-glances) - A cross-platform system monitoring tool written in Python (184★).
-*   [AdGuard Home (⭐511)](https://github.com/hassio-addons/app-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control (511★).
-*   [Grocy (⭐429)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home (429★).
-
-##### DIY / 🧩 Standalone projects
-
-*   [Sonoff NSPanel (⭐986)](https://github.com/joBr99/nspanel-lovelace-ui) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (986★).
-*   [CODESYS V3 Home Automation (⭐142)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) - PLC home-automation software that communicates over MQTT for wired automation setups (142★).
-
-##### Tools & Utilities / 🔨 DIY Projects
-
-*   [GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
-
-##### Online Resources / ✍️ Blogs
-
-*   [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
-
-##### Online Resources / 📺 YouTube Channels
-
-*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
-*   [Warner Discovers](https://www.youtube.com/c/WarnerDiscovers) - Tech reviews, DIY installs, smart home gear, and solar DIY.
-
-##### Alternative Home Automation Software / 📱 Social
-
-*   [Gladys (⭐3.1k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,054★).
-
-##### Other Awesome Lists / 📱 Social
-
-*   [awesome-mqtt (⭐2.3k)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,332★).
-
-#### [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-##### Languages
-
-*   [English (default)](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.md)
-*   [Español](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.es.md)
-*   [Français](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.fr.md)
-*   [简体中文](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/README.zh.md)
-
-##### Job boards
-
-*   [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board featuring verified remote-first positions across various tech and non-tech roles.
-*   [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
-*   [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
-*   [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
-*   [devtooljobs](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md/https//devtooljobs.com/) - GTM jobs in dev tooling companies. For remote jobs, just filter it in search and, for better results, choose the country you're located in.
-*   [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
-*   [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Remote contract roles in AI training, evaluation, and domain-expert work, curated from Mercor referrals.
-*   [Human Pages](https://humanpages.ai) - AI agents hire humans for real-world tasks.
-*   [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with remote-friendly filters, Glassdoor ratings, and culture values for 45+ companies.
-*   [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical professionals, moms returning to work, and career changers.
-*   [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
-*   [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
-
-##### Job boards aggregators
-
-*   [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
-
-##### Relocation Incentives
-
-*   [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
-
-##### Interviewing
-
-*   [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
-*   [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
-
-##### Companies with "remote DNA"
-
-*   [Innostax Tech LLC](https://innostax.com) - Full-stack software engineering partner specializing in AI-native managed pods and rigorous development guardrails.
-*   [Tribe](https://www.tribexyz.com/careers) - Embedded recruiting for European tech companies. Fully remote team of 100+ across Europe.
-
-##### Tools / HR
-
-*   [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
-
-##### Tools / Communication
-
-*   [Hopp (⭐572)](https://github.com/gethopp/hopp) - Open source remote pair programming app.
-*   [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
-
-##### Tools / Others
-
-*   [BeginThings](https://beginthings.com) - 96+ free productivity tools for remote workers and freelancers: invoice generator, QR code maker, UTM builder, bio link builder, resume formatter and more. No login required.
-*   [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
-*   [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
-
-##### Law & Finance / Others
-
-*   [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
-*   [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
-
 ### [May 07, 2026](/content/2026/05/07/README.md)
 
 
@@ -857,19 +944,46 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
 
-#### [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Web Servers
-
-*   [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code (⭐1.6k)](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
-
-#### [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Tutorials
 
 *   [StepByStepML](https://www.stepbystepml.com) - Interactive calculator that visualizes the step-by-step manual math behind machine learning algorithms for exam prep.
 
-#### [9. Public Apis](/content/public-apis/public-apis/README.md)
+#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications
+
+*   [Zephyr (⭐178)](https://github.com/Juwan-Hwang/Zephyr) - A modern, lightweight, and secure Mihomo (Clash Meta) GUI client built with Tauri. [![Security Audit](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml/badge.svg)](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml)
+
+##### Applications / Productivity
+
+*   [Hmbown/DeepSeek-TUI (⭐18k)](https://github.com/Hmbown/DeepSeek-TUI) \[[deepseek-tui-cli](https://crates.io/crates/deepseek-tui-cli)] - Terminal coding agent for DeepSeek V4 with streaming reasoning blocks, local workspace editing, auto model selection, MCP support, and ratatui-based TUI. [![CI](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml/badge.svg)](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml)
+
+#### [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+##### GTFS Data Collection and Maintenance Tools / Rust
+
+*   [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator).
+
+#### [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Voice-to-Text / Audio Record and Process
+
+*   [OpenQuack (⭐7)](https://github.com/larryxiao/openquack) - Privacy-first voice dictation tool that transcribes locally with WhisperKit and inserts text at the cursor with a hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/larryxiao/openquack) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Voxt (⭐570)](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hehehai/voxt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Menu Bar Tools
+
+*   [CodexIsland (⭐108)](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ericjypark/codex-island) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Web Servers
+
+*   [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code (⭐1.6k)](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
+
+#### [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ##### Open Data
 
@@ -899,40 +1013,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications
-
-*   [Zephyr (⭐178)](https://github.com/Juwan-Hwang/Zephyr) - A modern, lightweight, and secure Mihomo (Clash Meta) GUI client built with Tauri. [![Security Audit](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml/badge.svg)](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml)
-
-##### Applications / Productivity
-
-*   [Hmbown/DeepSeek-TUI (⭐18k)](https://github.com/Hmbown/DeepSeek-TUI) \[[deepseek-tui-cli](https://crates.io/crates/deepseek-tui-cli)] - Terminal coding agent for DeepSeek V4 with streaming reasoning blocks, local workspace editing, auto model selection, MCP support, and ratatui-based TUI. [![CI](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml/badge.svg)](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml)
-
-#### [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-##### GTFS Data Collection and Maintenance Tools / Rust
-
-*   [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator (⭐402)](https://github.com/MobilityData/gtfs-validator).
-
-#### [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Voice-to-Text / Audio Record and Process
-
-*   [OpenQuack (⭐7)](https://github.com/larryxiao/openquack) - Privacy-first voice dictation tool that transcribes locally with WhisperKit and inserts text at the cursor with a hotkey. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/larryxiao/openquack) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Voxt (⭐570)](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hehehai/voxt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Menu Bar Tools
-
-*   [CodexIsland (⭐108)](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ericjypark/codex-island) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ---
 
 - Next: [May 06, 2026](&#x2F;content&#x2F;2026&#x2F;05&#x2F;06&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 430K 📝 05&#x2F;08) - A collective list of free APIs
+1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 430K 📝 05&#x2F;09) - A collective list of free APIs
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 388K 📝 05&#x2F;07) - :books: Freely available programming books
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 295K 📝 05&#x2F;07) - An opinionated list of Python frameworks, libraries, tools, and resources
 4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 290K 📝 05&#x2F;07) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1305,7 +1392,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md) - ([Source ⭐ 750, 📝 20&#x2F;10&#x2F;12 ](https://github.com/fliptheweb/motion-ui-design)) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 - [Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md) - ([Source ⭐ 102, 📝 23&#x2F;02&#x2F;19 ](https://github.com/jbmoelker/progressive-enhancement-resources)) - Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 - [Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;12&#x2F;03 ](https://github.com/davidtheclark/scalable-css-reading-list)) - Collected dispatches from The Quest for Scalable CSS
-- [Tools](/content/lvwzhen/tools/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;26 ](https://github.com/lvwzhen/tools)) - Tools Online
+- [Tools](/content/lvwzhen/tools/README.md) - ([Source ⭐ 1.2K, 📝 05&#x2F;09 ](https://github.com/lvwzhen/tools)) - Tools Online
 - [Typography](/content/deanhume/typography/README.md) - ([Source ⭐ 696, 📝 04&#x2F;21 ](https://github.com/deanhume/typography)) - A collection of web typography resources
 - [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 7.4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
 - [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 3.5K, 📝 04&#x2F;20 ](https://github.com/mateusortiz/webcomponents-the-right-way)) - A curated list of awesome Web Components resources.
@@ -1470,7 +1557,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Glp1](/content/glp1guide/awesome-glp1/README.md) - ([Source ⭐ 0, 📝 24&#x2F;02&#x2F;20 ](https://github.com/glp1guide/awesome-glp1)) - Awesome resources around the GLP1 Receptor Agonist class of treatments. Sponsored by GLP1.Guide
 - [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K, 📝 04&#x2F;09 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 - [Awesome Gulp](/content/alferov/awesome-gulp/README.md) - ([Source ⭐ 593, 📝 18&#x2F;08&#x2F;20 ](https://github.com/alferov/awesome-gulp)) - :tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
-- [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.4K, 📝 04&#x2F;28 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
+- [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.4K, 📝 05&#x2F;09 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 112K, 📝 04&#x2F;24 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Awesome Homematic](/content/homematic-community/awesome-homematic/README.md) - ([Source ⭐ 157, 📝 21&#x2F;01&#x2F;16 ](https://github.com/homematic-community/awesome-homematic)) - A curated list of Homematic related links :sparkles:
 - [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.5K, 📝 03&#x2F;27 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
@@ -1559,7 +1646,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.3K, 📝 25&#x2F;12&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 430K, 📝 05&#x2F;08 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 430K, 📝 05&#x2F;09 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 - [Services Engineering](/content/mmcgrana/services-engineering/README.md) - ([Source ⭐ 3.4K, 📝 20&#x2F;05&#x2F;09 ](https://github.com/mmcgrana/services-engineering)) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md) - ([Source ⭐ 891, 📝 22&#x2F;10&#x2F;11 ](https://github.com/drewrwilson/toolsforactivism)) - growing list of digital tools for activism things
 - [Topics](/content/selvaklnc/topics/README.md) - ([Source ⭐ 1, 📝 25&#x2F;05&#x2F;05 ](https://github.com/selvaklnc/topics)) - 
@@ -1704,7 +1791,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Standard](/content/standard/awesome-standard/README.md) - ([Source ⭐ 351, 📝 21&#x2F;05&#x2F;07 ](https://github.com/standard/awesome-standard)) - Documenting the explosion of packages in the standard ecosystem!
 - [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 26K, 📝 05&#x2F;05 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4.4K, 📝 04&#x2F;02 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
-- [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2.1K, 📝 05&#x2F;06 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+- [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2.1K, 📝 05&#x2F;09 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 25&#x2F;11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
 - [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 2.2K, 📝 05&#x2F;05 ](https://github.com/zigcc/awesome-zig)) - A collaborative list of awesome Zig libraries and resources. 
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.5K, 📝 25&#x2F;12&#x2F;21 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects

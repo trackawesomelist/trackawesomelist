@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ Daily / [Weekly](/content/cheeaun/awesome-hacker-news/week/README.md) / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [May 09, 2026](/content/2026/05/09/README.md)
+
+### Android / Nevix
+
+*   [Haiker](https://haiker.app)
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### Web
@@ -19,7 +25,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐79)](https://github.com/Livinglist/Gem)
 
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
@@ -228,7 +234,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Hacki for Hacker News (⭐1.5k)](https://github.com/Livinglist/Hacki)
+*   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
 
 ## [Jan 11, 2022](/content/2022/01/11/README.md)
 
@@ -243,7 +249,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐577)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -269,7 +275,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Browser Extensions / Nevix
 
-*   [hnlinks (⭐16)](https://github.com/dit7ya/hnlinks)
+*   [hnlinks (⭐17)](https://github.com/dit7ya/hnlinks)
 
 ### Userstyles / Nevix
 
@@ -335,7 +341,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [HN-Android (⭐495)](https://github.com/manmal/hn-android/)
+*   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
 
 ## [Jul 03, 2021](/content/2021/07/03/README.md)
 

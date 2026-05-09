@@ -108,133 +108,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [polars-query-dev-complexity](https://github.com/fran6w/polars-query-dev-complexity) - A lightweight tool for measuring the authoring complexity of Polars LazyFrame queries by [@fran6w](https://github.com/fran6w).
 
-#### [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-##### Software / Backups
-
-*   [Shield (⭐396)](https://github.com/shieldproject/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
-
-##### Software / Build and software organization tools
-
-*   [Environment Modules](https://envmodules.io/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐848)](https://github.com/envmodules/modules)) `GPL-2.0` `Tcl`
-
-##### Software / Continuous Integration & Continuous Deployment
-
-*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐35k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
-
-##### Software / Deployment Automation
-
-*   [Genesis (⭐63)](https://github.com/genesis-community/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
-
-##### Software / DNS - Control Panels & Domain Management
-
-*   [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code (⭐3.8k)](https://github.com/itstoragesvc/dnscontrol)) `MIT` `Go/Docker`
-*   [octoDNS (⭐3.7k)](https://github.com/octodns/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
-
-##### Software / Identity Management - LDAP
-
-*   [lldap (⭐6.2k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
-
-##### Software / Metrics & Metric Collection
-
-*   [Statsd (⭐18k)](https://github.com/statsd/statsd) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
-
-##### Software / Monitoring & Status Pages
-
-*   [EdMon (⭐11)](https://github.com/eahlys/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
-*   [Linux Dash (⭐11k)](https://github.com/tariqbuilds/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
-
-##### Software / Packaging
-
-*   [tito (⭐399)](https://github.com/rpm-software-management/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
-
-##### Software / Software Containers
-
-*   [Incus](https://linuxcontainers.org/incus/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐5.3k)](https://github.com/lxc/incus)) `Apache-2.0` `Go`
-
-#### [12. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
+#### [11. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/README.md)
 
 ##### Tools
 
 *   [homie-home-assistant-discovery (⭐0)](https://github.com/labodj/homie-home-assistant-discovery) - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.
 
-#### [13. Awesome V](/content/vlang/awesome-v/README.md)
-
-##### Command-line
-
-*   [minimax-v (⭐5)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
-*   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
-*   [v\_llama\_cpp (⭐8)](https://github.com/sakana-ctf/v_llama_cpp) - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
-*   [vfc (⭐9)](https://github.com/Ict00/vfc) - A simple TUI file manager, made with V.
-*   [vsqlite (⭐6)](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
-
-##### Editors
-
-*   [lilly (⭐448)](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative.
-
-##### Games
-
-*   [vchess (⭐18)](https://github.com/hedgeg0d/vchess) - Chess game written in V programming language.
-
-##### Graphics
-
-*   [vpaint (⭐84)](https://github.com/pisaiah/vpaint) - MS-Paint alternative written in V.
-*   [vglyph (⭐27)](https://github.com/vlang/vglyph) - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
-
-##### Interpreters/Compilers
-
-*   [papyrus-compiler (⭐44)](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
-
-##### Utilities
-
-*   [qptorrent (⭐36)](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
-*   [raur (⭐1)](https://github.com/Matejsdevelopment/raur) - Simple Arch User Repository (AUR) helper coded in Vlang.
-*   [unix-emulators-win (⭐0)](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
-
-##### Web
-
-*   [gitval (⭐6)](https://github.com/davlgd/gitval) - A static site generator for Git repositories, written in V.
-*   [Verne (⭐0)](https://github.com/davlgd/Verne) - The other static site generator named after a famous French author.
-*   [vico\_bot (⭐19)](https://github.com/KArjmand/vico_bot) - Lightweight self-hosted AI chatbot with persistent memory and tool calling.
-*   [jsonrpcv (⭐7)](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
-
-##### Automation
-
-*   [v-webdriver (⭐10)](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
-
-##### Game development
-
-*   [sdl2test (⭐20)](https://github.com/nsauzede/sdl2test) - Exhaustive suite of tests and examples for SDL2 with V.
-
-##### Interoperability
-
-*   [vjsx (⭐2)](https://github.com/guweigang/vjsx) - V bindings to quickjs javascript engine. Run JS in V.
-*   [vphp (⭐3)](https://github.com/guweigang/vphp) - Vlang library for building PHP extensions natively in Vlang.
-
-##### Networking
-
-*   [netio (⭐3)](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
-
-##### Text processing
-
-*   [xlsx (⭐29)](https://github.com/hungrybluedev/xlsx) - V library for reading and writing Microsoft Excel files.
-
-##### User Interface toolkits
-
-*   [bobatea (⭐19)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
-
-##### Utility
-
-*   [structlog (⭐1)](https://github.com/gechandesu/structlog) - Structured logs library for V.
-*   [V-crypto (⭐4)](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
-
-#### [14. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### Tools / AI
 
 *   [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
 
-#### [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -256,7 +142,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [hawknewton/termyank.nvim (⭐2)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.
 
-#### [16. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+#### [14. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ##### Downloading, Installing, Upgrading, and Building
 
@@ -271,7 +157,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5
 
-#### [17. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+#### [15. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ##### Pathway
 
@@ -282,7 +168,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [TRRUST v2](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes, expanded with literature-derived evidence.
 
-#### [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+#### [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ##### IR Tools Collection / Linux Distributions
 
@@ -296,7 +182,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 
-#### [19. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [17. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### Chatbots
 
@@ -319,19 +205,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
 *   [Genve.ai](https://www.genve.ai/) - A tool to dub and translate videos with voice cloning. `#free`
 
-#### [20. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+#### [18. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ##### Agent Orchestration & CLI Tools
 
 *   [ToutKit (⭐2)](https://github.com/toutkit/toutkit) - Desktop notebook with a built-in terminal that runs Gemini CLI alongside Claude Code and Codex; an in-app webview renders whatever the agent writes inline, and each note is a self-contained folder with its own SQLite, files, and scripts. Local-first, Electron, AGPL-3.0.
 
-#### [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [19. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Mathematics / Algebra
 
 *   [Linear Algebra, Infinite Dimensions, and Maple](https://web.archive.org/web/20240313042212/https://herod.math.gatech.edu/Hspace/Hspace.html) - James Herod (HTML) *( :card\_file\_box: archived)*
 
-#### [22. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Database Tools
 
@@ -367,7 +253,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mac-cleanup-go (⭐386)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 
-#### [23. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [21. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Other / [Other](#other-1)
 
@@ -377,13 +263,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   **Codety** :warning: :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
 
-#### [24. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [22. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Content Hubs / Reddit
 
 *   [dmnshd.gg](https://dmnshd.gg) - A platform for discovering and playing WebXR games.
 
-#### [25. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [23. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### **Sponsors**
 
@@ -414,19 +300,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
 
-#### [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Web Servers
-
-*   [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code (⭐1.6k)](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
-
-#### [27. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [24. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Assets
 
 *   [Bundlebun (⭐82)](https://github.com/yaroslav/bundlebun) - bundles Bun, the all-in-one JavaScript runtime, package manager, and build tool, directly into your Ruby gem bundle.
 
-#### [28. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+#### [25. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ##### Data Ingestion
 
@@ -472,7 +352,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Scherlok (⭐1)](https://github.com/rbmuller/scherlok) - Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.
 
-#### [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+#### [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ##### Job boards
 
@@ -534,7 +414,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
 *   [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
 
-#### [30. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [27. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Tools
 
@@ -544,19 +424,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [StepByStepML](https://www.stepbystepml.com) - Interactive calculator that visualizes the step-by-step manual math behind machine learning algorithms for exam prep.
 
-#### [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Entertainment / Music
 
 *   [termusic (⭐2k)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 
-#### [32. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+#### [29. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ##### Static Site Generators
 
 *   [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
 
-#### [33. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+#### [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ##### Tutorials
 
@@ -566,271 +446,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
 
-#### [34. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Messaging and Streaming
-
-*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
-
-##### Education and Career Development
-
-*   [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
-
-##### Email
-
-*   [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
-
-##### PaaS
-
-*   [boxd](https://boxd.sh) - Persistent Linux VMs accessible through SSH or CLI. Free tier includes 10 VMs at 2 vCPU / 8 GB RAM / 100 GB disk each, with a public HTTPS URL per VM (so no networking fuss) and the ability to fork any running machine. <30ms cold boot, <100ms fork, <1ms suspend/resume, EU-hosted & EU-made, idle VMs sleep to zero.
-
-##### Storage and Media Processing
-
-*   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
-
-#### [35. Public Apis](/content/public-apis/public-apis/README.md)
-
-##### Cryptocurrency
-
-- API: [Alpha (Mossland)](https://alpha.moss.land/developers)
-
-  Description: Korean crypto channel stance + RAG Q\&A + canonical entity/topic/event store
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Currency Exchange
-
-- API: [paralelo.bo](https://paralelo.bo/api)
-
-  Description: Bolivia parallel-market USD/BOB exchange rate, aggregated from P2P sources every 60s
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Development
-
-- API: [isitdownstatus](https://isitdownstatus.com)
-
-  Description: Check if websites and online services are currently down
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
-
-  Description: Fake REST API for testing and prototyping
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Email
-
-- API: [EmailJS](https://www.emailjs.com/docs/)
-
-  Description: Send emails directly from client-side JavaScript without a backend server
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [PostStack](https://poststack.dev/docs)
-
-  Description: EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: No
-
-
-
-##### Government
-
-- API: [CPFHub](https://cpfhub.io)
-
-  Description: Brazilian CPF lookup — returns full name, birth date, and gender for any CPF
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Health
-
-- API: [Edamam](https://developer.edamam.com/)
-
-  Description: Food and nutrition data API with recipe search
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-##### News
-
-- API: [Florida Man (⭐0)](https://github.com/juliayxhuang/florida-man-api#readme)
-
-  Description: Static JSON dataset of 10,000+ Florida Man headlines by date
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Open Data
-
-- API: [AcreLens](https://www.acrelens.com)
-
-  Description: Land suitability scoring API for any US property: off-grid, rural, recreational, investment
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api)
-
-  Description: Lookup appliance and equipment error codes by brand and code, with recommended replacement parts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar)
-
-  Description: Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-##### Phone
-
-- API: [Numlookup](https://numlookupapi.com)
-
-  Description: Phone number validation and carrier lookup API with global coverage
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-##### Science & Math
-
-- API: [OpenAlex](https://docs.openalex.org/)
-
-  Description: Open catalog of scholarly works, authors, institutions, sources, and concepts
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Social
-
-- API: [Bluesky](https://docs.bsky.app/)
-
-  Description: Decentralized social networking via the AT protocol
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Sports & Fitness
-
-- API: [DiscGolf](https://discgolfapi.com/docs/)
-
-  Description: Structured disc golf course data
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Tracking
-
-- API: [WhereParcel](https://whereparcel.com/docs)
-
-  Description: Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-##### Weather
-
-- API: [wttr.in](https://wttr.in/:help)
-
-  Description: Weather in your terminal, supports JSON output
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-#### [36. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [31. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / CLI utils
 
@@ -902,7 +518,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [ghosind/dvm (⭐53)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 *   [pup (⭐195)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
-#### [37. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [32. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -921,7 +537,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vercel/turborepo (⭐30k)](https://github.com/vercel/turborepo) - High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.
 
-#### [38. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [33. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Fundamentals / Package and Version Manager
 
@@ -939,13 +555,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [libui-ng (⭐0)](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
 
-#### [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Driver crates / WIP
 
 *   [tmag5273 (⭐0)](https://github.com/coffiot/tmag5273-rs) - I2C - TI TMAG5273 3-axis Hall-effect sensor with hardware CORDIC angle engine and typestate API - [![crates.io](https://img.shields.io/crates/v/tmag5273.svg)](https://crates.io/crates/tmag5273)
 
-#### [40. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [35. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Data Breach Search Engines
 
@@ -959,25 +575,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 
-#### [41. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Utilities / General
-
-*   [arthurkushman/pgo (⭐88)](https://github.com/arthurkushman/pgo) — Go library for PHP community with convenient functions ☆`88`
-
-#### [42. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Design & Graphics / Image Tools
-
-*   [ImageOptim/ImageOptim (⭐9.8k)](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`9,811`
-
-#### [43. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+#### [36. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ##### Arcade
 
 *   [Battle City (⭐1)](https://github.com/vgrichina/battlecity) - Browser reimplementation of Namco's 1985 Battle City (Famicom version), built from a full annotated 6502 disassembly. Playable at <https://battle-city.berrry.app>. :flower\_playing\_cards:
 
-#### [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### GTFS Courses
 
@@ -1017,7 +621,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [gbfs R package (⭐38)](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
-#### [45. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [38. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -1033,7 +637,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [CodexIsland (⭐108)](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ericjypark/codex-island) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Notchly](https://notchly.xyz) - Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-#### [46. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+#### [39. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ##### In case you need help / 🌍 In your language
 
@@ -1357,13 +961,483 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [awesome-mqtt (⭐2.3k)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,332★).
 
+#### [40. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+##### Software / Backups
+
+*   [Shield (⭐396)](https://github.com/shieldproject/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+
+##### Software / Build and software organization tools
+
+*   [Environment Modules](https://envmodules.io/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐848)](https://github.com/envmodules/modules)) `GPL-2.0` `Tcl`
+
+##### Software / Continuous Integration & Continuous Deployment
+
+*   [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ([Source Code (⭐35k)](https://github.com/harness/harness)) `Apache-2.0` `Go`
+
+##### Software / Deployment Automation
+
+*   [Genesis (⭐63)](https://github.com/genesis-community/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
+
+##### Software / DNS - Control Panels & Domain Management
+
+*   [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code (⭐3.8k)](https://github.com/DNSControl/dnscontrol)) `MIT` `Go/Docker`
+*   [octoDNS (⭐3.7k)](https://github.com/octodns/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+
+##### Software / Identity Management - LDAP
+
+*   [lldap (⭐6.2k)](https://github.com/lldap/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+
+##### Software / Metrics & Metric Collection
+
+*   [Statsd (⭐18k)](https://github.com/statsd/statsd) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
+
+##### Software / Monitoring & Status Pages
+
+*   [EdMon (⭐11)](https://github.com/eahlys/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
+*   [Linux Dash (⭐11k)](https://github.com/tariqbuilds/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
+
+##### Software / Packaging
+
+*   [tito (⭐399)](https://github.com/rpm-software-management/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
+
+##### Software / Software Containers
+
+*   [Incus](https://linuxcontainers.org/incus/) - Container "hypervisor" and a better UX for LXC. ([Source Code (⭐5.3k)](https://github.com/lxc/incus)) `Apache-2.0` `Go`
+
+#### [41. Tools](/content/lvwzhen/tools/README.md)
+
+##### Tools collection
+
+*   [WebToolkit Pro](https://wtkpro.site/)
+
+#### [42. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Messaging and Streaming
+
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is limited to local development only and free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
+
+##### Education and Career Development
+
+*   [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
+
+##### Email
+
+*   [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
+
+##### PaaS
+
+*   [boxd](https://boxd.sh) - Persistent Linux VMs accessible through SSH or CLI. Free tier includes 10 VMs at 2 vCPU / 8 GB RAM / 100 GB disk each, with a public HTTPS URL per VM (so no networking fuss) and the ability to fork any running machine. <30ms cold boot, <100ms fork, <1ms suspend/resume, EU-hosted & EU-made, idle VMs sleep to zero.
+
+##### Storage and Media Processing
+
+*   [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
+
+#### [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Web Servers
+
+*   [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code (⭐1.6k)](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
+
+#### [44. Public Apis](/content/public-apis/public-apis/README.md)
+
+##### Cryptocurrency
+
+- API: [Alpha (Mossland)](https://alpha.moss.land/developers)
+
+  Description: Korean crypto channel stance + RAG Q\&A + canonical entity/topic/event store
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Currency Exchange
+
+- API: [paralelo.bo](https://paralelo.bo/api)
+
+  Description: Bolivia parallel-market USD/BOB exchange rate, aggregated from P2P sources every 60s
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Development
+
+- API: [isitdownstatus](https://isitdownstatus.com)
+
+  Description: Check if websites and online services are currently down
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+
+  Description: Fake REST API for testing and prototyping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Thunderbit](https://thunderbit.com/docs/introduction)
+
+  Description: Extract web pages as Markdown or structured data for AI apps
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### Documents & Productivity
+
+- API: [staffSign](https://staffsign.de/docs)
+
+  Description: Digital employment contract API with QES/eIDAS support for HR and staffing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Email
+
+- API: [EmailJS](https://www.emailjs.com/docs/)
+
+  Description: Send emails directly from client-side JavaScript without a backend server
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PostStack](https://poststack.dev/docs)
+
+  Description: EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+##### Entertainment
+
+- API: [Anycrap](https://anycrap.shop/developers)
+
+  Description: 35,000+ absurdist AI-generated product concepts with names, descriptions, and images
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Memesio](https://memesio.com/developers/api)
+
+  Description: Meme creation API with templates, editable captions and hosted share links
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+##### Government
+
+- API: [CPFHub](https://cpfhub.io)
+
+  Description: Brazilian CPF lookup — returns full name, birth date, and gender for any CPF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LocalGov.jp](https://localgov.jp/)
+
+  Description: Japan grants and subsidies (central J-Grants + 1,916 municipalities)
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Health
+
+- API: [Edamam](https://developer.edamam.com/)
+
+  Description: Food and nutrition data API with recipe search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### News
+
+- API: [Florida Man (⭐0)](https://github.com/juliayxhuang/florida-man-api#readme)
+
+  Description: Static JSON dataset of 10,000+ Florida Man headlines by date
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Open Data
+
+- API: [AcreLens](https://www.acrelens.com)
+
+  Description: Land suitability scoring API for any US property: off-grid, rural, recreational, investment
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api)
+
+  Description: Lookup appliance and equipment error codes by brand and code, with recommended replacement parts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar)
+
+  Description: Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### Phone
+
+- API: [Numlookup](https://numlookupapi.com)
+
+  Description: Phone number validation and carrier lookup API with global coverage
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+##### Science & Math
+
+- API: [OpenAlex](https://docs.openalex.org/)
+
+  Description: Open catalog of scholarly works, authors, institutions, sources, and concepts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Social
+
+- API: [Bluesky](https://docs.bsky.app/)
+
+  Description: Decentralized social networking via the AT protocol
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Sports & Fitness
+
+- API: [DiscGolf](https://discgolfapi.com/docs/)
+
+  Description: Structured disc golf course data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Tracking
+
+- API: [WhereParcel](https://whereparcel.com/docs)
+
+  Description: Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Weather
+
+- API: [wttr.in](https://wttr.in/:help)
+
+  Description: Weather in your terminal, supports JSON output
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+#### [45. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Command-line
+
+*   [envelop (⭐1)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
+*   [minimax-v (⭐5)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
+*   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
+*   [v\_llama\_cpp (⭐8)](https://github.com/sakana-ctf/v_llama_cpp) - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
+*   [vfc (⭐9)](https://github.com/Ict00/vfc) - A simple TUI file manager, made with V.
+*   [vsqlite (⭐6)](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
+
+##### Editors
+
+*   [lilly (⭐448)](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative.
+
+##### Games
+
+*   [vchess (⭐18)](https://github.com/hedgeg0d/vchess) - Chess game written in V programming language.
+
+##### Graphics
+
+*   [vpaint (⭐84)](https://github.com/pisaiah/vpaint) - MS-Paint alternative written in V.
+*   [vglyph (⭐27)](https://github.com/vlang/vglyph) - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
+
+##### Interpreters/Compilers
+
+*   [papyrus-compiler (⭐44)](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
+
+##### Utilities
+
+*   [qptorrent (⭐36)](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
+*   [raur (⭐1)](https://github.com/Matejsdevelopment/raur) - Simple Arch User Repository (AUR) helper coded in Vlang.
+*   [unix-emulators-win (⭐0)](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
+
+##### Web
+
+*   [gitval (⭐6)](https://github.com/davlgd/gitval) - A static site generator for Git repositories, written in V.
+*   [Verne (⭐0)](https://github.com/davlgd/Verne) - The other static site generator named after a famous French author.
+*   [vico\_bot (⭐19)](https://github.com/KArjmand/vico_bot) - Lightweight self-hosted AI chatbot with persistent memory and tool calling.
+*   [jsonrpcv (⭐7)](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
+
+##### Automation
+
+*   [v-webdriver (⭐10)](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
+
+##### Game development
+
+*   [sdl2test (⭐20)](https://github.com/nsauzede/sdl2test) - Exhaustive suite of tests and examples for SDL2 with V.
+
+##### Interoperability
+
+*   [vjsx (⭐2)](https://github.com/guweigang/vjsx) - V bindings to quickjs javascript engine. Run JS in V.
+*   [vphp (⭐3)](https://github.com/guweigang/vphp) - Vlang library for building PHP extensions natively in Vlang.
+
+##### Networking
+
+*   [netio (⭐3)](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
+
+##### Text processing
+
+*   [xlsx (⭐29)](https://github.com/hungrybluedev/xlsx) - V library for reading and writing Microsoft Excel files.
+
+##### User Interface toolkits
+
+*   [bobatea (⭐19)](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
+
+##### Utility
+
+*   [structlog (⭐1)](https://github.com/gechandesu/structlog) - Structured logs library for V.
+*   [V-crypto (⭐4)](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
+
+#### [46. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Utilities / General
+
+*   [arthurkushman/pgo (⭐88)](https://github.com/arthurkushman/pgo) — Go library for PHP community with convenient functions ☆`88`
+
+#### [47. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Design & Graphics / Image Tools
+
+*   [ImageOptim/ImageOptim (⭐9.8k)](https://github.com/ImageOptim/ImageOptim) — GUI image optimizer for Mac ☆`9,813`
+
+#### [48. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md)
+
+##### Android / Nevix
+
+*   [Haiker](https://haiker.app)
+
 ---
 
 - Next: [May 04 - May 10, 2026](&#x2F;content&#x2F;2026&#x2F;18&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 430K 📝 05&#x2F;08) - A collective list of free APIs
+1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 430K 📝 05&#x2F;09) - A collective list of free APIs
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 388K 📝 05&#x2F;07) - :books: Freely available programming books
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 295K 📝 05&#x2F;07) - An opinionated list of Python frameworks, libraries, tools, and resources
 4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 290K 📝 05&#x2F;07) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1736,7 +1810,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md) - ([Source ⭐ 750, 📝 20&#x2F;10&#x2F;12 ](https://github.com/fliptheweb/motion-ui-design)) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 - [Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md) - ([Source ⭐ 102, 📝 23&#x2F;02&#x2F;19 ](https://github.com/jbmoelker/progressive-enhancement-resources)) - Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 - [Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;12&#x2F;03 ](https://github.com/davidtheclark/scalable-css-reading-list)) - Collected dispatches from The Quest for Scalable CSS
-- [Tools](/content/lvwzhen/tools/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;26 ](https://github.com/lvwzhen/tools)) - Tools Online
+- [Tools](/content/lvwzhen/tools/README.md) - ([Source ⭐ 1.2K, 📝 05&#x2F;09 ](https://github.com/lvwzhen/tools)) - Tools Online
 - [Typography](/content/deanhume/typography/README.md) - ([Source ⭐ 696, 📝 04&#x2F;21 ](https://github.com/deanhume/typography)) - A collection of web typography resources
 - [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 7.4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
 - [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 3.5K, 📝 04&#x2F;20 ](https://github.com/mateusortiz/webcomponents-the-right-way)) - A curated list of awesome Web Components resources.
@@ -1901,7 +1975,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Glp1](/content/glp1guide/awesome-glp1/README.md) - ([Source ⭐ 0, 📝 24&#x2F;02&#x2F;20 ](https://github.com/glp1guide/awesome-glp1)) - Awesome resources around the GLP1 Receptor Agonist class of treatments. Sponsored by GLP1.Guide
 - [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K, 📝 04&#x2F;09 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 - [Awesome Gulp](/content/alferov/awesome-gulp/README.md) - ([Source ⭐ 593, 📝 18&#x2F;08&#x2F;20 ](https://github.com/alferov/awesome-gulp)) - :tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
-- [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.4K, 📝 04&#x2F;28 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
+- [Awesome Hacker News](/content/cheeaun/awesome-hacker-news/README.md) - ([Source ⭐ 1.4K, 📝 05&#x2F;09 ](https://github.com/cheeaun/awesome-hacker-news)) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 112K, 📝 04&#x2F;24 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Awesome Homematic](/content/homematic-community/awesome-homematic/README.md) - ([Source ⭐ 157, 📝 21&#x2F;01&#x2F;16 ](https://github.com/homematic-community/awesome-homematic)) - A curated list of Homematic related links :sparkles:
 - [Awesome Icons](/content/vkarampinis/awesome-icons/README.md) - ([Source ⭐ 1.5K, 📝 03&#x2F;27 ](https://github.com/vkarampinis/awesome-icons)) - A curated list of awesome Web Font Icons
@@ -1990,7 +2064,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 25&#x2F;07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.3K, 📝 25&#x2F;12&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 430K, 📝 05&#x2F;08 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
+- [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 430K, 📝 05&#x2F;09 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 - [Services Engineering](/content/mmcgrana/services-engineering/README.md) - ([Source ⭐ 3.4K, 📝 20&#x2F;05&#x2F;09 ](https://github.com/mmcgrana/services-engineering)) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md) - ([Source ⭐ 891, 📝 22&#x2F;10&#x2F;11 ](https://github.com/drewrwilson/toolsforactivism)) - growing list of digital tools for activism things
 - [Topics](/content/selvaklnc/topics/README.md) - ([Source ⭐ 1, 📝 25&#x2F;05&#x2F;05 ](https://github.com/selvaklnc/topics)) - 
@@ -2135,7 +2209,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Standard](/content/standard/awesome-standard/README.md) - ([Source ⭐ 351, 📝 21&#x2F;05&#x2F;07 ](https://github.com/standard/awesome-standard)) - Documenting the explosion of packages in the standard ecosystem!
 - [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 26K, 📝 05&#x2F;05 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4.4K, 📝 04&#x2F;02 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
-- [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2.1K, 📝 05&#x2F;06 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+- [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2.1K, 📝 05&#x2F;09 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 25&#x2F;11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
 - [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 2.2K, 📝 05&#x2F;05 ](https://github.com/zigcc/awesome-zig)) - A collaborative list of awesome Zig libraries and resources. 
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.5K, 📝 25&#x2F;12&#x2F;21 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects

@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### Android / Nevix
+
+*   [Haiker](https://haiker.app)
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Web
@@ -19,7 +25,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐79)](https://github.com/Livinglist/Gem)
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -226,7 +232,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Hacki for Hacker News (⭐1.5k)](https://github.com/Livinglist/Hacki)
+*   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
@@ -241,7 +247,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐577)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -267,7 +273,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Browser Extensions / Nevix
 
-*   [hnlinks (⭐16)](https://github.com/dit7ya/hnlinks)
+*   [hnlinks (⭐17)](https://github.com/dit7ya/hnlinks)
 
 ### Userstyles / Nevix
 
@@ -360,7 +366,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 *   [Hacker News client for Android (⭐229)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
-*   [HN-Android (⭐495)](https://github.com/manmal/hn-android/)
+*   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
 *   [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
 
 ### Emacs / Nevix
