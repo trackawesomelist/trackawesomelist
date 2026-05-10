@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [May 10, 2026](/content/2026/05/10/README.md)
+
+### Utilities / Theming and Customization
+
+*   [cwal (⭐110)](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
+
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### Entertainment / Music
@@ -112,7 +118,7 @@
 
 ### Development / Docker
 
-*   [kool (⭐717)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Productivity / Note Taking and Lists
 
@@ -154,7 +160,7 @@
 
 ### Development / Docker
 
-*   [decompose (⭐131)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Development / Npm
 
@@ -437,7 +443,7 @@
 
 *   [duf (⭐15k)](https://github.com/muesli/duf) - A better `df` alternative.
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
-*   [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+*   [dutree (⭐871)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 
 ### Version Control / Git
 
@@ -519,7 +525,7 @@
 
 ### Utilities / System Interaction Utilities
 
-*   [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
+*   [fastfetch (⭐23k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 
 ## [Apr 24, 2024](/content/2024/04/24/README.md)
 
@@ -643,7 +649,7 @@
 
 ### Productivity / Presentations
 
-*   [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
+*   [slides (⭐12k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
@@ -764,9 +770,9 @@
 
 ### Utilities / Browser Replacement
 
-*   [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+*   [s (⭐2.6k)](https://github.com/zquestz/s) - Open a web search in your terminal.
 *   [hget (⭐388)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [mapscii (⭐9.1k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 *   [nasa-cli (⭐102)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
 *   [getnews.tech (⭐171)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 *   [trino (⭐143)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
@@ -933,7 +939,7 @@
 
 ### Version Control / Git
 
-*   [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
+*   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - Interactive git tool.
 *   [git-stats (⭐6.6k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐13k)](https://github.com/jonas/tig) - Text-mode interface for git.
 *   [grv (⭐4.1k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
@@ -1092,7 +1098,7 @@
 
 ### Development / Docker
 
-*   [lstags (⭐343)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
@@ -1330,7 +1336,7 @@
 
 ### Utilities / Shell Utilities
 
-*   [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐809)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [undollar (⭐203)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
@@ -1425,7 +1431,7 @@
 ### Entertainment / Movies
 
 *   [moviemon (⭐227)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [movie (⭐176)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Entertainment / Chat
 

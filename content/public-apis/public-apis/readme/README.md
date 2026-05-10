@@ -341,27 +341,28 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Cloud Storage & File Sharing
 
-| API                                                   | Description                                                 | Auth     | HTTPS | CORS    |   |
-| ----------------------------------------------------- | :---------------------------------------------------------- | :------- | :---- | :------ | - |
-| [AnonFiles](https://anonfiles.com/docs/api)           | Upload and share your files anonymously                     | No       | Yes   | Unknown |   |
-| [BayFiles](https://bayfiles.com/docs/api)             | Upload and share your files                                 | No       | Yes   | Unknown |   |
-| [Box](https://developer.box.com/)                     | File Sharing and Storage                                    | `OAuth`  | Yes   | Unknown |   |
-| [ddownload](https://ddownload.com/api)                | File Sharing and Storage                                    | `apiKey` | Yes   | Unknown |   |
-| [Dropbox](https://www.dropbox.com/developers)         | File Sharing and Storage                                    | `OAuth`  | Yes   | Unknown |   |
-| [File.io](https://www.file.io)                        | Super simple file sharing, convenient, anonymous and secure | No       | Yes   | Unknown |   |
-| [Filestack](https://www.filestack.com)                | Filestack File Uploader & File Upload API                   | `apiKey` | Yes   | Unknown |   |
-| [GoFile](https://gofile.io/api)                       | Unlimited size file uploads for free                        | `apiKey` | Yes   | Unknown |   |
-| [Google Drive](https://developers.google.com/drive/)  | File Sharing and Storage                                    | `OAuth`  | Yes   | Unknown |   |
-| [Gyazo](https://gyazo.com/api/docs)                   | Save & Share screen captures instantly                      | `apiKey` | Yes   | Unknown |   |
-| [Imgbb](https://api.imgbb.com/)                       | Simple and quick private image sharing                      | `apiKey` | Yes   | Unknown |   |
-| [OneDrive](https://developer.microsoft.com/onedrive)  | File Sharing and Storage                                    | `OAuth`  | Yes   | Unknown |   |
-| [Pantry](https://getpantry.cloud/)                    | Free JSON storage for small projects                        | No       | Yes   | Yes     |   |
-| [Pastebin](https://pastebin.com/doc_api)              | Plain Text Storage                                          | `apiKey` | Yes   | Unknown |   |
-| [Pinata](https://docs.pinata.cloud/)                  | IPFS Pinning Services API                                   | `apiKey` | Yes   | Unknown |   |
-| [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups                         | `apiKey` | Yes   | Yes     |   |
-| [Storj](https://docs.storj.io/dcs/)                   | Decentralized Open-Source Cloud Storage                     | `apiKey` | Yes   | Unknown |   |
-| [The Null Pointer](https://0x0.st)                    | No-bullshit file hosting and URL shortening service         | No       | Yes   | Unknown |   |
-| [Web3 Storage](https://web3.storage/)                 | File Sharing and Storage for Free with 1TB Space            | `apiKey` | Yes   | Yes     |   |
+| API                                                   | Description                                                               | Auth     | HTTPS | CORS    |   |
+| ----------------------------------------------------- | :------------------------------------------------------------------------ | :------- | :---- | :------ | - |
+| [AnonFiles](https://anonfiles.com/docs/api)           | Upload and share your files anonymously                                   | No       | Yes   | Unknown |   |
+| [BayFiles](https://bayfiles.com/docs/api)             | Upload and share your files                                               | No       | Yes   | Unknown |   |
+| [Box](https://developer.box.com/)                     | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
+| [ddownload](https://ddownload.com/api)                | File Sharing and Storage                                                  | `apiKey` | Yes   | Unknown |   |
+| [Dropbox](https://www.dropbox.com/developers)         | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
+| [File.io](https://www.file.io)                        | Super simple file sharing, convenient, anonymous and secure               | No       | Yes   | Unknown |   |
+| [Filestack](https://www.filestack.com)                | Filestack File Uploader & File Upload API                                 | `apiKey` | Yes   | Unknown |   |
+| [FileUp (⭐0)](https://github.com/RealSinaSnp/FileUp)  | Temporary file hosting with upload API, expiration times, and view limits | No       | Yes   | Unknown |   |
+| [GoFile](https://gofile.io/api)                       | Unlimited size file uploads for free                                      | `apiKey` | Yes   | Unknown |   |
+| [Google Drive](https://developers.google.com/drive/)  | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
+| [Gyazo](https://gyazo.com/api/docs)                   | Save & Share screen captures instantly                                    | `apiKey` | Yes   | Unknown |   |
+| [Imgbb](https://api.imgbb.com/)                       | Simple and quick private image sharing                                    | `apiKey` | Yes   | Unknown |   |
+| [OneDrive](https://developer.microsoft.com/onedrive)  | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
+| [Pantry](https://getpantry.cloud/)                    | Free JSON storage for small projects                                      | No       | Yes   | Yes     |   |
+| [Pastebin](https://pastebin.com/doc_api)              | Plain Text Storage                                                        | `apiKey` | Yes   | Unknown |   |
+| [Pinata](https://docs.pinata.cloud/)                  | IPFS Pinning Services API                                                 | `apiKey` | Yes   | Unknown |   |
+| [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups                                       | `apiKey` | Yes   | Yes     |   |
+| [Storj](https://docs.storj.io/dcs/)                   | Decentralized Open-Source Cloud Storage                                   | `apiKey` | Yes   | Unknown |   |
+| [The Null Pointer](https://0x0.st)                    | No-bullshit file hosting and URL shortening service                       | No       | Yes   | Unknown |   |
+| [Web3 Storage](https://web3.storage/)                 | File Sharing and Storage for Free with 1TB Space                          | `apiKey` | Yes   | Yes     |   |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -509,6 +510,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)                                                                                          | Control IoT Devices from Blynk IoT Cloud                                                             | `apiKey`        | No    | Unknown |
 | [Bored](https://www.boredapi.com/)                                                                                                        | Find random activities to fight boredom                                                              | No              | Yes   | Unknown |
 | [Brainshop.ai](https://brainshop.ai/)                                                                                                     | Make A Free A.I Brain                                                                                | `apiKey`        | Yes   | Yes     |
+| [BrewPage](https://brewpage.app)                                                                                                          | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention    | No              | Yes   | No      |
 | [Browshot](https://browshot.com/api/documentation)                                                                                        | Easily make screenshots of web pages in any screen size, as any device                               | `apiKey`        | Yes   | Yes     |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery)                                                                                           | Library info on CDNJS                                                                                | No              | Yes   | Unknown |
 | [Changelogs.md](https://changelogs.md)                                                                                                    | Structured changelog metadata from open source projects                                              | No              | Yes   | Unknown |
@@ -777,7 +779,9 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Finnhub](https://finnhub.io/docs/api)                                                                                     | Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto                             | `apiKey` | Yes   | Unknown |   |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/)                                                                         | Economic data from the Federal Reserve Bank of St. Louis                                            | `apiKey` | Yes   | Yes     |   |
 | [Front Accounting APIs](https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule)                              | Front accounting is multilingual and multicurrency software for small businesses                    | `OAuth`  | Yes   | Yes     |   |
+| [Helium](https://heliumtrades.com/mcp-page/)                                                                               | News with media bias scoring, balanced news synthesis, live market data, AI options pricing         | No       | Yes   | Yes     |   |
 | [Hotstoks](https://hotstoks.com?utm_source=public-apis)                                                                    | Stock market data powered by SQL                                                                    | `apiKey` | Yes   | Yes     |   |
+| [IBANforge](https://api.ibanforge.com)                                                                                     | IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries                      | No       | Yes   | Yes     |   |
 | [IEX Cloud](https://iexcloud.io/docs/api/)                                                                                 | Realtime & Historical Stock and Market Data                                                         | `apiKey` | Yes   | Yes     |   |
 | [IG](https://labs.ig.com/gettingstarted)                                                                                   | Spreadbetting and CFD Market Data                                                                   | `apiKey` | Yes   | Unknown |   |
 | [Indian Mutual Fund](https://www.mfapi.in/)                                                                                | Get complete history of India Mutual Funds Data                                                     | No       | Yes   | Unknown |   |
@@ -810,32 +814,33 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Food & Drink
 
-| API                                                                                    | Description                                       | Auth     | HTTPS | CORS    |
-| :------------------------------------------------------------------------------------- | :------------------------------------------------ | :------- | :---- | :------ |
-| [BaconMockup](https://baconmockup.com/)                                                | Resizable bacon placeholder images                | No       | Yes   | Yes     |
-| [Chomp](https://chompthis.com/api/)                                                    | Data about various grocery products and foods     | `apiKey` | Yes   | Unknown |
-| [Coffee](https://coffee.alexflipnote.dev/)                                             | Random pictures of coffee                         | No       | Yes   | Unknown |
-| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)             | Nutrition Analysis                                | `apiKey` | Yes   | Unknown |
-| [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)                  | Recipe Search                                     | `apiKey` | Yes   | Unknown |
-| [Foodish (⭐119)](https://github.com/surhud004/Foodish#readme)                          | Random pictures of food dishes                    | No       | Yes   | Yes     |
-| [Fruityvice](https://www.fruityvice.com)                                               | Data about all kinds of fruit                     | No       | Yes   | Unknown |
-| [Kroger](https://developer.kroger.com/reference)                                       | Supermarket Data                                  | `apiKey` | Yes   | Unknown |
-| [LCBO](https://lcboapi.com/)                                                           | Alcohol                                           | `apiKey` | Yes   | Unknown |
-| [Open Brewery DB](https://www.openbrewerydb.org)                                       | Breweries, Cideries and Craft Beer Bottle Shops   | No       | Yes   | Yes     |
-| [Open Food Facts](https://world.openfoodfacts.org/data)                                | Food Products Database                            | No       | Yes   | Unknown |
-| [PunkAPI](https://punkapi.com/)                                                        | Brewdog Beer Recipes                              | No       | Yes   | Unknown |
-| [Rustybeer](https://rustybeer.herokuapp.com/)                                          | Beer brewing tools                                | No       | Yes   | No      |
-| [Spoonacular](https://spoonacular.com/food-api)                                        | Recipes, Food Products, and Meal Planning         | `apiKey` | Yes   | Unknown |
-| [Systembolaget](https://api-portal.systembolaget.se)                                   | Govornment owned liqour store in Sweden           | `apiKey` | Yes   | Unknown |
-| [TacoFancy (⭐131)](https://github.com/evz/tacofancy-api)                               | Community-driven taco database                    | No       | No    | Unknown |
-| [Tasty](https://rapidapi.com/apidojo/api/tasty/)                                       | API to query data about recipe, plan, ingredients | `apiKey` | Yes   | Unknown |
-| [The Report of the Week (⭐51)](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              | No       | Yes   | Unknown |
-| [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                 | Cocktail Recipes                                  | `apiKey` | Yes   | Yes     |
-| [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                      | `apiKey` | Yes   | Yes     |
-| [Untappd](https://untappd.com/api/docs)                                                | Social beer sharing                               | `OAuth`  | Yes   | Unknown |
-| [What's on the menu?](http://nypl.github.io/menus-api/)                                | NYPL human-transcribed historical menu collection | `apiKey` | No    | Unknown |
-| [WhiskyHunter](https://whiskyhunter.net/api/)                                          | Past online whisky auctions statistical data      | No       | Yes   | Unknown |
-| [Zestful](https://zestfuldata.com/)                                                    | Parse recipe ingredients                          | `apiKey` | Yes   | Yes     |
+| API                                                                                    | Description                                                   | Auth     | HTTPS | CORS    |
+| :------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------- | :---- | :------ |
+| [BaconMockup](https://baconmockup.com/)                                                | Resizable bacon placeholder images                            | No       | Yes   | Yes     |
+| [Chomp](https://chompthis.com/api/)                                                    | Data about various grocery products and foods                 | `apiKey` | Yes   | Unknown |
+| [Coffee](https://coffee.alexflipnote.dev/)                                             | Random pictures of coffee                                     | No       | Yes   | Unknown |
+| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)             | Nutrition Analysis                                            | `apiKey` | Yes   | Unknown |
+| [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)                  | Recipe Search                                                 | `apiKey` | Yes   | Unknown |
+| [Foodish (⭐119)](https://github.com/surhud004/Foodish#readme)                          | Random pictures of food dishes                                | No       | Yes   | Yes     |
+| [Fruityvice](https://www.fruityvice.com)                                               | Data about all kinds of fruit                                 | No       | Yes   | Unknown |
+| [Kroger](https://developer.kroger.com/reference)                                       | Supermarket Data                                              | `apiKey` | Yes   | Unknown |
+| [LCBO](https://lcboapi.com/)                                                           | Alcohol                                                       | `apiKey` | Yes   | Unknown |
+| [Open Brewery DB](https://www.openbrewerydb.org)                                       | Breweries, Cideries and Craft Beer Bottle Shops               | No       | Yes   | Yes     |
+| [Open Food Facts](https://world.openfoodfacts.org/data)                                | Food Products Database                                        | No       | Yes   | Unknown |
+| [PunkAPI](https://punkapi.com/)                                                        | Brewdog Beer Recipes                                          | No       | Yes   | Unknown |
+| [RecipeAPI](https://recipeapi.io)                                                      | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes   | Yes     |
+| [Rustybeer](https://rustybeer.herokuapp.com/)                                          | Beer brewing tools                                            | No       | Yes   | No      |
+| [Spoonacular](https://spoonacular.com/food-api)                                        | Recipes, Food Products, and Meal Planning                     | `apiKey` | Yes   | Unknown |
+| [Systembolaget](https://api-portal.systembolaget.se)                                   | Govornment owned liqour store in Sweden                       | `apiKey` | Yes   | Unknown |
+| [TacoFancy (⭐131)](https://github.com/evz/tacofancy-api)                               | Community-driven taco database                                | No       | No    | Unknown |
+| [Tasty](https://rapidapi.com/apidojo/api/tasty/)                                       | API to query data about recipe, plan, ingredients             | `apiKey` | Yes   | Unknown |
+| [The Report of the Week (⭐51)](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                                          | No       | Yes   | Unknown |
+| [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                 | Cocktail Recipes                                              | `apiKey` | Yes   | Yes     |
+| [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                  | `apiKey` | Yes   | Yes     |
+| [Untappd](https://untappd.com/api/docs)                                                | Social beer sharing                                           | `OAuth`  | Yes   | Unknown |
+| [What's on the menu?](http://nypl.github.io/menus-api/)                                | NYPL human-transcribed historical menu collection             | `apiKey` | No    | Unknown |
+| [WhiskyHunter](https://whiskyhunter.net/api/)                                          | Past online whisky auctions statistical data                  | No       | Yes   | Unknown |
+| [Zestful](https://zestfuldata.com/)                                                    | Parse recipe ingredients                                      | `apiKey` | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1174,25 +1179,26 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Jobs
 
-| API                                                                                             | Description                                                      | Auth     | HTTPS | CORS    |
-| :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :------- | :---- | :------ |
-| [Adzuna](https://developer.adzuna.com/overview)                                                 | Job board aggregator                                             | `apiKey` | Yes   | Unknown |
-| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh)                           | API for Job board aggregator in Europe / Remote                  | No       | Yes   | Yes     |
-| [Arbeitsamt](https://jobsuche.api.bund.dev/)                                                    | API for the "Arbeitsamt", which is a german Job board aggregator | `OAuth`  | Yes   | Unknown |
-| [Careerjet](https://www.careerjet.com/partners/api/)                                            | Job search engine                                                | `apiKey` | No    | Unknown |
-| [DevITjobs UK](https://devitjobs.uk/job_feed.xml)                                               | Jobs with GraphQL                                                | No       | Yes   | Yes     |
-| [Findwork](https://findwork.dev/developers/)                                                    | Job board                                                        | `apiKey` | Yes   | Unknown |
-| [GraphQL Jobs](https://graphql.jobs/docs/api/)                                                  | Jobs with GraphQL                                                | No       | Yes   | Yes     |
-| [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                                        | Job aggregator                                                   | `apiKey` | Yes   | Unknown |
-| [Jooble](https://jooble.org/api/about)                                                          | Job search engine                                                | `apiKey` | Yes   | Unknown |
-| [Juju](http://www.juju.com/publisher/spec/)                                                     | Job search engine                                                | `apiKey` | No    | Unknown |
-| [Open Skills (⭐210)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                         | No       | No    | Unknown |
-| [Reed](https://www.reed.co.uk/developers)                                                       | Job board aggregator                                             | `apiKey` | Yes   | Unknown |
-| [The Muse](https://www.themuse.com/developers/api/v2)                                           | Job board and company profiles                                   | `apiKey` | Yes   | Unknown |
-| [Upwork](https://developers.upwork.com/)                                                        | Freelance job board and management system                        | `OAuth`  | Yes   | Unknown |
-| [USAJOBS](https://developer.usajobs.gov/)                                                       | US government job board                                          | `apiKey` | Yes   | Unknown |
-| [WhatJobs](https://www.whatjobs.com/affiliates)                                                 | Job search engine                                                | `apiKey` | Yes   | Unknown |
-| [ZipRecruiter](https://www.ziprecruiter.com/publishers)                                         | Job search app and website                                       | `apiKey` | Yes   | Unknown |
+| API                                                                                             | Description                                                        | Auth     | HTTPS | CORS    |
+| :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :------- | :---- | :------ |
+| [AI Dev Jobs](https://aidevboard.com/openapi.yaml)                                              | AI/ML engineering job aggregator with REST, RSS, and MCP endpoints | No       | Yes   | Yes     |
+| [Adzuna](https://developer.adzuna.com/overview)                                                 | Job board aggregator                                               | `apiKey` | Yes   | Unknown |
+| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh)                           | API for Job board aggregator in Europe / Remote                    | No       | Yes   | Yes     |
+| [Arbeitsamt](https://jobsuche.api.bund.dev/)                                                    | API for the "Arbeitsamt", which is a german Job board aggregator   | `OAuth`  | Yes   | Unknown |
+| [Careerjet](https://www.careerjet.com/partners/api/)                                            | Job search engine                                                  | `apiKey` | No    | Unknown |
+| [DevITjobs UK](https://devitjobs.uk/job_feed.xml)                                               | Jobs with GraphQL                                                  | No       | Yes   | Yes     |
+| [Findwork](https://findwork.dev/developers/)                                                    | Job board                                                          | `apiKey` | Yes   | Unknown |
+| [GraphQL Jobs](https://graphql.jobs/docs/api/)                                                  | Jobs with GraphQL                                                  | No       | Yes   | Yes     |
+| [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                                        | Job aggregator                                                     | `apiKey` | Yes   | Unknown |
+| [Jooble](https://jooble.org/api/about)                                                          | Job search engine                                                  | `apiKey` | Yes   | Unknown |
+| [Juju](http://www.juju.com/publisher/spec/)                                                     | Job search engine                                                  | `apiKey` | No    | Unknown |
+| [Open Skills (⭐210)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                           | No       | No    | Unknown |
+| [Reed](https://www.reed.co.uk/developers)                                                       | Job board aggregator                                               | `apiKey` | Yes   | Unknown |
+| [The Muse](https://www.themuse.com/developers/api/v2)                                           | Job board and company profiles                                     | `apiKey` | Yes   | Unknown |
+| [Upwork](https://developers.upwork.com/)                                                        | Freelance job board and management system                          | `OAuth`  | Yes   | Unknown |
+| [USAJOBS](https://developer.usajobs.gov/)                                                       | US government job board                                            | `apiKey` | Yes   | Unknown |
+| [WhatJobs](https://www.whatjobs.com/affiliates)                                                 | Job search engine                                                  | `apiKey` | Yes   | Unknown |
+| [ZipRecruiter](https://www.ziprecruiter.com/publishers)                                         | Job search app and website                                         | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1207,6 +1213,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Deepcode](https://www.deepcode.ai)                                               | AI for code review                                                                                | No       | Yes   | Unknown |
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/)                           | Natural Language Processing                                                                       | `apiKey` | Yes   | Unknown |
 | [EXUDE-API](http://uttesh.com/exude-api/)                                         | Used for the primary ways for filtering the stopping, stemming words from the text data           | No       | Yes   | Yes     |
+| [Groq](https://console.groq.com/docs/quickstart)                                  | Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models                       | `apiKey` | Yes   | Yes     |
 | [Hirak FaceAPI](https://faceapi.hirak.site/)                                      | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | `apiKey` | Yes   | Unknown |
 | [Imagga](https://imagga.com/)                                                     | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation                          | `apiKey` | Yes   | Unknown |
 | [Inferdo](https://rapidapi.com/user/inferdo)                                      | Computer Vision services like Facial detection, Image labeling, NSFW classification               | `apiKey` | Yes   | Unknown |
@@ -1229,42 +1236,43 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Music
 
-| API                                                                                                              | Description                                                                                      | Auth     | HTTPS | CORS    |
-| :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :------- | :---- | :------ |
-| [7digital](https://docs.7digital.com/reference)                                                                  | Api of Music store 7digital                                                                      | `OAuth`  | Yes   | Unknown |
-| [AI Mastering](https://aimastering.com/api_docs/)                                                                | Automated Music Mastering                                                                        | `apiKey` | Yes   | Yes     |
-| [Audiomack](https://www.audiomack.com/data-api/docs)                                                             | Api of the streaming music hub Audiomack                                                         | `OAuth`  | Yes   | Unknown |
-| [Bandcamp](https://bandcamp.com/developer)                                                                       | API of Music store Bandcamp                                                                      | `OAuth`  | Yes   | Unknown |
-| [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)                                       | Music Events                                                                                     | No       | Yes   | Unknown |
-| [Deezer](https://developers.deezer.com/api)                                                                      | Music                                                                                            | `OAuth`  | Yes   | Unknown |
-| [Discogs](https://www.discogs.com/developers/)                                                                   | Music                                                                                            | `OAuth`  | Yes   | Unknown |
-| [Freesound](https://freesound.org/docs/api/)                                                                     | Music Samples                                                                                    | `apiKey` | Yes   | Unknown |
-| [Gaana (⭐147)](https://github.com/cyberboysumanjay/GaanaAPI)                                                     | API to retrieve song information from Gaana                                                      | No       | Yes   | Unknown |
-| [Genius](https://docs.genius.com/)                                                                               | Crowdsourced lyrics and music knowledge                                                          | `OAuth`  | Yes   | Unknown |
-| [Genrenator](https://binaryjazz.us/genrenator-api/)                                                              | Music genre generator                                                                            | No       | Yes   | Unknown |
-| [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Software products                                                                                | No       | Yes   | Unknown |
-| [Jamendo](https://developer.jamendo.com/v3.0/docs)                                                               | Music                                                                                            | `OAuth`  | Yes   | Unknown |
-| [JioSaavn (⭐439)](https://github.com/cyberboysumanjay/JioSaavnAPI)                                               | API to retrieve song information, album meta data and many more from JioSaavn                    | No       | Yes   | Unknown |
-| [KKBOX](https://developer.kkbox.com)                                                                             | Get music libraries, playlists, charts, and perform out of KKBOX's platform                      | `OAuth`  | Yes   | Unknown |
-| [KSoft.Si Lyrics](https://docs.ksoft.si/api/lyrics-api)                                                          | API to get lyrics for songs                                                                      | `apiKey` | Yes   | Unknown |
-| [LastFm](https://www.last.fm/api)                                                                                | Music                                                                                            | `apiKey` | Yes   | Unknown |
-| [Lyrics.ovh](https://lyricsovh.docs.apiary.io)                                                                   | Simple API to retrieve the lyrics of a song                                                      | No       | Yes   | Unknown |
-| [Mixcloud](https://www.mixcloud.com/developers/)                                                                 | Music                                                                                            | `OAuth`  | Yes   | Yes     |
-| [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)                                 | Music                                                                                            | No       | Yes   | Unknown |
-| [Musixmatch](https://developer.musixmatch.com/)                                                                  | Music                                                                                            | `apiKey` | Yes   | Unknown |
-| [Napster](https://developer.napster.com/api/v2.2)                                                                | Music                                                                                            | `apiKey` | Yes   | Yes     |
-| [Openwhyd](https://openwhyd.github.io/openwhyd/API)                                                              | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)                     | No       | Yes   | No      |
-| [Phishin](https://phish.in/api-docs)                                                                             | A web-based archive of legal live audio recordings of the improvisational rock band Phish        | `apiKey` | Yes   | No      |
-| [Radio Browser](https://api.radio-browser.info/)                                                                 | List of internet radio stations                                                                  | No       | Yes   | Yes     |
-| [Songkick](https://www.songkick.com/developer/)                                                                  | Music Events                                                                                     | `apiKey` | Yes   | Unknown |
-| [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741)                                  | Get all the services on which a song is available                                                | `apiKey` | Yes   | Yes     |
-| [Songsterr](https://www.songsterr.com/a/wa/api/)                                                                 | Provides guitar, bass and drums tabs and chords                                                  | No       | Yes   | Unknown |
-| [SoundCloud](https://developers.soundcloud.com/docs/api/guide)                                                   | With SoundCloud API you can build applications that will give more power to control your content | `OAuth`  | Yes   | Unknown |
-| [Spotify](https://beta.developer.spotify.com/documentation/web-api/)                                             | View Spotify music catalog, manage users' libraries, get recommendations and more                | `OAuth`  | Yes   | Unknown |
-| [Sunor](https://docs.sunor.cc)                                                                                   | AI music generation API via Suno, with pay-as-you-go credits                                     | `apiKey` | Yes   | Unknown |
-| [TasteDive](https://tastedive.com/read/api)                                                                      | Similar artist API (also works for movies and TV shows)                                          | `apiKey` | Yes   | Unknown |
-| [TheAudioDB](https://www.theaudiodb.com/api_guide.php)                                                           | Music                                                                                            | `apiKey` | Yes   | Unknown |
-| [Vagalume](https://api.vagalume.com.br/docs/)                                                                    | Crowdsourced lyrics and music knowledge                                                          | `apiKey` | Yes   | Unknown |
+| API                                                                                                              | Description                                                                                           | Auth     | HTTPS | CORS    |
+| :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :------- | :---- | :------ |
+| [7digital](https://docs.7digital.com/reference)                                                                  | Api of Music store 7digital                                                                           | `OAuth`  | Yes   | Unknown |
+| [AI Mastering](https://aimastering.com/api_docs/)                                                                | Automated Music Mastering                                                                             | `apiKey` | Yes   | Yes     |
+| [Audiomack](https://www.audiomack.com/data-api/docs)                                                             | Api of the streaming music hub Audiomack                                                              | `OAuth`  | Yes   | Unknown |
+| [Bandcamp](https://bandcamp.com/developer)                                                                       | API of Music store Bandcamp                                                                           | `OAuth`  | Yes   | Unknown |
+| [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)                                       | Music Events                                                                                          | No       | Yes   | Unknown |
+| [Deezer](https://developers.deezer.com/api)                                                                      | Music                                                                                                 | `OAuth`  | Yes   | Unknown |
+| [Discogs](https://www.discogs.com/developers/)                                                                   | Music                                                                                                 | `OAuth`  | Yes   | Unknown |
+| [Freesound](https://freesound.org/docs/api/)                                                                     | Music Samples                                                                                         | `apiKey` | Yes   | Unknown |
+| [Gaana (⭐147)](https://github.com/cyberboysumanjay/GaanaAPI)                                                     | API to retrieve song information from Gaana                                                           | No       | Yes   | Unknown |
+| [Genius](https://docs.genius.com/)                                                                               | Crowdsourced lyrics and music knowledge                                                               | `OAuth`  | Yes   | Unknown |
+| [Genrenator](https://binaryjazz.us/genrenator-api/)                                                              | Music genre generator                                                                                 | No       | Yes   | Unknown |
+| [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Software products                                                                                     | No       | Yes   | Unknown |
+| [Jamendo](https://developer.jamendo.com/v3.0/docs)                                                               | Music                                                                                                 | `OAuth`  | Yes   | Unknown |
+| [JioSaavn (⭐439)](https://github.com/cyberboysumanjay/JioSaavnAPI)                                               | API to retrieve song information, album meta data and many more from JioSaavn                         | No       | Yes   | Unknown |
+| [KKBOX](https://developer.kkbox.com)                                                                             | Get music libraries, playlists, charts, and perform out of KKBOX's platform                           | `OAuth`  | Yes   | Unknown |
+| [KSoft.Si Lyrics](https://docs.ksoft.si/api/lyrics-api)                                                          | API to get lyrics for songs                                                                           | `apiKey` | Yes   | Unknown |
+| [LastFm](https://www.last.fm/api)                                                                                | Music                                                                                                 | `apiKey` | Yes   | Unknown |
+| [Lyrics.ovh](https://lyricsovh.docs.apiary.io)                                                                   | Simple API to retrieve the lyrics of a song                                                           | No       | Yes   | Unknown |
+| [Mixcloud](https://www.mixcloud.com/developers/)                                                                 | Music                                                                                                 | `OAuth`  | Yes   | Yes     |
+| [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)                                 | Music                                                                                                 | No       | Yes   | Unknown |
+| [Musixmatch](https://developer.musixmatch.com/)                                                                  | Music                                                                                                 | `apiKey` | Yes   | Unknown |
+| [Napster](https://developer.napster.com/api/v2.2)                                                                | Music                                                                                                 | `apiKey` | Yes   | Yes     |
+| [Openwhyd](https://openwhyd.github.io/openwhyd/API)                                                              | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)                          | No       | Yes   | No      |
+| [Phishin](https://phish.in/api-docs)                                                                             | A web-based archive of legal live audio recordings of the improvisational rock band Phish             | `apiKey` | Yes   | No      |
+| [Radio Browser](https://api.radio-browser.info/)                                                                 | List of internet radio stations                                                                       | No       | Yes   | Yes     |
+| [Songkick](https://www.songkick.com/developer/)                                                                  | Music Events                                                                                          | `apiKey` | Yes   | Unknown |
+| [Songlink / Odesli](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741)                                  | Get all the services on which a song is available                                                     | `apiKey` | Yes   | Yes     |
+| [Songsterr](https://www.songsterr.com/a/wa/api/)                                                                 | Provides guitar, bass and drums tabs and chords                                                       | No       | Yes   | Unknown |
+| [SoundCloud](https://developers.soundcloud.com/docs/api/guide)                                                   | With SoundCloud API you can build applications that will give more power to control your content      | `OAuth`  | Yes   | Unknown |
+| [Spotify](https://beta.developer.spotify.com/documentation/web-api/)                                             | View Spotify music catalog, manage users' libraries, get recommendations and more                     | `OAuth`  | Yes   | Unknown |
+| [Sunor](https://docs.sunor.cc)                                                                                   | AI music generation API via Suno, with pay-as-you-go credits                                          | `apiKey` | Yes   | Unknown |
+| [TasteDive](https://tastedive.com/read/api)                                                                      | Similar artist API (also works for movies and TV shows)                                               | `apiKey` | Yes   | Unknown |
+| [TheAudioDB](https://www.theaudiodb.com/api_guide.php)                                                           | Music                                                                                                 | `apiKey` | Yes   | Unknown |
+| [Vagalume](https://api.vagalume.com.br/docs/)                                                                    | Crowdsourced lyrics and music knowledge                                                               | `apiKey` | Yes   | Unknown |
+| [Verome (⭐211)](https://github.com/Kirazul/Verome-API)                                                           | Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 

@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 336K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 388K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md) / Overview ]
 
@@ -17,6 +17,7 @@
     *   [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
     *   [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     *   [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
+    *   [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%A0%e9%96%8b%e7%99%ba)
     *   [コンテナ](#%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A)
     *   [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
     *   [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
@@ -38,7 +39,6 @@
 *   [C++](#cpp)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
-*   [Coq](#coq)
 *   [D](#d)
 *   [Elixir](#elixir)
 *   [Erlang](#erlang)
@@ -58,6 +58,7 @@
     *   [Node.js](#nodejs)
     *   [React](#react)
     *   [Svelte](#svelte)
+    *   [Vue.js](#vuejs)
 *   [Julia](#julia)
 *   [LaTeX](#latex)
 *   [Linux](#linux)
@@ -71,12 +72,14 @@
 *   [OCaml](#ocaml)
 *   [Perl](#perl)
 *   [PHP](#php)
+    *   [Yii](#yii)
 *   [PowerShell](#powershell)
 *   [Processing](#processing)
 *   [Prolog](#prolog)
 *   [Python](#python)
     *   [Flask](#flask)
 *   [R](#r)
+*   [Rocq Prover](#rocq-prover)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [Sather](#sather)
@@ -110,12 +113,12 @@
 
 *   [オープンソースガイドライン](https://opensource.guide/ja/) - GitHub
 *   [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, `trl:` 高木正弘, `trl:` Yoshinari Takaoka
-*   [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～ (⭐89)](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
+*   [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～ (⭐97)](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
 
 #### ガベージコレクション
 
 *   [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
-*   [徹底解剖「G1GC」実装編 (⭐342)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+*   [徹底解剖「G1GC」実装編 (⭐339)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 #### グラフィックスプログラミング
 
@@ -128,6 +131,14 @@
 #### グラフィックユーザーインターフェイス
 
 *   [Qtプログラミング入門](https://densan-labs.net/tech/qt) - @nishio\_dens
+
+#### ゲーム開発
+
+*   [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
+*   [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+*   [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
+*   [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
+*   [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
 
 #### コンテナ
 
@@ -181,7 +192,7 @@
 *   [Mahoutで体感する機械学習の実践](https://gihyo.jp/dev/serial/01/mahout) - やまかつ
 *   [機械学習 はじめよう](https://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 *   [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
-*   [強化学習入門 (⭐207)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
+*   [強化学習入門 (⭐212)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
 
 #### 正規表現
 
@@ -209,7 +220,7 @@
 
 ### Android
 
-*   [Android Open Text book (⭐252)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android Open Text book (⭐253)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 *   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 *   [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - @nobuoka
 *   [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi Inc.
@@ -235,7 +246,7 @@
 *   [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - trl:Mike G, 千旦裕司
 *   [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - @nattou\_curry
 *   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, trl:@yakstcom
-*   [The Art of Command Line (⭐153k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐161k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 *   [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
 
 ### C
@@ -275,10 +286,6 @@
 *   [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
 *   [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
 
-### Coq
-
-*   [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
-
 ### D
 
 *   [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712) - Masahiro Nakagawa
@@ -296,11 +303,11 @@
 
 *   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
 *   [Git ユーザマニュアル (バージョン 1.5.3 以降用)](https://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
-*   [GitHubカンニング・ペーパー (⭐48k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [GitHubカンニング・ペーパー (⭐57k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
 *   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 *   [Steins;Git 第二版](https://o2project.github.io/steins-git) - Shota Kubota
 *   [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial) - 株式会社ヌーラボ
-*   [デザイナのための Git (⭐232)](https://github.com/hatena/Git-for-Designers) - はてな教科書
+*   [デザイナのための Git (⭐230)](https://github.com/hatena/Git-for-Designers) - はてな教科書
 *   [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
 ### Go
@@ -373,12 +380,12 @@
 > :information\_source: 関連項目 - [Angular](#angular)
 
 *   [AngularJS 1.2 日本語リファレンス](https://js.studio-kingdom.com/angularjs) - `trl:` @tomof
-*   [AngularJSスタイルガイド (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
+*   [AngularJSスタイルガイド (⭐4.9k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
 *   [すぐできる AngularJS](https://8th713.github.io/LearnAngularJS) - @8th713
 
 #### Backbone.js
 
-*   [Backboneドキュメント日本語訳 (⭐212)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
+*   [Backboneドキュメント日本語訳 (⭐214)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 #### jQuery
 
@@ -401,11 +408,15 @@
 *   [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
 *   [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
 
+#### Vue.js
+
+*   [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
+
 ### Julia
 
 *   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
 *   [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
-*   [物理で使う数値計算入門：Julia言語による簡単数値計算 (⭐7)](https://github.com/cometscome/Julianotes) - 永井佑紀
+*   [物理で使う数値計算入門：Julia言語による簡単数値計算 (⭐8)](https://github.com/cometscome/Julianotes) - 永井佑紀
 
 ### LaTeX
 
@@ -453,7 +464,7 @@
 
 *   [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 *   [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF)
-*   [The Little Redis Book (⭐160)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
+*   [The Little Redis Book (⭐159)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 ### Objective-C
 
@@ -483,6 +494,10 @@
 *   [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 *   [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 *   [PSR-2 – コーディングスタイルガイド (⭐33)](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
+
+#### Yii
+
+*   [Yii 2.0 決定版ガイド](https://www.yiiframework.com/doc/download/yii-guide-2.0-ja.pdf) - Yii Software (PDF)
 
 ### PowerShell
 
@@ -537,6 +552,10 @@
 *   [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 *   [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
 *   [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
+
+### Rocq Prover
+
+*   [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
 
 ### Ruby
 

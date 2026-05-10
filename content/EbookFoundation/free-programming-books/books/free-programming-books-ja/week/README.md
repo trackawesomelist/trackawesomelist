@@ -2,15 +2,35 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 336K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) · ⭐ 388K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/readme/README.md) ]
+
+## [May 11 - May 17, 2026](/content/2026/19/README.md)
+
+### JavaScript / Vue.js
+
+*   [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
+
+## [Aug 25 - Aug 31, 2025](/content/2025/34/README.md)
+
+### 0 - 言語非依存 / ゲーム開発
+
+*   [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
+*   [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+*   [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
+*   [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
+*   [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### JavaScript / React
 
 *   [クイックスタート](https://ja.react.dev/learn) - Facebook Inc.
+
+### PHP / Yii
+
+*   [Yii 2.0 決定版ガイド](https://www.yiiframework.com/doc/download/yii-guide-2.0-ja.pdf) - Yii Software (PDF)
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
@@ -20,7 +40,7 @@
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
-### Lisp / Svelte
+### Lisp / Vue.js
 
 *   [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 
@@ -37,7 +57,7 @@
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
-### PHP / Svelte
+### PHP / Vue.js
 
 *   [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 
@@ -46,7 +66,7 @@
 ### Git / 理論計算機科学
 
 *   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
-*   [GitHubカンニング・ペーパー (⭐48k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [GitHubカンニング・ペーパー (⭐57k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
 *   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 *   [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
@@ -58,7 +78,7 @@
 *   [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - @thinca
 *   [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, `trl:` vimdoc-ja プロジェクト
 
-### Lisp / Svelte
+### Lisp / Vue.js
 
 *   [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
 *   [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
@@ -83,19 +103,19 @@
 
 ### JavaScript / AngularJS
 
-*   [AngularJSスタイルガイド (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
+*   [AngularJSスタイルガイド (⭐4.9k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
 
 ### JavaScript / Node.js
 
 *   [Felix's Node.js Style Guide](https://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited, `trl:` @popkirby
 
-### Lua / Svelte
+### Lua / Vue.js
 
 *   [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio
 
-### NoSQL / Svelte
+### NoSQL / Vue.js
 
-*   [The Little Redis Book (⭐160)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
+*   [The Little Redis Book (⭐159)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 ### R / Flask
 
@@ -103,7 +123,7 @@
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
-### Objective-C / Svelte
+### Objective-C / Vue.js
 
 *   [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
@@ -286,10 +306,6 @@
 *   [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
 *   [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
 
-### Coq / 理論計算機科学
-
-*   [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
-
 ### Elixir / 理論計算機科学
 
 *   [Elixir 基礎文法最速マスター](https://qiita.com/niku/items/729ece76d78057b58271) - niku
@@ -354,57 +370,57 @@
 
 *   [React 0.13 日本語リファレンス](https://js.studio-kingdom.com/react) - `trl:` @tomof
 
-### LaTeX / Svelte
+### LaTeX / Vue.js
 
 *   [TeX入門](https://www.comp.tmu.ac.jp/tsakai/lectures/intro_tex.html) - 酒井高司
 
-### Linux / Svelte
+### Linux / Vue.js
 
 *   [Linux Device Driver](https://www.mech.tohoku-gakuin.ac.jp/rde/contents/linux/drivers/indexframe.html) - 熊谷正朗
 *   [Linux from Scratch (Version 7.4)](https://lfsbookja.osdn.jp/7.4.ja/) - Gerard Beekmans, `trl:` 松山道夫
 *   [Secure Programming for Linux and Unix HOWTO](https://linuxjf.osdn.jp/JFdocs/Secure-Programs-HOWTO) - David A. Wheeler, `trl:` 高橋聡
 
-### Lua / Svelte
+### Lua / Vue.js
 
 *   [Luaプログラミング入門](https://densan-labs.net/tech/lua) - @nishio\_dens
 
-### Maven / Svelte
+### Maven / Vue.js
 
 *   [Maven](https://www.techscore.com/tech/Java/ApacheJakarta/Maven) - シナジーマーケティング株式会社
 
-### ML / Svelte
+### ML / Vue.js
 
 *   [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS)
 
-### NoSQL / Svelte
+### NoSQL / Vue.js
 
 *   [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 *   [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF)
 
-### Objective-C / Svelte
+### Objective-C / Vue.js
 
 *   [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @\_marycore
 
-### Perl / Svelte
+### Perl / Vue.js
 
 *   [Perl のコアドキュメント](https://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
 
-### PHP / Svelte
+### PHP / Vue.js
 
 *   [PHP マニュアル](https://www.php.net/manual/ja) - The PHP Group
 *   [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 
-### Processing / Svelte
+### Processing / Yii
 
 *   [Processing クイックリファレンス](http://www.musashinodenpa.com/p5) - 株式会社武蔵野電波
 *   [Processing 学習ノート](https://www.d-improvement.jp/learning/processing) - @mathatelle
 
-### Prolog / Svelte
+### Prolog / Yii
 
 *   [Prolog プログラミング入門](https://tamura70.gitlab.io/web-prolog/intro) - 田村直之
 *   [お気楽 Prolog プログラミング入門](http://www.nct9.ne.jp/m_hiroi/prolog) - 広井誠
 
-### Python / Svelte
+### Python / Yii
 
 *   [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes) - `trl:` 打田旭宏
 *   [Python で音声信号処理](https://aidiary.hatenablog.com/entry/20110514/1305377659) - @aidiary
@@ -427,6 +443,10 @@
 ### R / Flask
 
 *   [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
+
+### Rocq Prover / Flask
+
+*   [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
 
 ### Ruby / Flask
 
@@ -490,9 +510,9 @@
 
 *   [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
 
-### Julia / Svelte
+### Julia / Vue.js
 
-*   [物理で使う数値計算入門：Julia言語による簡単数値計算 (⭐7)](https://github.com/cometscome/Julianotes) - 永井佑紀
+*   [物理で使う数値計算入門：Julia言語による簡単数値計算 (⭐8)](https://github.com/cometscome/Julianotes) - 永井佑紀
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -516,9 +536,9 @@
 
 ### 0 - 言語非依存 / 機械学習
 
-*   [強化学習入門 (⭐207)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
+*   [強化学習入門 (⭐212)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
 
-### Processing / Svelte
+### Processing / Yii
 
 *   [Processing 入門講座](http://ap.kakoku.net/index.html) - maeda
 
@@ -539,12 +559,12 @@
 
 *   [オープンソースガイドライン](https://opensource.guide/ja/) - GitHub
 *   [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, `trl:` 高木正弘, `trl:` Yoshinari Takaoka
-*   [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～ (⭐89)](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
+*   [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～ (⭐97)](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
 
 ### 0 - 言語非依存 / ガベージコレクション
 
 *   [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
-*   [徹底解剖「G1GC」実装編 (⭐342)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+*   [徹底解剖「G1GC」実装編 (⭐339)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
@@ -574,7 +594,7 @@
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
-### Python / Svelte
+### Python / Yii
 
 *   [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 
@@ -635,41 +655,41 @@
 
 *   [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, `trl:` Yuki Kawashima
 
-### Julia / Svelte
+### Julia / Vue.js
 
 *   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
 
-### LaTeX / Svelte
+### LaTeX / Vue.js
 
 *   [TeX入門 TeX Wiki](https://texwiki.texjp.org/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
 
-### Lua / Svelte
+### Lua / Vue.js
 
 *   [Lua Programming](http://www.nct9.ne.jp/m_hiroi/light/lua.html) - 広井誠
 
-### Mercurial / Svelte
+### Mercurial / Vue.js
 
 *   [Mercurial チュートリアル hginit.com の和訳](https://mmitou.hatenadiary.org/entry/20100501/1272680474) - Joel Spolsky, `trl:` mmitou
 
-### OCaml / Svelte
+### OCaml / Vue.js
 
 *   [お気楽 OCaml プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/ocaml.html) - 広井誠
 
-### Perl / Svelte
+### Perl / Vue.js
 
 *   [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, `trl:` Kato Atsusi
 *   [Perl 基礎文法最速マスター](https://tutorial.perlzemi.com/blog/20091226126425.html) - 木本裕紀
 *   [お気楽 Perl プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/perl.html) - 広井誠
 
-### PowerShell / Svelte
+### PowerShell / Yii
 
 *   [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
 
-### Prolog / Svelte
+### Prolog / Yii
 
 *   [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
 
-### Python / Svelte
+### Python / Yii
 
 *   [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
 *   [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - @dplusplus
@@ -711,7 +731,7 @@
 
 ## [Jan 14 - Jan 20, 2019](/content/2019/2/README.md)
 
-### Python / Svelte
+### Python / Yii
 
 *   [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 
@@ -725,7 +745,7 @@
 
 *   [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 
-### OCaml / Svelte
+### OCaml / Vue.js
 
 *   [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 
@@ -735,7 +755,7 @@
 
 *   [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
 
-### Objective-C / Svelte
+### Objective-C / Vue.js
 
 *   [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 
@@ -747,13 +767,13 @@
 
 ## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
 
-### Perl / Svelte
+### Perl / Vue.js
 
 *   [Perl でのデータベース操作 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
 
 ## [Mar 07 - Mar 13, 2016](/content/2016/10/README.md)
 
-### Julia / Svelte
+### Julia / Vue.js
 
 *   [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 
@@ -761,7 +781,7 @@
 
 ### Bash / 理論計算機科学
 
-*   [The Art of Command Line (⭐153k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
+*   [The Art of Command Line (⭐161k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 
 ### D / 理論計算機科学
 
@@ -783,7 +803,7 @@
 
 ### Android / 理論計算機科学
 
-*   [Android Open Text book (⭐252)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android Open Text book (⭐253)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 *   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
 ### AppleScript / 理論計算機科学
@@ -804,7 +824,7 @@
 
 ### Git / 理論計算機科学
 
-*   [デザイナのための Git (⭐232)](https://github.com/hatena/Git-for-Designers) - はてな教科書
+*   [デザイナのための Git (⭐230)](https://github.com/hatena/Git-for-Designers) - はてな教科書
 
 ### JavaScript / Spock Framework
 
@@ -815,19 +835,19 @@
 
 *   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
 
-### Mercurial / Svelte
+### Mercurial / Vue.js
 
 *   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, `trl:` 藤原克則
 
-### Objective-C / Svelte
+### Objective-C / Vue.js
 
 *   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 
-### PHP / Svelte
+### PHP / Vue.js
 
 *   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 
-### Python / Svelte
+### Python / Yii
 
 *   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, `trl:` Fukada, `trl:` Fujimoto
 
@@ -846,15 +866,15 @@
 
 *   [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
 
-### LaTeX / Svelte
+### LaTeX / Vue.js
 
 *   [TeX/LaTeX入門](https://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
 
-### Maven / Svelte
+### Maven / Vue.js
 
 *   [What is Maven? (⭐47)](https://github.com/KengoTODA/what-is-maven) - Kengo TODA
 
-### Perl / Svelte
+### Perl / Vue.js
 
 *   [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
 
@@ -868,7 +888,7 @@
 
 *   [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP
 
-### Python / Svelte
+### Python / Yii
 
 *   [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, `trl:` 相川 利樹 (PDF)
 
@@ -890,7 +910,7 @@
 
 ## [Nov 18 - Nov 24, 2013](/content/2013/46/README.md)
 
-### PHP / Svelte
+### PHP / Vue.js
 
 *   [PSR-2 – コーディングスタイルガイド (⭐33)](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
@@ -903,11 +923,11 @@
 
 ### JavaScript / Backbone.js
 
-*   [Backboneドキュメント日本語訳 (⭐212)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
+*   [Backboneドキュメント日本語訳 (⭐214)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 ## [Nov 04 - Nov 10, 2013](/content/2013/44/README.md)
 
-### PowerShell / Svelte
+### PowerShell / Yii
 
 *   [PowerShell基礎文法最速マスター](http://winscript.jp/powershell/202) - 牟田口大介
 

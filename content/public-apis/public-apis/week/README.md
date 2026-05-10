@@ -8,6 +8,20 @@ A collective list of free APIs
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
+### Cloud Storage & File Sharing
+
+- API: [FileUp (⭐0)](https://github.com/RealSinaSnp/FileUp)
+
+  Description: Temporary file hosting with upload API, expiration times, and view limits
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Cryptocurrency
 
 - API: [Alpha (Mossland)](https://alpha.moss.land/developers)
@@ -37,6 +51,17 @@ A collective list of free APIs
 
 
 ### Development
+
+- API: [BrewPage](https://brewpage.app)
+
+  Description: Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
 
 - API: [isitdownstatus](https://isitdownstatus.com)
 
@@ -136,6 +161,47 @@ A collective list of free APIs
 
 
 
+### Finance
+
+- API: [Helium](https://heliumtrades.com/mcp-page/)
+
+  Description: News with media bias scoring, balanced news synthesis, live market data, AI options pricing
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [IBANforge](https://api.ibanforge.com)
+
+  Description: IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Food & Drink
+
+- API: [RecipeAPI](https://recipeapi.io)
+
+  Description: Recipes, ingredients, nutrition data and cooking instructions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Government
 
 - API: [CPFHub](https://cpfhub.io)
@@ -168,6 +234,48 @@ A collective list of free APIs
   Description: Food and nutrition data API with recipe search
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Jobs
+
+- API: [AI Dev Jobs](https://aidevboard.com/openapi.yaml)
+
+  Description: AI/ML engineering job aggregator with REST, RSS, and MCP endpoints
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Groq](https://console.groq.com/docs/quickstart)
+
+  Description: Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Music
+
+- API: [Verome (⭐211)](https://github.com/Kirazul/Verome-API)
+
+  Description: Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm
+
+  Auth: No
 
   HTTPS: Yes
 

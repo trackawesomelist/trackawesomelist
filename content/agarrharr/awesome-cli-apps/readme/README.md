@@ -153,7 +153,7 @@ Inspired by the [awesome (⭐461k)](https://github.com/sindresorhus/awesome) lis
 ### Movies
 
 *   [moviemon (⭐227)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [movie (⭐176)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Games
 
@@ -259,13 +259,13 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Docker
 
-*   [lstags (⭐343)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
-*   [decompose (⭐131)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-*   [kool (⭐717)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐716)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -381,7 +381,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [decktape (⭐2.4k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 *   [mdp (⭐5.2k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
-*   [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
+*   [slides (⭐12k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 *   [marp (⭐3.5k)](https://github.com/marp-team/marp-cli) - Export Markdown to HTML/PDF/Powerpoint presentations.
 
 ### Calendars
@@ -445,11 +445,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [QuickWall (⭐193)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 *   [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 *   [starship (⭐57k)](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
-*   [gowall (⭐2.2k)](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+*   [gowall (⭐2.2k)](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
+*   [cwal (⭐110)](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ### Shell Utilities
 
-*   [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐809)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
@@ -462,7 +463,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### System Interaction Utilities
 
-*   [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
+*   [fastfetch (⭐23k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 *   [battery-level-cli (⭐42)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 *   [brightness-cli (⭐205)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐12)](https://github.com/sondreb/win-brightness)).
 *   [Clipboard (⭐5.8k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
@@ -511,9 +512,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Browser Replacement
 
-*   [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+*   [s (⭐2.6k)](https://github.com/zquestz/s) - Open a web search in your terminal.
 *   [hget (⭐388)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [mapscii (⭐9.1k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 *   [nasa-cli (⭐102)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
 *   [getnews.tech (⭐171)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 *   [trino (⭐143)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
@@ -622,7 +623,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [dua-cli (⭐5.8k)](https://github.com/Byron/dua-cli) - Disk usage analyzer.
 *   [duf (⭐15k)](https://github.com/muesli/duf) - A better `df` alternative.
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
-*   [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+*   [dutree (⭐871)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 *   [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
@@ -702,7 +703,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Git
 
-*   [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
+*   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - Interactive git tool.
 *   [git-stats (⭐6.6k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 *   [tig (⭐13k)](https://github.com/jonas/tig) - Text-mode interface for git.

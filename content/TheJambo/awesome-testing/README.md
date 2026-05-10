@@ -2,15 +2,29 @@
 
 A curated list of testing resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 2.2K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 2.3K · 🏷️ Testing
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
+
+## [May 10, 2026](/content/2026/05/10/README.md)
+
+### Software / API Testing
+
+*   [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
+
+### Software / AI & LLM Testing
+
+*   [Evaliphy (⭐16)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+
+### Software / Visual Testing
+
+*   [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
 
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
 ### Software / Service Virtualization
 
-*   [fakecloud (⭐163)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+*   [fakecloud (⭐267)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
@@ -28,13 +42,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [Tenro (⭐1)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
-
-## [Mar 30, 2026](/content/2026/03/30/README.md)
-
-### Software / AI & LLM Testing
-
-*   [Litmus (⭐3)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
+*   [Tenro (⭐5)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 
 ## [Mar 25, 2026](/content/2026/03/25/README.md)
 
@@ -69,13 +77,9 @@ A curated list of testing resources
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
-### Software / Test Management
-
-*   [Gwirian](https://www.gwirian.com) - Open source BDD test management for QA teams. Given/When/Then scenarios, search, dashboards; self-host or hosted.
-
 ### Software / Test Automation Frameworks
 
-*   [ai-natural-language-tests (⭐15)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+*   [ai-natural-language-tests (⭐17)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 *   [OpenTester (⭐25)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
@@ -105,17 +109,17 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [mockd (⭐116)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [mockd (⭐121)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
 
 ### Blogs / A/B Testing
 
-*   [And others (⭐107)](https://github.com/ChristoWolf/awesome-testing-blogs)
+*   [And others (⭐108)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## [Feb 19, 2026](/content/2026/02/19/README.md)
 
 ### Software / Visual Testing
 
-*   [Sherlo (⭐76)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+*   [Sherlo (⭐77)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
 ## [Feb 18, 2026](/content/2026/02/18/README.md)
 
@@ -127,13 +131,13 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Performance Engineering (⭐21)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+*   [Awesome Performance Engineering (⭐23)](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 
 ## [Feb 15, 2026](/content/2026/02/15/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [voicetest (⭐12)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+*   [voicetest (⭐19)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Software / Visual Testing
 
@@ -141,7 +145,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [flutter-skill (⭐177)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+*   [flutter-skill (⭐240)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 *   [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
 
 ### Newsletters / A/B Testing
@@ -169,7 +173,7 @@ A curated list of testing resources
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐20k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐21k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 
@@ -206,7 +210,7 @@ A curated list of testing resources
 ### Software / API Testing
 
 *   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
-*   [Swagger Coverage Tool (⭐20)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+*   [Swagger Coverage Tool (⭐22)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
 
@@ -234,7 +238,7 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-*   [Hercules (⭐980)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐1k)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
@@ -258,7 +262,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐660)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐677)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
@@ -315,12 +319,6 @@ A curated list of testing resources
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
-## [Sep 27, 2022](/content/2022/09/27/README.md)
-
-### Software / Screen Recording & Session Replays
-
-*   [Replayable](https://replayable.io) - Desktop dashcam for capturing manual testing sessions.
-
 ## [Jul 23, 2022](/content/2022/07/23/README.md)
 
 ### Software / Test Data Management
@@ -363,7 +361,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐529)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐527)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -417,7 +415,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [How They Test (⭐6.7k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+*   [How They Test (⭐6.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## [Dec 29, 2019](/content/2019/12/29/README.md)
 
@@ -539,11 +537,11 @@ A curated list of testing resources
 
 *   [Falsehoods (⭐27k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐48k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐971)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐972)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐456k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐461k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.9k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
