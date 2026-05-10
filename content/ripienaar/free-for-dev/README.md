@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 10, 2026](/content/2026/05/10/README.md)
+
+### Analytics, Events and Statistics
+
+*   [Gizmo Analytics](https://gizmoanalytics.io/) - Simple analytics for people managing lots of sites. Install manually or let Claude/Cursor do it for you. Free for up to 10k events/month.
+
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### Education and Career Development
@@ -24,7 +30,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Messaging and Streaming
 
-*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is limited to local development only and free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
 
 ## [May 05, 2026](/content/2026/05/05/README.md)
 

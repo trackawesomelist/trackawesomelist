@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 
+### Fundamentals / Utility
+
+*   [zdu (⭐0)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
+
 ### Multimedia & Graphics / GUI
 
 *   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
@@ -62,7 +66,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐38)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
 ### Data & Science / Database
 
@@ -207,7 +211,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Graphics Library
 
-*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐18)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ### Multimedia & Graphics / GUI
 
@@ -381,7 +385,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig version manager + project starter. Written in Rust. Bins available for macOS/windows/linux.
+*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 
 ### Data & Science / Database
 

@@ -709,7 +709,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [SuprSend](https://www.suprsend.com/) - SuprSend is a notification infrastructure that streamlines your product notifications with an API-first approach. Create and deliver transactional, crons, and engagement notifications on multiple channels with a single notification API. In free plan you get 10,000 notifications per month, including different workflow nodes such as digests, batches, multi-channels, preferences, tenants, broadcasts and more.
 *   [synadia.com](https://synadia.com/ngs) - [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections, and 5GB of data per month.
 *   [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
-*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
+*   [vask](https://vask.dev) - Realtime messaging service, Pusher-compatible. Dev tier is limited to local development only and free with 100 concurrent connections, 1,000,000 broadcasts/month, unlimited client events, 32kb message size.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1468,6 +1468,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
 *   [Expensify](https://www.expensify.com/) - Expense reporting, free personal reporting approval workflow
 *   [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
+*   [Gizmo Analytics](https://gizmoanalytics.io/) - Simple analytics for people managing lots of sites. Install manually or let Claude/Cursor do it for you. Free for up to 10k events/month.
 *   [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open-source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy-to-use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. The free tier is for non-commercial use and includes unlimited sites, six months of data retention, and 100k pageviews/month.
 *   [Google Analytics](https://analytics.google.com/) - Google Analytics
 *   [heap.io](https://heap.io) - Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.

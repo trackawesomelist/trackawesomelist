@@ -31,6 +31,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
+*   [go-snk (⭐3)](https://github.com/SharkByteSoftware/go-snk) - Type-safe generic helpers for slices, maps, strings, errors, JSON, HTTP, and containers, organized as small independently adoptable packages.
 *   [relimpact (⭐10)](https://github.com/hashmap-kz/relimpact) - Fast API compatibility reports for Go projects.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
@@ -76,7 +77,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Email
 
-*   [tickstem/verify (⭐0)](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
+*   [tickstem/verify (⭐2)](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
 
 ### Job Scheduler
 
@@ -84,7 +85,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [macwifi (⭐1)](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
+*   [macwifi (⭐2)](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
 
 ### Security
 
@@ -92,7 +93,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Mock
 
-*   [gomock (⭐5)](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
+*   [gomock (⭐6)](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
 
 ### Utilities
 
@@ -104,7 +105,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [Fox (⭐11)](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
+*   [Fox (⭐12)](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -187,7 +188,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Video
 
-*   [manifestor (⭐7)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+*   [manifestor (⭐8)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -258,7 +259,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Advanced Console UIs
 
 *   [chroma16 (⭐1)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
-*   [lazyenv (⭐37)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐46)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ### Embeddable Scripting Languages
 
@@ -5623,7 +5624,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐717)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐343)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐32)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐309)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐71k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.

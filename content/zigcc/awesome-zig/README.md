@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 10, 2026](/content/2026/05/10/README.md)
+
+### Fundamentals / Utility
+
+*   [zdu (⭐0)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### Fundamentals / Package and Version Manager
@@ -66,7 +72,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐38)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -211,7 +217,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Graphics Library
 
-*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐18)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 
@@ -438,7 +444,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig version manager + project starter. Written in Rust. Bins available for macOS/windows/linux.
+*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 
 ## [Oct 15, 2025](/content/2025/10/15/README.md)
 

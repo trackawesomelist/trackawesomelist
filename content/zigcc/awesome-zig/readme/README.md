@@ -153,7 +153,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [vezel-dev/zig-sdk (⭐104)](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 *   [tristanisham/zvm (⭐950)](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
 *   [rosarp/nu-zigup (⭐1)](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
-*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig version manager + project starter. Written in Rust. Bins available for macOS/windows/linux.
+*   [weezy20/zv (⭐40)](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 
 ### Utility
 
@@ -173,8 +173,9 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [shepherdjerred/macos-cross-compiler (⭐404)](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐33)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
 *   [ghostty (⭐52k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
-*   [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [midasdf/zt (⭐38)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐37)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
+*   [zdu (⭐0)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 *   [zmx (⭐1.4k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 *   [ghext (⭐3)](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 *   [nrdmn/ilo\_license\_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
@@ -637,7 +638,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [rockorager/libvaxis (⭐1.8k)](https://github.com/rockorager/libvaxis) - Modern TUI library written in Zig.
 *   [zig-plotille (⭐14)](https://github.com/tammoippen/zig-plotille) - Terminal plotting library using Unicode braille characters.
 *   [xtxf (⭐18)](https://github.com/charlesrocket/xtxf) - The Matrix screensaver in Zig.
-*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐18)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ### GUI
 
