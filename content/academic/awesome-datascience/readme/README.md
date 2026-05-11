@@ -39,6 +39,11 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 <br>
 
+## $ [academic](https://academic.io/cli)
+
+    $ brew tap academic/tap
+    $ brew install academic
+
 ## Sponsors
 
 | Sponsor | Pitch                                         |
@@ -157,6 +162,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 ### Research & Knowledge Retrieval
 
 *   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐17)](https://github.com/connerlambden/bgpt-mcp)
+*   [Chunk Tuner (⭐0)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
 
 ### Workflow
 
@@ -198,6 +204,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 ### Free Courses
 
 **[`^        back to top        ^`](#awesome-data-science)**
+
+*   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
 
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 

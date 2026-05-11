@@ -6,6 +6,16 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Research & Knowledge Retrieval
+
+*   [Chunk Tuner (⭐0)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
+
+### Free Courses
+
+*   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Tools

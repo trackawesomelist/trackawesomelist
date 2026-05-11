@@ -6,6 +6,52 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Documents & Productivity
+
+- API: [BuildPDF](https://buildpdf.co/api/docs)
+
+  Description: Convert HTML, images, and text to PDF
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Geocoding
+
+- API: [ApogeoAPI](https://apogeoapi.com)
+
+  Description: Bundled API for countries, states, cities, IP geolocation, and live exchange rates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Hugging Face](https://huggingface.co)
+
+  Description: AI model hub with inference API for NLP, computer vision, and audio
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Cloud Storage & File Sharing
