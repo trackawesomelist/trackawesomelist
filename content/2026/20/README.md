@@ -1,12 +1,147 @@
 # Awesome List Updates on May 18 - May 24, 2026
 
-9 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### Productivity
+
+*   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
+## [2. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+
+### Web-Based
+
+*   Prestige ([repo (⭐402)](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
+
+## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+
+### Scanning / Sub Domain Enumeration
+
+*   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
+
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+
+### Tools / App Vulnerability Scanners
+
+*   [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in : Android playstore, iOS Appstore, Huawei AppGallery
+
+## [5. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+
+### Other
+
+*   [cmakefmt (⭐14)](https://github.com/cmakefmt/cmakefmt) - Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-xray (⭐1)](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [`[MIT]`](https://opensource.org/licenses/MIT)
+
+## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Projects / Data Ingestion / ETL
+
+*   [dlt (⭐5.3k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
+
+## [7. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+
+### 🌍 In your language
+
+*   🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
+
+### 📦 Third Party Apps
+
+*   [C-Gate Web Bridge (⭐4)](https://github.com/dougrathbone/cgateweb-homeassistant) - Bridge Clipsal C-Bus lighting and automation systems to Home Assistant via MQTT with auto-discovery (4★).
+
+### ✍️ Blogs / English
+
+*   [HomeTechHacker](https://hometechhacker.com/) - DIY smart-home guides, reviews, and advice.
+*   [Intermittent Technology](https://blog.quindorian.org/) - Quindor's personal blog covering smart home, networking, and adjacent tech.
+*   [KPeyanski](https://peyanski.com/) - Tutorials and walkthroughs covering automations, AI integrations, and energy management by Kiril Peyanski.
+*   [fixtse](https://fixtse.com/) - Hardware reviews and DIY guides for presence detection, voice assistants, and local AI by Sergio Romero.
+*   [Michael Leen](https://michaelsleen.com/) - Practical setup advice and gear reviews aimed at people building their first smart home.
+*   [Phil Hawthorne](https://philhawthorne.com/) - Field notes on integrations, presence detection, and household automations from a long-time podcaster.
+*   [Frenck](https://frenck.dev/) - Behind-the-scenes posts on open source, project leadership, and personal automation experiments by Franck Nijhof.
+
+### ✍️ Blogs / 🌍 In other languages
+
+*   🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
+*   🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
+*   🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
+
+### 📺 YouTube Channels / English
+
+*   [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy) - Smart-home tutorials, automations, and gear reviews by Alan Byrne (113K subs).
+*   [mostlychris](https://www.youtube.com/@mostlychris) - Smart-home tutorials and gadget reviews by Chris West (39.9K subs).
+*   [KPeyanski](https://www.youtube.com/@kpeyanski) - Hands-on tutorials for hardware projects, dashboards, and integrations by Kiril Peyanski (33.6K subs).
+*   [This Smart House](https://www.youtube.com/@thissmarthouse) - Beginner-friendly setup walkthroughs and product reviews by Ryan Holland (33.5K subs).
+*   [SlackerLabs](https://www.youtube.com/@SlackerLabs) - Automation, scripting, and tinkering walkthroughs by Jeffrey Stone (30.6K subs).
+*   [Michael Leen](https://www.youtube.com/@michaelsleen) - Smart-home tutorials and integration walkthroughs (26.3K subs).
+*   [Technithusiast](https://www.youtube.com/@technithusiast) - Tutorials, integrations, and automations by Michael Montaque (22.7K subs).
+*   [3ATIVE VFX](https://www.youtube.com/@3ATIVE) - Smart-home automations and integrations by VFX artist David Martin (20.5K subs).
+*   [Smart Home Australia](https://www.youtube.com/@smart_home_australia) - Australia-flavored smart-home reviews and tutorials by Paul Toner (20.4K subs).
+*   [CTech\&Media](https://www.youtube.com/@CTechMedia) - Smart-home reviews and tutorials by Charly Schulte (17.7K subs).
+*   [Frenck | Home Assistant & Smart Home](https://www.youtube.com/@frenck) - Lead of the Home Assistant project, with occasional videos on his own experience and inside views on what is happening in the Home Assistant world (9.7K subs).
+
+### 📺 YouTube Channels / 🌍 In other languages
+
+*   🇸🇦 [Smart Tech Arabic](https://www.youtube.com/@SmartTechArabic) - Tutorials in Arabic by Shady Nafie (97.8K subs).
+*   🇧🇷 [Descomplicando Tech](https://www.youtube.com/@DescomplicandoTech) - Smart-home guides by Fabricio Goncalves (15.8K subs).
+*   🇫🇷 [AyLabs](https://www.youtube.com/@ay_labs) - Tutorials, integrations, and automation walkthroughs by Aymeric Le Feyer (11.7K subs).
+*   🇩🇪 [simon42](https://www.youtube.com/@simon42) - Tutorials, automations, and dashboard guides by Simon Müller (192K subs).
+*   🇩🇪 [haus:automation](https://www.youtube.com/@haus_automation) - Tutorials, integrations, and automation walkthroughs by Matthias Kleine (136K subs).
+*   🇩🇪 [SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) - DIY smart-home builds and guides by Daniel Scheidler (34.6K subs).
+*   🇩🇪 [Tristans Smartes Heim](https://www.youtube.com/@tristanssmartesheim) - Smart-home setup guides and integrations by Tristan Küsters (13.7K subs).
+*   🇮🇹 [DinamoTech](https://www.youtube.com/@DinamoTech) - Smart-home tutorials and reviews by Francesco Cova (77.2K subs).
+*   🇮🇹 [Ipensieridellarchitetto](https://www.youtube.com/@ipensieridellarchitetto) - Domotics, technology, and AI walkthroughs (14.8K subs).
+*   🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
+*   🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (44.8K subs).
+
+### Alternative Home Automation Software / 🌍 In other languages
+
+*   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
+
+## [8. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
+
+## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+
+### Open Source Extensions / Progressive Web Application
+
+*   [graphcommerce (⭐359)](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
+
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Miscellaneous
+
+*   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐201)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [CatchDoms](https://catchdoms.com) - Aggregator of expired and dropping domain listings from 16 marketplaces, with SEO enrichment (backlinks, Trust Flow, Wayback history) and a quality score. Free plan: 10 unlocked listings, 5 favorites, 3 saved searches. 7-day Pro trial on signup includes full REST API and MCP server access.
+
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### CLI
+
+*   [diesel-guard (⭐113)](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous PostgreSQL migration patterns. It works seamlessly with PostgreSQL SQL files and integrates natively with projects using Diesel and SQLx.
+
+### Schema / Diagrams
+
+*   [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
+
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### Development Tools & Utilities
+
+*   [andrej-karpathy-skills (⭐3)](https://github.com/swarmclawai/andrej-karpathy-skills) - Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.
+
+## [14. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -23,19 +158,23 @@
 
 *   [Terraform Academy OpenTofu Practitioner Path](https://www.terraformacademy.app/max/labs/opentofu-basics.html) - Interactive browser-based lab covering native state and plan encryption with PBKDF2 and AES-GCM, plus a full practitioner readiness path that reuses HCL fundamentals applicable to OpenTofu 1.6 and later.
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
 *   [zenflow (⭐2)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [luminal-ai/luminal (⭐2.8k)](https://github.com/luminal-ai/luminal) \[[luminal](https://crates.io/crates/luminal)] - High-performance general-purpose inference compiler with RISC-style architecture, search-based optimization, and native CUDA/Metal backends. Supports transformers, convnets, and autograd. [![CI Status](https://img.shields.io/github/actions/workflow/status/luminal-ai/luminal/test-core.yml?style=for-the-badge\&logo=github-actions\&logoColor=white\&branch=main)](https://github.com/luminal-ai/luminal/actions)
 
 ### Registries / Web programming
 
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -85,13 +224,13 @@
 
 *   [JSON:API (⭐7.7k) (⭐7.7k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SSH Keys Manager (⭐51)](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing local SSH keys and Git identities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [6. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Documents & Productivity
 
@@ -123,6 +262,20 @@
 
 
 
+### Jobs
+
+- API: [HeroHunt People Search](https://www.herohunt.ai/people-search-api)
+
+  Description: Search 1 billion people profiles across LinkedIn and GitHub for talent sourcing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Machine Learning
 
 - API: [Hugging Face](https://huggingface.co)
@@ -137,7 +290,35 @@
 
 
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Security
+
+- API: [dead-drop](https://api.dead-drop.xyz/api/v1/docs)
+
+  Description: Ephemeral zero-knowledge encrypted data sharing
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [IPMA](https://api.ipma.pt/open-data/)
+
+  Description: Portuguese weather and climate data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [zert](https://github.com/oxcl/zert)
 
@@ -156,7 +337,7 @@
 *   [pnpm (bgowers) (⭐1)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 *   [undo-dir (⭐6)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [21. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -166,7 +347,7 @@
 
 *   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 

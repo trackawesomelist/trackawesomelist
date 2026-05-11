@@ -6,11 +6,17 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 [ Daily / [Weekly](/content/run-as-root/awesome-magento2/week/README.md) / [Overview](/content/run-as-root/awesome-magento2/readme/README.md) ]
 
+## [May 11, 2026](/content/2026/05/11/README.md)
+
+### Open Source Extensions / Progressive Web Application
+
+*   [graphcommerce (⭐359)](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
+
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
 ### Open Source Extensions / CMS
 
-*   [hyva-ai-tools (⭐61)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+*   [hyva-ai-tools (⭐65)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 
 ## [Apr 20, 2026](/content/2026/04/20/README.md)
 
@@ -29,8 +35,8 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 *   [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
 *   [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
-*   [Alokai (⭐11k)](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
-*   [ScandiPWA (⭐552)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
+*   [Alokai (⭐11k)](https://github.com/vuestorefront/vue-storefront) - Formerly Vue Storefront — headless frontend framework.
+*   [ScandiPWA (⭐549)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 *   [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 *   [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
 *   [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
@@ -41,31 +47,31 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Development Utilities
 
-*   [Magewire PHP (⭐256)](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+*   [Magewire PHP (⭐258)](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
 
 ### Open Source Extensions / Deployment
 
-*   [easyaudit-cli (⭐14)](https://github.com/crealoz/easyaudit-cli) - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
+*   [easyaudit-cli (⭐14)](https://github.com/crealoz/easyaudit-cli) 🫡 - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
 
 ### Open Source Extensions / CMS
 
-*   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
+*   [module-page-builder-widget (⭐29)](https://github.com/mage-os/module-page-builder-widget) 🫡 - Native Magento Page Builder support for CMS Widgets
 
 ### Open Source Extensions / Adminhtml / Backend
 
-*   [magento2-hyva-admin (⭐175)](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
-*   [theme-adminhtml-m137 (⭐36)](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
+*   [magento2-hyva-admin (⭐175)](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+*   [theme-adminhtml-m137 (⭐36)](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
 
 ### Open Source Extensions / Infrastructure
 
-*   [magento-cache-clean (⭐48)](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
-*   [module-theme-optimization (⭐41)](https://github.com/mage-os/module-theme-optimization) - bfcache, speculative loading, and view transitions for Magento
+*   [magento-cache-clean (⭐48)](https://github.com/mage-os/magento-cache-clean) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
+*   [module-theme-optimization (⭐41)](https://github.com/mage-os/module-theme-optimization) 🫡 - bfcache, speculative loading, and view transitions for Magento
 
 ### Open Source Extensions / Progressive Web Application
 
-*   [magento2-default-theme (⭐74)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
-*   [magento2-default-theme-csp (⭐15)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
+*   [magento2-default-theme (⭐76)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
 *   [magento2-theme-module (⭐22)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
+*   [magento2-default-theme-csp (⭐15)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
 
 ### Blogs / Other
 
@@ -129,13 +135,13 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Tools / Meet Magento
 
-*   [Warden (⭐462)](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
+*   [Warden (⭐464)](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 *   [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 ### Open Source Extensions / Development Utilities
 
 *   [Yireo LokiComponents (⭐9)](https://github.com/yireo/Yireo_LokiComponents) 🫡 - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
-*   [Scope Hints (⭐167)](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
+*   [Scope Hints (⭐171)](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 
 ### Open Source Extensions / Adminhtml / Backend
 
@@ -147,7 +153,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Blogs / Personal Blogs
 
-*   [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
+*   [Jigar Karangiya](https://jigarkarangiya.com/) 🫡 - Personal blog on Magento 2 and Adobe Commerce development.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -194,13 +200,13 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Tools / Meet Magento
 
-*   [Magento 2 Url Data Integrity Checker (⭐281)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
+*   [Magento 2 Url Data Integrity Checker (⭐282)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
 
 ## [Jul 24, 2023](/content/2023/07/24/README.md)
 
 ### Open Source Extensions / Adminhtml / Backend
 
-*   [Disable Stock Reservation (⭐231)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) 🫡 - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+*   [Disable Stock Reservation (⭐231)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
 ## [Jun 21, 2023](/content/2023/06/21/README.md)
 
@@ -235,8 +241,8 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Tools / Meet Magento
 
-*   [Magento 2 Database Synchronizer (⭐82)](https://github.com/jellesiderius/mage-db-sync) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
-*   [Subodha Magento2 Gulp Integration (⭐74)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp integration.
+*   [Magento 2 Database Synchronizer (⭐81)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
+*   [Subodha Magento2 Gulp Integration (⭐73)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp integration.
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
@@ -256,10 +262,10 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Tools / Meet Magento
 
-*   [PhpStorm Magento2 Extension (⭐457)](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
-*   [markshust/docker-magento (⭐2.8k)](https://github.com/markshust/docker-magento) - Mark Shust's Docker configuration for Magento.
+*   [PhpStorm Magento2 Extension (⭐458)](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
+*   [markshust/docker-magento (⭐2.9k)](https://github.com/markshust/docker-magento) - Mark Shust's Docker configuration for Magento.
 *   [Mage Chrome Toolbar (⭐337)](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
-*   [AmpersandHQ/ampersand-magento2-upgrade-patch-helper (⭐333)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
+*   [AmpersandHQ/ampersand-magento2-upgrade-patch-helper (⭐334)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
 *   [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
 *   [Masquerade (⭐232)](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.
 *   [Documentation Search for Alfred (⭐10)](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Alfred workflow integrating the official Magento 2 documentation search.
@@ -285,17 +291,17 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Search
 
-*   [FastSimpleImport2 (⭐136)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+*   [FastSimpleImport2 (⭐137)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 
 ### Open Source Extensions / CMS
 
-*   [Magento 2 Blog Extension by Magefan (⭐270)](https://github.com/magefan/module-blog) 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
+*   [Magento 2 Blog Extension by Magefan (⭐269)](https://github.com/magefan/module-blog) 🔥 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 *   [Mageplaza Blog Extension (⭐122)](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
 *   [Opengento GDPR (⭐143)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
 
 ### Open Source Extensions / Marketing
 
-*   [Google Tag Manager (⭐263)](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento 2.
+*   [Google Tag Manager (⭐262)](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento 2.
 *   [Magento 2 PDF (⭐57)](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on wkhtmltopdf.
 
 ### Open Source Extensions / Adminhtml / Backend
@@ -304,8 +310,8 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 *   [Custom SMTP (⭐327)](https://github.com/magepal/magento2-gmail-smtp-app) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 *   [Sentry.io (⭐185)](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
 *   [Guest to Customer (⭐68)](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
-*   [Customer Force Login (⭐168)](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
-*   [FireGento Fast Simple Import (⭐136)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+*   [Customer Force Login (⭐169)](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
+*   [FireGento Fast Simple Import (⭐137)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 *   [Magento 2 Import Framework (⭐128)](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 *   [Preview Checkout Success Page (⭐76)](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 *   [PageNotFound (⭐43)](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
@@ -365,7 +371,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Development Utilities
 
-*   [bitExpert/phpstan-magento (⭐147)](https://github.com/bitExpert/phpstan-magento) - Magento-specific extension for PHPStan.
+*   [bitExpert/phpstan-magento (⭐147)](https://github.com/bitExpert/phpstan-magento) 🫡 - Magento-specific extension for PHPStan.
 
 ### Blogs / Company Blogs
 
@@ -394,7 +400,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Deployment
 
-*   [Github Actions for Magento2 (⭐140)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions.
+*   [Github Actions for Magento2 (⭐141)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions.
 
 ### Open Source Extensions / Infrastructure
 
@@ -410,7 +416,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐552)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux.
+*   [ScandiPWA Theme (⭐549)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux.
 
 ## [Dec 27, 2018](/content/2018/12/27/README.md)
 
@@ -505,7 +511,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Development Utilities
 
-*   [Developer Toolbar (⭐306)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+*   [Developer Toolbar (⭐305)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 *   [Advanced Template Hints (⭐287)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 *   [Config ImportExport (⭐164)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI-based config management.
 *   [Whoops Exceptions (⭐102)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
@@ -525,7 +531,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Search
 
-*   [Elastic Suite Integration (⭐805)](https://github.com/Smile-SA/elasticsuite/) 🫡 - Elastic Suite Integration.
+*   [Elastic Suite Integration (⭐803)](https://github.com/Smile-SA/elasticsuite/) 🫡 - Elastic Suite Integration.
 *   [Algolia Search Integration (⭐188)](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
 
 ### Open Source Extensions / Marketing
@@ -534,7 +540,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Open Source Extensions / Adminhtml / Backend
 
-*   [Checkout Tester (⭐93)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+*   [Checkout Tester (⭐92)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 
 ### Open Source Extensions / Proprietary Extensions
 
@@ -591,5 +597,5 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Other Magento 2 related Awesome Lists / Other
 
-*   [Awesome PHP (⭐32k)](https://github.com/ziadoz/awesome-php) - A curated list of awesome PHP resources.
+*   [Awesome PHP (⭐33k)](https://github.com/ziadoz/awesome-php) - A curated list of awesome PHP resources.
 *   [Mageres (⭐1k)](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.

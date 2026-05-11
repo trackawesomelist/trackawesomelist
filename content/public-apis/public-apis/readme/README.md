@@ -1181,26 +1181,27 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Jobs
 
-| API                                                                                             | Description                                                        | Auth     | HTTPS | CORS    |
-| :---------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :------- | :---- | :------ |
-| [AI Dev Jobs](https://aidevboard.com/openapi.yaml)                                              | AI/ML engineering job aggregator with REST, RSS, and MCP endpoints | No       | Yes   | Yes     |
-| [Adzuna](https://developer.adzuna.com/overview)                                                 | Job board aggregator                                               | `apiKey` | Yes   | Unknown |
-| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh)                           | API for Job board aggregator in Europe / Remote                    | No       | Yes   | Yes     |
-| [Arbeitsamt](https://jobsuche.api.bund.dev/)                                                    | API for the "Arbeitsamt", which is a german Job board aggregator   | `OAuth`  | Yes   | Unknown |
-| [Careerjet](https://www.careerjet.com/partners/api/)                                            | Job search engine                                                  | `apiKey` | No    | Unknown |
-| [DevITjobs UK](https://devitjobs.uk/job_feed.xml)                                               | Jobs with GraphQL                                                  | No       | Yes   | Yes     |
-| [Findwork](https://findwork.dev/developers/)                                                    | Job board                                                          | `apiKey` | Yes   | Unknown |
-| [GraphQL Jobs](https://graphql.jobs/docs/api/)                                                  | Jobs with GraphQL                                                  | No       | Yes   | Yes     |
-| [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                                        | Job aggregator                                                     | `apiKey` | Yes   | Unknown |
-| [Jooble](https://jooble.org/api/about)                                                          | Job search engine                                                  | `apiKey` | Yes   | Unknown |
-| [Juju](http://www.juju.com/publisher/spec/)                                                     | Job search engine                                                  | `apiKey` | No    | Unknown |
-| [Open Skills (⭐210)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                           | No       | No    | Unknown |
-| [Reed](https://www.reed.co.uk/developers)                                                       | Job board aggregator                                               | `apiKey` | Yes   | Unknown |
-| [The Muse](https://www.themuse.com/developers/api/v2)                                           | Job board and company profiles                                     | `apiKey` | Yes   | Unknown |
-| [Upwork](https://developers.upwork.com/)                                                        | Freelance job board and management system                          | `OAuth`  | Yes   | Unknown |
-| [USAJOBS](https://developer.usajobs.gov/)                                                       | US government job board                                            | `apiKey` | Yes   | Unknown |
-| [WhatJobs](https://www.whatjobs.com/affiliates)                                                 | Job search engine                                                  | `apiKey` | Yes   | Unknown |
-| [ZipRecruiter](https://www.ziprecruiter.com/publishers)                                         | Job search app and website                                         | `apiKey` | Yes   | Unknown |
+| API                                                                                             | Description                                                                     | Auth     | HTTPS | CORS    |
+| :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :------- | :---- | :------ |
+| [AI Dev Jobs](https://aidevboard.com/openapi.yaml)                                              | AI/ML engineering job aggregator with REST, RSS, and MCP endpoints              | No       | Yes   | Yes     |
+| [Adzuna](https://developer.adzuna.com/overview)                                                 | Job board aggregator                                                            | `apiKey` | Yes   | Unknown |
+| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh)                           | API for Job board aggregator in Europe / Remote                                 | No       | Yes   | Yes     |
+| [Arbeitsamt](https://jobsuche.api.bund.dev/)                                                    | API for the "Arbeitsamt", which is a german Job board aggregator                | `OAuth`  | Yes   | Unknown |
+| [Careerjet](https://www.careerjet.com/partners/api/)                                            | Job search engine                                                               | `apiKey` | No    | Unknown |
+| [DevITjobs UK](https://devitjobs.uk/job_feed.xml)                                               | Jobs with GraphQL                                                               | No       | Yes   | Yes     |
+| [Findwork](https://findwork.dev/developers/)                                                    | Job board                                                                       | `apiKey` | Yes   | Unknown |
+| [GraphQL Jobs](https://graphql.jobs/docs/api/)                                                  | Jobs with GraphQL                                                               | No       | Yes   | Yes     |
+| [HeroHunt People Search](https://www.herohunt.ai/people-search-api)                             | Search 1 billion people profiles across LinkedIn and GitHub for talent sourcing | `apiKey` | Yes   | Yes     |
+| [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                                        | Job aggregator                                                                  | `apiKey` | Yes   | Unknown |
+| [Jooble](https://jooble.org/api/about)                                                          | Job search engine                                                               | `apiKey` | Yes   | Unknown |
+| [Juju](http://www.juju.com/publisher/spec/)                                                     | Job search engine                                                               | `apiKey` | No    | Unknown |
+| [Open Skills (⭐210)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                        | No       | No    | Unknown |
+| [Reed](https://www.reed.co.uk/developers)                                                       | Job board aggregator                                                            | `apiKey` | Yes   | Unknown |
+| [The Muse](https://www.themuse.com/developers/api/v2)                                           | Job board and company profiles                                                  | `apiKey` | Yes   | Unknown |
+| [Upwork](https://developers.upwork.com/)                                                        | Freelance job board and management system                                       | `OAuth`  | Yes   | Unknown |
+| [USAJOBS](https://developer.usajobs.gov/)                                                       | US government job board                                                         | `apiKey` | Yes   | Unknown |
+| [WhatJobs](https://www.whatjobs.com/affiliates)                                                 | Job search engine                                                               | `apiKey` | Yes   | Unknown |
+| [ZipRecruiter](https://www.ziprecruiter.com/publishers)                                         | Job search app and website                                                      | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1525,6 +1526,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Classify](https://classify-web.herokuapp.com/#/api)                                                        | Encrypting & decrypting text messages                                                                | No       | Yes   | Yes     |
 | [Complete Criminal Checks](https://completecriminalchecks.com/Developers)                                   | Provides data of offenders from all U.S. States and Pureto Rico                                      | `apiKey` | Yes   | Yes     |
 | [CRXcavator](https://crxcavator.io/apidocs)                                                                 | Chrome extension risk scoring                                                                        | `apiKey` | Yes   | Unknown |
+| [dead-drop](https://api.dead-drop.xyz/api/v1/docs)                                                          | Ephemeral zero-knowledge encrypted data sharing                                                      | No       | Yes   | Yes     |
 | [Dehash.lt](https://github.com/Dehash-lt/api)                                                               | Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512                                              | No       | Yes   | Unknown |
 | [EmailRep](https://docs.emailrep.io/)                                                                       | Email address threat and risk prediction                                                             | No       | Yes   | Unknown |
 | [Escape (⭐14)](https://github.com/polarspetroll/EscapeAPI)                                                  | An API for escaping different kind of queries                                                        | No       | Yes   | No      |
@@ -1923,6 +1925,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Foreca](https://developer.foreca.com)                                                                                       | Weather                                                                              | `OAuth`      | Yes   | Unknown |
 | [HG Weather](https://hgbrasil.com/status/weather)                                                                            | Provides weather forecast data for cities in Brazil                                  | `apiKey`     | Yes   | Yes     |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)                                                | Provide weather information, earthquake information, and climate data                | No           | Yes   | Unknown |
+| [IPMA](https://api.ipma.pt/open-data/)                                                                                       | Portuguese weather and climate data                                                  | No           | Yes   | Unknown |
 | [MetaWeather](https://www.metaweather.com/api/)                                                                              | Weather                                                                              | No           | Yes   | No      |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation)                                                       | Weather and climate data                                                             | `User-Agent` | Yes   | Unknown |
 | [Micro Weather](https://m3o.com/weather/api)                                                                                 | Real time weather forecasts and historic data                                        | `apiKey`     | Yes   | Unknown |

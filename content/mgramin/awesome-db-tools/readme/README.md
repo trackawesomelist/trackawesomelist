@@ -96,12 +96,12 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 *   [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases.
 *   [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
-*   [Querybook (⭐2.2k)](https://github.com/pinterest/querybook) - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
+*   [Querybook (⭐2.3k)](https://github.com/pinterest/querybook) - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 *   [Slashbase (⭐1.3k)](https://github.com/slashbaseide/slashbase) - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
 *   [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
 *   [Toad](https://www.quest.com/toad/) - Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool.
 *   [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and PostgreSQL.
-*   [TOra (⭐295)](https://github.com/tora-tool/tora) - Open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
+*   [TOra (⭐294)](https://github.com/tora-tool/tora) - Open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
@@ -112,8 +112,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Antares SQL (⭐2.6k)](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
 *   [Azure Data Studio (⭐7.7k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 *   [Beekeeper Studio (⭐23k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
-*   [Clidey WhoDB (⭐4.7k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
-*   [DbGate (⭐6.9k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [Clidey WhoDB (⭐4.8k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+*   [DbGate (⭐7k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 *   [DB Lens (⭐273)](https://github.com/dblens/app) - Open Source PostgreSQL GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 *   [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
 *   [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
@@ -139,7 +139,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [SQLTools (⭐1.7k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 *   [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
 *   [Tabix (⭐2.3k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
-*   [TablePlus (⭐3.7k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+*   [TablePlus (⭐3.8k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 *   [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
 *   [Query.me](https://query.me) - Collaborative SQL editor in Notebook format. Let's you reference query results using JINJA, visualize data, and schedule runs and exports.
 
@@ -151,9 +151,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [pg\_activity (⭐3k)](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 *   [pg\_top (⭐120)](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
 *   [pspg (⭐2.7k)](https://github.com/okbob/pspg) - PostgreSQL Pager.
+*   [diesel-guard (⭐113)](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous PostgreSQL migration patterns. It works seamlessly with PostgreSQL SQL files and integrates natively with projects using Diesel and SQLx.
 *   [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 *   [sqlite-utils (⭐2k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
-*   [SQLLine (⭐656)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐657)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 *   [usql (⭐9.9k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### dbcli
@@ -172,12 +173,12 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [2bass (⭐44)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
 *   [Atlas (⭐8.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Bytebase (⭐14k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
-*   [flyway (⭐9.7k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [flyway (⭐9.8k)](https://github.com/flyway/flyway) - Database migration tool.
 *   [gh-ost (⭐13k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 *   [liquibase (⭐5.5k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 *   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 *   [node-pg-migrate (⭐1.5k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for PostgreSQL. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
-*   [pg-osc (⭐613)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
+*   [pg-osc (⭐614)](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
 *   [Prisma Migrate (⭐761)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 *   [Pyrseas (⭐407)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 *   [Reshape (⭐1.8k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
@@ -185,7 +186,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Skeema (⭐1.4k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 *   [Sqitch (⭐3.1k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 *   [sqldef (⭐3.1k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
-*   [yuniql (⭐426)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐427)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ### Code generation
 
@@ -197,6 +198,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Azimutt (⭐2.1k)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 *   [ChartDB (⭐22k)](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 *   [DrawDB (⭐37k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+*   [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 *   [ERAlchemy (⭐1.4k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 *   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 *   [Liam ERD (⭐4.8k)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
@@ -212,7 +214,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Design
 
-*   [Database Design (⭐498)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
+*   [Database Design (⭐500)](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
 *   [DBDiagram](https://dbdiagram.io) - A free, simple tool to draw ER diagrams by just writing code.
 *   [DbSchema](https://dbschema.com/) - Universal database designer for out-of-the-box schema management, schema documentation, design in a team, and deployment on multiple databases. DbSchema features tools for writing and executing queries, exploring the data, generating data, and building reports.
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
@@ -224,7 +226,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Samples
 
-*   [Oracle Database Sample Schemas (⭐913)](https://github.com/oracle/db-sample-schemas) - Sample schemas for Oracle Database.
+*   [Oracle Database Sample Schemas (⭐921)](https://github.com/oracle/db-sample-schemas) - Sample schemas for Oracle Database.
 
 ## API
 
@@ -241,7 +243,7 @@ Building API for your Data
 *   [prest (⭐4.5k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
 *   [Remult (⭐3.2k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 *   [restSQL (⭐148)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
-*   [resquel (⭐128)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [resquel (⭐127)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 *   [soul (⭐1.7k)](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
 *   [VulcanSQL (⭐793)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
@@ -260,33 +262,33 @@ Low-code and no-code platforms for application building
 
 ## Backup
 
-*   [BaRMan (⭐2.8k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [Databasus (⭐6.4k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
-*   [pgbackrest (⭐3.7k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐3.1k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [Databasus (⭐6.7k)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+*   [pgbackrest (⭐4k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 *   [pgcopydb (⭐1.5k)](https://github.com/dimitri/pgcopydb) - Copy a PostgreSQL database to a target PostgreSQL server (pg\_dump | pg\_restore on steroids).
-*   [pg\_probackup (⭐785)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
+*   [pg\_probackup (⭐789)](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 *   [Portabase (⭐745)](https://github.com/Portabase/portabase) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.
 
 ## Cloning
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for PostgreSQL to scale the development process.
-*   [clone\_schema (⭐202)](https://github.com/denishpatel/pg-clone-schema) - PostgreSQL clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐203)](https://github.com/denishpatel/pg-clone-schema) - PostgreSQL clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ## Monitoring/Statistics/Perfomance
 
-*   [ASH Viewer (⭐203)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [ASH Viewer (⭐206)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 *   [Metis](https://www.metisdata.io/product/troubleshooting) - Provides observability and performance tuning for SQL databases.
 *   [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
 *   [mssql-monitoring (⭐92)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 *   [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 *   [Percona Monitoring and Management (⭐1k)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
-*   [pganalyze collector (⭐396)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [pgbadger (⭐25)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
+*   [pganalyze collector (⭐399)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [pgbadger (⭐26)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 *   [pgDash](https://pgdash.io) - Measure and track every aspect of your PostgreSQL databases.
-*   [PgHero (⭐8.8k)](https://github.com/ankane/pghero) - A performance dashboard for PostgreSQL - health checks, suggested indexes, and more.
+*   [PgHero (⭐8.9k)](https://github.com/ankane/pghero) - A performance dashboard for PostgreSQL - health checks, suggested indexes, and more.
 *   [pgmetrics (⭐1.1k)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
-*   [pgMonitor (⭐702)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
+*   [pgMonitor (⭐705)](https://github.com/CrunchyData/pgmonitor) - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
 *   [pgMustard](https://www.pgmustard.com) - A user interface for PostgreSQL explain plans, plus tips to improve performance.
 *   [pgstats (⭐127)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 *   [pgwatch2 (⭐1.8k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
@@ -301,35 +303,35 @@ Low-code and no-code platforms for application building
 
 *   [pgSCV (⭐174)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and PostgreSQL-related services.
 *   [postgres\_exporter (⭐3.5k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
-*   [pg\_exporter (⭐341)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [pg\_exporter (⭐347)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Zabbix
 
 *   [Mamonsu (⭐188)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
+*   [pg\_monz (⭐161)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 *   [Pyora (⭐121)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
-*   [ZabbixDBA (⭐100)](https://github.com/anetrusov/ZabbixDBA) - Fast, flexible, and continuously developing plugin to monitor your RDBMS.
+*   [ZabbixDBA (⭐99)](https://github.com/anetrusov/ZabbixDBA) - Fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 ## Testing
 
 *   [DbFit (⭐243)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 *   [pgTAP (⭐1.1k)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
-*   [RegreSQL (⭐352)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+*   [RegreSQL (⭐354)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 *   [SQLancer (⭐1.7k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 ## HA/Failover/Sharding
 
 *   [Citus (⭐12k)](https://github.com/citusdata/citus) - PostgreSQL extension that distributes your data and your queries across multiple nodes.
 *   [patroni (⭐8.4k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐378)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [Percona XtraDB Cluster (⭐381)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [ShardingSphere (⭐21k)](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 *   [stolon (⭐4.8k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
 *   [pg\_auto\_failover (⭐1.3k)](https://github.com/citusdata/pg_auto_failover) - PostgreSQL extension and service for automated failover and high-availability.
 *   [pglookout (⭐189)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 *   [pgslice (⭐1.2k)](https://github.com/ankane/pgslice) - PostgreSQL partitioning as easy as pie.
 *   [PostgreSQL Automatic Failover (⭐347)](https://github.com/ClusterLabs/PAF) - High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.
-*   [autobase (⭐4.1k)](https://github.com/vitabaks/autobase) - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
+*   [autobase (⭐4.2k)](https://github.com/vitabaks/autobase) - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 *   [Vitess (⭐21k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ## Kubernetes
@@ -341,7 +343,7 @@ Low-code and no-code platforms for application building
 
 ## Configuration Tuning
 
-*   [MySQLTuner-perl (⭐9.4k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [MySQLTuner-perl (⭐9.5k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 *   [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com) - Free online tool to generate an optimized `postgresql.conf`.
 *   [pgtune (⭐1.1k)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 *   [postgresqltuner.pl (⭐2.7k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
@@ -362,8 +364,8 @@ Low-code and no-code platforms for application building
 *   [dbatools (⭐2.8k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 *   [Postgres.app (⭐7.7k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of PostgreSQL.
-*   [Elephant Shed (⭐228)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
-*   [Pigsty (⭐5k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+*   [Elephant Shed (⭐229)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Pigsty (⭐5.1k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ## Security
 
@@ -379,7 +381,7 @@ Low-code and no-code platforms for application building
 *   [SQLCheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 *   [SQLFluff (⭐9.7k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 *   [SQLLineage (⭐1.6k)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
-*   [TSQLLint (⭐233)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [TSQLLint (⭐231)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### Code Generators
 
@@ -399,7 +401,7 @@ Low-code and no-code platforms for application building
 ### Formatters
 
 *   [CodeBuff (⭐474)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [JSQLFormatter (⭐41)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
+*   [JSQLFormatter (⭐43)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
 *   [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
 *   [pgFormatter (⭐1.9k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
@@ -419,10 +421,10 @@ Low-code and no-code platforms for application building
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
 *   [jOOQ (⭐6.7k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
 *   [JSqlParser (⭐5.9k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-*   [libpg\_query (⭐1.4k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
-*   [More SQL Parsing! (⭐293)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+*   [libpg\_query (⭐1.5k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
+*   [More SQL Parsing! (⭐294)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 *   [sqlparse (⭐4k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
-*   [SQLGlot (⭐9.1k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐9.2k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ### Über SQL
 
@@ -431,7 +433,7 @@ Run SQL queries against anything
 *   [CloudQuery (⭐6.4k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [csvq (⭐1.6k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
 *   [dsq (⭐3.9k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-*   [MAT Calcite plugin (⭐176)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
+*   [MAT Calcite plugin (⭐177)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 *   [OctoSQL (⭐5.3k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [osquery (⭐23k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
@@ -443,14 +445,14 @@ Run SQL queries against anything
 
 ### Language Server Protocol
 
-*   [SQLLanguageServer (⭐771)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [SQLLanguageServer (⭐775)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 *   [sqls (⭐1.3k)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ### Learning
 
 Learning and puzzles for SQL
 
-*   [Advanced SQL Puzzles (⭐874)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+*   [Advanced SQL Puzzles (⭐887)](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 *   [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 *   [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches) - A book about how to use SQL to retrieve, filter, and analyze data.
 *   [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
@@ -475,7 +477,7 @@ Useful SQL-scripts for various purposes
 *   [PostgreSQL cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by \<timescale.com>.
 *   [postgres\_dba (⭐1.3k)](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for PostgreSQL DBAs and all engineers.
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-*   [TPT (⭐720)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+*   [TPT (⭐724)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 ## Data
 
@@ -494,15 +496,15 @@ Useful SQL-scripts for various purposes
 
 ### Generation/Masking/Subsetting
 
-*   [Benerator (⭐158)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐157)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
 *   [Faker (⭐15k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
 *   [Greenmask (⭐1.7k)](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
-*   [myanon (⭐118)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files. Reads mysqldump from stdin, writes anonymized version to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
+*   [myanon (⭐120)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files. Reads mysqldump from stdin, writes anonymized version to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 *   [Noisia (⭐700)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
-*   [quick-seed (⭐25)](https://github.com/miit-daga/quick-seed) - Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.
+*   [quick-seed (⭐27)](https://github.com/miit-daga/quick-seed) - Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 *   [SQLable](https://sqlable.com/generator/) - Generate fake data in the browser.
 *   [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
@@ -515,10 +517,10 @@ Useful SQL-scripts for various purposes
 
 ### Replication
 
-*   [dtle (⭐560)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-*   [Litestream (⭐13k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [dtle (⭐559)](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+*   [Litestream (⭐14k)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 *   [pgsync (⭐3.4k)](https://github.com/ankane/pgsync) - Sync PostgreSQL data between databases.
-*   [pg\_chameleon (⭐434)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+*   [pg\_chameleon (⭐436)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 *   [PGDeltaStream (⭐259)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.
 *   [repmgr (⭐1.7k)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
@@ -531,7 +533,7 @@ Useful SQL-scripts for various purposes
 
 Documents, articles, manifestos and other theoretical materials on database tools
 
-*   [The "Database as Code" Manifesto (⭐113)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [The "Database as Code" Manifesto (⭐114)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 *   [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
 
 ## Machine Learning

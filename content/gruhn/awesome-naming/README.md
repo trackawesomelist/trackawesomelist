@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [May 11, 2026](/content/2026/05/11/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
+
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
 ### Tools, Applications, Libraries, Frameworks

@@ -123,6 +123,7 @@ This is a curated list for when naming things is done right.
 ## Tools, Applications, Libraries, Frameworks
 
 *   [bubblewrap (⭐6.9k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
+*   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney, who is also an actor.
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault-tolerant and resilient as a cockroach.
 *   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.

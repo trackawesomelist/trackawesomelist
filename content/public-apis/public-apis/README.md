@@ -38,6 +38,20 @@ A collective list of free APIs
 
 
 
+### Jobs
+
+- API: [HeroHunt People Search](https://www.herohunt.ai/people-search-api)
+
+  Description: Search 1 billion people profiles across LinkedIn and GitHub for talent sourcing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Machine Learning
 
 - API: [Hugging Face](https://huggingface.co)
@@ -49,6 +63,34 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+
+### Security
+
+- API: [dead-drop](https://api.dead-drop.xyz/api/v1/docs)
+
+  Description: Ephemeral zero-knowledge encrypted data sharing
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [IPMA](https://api.ipma.pt/open-data/)
+
+  Description: Portuguese weather and climate data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 

@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [May 11, 2026](/content/2026/05/11/README.md)
+
+### Productivity
+
+*   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
 ## [May 10, 2026](/content/2026/05/10/README.md)
 
 ### Application Launchers
@@ -274,7 +280,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [Saga Reader (⭐499)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐508)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ## [May 17, 2025](/content/2025/05/17/README.md)
 
@@ -413,7 +419,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
 *   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
 *   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
-*   [Sunshine (⭐36k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Sunshine (⭐37k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
 
 ### Screenshot
@@ -482,7 +488,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Vaultwarden (⭐59k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
+*   [Vaultwarden (⭐60k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
 
 ### Terminal
 
@@ -522,7 +528,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Browsers
 
-*   [Ungoogled Chromium (⭐26k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Ungoogled Chromium (⭐27k)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Command Line Tools
 

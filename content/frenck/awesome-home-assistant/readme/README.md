@@ -163,7 +163,7 @@ wider ecosystem.
 *   🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch-language home-automation Discord.
 *   🇳🇱 [Home Assistant NL](https://t.me/home_assistant_nl) - Dutch-language Telegram group.
 *   🇫🇷 [HACF Forum](https://forum.hacf.fr) - Discussion forum of the French-speaking association HACF (Home Assistant Communauté Française).
-*   🇩🇪 [Home Assistant DE](https://t.me/homeassistant_de) - German-language Telegram group for discussions, tips, and help.
+*   🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
 *   🇮🇹 [Home Assistant Italia](https://t.me/HomeAssistantItalia) - Italian Telegram group for sharing ideas and projects.
 *   🇷🇺 [Home Assistant RU Telegram](https://t.me/HomeAssistantRU) - Russian-speaking Telegram group.
 
@@ -627,6 +627,7 @@ wider ecosystem.
 *   [Hass.io Google Drive Backup (⭐3.5k)](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy-to-configure solution for backing up to Google Drive (3,537★).
 *   [Grocy (⭐429)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home (429★).
 *   [CrowdSec (⭐94)](https://github.com/crowdsecurity/home-assistant-addons) - A next-gen collaborative IPS/IDS to protect you from intrusion (94★).
+*   [C-Gate Web Bridge (⭐4)](https://github.com/dougrathbone/cgateweb-homeassistant) - Bridge Clipsal C-Bus lighting and automation systems to Home Assistant via MQTT with auto-discovery (4★).
 
 ## DIY
 
@@ -676,29 +677,72 @@ wider ecosystem.
 
 ### ✍️ Blogs
 
-*   [DIY Futurism](https://diyfuturism.com/) - Brad posts articles with great instructions for new users.
-*   [Smart Home Hobby](https://smarthomehobby.com/) - Features budget friendly guides and information.
-*   [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self hosted services.
+#### English
+
+*   [DIY Futurism](https://diyfuturism.com/) - Articles with clear step-by-step instructions for new users by Brad.
+*   [Smart Home Hobby](https://smarthomehobby.com/) - Features budget-friendly guides and information.
+*   [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self-hosted services.
 *   [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
-*   [HomeTechHacker](https://HomeTechHacker.com) - DIY Smarthome guides, reviews, and advice.
-*   [Intermittent Technology](https://blog.quindorian.org) - Quindor's personal blog for pasting random (mostly technology related) things.
+*   [HomeTechHacker](https://hometechhacker.com/) - DIY smart-home guides, reviews, and advice.
+*   [Intermittent Technology](https://blog.quindorian.org/) - Quindor's personal blog covering smart home, networking, and adjacent tech.
 *   [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
+*   [KPeyanski](https://peyanski.com/) - Tutorials and walkthroughs covering automations, AI integrations, and energy management by Kiril Peyanski.
+*   [fixtse](https://fixtse.com/) - Hardware reviews and DIY guides for presence detection, voice assistants, and local AI by Sergio Romero.
+*   [Michael Leen](https://michaelsleen.com/) - Practical setup advice and gear reviews aimed at people building their first smart home.
+*   [Phil Hawthorne](https://philhawthorne.com/) - Field notes on integrations, presence detection, and household automations from a long-time podcaster.
+*   [Frenck](https://frenck.dev/) - Behind-the-scenes posts on open source, project leadership, and personal automation experiments by Franck Nijhof.
+
+#### 🌍 In other languages
+
+*Sorted alphabetically by language.*
+
+*   🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
+*   🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
+*   🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
 
 ### 📺 YouTube Channels
 
 *Sit back, relax, watch, and learn.*
 
-*   [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official YouTube Channel where new launches and live streams are held.
-*   [BurnsHA](https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg) - Great informational and tutorial videos.
-*   [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Tutorials and more, also has videos on home automation in general.
-*   [JuanMTech](https://www.youtube.com/juanmtech) - Easy to follow how-to videos, product reviews and more.
-*   [vCloudInfo](https://www.youtube.com/vCloudInfo) - Publishes videos based on his home and GitHub repository.
-*   [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Tutorials on hardware projects and Tasmota automations.
-*   [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.
-*   [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Tutorials & 3D printing.
-*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
-*   [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Focuses on Smart Home, Home Automation, general tech reviews, guides, and step-by-step DIY projects.
-*   [Warner Discovers](https://www.youtube.com/c/WarnerDiscovers) - Tech reviews, DIY installs, smart home gear, and solar DIY.
+#### English
+
+*Official channel first, then sorted by subscriber count. Refreshed nightly.*
+
+*   [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official channel for new launches and live streams (73K subs).
+*   [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Smart-home tutorials, gadget reviews, and home-automation experiments by Robert Tait (574K subs).
+*   [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Smart-home and tech reviews, guides, and step-by-step DIY projects (245K subs).
+*   [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy) - Smart-home tutorials, automations, and gear reviews by Alan Byrne (113K subs).
+*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users by Ed de Tollenaer (84.9K subs).
+*   [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Hardware project tutorials and Tasmota automations (73.9K subs).
+*   [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials and reviews covering cameras, home networking, ESP boards, and Node-RED (62.4K subs).
+*   [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Smart-home tutorials and 3D printing (44.8K subs).
+*   [JuanMTech](https://www.youtube.com/juanmtech) - Easy-to-follow how-to videos and product reviews (42.5K subs).
+*   [mostlychris](https://www.youtube.com/@mostlychris) - Smart-home tutorials and gadget reviews by Chris West (39.9K subs).
+*   [KPeyanski](https://www.youtube.com/@kpeyanski) - Hands-on tutorials for hardware projects, dashboards, and integrations by Kiril Peyanski (33.6K subs).
+*   [This Smart House](https://www.youtube.com/@thissmarthouse) - Beginner-friendly setup walkthroughs and product reviews by Ryan Holland (33.5K subs).
+*   [SlackerLabs](https://www.youtube.com/@SlackerLabs) - Automation, scripting, and tinkering walkthroughs by Jeffrey Stone (30.6K subs).
+*   [Michael Leen](https://www.youtube.com/@michaelsleen) - Smart-home tutorials and integration walkthroughs (26.3K subs).
+*   [Technithusiast](https://www.youtube.com/@technithusiast) - Tutorials, integrations, and automations by Michael Montaque (22.7K subs).
+*   [3ATIVE VFX](https://www.youtube.com/@3ATIVE) - Smart-home automations and integrations by VFX artist David Martin (20.5K subs).
+*   [Smart Home Australia](https://www.youtube.com/@smart_home_australia) - Australia-flavored smart-home reviews and tutorials by Paul Toner (20.4K subs).
+*   [CTech\&Media](https://www.youtube.com/@CTechMedia) - Smart-home reviews and tutorials by Charly Schulte (17.7K subs).
+*   [Frenck | Home Assistant & Smart Home](https://www.youtube.com/@frenck) - Lead of the Home Assistant project, with occasional videos on his own experience and inside views on what is happening in the Home Assistant world (9.7K subs).
+
+#### 🌍 In other languages
+
+*Sorted alphabetically by language, then by subscriber count.*
+
+*   🇸🇦 [Smart Tech Arabic](https://www.youtube.com/@SmartTechArabic) - Tutorials in Arabic by Shady Nafie (97.8K subs).
+*   🇧🇷 [Descomplicando Tech](https://www.youtube.com/@DescomplicandoTech) - Smart-home guides by Fabricio Goncalves (15.8K subs).
+*   🇫🇷 [AyLabs](https://www.youtube.com/@ay_labs) - Tutorials, integrations, and automation walkthroughs by Aymeric Le Feyer (11.7K subs).
+*   🇩🇪 [simon42](https://www.youtube.com/@simon42) - Tutorials, automations, and dashboard guides by Simon Müller (192K subs).
+*   🇩🇪 [haus:automation](https://www.youtube.com/@haus_automation) - Tutorials, integrations, and automation walkthroughs by Matthias Kleine (136K subs).
+*   🇩🇪 [SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) - DIY smart-home builds and guides by Daniel Scheidler (34.6K subs).
+*   🇩🇪 [Tristans Smartes Heim](https://www.youtube.com/@tristanssmartesheim) - Smart-home setup guides and integrations by Tristan Küsters (13.7K subs).
+*   🇮🇹 [DinamoTech](https://www.youtube.com/@DinamoTech) - Smart-home tutorials and reviews by Francesco Cova (77.2K subs).
+*   🇮🇹 [Ipensieridellarchitetto](https://www.youtube.com/@ipensieridellarchitetto) - Domotics, technology, and AI walkthroughs (14.8K subs).
+*   🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
+*   🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (44.8K subs).
 
 ### 🎙️ Podcasts
 
@@ -728,6 +772,7 @@ wider ecosystem.
 *   [Domoticz (⭐3.7k)](https://github.com/domoticz/domoticz) - A lightweight Home Automation System (3,751★).
 *   [Gladys (⭐3.1k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,054★).
 *   [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
+*   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
 
 ## Other Awesome Lists
 

@@ -6,18 +6,75 @@ A curated list of amazingly awesome Home Assistant resources.
 
 [ Daily / [Weekly](/content/frenck/awesome-home-assistant/week/README.md) / [Overview](/content/frenck/awesome-home-assistant/readme/README.md) ]
 
+## [May 11, 2026](/content/2026/05/11/README.md)
+
+### 🌍 In your language
+
+*   🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
+
+### 📦 Third Party Apps
+
+*   [C-Gate Web Bridge (⭐4)](https://github.com/dougrathbone/cgateweb-homeassistant) - Bridge Clipsal C-Bus lighting and automation systems to Home Assistant via MQTT with auto-discovery (4★).
+
+### ✍️ Blogs / English
+
+*   [HomeTechHacker](https://hometechhacker.com/) - DIY smart-home guides, reviews, and advice.
+*   [Intermittent Technology](https://blog.quindorian.org/) - Quindor's personal blog covering smart home, networking, and adjacent tech.
+*   [KPeyanski](https://peyanski.com/) - Tutorials and walkthroughs covering automations, AI integrations, and energy management by Kiril Peyanski.
+*   [fixtse](https://fixtse.com/) - Hardware reviews and DIY guides for presence detection, voice assistants, and local AI by Sergio Romero.
+*   [Michael Leen](https://michaelsleen.com/) - Practical setup advice and gear reviews aimed at people building their first smart home.
+*   [Phil Hawthorne](https://philhawthorne.com/) - Field notes on integrations, presence detection, and household automations from a long-time podcaster.
+*   [Frenck](https://frenck.dev/) - Behind-the-scenes posts on open source, project leadership, and personal automation experiments by Franck Nijhof.
+
+### ✍️ Blogs / 🌍 In other languages
+
+*   🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
+*   🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
+*   🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
+
+### 📺 YouTube Channels / English
+
+*   [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy) - Smart-home tutorials, automations, and gear reviews by Alan Byrne (113K subs).
+*   [mostlychris](https://www.youtube.com/@mostlychris) - Smart-home tutorials and gadget reviews by Chris West (39.9K subs).
+*   [KPeyanski](https://www.youtube.com/@kpeyanski) - Hands-on tutorials for hardware projects, dashboards, and integrations by Kiril Peyanski (33.6K subs).
+*   [This Smart House](https://www.youtube.com/@thissmarthouse) - Beginner-friendly setup walkthroughs and product reviews by Ryan Holland (33.5K subs).
+*   [SlackerLabs](https://www.youtube.com/@SlackerLabs) - Automation, scripting, and tinkering walkthroughs by Jeffrey Stone (30.6K subs).
+*   [Michael Leen](https://www.youtube.com/@michaelsleen) - Smart-home tutorials and integration walkthroughs (26.3K subs).
+*   [Technithusiast](https://www.youtube.com/@technithusiast) - Tutorials, integrations, and automations by Michael Montaque (22.7K subs).
+*   [3ATIVE VFX](https://www.youtube.com/@3ATIVE) - Smart-home automations and integrations by VFX artist David Martin (20.5K subs).
+*   [Smart Home Australia](https://www.youtube.com/@smart_home_australia) - Australia-flavored smart-home reviews and tutorials by Paul Toner (20.4K subs).
+*   [CTech\&Media](https://www.youtube.com/@CTechMedia) - Smart-home reviews and tutorials by Charly Schulte (17.7K subs).
+*   [Frenck | Home Assistant & Smart Home](https://www.youtube.com/@frenck) - Lead of the Home Assistant project, with occasional videos on his own experience and inside views on what is happening in the Home Assistant world (9.7K subs).
+
+### 📺 YouTube Channels / 🌍 In other languages
+
+*   🇸🇦 [Smart Tech Arabic](https://www.youtube.com/@SmartTechArabic) - Tutorials in Arabic by Shady Nafie (97.8K subs).
+*   🇧🇷 [Descomplicando Tech](https://www.youtube.com/@DescomplicandoTech) - Smart-home guides by Fabricio Goncalves (15.8K subs).
+*   🇫🇷 [AyLabs](https://www.youtube.com/@ay_labs) - Tutorials, integrations, and automation walkthroughs by Aymeric Le Feyer (11.7K subs).
+*   🇩🇪 [simon42](https://www.youtube.com/@simon42) - Tutorials, automations, and dashboard guides by Simon Müller (192K subs).
+*   🇩🇪 [haus:automation](https://www.youtube.com/@haus_automation) - Tutorials, integrations, and automation walkthroughs by Matthias Kleine (136K subs).
+*   🇩🇪 [SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) - DIY smart-home builds and guides by Daniel Scheidler (34.6K subs).
+*   🇩🇪 [Tristans Smartes Heim](https://www.youtube.com/@tristanssmartesheim) - Smart-home setup guides and integrations by Tristan Küsters (13.7K subs).
+*   🇮🇹 [DinamoTech](https://www.youtube.com/@DinamoTech) - Smart-home tutorials and reviews by Francesco Cova (77.2K subs).
+*   🇮🇹 [Ipensieridellarchitetto](https://www.youtube.com/@ipensieridellarchitetto) - Domotics, technology, and AI walkthroughs (14.8K subs).
+*   🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
+*   🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (44.8K subs).
+
+### Alternative Home Automation Software / 🌍 In other languages
+
+*   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
+
 ## [May 09, 2026](/content/2026/05/09/README.md)
 
-### In case you need help / 🌍 In your language
+### 🌍 In your language
 
 *   🇧🇷 [Home Assistant Brasil](https://t.me/homeassistant_brasil) - Brazilian Portuguese Telegram group for users of all skill levels.
 *   🇳🇱 [Home Assistant NL](https://t.me/home_assistant_nl) - Dutch-language Telegram group.
 *   🇫🇷 [HACF Forum](https://forum.hacf.fr) - Discussion forum of the French-speaking association HACF (Home Assistant Communauté Française).
-*   🇩🇪 [Home Assistant DE](https://t.me/homeassistant_de) - German-language Telegram group for discussions, tips, and help.
 *   🇮🇹 [Home Assistant Italia](https://t.me/HomeAssistantItalia) - Italian Telegram group for sharing ideas and projects.
 *   🇷🇺 [Home Assistant RU Telegram](https://t.me/HomeAssistantRU) - Russian-speaking Telegram group.
 
-### In case you need help / 🧩 Around community projects
+### 🧩 Around community projects
 
 *   [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core.
 *   [Frigate Discussions (⭐32k)](https://github.com/blakeblackshear/frigate/discussions) - GitHub Discussions for the local-NVR / object-detection project.
@@ -28,22 +85,22 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Z-Wave JS Discord](https://discord.gg/HFqcyFNfWd) - Chat for the Z-Wave JS stack used by the Z-Wave integration.
 *   [Zigbee2MQTT Discussions (⭐15k)](https://github.com/Koenkk/zigbee2mqtt/discussions) - GitHub Discussions for the popular Zigbee bridge.
 
-### In case you need help / 💬 Other community spaces
+### 💬 Other community spaces
 
 *   [Home Assistant International Telegram](https://t.me/home_assistant_international) - English-speaking Telegram group for the wider international community.
 *   [Dr. ZZs Facebook Group](https://www.facebook.com/groups/1969622823351838/) - Community around the YouTube creator Dr. Zzs.
 
-### Custom Integrations / 🤖 AI & LLMs
+### 🤖 AI & LLMs
 
 *   [LLM Vision (⭐1.3k)](https://github.com/valentinfrlch/ha-llmvision) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,325★).
 *   [AI Automation Suggester (⭐722)](https://github.com/ITSpecialist111/ai_automation_suggester) - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (721★).
 
-### Custom Integrations / 💡 Lighting
+### 💡 Lighting
 
 *   [Adaptive Lighting (⭐3.3k)](https://github.com/basnijholt/adaptive-lighting) - Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,279★).
 *   [Govee (⭐349)](https://github.com/LaggAt/hacs-govee) - Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (349★).
 
-### Custom Integrations / 🌡️ Climate
+### 🌡️ Climate
 
 *   [Better Thermostat (⭐1.4k)](https://github.com/KartoffelToby/better_thermostat) - Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,389★).
 *   [Versatile Thermostat (⭐1k)](https://github.com/jmcollin78/versatile_thermostat) - Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,040★).
@@ -51,7 +108,7 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Smart Autotune Thermostat (SAT) (⭐243)](https://github.com/Alexwijn/SAT) - Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (243★).
 *   [Dual Smart Thermostat (⭐224)](https://github.com/swingerman/ha-dual-smart-thermostat) - Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (224★).
 
-### Custom Integrations / ⚡ Energy & solar
+### ⚡ Energy & solar
 
 *   [Powercalc (⭐1.5k)](https://github.com/bramstroker/homeassistant-powercalc) - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,472★).
 *   [Anker Solix (⭐963)](https://github.com/thomluther/ha-anker-solix) - Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (963★).
@@ -72,26 +129,26 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Dynamic Energy Cost (⭐186)](https://github.com/martinarva/dynamic_energy_cost) - Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (186★).
 *   [Energi Data Service (⭐269)](https://github.com/MTrab/energidataservice) - Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (269★).
 
-### Custom Integrations / 📹 Cameras & video
+### 📹 Cameras & video
 
 *   [Frigate (⭐1.2k)](https://github.com/blakeblackshear/frigate-hass-integration) - Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,153★).
 *   [Eufy Security (⭐1.3k)](https://github.com/fuatakgun/eufy_security) - Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,318★).
 *   [Tapo Control (⭐1.9k)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,861★).
 *   [Dahua (⭐534)](https://github.com/rroller/dahua) - Pair Dahua cameras and doorbells with motion events, snapshots, sirens, and PTZ controls (532★).
 
-### Custom Integrations / 🚨 Security & alarm
+### 🚨 Security & alarm
 
 *   [Alarmo (⭐2.1k)](https://github.com/nielsfaber/alarmo) - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,109★).
 *   [Keymaster (⭐329)](https://github.com/FutureTense/keymaster) - Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (329★).
 
-### Custom Integrations / 🔊 Voice & media playback
+### 🔊 Voice & media playback
 
 *   [Alexa Media Player (⭐1.9k)](https://github.com/alandtse/alexa_media_player) - Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,935★).
 *   [YandexStation (⭐1.8k)](https://github.com/AlexxIT/YandexStation) - Control Yandex Station speakers and other smart-home devices through Alice (1,837★).
 *   [Yandex Smart Home (⭐1k)](https://github.com/dext0r/yandex_smart_home) - Expose your devices to Yandex Alice and the Yandex smart-home app (1,046★).
 *   [View Assist Companion (⭐348)](https://github.com/msp1974/ViewAssist_Companion_App) - Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (348★).
 
-### Custom Integrations / 🚗 Cars & EV charging
+### 🚗 Cars & EV charging
 
 *   [Kia Uvo & Hyundai Bluelink (⭐851)](https://github.com/Hyundai-Kia-Connect/kia_uvo) - Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (851★).
 *   [Tesla (⭐727)](https://github.com/alandtse/tesla) - Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (725★).
@@ -103,28 +160,28 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Easee EV Charger (⭐272)](https://github.com/nordicopen/easee_hass) - Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (272★).
 *   [EV Smart Charging (⭐290)](https://github.com/jonasbkarlsson/ev_smart_charging) - Plans an electric vehicle charging schedule across the cheapest hours of a dynamic tariff, working with most chargers and price sensors (290★).
 
-### Custom Integrations / 📍 Presence & location
+### 📍 Presence & location
 
 *   [iPhone Detect (⭐615)](https://github.com/mudape/iphonedetect) - Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (615★).
 *   [Flightradar24 (⭐428)](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Track aircraft flying over a configurable bounding box around your home using Flightradar24 (426★).
 *   [Places (⭐181)](https://github.com/custom-components/places) - Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to "at the supermarket" rather than raw coordinates (181★).
 
-### Custom Integrations / 🧹 Vacuums
+### 🧹 Vacuums
 
 *   [Dreame Vacuum (⭐1.9k)](https://github.com/Tasshack/dreame-vacuum) - Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,916★).
 
-### Custom Integrations / 🔵 Bluetooth & BLE
+### 🔵 Bluetooth & BLE
 
 *   [BLE Monitor (⭐2.2k)](https://github.com/custom-components/ble_monitor) - Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,202★).
 *   [Bermuda (⭐1.8k)](https://github.com/agittins/bermuda) - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,750★).
 *   [BLE Battery Management Systems (⭐316)](https://github.com/patman15/BMS_BLE-HA) - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (316★).
 *   [EcoFlow BLE (⭐277)](https://github.com/rabits/ha-ef-ble) - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (277★).
 
-### Custom Integrations / 🔋 Battery monitoring
+### 🔋 Battery monitoring
 
 *   [Battery Notes (⭐1.1k)](https://github.com/andrew-codechimp/HA-Battery-Notes) - Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,078★).
 
-### Custom Integrations / 🏷️ Vendor & brand
+### 🏷️ Vendor & brand
 
 *   [Xiaomi MIoT (⭐5.9k)](https://github.com/al-one/hass-xiaomi-miot) - Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,859★).
 *   [Xiaomi Gateway 3 (⭐2.7k)](https://github.com/AlexxIT/XiaomiGateway3) - Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,745★).
@@ -145,7 +202,7 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [hOn (⭐246)](https://github.com/gvigroux/hon) - Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (246★).
 *   [PETLIBRO (⭐305)](https://github.com/jjjonesjr33/petlibro) - Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (305★).
 
-### Custom Integrations / 🛠️ Automation tooling
+### 🛠️ Automation tooling
 
 *   [Browser Mod (⭐1.7k)](https://github.com/thomasloven/hass-browser_mod) - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,730★).
 *   [Pyscript (⭐1.1k)](https://github.com/custom-components/pyscript) - Write automations and templates in Python instead of YAML (1,150★).
@@ -157,7 +214,7 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Multiscrape (⭐429)](https://github.com/danieldotnl/ha-multiscrape) - Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (429★).
 *   [Retry Service (⭐162)](https://github.com/amitfin/retry) - Wraps any service call so transient failures retry automatically with exponential backoff (162★).
 
-### Custom Integrations / 🏘️ Civic & household
+### 🏘️ Civic & household
 
 *   [Mail and Packages (⭐826)](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) - Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (826★).
 *   [Irrigation Unlimited (⭐426)](https://github.com/rgc99/irrigation_unlimited) - Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (426★).
@@ -165,31 +222,31 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Smart Irrigation (⭐494)](https://github.com/jeroenterheerdt/HAsmartirrigation) - Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (494★).
 *   [UK Bin Collection (⭐320)](https://github.com/robbrad/UKBinCollectionData) - Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (320★).
 
-### Custom Integrations / 🔐 Network & authentication
+### 🔐 Network & authentication
 
 *   [OIDC Auth (⭐899)](https://github.com/christiaangoossens/hass-oidc-auth) - Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (899★).
 *   [OpenID Connect Auth (⭐198)](https://github.com/cavefire/hass-openid) - Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (198★).
 *   [TP-Link Router (⭐340)](https://github.com/AlexandrErohin/home-assistant-tplink-router) - Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (340★).
 *   [Mikrotik Router (⭐444)](https://github.com/tomaae/homeassistant-mikrotik_router) - Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (443★).
 
-### Custom Integrations / 🔗 Federation & multi-instance
+### 🔗 Federation & multi-instance
 
 *   [Remote Home Assistant (⭐1.2k)](https://github.com/custom-components/remote_homeassistant) - Link multiple instances together so entities, services, and events flow between them (1,217★).
 
-### Custom Integrations / 📊 Logging & analytics
+### 📊 Logging & analytics
 
 *   [TrueNAS (⭐364)](https://github.com/tomaae/homeassistant-truenas) - Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (364★).
 *   [Monitor Docker (⭐398)](https://github.com/ualex73/monitor_docker) - Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (398★).
 *   [Unraid (⭐232)](https://github.com/ruaan-deysel/ha-unraid) - Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (232★).
 
-### Dashboard Cards / 🧱 Dashboard frameworks
+### 🧱 Dashboard frameworks
 
 *   [Mushroom (⭐5k)](https://github.com/piitaya/lovelace-mushroom) - A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (4,960★).
 *   [Bubble Card (⭐4.2k)](https://github.com/Clooos/Bubble-Card) - Minimalist card collection with a pop-up touch and rich customization (4,173★).
 *   [Floorplan (⭐1.5k)](https://github.com/ExperienceLovelace/ha-floorplan) - Map entities onto an SVG of your house and animate them based on state changes (1,523★).
 *   [UI Lovelace Minimalist (⭐2k)](https://github.com/UI-Lovelace-Minimalist/UI) - Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,019★).
 
-### Dashboard Cards / 📐 Layout helpers
+### 📐 Layout helpers
 
 *   [Layout Card (⭐1.2k)](https://github.com/thomasloven/lovelace-layout-card) - Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,241★).
 *   [Vertical Stack In Card (⭐970)](https://github.com/ofekashery/vertical-stack-in-card) - Group multiple cards into a single sleek card with one shared border (970★).
@@ -201,14 +258,14 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Paper Buttons Row (⭐359)](https://github.com/jcwillox/lovelace-paper-buttons-row) - Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).
 *   [Streamline Card (⭐249)](https://github.com/brunosabot/streamline-card) - Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (249★).
 
-### Dashboard Cards / 📈 Charts & graphs
+### 📈 Charts & graphs
 
 *   [ApexCharts Card (⭐1.8k)](https://github.com/RomRider/apexcharts-card) - Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,769★).
 *   [Sankey Chart (⭐650)](https://github.com/MindFreeze/ha-sankey-chart) - Sankey-style flow diagram for visualising power, water, or any other flow across your home (650★).
 *   [Modern Circular Gauge (⭐264)](https://github.com/selvalt7/modern-circular-gauge) - Modern-looking circular gauge card with smooth animations, color stops, and template support (264★).
 *   [Flex Table Card (⭐266)](https://github.com/custom-cards/flex-table-card) - Highly flexible table card with arbitrary columns, regex-matched entities, and per-row styling, useful for AppDaemon and templated content (265★).
 
-### Dashboard Cards / 📋 Status & info rows
+### 📋 Status & info rows
 
 *   [Battery State Card (⭐1.2k)](https://github.com/maxwroc/battery-state-card) - List devices with their battery levels in a tidy card, sorted and color-coded (1,235★).
 *   [Scheduler Card (⭐1.2k)](https://github.com/nielsfaber/scheduler-card) - Build and edit weekly schedules for any entity right from the dashboard (1,220★).
@@ -216,7 +273,7 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Vehicle Status Card (⭐251)](https://github.com/ngocjohn/vehicle-status-card) - Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (251★).
 *   [Timer Bar Card (⭐568)](https://github.com/rianadon/timer-bar-card) - Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (568★).
 
-### Dashboard Cards / ☀️ Weather cards
+### ☀️ Weather cards
 
 *   [Weather Chart Card (⭐435)](https://github.com/mlamberts78/weather-chart-card) - Weather card with a chart-style hourly forecast and customizable layout (435★).
 *   [Hourly Weather (⭐387)](https://github.com/decompil3d/lovelace-hourly-weather) - Show today's hourly forecast as a colored horizontal bar so you can see at a glance when conditions change (387★).
@@ -224,44 +281,44 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Clock Weather Card (⭐821)](https://github.com/pkissling/clock-weather-card) - Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (820★).
 *   [Horizon Card (⭐644)](https://github.com/rejuvenate/lovelace-horizon-card) - Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (644★).
 
-### Dashboard Cards / 🌡️ Climate cards
+### 🌡️ Climate cards
 
 *   [Mini Climate (⭐318)](https://github.com/artem-sedykh/mini-climate-card) - Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (318★).
 
-### Dashboard Cards / ⚡ Energy cards
+### ⚡ Energy cards
 
 *   [Sunsynk Power Flow (⭐369)](https://github.com/slipx06/sunsynk-power-flow-card) - Visualise the live energy flow of Sunsynk and Deye inverters, mirroring the layout of the inverter screen (369★).
 
-### Dashboard Cards / 💡 Lighting cards
+### 💡 Lighting cards
 
 *   [Hue-Like Light Card (⭐360)](https://github.com/Gh61/lovelace-hue-like-light-card) - Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (360★).
 *   [Light Entity Card (⭐281)](https://github.com/ljmerza/light-entity-card) - Compact card to control any light or switch entity with brightness, color temperature, and color picker (281★).
 
-### Dashboard Cards / 📸 Camera cards
+### 📸 Camera cards
 
 *   [Advanced Camera Card (⭐1k)](https://github.com/dermotduffy/advanced-camera-card) - Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,041★).
 
-### Dashboard Cards / 🧹 Vacuum cards
+### 🧹 Vacuum cards
 
 *   [Valetudo Map (⭐301)](https://github.com/Hypfer/lovelace-valetudo-map-card) - Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (301★).
 
-### Dashboard Cards / 📅 Calendar & feed
+### 📅 Calendar & feed
 
 *   [Week Planner Card (⭐503)](https://github.com/FamousWolf/week-planner-card) - Responsive multi-day overview of upcoming events, alarms, and reminders (503★).
 *   [Trash Card (⭐351)](https://github.com/idaho/hassio-trash-card) - Show the next trash pickup type (paper, plastic, organic) based on a calendar entity, with color-coded icons (351★).
 *   [Calendar Card Pro (⭐1.1k)](https://github.com/alexpfau/calendar-card-pro) - Customizable calendar card with event grouping, location indicators, and a clean modern look (1,100★).
 
-### Dashboard Cards / 📡 Remote control
+### 📡 Remote control
 
 *   [HA Firemote (⭐957)](https://github.com/PRProd/HA-Firemote) - Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (956★).
 *   [Universal Remote Card (⭐549)](https://github.com/Nerwyn/universal-remote-card) - Fully customizable virtual remote for any media device, supporting custom buttons and haptics (549★).
 
-### Dashboard Cards / 🖥️ Kiosk & wallpanel
+### 🖥️ Kiosk & wallpanel
 
 *   [Wall Panel (⭐831)](https://github.com/j-a-n/lovelace-wallpanel) - Wall-panel mode and photo-screensaver for tablets mounted on the wall (829★).
 *   [Kiosk Mode (⭐715)](https://github.com/NemesisRE/kiosk-mode) - Hide the header, sidebar, and overflow menu for a clean kiosk-style view (714★).
 
-### Themes / 🖥️ Kiosk & wallpanel
+### Themes
 
 *   [Frosted Glass (⭐864)](https://github.com/wessamlauf/homeassistant-frosted-glass-themes) - Modern frosted-glass dark and light themes with translucent cards (864★).
 *   [iOS Themes (⭐860)](https://github.com/basnijholt/lovelace-ios-themes) - Themes inspired by iOS dark and light modes (860★).
@@ -275,33 +332,33 @@ A curated list of amazingly awesome Home Assistant resources.
 
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
-### Public Configurations / 💬 Other community spaces
+### Public Configurations
 
 *   [Ryan Warner (⭐5)](https://github.com/rwarner/Home-Assistant-Config) - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
 
-### Dashboard Cards / 📐 Layout helpers
+### 📐 Layout helpers
 
 *   [Config Template Card (⭐547)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace (547★).
 *   [Button card (⭐2.4k)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities (2,432★).
 *   [Expander Card (⭐412)](https://github.com/Alia5/lovelace-expander-card) - Expandable and collapsible card to group and hide other cards behind a header (412★).
 
-### Dashboard Cards / 📈 Charts & graphs
+### 📈 Charts & graphs
 
 *   [Dual Gauge Card (⭐220)](https://github.com/custom-cards/dual-gauge-card) - Shows two gauges in one (220★).
 
-### Dashboard Cards / 🗺️ Maps & location
+### 🗺️ Maps & location
 
 *   [ha-map-card (⭐110)](https://github.com/nathan-gs/ha-map-card) - Leaflet-based map card with history trails, custom tile layers, and tap actions (110★).
 
-### Dashboard Cards / 🧹 Vacuum cards
+### 🧹 Vacuum cards
 
 *   [Vacuum Map Card (⭐1.9k)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,863★).
 
-### Dashboards / 🖥️ Kiosk & wallpanel
+### Dashboards
 
 *   [Mushroom Strategy (⭐640)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (640★).
 
-### Apps / 📦 Third Party Apps
+### 📦 Third Party Apps
 
 *   [SSH & Web Terminal (⭐494)](https://github.com/hassio-addons/app-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools (494★).
 *   [UniFi Controller (⭐367)](https://github.com/hassio-addons/app-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser (367★).
@@ -315,77 +372,76 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [AdGuard Home (⭐511)](https://github.com/hassio-addons/app-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control (511★).
 *   [Grocy (⭐429)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home (429★).
 
-### DIY / 🧩 Standalone projects
+### 🧩 Standalone projects
 
 *   [Sonoff NSPanel (⭐986)](https://github.com/joBr99/nspanel-lovelace-ui) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (986★).
 *   [CODESYS V3 Home Automation (⭐142)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) - PLC home-automation software that communicates over MQTT for wired automation setups (142★).
 
-### Tools & Utilities / 🔨 DIY Projects
+### Tools & Utilities
 
 *   [GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
 
-### Online Resources / ✍️ Blogs
+### ✍️ Blogs / English
 
 *   [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
 
-### Online Resources / 📺 YouTube Channels
+### 📺 YouTube Channels / English
 
-*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
-*   [Warner Discovers](https://www.youtube.com/c/WarnerDiscovers) - Tech reviews, DIY installs, smart home gear, and solar DIY.
+*   [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users by Ed de Tollenaer (84.9K subs).
 
-### Alternative Home Automation Software / 📱 Social
+### Alternative Home Automation Software / 🌍 In other languages
 
 *   [Gladys (⭐3.1k)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi (3,054★).
 
-### Other Awesome Lists / 📱 Social
+### Other Awesome Lists / 🌍 In other languages
 
 *   [awesome-mqtt (⭐2.3k)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,332★).
 
 ## [Jun 21, 2022](/content/2022/06/21/README.md)
 
-### Custom Integrations / 🛠️ Automation tooling
+### 🛠️ Automation tooling
 
 *   [The Watchman (⭐643)](https://github.com/dummylabs/thewatchman) - Keep track of missing entities and services in your config files (643★).
 
 ## [Jun 16, 2022](/content/2022/06/16/README.md)
 
-### Custom Integrations / 🔊 Voice & media playback
+### 🔊 Voice & media playback
 
 *   [Spotcast (⭐807)](https://github.com/fondberg/spotcast) - Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (807★).
 
-### Custom Integrations / 🏷️ Vendor & brand
+### 🏷️ Vendor & brand
 
 *   [Sonoff LAN (⭐3.2k)](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,230★).
 
-### Icon packs / 🖥️ Kiosk & wallpanel
+### Icon packs
 
 *   [simpleicons (⭐166)](https://github.com/vigonotion/hass-simpleicons) - Use the free icons from the simpleicons set (166★).
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
-### In case you need help / 🌍 In your language
+### 🌍 In your language
 
 *   🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch-language home-automation Discord.
 
-### Apps / 📦 Third Party Apps
+### 📦 Third Party Apps
 
 *   [CrowdSec (⭐94)](https://github.com/crowdsecurity/home-assistant-addons) - A next-gen collaborative IPS/IDS to protect you from intrusion (94★).
 
 ## [Jun 14, 2022](/content/2022/06/14/README.md)
 
-### Custom Integrations / 📹 Cameras & video
+### 📹 Cameras & video
 
 *   [WebRTC Camera (⭐2.1k)](https://github.com/AlexxIT/WebRTC) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,104★).
 
-### Dashboards / 🖥️ Kiosk & wallpanel
+### Dashboards
 
 *   [Dwains Dashboard (⭐2k)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - A fully auto-generating dashboard for desktop, tablet and mobile (2,033★).
 
-### Icon packs / 🖥️ Kiosk & wallpanel
+### Icon packs
 
 *   [Hass Hue Icons (⭐376)](https://github.com/arallsopp/hass-hue-icons) - Additional Philips Hue bulbs and fixtures icons (376★).
 
-### Apps / 📦 Third Party Apps
+### 📦 Third Party Apps
 
 *   [JupyterLab (⭐68)](https://github.com/hassio-addons/addon-jupyterlab) - Create documents containing live code, equations, visualizations, and explanatory text (68★).
 
@@ -396,72 +452,72 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Home Assistant Installation](https://www.home-assistant.io/installation/) - The official installation guides.
 *   [Compare Installation Methods](https://www.home-assistant.io/installation/#compare-installation-methods) - The available installation methods compared.
 
-### Public Configurations / 💬 Other community spaces
+### Public Configurations
 
 *   [Klaas Schoute (⭐223)](https://github.com/klaasnicolaas/Student-homeassistant-config) - Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
 
-### Custom Integrations / 🧹 Vacuums
+### 🧹 Vacuums
 
 *   [Xiaomi Cloud Map Extractor (⭐1.4k)](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,392★).
 
-### Dashboard Cards / 📐 Layout helpers
+### 📐 Layout helpers
 
 *   [Card Modder (⭐1.7k)](https://github.com/thomasloven/lovelace-card-mod) - Style your Lovelace cards (1,692★).
 
-### Dashboard Cards / 📅 Calendar & feed
+### 📅 Calendar & feed
 
 *   [Atomic Calendar Revive (⭐611)](https://github.com/totaldebug/atomic-calendar-revive) - Calendar card with advanced settings (611★).
 
-### DIY / 🧩 Standalone projects
+### 🧩 Standalone projects
 
 *   [Tasmota (⭐24k)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 boards and devices (24,346★).
 
-### Online Resources / 📺 YouTube Channels
+### 📺 YouTube Channels / English
 
-*   [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official YouTube Channel where new launches and live streams are held.
-*   [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Focuses on Smart Home, Home Automation, general tech reviews, guides, and step-by-step DIY projects.
+*   [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official channel for new launches and live streams (73K subs).
+*   [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Smart-home and tech reviews, guides, and step-by-step DIY projects (245K subs).
 
-### Other Awesome Lists / 📱 Social
+### Other Awesome Lists / 🌍 In other languages
 
 *   [awesome-selfhosted (⭐289k)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software (290,872★).
 
 ## [Jun 12, 2022](/content/2022/06/12/README.md)
 
-### Dashboard Cards / 🧹 Vacuum cards
+### 🧹 Vacuum cards
 
 *   [Vacuum Card (⭐1.2k)](https://github.com/denysdovhan/vacuum-card) - A card for controlling a robot vacuum (1,199★).
 
-### Dashboard Cards / 🍃 Air quality
+### 🍃 Air quality
 
 *   [Purifier Card (⭐339)](https://github.com/denysdovhan/purifier-card) - A card for controlling air purifiers (339★).
 
 ## [Jul 15, 2021](/content/2021/07/15/README.md)
 
-### Tools & Utilities / 🔨 DIY Projects
+### Tools & Utilities
 
 *   [Home Assistant Taskbar Menu (⭐342)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications (342★).
 
 ## [Nov 30, 2020](/content/2020/11/30/README.md)
 
-### Dashboard Cards / 🌡️ Climate cards
+### 🌡️ Climate cards
 
 *   [Thermostat Card (⭐744)](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - Thermostat control card that looks like a Nest Thermostat (744★).
 
 ## [Oct 06, 2020](/content/2020/10/06/README.md)
 
-### Dashboard Cards / 📐 Layout helpers
+### 📐 Layout helpers
 
 *   [Restriction Card (⭐316)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within (316★).
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
-### Apps / 📦 Third Party Apps
+### 📦 Third Party Apps
 
 *   [AppDaemon (⭐955)](https://github.com/AppDaemon/appdaemon) - A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (955★).
 
 ## [Sep 27, 2020](/content/2020/09/27/README.md)
 
-### Apps / 🛡️ Official Apps
+### 🛡️ Official Apps
 
 *   [DuckDNS (⭐2.2k)](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) - Updates your Duck DNS IP address and generates SSL using Let's Encrypt.
 *   [File editor (⭐2.2k)](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) - Browser-based configuration file editor.
@@ -475,61 +531,61 @@ A curated list of amazingly awesome Home Assistant resources.
 
 ## [Sep 25, 2020](/content/2020/09/25/README.md)
 
-### In case you need help / 🤝 Official Communities
+### 🤝 Official Communities
 
 *   [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - Facebook group for enthusiasts.
 
 ## [Sep 24, 2020](/content/2020/09/24/README.md)
 
-### Dashboard Cards / 📐 Layout helpers
+### 📐 Layout helpers
 
 *   [Auto-Entities Card (⭐1.7k)](https://github.com/thomasloven/lovelace-auto-entities) - Dynamically adds entities: 🔮 Magic (1,747★).
 
-### Dashboard Cards / 📡 Remote control
+### 📡 Remote control
 
 *   [LG WebOS Remote Control (⭐547)](https://github.com/madmicio/LG-WebOS-Remote-Control) - Remote Control for LG TV WebOS (547★).
 
-### DIY / 🔨 DIY Projects
+### 🔨 DIY Projects
 
 *   [QuinLED](https://quinled.info/) - DIY Wi-Fi LED dimmers and controllers using ESP32 boards.
 
 ## [Nov 22, 2019](/content/2019/11/22/README.md)
 
-### Dashboard Cards / 💡 Lighting cards
+### 💡 Lighting cards
 
 *   [RGB Light Card (⭐558)](https://github.com/bokub/rgb-light-card) - Colorful buttons to control your RGB Lights (558★).
 
 ## [Nov 17, 2019](/content/2019/11/17/README.md)
 
-### Online Resources / 📺 YouTube Channels
+### 📺 YouTube Channels / English
 
-*   [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Tutorials & 3D printing.
+*   [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Smart-home tutorials and 3D printing (44.8K subs).
 
 ## [Oct 22, 2019](/content/2019/10/22/README.md)
 
-### Themes / 🖥️ Kiosk & wallpanel
+### Themes
 
 *   [Synthwave (⭐199)](https://github.com/bbbenji/synthwave-hass) - A theme influenced by the cover artwork of modern Synthwave bands (199★).
 
 ## [Sep 30, 2019](/content/2019/09/30/README.md)
 
-### Themes / 🖥️ Kiosk & wallpanel
+### Themes
 
 *   [Slate (⭐136)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanilla look (136★).
 
 ## [Sep 25, 2019](/content/2019/09/25/README.md)
 
-### In case you need help / 🤝 Official Communities
+### 🤝 Official Communities
 
 *   [Home Assistant Discord](https://discordapp.com/invite/c5DvZ4e) - The main chat, most of us are there.
 *   [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - The discussion forum.
 *   [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - The official subreddit.
 
-### In case you need help / 🧩 Around community projects
+### 🧩 Around community projects
 
 *   [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them.
 
-### Public Configurations / 💬 Other community spaces
+### Public Configurations
 
 *   [Carlo Costanzo (⭐5.1k)](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there (5,147★).
 *   [DubhAd (⭐686)](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer, shares his configuration files (686★).
@@ -537,44 +593,44 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Alok Saboo (⭐2k)](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated (1,953★).
 *   [Franck Nijhof (⭐2k)](https://github.com/frenck/home-assistant-config) - Home Assistant OS based, very different configuration structure compared to others (1,999★).
 
-### Custom Integrations / 💡 Lighting
+### 💡 Lighting
 
 *   [Circadian Lighting (⭐882)](https://github.com/claytonjn/hass-circadian_lighting) - Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (882★).
 
-### Custom Integrations / 📹 Cameras & video
+### 📹 Cameras & video
 
 *   [HASS Aarlo (⭐466)](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (466★).
 
-### Custom Integrations / 📍 Presence & location
+### 📍 Presence & location
 
 *   [iCloud3 (⭐835)](https://github.com/gcobb321/icloud3) - Improved version of the iCloud device tracker component with a lot of capabilities (835★).
 
-### Custom Integrations / 🏷️ Vendor & brand
+### 🏷️ Vendor & brand
 
 *   [SmartIR (⭐2.7k)](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR (2,698★).
 
-### Custom Integrations / 📊 Logging & analytics
+### 📊 Logging & analytics
 
 *   [Elasticsearch (⭐164)](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch (164★).
 
-### Dashboard Cards / 📈 Charts & graphs
+### 📈 Charts & graphs
 
 *   [Mini Graph Card (⭐3.8k)](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card (3,810★).
 *   [Canvas Gauge Card (⭐216)](https://github.com/custom-cards/canvas-gauge-card) - Use awesome gauges from canvas-gauges.com (216★).
 
-### Dashboard Cards / 📋 Status & info rows
+### 📋 Status & info rows
 
 *   [Slider Entity Row (⭐906)](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (906★).
 
-### Dashboard Cards / 🎵 Media cards
+### 🎵 Media cards
 
 *   [Mini Media Player (⭐1.7k)](https://github.com/kalkih/mini-media-player) - A minimalistic media player card (1,698★).
 
-### Dashboard Cards / 🌡️ Climate cards
+### 🌡️ Climate cards
 
 *   [Simple Thermostat (⭐807)](https://github.com/nervetattoo/simple-thermostat) - A simpler and more flexible thermostat card (807★).
 
-### Themes / 🖥️ Kiosk & wallpanel
+### Themes
 
 *   [Midnight](https://community.home-assistant.io/t/midnight-theme/28598?u=frenck) - A dark theme by Marcel Hoffs.
 *   [Dark Cyan](https://community.home-assistant.io/t/dark-cyan-theme/28594?u=frenck) - A dark theme with cyan accents by Ryoen Deprouw.
@@ -585,11 +641,11 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) - Give your frontend a vintage look with this theme by Anup Surendran.
 *   [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
 
-### Icon packs / 🖥️ Kiosk & wallpanel
+### Icon packs
 
 *   [Font Awesome Icons (⭐338)](https://github.com/thomasloven/hass-fontawesome) - Use the free icons from Font Awesome in your frontend (338★).
 
-### Apps / 📦 Third Party Apps
+### 📦 Third Party Apps
 
 *   [InfluxDB (⭐194)](https://github.com/hassio-addons/addon-influxdb) - Scalable datastore for metrics, events, and real-time analytics (194★).
 *   [Grafana (⭐275)](https://github.com/hassio-addons/addon-grafana) - Open platform for beautiful analytics and monitoring (275★).
@@ -601,16 +657,16 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Traccar (⭐158)](https://github.com/hassio-addons/addon-traccar) - Modern GPS tracking platform (158★).
 *   [Hass.io Google Drive Backup (⭐3.5k)](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy-to-configure solution for backing up to Google Drive (3,537★).
 
-### DIY / 🧩 Standalone projects
+### 🧩 Standalone projects
 
 *   [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
 
-### DIY / 🌉 DIY Gateways
+### 🌉 DIY Gateways
 
 *   [OpenMQTTGateway (⭐4k)](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,010★).
 *   [esp8266 Milight Hub (⭐1k)](https://github.com/sidoh/esp8266_milight_hub) - Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,027★).
 
-### DIY / 🔨 DIY Projects
+### 🔨 DIY Projects
 
 *   [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) - LCD Touchscreen wall switch replacement.
 *   [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) - An inexpensive RGB bulb that works on WiFi.
@@ -619,7 +675,7 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - A Hackster channel with multiple DIY projects.
 *   [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) - ESP8266 based Bed Presence Detection.
 
-### Tools & Utilities / 🔨 DIY Projects
+### Tools & Utilities
 
 *   [HASS Configurator (⭐335)](https://github.com/danielperna84/hass-configurator) - Browser-based configuration file editor (335★).
 *   [HA-Dockermon (⭐291)](https://github.com/philhawthorne/ha-dockermon) - A Node.js service for RESTful switches to control Docker containers (291★).
@@ -631,29 +687,25 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editing your configuration.
 *   [Mi Flora via MQTT daemon (⭐624)](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Collect and transfer Xiaomi Mi Flora plant sensor data via MQTT (624★).
 
-### Online Resources / ✍️ Blogs
+### ✍️ Blogs / English
 
-*   [DIY Futurism](https://diyfuturism.com/) - Brad posts articles with great instructions for new users.
-*   [Smart Home Hobby](https://smarthomehobby.com/) - Features budget friendly guides and information.
-*   [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self hosted services.
+*   [DIY Futurism](https://diyfuturism.com/) - Articles with clear step-by-step instructions for new users by Brad.
+*   [Smart Home Hobby](https://smarthomehobby.com/) - Features budget-friendly guides and information.
+*   [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self-hosted services.
 *   [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
-*   [HomeTechHacker](https://HomeTechHacker.com) - DIY Smarthome guides, reviews, and advice.
-*   [Intermittent Technology](https://blog.quindorian.org) - Quindor's personal blog for pasting random (mostly technology related) things.
 
-### Online Resources / 📺 YouTube Channels
+### 📺 YouTube Channels / English
 
-*   [BurnsHA](https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg) - Great informational and tutorial videos.
-*   [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Tutorials and more, also has videos on home automation in general.
-*   [JuanMTech](https://www.youtube.com/juanmtech) - Easy to follow how-to videos, product reviews and more.
-*   [vCloudInfo](https://www.youtube.com/vCloudInfo) - Publishes videos based on his home and GitHub repository.
-*   [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Tutorials on hardware projects and Tasmota automations.
-*   [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.
+*   [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Smart-home tutorials, gadget reviews, and home-automation experiments by Robert Tait (574K subs).
+*   [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Hardware project tutorials and Tasmota automations (73.9K subs).
+*   [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials and reviews covering cameras, home networking, ESP boards, and Node-RED (62.4K subs).
+*   [JuanMTech](https://www.youtube.com/juanmtech) - Easy-to-follow how-to videos and product reviews (42.5K subs).
 
-### Online Resources / 🎙️ Podcasts
+### 🎙️ Podcasts / 🌍 In other languages
 
 *   [Home Assistant Podcast](https://hasspodcast.io) - Biweekly podcast with the latest news and interesting guests.
 
-### Online Resources / 📱 Social
+### 📱 Social / 🌍 In other languages
 
 *   [@home\_assistant](https://twitter.com/home_assistant) - Open source home automation that puts local control and privacy first.
 *   [@hass\_devs](https://twitter.com/hass_devs) - Latest news on the development of Home Assistant for contributors.
@@ -665,12 +717,12 @@ A curated list of amazingly awesome Home Assistant resources.
 *   [@hassioaddons](https://twitter.com/hassioaddons) - For all community app news and updates.
 *   [@Dr\_Zzs](https://twitter.com/Dr_Zzs) - Great how-to videos and also streams live.
 
-### Alternative Home Automation Software / 📱 Social
+### Alternative Home Automation Software / 🌍 In other languages
 
 *   [openHAB](https://github.com/openhab) - Java-based and aims at being a universal integration platform.
 *   [Domoticz (⭐3.7k)](https://github.com/domoticz/domoticz) - A lightweight Home Automation System (3,751★).
 *   [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
 
-### Other Awesome Lists / 📱 Social
+### Other Awesome Lists / 🌍 In other languages
 
 *   [awesome-iot (⭐3.9k)](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources (3,928★).
