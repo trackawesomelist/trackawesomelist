@@ -12,6 +12,10 @@
 
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
 
+### Preventing / Server-Side Request Forgery
+
+*   [UUSEC WAF (⭐1.6k)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
+
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### Crypto
@@ -662,7 +666,7 @@
 
 ### Frontend (like SOP bypass, URL spoofing, and something like that)
 
-*   [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) - Written by [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/aaj@google.com) and [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mkwst@google.com).
+*   [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) - Written by [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:aaj@google.com) and [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:mkwst@google.com).
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
@@ -747,7 +751,7 @@
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Written by [@umpox](https://medium.com/@umpox).
-*   [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) - Written by [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/info@optiv.com).
+*   [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) - Written by [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:info@optiv.com).
 
 ## [Mar 26 - Apr 01, 2018](/content/2018/13/README.md)
 
@@ -805,7 +809,7 @@
 ### Reconnaissance / OSINT - Open-Source Intelligence
 
 *   [Databases - start.me](https://start.me/p/QRENnO/databases) - Various databases which you can use for your OSINT research by [@technisette](https://twitter.com/technisette).
-*   [peoplefindThor](https://peoplefindthor.dk/) - the easy way to find people on Facebook by \[postkassen]\(mailto:[postkassen@oejvind.dk](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:postkassen@oejvind.dk)?subject=peoplefindthor.dk comments).
+*   [peoplefindThor](https://peoplefindthor.dk/) - the easy way to find people on Facebook by [postkassen](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:postkassen@oejvind.dk?subject=peoplefindthor.dk%20comments).
 
 ## [Feb 19 - Feb 25, 2018](/content/2018/8/README.md)
 
@@ -964,7 +968,7 @@
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
-*   [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/phrack@saelo.net).
+*   [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:phrack@saelo.net).
 *   [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - Written by [@halbecaf](https://twitter.com/halbecaf).
 *   [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
 

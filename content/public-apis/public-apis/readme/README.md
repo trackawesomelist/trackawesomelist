@@ -190,7 +190,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Scanii](https://docs.scanii.com/)                                            | Simple REST API that can scan submitted documents/files for the presence of threats | `apiKey` | Yes   | Yes     |
 | [URLhaus](https://urlhaus-api.abuse.ch/)                                      | Bulk queries and Download Malware Samples                                           | No       | Yes   | Yes     |
 | [URLScan.io](https://urlscan.io/about-api/)                                   | Scan and Analyse URLs                                                               | `apiKey` | Yes   | Unknown |
-| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/)         | VirusTotal File/URL Analysis                                                        | `apiKey` | Yes   | Unknown |
+| [VirusTotal](https://docs.virustotal.com/reference/overview)                  | VirusTotal File/URL Analysis                                                        | `apiKey` | Yes   | Unknown |
 | [Web of Trust](https://support.mywot.com/hc/en-us/sections/360004477734-API-) | IP/domain/URL reputation                                                            | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
@@ -1355,17 +1355,17 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Open Source Projects
 
-| API                                                                              | Description                                                                                 | Auth    | HTTPS | CORS    |
-| :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------ | :---- | :------ |
-| [Countly](https://api.count.ly/reference)                                        | Countly web analytics                                                                       | No      | No    | Unknown |
-| [Creative Commons Catalog](https://api.creativecommons.engineering/)             | Search among openly licensed and public domain works                                        | `OAuth` | Yes   | Yes     |
-| [Datamuse](https://www.datamuse.com/api/)                                        | Word-finding query engine                                                                   | No      | Yes   | Unknown |
-| [Drupal.org](https://www.drupal.org/drupalorg/docs/api)                          | Drupal.org                                                                                  | No      | Yes   | Unknown |
-| [Evil Insult Generator](https://evilinsult.com/api)                              | Evil Insults                                                                                | No      | Yes   | Yes     |
-| [GitHub Contribution Chart Generator](https://github-contributions.vercel.app)   | Create an image of your GitHub contributions                                                | No      | Yes   | Yes     |
-| [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe                          | No      | Yes   | Yes     |
-| [Metabase](https://www.metabase.com/)                                            | An open source Business Intelligence server to share data and analytics inside your company | No      | Yes   | Yes     |
-| [Shields](https://shields.io/)                                                   | Concise, consistent, and legible badges in SVG and raster format                            | No      | Yes   | Unknown |
+| API                                                                            | Description                                                                                 | Auth    | HTTPS | CORS    |
+| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------ | :---- | :------ |
+| [Countly](https://api.count.ly/reference)                                      | Countly web analytics                                                                       | No      | No    | Unknown |
+| [Creative Commons Catalog](https://api.creativecommons.engineering/)           | Search among openly licensed and public domain works                                        | `OAuth` | Yes   | Yes     |
+| [Datamuse](https://www.datamuse.com/api/)                                      | Word-finding query engine                                                                   | No      | Yes   | Unknown |
+| [Drupal.org](https://www.drupal.org/drupalorg/docs/api)                        | Drupal.org                                                                                  | No      | Yes   | Unknown |
+| [Evil Insult Generator](https://evilinsult.com/api)                            | Evil Insults                                                                                | No      | Yes   | Yes     |
+| [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions                                                | No      | Yes   | Yes     |
+| [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)      | Add dynamically generated statistics to your GitHub profile ReadMe                          | No      | Yes   | Yes     |
+| [Metabase](https://www.metabase.com/)                                          | An open source Business Intelligence server to share data and analytics inside your company | No      | Yes   | Yes     |
+| [Shields](https://shields.io/)                                                 | Concise, consistent, and legible badges in SVG and raster format                            | No      | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1448,7 +1448,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [PhotoRoom](https://www.photoroom.com/api/)                                                                                       | Remove background from images                                                    | `apiKey` | Yes   | Unknown |
 | [Pixabay](https://pixabay.com/sk/service/about/api/)                                                                              | Photography                                                                      | `apiKey` | Yes   | Unknown |
 | [PlaceKeanu](https://placekeanu.com/)                                                                                             | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No       | Yes   | Unknown |
-| [Readme typing SVG (⭐8.7k)](https://github.com/DenverCoder1/readme-typing-svg)                                                    | Customizable typing and deleting text SVG                                        | No       | Yes   | Unknown |
+| [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg)                                                            | Customizable typing and deleting text SVG                                        | No       | Yes   | Unknown |
 | [Remove.bg](https://www.remove.bg/api)                                                                                            | Image Background removal                                                         | `apiKey` | Yes   | Unknown |
 | [ReSmush.it](https://resmush.it/api)                                                                                              | Photo optimization                                                               | No       | No    | Unknown |
 | [shutterstock](https://api-reference.shutterstock.com/)                                                                           | Stock Photos and Videos                                                          | `OAuth`  | Yes   | Unknown |

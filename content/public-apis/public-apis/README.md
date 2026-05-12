@@ -6,6 +6,22 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 12, 2026](/content/2026/05/12/README.md)
+
+### Anti-Malware
+
+- API: [VirusTotal](https://docs.virustotal.com/reference/overview)
+
+  Description: VirusTotal File/URL Analysis
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Documents & Productivity
@@ -7184,7 +7200,7 @@ A collective list of free APIs
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -7374,7 +7390,7 @@ A collective list of free APIs
 
 ### Photography
 
-- API: [Readme typing SVG (⭐8.7k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 
@@ -17086,17 +17102,6 @@ A collective list of free APIs
 - API: [Metacert](https://metacert.com/)
 
   Description: Metacert Link Flagging
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [VirusTotal](https://www.virustotal.com/en/documentation/public-api/)
-
-  Description: VirusTotal File/URL Analysis
 
   Auth: `apiKey`
 

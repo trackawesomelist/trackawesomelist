@@ -24,7 +24,30 @@ Needless to say, most websites suffer from various types of bugs which may event
 
 ***
 
-If you enjoy this awesome list and would like to support it, check out my [Patreon](https://www.patreon.com/boik) page :)<br>Also, don't forget to check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitter](https://twitter.com/qazbnm456)!
+If you enjoy this awesome list and would like to support it, check out my [Patreon](https://www.patreon.com/boik) page :)<br>Also, don't forget to check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on [X (formerly Twitter)](https://x.com/boik_su)!
+
+***
+
+### 🤖 Using an AI assistant?
+
+This list also ships as a Claude Code Skill so AI agents can query it at runtime — no stale snapshot, always reads the latest `data/index.json` from `master`.
+
+**Install** (one-liner, recommended):
+
+```bash
+npx skills add qazbnm456/awesome-web-security -a claude-code -g -y
+```
+
+Or inside [Claude Code](https://claude.com/claude-code), use the plugin marketplace:
+
+```text
+/plugin marketplace add qazbnm456/awesome-web-security
+/plugin install awesome-web-security
+```
+
+For [Codex (⭐79k)](https://github.com/openai/codex), swap `-a claude-code` → `-a codex`.
+
+Then ask any web-security question and the skill activates on topics like XSS, SQLi, SSRF, JWT, OAuth, recon, WAF evasion, deserialization, SAML, CTF write-ups, and more. See [`skills/awesome-web-security/SKILL.md`](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/skills/awesome-web-security/SKILL.md) for the full trigger list.
 
 ## Contents
 
@@ -604,7 +627,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 *   [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) - Written by [portswigger](https://portswigger.net/).
 *   [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) - Written by [Manuel](https://twitter.com/magicmac2000).
 *   [Особенности Safari в client-side атаках](https://bo0om.ru/safari-client-side) - Written by [Bo0oM](https://bo0om.ru/author/admin).
-*   [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) - Written by [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/aaj@google.com) and [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mkwst@google.com).
+*   [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) - Written by [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:aaj@google.com) and [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:mkwst@google.com).
 *   [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) - Written by [Michał Bentkowski](https://blog.bentkowski.info/).
 *   [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) - Written by [David Gilbertson](https://hackernoon.com/@david.gilbertson).
 *   [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/) - Written by [jameshfisher](https://jameshfisher.com/).
@@ -616,7 +639,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
-*   [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/phrack@saelo.net).
+*   [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:phrack@saelo.net).
 *   [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - Written by [@halbecaf](https://twitter.com/halbecaf).
 *   [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
 *   [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) - Written by [@moritzj](http://twitter.com/moritzj).
@@ -682,7 +705,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 *   [xray (⭐2.3k)](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks by [@evilsocket](https://github.com/evilsocket).
 *   [ZoomEye](https://www.zoomeye.org/) - Cyberspace Search Engine by [@zoomeye\_team](https://twitter.com/zoomeye_team).
 *   [Databases - start.me](https://start.me/p/QRENnO/databases) - Various databases which you can use for your OSINT research by [@technisette](https://twitter.com/technisette).
-*   [peoplefindThor](https://peoplefindthor.dk/) - the easy way to find people on Facebook by \[postkassen]\(mailto:[postkassen@oejvind.dk](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:postkassen@oejvind.dk)?subject=peoplefindthor.dk comments).
+*   [peoplefindThor](https://peoplefindthor.dk/) - the easy way to find people on Facebook by [postkassen](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:postkassen@oejvind.dk?subject=peoplefindthor.dk%20comments).
 *   [tinfoleak (⭐2k)](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis by [@vaguileradiaz](https://github.com/vaguileradiaz).
 *   [Photon (⭐13k)](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT by [@s0md3v](https://github.com/s0md3v).
 *   [ReconDog (⭐2k)](https://github.com/s0md3v/ReconDog) - Reconnaissance Swiss Army Knife by [@s0md3v](https://github.com/s0md3v).
@@ -822,6 +845,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 *   [Acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 *   [DOMPurify (⭐17k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Csper](https://csper.io) - A set of tools for building/evaluating/monitoring content-security-policy to prevent/detect cross site scripting by [Csper](https://csper.io).
+*   [UUSEC WAF (⭐1.6k)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
 
 <a name="tools-proxy"></a>
 
@@ -963,7 +987,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 *   [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/) - Written by [@fransrosen](https://twitter.com/fransrosen).
 *   [TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)](https://voidsec.com/vpn-leak/) - Written by [voidsec](https://voidsec.com/).
 *   [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Written by [@umpox](https://medium.com/@umpox).
-*   [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) - Written by [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/info@optiv.com).
+*   [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) - Written by [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/README.md/mailto:info@optiv.com).
 *   [Domato Fuzzer's Generation Engine Internals](https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals) - Written by [sigpwn](https://www.sigpwn.io/).
 *   [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) - Written by [Ruslan Habalov](https://www.evonide.com/).
 *   [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) - Written by [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) and [@matir](https://twitter.com/matir).
