@@ -22,6 +22,34 @@ A collective list of free APIs
 
 
 
+### Cryptocurrency
+
+- API: [PumpFunData](https://pumpfundata.com/docs)
+
+  Description: Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Entertainment
+
+- API: [justmeme.wtf](https://justmeme.wtf/api-docs)
+
+  Description: Free meme API with 2400+ templates, search, trending, and AI generation
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Documents & Productivity
@@ -7200,7 +7228,7 @@ A collective list of free APIs
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -7390,7 +7418,7 @@ A collective list of free APIs
 
 ### Photography
 
-- API: [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 

@@ -6,6 +6,16 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ [Daily](/content/CUTR-at-USF/awesome-transit/README.md) / Weekly / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### GTFS Analysis Tools / Rust
+
+*   [Trak.Tools (⭐0)](https://github.com/SparksTheFolf/trak.tools) - Alows viewing raw GTFS data on a select scale to further enhance visual data editing and easier viewing.
+
+### Native Apps (open source) / Rust
+
+*   [Home Assistant (⭐87k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### GTFS Courses
@@ -54,7 +64,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### GTFS Analysis Tools / Rust
 
-*   [City2Graph (⭐1.1k)](https://github.com/c2g-dev/city2graph) - A Python library for converting GTFS data into graph representations for network analysis and Graph Neural Networks (GNNs). Supports loading GTFS feeds, constructing transit graphs, network centrality analysis, and isochrone-based accessibility analysis on multimodal (street + transit) networks.
+*   [City2Graph (⭐1.1k)](https://github.com/c2g-dev/city2graph) - A Python library for converting GTFS data into graph representations for network analysis and Graph Neural Networks (GNNs). Supports loading GTFS feeds, constructing transit graphs, network centrality analysis, and isochrone-based accessibility analysis on multimodal (street + transit) networks. [See resource](https://city2graph.net/latest/examples/gtfs.html)
 
 ### Web Apps (open source) / Rust
 

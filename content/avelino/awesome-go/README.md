@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 12, 2026](/content/2026/05/12/README.md)
+
+### Financial
+
+*   [decimal (⭐0)](https://github.com/aytechnet/decimal) - High performance 64-bit decimal partially compatible with [shopspring/decimal (⭐7.3k)](https://github.com/shopspring/decimal) and int64, including Weight and Length.
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Artificial Intelligence
@@ -95,7 +101,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Databases Implemented in Go
 
-*   [lynxdb (⭐47)](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
+*   [lynxdb (⭐233)](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.
 
 ## [Apr 23, 2026](/content/2026/04/23/README.md)
 
@@ -205,7 +211,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Template Engines
 
-*   [gox (⭐53)](https://github.com/doors-dev/gox) - HTML templates as first-class Go expressions, with seamless editor support.
+*   [gox (⭐54)](https://github.com/doors-dev/gox) - HTML templates as first-class Go expressions, with seamless editor support.
 
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 
@@ -335,11 +341,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [ai (⭐19)](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
+*   [ai (⭐23)](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
 
 ### Advanced Console UIs
 
-*   [chroma16 (⭐1)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
+*   [chroma16 (⭐2)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
 
 ### Financial
 
@@ -361,7 +367,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Strings
 
-*   [stringFormatter (⭐65)](https://github.com/Wissance/stringFormatter) - String formatting like in Python or C# manner with the additional text formatting features.
+*   [stringFormatter (⭐66)](https://github.com/Wissance/stringFormatter) - String formatting like in Python or C# manner with the additional text formatting features.
 
 ## [Mar 24, 2026](/content/2026/03/24/README.md)
 
@@ -657,7 +663,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [box-cli-maker (⭐629)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
+*   [box-cli-maker (⭐632)](https://github.com/box-cli-maker/box-cli-maker) - Render highly customizable boxes in the terminal.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -1592,7 +1598,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Microsoft Word
 
-*   [godocx (⭐255)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
+*   [godocx (⭐256)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
 ## [Sep 15, 2024](/content/2024/09/15/README.md)
 
@@ -2842,7 +2848,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [portal (⭐1.7k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
+*   [portal (⭐1.8k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -4464,7 +4470,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Continuous Integration
 
 *   [CDS (⭐4.8k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
-*   [drone (⭐35k)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
+*   [drone (⭐36k)](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
 *   [gomason (⭐66)](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace.
 *   [goveralls (⭐795)](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
 *   [overalls (⭐116)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
@@ -4959,7 +4965,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [mpo (⭐25)](https://github.com/donatj/mpo) - Decoder and conversion tool for MPO 3D Photos.
 *   [picfit (⭐2.3k)](https://github.com/thoas/picfit) - An image resizing server written in Go.
 *   [pt (⭐2.1k)](https://github.com/fogleman/pt) - Path tracing engine written in Go.
-*   [scout (⭐26)](https://github.com/jonoton/scout) - Scout is a standalone open source software solution for DIY video security.
+*   [scout (⭐28)](https://github.com/jonoton/scout) - Scout is a standalone open source software solution for DIY video security.
 *   [smartcrop (⭐1.9k)](https://github.com/muesli/smartcrop) - Finds good crops for arbitrary images and crop sizes.
 *   [steganography (⭐354)](https://github.com/auyer/steganography) - Pure Go Library for LSB steganography.
 *   [stegify (⭐1.3k)](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
@@ -4987,7 +4993,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-quartz (⭐2k)](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
 *   [gocron (⭐7k)](https://github.com/go-co-op/gocron) - Easy and fluent Go job scheduling. This is an actively maintained fork of [jasonlvhit/gocron (⭐3.5k)](https://github.com/jasonlvhit/gocron).
 *   [gron (⭐1k)](https://github.com/roylee0704/gron) - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
-*   [gronx (⭐503)](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
+*   [gronx (⭐505)](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
 *   [JobRunner (⭐1.1k)](https://github.com/bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
 *   [leprechaun (⭐107)](https://github.com/kilgaloon/leprechaun) - Job scheduler that supports webhooks, crons and classic scheduling.
 *   [sched (⭐30)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
@@ -5159,7 +5165,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [rabbus (⭐98)](https://github.com/rafaeljesus/rabbus) - A tiny wrapper over amqp exchanges and queues.
 *   [rabtap (⭐281)](https://github.com/jandelgado/rabtap) - RabbitMQ swiss army knife cli app.
 *   [RapidMQ (⭐70)](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
-*   [redisqueue (⭐139)](https://github.com/robinjoseph08/redisqueue) - redisqueue provides a producer and consumer of a queue that uses Redis streams.
+*   [redisqueue (⭐138)](https://github.com/robinjoseph08/redisqueue) - redisqueue provides a producer and consumer of a queue that uses Redis streams.
 *   [rmqconn (⭐23)](https://github.com/sbabiv/rmqconn) - RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to the Close () method to be closed.
 *   [sarama (⭐12k)](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
 *   [Uniqush-Push (⭐1.6k)](https://github.com/uniqush/uniqush-push) - Redis backed unified push service for server-side notifications to mobile devices.
@@ -5244,7 +5250,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gotoprom (⭐108)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐431)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
 *   [gtree (⭐332)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
-*   [health (⭐830)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
+*   [health (⭐831)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐449)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐276)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
 *   [hostutils (⭐13)](https://github.com/Wing924/hostutils) - A golang library for packing and unpacking FQDNs list.
@@ -5323,7 +5329,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gNxI (⭐286)](https://github.com/google/gnxi) - A collection of tools for Network Management that use the gNMI and gNOI protocols.
 *   [go-getter (⭐1.8k)](https://github.com/hashicorp/go-getter) - Go library for downloading files or directories from various sources using a URL.
 *   [go-powerdns (⭐103)](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
-*   [go-stun (⭐719)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
+*   [go-stun (⭐718)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
 *   [gobgp (⭐4k)](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
 *   [gopacket (⭐6.8k)](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 *   [gopcap (⭐491)](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.
@@ -5551,7 +5557,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [flipt (⭐4.8k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
 *   [go-feature-flag (⭐2k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 *   [go-proxy-cache (⭐150)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
-*   [lets-proxy2 (⭐103)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
+*   [lets-proxy2 (⭐104)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
 *   [minio (⭐61k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐16)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 *   [nginx-prometheus (⭐43)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
@@ -5712,7 +5718,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Death (⭐198)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 *   [delve (⭐663)](https://github.com/derekparker/delve) - Go debugger.
 *   [dlog (⭐17)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
-*   [equalizer (⭐90)](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.
+*   [equalizer (⭐89)](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.
 *   [ergo (⭐649)](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 *   [filler (⭐18)](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
@@ -5765,7 +5771,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [koazee (⭐529)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
 *   [lets-go (⭐7)](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
 *   [limiters (⭐636)](https://github.com/mennanov/limiters) - Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
-*   [lrserver (⭐129)](https://github.com/jaschaephraim/lrserver) - LiveReload server for Go.
+*   [lrserver (⭐128)](https://github.com/jaschaephraim/lrserver) - LiveReload server for Go.
 *   [mani (⭐691)](https://github.com/alajmo/mani) - CLI tool to help you manage multiple repositories.
 *   [mc (⭐3.5k)](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
 *   [mergo (⭐3.1k)](https://github.com/imdario/mergo) - Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.

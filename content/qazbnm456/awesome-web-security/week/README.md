@@ -8,6 +8,14 @@
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Reconnaissance / OSINT - Open-Source Intelligence
+
+*   [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
+
+### Fuzzing / Sub Domain Enumeration
+
+*   [wayparam (⭐6)](https://github.com/aleff-github/wayparam) - Cross-platform Python CLI that fetches historical URLs from the Wayback CDX API and outputs normalized parameterized URLs for fuzzing, by [@aleff-github](https://github.com/aleff-github).
+
 ### Scanning / Sub Domain Enumeration
 
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
@@ -15,6 +23,16 @@
 ### Preventing / Server-Side Request Forgery
 
 *   [UUSEC WAF (⭐1.6k)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
+*   [BunkerWeb](https://www.bunkerweb.io) - A next-generation open-source Web Application Firewall built on nginx, maintained by [Bunkerity](https://github.com/bunkerity).
+
+### Social Engineering Database / Server-Side Request Forgery
+
+*   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if your email or domain was compromised by infostealer malware, maintained by [Hudson Rock](https://www.hudsonrock.com/).
+
+### Miscellaneous / Server-Side Request Forgery
+
+*   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/publication/cybersecurity-campaign-playbook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
+*   [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
@@ -1133,7 +1151,6 @@
 *   [awesome-bug-bounty (⭐5.6k)](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 *   [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](http://pwndizzle.blogspot.jp/).
 *   [bug-bounty-reference (⭐4.2k)](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
-*   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/CyberPlaybook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
 *   [EQGRP (⭐4.2k)](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
 *   [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) - Written by [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
 *   [Infosec\_Reference (⭐5.9k)](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck by [@rmusser01](https://github.com/rmusser01).

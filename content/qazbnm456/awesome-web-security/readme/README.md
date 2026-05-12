@@ -712,6 +712,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [espi0n/Dockerfiles (⭐40)](https://github.com/espi0n/Dockerfiles) - Dockerfiles for various OSINT tools by [@espi0n](https://github.com/espi0n).
 *   [Raccoon (⭐3.6k)](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning by [@evyatarmeged](https://github.com/evyatarmeged).
 *   [Social Mapper (⭐4k)](https://github.com/SpiderLabs/social_mapper) - Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by [@SpiderLabs](https://github.com/SpiderLabs).
+*   [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
 
 <a name="tools-sub-domain-enumeration"></a>
 
@@ -745,6 +746,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [dirhunt (⭐2k)](https://github.com/Nekmo/dirhunt) - Web crawler optimized for searching and analyzing the directory structure of a site by [@nekmo](https://github.com/Nekmo).
 *   [ssltest](https://www.ssllabs.com/ssltest/) - Online service that performs a deep analysis of the configuration of any SSL web server on the public internet. Provided by [Qualys SSL Labs](https://www.ssllabs.com).
 *   [fuzz.txt (⭐3.3k)](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files by [@Bo0oM](https://github.com/Bo0oM).
+*   [wayparam (⭐6)](https://github.com/aleff-github/wayparam) - Cross-platform Python CLI that fetches historical URLs from the Wayback CDX API and outputs normalized parameterized URLs for fuzzing, by [@aleff-github](https://github.com/aleff-github).
 
 <a name="tools-scanning"></a>
 
@@ -846,6 +848,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [DOMPurify (⭐17k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Csper](https://csper.io) - A set of tools for building/evaluating/monitoring content-security-policy to prevent/detect cross site scripting by [Csper](https://csper.io).
 *   [UUSEC WAF (⭐1.6k)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
+*   [BunkerWeb](https://www.bunkerweb.io) - A next-generation open-source Web Application Firewall built on nginx, maintained by [Bunkerity](https://github.com/bunkerity).
 
 <a name="tools-proxy"></a>
 
@@ -902,6 +905,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ## Social Engineering Database
 
 *   [haveibeenpwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach by [Troy Hunt](https://www.troyhunt.com/).
+*   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if your email or domain was compromised by infostealer malware, maintained by [Hudson Rock](https://www.hudsonrock.com/).
 
 ## Blogs
 
@@ -974,7 +978,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [awesome-bug-bounty (⭐5.6k)](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 *   [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](http://pwndizzle.blogspot.jp/).
 *   [bug-bounty-reference (⭐4.2k)](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
-*   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/CyberPlaybook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
+*   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/publication/cybersecurity-campaign-playbook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
 *   [EQGRP (⭐4.2k)](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
 *   [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) - Written by [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
 *   [Infosec\_Reference (⭐5.9k)](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck by [@rmusser01](https://github.com/rmusser01).
@@ -1005,6 +1009,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) - Written by [@sandrogauci](https://twitter.com/sandrogauci).
 *   [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 *   [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
+*   [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 
 ## Code of Conduct
 

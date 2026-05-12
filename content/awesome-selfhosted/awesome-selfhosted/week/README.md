@@ -8,6 +8,18 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Software / Communication - Custom Communication Systems
+
+*   [Continuwuity](https://continuwuity.org/) - Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit). ([Source Code](https://forgejo.ellis.link/continuwuation/continuwuity)) `Apache-2.0` `Rust/Docker/K8S/deb`
+
+### Software / Document Management
+
+*   [BentoPDF](https://bentopdf.com) `⚠` - Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser. ([Demo](https://bentopdf.com), [Source Code (⭐13k)](https://github.com/alam00000/bentopdf)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [GameAP](https://gameap.com/) - Game Administration Panel for managing game servers on Linux and Windows. ([Demo](https://demo.gameap.com/), [Source Code (⭐26)](https://github.com/gameap/gameap), [Clients](https://plugins.gameap.dev/)) `MIT` `Go/Docker`
+
 ### Software / Miscellaneous
 
 *   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐201)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
@@ -42,7 +54,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo Galleries
 
-*   [Memtly](https://docs.memtly.com/) - Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ([Demo](https://demo.memtly.com/), [Source Code (⭐21)](https://github.com/Memtly/Memtly.Community)) `GPL-3.0` `C#/Docker`
+*   [Memtly](https://docs.memtly.com/) - Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ([Demo](https://demo.memtly.com/), [Source Code (⭐37)](https://github.com/Memtly/Memtly.Community)) `GPL-3.0` `C#/Docker`
 
 ### Software / Remote Access
 

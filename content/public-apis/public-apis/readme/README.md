@@ -443,6 +443,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [NovaDax](https://doc.novadax.com/en-US/#introduction)                                                                | NovaDAX API to access all market data, trading management endpoints                              | `apiKey` | Yes   | Unknown |
 | [OKEx](https://www.okex.com/docs/)                                                                                    | Cryptocurrency exchange based in Seychelles                                                      | `apiKey` | Yes   | Unknown |
 | [Poloniex](https://docs.poloniex.com)                                                                                 | US based digital asset exchange                                                                  | `apiKey` | Yes   | Unknown |
+| [PumpFunData](https://pumpfundata.com/docs)                                                                           | Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files                           | `apiKey` | Yes   | Unknown |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api)                                             | Provides various endpoints to interact with the Solana Blockchain                                | No       | Yes   | Unknown |
 | [Technical Analysis](https://technical-analysis-api.com)                                                              | Cryptocurrency prices and technical analysis                                                     | `apiKey` | Yes   | No      |
 | [VALR](https://docs.valr.com/)                                                                                        | Cryptocurrency Exchange based in South Africa                                                    | `apiKey` | Yes   | Unknown |
@@ -715,6 +716,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Excuser](https://excuser.herokuapp.com/)                                                  | Get random excuses for various situations                                             | No       | Yes   | Unknown |
 | [Fun Fact](https://api.aakhilv.me)                                                         | A simple HTTPS api that can randomly select and return a fact from the FFA database   | No       | Yes   | Yes     |
 | [Imgflip](https://imgflip.com/api)                                                         | Gets an array of popular memes                                                        | No       | Yes   | Unknown |
+| [justmeme.wtf](https://justmeme.wtf/api-docs)                                              | Free meme API with 2400+ templates, search, trending, and AI generation               | No       | Yes   | Yes     |
 | [Meme Maker](https://mememaker.github.io/API/)                                             | REST API for create your own meme                                                     | No       | Yes   | Unknown |
 | [Memesio](https://memesio.com/developers/api)                                              | Meme creation API with templates, editable captions and hosted share links            | No       | Yes   | No      |
 | [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)                                     | Memes on Narendra Modi                                                                | No       | Yes   | Unknown |
@@ -1355,17 +1357,17 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Open Source Projects
 
-| API                                                                            | Description                                                                                 | Auth    | HTTPS | CORS    |
-| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------ | :---- | :------ |
-| [Countly](https://api.count.ly/reference)                                      | Countly web analytics                                                                       | No      | No    | Unknown |
-| [Creative Commons Catalog](https://api.creativecommons.engineering/)           | Search among openly licensed and public domain works                                        | `OAuth` | Yes   | Yes     |
-| [Datamuse](https://www.datamuse.com/api/)                                      | Word-finding query engine                                                                   | No      | Yes   | Unknown |
-| [Drupal.org](https://www.drupal.org/drupalorg/docs/api)                        | Drupal.org                                                                                  | No      | Yes   | Unknown |
-| [Evil Insult Generator](https://evilinsult.com/api)                            | Evil Insults                                                                                | No      | Yes   | Yes     |
-| [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions                                                | No      | Yes   | Yes     |
-| [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)      | Add dynamically generated statistics to your GitHub profile ReadMe                          | No      | Yes   | Yes     |
-| [Metabase](https://www.metabase.com/)                                          | An open source Business Intelligence server to share data and analytics inside your company | No      | Yes   | Yes     |
-| [Shields](https://shields.io/)                                                 | Concise, consistent, and legible badges in SVG and raster format                            | No      | Yes   | Unknown |
+| API                                                                              | Description                                                                                 | Auth    | HTTPS | CORS    |
+| :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------ | :---- | :------ |
+| [Countly](https://api.count.ly/reference)                                        | Countly web analytics                                                                       | No      | No    | Unknown |
+| [Creative Commons Catalog](https://api.creativecommons.engineering/)             | Search among openly licensed and public domain works                                        | `OAuth` | Yes   | Yes     |
+| [Datamuse](https://www.datamuse.com/api/)                                        | Word-finding query engine                                                                   | No      | Yes   | Unknown |
+| [Drupal.org](https://www.drupal.org/drupalorg/docs/api)                          | Drupal.org                                                                                  | No      | Yes   | Unknown |
+| [Evil Insult Generator](https://evilinsult.com/api)                              | Evil Insults                                                                                | No      | Yes   | Yes     |
+| [GitHub Contribution Chart Generator](https://github-contributions.vercel.app)   | Create an image of your GitHub contributions                                                | No      | Yes   | Yes     |
+| [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe                          | No      | Yes   | Yes     |
+| [Metabase](https://www.metabase.com/)                                            | An open source Business Intelligence server to share data and analytics inside your company | No      | Yes   | Yes     |
+| [Shields](https://shields.io/)                                                   | Concise, consistent, and legible badges in SVG and raster format                            | No      | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1448,7 +1450,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [PhotoRoom](https://www.photoroom.com/api/)                                                                                       | Remove background from images                                                    | `apiKey` | Yes   | Unknown |
 | [Pixabay](https://pixabay.com/sk/service/about/api/)                                                                              | Photography                                                                      | `apiKey` | Yes   | Unknown |
 | [PlaceKeanu](https://placekeanu.com/)                                                                                             | Resizable Keanu Reeves placeholder images with grayscale and young Keanu options | No       | Yes   | Unknown |
-| [Readme typing SVG](https://github.com/DenverCoder1/readme-typing-svg)                                                            | Customizable typing and deleting text SVG                                        | No       | Yes   | Unknown |
+| [Readme typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg)                                                    | Customizable typing and deleting text SVG                                        | No       | Yes   | Unknown |
 | [Remove.bg](https://www.remove.bg/api)                                                                                            | Image Background removal                                                         | `apiKey` | Yes   | Unknown |
 | [ReSmush.it](https://resmush.it/api)                                                                                              | Photo optimization                                                               | No       | No    | Unknown |
 | [shutterstock](https://api-reference.shutterstock.com/)                                                                           | Stock Photos and Videos                                                          | `OAuth`  | Yes   | Unknown |

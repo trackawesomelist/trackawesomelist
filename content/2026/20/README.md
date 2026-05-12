@@ -1,30 +1,148 @@
 # Awesome List Updates on May 18 - May 24, 2026
 
-23 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [1. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+
+### AI Coding Agents / Claude Code
+
+*   [JSONbored/awesome-claude (⭐217)](https://github.com/JSONbored/awesome-claude) — Searchable Claude Pro project collection ☆`217`
+
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Rust
+
+*   [Trak.Tools (⭐0)](https://github.com/SparksTheFolf/trak.tools) - Alows viewing raw GTFS data on a select scale to further enhance visual data editing and easier viewing.
+
+### Native Apps (open source) / Rust
+
+*   [Home Assistant (⭐87k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
+
+## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+
+### Platforms and Software Resources / Urban Design Tools and Platforms
+
+*   [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data quickly.
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / UI Components
+
+*   [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies.
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Tools / Educational Tools
+
+*   [NN Visual](https://nn-visual.com) - Interactive visualizations explaining neural networks, backpropagation, attention mechanisms, and transformers.
+
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Books
+
+*   [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
+
+### Learning and Studying
+
+*   [Terraform Academy](https://www.terraformacademy.app) - Interactive Terraform / IaC learning platform with hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress tracking. See also the [SRE Pro Tips blog](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) and the mobile/PWA apps below.
+
+### Apps
+
+*   [Terraform Academy — iOS](https://apps.apple.com/us/app/terraform-academy/id6745738634) - Native iOS app for the Terraform Academy interactive learning platform. Hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress sync across devices.
+*   [Terraform Academy — Android](https://play.google.com/store/apps/details?id=com.terraformacade1.app) - Native Android app for the Terraform Academy learning platform with the same labs, cert prep, and AI coaching as the iOS and web versions.
+*   [Terraform Academy — PWA / Web App](https://www.terraformacademy.app/) - Installable Progressive Web App version of Terraform Academy. Works offline, installs to home screen on any platform, and syncs progress with the mobile apps.
+
+### Tutorials and Blog Posts / Beginner Guides
+
+*   [A Comprehensive Guide to Terraform](https://www.gruntwork.io/blog/a-comprehensive-guide-to-terraform) - Series of blog posts from the author of "Terraform: Up & Running" that guide the reader from beginning with Terraform to using it in the real world.
+*   [Building a SaaS API? Don't Forget Your Terraform Provider](https://www.speakeasy.com/blog/build-terraform-providers) - Why you should write a terraform provider
+
+### Tutorials and Blog Posts / Writing Custom Providers
+
+*   [Terraform Provider Code generation](https://www.speakeasy.com/docs/terraform/create-terraform) - Guide to generating a terraform provider from an OpenAPI specification (Vendor Supported)
+
+### Tutorials and Blog Posts / How-To
+
+*   [How To Write OPA for Terraform](https://scalr.com/learning-center/opa-series-part-1-open-policy-agent-and-terraform) - How to use Open Policy Agent to evaluate and enforce policy on your Terraform plans
+*   [Terraforming 1Password](https://1password.com/blog/terraforming-1password) - How 1Password migrated from CloudFormation to Terraform.
+*   [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasy.com/blog/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
+
+### Tutorials and Blog Posts / Google Cloud
+
+*   [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://docs.cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code) - Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps.
+*   [Getting started with Terraform on Google Cloud](https://docs.cloud.google.com/docs/terraform/create-vm-instance) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
+*   [Managing Cloud Infrastructure with Terraform](https://www.skills.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
+
+### Community Modules / Miscellaneous
+
+*   [terraform-gce-atlantis (⭐37)](https://github.com/runatlantis/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
+*   [terraform-static-website-s3-cloudfront (⭐41)](https://github.com/sergej-brazdeikis/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
+
+### Managed Registries / Miscellaneous
+
+*   [cloudsmith](https://docs.cloudsmith.com/formats/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
+
+### Providers / Hashicorp supported providers
+
+*   [terraform-provider-vsphere (⭐673)](https://github.com/vmware/terraform-provider-vsphere) - Provider for VMware vSphere.
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-keycloak (⭐923)](https://github.com/keycloak/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
+*   [terraform-provider-snowflake (⭐676)](https://github.com/snowflakedb/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+
+### Tools / Community providers
+
+*   [drifthound (⭐63)](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
+*   [hcledit (mercari) (⭐62)](https://github.com/mercari/hcledit) - Go package to edit HCL configuration
+*   [hcledit (minamijoyo) (⭐535)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-checker/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
+*   [Speakeasy](https://www.speakeasy.com/) - Generate a terraform provider from an OpenAPI specification.
+*   [tfgen (⭐89)](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY.
+
+### Libraries / IDE
+
+*   [hcl4j (⭐74)](https://github.com/wondrify/hcl4j) - HCL parser in Java
+
+### Terraform Enterprise Tooling / IDE
+
+*   [terraform-enterprise-migrator (⭐13)](https://github.com/sil-org/tfc-ops) - Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.
+
+### Videos / IDE
+
+*   [Your Weekly Dose of Terraform](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q\&A, live coding, and some hacking with Terraform.
+
+## [7. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Data Sources
 
 *   [AnimeHub](https://animehub.wiki) - Anime database with legal streaming navigator. \[English/中文/日本語]
 
-## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [8. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [3. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+## [9. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### Web-Based
 
 *   Prestige ([repo (⭐402)](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 
-## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+
+### Reconnaissance / OSINT - Open-Source Intelligence
+
+*   [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
+
+### Fuzzing / Sub Domain Enumeration
+
+*   [wayparam (⭐6)](https://github.com/aleff-github/wayparam) - Cross-platform Python CLI that fetches historical URLs from the Wayback CDX API and outputs normalized parameterized URLs for fuzzing, by [@aleff-github](https://github.com/aleff-github).
 
 ### Scanning / Sub Domain Enumeration
 
@@ -33,21 +151,31 @@
 ### Preventing / Server-Side Request Forgery
 
 *   [UUSEC WAF (⭐1.6k)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
+*   [BunkerWeb](https://www.bunkerweb.io) - A next-generation open-source Web Application Firewall built on nginx, maintained by [Bunkerity](https://github.com/bunkerity).
 
-## [5. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+### Social Engineering Database / Server-Side Request Forgery
+
+*   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if your email or domain was compromised by infostealer malware, maintained by [Hudson Rock](https://www.hudsonrock.com/).
+
+### Miscellaneous / Server-Side Request Forgery
+
+*   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/publication/cybersecurity-campaign-playbook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
+*   [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
+
+## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / App Vulnerability Scanners
 
 *   [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in : Android playstore, iOS Appstore, Huawei AppGallery
 
-## [6. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmakefmt (⭐14)](https://github.com/cmakefmt/cmakefmt) - Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [cmake-xray (⭐1)](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Data Analysis
 
@@ -65,7 +193,7 @@
 *   General
     *   [dlt (⭐5.3k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
-## [8. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### 🌍 In your language
 
@@ -123,31 +251,43 @@
 
 *   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
 
-## [9. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 
-## [10. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Progressive Web Application
 
 *   [graphcommerce (⭐359)](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [Continuwuity](https://continuwuity.org/) - Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit). ([Source Code](https://forgejo.ellis.link/continuwuation/continuwuity)) `Apache-2.0` `Rust/Docker/K8S/deb`
+
+### Software / Document Management
+
+*   [BentoPDF](https://bentopdf.com) `⚠` - Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser. ([Demo](https://bentopdf.com), [Source Code (⭐13k)](https://github.com/alam00000/bentopdf)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [GameAP](https://gameap.com/) - Game Administration Panel for managing game servers on Linux and Windows. ([Demo](https://demo.gameap.com/), [Source Code (⭐26)](https://github.com/gameap/gameap), [Clients](https://plugins.gameap.dev/)) `MIT` `Go/Docker`
 
 ### Software / Miscellaneous
 
 *   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐201)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [CatchDoms](https://catchdoms.com) - Aggregator of expired and dropping domain listings from 16 marketplaces, with SEO enrichment (backlinks, Trust Flow, Wayback history) and a quality score. Free plan: 10 unlocked listings, 5 favorites, 3 saved searches. 7-day Pro trial on signup includes full REST API and MCP server access.
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### CLI
 
@@ -157,13 +297,13 @@
 
 *   [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 
-## [14. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [20. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [andrej-karpathy-skills (⭐3)](https://github.com/swarmclawai/andrej-karpathy-skills) - Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.
 
-## [15. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [21. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -180,13 +320,17 @@
 
 *   [Terraform Academy OpenTofu Practitioner Path](https://www.terraformacademy.app/max/labs/opentofu-basics.html) - Interactive browser-based lab covering native state and plan encryption with PBKDF2 and AES-GCM, plus a full practitioner readiness path that reuses HCL fundamentals applicable to OpenTofu 1.6 and later.
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
 *   [zenflow (⭐2)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Financial
+
+*   [decimal (⭐0)](https://github.com/aytechnet/decimal) - High performance 64-bit decimal partially compatible with [shopspring/decimal (⭐7.3k)](https://github.com/shopspring/decimal) and int64, including Weight and Length.
+
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
@@ -196,7 +340,7 @@
 
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 
-## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -246,19 +390,33 @@
 
 *   [JSON:API (⭐7.7k) (⭐7.7k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SSH Keys Manager (⭐51)](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing local SSH keys and Git identities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
 - API: [VirusTotal](https://docs.virustotal.com/reference/overview)
 
   Description: VirusTotal File/URL Analysis
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Cryptocurrency
+
+- API: [PumpFunData](https://pumpfundata.com/docs)
+
+  Description: Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files
 
   Auth: `apiKey`
 
@@ -281,6 +439,20 @@
   CORS: Yes
 
   : 
+
+
+
+### Entertainment
+
+- API: [justmeme.wtf](https://justmeme.wtf/api-docs)
+
+  Description: Free meme API with 2400+ templates, search, trending, and AI generation
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -354,7 +526,7 @@
 
 
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [zert](https://github.com/oxcl/zert)
 
@@ -373,7 +545,7 @@
 *   [pnpm (bgowers) (⭐1)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 *   [undo-dir (⭐6)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 
-## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -383,7 +555,7 @@
 
 *   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
 
-## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [29. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
