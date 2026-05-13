@@ -233,6 +233,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-aws-transit-gateway (⭐163)](https://github.com/terraform-aws-modules/terraform-aws-transit-gateway) - Creates Transit Gateway resources on AWS.
 *   [terraform-aws-vpc (⭐3.2k)](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS (verified and very popular module).
 *   [terraform-aws-vpn-gateway (⭐117)](https://github.com/terraform-aws-modules/terraform-aws-vpn-gateway) - Creates VPN gateway resources on AWS.
+*   [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) - Official Microsoft-owned collection of verified Terraform modules for Azure, codifying WAF best practices for consistent infrastructure deployment.
 *   [terraform-azurerm-aks (⭐0)](https://github.com/kjanshair/terraform-azurerm-aks) - Create AKS resources on Azure.
 *   [terraform-azurerm-iis (⭐6)](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - Install IIS Server on Azure VM instance.
 *   [terraform-azurerm-mysql (⭐2)](https://github.com/foreverXZC/terraform-azurerm-mysql) - Create MySql Database on Azure.
@@ -266,6 +267,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Managed Registries
 
+*   [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) - Official Microsoft initiative providing verified, standards-compliant Terraform (and Bicep) modules for Azure resources and architectural patterns, aligned with the Well-Architected Framework.
 *   [cloudsmith](https://docs.cloudsmith.com/formats/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
 
 ## Providers
@@ -292,6 +294,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-coder (⭐59)](https://github.com/coder/terraform-provider-coder) - Provider for [Coder](https://coder.com)
 *   [terraform-provider-confluent (⭐55)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 *   [terraform-provider-datadog (⭐443)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-devhelm (⭐0)](https://github.com/devhelmhq/terraform-provider-devhelm) - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
 *   [terraform-provider-digitalocean (⭐563)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-dominos (⭐1.2k)](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
 *   [terraform-provider-elasticstack (⭐207)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
@@ -445,12 +448,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [Terraform-Visual (⭐666)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
 *   [terravision (⭐1.5k)](https://github.com/patrickchugh/terravision) - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
 *   [terraform.py (⭐454)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files. :skull:
-*   [terraformer (⭐3)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+*   [terraformer (⭐5)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`. :skull:
 *   [terraformize (⭐155)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint. :skull:
 *   [terraformsh (⭐69)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 *   [terragrunt-atlantis-config (⭐737)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
-*   [terragrunt (⭐9.5k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐379)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [terrahub (⭐224)](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
 *   [terramagic (⭐48)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !

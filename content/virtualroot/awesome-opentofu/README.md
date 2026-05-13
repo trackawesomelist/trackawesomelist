@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [May 13, 2026](/content/2026/05/13/README.md)
+
+### Tools / State
+
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Official
@@ -210,7 +216,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [Terragrunt (⭐9.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [Terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 
 ### Tools / Tests
 

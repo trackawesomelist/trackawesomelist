@@ -19,6 +19,7 @@
 ### Scanning / Sub Domain Enumeration
 
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
+*   [Trust Scan (⭐3)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 
 ### Preventing / Server-Side Request Forgery
 
@@ -28,6 +29,10 @@
 ### Social Engineering Database / Server-Side Request Forgery
 
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if your email or domain was compromised by infostealer malware, maintained by [Hudson Rock](https://www.hudsonrock.com/).
+
+### Application / Server-Side Request Forgery
+
+*   [OopsSec Store (⭐17)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
 
 ### Miscellaneous / Server-Side Request Forgery
 

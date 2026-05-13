@@ -2,9 +2,19 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 575 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 577 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Marketing
+
+*   [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
+
+### Misc
+
+*   [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -69,7 +79,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐7k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐7.2k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 
@@ -77,7 +87,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Visual programming
 
-*   [Oaysus (⭐6)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
+*   [Oaysus](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
@@ -179,7 +189,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐57k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐58k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 

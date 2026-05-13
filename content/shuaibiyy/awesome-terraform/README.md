@@ -6,6 +6,16 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [May 13, 2026](/content/2026/05/13/README.md)
+
+### Managed Registries / Miscellaneous
+
+*   [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) - Official Microsoft initiative providing verified, standards-compliant Terraform (and Bicep) modules for Azure resources and architectural patterns, aligned with the Well-Architected Framework.
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-devhelm (⭐0)](https://github.com/devhelmhq/terraform-provider-devhelm) - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Books
@@ -110,7 +120,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [terraformer (⭐3)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+*   [terraformer (⭐5)](https://github.com/chenrui333/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [Apr 27, 2026](/content/2026/04/27/README.md)
 
@@ -1345,7 +1355,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [terraform-provisioner (⭐13)](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
 *   [terraform-rake-tasks (⭐4)](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`. :skull:
-*   [terragrunt (⭐9.5k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐379)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [tfenv (⭐4.9k)](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 *   [tfscaffold (⭐280)](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.

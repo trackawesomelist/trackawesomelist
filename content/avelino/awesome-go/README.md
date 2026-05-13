@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 13, 2026](/content/2026/05/13/README.md)
+
+### Artificial Intelligence
+
+*   [dakera-go (⭐0)](https://github.com/dakera-ai/dakera-go) - Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Financial

@@ -88,7 +88,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 *Simplify your OpenTofu workflows with a thin wrapper.*
 
 *   [Atmos (⭐1.3k)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-*   [Terragrunt (⭐9.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [Terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 *   [Terramate (⭐3.6k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 *   [easy\_infra (⭐78)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 *   [pug (⭐678)](https://github.com/leg100/pug) - A terminal user interface for power users.
@@ -118,6 +118,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 *Analyze and manipulate OpenTofu's state.*
 
 *   [tfmigrate (⭐1.3k)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
 
 ### Providers
 

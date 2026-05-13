@@ -1,18 +1,62 @@
 # Awesome List Updates on May 18 - May 24, 2026
 
-29 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Training (Includes developer training for automation testers) / A/B Testing
+
+*   [FrontRow (⭐1)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
+
+## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### Marketing
+
+*   [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
+
+### Misc
+
+*   [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Konado (⭐31)](https://github.com/godothub/konado) - A dialogue creation toolkit with templates to help you quickly build Visual Novels, Gal Games, RPGs and other story‑driven projects.
+
+## [4. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+
+### Contents / Routing
+
+*   [Ufbr (⭐19)](https://github.com/zakarialaoui10/ufbr) - A tiny client side universal file-based router with `Preact` support.
+
+### Contents / Components
+
+*   [Preact Filter Builder (⭐0)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Buffers / Assembly
+
+*   [akasataikisiti/tabLocalBuffer.nvim (⭐3)](https://github.com/akasataikisiti/tabLocalBuffer.nvim) - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
+
+## [6. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+
+### Open Source Projects / Testing
+
+*   [BOFS (⭐13)](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
+
+## [7. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / Claude Code
 
 *   [JSONbored/awesome-claude (⭐217)](https://github.com/JSONbored/awesome-claude) — Searchable Claude Pro project collection ☆`217`
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Analysis Tools / Rust
 
@@ -22,25 +66,25 @@
 
 *   [Home Assistant (⭐87k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data quickly.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Educational Tools
 
 *   [NN Visual](https://nn-visual.com) - Interactive visualizations explaining neural networks, backpropagation, attention mechanisms, and transformers.
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
@@ -77,14 +121,15 @@
 *   [Getting started with Terraform on Google Cloud](https://docs.cloud.google.com/docs/terraform/create-vm-instance) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
 *   [Managing Cloud Infrastructure with Terraform](https://www.skills.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
 
+### Managed Registries / Miscellaneous
+
+*   [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) - Official Microsoft initiative providing verified, standards-compliant Terraform (and Bicep) modules for Azure resources and architectural patterns, aligned with the Well-Architected Framework.
+*   [cloudsmith](https://docs.cloudsmith.com/formats/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
+
 ### Community Modules / Miscellaneous
 
 *   [terraform-gce-atlantis (⭐37)](https://github.com/runatlantis/terraform-gce-atlantis) - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on Google Compute Engine.
 *   [terraform-static-website-s3-cloudfront (⭐41)](https://github.com/sergej-brazdeikis/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
-
-### Managed Registries / Miscellaneous
-
-*   [cloudsmith](https://docs.cloudsmith.com/formats/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy\_dollar\_sign:
 
 ### Providers / Hashicorp supported providers
 
@@ -92,6 +137,7 @@
 
 ### Providers / Vendor supported providers
 
+*   [terraform-provider-devhelm (⭐0)](https://github.com/devhelmhq/terraform-provider-devhelm) - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
 *   [terraform-provider-keycloak (⭐923)](https://github.com/keycloak/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 *   [terraform-provider-snowflake (⭐676)](https://github.com/snowflakedb/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
@@ -116,25 +162,25 @@
 
 *   [Your Weekly Dose of Terraform](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q\&A, live coding, and some hacking with Terraform.
 
-## [7. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [13. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Data Sources
 
 *   [AnimeHub](https://animehub.wiki) - Anime database with legal streaming navigator. \[English/中文/日本語]
 
-## [8. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [9. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+## [15. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### Web-Based
 
 *   Prestige ([repo (⭐402)](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 
-## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 
@@ -147,6 +193,7 @@
 ### Scanning / Sub Domain Enumeration
 
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
+*   [Trust Scan (⭐3)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 
 ### Preventing / Server-Side Request Forgery
 
@@ -157,25 +204,29 @@
 
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if your email or domain was compromised by infostealer malware, maintained by [Hudson Rock](https://www.hudsonrock.com/).
 
+### Application / Server-Side Request Forgery
+
+*   [OopsSec Store (⭐17)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
+
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [Cybersecurity Campaign Playbook](https://www.belfercenter.org/publication/cybersecurity-campaign-playbook) - Written by [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
 *   [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 
-## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [17. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / App Vulnerability Scanners
 
 *   [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in : Android playstore, iOS Appstore, Huawei AppGallery
 
-## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmakefmt (⭐14)](https://github.com/cmakefmt/cmakefmt) - Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [cmake-xray (⭐1)](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Data Analysis
 
@@ -193,7 +244,7 @@
 *   General
     *   [dlt (⭐5.3k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
-## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [20. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### 🌍 In your language
 
@@ -251,19 +302,19 @@
 
 *   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
 
-## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [21. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [22. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Progressive Web Application
 
 *   [graphcommerce (⭐359)](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -281,13 +332,13 @@
 
 *   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐201)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [CatchDoms](https://catchdoms.com) - Aggregator of expired and dropping domain listings from 16 marketplaces, with SEO enrichment (backlinks, Trust Flow, Wayback history) and a quality score. Free plan: 10 unlocked listings, 5 favorites, 3 saved searches. 7-day Pro trial on signup includes full REST API and MCP server access.
 
-## [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [25. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### CLI
 
@@ -297,13 +348,13 @@
 
 *   [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 
-## [20. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [26. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [andrej-karpathy-skills (⭐3)](https://github.com/swarmclawai/andrej-karpathy-skills) - Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.
 
-## [21. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [27. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -316,21 +367,26 @@
 *   [1.10 - S3 native state locking](https://opentofu.org/docs/v1.10/intro/whats-new/#native-s3-state-locking)
 *   [1.10 - Target and exclude files](https://opentofu.org/docs/v1.10/intro/whats-new/#target-and-exclude-files)
 
+### Tools / State
+
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
+
 ### Learning / Helpers
 
 *   [Terraform Academy OpenTofu Practitioner Path](https://www.terraformacademy.app/max/labs/opentofu-basics.html) - Interactive browser-based lab covering native state and plan encryption with PBKDF2 and AES-GCM, plus a full practitioner readiness path that reuses HCL fundamentals applicable to OpenTofu 1.6 and later.
 
-## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
+*   [dakera-go (⭐0)](https://github.com/dakera-ai/dakera-go) - Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
 *   [zenflow (⭐2)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
 ### Financial
 
 *   [decimal (⭐0)](https://github.com/aytechnet/decimal) - High performance 64-bit decimal partially compatible with [shopspring/decimal (⭐7.3k)](https://github.com/shopspring/decimal) and int64, including Weight and Length.
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
@@ -340,7 +396,7 @@
 
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 
-## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -390,13 +446,13 @@
 
 *   [JSON:API (⭐7.7k) (⭐7.7k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SSH Keys Manager (⭐51)](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing local SSH keys and Git identities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [32. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -526,7 +582,7 @@
 
 
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [zert](https://github.com/oxcl/zert)
 
@@ -545,7 +601,7 @@
 *   [pnpm (bgowers) (⭐1)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 *   [undo-dir (⭐6)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 
-## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -554,12 +610,6 @@
 ### Free Courses
 
 *   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
-
-## [29. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) - David J. Malan
 
 ---
 

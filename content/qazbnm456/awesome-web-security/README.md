@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/qazbnm456/awesome-web-security/week/README.md) / [Overview](/content/qazbnm456/awesome-web-security/readme/README.md) ]
 
+## [May 13, 2026](/content/2026/05/13/README.md)
+
+### Scanning / Sub Domain Enumeration
+
+*   [Trust Scan (⭐3)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
+
+### Application / Server-Side Request Forgery
+
+*   [OopsSec Store (⭐17)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence

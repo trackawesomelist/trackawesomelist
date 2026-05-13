@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 575 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 577 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -37,7 +37,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 *   [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
 *   [AnveVoice](https://anvevoice.app) - AI voice agent for websites — embed a voice AI assistant with no code. One-line JS snippet, trains on your content, 50+ languages.
-*   [AutoGen (⭐57k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐58k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 *   [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 *   [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 *   [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
@@ -55,7 +55,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-*   [PraisonAI (⭐7k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐7.2k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 *   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
@@ -124,6 +124,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 *   [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 *   [Datawave](https://datawave.app) - Startup Marketing Platform
+*   [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
 *   [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
 
 ## Online database creator apps
@@ -168,7 +169,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 *   [Lowcoder](https://lowcoder.cloud/) - A low-code platform that allows users to build custom software applications with minimal coding
 *   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
-*   [Oaysus (⭐6)](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
+*   [Oaysus](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
 *   [Observable](https://observablehq.com/) - Push the limits of data visualization.
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
@@ -225,4 +226,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 <!---->
 
 *   [NoCodeVista](https://nocodevista.com/) - No-code website builder for creating professional websites visually â€” no coding needed.
+
+<!---->
+
+*   [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Buffers / Assembly
+
+*   [akasataikisiti/tabLocalBuffer.nvim (⭐3)](https://github.com/akasataikisiti/tabLocalBuffer.nvim) - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Plugin Manager
@@ -48,7 +54,7 @@ Collections of awesome neovim plugins.
 
 ### Startup / Cursorline
 
-*   [Amansingh-afk/milli.nvim (⭐171)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+*   [Amansingh-afk/milli.nvim (⭐234)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 
 ### Note Taking / Cursorline
 
@@ -68,15 +74,15 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Diagnostics
 
-*   [J-Cowsert/classlayout.nvim (⭐36)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
+*   [J-Cowsert/classlayout.nvim (⭐43)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 
 ### Neovim Lua Development / Quickfix
 
-*   [saghen/blink.lib (⭐38)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
+*   [saghen/blink.lib (⭐45)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
 
 ### Editing Support / Scrollbar
 
-*   [DrKJeff16/shebang.nvim (⭐3)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
+*   [DrKJeff16/shebang.nvim (⭐5)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
 
 ### Editing Support / Comment
 
@@ -84,7 +90,7 @@ Collections of awesome neovim plugins.
 
 ### Pre-made Configuration / Automation
 
-*   [plutowang/nvim.pack (⭐3)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
+*   [plutowang/nvim.pack (⭐6)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -119,11 +125,11 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Assembly
 
-*   [romus204/tree-sitter-manager.nvim (⭐418)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
+*   [romus204/tree-sitter-manager.nvim (⭐545)](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
 
 ### Search / Assembly
 
-*   [KieranCanter/candela.nvim (⭐37)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+*   [KieranCanter/candela.nvim (⭐38)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 
 ### Project / Assembly
 
@@ -131,7 +137,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [ThorstenRhau/token (⭐150)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
+*   [ThorstenRhau/token (⭐154)](https://github.com/ThorstenRhau/token) - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 *   [hyperb1iss/silkcircuit (⭐49)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 
 ### Utility / Cursorline
@@ -140,7 +146,7 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Competitive Programming
 
-*   [emrearmagan/atlas.nvim (⭐22)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
+*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -172,7 +178,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Web Development
 
-*   [ankushbhagats/liveserver.nvim (⭐11)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
+*   [ankushbhagats/liveserver.nvim (⭐12)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -184,15 +190,15 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [ankushbhagats/pastel.nvim (⭐31)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+*   [ankushbhagats/pastel.nvim (⭐32)](https://github.com/ankushbhagats/pastel.nvim) - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 
 ### Note Taking / Cursorline
 
-*   [ymic9963/mdnotes.nvim (⭐24)](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
+*   [ymic9963/mdnotes.nvim (⭐31)](https://github.com/ymic9963/mdnotes.nvim) - Simple, improved, and extensible Markdown note taking.
 
 ### Git / GitHub
 
-*   [gh-tui-tools/gh-review.nvim (⭐12)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
+*   [gh-tui-tools/gh-review.nvim (⭐14)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -223,7 +229,7 @@ Collections of awesome neovim plugins.
 
 ### LSP / Diagnostics
 
-*   [Kurama622/clean-diagnostic (⭐7)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+*   [Kurama622/clean-diagnostic (⭐8)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
 
 ### Startup / Cursorline
 
@@ -241,7 +247,7 @@ Collections of awesome neovim plugins.
 
 ### Database / Automation
 
-*   [joryeugene/dadbod-grip.nvim (⭐137)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
+*   [joryeugene/dadbod-grip.nvim (⭐146)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
@@ -305,7 +311,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [juniorsundar/refer.nvim (⭐47)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
+*   [juniorsundar/refer.nvim (⭐49)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 
 ### Buffers / Assembly
 
@@ -4463,7 +4469,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐388)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐391)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 

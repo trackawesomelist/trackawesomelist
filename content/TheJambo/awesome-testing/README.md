@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [May 13, 2026](/content/2026/05/13/README.md)
+
+### Training (Includes developer training for automation testers) / A/B Testing
+
+*   [FrontRow (⭐1)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
+
 ## [May 10, 2026](/content/2026/05/10/README.md)
 
 ### Software / API Testing
@@ -575,7 +581,6 @@ A curated list of testing resources
 ### Training (Includes developer training for automation testers) / A/B Testing
 
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
-*   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
 *   [Cybrary](https://www.cybrary.it/) - Online free security training.
 

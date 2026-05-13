@@ -19,6 +19,10 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [1.10 - S3 native state locking](https://opentofu.org/docs/v1.10/intro/whats-new/#native-s3-state-locking)
 *   [1.10 - Target and exclude files](https://opentofu.org/docs/v1.10/intro/whats-new/#target-and-exclude-files)
 
+### Tools / State
+
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
+
 ### Learning / Helpers
 
 *   [Terraform Academy OpenTofu Practitioner Path](https://www.terraformacademy.app/max/labs/opentofu-basics.html) - Interactive browser-based lab covering native state and plan encryption with PBKDF2 and AES-GCM, plus a full practitioner readiness path that reuses HCL fundamentals applicable to OpenTofu 1.6 and later.
@@ -189,7 +193,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [Terragrunt (⭐9.5k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+*   [Terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 *   [tf (⭐87)](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 
 ### Tools / Tests
