@@ -712,6 +712,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [espi0n/Dockerfiles (⭐40)](https://github.com/espi0n/Dockerfiles) - Dockerfiles for various OSINT tools by [@espi0n](https://github.com/espi0n).
 *   [Raccoon (⭐3.6k)](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning by [@evyatarmeged](https://github.com/evyatarmeged).
 *   [Social Mapper (⭐4k)](https://github.com/SpiderLabs/social_mapper) - Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by [@SpiderLabs](https://github.com/SpiderLabs).
+*   [Marshall Extensions (⭐7)](https://github.com/bad-antics/marshall-extensions) - OSINT and security extensions for the Marshall privacy browser, providing reconnaissance and security-testing plugins by [@bad-antics](https://github.com/bad-antics).
 *   [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
 
 <a name="tools-sub-domain-enumeration"></a>
@@ -758,6 +759,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 *   [Nuclei (⭐28k)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
 *   [Trust Scan (⭐3)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
+*   [ZeroTrust (⭐2)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 
 <a name="tools-penetration-testing"></a>
 

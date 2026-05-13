@@ -8,6 +8,10 @@ A curated list of awesome things related to Flask
 
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
+### Security / Testing
+
+*   [secure (⭐1k)](https://github.com/TypeError/secure) - A lightweight library for defining and applying HTTP security headers consistently in Flask applications.
+
 ### Open Source Projects / Testing
 
 *   [BOFS (⭐13)](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.

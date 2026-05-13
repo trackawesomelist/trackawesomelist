@@ -477,6 +477,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [tfenv (⭐4.9k)](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 *   [tfgen (⭐89)](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY.
 *   [tfgpt (⭐74)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - CLI tool to automate importing existing infrastructure innto tfstate.
 *   [tfjson (⭐180)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 *   [tfk8s (⭐1.1k)](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
 *   [tflint (⭐5.7k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
@@ -569,7 +570,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-enterprise-cli (⭐12)](https://github.com/skierkowski/terraform-enterprise-cli) - Terraform Enterprise Command Line Interface.
 *   [terraform-enterprise-client (⭐8)](https://github.com/skierkowski/terraform-enterprise-client) - Terraform Enterprise API Ruby Client and Command Line tool.
 *   [terraform-enterprise-migrator (⭐13)](https://github.com/sil-org/tfc-ops) - Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.
-*   [tfe-state-explorer (⭐18)](https://github.com/segment-boneyard/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
 ## Videos
 

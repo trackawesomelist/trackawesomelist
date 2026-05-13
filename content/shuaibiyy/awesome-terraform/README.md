@@ -16,6 +16,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [terraform-provider-devhelm (⭐0)](https://github.com/devhelmhq/terraform-provider-devhelm) - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
 
+### Tools / Community providers
+
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - CLI tool to automate importing existing infrastructure innto tfstate.
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Books
@@ -519,10 +523,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy\_dollar\_sign:
 *   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
-
-### Terraform Enterprise Tooling / IDE
-
-*   [tfe-state-explorer (⭐18)](https://github.com/segment-boneyard/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
 ### Videos / IDE
 

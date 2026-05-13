@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [luminal-ai/luminal (⭐2.8k)](https://github.com/luminal-ai/luminal) \[[luminal](https://crates.io/crates/luminal)] - High-performance general-purpose inference compiler with RISC-style architecture, search-based optimization, and native CUDA/Metal backends. Supports transformers, convnets, and autograd. [![CI Status](https://img.shields.io/github/actions/workflow/status/luminal-ai/luminal/test-core.yml?style=for-the-badge\&logo=github-actions\&logoColor=white\&branch=main)](https://github.com/luminal-ai/luminal/actions)
 
+### Libraries / GUI
+
+*   [FerrisMind/shadcn-rs (⭐51)](https://github.com/FerrisMind/shadcn-rs) \[[iced-shadcn](https://crates.io/crates/iced-shadcn)] - iced and egui component set with shadcn/ui aesthetics; includes [egui-shadcn](https://crates.io/crates/egui-shadcn).
+
 ### Registries / Web programming
 
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
@@ -52,7 +56,7 @@ A curated list of Rust code and resources.
 ### Applications / Web
 
 *   [hook0/hook0 (⭐1.4k)](https://github.com/hook0/hook0) - An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks
-*   [zhom/donutbrowser (⭐2k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
+*   [zhom/donutbrowser (⭐2.4k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
 
 ### Applications / Workflow Automation
 
@@ -189,7 +193,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Build system
 
-*   [better-fullstack (⭐387)](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
+*   [better-fullstack (⭐402)](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
 
 ### Development tools / Static analysis
 
@@ -332,7 +336,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [astral-sh/ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+*   [astral-sh/ruff (⭐48k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
 
 ### Libraries / Artificial Intelligence
 
@@ -436,7 +440,7 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [pgdogdev/pgdog (⭐4.3k)](https://github.com/pgdogdev/pgdog) - A fast proxy for scaling PostgreSQL with connection pooling, load balancing, and sharding.
-*   [ruvnet/ruvector (⭐3.9k)](https://github.com/ruvnet/ruvector) \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
+*   [ruvnet/ruvector (⭐4k)](https://github.com/ruvnet/ruvector) \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
 
 ### Applications / Games
 
@@ -449,7 +453,7 @@ A curated list of Rust code and resources.
 ### Applications / Productivity
 
 *   [aannoo/hcom (⭐267)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API [![CI](https://github.com/aannoo/hcom/actions/workflows/ci.yml/badge.svg)](https://github.com/aannoo/hcom/actions/workflows/ci.yml)
-*   [farion1231/cc-switch (⭐52k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
+*   [farion1231/cc-switch (⭐69k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
 
 ### Applications / System tools
 
@@ -911,7 +915,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [clash-verge-rev/clash-verge-rev (⭐114k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
+*   [clash-verge-rev/clash-verge-rev (⭐118k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
 *   [Edit (⭐14k)](https://github.com/microsoft/edit) - A simple editor for simple needs. [![CI](https://github.com/microsoft/edit/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/edit/actions/workflows/ci.yml)
 *   [Saga Reader (⭐508)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
@@ -1608,7 +1612,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [perpetual-ml/perpetual (⭐674)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+*   [perpetual-ml/perpetual (⭐680)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 
 ### Libraries / Encoding
 
@@ -1618,6 +1622,7 @@ A curated list of Rust code and resources.
     *   [rustadopt/jzon-rs (⭐15)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
     *   [serde-rs/json (⭐5.6k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐11k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.4k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+    *   [vcschapp/bufjson (⭐0)](https://github.com/vcschapp/bufjson) \[[bufjson](https://crates.io/crates/bufjson)] - Streaming JSON parser and lexer, no copy/no allocation, optional streaming JSON Pointer evaluator
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
@@ -1862,7 +1867,7 @@ A curated list of Rust code and resources.
     *   [fschutt/printpdf (⭐1.1k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [J-F-Liu/lopdf (⭐2.2k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐149)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
-    *   [yfedoseev/pdf\_oxide (⭐690)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
+    *   [yfedoseev/pdf\_oxide (⭐733)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -3156,7 +3161,7 @@ A curated list of Rust code and resources.
     *   [d-e-s-o/test-log (⭐160)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] - A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework
     *   [GoogleTest Rust](https://crates.io/crates/googletest) - Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
-    *   [nextest-rs/nextest (⭐2.9k)](https://github.com/nextest-rs/nextest) \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
+    *   [nextest-rs/nextest (⭐3k)](https://github.com/nextest-rs/nextest) \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
     *   [rlt (⭐218)](https://github.com/wfxr/rlt) - A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) - An RSpec inspired minimal testing framework
@@ -4989,7 +4994,7 @@ A curated list of Rust code and resources.
     *   [console-rs/indicatif (⭐5.1k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
     *   [etienne-napoleone/spinach (⭐118)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] - Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
     *   [FGRibreau/spinners (⭐592)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
-    *   [vyfor/rattles (⭐945)](https://github.com/vyfor/rattles) \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
+    *   [vyfor/rattles (⭐962)](https://github.com/vyfor/rattles) \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
 
 ## [Feb 19 - Feb 25, 2018](/content/2018/8/README.md)
 

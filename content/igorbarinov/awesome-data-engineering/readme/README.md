@@ -124,6 +124,7 @@ A curated list of data engineering tools for software developers
 ## Data Ingestion
 
 *   [DataSpoc Pipe (⭐1)](https://github.com/dataspoclab/dataspoc-pipe) - Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.
+*   [Enrich.sh](https://enrich.sh) - Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.
 *   [ingestr (⭐3.5k)](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 *   [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
     *   [BottledWater (⭐6)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
@@ -161,8 +162,8 @@ A curated list of data engineering tools for software developers
 *   [Estuary Flow](https://estuary.dev) - No/low-code data pipeline platform that handles both batch and real-time data ingestion.
 *   [db2lake (⭐2)](https://github.com/bahador-r/db2lake) - Lightweight Node.js ETL framework for databases → data lakes/warehouses.
 *   [data-genie (⭐16)](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
-*   [Kreuzberg (⭐8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
-*   [pdfmux (⭐57)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
+*   [Kreuzberg (⭐8.3k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+*   [pdfmux (⭐63)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
 *   [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
 *   [Xquik](https://xquik.com) - Real-time X (Twitter) data extraction platform with REST API (76 endpoints), 20 bulk extraction tools, account monitoring, HMAC-signed webhooks, and MCP server for AI agent integration.
 *   [Arpe.io](https://www.arpe.io/) - High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting PostgreSQL, MySQL, Oracle, SQL Server and 80+ sources.
@@ -183,7 +184,7 @@ A curated list of data engineering tools for software developers
 *   [SnackFS (⭐14)](https://github.com/tuplejump/snackfs-release) - A bite-sized, lightweight HDFS compatible file system built over Cassandra.
 *   [GlusterFS](https://www.gluster.org/) - Gluster Filesystem.
 *   [XtreemFS](https://www.xtreemfs.org/) - Fault-tolerant distributed file system for all storage needs.
-*   [SeaweedFS (⭐19)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+*   [SeaweedFS (⭐22)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 *   [S3QL (⭐1.2k)](https://github.com/s3ql/s3ql/) - A file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 *   [LizardFS](https://lizardfs.com/) - Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.
 
@@ -292,7 +293,7 @@ A curated list of data engineering tools for software developers
 *   [dbt](https://getdbt.com/) - A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
 *   [Kestra (⭐27k)](https://github.com/kestra-io/kestra) - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 *   [RudderStack (⭐4.4k)](https://github.com/rudderlabs/rudder-server) - A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.
-*   [PACE](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+*   [PACE (⭐39)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
 *   [Prefect](https://prefect.io/) - An orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly.
 *   [Multiwoven (⭐1.7k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 *   [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
@@ -344,7 +345,7 @@ A curated list of data engineering tools for software developers
 *   [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 *   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 *   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
-*   [FirstData (⭐156)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
+*   [FirstData (⭐160)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 *   [Mindweave Synthetic Business Data (⭐1)](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
 
 ## Monitoring
@@ -365,6 +366,7 @@ A curated list of data engineering tools for software developers
 
 ## Testing
 
+*   [Aegis DQ (⭐3)](https://github.com/aegis-dq/aegis-dq) - Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.
 *   [Grai (⭐314)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 *   [DQOps (⭐192)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 *   [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.

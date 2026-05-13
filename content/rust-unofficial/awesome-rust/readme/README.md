@@ -142,7 +142,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [arimxyer/models (⭐417)](https://github.com/arimxyer/models) \[[modelsdev](https://crates.io/crates/modelsdev)] - A TUI for browsing AI models, benchmarks, and coding agents [![CI](https://github.com/arimxyer/models/actions/workflows/ci.yml/badge.svg)](https://github.com/arimxyer/models/actions/workflows/ci.yml)
 *   [Arti](https://gitlab.torproject.org/tpo/core/arti) - An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 *   [asm-cli-rust (⭐357)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
-*   [clash-verge-rev/clash-verge-rev (⭐114k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
+*   [clash-verge-rev/clash-verge-rev (⭐118k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
 *   [cloudflare/boringtun (⭐7k)](https://github.com/cloudflare/boringtun) - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/crates/v/boringtun.svg)](https://crates.io/crates/boringtun)
 *   [DBX (⭐608)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
 *   [defguard (⭐2.7k)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
@@ -311,7 +311,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [QuillSQL (⭐177)](https://github.com/feichai0017/QuillSQL) - An educational Rust relational database (RDBMS) inspired by CMU 15445
 *   [RisingWaveLabs/RisingWave (⭐9k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg)](https://github.com/risingwavelabs/risingwave/actions)
 *   [RustFS (⭐27k)](https://github.com/rustfs/rustfs) \[[RustFS](https://crates.io/crates/rustfs)] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  [![status-badge](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg)](https://github.com/rustfs/rustfs)
-*   [ruvnet/ruvector (⭐3.9k)](https://github.com/ruvnet/ruvector) \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
+*   [ruvnet/ruvector (⭐4k)](https://github.com/ruvnet/ruvector) \[[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
 *   [sabiql (⭐187)](https://github.com/riii111/sabiql) \[[sabiql](https://crates.io/crates/sabiql)] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases. [![CI](https://github.com/riii111/sabiql/actions/workflows/ci.yml/badge.svg)](https://github.com/riii111/sabiql/actions/workflows/ci.yml)
 *   [seppo0010/rsedis (⭐1.8k)](https://github.com/seppo0010/rsedis) - A Redis reimplementation.
 *   [Skytable (⭐2.7k)](https://github.com/skytable/skytable) - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
@@ -516,7 +516,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [CookCLI (⭐1.3k)](https://github.com/cooklang/CookCLI) - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
 *   [espanso (⭐14k)](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 *   [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
-*   [farion1231/cc-switch (⭐52k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
+*   [farion1231/cc-switch (⭐69k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
 *   [flusterIO/fluster (⭐193)](https://github.com/flusterIO/fluster) - An all-in-one note taking application built for STEM students and professionals. [![publish](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml/badge.svg)](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml)
 *   [fulsomenko/kanban (⭐96)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
 *   [Furtherance (⭐386)](https://github.com/unobserved-io/Furtherance) - Time tracking app built with GTK4
@@ -792,7 +792,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [shouya/rss-funnel (⭐151)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 *   [SinTan1729/Chhoto URL (⭐816)](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[![release](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml/badge.svg)](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml)
 *   [Stoatchat (⭐3k)](https://github.com/stoatchat/stoatchat) - User-first chat platform built with modern web technologies.
-*   [zhom/donutbrowser (⭐2k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
+*   [zhom/donutbrowser (⭐2.4k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
 
 ### Web Servers
 
@@ -869,7 +869,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 
 ### Build system
 
-*   [better-fullstack (⭐387)](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
+*   [better-fullstack (⭐402)](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python — code ready for you or your AI agent.
 *   [Cargo](https://crates.io/) - the Rust package manager
     *   [cargo-all-features (⭐185)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
     *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - A utility to compare micro-benchmarks
@@ -1010,7 +1010,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 
 ### Formatters
 
-*   [astral-sh/ruff (⭐47k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
+*   [astral-sh/ruff (⭐48k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter [![Actions status](https://github.com/astral-sh/ruff/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff/actions)
 *   [dprint (⭐3.9k)](https://github.com/dprint/dprint) - A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
 *   [Prettier Rust (⭐204)](https://github.com/jinxdash/prettier-plugin-rust) - An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
 *   [rustfmt (⭐6.8k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
@@ -1101,7 +1101,7 @@ See also [Rust Tools](https://rust-lang.org/tools/).
     *   [d-e-s-o/test-log (⭐160)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] - A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework
     *   [GoogleTest Rust](https://crates.io/crates/googletest) - Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
-    *   [nextest-rs/nextest (⭐2.9k)](https://github.com/nextest-rs/nextest) \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
+    *   [nextest-rs/nextest (⭐3k)](https://github.com/nextest-rs/nextest) \[[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
     *   [rlt (⭐218)](https://github.com/wfxr/rlt) - A universal load testing framework, with real-time tui support.
     *   [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) - An RSpec inspired minimal testing framework
@@ -1177,7 +1177,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [luminal-ai/luminal (⭐2.8k)](https://github.com/luminal-ai/luminal) \[[luminal](https://crates.io/crates/luminal)] - High-performance general-purpose inference compiler with RISC-style architecture, search-based optimization, and native CUDA/Metal backends. Supports transformers, convnets, and autograd. [![CI Status](https://img.shields.io/github/actions/workflow/status/luminal-ai/luminal/test-core.yml?style=for-the-badge\&logo=github-actions\&logoColor=white\&branch=main)](https://github.com/luminal-ai/luminal/actions)
 *   [maciejkula/rustlearn (⭐641)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
 *   [Mottl/lightgb3-rs (⭐53)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
-*   [perpetual-ml/perpetual (⭐674)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
+*   [perpetual-ml/perpetual (⭐680)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 *   [ramsyana/RustTensor (⭐74)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 *   [raphaelmansuy/edgequake (⭐1.9k)](https://github.com/raphaelmansuy/edgequake) - A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.
 *   [rust-ml/linfa (⭐4.6k)](https://github.com/rust-ml/linfa) - Machine learning framework.
@@ -1328,7 +1328,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [console-rs/indicatif (⭐5.1k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] - indicate progress to users
     *   [etienne-napoleone/spinach (⭐118)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] - Practical spinner. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
     *   [FGRibreau/spinners (⭐592)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] - 60+ elegant terminal spinners
-    *   [vyfor/rattles (⭐945)](https://github.com/vyfor/rattles) \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
+    *   [vyfor/rattles (⭐962)](https://github.com/vyfor/rattles) \[[rattles](https://crates.io/crates/rattles)] - A minimal, dependency-free terminal spinner library.
 *   Prompt
     *   [hashmismatch/terminal\_cli.rs (⭐58)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)] - build an interactive command prompt
     *   [mikaelmello/inquire (⭐2.6k)](https://github.com/mikaelmello/inquire) \[[inquire](https://crates.io/crates/inquire)] - A library for building interactive prompts on terminals. [![Build status](https://github.com/mikaelmello/inquire/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikaelmello/inquire/actions)
@@ -1693,6 +1693,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [rustadopt/jzon-rs (⭐15)](https://github.com/rustadopt/jzon-rs/) \[[jzon](https://crates.io/crates/jzon)] - JSON implementation
     *   [serde-rs/json (⭐5.6k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] - JSON support for [Serde (⭐11k)](https://github.com/serde-rs/serde) framework
     *   [simd-lite/simd-json (⭐1.4k)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] - High performance JSON parser based on a port of simdjson
+    *   [vcschapp/bufjson (⭐0)](https://github.com/vcschapp/bufjson) \[[bufjson](https://crates.io/crates/bufjson)] - Streaming JSON parser and lexer, no copy/no allocation, optional streaming JSON Pointer evaluator
 *   MsgPack
     *   [3Hren/msgpack-rust (⭐1.4k)](https://github.com/3Hren/msgpack-rust) - Low/high level MessagePack implementation
 *   NetCDF
@@ -1842,7 +1843,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [fschutt/printpdf (⭐1.1k)](https://github.com/fschutt/printpdf) - PDF writing library
     *   [J-F-Liu/lopdf (⭐2.2k)](https://github.com/J-F-Liu/lopdf) - PDF document manipulation
     *   [kaj/rust-pdf (⭐149)](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
-    *   [yfedoseev/pdf\_oxide (⭐690)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
+    *   [yfedoseev/pdf\_oxide (⭐733)](https://github.com/yfedoseev/pdf_oxide) \[[pdf\_oxide](https://crates.io/crates/pdf_oxide)] - Fast PDF text extraction, creation, and editing with Python bindings
 *   [Vulkan](https://www.vulkan.org/) \[[vulkan](https://crates.io/keywords/vulkan)]
     *   [erupt](https://gitlab.com/Friz64/erupt) \[[erupt](https://crates.io/crates/erupt)] - [![build badge](https://gitlab.com/Friz64/erupt/badges/main/pipeline.svg)](https://gitlab.com/Friz64/erupt/-/pipelines)
     *   [vulkano (⭐5.1k)](https://github.com/vulkano-rs/vulkano) \[[vulkano](https://crates.io/crates/vulkano)] - Safe and rich Rust wrapper around the Vulkan API
@@ -1857,6 +1858,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [DioxusLabs/dioxus (⭐36k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 *   [emilk/egui (⭐29k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 *   [emoon/rust\_minifb (⭐1.2k)](https://github.com/emoon/rust_minifb) - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+*   [FerrisMind/shadcn-rs (⭐51)](https://github.com/FerrisMind/shadcn-rs) \[[iced-shadcn](https://crates.io/crates/iced-shadcn)] - iced and egui component set with shadcn/ui aesthetics; includes [egui-shadcn](https://crates.io/crates/egui-shadcn).
 *   [FLTK](https://www.fltk.org/)
     *   [fltk-rs (⭐1.8k)](https://github.com/fltk-rs/fltk-rs) - FLTK bindings [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 *   [Flutter](https://flutter.dev/)

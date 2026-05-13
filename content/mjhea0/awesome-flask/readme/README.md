@@ -201,6 +201,7 @@ A curated list of awesome things related to Flask
 *   [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 *   [Flask-SeaSurf (⭐195)](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
 *   [Flask-Talisman (⭐86)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
+*   [secure (⭐1k)](https://github.com/TypeError/secure) - A lightweight library for defining and applying HTTP security headers consistently in Flask applications.
 
 ### Task Queues
 

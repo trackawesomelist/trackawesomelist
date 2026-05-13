@@ -10,6 +10,7 @@
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 
+*   [Marshall Extensions (⭐7)](https://github.com/bad-antics/marshall-extensions) - OSINT and security extensions for the Marshall privacy browser, providing reconnaissance and security-testing plugins by [@bad-antics](https://github.com/bad-antics).
 *   [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
 
 ### Fuzzing / Sub Domain Enumeration
@@ -20,6 +21,7 @@
 
 *   [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
 *   [Trust Scan (⭐3)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
+*   [ZeroTrust (⭐2)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 
 ### Preventing / Server-Side Request Forgery
 

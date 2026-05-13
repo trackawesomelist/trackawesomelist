@@ -71,6 +71,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-checker/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 *   [Speakeasy](https://www.speakeasy.com/) - Generate a terraform provider from an OpenAPI specification.
 *   [tfgen (⭐89)](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY.
+*   [tfimport (⭐1)](https://github.com/coolapso/tfimport) - CLI tool to automate importing existing infrastructure innto tfstate.
 
 ### Libraries / IDE
 
@@ -489,10 +490,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy\_dollar\_sign:
 *   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
-
-### Terraform Enterprise Tooling / IDE
-
-*   [tfe-state-explorer (⭐18)](https://github.com/segment-boneyard/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
 ### Videos / IDE
 

@@ -6,6 +6,16 @@ A curated list of data engineering tools for software developers
 
 [ [Daily](/content/igorbarinov/awesome-data-engineering/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Data Ingestion
+
+*   [Enrich.sh](https://enrich.sh) - Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.
+
+### Testing / Data Profiler
+
+*   [Aegis DQ (⭐3)](https://github.com/aegis-dq/aegis-dq) - Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Data Ingestion
@@ -14,7 +24,7 @@ A curated list of data engineering tools for software developers
 *   [drt (⭐23)](https://github.com/drt-hub/drt) - OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML.
 *   [DBConvert Streams](https://streams.dbconvert.com) - self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.
 *   [data-genie (⭐16)](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
-*   [pdfmux (⭐57)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
+*   [pdfmux (⭐63)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
 *   [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
 
 ### Serialization format
@@ -92,7 +102,7 @@ A curated list of data engineering tools for software developers
 
 ### Datasets / Data Dumps
 
-*   [FirstData (⭐156)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
+*   [FirstData (⭐160)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 
 ### Testing / Data Profiler
 
@@ -120,7 +130,7 @@ A curated list of data engineering tools for software developers
 
 ### Data Ingestion
 
-*   [Kreuzberg (⭐8k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+*   [Kreuzberg (⭐8.3k)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
 
 ## [Feb 02 - Feb 08, 2026](/content/2026/5/README.md)
 
@@ -374,7 +384,7 @@ A curated list of data engineering tools for software developers
 
 ### Workflow
 
-*   [PACE](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+*   [PACE (⭐39)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
@@ -481,7 +491,7 @@ A curated list of data engineering tools for software developers
 *   [SnackFS (⭐14)](https://github.com/tuplejump/snackfs-release) - A bite-sized, lightweight HDFS compatible file system built over Cassandra.
 *   [GlusterFS](https://www.gluster.org/) - Gluster Filesystem.
 *   [XtreemFS](https://www.xtreemfs.org/) - Fault-tolerant distributed file system for all storage needs.
-*   [SeaweedFS (⭐19)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+*   [SeaweedFS (⭐22)](https://github.com/chrislusf/seaweedfs) - Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key\~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 *   [S3QL (⭐1.2k)](https://github.com/s3ql/s3ql/) - A file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 *   [LizardFS](https://lizardfs.com/) - Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.
 
