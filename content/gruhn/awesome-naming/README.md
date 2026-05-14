@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [May 14, 2026](/content/2026/05/14/README.md)
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [go-brrr (⭐26)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
@@ -31,7 +37,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [bubblewrap (⭐6.9k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
+*   [bubblewrap (⭐7.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 

@@ -11,6 +11,7 @@ A curated list for when naming things is done right.
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
+*   [go-brrr (⭐26)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
@@ -31,7 +32,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [bubblewrap (⭐6.9k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
+*   [bubblewrap (⭐7.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
