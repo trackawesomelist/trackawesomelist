@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Documentation
+
+*   [Sourcey (⭐1.3k)](https://github.com/sourcey/sourcey) - Static documentation generator that consumes Doxygen XML alongside OpenAPI, godoc, MCP, and Markdown. \[AGPL-3.0] [website](https://sourcey.com)
+
 ### Image Processing
 
 *   [avir (⭐492)](https://github.com/avaneev/avir) - High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. \[MIT]

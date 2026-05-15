@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 661 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 676 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@
 
 |                                                                           Awesome                                                                           | Books | Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  107  | Mar 31, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  108  | May 12, 2026 |
 
 ## How to Use
 
@@ -67,6 +67,7 @@
 *   [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
 *   [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 *   [*Full Stack iOS Development with Swift and Vapor* by Hem Dutt](https://www.amazon.com/Full-Stack-iOS-Development-Swift-Vapor/dp/1501522574)
+*   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
 
 ## Objective-C
 
@@ -237,7 +238,7 @@
 
 ## Contributing and License
 
-*   [See the guide (⭐661)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐676)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

@@ -16,6 +16,17 @@ Collections of awesome neovim plugins.
 
 *   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
 
+### Debugging / CSV Files
+
+*   [NickTsaizer/splitasm.nvim (⭐58)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
+
+### Toys / Competitive Programming
+
+*   [folke/drop.nvim (⭐344)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
+*   [axsaucedo/neovim-power-mode (⭐83)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
+*   [jerrywang1981/keystroke.nvim (⭐2)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
+*   [cxwx/keywound.nvim (⭐1)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Plugin Manager
@@ -2291,7 +2302,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.5k)](https://github.com/charmbracelet/freeze) inside the editor.
+*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.6k)](https://github.com/charmbracelet/freeze) inside the editor.
 
 ### Terminal Integration / CSV Files
 

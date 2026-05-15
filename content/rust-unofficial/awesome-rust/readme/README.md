@@ -744,6 +744,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [rustic-rs/rustic (⭐3k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 *   [ruvnet/RuView (⭐52k)](https://github.com/ruvnet/RuView) - A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.
 *   [sorairolake/qrtool (⭐278)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [splashboard (⭐100)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
 *   [str4d/rage (⭐3.5k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐22k)](https://github.com/FiloSottile/age).
 *   [suckit (⭐803)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 *   [Tabiew (⭐2.9k)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
@@ -961,6 +962,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust (⭐1.2k)](https://github.com/alexcrichton/rust-ffi-examples).
 
 *   C
+    *   [gtk-rs/gir (⭐270)](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
     *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
     *   [Sean1708/rusty-cheddar (⭐188)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
 *   C#

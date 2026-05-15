@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [May 15, 2026](/content/2026/05/15/README.md)
+
+### Documentation
+
+*   [Sourcey (⭐1.3k)](https://github.com/sourcey/sourcey) - Static documentation generator that consumes Doxygen XML alongside OpenAPI, godoc, MCP, and Markdown. \[AGPL-3.0] [website](https://sourcey.com)
+
 ## [May 14, 2026](/content/2026/05/14/README.md)
 
 ### Image Processing

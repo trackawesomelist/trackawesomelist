@@ -2,9 +2,15 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 661 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 676 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [May 15, 2026](/content/2026/05/15/README.md)
+
+### iOS
+
+*   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
@@ -367,7 +373,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐661)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐676)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Dec 19, 2019](/content/2019/12/19/README.md)

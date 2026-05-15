@@ -8,9 +8,20 @@ A curated list of Rust code and resources.
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
+### Applications / Utilities
+
+*   [splashboard (⭐100)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
+
 ### Development tools / Workflow Automation
 
 *   [reflex-search/reflex (⭐51)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
+
+### Development tools / FFI
+
+*   C
+    *   [gtk-rs/gir (⭐270)](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
+    *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
+    *   [Sean1708/rusty-cheddar (⭐188)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
 
 ## [May 14, 2026](/content/2026/05/14/README.md)
 
@@ -2738,12 +2749,6 @@ A curated list of Rust code and resources.
 ### Development tools / Workflow Automation
 
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
-
-### Development tools / FFI
-
-*   C
-    *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
-    *   [Sean1708/rusty-cheddar (⭐188)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
 
 ### Libraries / Cryptography
 

@@ -90,6 +90,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
     *   [Tmux](#tmux)
 *   [Game](#game)
     *   [Competitive Programming](#competitive-programming)
+*   [Toys](#toys)
 *   [Workflow](#workflow)
     *   [Stats Tracking](#stats-tracking)
     *   [Automation](#automation)
@@ -1144,7 +1145,7 @@ then it is not supported:
 *   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 *   [terje/simctl.nvim (⭐41)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
 *   [mistricky/codesnap.nvim (⭐928)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
-*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.5k)](https://github.com/charmbracelet/freeze) inside the editor.
+*   [AlejandroSuero/freeze-code.nvim (⭐32)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.6k)](https://github.com/charmbracelet/freeze) inside the editor.
 *   [ysmb-wtsg/in-and-out.nvim (⭐87)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
 *   [ellisonleao/dotenv.nvim (⭐56)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist `.env` support.
 *   [MisanthropicBit/decipher.nvim (⭐44)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
@@ -1261,6 +1262,7 @@ then it is not supported:
 *   [ravsii/nvim-dap-envfile (⭐14)](https://github.com/ravsii/nvim-dap-envfile) - Automatic `envFile` support for nvim-dap.
 *   [fschaal/azfunc.nvim (⭐5)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
 *   [evanmcpheron/rocketlog.nvim (⭐2)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
+*   [NickTsaizer/splitasm.nvim (⭐58)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
 
 ### Quickfix
 
@@ -1880,6 +1882,19 @@ then it is not supported:
 *   [barrettruth/cp.nvim (⭐11)](https://github.com/barrettruth/cp.nvim) - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 *   [kawre/leetcode.nvim (⭐2.1k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 *   [2KAbhishek/exercism.nvim (⭐43)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+
+<!--lint disable double-link -->
+
+[**⬆ back to top**](#contents)
+
+<!--lint enable double-link -->
+
+## Toys
+
+*   [folke/drop.nvim (⭐344)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
+*   [axsaucedo/neovim-power-mode (⭐83)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
+*   [jerrywang1981/keystroke.nvim (⭐2)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
+*   [cxwx/keywound.nvim (⭐1)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
 
 <!--lint disable double-link -->
 

@@ -1,12 +1,36 @@
 # Awesome List Updates on May 15, 2026
 
-9 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Fundamentals / Package and Version Manager
+
+*   [hendriknielaender/zvm (⭐64)](https://github.com/hendriknielaender/zvm) - A fast and simple Zig version manager written in Zig.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Documentation
+
+*   [Sourcey (⭐1.3k)](https://github.com/sourcey/sourcey) - Static documentation generator that consumes Doxygen XML alongside OpenAPI, godoc, MCP, and Markdown. \[AGPL-3.0] [website](https://sourcey.com)
+
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Utilities / Calendars
+
+*   [gittype (⭐1.1k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+
+## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
+
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / GitHub
 
@@ -20,25 +44,36 @@
 
 *   [Taranis AI (⭐1.1k)](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
 
-## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / API Testing
 
 *   [Bruno (⭐43k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
 *   [colony-sdk-go (⭐0)](https://github.com/TheColonyCC/colony-sdk-go) - Go client library for [The Colony](https://thecolony.cc) — a public social network whose users are AI agents.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Utilities
+
+*   [splashboard (⭐100)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
 
 ### Development tools / Workflow Automation
 
 *   [reflex-search/reflex (⭐51)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
 
-## [5. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+### Development tools / FFI
+
+*   C
+    *   [gtk-rs/gir (⭐270)](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
+    *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
+    *   [Sean1708/rusty-cheddar (⭐188)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
+
+## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### 🤝 Official Communities
 
@@ -124,7 +159,7 @@
 *   [Hubitat](https://hubitat.com/) - Commercial local-first hub supporting Z-Wave, Zigbee, and Matter with all automations running on the device.
 *   [HomeSeer](https://homeseer.com/) - Commercial platform with 25+ years of development, strong Z-Wave support, and an extensive plugin ecosystem.
 
-## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Data Structures and Algorithms
 
@@ -154,20 +189,31 @@
 *   [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_\(computing\)) - A periodic signal a system sends to confirm it is still alive and functioning, just like a pulse.
 *   [Technical debt](https://en.wikipedia.org/wiki/Technical_debt) - The implied future cost of shortcuts taken today, which accumulates like financial debt and must eventually be paid back — often with interest.
 
-## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [11. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Austria
 
 *   [Archiv der Salzburger Festspiele](https://webarchive.salzburgerfestspiele.at/) - Online collection of the Salzburg Festival Archives.
 *   [Kulturpool](https://kulturpool.at/) - Digitized collections from GLAM institutions across Austria.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Colorscheme / Assembly
 
 *   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
 
-## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+### Debugging / CSV Files
+
+*   [NickTsaizer/splitasm.nvim (⭐58)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
+
+### Toys / Competitive Programming
+
+*   [folke/drop.nvim (⭐344)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
+*   [axsaucedo/neovim-power-mode (⭐83)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
+*   [jerrywang1981/keystroke.nvim (⭐2)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
+*   [cxwx/keywound.nvim (⭐1)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
+
+## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 
