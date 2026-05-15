@@ -170,6 +170,7 @@ A curated list of data engineering tools for software developers
 *   [Crustdata](https://crustdata.com) - A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.
 *   [crdt-merge (⭐2)](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 *   [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
+*   [CARQ (⭐1)](https://github.com/whispering3/CARQ) - Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.
 
 ## File System
 
@@ -345,6 +346,7 @@ A curated list of data engineering tools for software developers
 *   [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 *   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 *   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+*   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
 *   [FirstData (⭐160)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 *   [Mindweave Synthetic Business Data (⭐1)](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
 
@@ -362,7 +364,7 @@ A curated list of data engineering tools for software developers
 
 *   [Data Profiler (⭐1.6k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐476)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐478)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## Testing
 
@@ -379,6 +381,7 @@ A curated list of data engineering tools for software developers
 *   [Snowflake Emulator (⭐36)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 *   [DataScreenIQ](https://datascreeniq.com) - Real-time data quality firewall for pipelines and APIs. Screens rows in milliseconds for schema drift, null spikes, type mismatches, and data anomalies with PASS / WARN / BLOCK decisions.
 *   [DataDriven](https://www.datadriven.io/) - Interview practice with SQL query execution, Python, and data modeling exercises.
+*   [Fixzi](https://fixzi.ai) - JSON/XML validation and API contract monitoring tool for debugging and testing structured data.
 
 ## Community
 

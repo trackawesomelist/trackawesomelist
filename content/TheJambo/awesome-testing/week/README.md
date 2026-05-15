@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Software / API Testing
+
+*   [Bruno (⭐43k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+
 ### Training (Includes developer training for automation testers) / A/B Testing
 
 *   [FrontRow (⭐1)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.

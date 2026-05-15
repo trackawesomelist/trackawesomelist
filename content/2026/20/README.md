@@ -1,18 +1,39 @@
 # Awesome List Updates on May 18 - May 24, 2026
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
+
+### Other Tools / GitHub
+
+*   [PassiveRecon (⭐0)](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
+
+### Threat Intelligence / GitHub
+
+*   [Taranis AI (⭐1.1k)](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
+
+## [2. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+
+### Archives and primary sources / Austria
+
+*   [Archiv der Salzburger Festspiele](https://webarchive.salzburgerfestspiele.at/) - Online collection of the Salzburg Festival Archives.
+*   [Kulturpool](https://kulturpool.at/) - Digitized collections from GLAM institutions across Austria.
+
+## [3. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Web Development
 
 *   [DevRoadmaps (⭐3)](https://github.com/rudra496/devroadmaps) - Free developer career roadmaps with 17 paths, 800+ topics, and 1700+ curated resources. PWA with offline support. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -22,19 +43,19 @@
 
 *   [FANN (⭐1.7k)](https://github.com/libfann/fann) - Fast Artificial Neural Network library in C. \[LGPL]
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
 *   [eslint-config-airbnb-extended (⭐129)](https://github.com/eslint-config/airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
 
-## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL-Specific Development Tools
 
 *   [claude-code-wsl2-setup (⭐17)](https://github.com/congmnguyen/claude-code-wsl2-setup) - Documentation and scripts that fix Claude Code (Anthropic's CLI) papercuts on WSL2 + Windows Terminal: screenshot paste via Windows clipboard polling, balloon-tip notifications gated on foreground window, LSP plugin wiring, voice mode via ALSA → PulseAudio → WSLg, and more. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
@@ -48,23 +69,33 @@
 
 *   [Eventum (⭐42)](https://github.com/eventum-generator/eventum) - Data generation platform for producing synthetic event streams based on templates, scripts or log samples.
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [Enrich.sh](https://enrich.sh) - Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.
+*   [CARQ (⭐1)](https://github.com/whispering3/CARQ) - Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.
+
+### Datasets / Data Dumps
+
+*   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
 
 ### Testing / Data Profiler
 
 *   [Aegis DQ (⭐3)](https://github.com/aegis-dq/aegis-dq) - Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.
+*   [Fixzi](https://fixzi.ai) - JSON/XML validation and API contract monitoring tool for debugging and testing structured data.
 
-## [7. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / API Testing
+
+*   [Bruno (⭐43k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 
 ### Training (Includes developer training for automation testers) / A/B Testing
 
 *   [FrontRow (⭐1)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 
-## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Marketing
 
@@ -74,13 +105,13 @@
 
 *   [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Konado (⭐31)](https://github.com/godothub/konado) - A dialogue creation toolkit with templates to help you quickly build Visual Novels, Gal Games, RPGs and other story‑driven projects.
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [12. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
@@ -90,13 +121,17 @@
 
 *   [Preact Filter Builder (⭐0)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Buffers / Assembly
 
 *   [akasataikisiti/tabLocalBuffer.nvim (⭐3)](https://github.com/akasataikisiti/tabLocalBuffer.nvim) - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
 
-## [12. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+### Colorscheme / Assembly
+
+*   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
+
+## [14. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Security / Testing
 
@@ -106,13 +141,13 @@
 
 *   [BOFS (⭐13)](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 
-## [13. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [15. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### AI Coding Agents / Claude Code
 
 *   [JSONbored/awesome-claude (⭐217)](https://github.com/JSONbored/awesome-claude) — Searchable Claude Pro project collection ☆`218`
 
-## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [16. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Analysis Tools / Rust
 
@@ -122,25 +157,25 @@
 
 *   [Home Assistant (⭐87k)](https://github.com/home-assistant/core/tree/dev/homeassistant/components/gtfs) The General Transit Feed Specification (GTFS) integration was introduced in Home Assistant 0.17, and it's used by 70 active installations.
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [ArchiWise](https://archiwise.ai) - AI-powered real estate pre-development and site selection platform that helps developers, architects, brokers, and planning consultants analyze zoning, feasibility, and site data quickly.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies.
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Educational Tools
 
 *   [NN Visual](https://nn-visual.com) - Interactive visualizations explaining neural networks, backpropagation, attention mechanisms, and transformers.
 
-## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
@@ -219,25 +254,25 @@
 
 *   [Your Weekly Dose of Terraform](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q\&A, live coding, and some hacking with Terraform.
 
-## [19. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [21. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Data Sources
 
 *   [AnimeHub](https://animehub.wiki) - Anime database with legal streaming navigator. \[English/中文/日本語]
 
-## [20. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [22. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
-## [21. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
+## [23. Awesome Api Clients](/content/stepci/awesome-api-clients/week/README.md)
 
 ### Web-Based
 
 *   Prestige ([repo (⭐402)](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 
-## [22. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [24. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -292,20 +327,20 @@
 *   [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 *   [htb-writeups (⭐75)](https://github.com/momenbasel/htb-writeups) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
 
-## [23. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / App Vulnerability Scanners
 
 *   [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in : Android playstore, iOS Appstore, Huawei AppGallery
 
-## [24. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [26. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmakefmt (⭐14)](https://github.com/cmakefmt/cmakefmt) - Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [cmake-xray (⭐1)](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [27. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Data Analysis
 
@@ -323,11 +358,47 @@
 *   General
     *   [dlt (⭐5.3k)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
-## [26. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [28. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+
+### 🤝 Official Communities
+
+*   [Home Assistant Discord](https://discord.com/invite/c5DvZ4e) - The main chat, most of us are there.
 
 ### 🌍 In your language
 
+*   🇨🇳 [Hassbian Forum](https://bbs.hassbian.com/forum.php) - Chinese-language forum for smart home enthusiasts.
+*   🇨🇿 [Home Assistant CZ](https://www.homeassistant-cz.cz/) - Czech-language forum with an active user base.
+*   🇩🇰 [Dansk Home Assistant gruppe](https://www.facebook.com/groups/209025039666209/) - Danish-language Facebook group.
+*   🇫🇮 [Home Assistant Suomi](https://www.facebook.com/groups/hasuomi/) - Finnish-language Facebook group.
+*   🇫🇷 [HACF Discord](https://discord.com/invite/PaZFEjX) - French-language Discord run by the HACF community.
 *   🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
+*   🇩🇪 [simon42 Community Forum](https://community.simon42.com/) - German-language forum for smart home topics.
+*   🇬🇷 [Home Assistant GR](https://www.facebook.com/groups/472308593754940/) - Greek-language Facebook group.
+*   🇮🇱 [Home-Assistant.io Israel](https://www.facebook.com/groups/303751386650107/) - Hebrew-language Facebook group.
+*   🇭🇺 [Home Assistant Hungary](https://www.facebook.com/groups/HomeAssistantHU/) - Hungarian-language Facebook group.
+*   🇮🇹 [HassioHelp](https://t.me/HassioHelp) - Italian-language Telegram group for troubleshooting and support.
+*   🇯🇵 [Home Assistant Japan](https://www.facebook.com/groups/homeassistantjapan/) - Japanese-language Facebook group.
+*   🇰🇷 [HomeAssistant Cafe](https://cafe.naver.com/koreassistant) - Korean-language community on Naver.
+*   🇳🇴 [Home Assistant Norge](https://www.facebook.com/groups/680252689011262/) - Norwegian-language Facebook group.
+*   🇵🇱 [Home Assistant Polska](https://www.facebook.com/groups/homeassistantpolska/) - Polish-language Facebook group.
+*   🇵🇹 [CPHA Forum](https://forum.cpha.pt/) - Portuguese-language forum by the Comunidade Portuguesa de Home Assistant.
+*   🇷🇴 [Home Assistant Romania](https://www.facebook.com/groups/HomeAssistantRomania/) - Romanian-language Facebook group.
+*   🇪🇸 [Domotica en casa](https://foro.domoticaencasa.es/) - Spanish-language forum for home automation enthusiasts.
+*   🇸🇪 [Svenska Home Assistant-gruppen](https://www.facebook.com/groups/737654973088984/) - Swedish-language Facebook group.
+*   🇹🇼 [Taiwan Home Assistant](https://www.facebook.com/groups/151166072456061/) - Traditional Chinese Facebook group.
+*   🇹🇭 [Home Assistant Thailand](https://www.facebook.com/groups/769724336851998/) - Thai-language Facebook group.
+
+### 💬 Other community spaces
+
+*   [r/homeautomation](https://www.reddit.com/r/homeautomation/) - The largest platform-agnostic home automation subreddit, covering all hubs, protocols, and project ideas.
+*   [r/smarthome](https://www.reddit.com/r/smarthome/) - Product-focused smart home subreddit with buying advice, reviews, and setup questions.
+*   [r/selfhosted](https://www.reddit.com/r/selfhosted/) - Subreddit for self-hosted software, with a large crossover into home automation and local control.
+*   [Home Assistant on Lemmy](https://lemmy.world/c/homeassistant) - Fediverse alternative to the subreddit for privacy-minded users.
+*   [Home Automation on Lemmy](https://lemmy.world/c/homeautomation) - General home automation community on the Fediverse.
+*   [Everything Smart Home Discord](https://discord.com/invite/everythingsmarthome) - General smart home discussion server run by Lewis Barclay.
+*   [Home Operations Discord](https://discord.com/invite/home-operations) - For people managing their smart home infrastructure with GitOps and Kubernetes.
+*   [#Home-Assistant on Matrix](https://matrix.to/#/#Home-Assistant:matrix.org) - Matrix room for real-time chat on the open, federated protocol.
+*   [CocoonTech](https://cocoontech.com/) - One of the oldest home automation forums on the web, covering all platforms for over 20 years.
 
 ### 📦 Third Party Apps
 
@@ -377,24 +448,94 @@
 *   🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
 *   🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (44.8K subs).
 
+### 📱 Social / Official
+
+*   **Home Assistant** ([X](https://x.com/home_assistant), [Bluesky](https://bsky.app/profile/home-assistant.io), [Mastodon](https://fosstodon.org/@homeassistant), [Facebook](https://www.facebook.com/homeassistantio/), [Instagram](https://www.instagram.com/homeassistant/), [LinkedIn](https://www.linkedin.com/company/home-assistant)) - Open source home automation that puts local control and privacy first.
+*   **Home Assistant Developers** ([X](https://x.com/hass_devs), [Bluesky](https://bsky.app/profile/developers.home-assistant.io)) - Latest news on development for contributors.
+*   **Open Home Foundation** ([X](https://x.com/openhomefndn), [Bluesky](https://bsky.app/profile/openhomefoundation.org), [Mastodon](https://fosstodon.org/@openhomefoundation), [Instagram](https://www.instagram.com/openhomefoundation/)) - Protecting privacy, choice, and sustainability for smart homes.
+*   **ESPHome** ([X](https://x.com/esphome_), [Bluesky](https://bsky.app/profile/esphome.io)) - Open source system for controlling ESP boards and smart-home devices.
+*   **Nabu Casa** ([X](https://x.com/NabuCasa)) - The company behind the cloud service.
+*   **Rhasspy** ([X](https://x.com/rhasspy), [Mastodon](https://fosstodon.org/@rhasspy)) - Open source voice assistant toolkit by Michael Hansen.
+
+### 📱 Social / Community
+
+*   **Paulus Schoutsen** ([X](https://x.com/balloob), [Bluesky](https://bsky.app/profile/paulusschoutsen.nl), [Mastodon](https://fosstodon.org/@balloob), [Threads](https://www.threads.com/@balloob)) - Founder of the project and Nabu Casa.
+*   **Franck Nijhof** ([X](https://x.com/frenck), [Bluesky](https://bsky.app/profile/frenck.social), [Mastodon](https://fosstodon.org/@frenck), [Threads](https://www.threads.com/@frenck), [Instagram](https://www.instagram.com/frenck/), [YouTube](https://www.youtube.com/@frenck), [LinkedIn](https://www.linkedin.com/in/frenck)) - Lead of the project and creator of this Awesome list.
+*   **Everything Smart Home** ([X](https://x.com/EverySmartHome), [Bluesky](https://bsky.app/profile/lewisbarclay.bsky.social), [Mastodon](https://fosstodon.org/@everythingsmarthome), [Threads](https://www.threads.com/@everythingsmarthome)) - Smart-home and tech reviews, guides, and DIY projects by Lewis Barclay.
+*   **JuanMTech** ([X](https://x.com/JuanMTech), [Bluesky](https://bsky.app/profile/juanmtech.com), [Threads](https://www.threads.com/@juanmtech)) - Easy-to-follow how-to content and product reviews.
+*   **Home Automation Guy** ([X](https://x.com/alanmbyrne), [Bluesky](https://bsky.app/profile/burnsie.com), [Mastodon](https://mastodon.social/@burnsie)) - Smart-home tutorials and automations by Alan Byrne.
+*   **mostlychris** ([X](https://x.com/mostlychris2), [Bluesky](https://bsky.app/profile/mostlychris.com), [Mastodon](https://fosstodon.org/@mostlychris)) - Smart-home tutorials and gadget reviews by Chris West.
+*   **BeardedTinker** ([X](https://x.com/BeardedTinker), [Bluesky](https://bsky.app/profile/beardedtinker.bsky.social)) - Smart-home tutorials and 3D printing.
+*   **Mark Watt Tech** ([Bluesky](https://bsky.app/profile/markwatttech.bsky.social), [Mastodon](https://fosstodon.org/@MarkWattTech)) - Software developer and smart-home content creator.
+*   **Smart Home Junkie** ([X](https://x.com/smarth0mejunkie), [Threads](https://www.threads.com/@smarthomejunkie)) - How-to content for starters and advanced users by Ed de Tollenaer.
+*   **Smart Home Solver** ([X](https://x.com/smarthomesolver), [Threads](https://www.threads.com/@smarthomesolver)) - Smart-home tips and reviews by Reed Kleinman.
+
+### 📱 Social / 🌍 In other languages
+
+*   🇧🇷 **LNPBR** ([Instagram](https://www.instagram.com/lnp_br/), [Threads](https://www.threads.com/@lnp_br), [TikTok](https://www.tiktok.com/@lnpbr)) - Smart-home tutorials and product reviews by Leandro.
+*   🇩🇪 **simon42** ([Instagram](https://www.instagram.com/simon42.official/), [Facebook](https://www.facebook.com/simon42official/)) - Beginner-friendly smart-home guides and automations by Simon Müller.
+*   🇩🇪 **haus:automation** ([Instagram](https://www.instagram.com/haus_automation/), [Facebook](https://www.facebook.com/HausAutomatisierungCom/)) - DIY smart-home tutorials by Matthias Kleine.
+*   🇪🇸 **Un loco y su tecnología** ([X](https://x.com/unlocoysutec), [Instagram](https://www.instagram.com/unlocoysutecnologia/), [Threads](https://www.threads.com/@unlocoysutecnologia), [TikTok](https://www.tiktok.com/@unlocoysutecnologia)) - Smart-home content by Carlos Cordero.
+*   🇪🇸 **Tecnoyfoto** ([X](https://x.com/tecnoyfoto), [Instagram](https://www.instagram.com/barnosell/)) - Tutorials and product reviews by Albert Barnosell.
+*   🇪🇸 **La Choza Digital** ([X](https://x.com/LaChozaDigital), [Bluesky](https://bsky.app/profile/lachozadigital.bsky.social)) - Short tutorials on smart-home and DIY automation.
+*   🇫🇷 **HACF** ([X](https://x.com/hacf_fr)) - French-speaking community sharing tutorials and resources.
+*   🇮🇹 **inDomus** ([X](https://x.com/indomusit), [TikTok](https://www.tiktok.com/@indomusit)) - Italian personal home automation community.
+*   🇳🇱 **Denie van Kleef** ([X](https://x.com/disney79), [Instagram](https://www.instagram.com/denievankleef/)) - Dutch smart-home and energy guides.
+*   🇵🇹 **CPHA** ([Facebook](https://www.facebook.com/cpha.pt/)) - Portuguese community for home automation enthusiasts.
+
 ### Alternative Home Automation Software / 🌍 In other languages
 
 *   [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
+*   [Homebridge (⭐25k)](https://github.com/homebridge/homebridge) - Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,329★).
+*   [Node-RED (⭐23k)](https://github.com/node-red/node-red) - Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,130★).
+*   [ioBroker (⭐1.4k)](https://github.com/ioBroker/ioBroker) - Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,366★).
+*   [FHEM](https://fhem.de/) - Perl-based server with 430+ modules and deep support for European protocols like KNX, EnOcean, and HomeMatic.
+*   [Jeedom (⭐414)](https://github.com/jeedom/core) - French-origin, cloudless platform with a plugin marketplace, running on any Linux system (413★).
+*   [Hubitat](https://hubitat.com/) - Commercial local-first hub supporting Z-Wave, Zigbee, and Matter with all automations running on the device.
+*   [HomeSeer](https://homeseer.com/) - Commercial platform with 25+ years of development, strong Z-Wave support, and an extensive plugin ecosystem.
 
-## [27. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [29. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+
+### Data Structures and Algorithms
+
+*   [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) - An ancient algorithm for finding all prime numbers up to a given limit. Non-primes are methodically sifted out, like unwanted material filtered through a sieve.
+*   [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) - An optimization algorithm inspired by the metallurgical process of annealing, where slowly cooling a heated material allows it to settle into a low-energy, globally optimal state.
+
+### Design Patterns and Anti-Patterns
+
+*   [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) - Adds new responsibilities to an object by wrapping it in a layer of additional behavior, just as you can decorate a room without changing its walls.
+*   [God object](https://en.wikipedia.org/wiki/God_object) - An anti-pattern where a single object knows too much or does too much. Like a god, it is omniscient and omnipotent.
+
+### IT Security
+
+*   [Canary](https://en.wikipedia.org/wiki/Stack_canary) - A secret value placed on the stack to detect buffer overflow attacks. If it has been altered, danger is near — just like a canary in a coal mine that warns miners of toxic gas.
+
+### Machine Learning and Artificial Intelligence
+
+*   [Attention](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)) - A mechanism allowing models to selectively focus on the most relevant parts of their input, just as humans direct their attention to what matters most.
+*   [Dropout](https://en.wikipedia.org/wiki/Dropout_\(neural_networks\)) - Randomly disabling neurons during training to prevent overfitting. Like a sports team that improves by practicing with random members absent.
+
+### User Interface Design
+
+*   [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 *   [go-brrr (⭐26)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 
-## [28. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+### Other
+
+*   [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_\(computing\)) - A periodic signal a system sends to confirm it is still alive and functioning, just like a pulse.
+*   [Technical debt](https://en.wikipedia.org/wiki/Technical_debt) - The implied future cost of shortcuts taken today, which accumulates like financial debt and must eventually be paid back — often with interest.
+
+## [30. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Progressive Web Application
 
 *   [graphcommerce (⭐359)](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -412,13 +553,13 @@
 
 *   [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ([Source Code (⭐201)](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [CatchDoms](https://catchdoms.com) - Aggregator of expired and dropping domain listings from 16 marketplaces, with SEO enrichment (backlinks, Trust Flow, Wayback history) and a quality score. Free plan: 10 unlocked listings, 5 favorites, 3 saved searches. 7-day Pro trial on signup includes full REST API and MCP server access.
 
-## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### CLI
 
@@ -428,13 +569,13 @@
 
 *   [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 
-## [32. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [34. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [andrej-karpathy-skills (⭐3)](https://github.com/swarmclawai/andrej-karpathy-skills) - Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.
 
-## [33. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [35. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -451,7 +592,7 @@
 
 *   [Terraform Academy OpenTofu Practitioner Path](https://www.terraformacademy.app/max/labs/opentofu-basics.html) - Interactive browser-based lab covering native state and plan encryption with PBKDF2 and AES-GCM, plus a full practitioner readiness path that reuses HCL fundamentals applicable to OpenTofu 1.6 and later.
 
-## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -462,7 +603,15 @@
 
 *   [decimal (⭐0)](https://github.com/aytechnet/decimal) - High performance 64-bit decimal partially compatible with [shopspring/decimal (⭐7.3k)](https://github.com/shopspring/decimal) and int64, including Weight and Length.
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Third-party APIs
+
+*   [colony-sdk-go (⭐0)](https://github.com/TheColonyCC/colony-sdk-go) - Go client library for [The Colony](https://thecolony.cc) — a public social network whose users are AI agents.
+
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Development tools / Workflow Automation
+
+*   [reflex-search/reflex (⭐51)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
 
 ### Libraries / Artificial Intelligence
 
@@ -484,7 +633,7 @@
 
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 
-## [36. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [38. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -534,7 +683,7 @@
 
 *   [JSON:API (⭐7.7k) (⭐7.7k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -544,7 +693,7 @@
 
 *   [Snapback](https://snapbackapp.com) - Save and restore entire window layouts with one keystroke. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -674,7 +823,7 @@
 
 
 
-## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [zert](https://github.com/oxcl/zert)
 
@@ -693,7 +842,7 @@
 *   [pnpm (bgowers) (⭐1)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 *   [undo-dir (⭐6)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 
-## [40. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [42. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 

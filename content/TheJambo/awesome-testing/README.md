@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [May 15, 2026](/content/2026/05/15/README.md)
+
+### Software / API Testing
+
+*   [Bruno (⭐43k)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
+
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
 ### Training (Includes developer training for automation testers) / A/B Testing

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [akasataikisiti/tabLocalBuffer.nvim (⭐3)](https://github.com/akasataikisiti/tabLocalBuffer.nvim) - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
 
+### Colorscheme / Assembly
+
+*   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Plugin Manager
@@ -42,7 +46,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+*   [kibi2/tirenvi.nvim (⭐37)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
 
 ### Marks / Assembly
 
@@ -60,7 +64,7 @@ Collections of awesome neovim plugins.
 
 *   [DaFi-1/tasknvim (⭐13)](https://github.com/DaFi-1/tasknvim) - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 *   [sduras/duras\_bridge (⭐1)](https://github.com/sduras/duras_bridge) - Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor.
-*   [MattHandzel/taskwarrior.nvim (⭐5)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
+*   [MattHandzel/taskwarrior.nvim (⭐13)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 ### Editing Support / Scrollbar
 
@@ -68,7 +72,7 @@ Collections of awesome neovim plugins.
 
 ### External / Remote Control
 
-*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
+*   [paulburgess1357/nvim-mcp (⭐54)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -96,7 +100,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [retran/meow.yarn.nvim (⭐73)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐75)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 *   [ryan-WORK/ohm (⭐14)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 
 ### Colorscheme / Assembly
@@ -115,7 +119,7 @@ Collections of awesome neovim plugins.
 
 ### UI / OS-specific
 
-*   [quickui.nvim (⭐6)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [quickui.nvim (⭐11)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -146,7 +150,7 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Competitive Programming
 
-*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
+*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 

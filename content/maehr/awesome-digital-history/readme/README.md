@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 312 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 321 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -50,7 +50,9 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ### Austria
 
 *   [ANNO](https://anno.onb.ac.at/) - Austrian Newspapers online.
+*   [Archiv der Salzburger Festspiele](https://webarchive.salzburgerfestspiele.at/) - Online collection of the Salzburg Festival Archives.
 *   [Digitarium](https://digitarium.acdh.oeaw.ac.at/) - Digital edition of the historical Wiener Zeitung.
+*   [Kulturpool](https://kulturpool.at/) - Digitized collections from GLAM institutions across Austria.
 *   [Österreichische Mediathek](https://www.mediathek.at/) - The Austrian archive for sound recordings and videos from cultural and contemporary history.
 *   [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - It is based on the Historical Dictionary Vienna by Felix Czeike, currently there are 50,156 contributions and 12,510 images.
 
@@ -211,10 +213,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.6k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐938)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐942)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐312)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐312)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐321)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐321)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
 

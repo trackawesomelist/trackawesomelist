@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
+
+### Other Tools / GitHub
+
+*   [PassiveRecon (⭐0)](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
+
+### Threat Intelligence / GitHub
+
+*   [Taranis AI (⭐1.1k)](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Data Breach Search Engines
@@ -24,7 +38,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [insto (⭐1)](https://github.com/subzeroid/insto) - Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (`/where`), shared-followers intersection (`/intersect`), superfan ranking (`/fans`), location search (`/place`), URL→metadata resolution (`/postinfo`), posting-cadence histogram (`/timeline`), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in `aiograpi` backend.
+*   [insto (⭐7)](https://github.com/subzeroid/insto) - Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (`/where`), shared-followers intersection (`/intersect`), superfan ranking (`/fans`), location search (`/place`), URL→metadata resolution (`/postinfo`), posting-cadence histogram (`/timeline`), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in `aiograpi` backend.
 
 ### Social Media Tools / GitHub
 
@@ -60,7 +74,7 @@
 
 ### Other Tools / GitHub
 
-*   [ReconFTW (⭐7.5k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
+*   [ReconFTW (⭐7.6k)](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
 
 ### Threat Intelligence / GitHub
 
@@ -78,7 +92,7 @@
 
 ### Other Tools / GitHub
 
-*   [keyFinder (⭐653)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
+*   [keyFinder (⭐665)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers leaked API keys, tokens, secrets, and credentials on any web page by scanning scripts, meta tags, hidden fields, web storage, and network responses using 80+ detection patterns and Shannon entropy analysis.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -118,13 +132,9 @@
 
 *   [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
 
-### Maritime / GitHub
-
-*   [Hormuz Tracker](https://github.com/johnsmalls22-rgb/hormuz-tracker) - Real-time Strait of Hormuz vessel tracking with AIS data, dark ship detection, oil prices, and carrier positions.
-
 ### Other Tools / GitHub
 
-*   [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
+*   [OpenGraph Intel (OGI) (⭐150)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
 
 ### Threat Intelligence / GitHub
 
@@ -242,7 +252,7 @@
 *   [Dehashed CLI (⭐267)](https://github.com/hmaverickadams/DeHashed-API-Tool) - Command-line tool for searching breach databases via DeHashed API.
 *   [IntellyWeave (⭐59)](https://github.com/vericle/intellyweave)  - AI-powered OSINT platform with GLiNER entity extraction, Mapbox 3D geospatial visualization, and multi-agent archive research across 30+ international archives.
 *   [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
-*   [Waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
+*   [Waybackurls (⭐4.4k)](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
 
 ## [Jan 12 - Jan 18, 2026](/content/2026/2/README.md)
 
@@ -448,7 +458,7 @@
 
 *   [CCTV (⭐2.5k)](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.
 *   [Telegram Finder](https://www.telegram-finder.io/) - A tool to find Telegram users by their phone number, linkedin url or email.
-*   [Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+*   [Telerecon (⭐1.3k)](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 *   [Telepahty (⭐1.2k)](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
 *   [TeleTracker (⭐527)](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
 *   [TOsint (⭐821)](https://github.com/drego85/tosint) - Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.
@@ -550,7 +560,7 @@
 
 ### Social Media Tools / LinkedIn
 
-*   [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+*   [the-endorser (⭐352)](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 *   [LinkedInDumper (⭐587)](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
 
 ### Social Media Tools / GitHub
@@ -585,13 +595,13 @@
 
 *   [lol\_monitor (⭐19)](https://github.com/misiektoja/lol_monitor) - Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more
 *   [psn\_monitor (⭐36)](https://github.com/misiektoja/psn_monitor) - Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
-*   [steam\_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
+*   [steam\_monitor (⭐45)](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 *   [xbox\_monitor (⭐25)](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 
 ### Music Streaming Services / GitHub
 
-*   [lastfm\_monitor](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
-*   [spotify\_profile\_monitor](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
+*   [lastfm\_monitor (⭐24)](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
+*   [spotify\_profile\_monitor (⭐52)](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
 *   [spotify\_monitor (⭐99)](https://github.com/misiektoja/spotify_monitor) - Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
 
 ### Other Resources / GitHub
@@ -670,7 +680,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Channel Joiner](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
+*   [Telegram Channel Joiner (⭐14)](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
 *   [Telegram channels scraper TeleGraphite  (⭐276)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 
 ### Email Search / Email Check / GitHub
@@ -1022,7 +1032,7 @@
 *   [awesome-incident-response (⭐9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
 *   [awesome-lockpicking (⭐1.9k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 *   [awesome-malware-analysis (⭐14k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
-*   [awesome-pentest](https://github.com/enaqx/awesome-pentest) by @enaqx
+*   [awesome-pentest (⭐26k)](https://github.com/enaqx/awesome-pentest) by @enaqx
 *   [awesome-privacy (⭐9.3k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
 *   [awesome-sec-talks (⭐4.2k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
 *   [awesome-security (⭐14k)](https://github.com/sbilly/awesome-security) by @sbilly
@@ -1772,7 +1782,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐3.2k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -1891,7 +1901,7 @@
 
 ### Other Tools / GitHub
 
-*   [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [Photon (⭐13k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 *   [Zen (⭐591)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)

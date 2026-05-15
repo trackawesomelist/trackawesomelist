@@ -158,7 +158,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [rmagatti/goto-preview (⭐1k)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 *   [jubnzv/virtual-types.nvim (⭐416)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
 *   [marilari88/twoslash-queries.nvim (⭐173)](https://github.com/marilari88/twoslash-queries.nvim) - Provide inline virtual text displaying TypeScript types for the inspected variables.
-*   [retran/meow.yarn.nvim (⭐73)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐75)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 *   [ray-x/navigator.lua (⭐1.4k)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and Tree-sitter symbols a piece of cake.
 *   [hedyhli/outline.nvim (⭐987)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
 *   [stevearc/aerial.nvim (⭐2.3k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
@@ -429,7 +429,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [rogue-87/inlyne.nvim (⭐3)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne (⭐1.3k)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 *   [Prgebish/sigil.nvim (⭐31)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 *   [satozawa/graft.nvim (⭐8)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
-*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+*   [kibi2/tirenvi.nvim (⭐37)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
 
 ### PHP
 
@@ -897,6 +897,7 @@ then it is not supported:
 *   [0x-ximon/acario.nvim (⭐11)](https://github.com/0x-ximon/acario.nvim) - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 *   [hyperb1iss/silkcircuit (⭐49)](https://github.com/hyperb1iss/silkcircuit) - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 *   [T-b-t-nchos/Aquavium.nvim (⭐14)](https://github.com/T-b-t-nchos/Aquavium.nvim) - ***`[TS][Lua]`*** Aquarium-themed color scheme, designed for use with a transparent terminal background.
+*   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
 
 <!--lint disable double-link -->
 
@@ -1108,7 +1109,7 @@ then it is not supported:
 *   [indium114/studytools.nvim (⭐5)](https://github.com/indium114/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
 *   [iwe-org/iwe.nvim (⭐41)](https://github.com/iwe-org/iwe.nvim) - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
 *   [carloscalla/notepad.nvim (⭐4)](https://github.com/carloscalla/notepad.nvim) - Quick note-taking in Markdown with both repo-specific and global notepad support.
-*   [MattHandzel/taskwarrior.nvim (⭐5)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
+*   [MattHandzel/taskwarrior.nvim (⭐13)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 <!--lint disable double-link -->
 
@@ -1893,7 +1894,7 @@ then it is not supported:
 *   [saxon1964/neovim-tips (⭐455)](https://github.com/saxon1964/neovim-tips) - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
 *   [ecthelionvi/NeoComposer.nvim (⭐417)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 *   [yagiziskirik/AirSupport.nvim (⭐10)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
-*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
+*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
 
 ### Stats Tracking
 
@@ -2000,7 +2001,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### Remote Control
 
-*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
+*   [paulburgess1357/nvim-mcp (⭐54)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
 ### OS-specific
 
@@ -2045,7 +2046,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist (⭐251)](ht
 *   [markgandolfo/lightswitch.nvim (⭐21)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 *   [wsdjeg/calendar.nvim (⭐45)](https://github.com/wsdjeg/calendar.nvim) - A simple floating calendar with extensions support.
 *   [xieyonn/spinner.nvim (⭐96)](https://github.com/xieyonn/spinner.nvim) - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
-*   [quickui.nvim (⭐6)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [quickui.nvim (⭐11)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 <!--lint disable double-link -->
 

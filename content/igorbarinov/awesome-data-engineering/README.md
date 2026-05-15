@@ -6,6 +6,20 @@ A curated list of data engineering tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [May 15, 2026](/content/2026/05/15/README.md)
+
+### Data Ingestion
+
+*   [CARQ (⭐1)](https://github.com/whispering3/CARQ) - Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.
+
+### Datasets / Data Dumps
+
+*   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
+
+### Testing / Data Profiler
+
+*   [Fixzi](https://fixzi.ai) - JSON/XML validation and API contract monitoring tool for debugging and testing structured data.
+
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
 ### Data Ingestion
@@ -168,7 +182,7 @@ A curated list of data engineering tools for software developers
 ### Profiling / Data Profiler
 
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
-*   [Desbordante (⭐476)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [Desbordante (⭐478)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## [Nov 01, 2025](/content/2025/11/01/README.md)
 

@@ -8,10 +8,38 @@ A curated list for when naming things is done right.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Data Structures and Algorithms
+
+*   [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) - An ancient algorithm for finding all prime numbers up to a given limit. Non-primes are methodically sifted out, like unwanted material filtered through a sieve.
+*   [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) - An optimization algorithm inspired by the metallurgical process of annealing, where slowly cooling a heated material allows it to settle into a low-energy, globally optimal state.
+
+### Design Patterns and Anti-Patterns
+
+*   [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern) - Adds new responsibilities to an object by wrapping it in a layer of additional behavior, just as you can decorate a room without changing its walls.
+*   [God object](https://en.wikipedia.org/wiki/God_object) - An anti-pattern where a single object knows too much or does too much. Like a god, it is omniscient and omnipotent.
+
+### IT Security
+
+*   [Canary](https://en.wikipedia.org/wiki/Stack_canary) - A secret value placed on the stack to detect buffer overflow attacks. If it has been altered, danger is near — just like a canary in a coal mine that warns miners of toxic gas.
+
+### Machine Learning and Artificial Intelligence
+
+*   [Attention](https://en.wikipedia.org/wiki/Attention_\(machine_learning\)) - A mechanism allowing models to selectively focus on the most relevant parts of their input, just as humans direct their attention to what matters most.
+*   [Dropout](https://en.wikipedia.org/wiki/Dropout_\(neural_networks\)) - Randomly disabling neurons during training to prevent overfitting. Like a sports team that improves by practicing with random members absent.
+
+### User Interface Design
+
+*   [Toast notification](https://en.wikipedia.org/wiki/Pop-up_notification) - A small message that briefly pops up at the edge of the screen and then disappears on its own, just like toast from a toaster.
+
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
 *   [go-brrr (⭐26)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
+
+### Other
+
+*   [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_\(computing\)) - A periodic signal a system sends to confirm it is still alive and functioning, just like a pulse.
+*   [Technical debt](https://en.wikipedia.org/wiki/Technical_debt) - The implied future cost of shortcuts taken today, which accumulates like financial debt and must eventually be paid back — often with interest.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 

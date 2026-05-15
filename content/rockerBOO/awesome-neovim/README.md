@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 15, 2026](/content/2026/05/15/README.md)
+
+### Colorscheme / Assembly
+
+*   [54L1M/Oshen.nvim (⭐17)](https://github.com/54L1M/Oshen.nvim) - ***`[TS][LSP][Lua]`*** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
+
 ## [May 13, 2026](/content/2026/05/13/README.md)
 
 ### Buffers / Assembly
@@ -68,17 +74,17 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [MattHandzel/taskwarrior.nvim (⭐5)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
+*   [MattHandzel/taskwarrior.nvim (⭐13)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [kibi2/tirenvi.nvim (⭐30)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
+*   [kibi2/tirenvi.nvim (⭐37)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
 
 ### External / Remote Control
 
-*   [paulburgess1357/nvim-mcp (⭐48)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
+*   [paulburgess1357/nvim-mcp (⭐54)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
 ## [Apr 28, 2026](/content/2026/04/28/README.md)
 
@@ -145,11 +151,11 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [retran/meow.yarn.nvim (⭐73)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+*   [retran/meow.yarn.nvim (⭐75)](https://github.com/retran/meow.yarn.nvim) - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 
 ### UI / OS-specific
 
-*   [quickui.nvim (⭐6)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
+*   [quickui.nvim (⭐11)](https://github.com/mjmjm0101/quickui.nvim) - Structured, keyboard-driven menus and context menus with nested navigation.
 
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
@@ -191,7 +197,7 @@ Collections of awesome neovim plugins.
 
 ### Workflow / Competitive Programming
 
-*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
+*   [emrearmagan/atlas.nvim (⭐104)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
 
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
