@@ -393,7 +393,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Payments](#payments) applications.
 
-*   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐341)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 *   [klirr (⭐129)](https://github.com/Sajjon/klirr) \[[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
 *   [nautechsystems/nautilus\_trader (⭐23k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
 *   [tackler (⭐145)](https://github.com/tackler-ng/tackler) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
@@ -1459,6 +1459,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [racum/rust-djangohashers (⭐60)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] - Port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
 *   [rust-native-tls/rust-native-tls (⭐543)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 *   [rust-openssl (⭐1.6k)](https://github.com/rust-openssl/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
+*   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
 *   [RustCrypto/hashes (⭐2.2k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
 *   [rustls/rustls (⭐7.4k)](https://github.com/rustls/rustls) - Implementation of TLS
 *   [schnorrkel (⭐332)](https://github.com/paritytech/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group

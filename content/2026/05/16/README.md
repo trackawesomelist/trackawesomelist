@@ -1,12 +1,58 @@
 # Awesome List Updates on May 16, 2026
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Educational
+
+*   [microgpt (⭐24)](https://github.com/40ants/microgpt) - A Common Lisp port of @karpathy microgpt.py — the most atomicimplementation of a GPT with a hand-written scalar autograd engine.
+
+### Graph databases
+
+*   [Ariadne](https://git.sr.ht/~hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
+    *   *Built with LLMs*.
+
+### YAML
+
+*   [fukamachi/dockerfiles (⭐51)](https://github.com/fukamachi/dockerfiles) - Dockerfiles for Common Lisp programming. Roswell, SBCL, CCL.
+
+### Community
+
+*   [Matrix-for-lispers](https://web.matrix-for-lispers.net/) - a space for chatting about different lisp topics with support for persistency, markdown, screenshots.
+    *   NEW as of May, 2026.
+    *   the registration token is `lisp-spelt-without-caps`. Click on "explore" to see all the available rooms.
+
+### Emacs / Third-party APIs
+
+*   [lisp-stat's Docker image](https://lisp-stat.dev/blog/2026/03/09/getting-started/) comes with a ready-to-use Emacs.
+
+### Developer utilities / Third-party APIs
+
+*   [cl-codegraph](https://sr.ht/~hajovonta/cl-codegraph/) - Automatic Knowledge Graph of Common Lisp code via live image introspection.
+    *   Given a package loaded in the SBCL image, builds and maintains a
+        graph of its symbols, class hierarchies, method
+        specializations, call relationships, and metadata — all without
+        parsing source code. Includes a live Emacs integration that shows
+        code intelligence as you navigate and a web-based graph viewer.
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Projects / Message Broker
+
+*   [Apache EventMesh (⭐1.7k) (⭐1.7k)](https://github.com/apache/eventmesh) - A dynamic event-driven application runtime that acts as a serverless event middleware for decoupling applications and backend brokers.
+
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+### App Releases / Role Playing
+
+*   Grid Lands - [Desktop](https://store.steampowered.com/app/4677750/Grid_Lands/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
+
+## [4. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ### Frameworks
 
@@ -21,32 +67,36 @@
 *   [agenttrace (⭐3)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 *   [BrowserTrace (⭐3)](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
-## [2. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [5. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Terminal
 
 *   [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Eugeny/tabby)
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [6. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Multimedia & Graphics / Graphics Library
 
 *   [anomalyco/opentui (⭐11k)](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
 *   [muvon/octomind (⭐53)](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
 
-## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+### Libraries / Cryptography
+
+*   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
+
+## [8. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
 *   [pyrefly (⭐5.7k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 *   [pycroscope (⭐34)](https://github.com/JelleZijlstra/pycroscope) - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Sports & Fitness
 
@@ -62,19 +112,19 @@
 
 
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [dmunish/notecharts (⭐2)](https://github.com/dmunish/notecharts#readme) - High-fidelity project banner with a gallery of modern, designer-grade chart examples. Clear comparison to existing Python visualization tools and concise code snippets demonstrating its declarative API.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Education and Career Development
 
 *   [CloudCertPrep](https://cloudcertprep.io) - Free, open-source AWS certification practice exams with 1,050+ questions for CLF-C02. Features timed mock exams, domain practice, spaced repetition, and progress tracking.
 
-## [9. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [12. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Articles / Processing and other weird but funny stuff
 
@@ -104,7 +154,7 @@
 *   Windows
     *   [Motion in Windows apps](https://learn.microsoft.com/en-us/windows/apps/design/signature-experiences/motion)
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -116,7 +166,7 @@
 
 *   [dongri (⭐0)](https://github.com/dongri/dongri.zsh-theme) - Minimalist theme that shows both the default branch and current branch.
 
-## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Security
 
@@ -126,7 +176,7 @@
 
 *   [reflex (⭐51)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

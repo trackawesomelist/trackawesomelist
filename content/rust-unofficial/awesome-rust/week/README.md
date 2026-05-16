@@ -31,6 +31,10 @@ A curated list of Rust code and resources.
 
 *   [luminal-ai/luminal (⭐2.8k)](https://github.com/luminal-ai/luminal) \[[luminal](https://crates.io/crates/luminal)] - High-performance general-purpose inference compiler with RISC-style architecture, search-based optimization, and native CUDA/Metal backends. Supports transformers, convnets, and autograd. [![CI Status](https://img.shields.io/github/actions/workflow/status/luminal-ai/luminal/test-core.yml?style=for-the-badge\&logo=github-actions\&logoColor=white\&branch=main)](https://github.com/luminal-ai/luminal/actions)
 
+### Libraries / Cryptography
+
+*   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
+
 ### Libraries / Data streaming
 
 *   [beava-dev/beava (⭐130)](https://github.com/beava-dev/beava) - Single-binary feature server. Push events over HTTP or TCP, query fresh per-entity counters and aggregates inline, no broker in between. For fraud, recommendations, LLM guardrails, and in-product analytics [![CI](https://github.com/beava-dev/beava/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/beava-dev/beava/actions)
@@ -74,7 +78,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Finance
 
-*   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐341)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 
 ### Applications / Games
 

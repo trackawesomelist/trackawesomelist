@@ -6,18 +6,18 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [May 18 - May 24, 2026](/content/2026/20/README.md)
+
+### App Releases / Role Playing
+
+*   Grid Lands - [Desktop](https://store.steampowered.com/app/4677750/Grid_Lands/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
+
 ## [Mar 02 - Mar 08, 2026](/content/2026/9/README.md)
 
 ### App Releases / Puzzle Games
 
 *   [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
 *   [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
-
-## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
-
-### App Releases / Role Playing
-
-*   Grid Lands - [Web](https://game.gridlands.io/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -43,7 +43,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Square Shooter (⭐39)](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
+*   [Square Shooter (⭐38)](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
 
 ### App Releases / Casual
 
@@ -63,7 +63,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Antimine - Minesweeper (⭐15)](https://github.com/lucasnlm/antimine-flutter) - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
+*   [Antimine - Minesweeper (⭐19)](https://github.com/lucasnlm/antimine-flutter) - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -127,7 +127,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [First-Party Plugins (⭐10k)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
+*   [First-Party Plugins (⭐11k)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
 
 ### App Releases / Casual
 
@@ -257,13 +257,13 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [leap (⭐52)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐53)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
 ### Open Source / Casual
 
-*   [New Super Jumper (⭐174)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
+*   [New Super Jumper (⭐176)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -281,15 +281,15 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐135)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐137)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐246)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐249)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐64)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐66)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
@@ -321,7 +321,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Platformer
 
-*   [Flutters (⭐241)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+*   [Flutters (⭐242)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
@@ -381,7 +381,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Ant Squash (⭐23)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+*   [Ant Squash (⭐24)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 
 ### Non-English Content / Simulation
 
@@ -391,7 +391,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Ghost Rigger (⭐262)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ghost Rigger (⭐265)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
@@ -414,7 +414,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [bonfire (⭐1.4k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐1.5k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -426,7 +426,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐456)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐464)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -436,4 +436,4 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Endless Runner
 
-*   [BGUG (⭐96)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐95)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)

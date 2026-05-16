@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [muvon/octomind (⭐53)](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
 
+### Libraries / Cryptography
+
+*   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
+
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Applications / Utilities
@@ -105,7 +109,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Finance
 
-*   [Ashutosh0x/rust-finance (⭐322)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐341)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 
 ### Libraries / Parsing
 
