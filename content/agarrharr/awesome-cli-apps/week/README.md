@@ -12,6 +12,14 @@
 
 *   [gittype (⭐1.1k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
+### Utilities / Security
+
+*   [andcli (⭐133)](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+
+### Files and Directories / Search
+
+*   [reflex (⭐51)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Entertainment / Music

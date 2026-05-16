@@ -6,6 +6,22 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 16, 2026](/content/2026/05/16/README.md)
+
+### Sports & Fitness
+
+- API: [TourneyRadar](https://tourneyradar-api.vercel.app)
+
+  Description: Upcoming chess tournaments from 140+ national federations worldwide
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Anti-Malware

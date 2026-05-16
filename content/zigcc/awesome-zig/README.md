@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 16, 2026](/content/2026/05/16/README.md)
+
+### Multimedia & Graphics / Graphics Library
+
+*   [anomalyco/opentui (⭐11k)](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
+
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Fundamentals / Package and Version Manager

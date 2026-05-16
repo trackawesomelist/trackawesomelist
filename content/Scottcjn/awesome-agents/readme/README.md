@@ -38,8 +38,8 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [AutoGPT (⭐184k)](https://github.com/Significant-Gravitas/AutoGPT) - Open-source attempt to make GPT-4 fully autonomous with self-prompting and task decomposition.
 *   [AgentGPT (⭐36k)](https://github.com/reworkd/AgentGPT) - Browser-based tool for assembling, configuring, and deploying autonomous AI agents.
 *   [BabyAGI (⭐22k)](https://github.com/yoheinakajima/babyagi) - Task management system using OpenAI and vector databases to create and prioritize tasks autonomously.
-*   [SuperAGI (⭐17k)](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework with tools, logs, and agent provisioning.
-*   [MetaGPT (⭐67k)](https://github.com/geekan/MetaGPT) - Multi-agent framework assigning different GPT roles to form collaborative software entities.
+*   [SuperAGI (⭐18k)](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework with tools, logs, and agent provisioning.
+*   [MetaGPT (⭐68k)](https://github.com/geekan/MetaGPT) - Multi-agent framework assigning different GPT roles to form collaborative software entities.
 *   [OpenHands (⭐72k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software engineering agents (formerly OpenDevin).
 *   [Devin](https://devin.ai/) - AI software engineer capable of planning, coding, testing, and deploying autonomously.
 *   [Replit Agent](https://replit.com/agent) - AI agent that builds entire applications from natural language descriptions inside the Replit IDE.
@@ -53,8 +53,8 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [E2B (⭐12k)](https://github.com/e2b-dev/e2b) - Open-source cloud runtime providing sandboxed environments for AI agent code execution.
 *   [Wordware](https://www.wordware.ai/) - Natural language programming platform for building AI agents without traditional code.
 *   [Relevance AI](https://relevanceai.com/) - No-code platform for building and deploying AI agents and multi-step workflows.
-*   [Flowise (⭐52k)](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM orchestration flows and AI agents.
-*   [Dify (⭐139k)](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
+*   [Flowise (⭐53k)](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM orchestration flows and AI agents.
+*   [Dify (⭐142k)](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
 *   [Letta (⭐22k)](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 *   [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 *   [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
@@ -65,7 +65,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *   [LangChain (⭐136k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐49k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
-*   [CrewAI (⭐50k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
+*   [CrewAI (⭐51k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
 *   [Autogen (⭐58k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐28k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐40k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
@@ -73,9 +73,9 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Pydantic AI (⭐17k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
 *   [Swarm (⭐21k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 *   [Smolagents (⭐27k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
-*   [LangGraph (⭐31k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+*   [LangGraph (⭐32k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
 *   [DSPy (⭐34k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
-*   [Rivet (⭐4.5k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
+*   [Rivet (⭐4.6k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐28k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
 *   [Coinbase AgentKit (⭐1.2k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
 *   [Vercel AI SDK (⭐24k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
@@ -83,8 +83,9 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Camel (⭐17k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
 *   [Agency Swarm (⭐4.2k)](https://github.com/VRSEN/agency-swarm) - Framework for creating collaborative swarms of AI agents based on the agency model.
 *   [TaskWeaver (⭐6.2k)](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
-*   [Mastra (⭐23k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
+*   [Mastra (⭐24k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 *   [Agno (⭐40k)](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
+*   [Bernstein (⭐309)](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
 
 ## Agent-to-Agent Protocols
 
@@ -128,6 +129,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [SwarmHub](https://swarmhub.ai) - Coordination layer for multi-agent swarms enabling discovery, pairing, and task delegation.
 *   [Agent Directory](https://agentdirectory.ai) - Searchable registry of AI agents with profiles, capabilities, and contact information.
 *   [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters that have distinct personalities.
+*   [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 *   [SillyTavern (⭐27k)](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
 *   [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
 
@@ -154,16 +156,18 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
+*   [agenttrace (⭐3)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 *   [OpenClaw Beacon Scorecard (⭐137)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 *   [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 *   [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 *   [Helicone (⭐5.6k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
-*   [Langfuse (⭐26k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
+*   [Langfuse (⭐27k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
 *   [Arize Phoenix (⭐9.5k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
-*   [Portkey (⭐11k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
+*   [Portkey (⭐12k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
 *   [AgentOps (⭐5.5k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
+*   [BrowserTrace (⭐3)](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
 ## SDKs and Libraries
 

@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [hendriknielaender/zvm (⭐64)](https://github.com/hendriknielaender/zvm) - A fast and simple Zig version manager written in Zig.
 
+### Multimedia & Graphics / Graphics Library
+
+*   [anomalyco/opentui (⭐11k)](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Fundamentals / Package and Version Manager

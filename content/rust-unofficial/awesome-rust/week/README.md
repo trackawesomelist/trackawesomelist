@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
+### Applications / Productivity
+
+*   [muvon/octomind (⭐53)](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
+
 ### Applications / Utilities
 
 *   [splashboard (⭐100)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)

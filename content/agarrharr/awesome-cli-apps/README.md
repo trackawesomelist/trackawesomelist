@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [May 16, 2026](/content/2026/05/16/README.md)
+
+### Utilities / Security
+
+*   [andcli (⭐133)](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+
+### Files and Directories / Search
+
+*   [reflex (⭐51)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Utilities / Calendars

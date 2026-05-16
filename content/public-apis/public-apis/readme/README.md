@@ -1668,6 +1668,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Strava](https://strava.github.io/api/)                                                     | Connect with athletes, activities and more                                                          | `OAuth`         | Yes   | Unknown |
 | [SuredBits](https://suredbits.com/api/)                                                     | Query sports data, including teams, players, games, scores and statistics                           | No              | No    | No      |
 | [TheSportsDB](https://www.thesportsdb.com/api.php)                                          | Crowd-Sourced Sports Data and Artwork                                                               | `apiKey`        | Yes   | Yes     |
+| [TourneyRadar](https://tourneyradar-api.vercel.app)                                         | Upcoming chess tournaments from 140+ national federations worldwide                                 | No              | Yes   | Unknown |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/)                                         | Get and set activities, health data and more                                                        | `OAuth`         | Yes   | Unknown |
 | [Wger](https://wger.de/en/software/api)                                                     | Workout manager data as exercises, muscles or equipment                                             | `apiKey`        | Yes   | Unknown |
 

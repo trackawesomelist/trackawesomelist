@@ -122,6 +122,20 @@ A collective list of free APIs
 
 
 
+### Sports & Fitness
+
+- API: [TourneyRadar](https://tourneyradar-api.vercel.app)
+
+  Description: Upcoming chess tournaments from 140+ national federations worldwide
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Weather
 
 - API: [IPMA](https://api.ipma.pt/open-data/)

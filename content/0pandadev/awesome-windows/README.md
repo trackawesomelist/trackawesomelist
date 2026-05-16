@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [May 16, 2026](/content/2026/05/16/README.md)
+
+### Terminal
+
+*   [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Eugeny/tabby)
+
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
 ### Productivity
@@ -46,7 +52,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Security
 
-*   [Certificate Ripper (⭐907)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
+*   [Certificate Ripper (⭐911)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
 
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
 
@@ -914,7 +920,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Terminal
 
-*   [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Eugeny/terminus)
 *   [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/microsoft/terminal)
 
 ### Text Editors
