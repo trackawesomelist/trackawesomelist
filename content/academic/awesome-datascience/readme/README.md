@@ -220,6 +220,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 *   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 
+*   [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
+
 ### MOOC's
 
 **[`^        back to top        ^`](#awesome-data-science)**

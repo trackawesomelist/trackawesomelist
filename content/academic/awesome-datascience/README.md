@@ -8,6 +8,10 @@
 
 ## [May 17, 2026](/content/2026/05/17/README.md)
 
+### Free Courses
+
+*   [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.

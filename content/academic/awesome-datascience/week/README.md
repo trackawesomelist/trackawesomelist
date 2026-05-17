@@ -15,6 +15,7 @@
 ### Free Courses
 
 *   [Data Science (⭐21k)](https://github.com/ossu/data-science) - Open Source Society University
+*   [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
 
 ### Datasets / Book Deals (Affiliated)
 

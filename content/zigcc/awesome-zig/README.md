@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 17, 2026](/content/2026/05/17/README.md)
+
+### Network & Web / Network
+
+*   [sleep3r/mtproto.zig (⭐528)](https://github.com/sleep3r/mtproto.zig) - High-performance Telegram MTProto proxy written in Zig.
+
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
 ### Multimedia & Graphics / Graphics Library
