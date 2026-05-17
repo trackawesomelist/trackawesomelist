@@ -19,6 +19,7 @@
 ### Datasets / Book Deals (Affiliated)
 
 *   [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
+*   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -121,7 +122,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐17)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐20)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 

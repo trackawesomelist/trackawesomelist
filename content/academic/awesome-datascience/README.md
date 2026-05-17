@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 17, 2026](/content/2026/05/17/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
+
 ## [May 14, 2026](/content/2026/05/14/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -143,7 +149,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐17)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐20)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 
