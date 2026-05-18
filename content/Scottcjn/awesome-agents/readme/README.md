@@ -2,7 +2,7 @@
 
 A curated list of AI agent platforms, frameworks, protocols, tools, and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Scottcjn/awesome-agents/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Scottcjn/awesome-agents](https://github.com/Scottcjn/awesome-agents) · ⭐ 59 · 🏷️ Artificial Intelligence
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Scottcjn/awesome-agents/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Scottcjn/awesome-agents](https://github.com/Scottcjn/awesome-agents) · ⭐ 73 · 🏷️ Artificial Intelligence
 
 [ [Daily](/content/Scottcjn/awesome-agents/README.md) / [Weekly](/content/Scottcjn/awesome-agents/week/README.md) / Overview ]
 
@@ -40,7 +40,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [BabyAGI (⭐22k)](https://github.com/yoheinakajima/babyagi) - Task management system using OpenAI and vector databases to create and prioritize tasks autonomously.
 *   [SuperAGI (⭐18k)](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open-source autonomous AI agent framework with tools, logs, and agent provisioning.
 *   [MetaGPT (⭐68k)](https://github.com/geekan/MetaGPT) - Multi-agent framework assigning different GPT roles to form collaborative software entities.
-*   [OpenHands (⭐72k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software engineering agents (formerly OpenDevin).
+*   [OpenHands (⭐74k)](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for autonomous software engineering agents (formerly OpenDevin).
 *   [Devin](https://devin.ai/) - AI software engineer capable of planning, coding, testing, and deploying autonomously.
 *   [Replit Agent](https://replit.com/agent) - AI agent that builds entire applications from natural language descriptions inside the Replit IDE.
 *   [Cursor](https://cursor.sh/) - AI-first code editor with built-in agent capabilities for multi-file editing and codebase reasoning.
@@ -55,7 +55,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Relevance AI](https://relevanceai.com/) - No-code platform for building and deploying AI agents and multi-step workflows.
 *   [Flowise (⭐53k)](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM orchestration flows and AI agents.
 *   [Dify (⭐142k)](https://github.com/langgenius/dify) - Open-source LLM app development platform with agent workflow orchestration.
-*   [Letta (⭐22k)](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
+*   [Letta](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 *   [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 *   [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
 
@@ -63,7 +63,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Libraries and frameworks for building agent systems programmatically.*
 
-*   [LangChain (⭐136k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LangChain (⭐137k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
 *   [LlamaIndex (⭐49k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
 *   [CrewAI (⭐51k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
 *   [Autogen (⭐58k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
@@ -71,7 +71,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Phidata (⭐40k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
 *   [Haystack (⭐25k)](https://github.com/deepset-ai/haystack) - End-to-end NLP framework for building production-ready LLM applications and agents.
 *   [Pydantic AI (⭐17k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
-*   [Swarm (⭐21k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
+*   [Swarm (⭐22k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 *   [Smolagents (⭐27k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
 *   [LangGraph (⭐32k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
 *   [DSPy (⭐34k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
@@ -81,7 +81,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Vercel AI SDK (⭐24k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
 *   [Instructor (⭐13k)](https://github.com/instructor-ai/instructor) - Library for structured data extraction from LLMs using Pydantic models.
 *   [Camel (⭐17k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
-*   [Agency Swarm (⭐4.2k)](https://github.com/VRSEN/agency-swarm) - Framework for creating collaborative swarms of AI agents based on the agency model.
+*   [Agency Swarm (⭐4.4k)](https://github.com/VRSEN/agency-swarm) - Framework for creating collaborative swarms of AI agents based on the agency model.
 *   [TaskWeaver (⭐6.2k)](https://github.com/microsoft/TaskWeaver) - Microsoft's code-first agent framework converting natural language requests into executable code.
 *   [Mastra (⭐24k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 *   [Agno (⭐40k)](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
@@ -93,11 +93,11 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *   [Google A2A (⭐24k)](https://github.com/google/A2A) - Google's open Agent-to-Agent protocol enabling interoperable communication between AI agents.
 *   [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Anthropic's open protocol for connecting AI models to external data sources and tools.
-*   [OpenClaw Beacon (⭐137)](https://github.com/Scottcjn/beacon-skill) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings.
-*   [Grazer (⭐115)](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
+*   [OpenClaw Beacon (⭐163)](https://github.com/Scottcjn/beacon-skill) - Decentralized agent discovery and liveness protocol where agents broadcast capabilities via heartbeat pings.
+*   [Grazer](https://github.com/Scottcjn/grazer-skill) - Multi-platform social agent protocol enabling bots to post, reply, and interact across 9+ platforms from one SDK.
 *   [Agent Protocol (⭐1.5k)](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface specification for communicating with AI agents regardless of underlying implementation.
 *   [Agora Protocol](https://github.com/agoraprotocol/agora) - Open protocol for agent-to-agent marketplace interactions and task negotiation.
-*   [LMOS](https://github.com/eclipse-lmos/lmos) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
+*   [LMOS](https://eclipse.dev/lmos/) - Eclipse's Language Model Operating System for managing multi-agent deployments at enterprise scale.
 *   [ANP (⭐1.3k)](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Agent Network Protocol for building an open, secure, and efficient collaboration network for AI agents.
 
 ## Video and Media
@@ -114,7 +114,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI model generating realistic and fantastical videos from text and images.
 *   [Kling AI](https://klingai.com/) - Video generation model from Kuaishou capable of high-fidelity 1080p video synthesis.
 *   [Sora](https://openai.com/sora) - OpenAI's text-to-video model for generating realistic and imaginative video scenes.
-*   [ComfyUI (⭐111k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
+*   [ComfyUI (⭐113k)](https://github.com/comfyanonymous/ComfyUI) - Powerful modular node-based UI for Stable Diffusion and other generative AI pipelines.
 *   [Veo](https://deepmind.google/technologies/veo/) - Google DeepMind's video generation model producing high-quality 1080p clips from text.
 
 ## Social and Community
@@ -130,25 +130,25 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Agent Directory](https://agentdirectory.ai) - Searchable registry of AI agents with profiles, capabilities, and contact information.
 *   [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters that have distinct personalities.
 *   [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
-*   [SillyTavern (⭐27k)](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
+*   [SillyTavern (⭐28k)](https://github.com/SillyTavern/SillyTavern) - Locally hosted UI for interacting with AI characters through various LLM backends.
 *   [Hugging Face Spaces](https://huggingface.co/spaces) - Platform for hosting and sharing machine learning demos and AI applications.
 
 ## Blockchain and Rewards
 
 *Blockchain networks, tokens, and reward systems for AI agents.*
 
-*   [RustChain (⭐259)](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage and exotic hardware miners with RTC tokens.
+*   [RustChain (⭐305)](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage and exotic hardware miners with RTC tokens.
 *   [wRTC Token (Solana)](https://solscan.io/token/12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZGf5i4X) - Wrapped RTC token bridged to Solana with a Raydium liquidity pool.
 *   [wRTC Token (Base)](https://basescan.org/token/0x5683C10596AaA09AD7F4eF13CAB94b9b74A669c6) - Wrapped RTC token on Base L2 with an Aerodrome liquidity pool.
-*   [x402 Payment Protocol (⭐66)](https://github.com/coinbase/x402) - Coinbase's HTTP 402-based micropayment protocol enabling agents to pay for API access natively.
-*   [x402-proxy (⭐5)](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
-*   [Fetch.ai (⭐124)](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
+*   [x402 Payment Protocol (⭐79)](https://github.com/coinbase/x402) - Coinbase's HTTP 402-based micropayment protocol enabling agents to pay for API access natively.
+*   [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
+*   [Fetch.ai (⭐125)](https://github.com/fetchai/fetchd) - Decentralized machine learning platform with autonomous economic agents on a dedicated blockchain.
 *   [Autonolas (⭐121)](https://github.com/valory-xyz/open-autonomy) - Platform for creating and deploying autonomous agent services on-chain.
 *   [Virtuals Protocol](https://www.virtuals.io/) - Protocol for co-owning and tokenizing AI agents on-chain with revenue sharing.
 *   [Hashgraph Online (HOL)](https://hol.org) - Universal agentic registry built on Hedera Hashgraph with HCS-14 UAIDs, bridges to ERC-8004, Virtuals, A2A, and x402.
 *   [AIMorgan](https://aimorgan.vercel.app) - Non-custodial treasury management API for AI agents — yield via Morpho, perps via Hyperliquid, predictions via Polymarket. x402-native with MCP server.
-*   [ai16z ELIZA (⭐18k)](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
-*   [Morpheus (⭐222)](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
+*   [ai16z ELIZA](https://github.com/ai16z/eliza) - Multi-agent simulation framework enabling AI agents to interact on social media and manage crypto wallets.
+*   [Morpheus (⭐223)](https://github.com/MorpheusAIs/Morpheus) - Decentralized network of personal AI agents connected to smart contracts and crypto wallets.
 *   [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
 *   [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
 
@@ -156,17 +156,17 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
-*   [agenttrace (⭐3)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
-*   [OpenClaw Beacon Scorecard (⭐137)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
+*   [agenttrace (⭐37)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+*   [OpenClaw Beacon Scorecard (⭐163)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 *   [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 *   [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
-*   [Helicone (⭐5.6k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
+*   [Helicone (⭐5.7k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
 *   [Langfuse (⭐27k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
-*   [Arize Phoenix (⭐9.5k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
+*   [Arize Phoenix (⭐9.7k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
 *   [Portkey (⭐12k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
-*   [AgentOps (⭐5.5k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
+*   [AgentOps (⭐5.6k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
 *   [BrowserTrace (⭐3)](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
 ## SDKs and Libraries
@@ -175,25 +175,25 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *   [bottube](https://pypi.org/project/bottube/) - Python SDK for the BoTTube platform enabling agents to upload videos, post comments, and manage profiles.
 *   [clawrtc](https://pypi.org/project/clawrtc/) - Python CLI and library for RustChain mining, wallet management, and Coinbase wallet integration.
-*   [beacon-skill (⭐137)](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
+*   [beacon-skill (⭐163)](https://github.com/Scottcjn/beacon-skill) - Python package for agents to join the OpenClaw Beacon discovery network and broadcast liveness pings.
 *   [grazer-skill](https://pypi.org/project/grazer-skill/) - Multi-platform social SDK allowing agents to post and interact across BoTTube, Moltbook, ClawCities, and 6 more.
 *   [OpenAI Python (⭐31k)](https://github.com/openai/openai-python) - Official Python client library for the OpenAI API including assistants and tool use.
-*   [Anthropic Python (⭐3.3k)](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
+*   [Anthropic Python (⭐3.5k)](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
 *   [Google GenAI (⭐2.3k)](https://github.com/google/generative-ai-python) - Google's Python SDK for Gemini models with function calling and multi-modal support.
-*   [Ollama Python (⭐9.9k)](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
-*   [LiteLLM (⭐45k)](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
-*   [Marvin (⭐6.1k)](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
+*   [Ollama Python (⭐10k)](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
+*   [LiteLLM (⭐47k)](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
+*   [Marvin (⭐6.2k)](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
 *   [AgentWallet SDK (⭐0)](https://github.com/up2itnow0822/agentwallet-sdk) - Non-custodial wallet SDK for AI agents with x402 payments, CCTP cross-chain bridging, and SpendingPolicy guardrails.
 
 ## Standards and Specifications
 
 *Formal specifications, protocol definitions, and standard documents for the agent ecosystem.*
 
-*   [RIP-200 (⭐259)](https://github.com/Scottcjn/Rustchain) - RustChain Improvement Proposal for Round-Robin 1-CPU-1-Vote consensus with hardware attestation and time-aged antiquity multipliers.
+*   [RIP-200 (⭐305)](https://github.com/Scottcjn/Rustchain) - RustChain Improvement Proposal for Round-Robin 1-CPU-1-Vote consensus with hardware attestation and time-aged antiquity multipliers.
 *   [OpenAPI Specification (⭐31k)](https://github.com/OAI/OpenAPI-Specification) - Industry-standard specification for describing HTTP APIs, widely used for agent tool definitions.
 *   [JSON-RPC 2.0](https://www.jsonrpc.org/specification) - Stateless, lightweight remote procedure call protocol used by MCP and other agent communication layers.
 *   [A2A Protocol Spec (⭐24k)](https://github.com/google/A2A) - Google's specification for agent interoperability defining Agent Cards, task lifecycle, and streaming.
-*   [MCP Specification](https://spec.modelcontextprotocol.io/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
+*   [MCP Specification](https://modelcontextprotocol.io/specification/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
 *   [Tool Use Schemas](https://json-schema.org/) - JSON Schema, the foundation for defining tool parameter schemas across all major agent frameworks.
 *   [OAuth 2.0](https://oauth.net/2/) - Authorization framework underpinning secure agent-to-service authentication across the ecosystem.
 *   [WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - Full-duplex communication protocol used by many real-time agent streaming implementations.
@@ -203,11 +203,11 @@ AI agents are autonomous software entities that perceive their environment, make
 *Running AI models on constrained, embedded, and vintage hardware.*
 
 *   [N64 nano-GPT (⭐29)](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya) - First LLM running on Nintendo 64 hardware — Q4 fixed-point nano-GPT inference on a 93MHz VR4300 with 4MB RAM.
-*   [llama.cpp (⭐108k)](https://github.com/ggml-org/llama.cpp) - High-performance LLM inference in C/C++ supporting CPU, GPU, and exotic architectures with GGUF quantization.
+*   [llama.cpp (⭐111k)](https://github.com/ggml-org/llama.cpp) - High-performance LLM inference in C/C++ supporting CPU, GPU, and exotic architectures with GGUF quantization.
 *   [TinyLlama (⭐9k)](https://github.com/jzhang38/TinyLlama) - 1.1B parameter language model pre-trained on 3 trillion tokens, designed for edge and resource-constrained deployment.
 *   [MLC LLM (⭐23k)](https://github.com/mlc-ai/mlc-llm) - Universal LLM deployment engine running models natively on phones, browsers, and embedded devices.
 *   [ExecuTorch (⭐4.6k)](https://github.com/pytorch/executorch) - PyTorch's on-device inference framework for mobile and edge AI with optimized backends.
-*   [Whisper.cpp (⭐49k)](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper speech recognition to C/C++ for CPU-only and embedded inference.
+*   [Whisper.cpp (⭐50k)](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper speech recognition to C/C++ for CPU-only and embedded inference.
 *   [TensorFlow Lite Micro (⭐2.9k)](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for microcontrollers — ML inference on devices with kilobytes of memory.
 
 ## Research and Papers
@@ -225,7 +225,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [MRKL Systems](https://arxiv.org/abs/2205.00445) - Modular neuro-symbolic architecture for combining LLMs with discrete expert modules and tools (2022).
 *   [Reflexion](https://arxiv.org/abs/2303.11366) - Framework for reinforcing language agents through linguistic feedback and self-reflection (2023).
 *   [Language Agent Tree Search](https://arxiv.org/abs/2310.04406) - General framework unifying reasoning, acting, and planning in language agents via Monte Carlo tree search (2023).
-*   [POWER8 Non-Bijunctive Collapse (⭐97)](https://github.com/Scottcjn/ram-coffers) - Research on vec\_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
+*   [POWER8 Non-Bijunctive Collapse (⭐116)](https://github.com/Scottcjn/ram-coffers) - Research on vec\_perm-based attention collapse and neuromorphic NUMA routing for hardware-native Hebbian inference.
 
 ## Contributing
 
@@ -233,7 +233,7 @@ Contributions welcome! Please read the [contribution guidelines](https://github.
 
 ## Footnotes
 
-This list is maintained by [Elyan Labs](https://github.com/Scottcjn). Built with the same ethos as the [OpenClaw Beacon (⭐137)](https://github.com/Scottcjn/beacon-skill) network — open discovery, interoperability, and agent autonomy.
+This list is maintained by [Elyan Labs](https://github.com/Scottcjn). Built with the same ethos as the [OpenClaw Beacon (⭐163)](https://github.com/Scottcjn/beacon-skill) network — open discovery, interoperability, and agent autonomy.
 
 ## License
 

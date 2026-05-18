@@ -6,6 +6,12 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [ML/AI Interview Prep (⭐0)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Research & Knowledge Retrieval
@@ -1121,7 +1127,7 @@
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [awesome-dataviz (⭐4.3k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐75k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐76k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐695)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐99)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 

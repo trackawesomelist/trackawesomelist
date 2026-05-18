@@ -2,9 +2,15 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.1K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.2K · 🏷️ Media
 
 [ Daily / [Weekly](/content/Siilwyn/awesome-pixel-art/week/README.md) / [Overview](/content/Siilwyn/awesome-pixel-art/readme/README.md) ]
+
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Tools / Miscellaneous
+
+*   [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 

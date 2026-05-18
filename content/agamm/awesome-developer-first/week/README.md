@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Monitoring
+
+*   [Future AGI](https://futureagi.com/) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails. [![Future AGI](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/future-agi/future-agi)
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Monitoring

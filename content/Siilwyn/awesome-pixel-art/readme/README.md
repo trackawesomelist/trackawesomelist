@@ -2,7 +2,7 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.1K · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.2K · 🏷️ Media
 
 [ [Daily](/content/Siilwyn/awesome-pixel-art/README.md) / [Weekly](/content/Siilwyn/awesome-pixel-art/week/README.md) / Overview ]
 
@@ -122,4 +122,5 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 *   [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
 *   [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
+*   [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 

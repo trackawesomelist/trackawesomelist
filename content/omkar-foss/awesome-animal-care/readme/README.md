@@ -2,7 +2,7 @@
 
 List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 5 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 7 · 🏷️ Health and Social Science
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / [Weekly](/content/omkar-foss/awesome-animal-care/week/README.md) / Overview ]
 
@@ -60,6 +60,11 @@ Goal of this project is simply to gather verified animal care content written by
     *   [Parrot Care & Treatment](#parrot-care--treatment)
     *   [Parrot Behaviour & Training](#parrot-behaviour--training)
     *   [Parrot Diet & Nutrition](#parrot-diet--nutrition)
+*   [Rabbits](#rabbits)
+    *   [Rabbit Books](#rabbit-books)
+    *   [Rabbit Care & Treatment](#rabbit-care--treatment)
+    *   [Rabbit Behaviour & Training](#rabbit-behaviour--training)
+    *   [Rabbit Diet & Nutrition](#rabbit-diet--nutrition)
 
 ## Common Resources for all animals
 
@@ -138,6 +143,8 @@ Goal of this project is simply to gather verified animal care content written by
 *   [People for the Ethical Treatement of Animals (PETA)](https://www.peta.org/) - International organization known for high-impact campaigns against the use of animals for food, clothing, research and entertainment.
 *   [People For Animals India (PFA India)](https://www.peopleforanimalsindia.org/) - India's largest animal welfare organization, founded by Maneka Gandhi, which runs a network of shelters and hospitals.
 *   [Pet Nutrition Alliance (PNA)](https://petnutritionalliance.org/) - Collaboration of veterinary organizations that provides objective nutritional tools for pet owners and veterinary teams.
+*   [Rabbit.org](https://rabbit.org/) - Since 1995, Rabbit.org has been the home of the most trusted rabbit information on the internet. They are dedicated to ending the suffering, abuse, and exploitation of all rabbits.
+*   [Rabbit Welfare Association & Fund (RWAF)](https://rabbitwelfare.co.uk/) - They are UK’s largest organisation for rabbit welfare involved in owner education, campaigning for stronger legislation, and certifying rabbit-friendly veterinary practices.
 *   [Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/) - Founded in 1824, it is the world's oldest animal welfare charity, focused on investigating animal cruelty and rescuing animals in need.
 *   [Royal Society for Protection of Birds (RSPB)](https://www.rspb.org.uk/)- UK's largest nature conservation charity, managing over 200 nature reserves to protect birds and their environments.
 *   [Save The Snakes](https://savethesnakes.org/) - International conservation organization that protects snake populations and mitigates human-snake conflict through education.
@@ -339,11 +346,38 @@ Goal of this project is simply to gather verified animal care content written by
 *   [5 Parrot Diet Nutrition Essentials That You CAN'T Neglect - Orange Pet Nutrition](https://www.orangepet.in/blogs/posts/5-parrot-diet-nutrition-essentials-that-you-cant-neglect) - Article explains how to design a balanced diet for your parrot.
 *   [Parrot Diet & Nutrition - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Diet-and-Nutrition-BBB.pdf) - Provides useful tips about a parrot's diet. Part of TGF's Beyond Bird Basics series.
 
+## Rabbits
+
+### Rabbit Books
+
+*   [House Rabbit Handbook: How to Live With an Urban Rabbit - Marinell Harriman](https://www.goodreads.com/book/show/873874.House_Rabbit_Handbook_) - A seminal guide that revolutionized indoor rabbit care by introducing the concept of free-roam, litter-trained companion rabbits.
+*   [On the Hop (Version 6), The RWAF Guide to rabbit care - Rabbit Welfare Association & Fund (RWAF)](https://rabbitwelfare.co.uk/wp-content/uploads/2023/01/On-The-Hop-Issue-6.pdf) - Beginner-friendly rabbit care guide by RWAF covers topics like rabbit diet, neutering, preventative health care, grooming, coat care, choosing a vet and managing aggressive behaviour in rabbits.
+
+### Rabbit Care & Treatment
+
+*   [Bunny Care 101 - Pet Health Network](https://www.pethealthnetwork.com/all-pet-health/small-animal-health-care/bunny-care-101) - General tips on rabbit care.
+*   [Care Basics - Rabbit.org](https://rabbit.org/care/) - Includes diet, grooming, housing, play and littertraining articles for rabbit care.
+*   [Caring For The Elderly Or Senior Rabbit - Lafeber](https://lafeber.com/mammals/caring-for-the-elderly-or-senior-rabbit/) - Discusses signs of an aging rabbit and tips on how to care for them.
+*   [Identifying Rabbit Pain - The Educated Rabbit](https://www.theeducatedrabbit.com/identifying-rabbit-pain.html) - Talks about the signs of a sick rabbit along with measuring pain with Grimace Scales as a further reading.
+*   [MediRabbit - The Ultimate Rabbit Medicine Resource on the Net](https://www.medirabbit.com/) - Comprehensive educational website on rabbit medicine.
+*   [Rabbit Care - My House Rabbit](https://myhouserabbit.com/rabbit-care/) - Rabbit care basics (from diet to housing to bunny proofing) in order to create a safe, loving environment.
+
+### Rabbit Behaviour & Training
+
+*   [How to start training your rabbit - The Bunbrary Blog](https://www.bunbrary.com/training/rabbit-training-getting-started/) - Beginner's guide to start rabbit training with a clicker.
+*   [What Rabbit Training Really Is (And Why It Matters) - Badass Bunny Rescuer](https://www.badassbunnyrescuer.com/blog/rabbit-target-training) - Explains intricacies of rabbit training, includes building trust, giving your rabbit agency and low stress target training.
+
+### Rabbit Diet & Nutrition
+
+*   [Ideal Rabbit Diet - The Rabbit Doctors](https://therabbitdoctors.com.au/blogs/information/information-ideal-rabbit-diet) - Ideal rabbit diet based on BSAVA recommendations.
+*   [Rabbit Diet - House Rabbit Resource Network](https://rabbitresource.org/rabbit-care-information-and-resources/diet/) - Articles on what rabbits eat, importance of hay, pellets, fresh foods and treat recipes.
+*   [Rabbit Food Pyramid - San Diego House Rabbit Society](https://sandiegorabbits.org/education/providing-a-healthy-rabbit-diet) - Healthy rabbit diet explained in detail with a food pyramid infographic.
+
 ## Contributing
 
 Your contributions are always welcome! To get started, refer to [contributing.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md/contributing.md).
 
 ## Footnotes
 
-Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
+Since we cannot rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
 

@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Playbooks, Roles and Collections / French
+
+*   [Linuxfabrik LFOps (⭐77)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
+
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Tools
@@ -56,8 +62,8 @@ Awesome Ansible List
     *   [Ansible vim and neovim plugin](https://www.npmjs.com/package/@yaegassy/coc-ansible) - A vim plugin (lsp client) for Ansible, it supports autocompletion, syntax highlighting, hover, diagnostics, and goto support.
 *   [Emacs](https://www.gnu.org/software/emacs/) - A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):
     *   [lsp-mode](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Ansible Language Server Protocol support for Emacs: provides syntax highlighting, auto-completion and diagnostics.
-    *   [yaml-mode (⭐512)](https://github.com/yoshiki/yaml-mode) - YAML highlighting and syntax checking.
-    *   [jinja2-mode (⭐72)](https://github.com/paradoxxxzero/jinja2-mode) - Jinja2 highlighting and syntax checking.
+    *   [yaml-mode (⭐513)](https://github.com/yoshiki/yaml-mode) - YAML highlighting and syntax checking.
+    *   [jinja2-mode (⭐73)](https://github.com/paradoxxxzero/jinja2-mode) - Jinja2 highlighting and syntax checking.
     *   [magit-mode (⭐7.1k)](https://github.com/magit/magit) - Git porcelain within Emacs.
     *   [flymake-ansible-lint (⭐11)](https://github.com/jamescherti/flymake-ansible-lint.el) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
 *   [PyCharm](https://www.jetbrains.com/pycharm/) - A full IDE for Python software development. Useful plugins include:
@@ -89,7 +95,7 @@ Awesome Ansible List
 
 ### Tutorials
 
-*   [Ansible For DevOps (⭐9.7k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+*   [Ansible For DevOps (⭐9.8k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 
 ### Tools
 
@@ -154,7 +160,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-doc-extractor (⭐17)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
+*   [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 
 ### Blog posts and opinions
 
@@ -173,7 +179,7 @@ Awesome Ansible List
 
 *   [php-ansible Library (⭐215)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
 *   [TD4A (⭐220)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐748)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [Ansible Playbook Grapher (⭐749)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
@@ -210,7 +216,7 @@ Awesome Ansible List
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner (⭐1.1k)](https://github.com/ansible/ansible-runner) - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
@@ -235,7 +241,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-navigator (⭐525)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐533)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [Apr 03, 2021](/content/2021/04/03/README.md)
 
@@ -284,7 +290,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Doctor (⭐155)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Doctor (⭐156)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -333,7 +339,7 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐779)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
@@ -379,4 +385,4 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+*   [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.

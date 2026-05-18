@@ -2,9 +2,41 @@
 
 List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 5 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 7 · 🏷️ Health and Social Science
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / Weekly / [Overview](/content/omkar-foss/awesome-animal-care/readme/README.md) ]
+
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Common Resources for all animals / Welfare Organizations
+
+*   [Rabbit.org](https://rabbit.org/) - Since 1995, Rabbit.org has been the home of the most trusted rabbit information on the internet. They are dedicated to ending the suffering, abuse, and exploitation of all rabbits.
+*   [Rabbit Welfare Association & Fund (RWAF)](https://rabbitwelfare.co.uk/) - They are UK’s largest organisation for rabbit welfare involved in owner education, campaigning for stronger legislation, and certifying rabbit-friendly veterinary practices.
+
+### Rabbits / Rabbit Books
+
+*   [House Rabbit Handbook: How to Live With an Urban Rabbit - Marinell Harriman](https://www.goodreads.com/book/show/873874.House_Rabbit_Handbook_) - A seminal guide that revolutionized indoor rabbit care by introducing the concept of free-roam, litter-trained companion rabbits.
+*   [On the Hop (Version 6), The RWAF Guide to rabbit care - Rabbit Welfare Association & Fund (RWAF)](https://rabbitwelfare.co.uk/wp-content/uploads/2023/01/On-The-Hop-Issue-6.pdf) - Beginner-friendly rabbit care guide by RWAF covers topics like rabbit diet, neutering, preventative health care, grooming, coat care, choosing a vet and managing aggressive behaviour in rabbits.
+
+### Rabbits / Rabbit Care & Treatment
+
+*   [Bunny Care 101 - Pet Health Network](https://www.pethealthnetwork.com/all-pet-health/small-animal-health-care/bunny-care-101) - General tips on rabbit care.
+*   [Care Basics - Rabbit.org](https://rabbit.org/care/) - Includes diet, grooming, housing, play and littertraining articles for rabbit care.
+*   [Caring For The Elderly Or Senior Rabbit - Lafeber](https://lafeber.com/mammals/caring-for-the-elderly-or-senior-rabbit/) - Discusses signs of an aging rabbit and tips on how to care for them.
+*   [Identifying Rabbit Pain - The Educated Rabbit](https://www.theeducatedrabbit.com/identifying-rabbit-pain.html) - Talks about the signs of a sick rabbit along with measuring pain with Grimace Scales as a further reading.
+*   [MediRabbit - The Ultimate Rabbit Medicine Resource on the Net](https://www.medirabbit.com/) - Comprehensive educational website on rabbit medicine.
+*   [Rabbit Care - My House Rabbit](https://myhouserabbit.com/rabbit-care/) - Rabbit care basics (from diet to housing to bunny proofing) in order to create a safe, loving environment.
+
+### Rabbits / Rabbit Behaviour & Training
+
+*   [How to start training your rabbit - The Bunbrary Blog](https://www.bunbrary.com/training/rabbit-training-getting-started/) - Beginner's guide to start rabbit training with a clicker.
+*   [What Rabbit Training Really Is (And Why It Matters) - Badass Bunny Rescuer](https://www.badassbunnyrescuer.com/blog/rabbit-target-training) - Explains intricacies of rabbit training, includes building trust, giving your rabbit agency and low stress target training.
+
+### Rabbits / Rabbit Diet & Nutrition
+
+*   [Ideal Rabbit Diet - The Rabbit Doctors](https://therabbitdoctors.com.au/blogs/information/information-ideal-rabbit-diet) - Ideal rabbit diet based on BSAVA recommendations.
+*   [Rabbit Diet - House Rabbit Resource Network](https://rabbitresource.org/rabbit-care-information-and-resources/diet/) - Articles on what rabbits eat, importance of hay, pellets, fresh foods and treat recipes.
+*   [Rabbit Food Pyramid - San Diego House Rabbit Society](https://sandiegorabbits.org/education/providing-a-healthy-rabbit-diet) - Healthy rabbit diet explained in detail with a food pyramid infographic.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
