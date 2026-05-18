@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Visualization, Dashboards / Firmwares for ESP based Devices
+
+*   [awtSCADA (⭐2)](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI system with MQTT support (plus IEC 61850, OPC UA, Modbus TCP). Runs from a single HTML file in any browser, zero installation. 53 function blocks, 65 graphic elements, real-time trends.
+
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
 ### Tools
@@ -81,7 +87,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
-*   [ble-scale-sync (⭐65)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
+*   [ble-scale-sync (⭐93)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
 
 ## [Feb 07, 2026](/content/2026/02/07/README.md)
 

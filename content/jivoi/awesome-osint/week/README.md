@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Social Media Tools / Telegram
+
+*   [TGStat](https://tgstat.com/) - OSINT platform analyzing Telegram channels, groups, metrics, and trending activity.
+
+### Browsers / GitHub
+
+*   [firefox-stealth (⭐16)](https://github.com/feder-cr/firefox-stealth) - C++ source patches that harden Firefox against browser fingerprinting at the engine level (Canvas, WebGL, Audio, Fonts, WebRTC, Timezone). MPL-2.0; build from source or grab the pre-built binary.
+
+### Threat Intelligence / GitHub
+
+*   [VoidAccess (⭐41)](https://github.com/KatrielMoses/voidaccess) - Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Domain and IP Research / GitHub
@@ -98,7 +112,7 @@
 
 ### Google Dorks Tools
 
-*   [DorkEye (⭐121)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
+*   [DorkEye (⭐137)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
 
 ### Maritime / GitHub
 
@@ -148,7 +162,7 @@
 
 ### Data Breach Search Engines
 
-*   [Leaker (⭐302)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
+*   [Leaker (⭐308)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 
 ### Speciality Search Engines
 
@@ -160,7 +174,7 @@
 
 ### Username Check / GitHub
 
-*   [Antisocial (⭐2)](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
+*   [Antisocial (⭐3)](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
 
 ### People Investigations / GitHub
 
@@ -168,7 +182,7 @@
 
 ### Web History and Website Capture / GitHub
 
-*   [Wayback-Archive (⭐8)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+*   [Wayback-Archive (⭐10)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 
 ### Web Monitoring / GitHub
 
@@ -997,7 +1011,7 @@
 ### Web Monitoring / GitHub
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐31k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐32k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / GitHub
 

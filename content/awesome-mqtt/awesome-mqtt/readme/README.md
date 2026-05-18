@@ -389,7 +389,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 *   [airrohr2mqtt](https://c0d3.sh/smarthome/airrohr2mqtt) - Air quality monitoring integration.
 *   [amcrest2mqtt (⭐155)](https://github.com/dchesterton/amcrest2mqtt) - Amcrest doorbell to MQTT bridge. Uses Home Assistant's MQTT discovery protocol.
-*   [ble-scale-sync (⭐65)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
+*   [ble-scale-sync (⭐93)](https://github.com/KristianP26/ble-scale-sync) - BLE-to-MQTT bridge for smart scales (23 brands) with Home Assistant auto-discovery. Reads weight + impedance, calculates body composition, publishes all 11 metrics with LWT and display precision. [Website](https://blescalesync.dev).
 *   [aqara-mqtt (⭐88)](https://github.com/monster1025/aqara-mqtt) - Aqara (Xiaomi) Gateway to MQTT bridge.
 *   [aqara2mqtt (⭐7)](https://github.com/hobbyquaker/aqara2mqtt) - Attach [Aqara](https://www.aqara.com) Smart Hubs to MQTT.
 *   [Bambuddy (⭐1.1k)](https://github.com/maziggy/bambuddy) - Self-hosted management tool for Bambu Lab 3D printers using MQTT, with real-time monitoring, scheduling, and Home Assistant integration.
@@ -531,6 +531,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ## Visualization, Dashboards
 
+*   [awtSCADA (⭐2)](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI system with MQTT support (plus IEC 61850, OPC UA, Modbus TCP). Runs from a single HTML file in any browser, zero installation. 53 function blocks, 65 graphic elements, real-time trends.
 *   [MQTT-Tiles (⭐111)](https://github.com/flespi-software/MQTT-Tiles) - MQTT-based IoT dashboard visualization tool. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
 *   [Crouton (⭐297)](https://github.com/edfungus/Crouton) - A dashboard that taps into your IOT network, using only MQTT and JSON.
 *   [d3-MQTT-Topic-Tree (⭐98)](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.

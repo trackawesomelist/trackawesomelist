@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Web
+
+*   [Mustela (⭐0)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
+
 ## [May 17, 2026](/content/2026/05/17/README.md)
 
 ### Editors

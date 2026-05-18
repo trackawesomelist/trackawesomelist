@@ -6,6 +6,16 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [ghq-worktree (⭐1)](https://github.com/liquidcatmofu/zsh-ghq-worktree) - Integrates `ghq`, [fzf (⭐80k)](https://github.com/junegunn/fzf), and `git worktree` to minimize context-switching cost in multi-repository development.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [soda-pop (⭐0)](https://github.com/im-adnan/soda-pop.zsh-theme) - A fast, customizable, highly visual, and pure-shell asynchronous `git` prompt theme. It combines an informative git status, an execution tracker, and a rich bubblegum/soda-pop aesthetic with precise color mapping optimized for both light and dark modes.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### [zert](https://github.com/oxcl/zert)
@@ -37,7 +47,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dune.zsh (⭐0)](https://github.com/bitpeppr/dune.zsh) - Plugin to randomly display a quote from an extensive pool of Dune quotes.
-*   [git-tidy (⭐0)](https://github.com/silee9019/git-tidy) - Plugin for safely reviewing and removing local branches whose upstream branch is marked \[gone].
 *   [smart-history (⭐0)](https://github.com/lstasi/zsh-smart-history-plugin) - Turns your recent ZSH history into command suggestions powered by Ollama.
 *   [startcache (⭐0)](https://github.com/rndjams/zsh-startcache) - Speeds up shell startup by caching the output of slow `eval "$(tool init)"` commands and replacing `compinit`'s fpath-string invalidation with time-based staleness. Saves 110ms–1180ms per shell depending on configuration.
 
@@ -861,7 +870,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [brew-install (⭐1)](https://github.com/marceloclp/zsh-brew-install) - Installs and loads [brew](https://brew.sh) on WSL.
 *   [scad (⭐4)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐2.2k)](https://github.com/garabik/grc) and [jq (⭐35k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐34)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐84k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐34)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐85k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐6k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐1)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
 *   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh).
 
@@ -948,7 +957,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐84k)](https://github.com/astral-sh/uv).
+*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐85k)](https://github.com/astral-sh/uv).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1352,7 +1361,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dirbrowse (⭐3)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐187k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐30k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐31k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [touchplus (⭐4)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
 *   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐32k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
@@ -2131,7 +2140,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [autorestic (⭐3)](https://github.com/naegling/zsh-autorestic) - automatically installs [Restic (⭐1.8k)](https://github.com/cupcakearmy/autorestic/)'s completions for you, and keeps them up to date as your autorestic version changes.
 *   [kustomize (⭐15)](https://github.com/ralgozino/oh-my-kustomize) - Adds tab completions for [kustomize](https://kustomize.io/)
 *   [misc-completions (⭐0)](https://github.com/syohex/zsh-misc-completions) - Adds completions for more unix and perl commands.
 
@@ -2579,7 +2587,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [project (gko) (⭐20)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
 *   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐2.4k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
 *   [session-sauce (⭐31)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐80k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐98)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐84k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐98)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐85k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

@@ -2,58 +2,80 @@
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 13K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 14K · 🏷️ Theory
 
 [ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / Weekly / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### 📚 Learn / Books
+
+*   [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) — Transformers in raw PyTorch, layer by layer (Sebastian Raschka).
+*   [Hands-On Large Language Models](https://www.llm-book.com/) — Visual + practical guide to LLM applications (Jay Alammar, Maarten Grootendorst).
+*   [LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079) — Production LLMOps: fine-tuning, quantization, serving (Labonne, Iusztin).
+*   [The 100-Page Language Models Book](https://www.thelmbook.com/) — Concise, math-grounded path from n-grams to transformers (Andriy Burkov).
+*   [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) — Bishop's 2024 update; probability-grounded modern DL (Bishop & Bishop).
+*   [Understanding Deep Learning](https://udlbook.github.io/udlbook/) — Math + intuition + Python notebooks (Simon Prince).
+*   [Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/) — The NLP reference, kept current through the deep learning era (Jurafsky, Martin).
+
+### 📚 Learn / Courses
+
+*   [Google DeepMind — Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+*   [Karpathy — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+### 🤖 Agents / Coding
+
+*   [Claude Code](https://code.claude.com/) — Anthropic's CLI agent; multi-file codebase refactoring with long context.
+*   [Codex CLI (⭐83k)](https://github.com/openai/codex) — OpenAI's Rust-based local terminal agent; lightweight and fast.
+*   [Gemini CLI (⭐103k)](https://github.com/google-gemini/gemini-cli) — Google's official open-source terminal agent; long-context repo exploration.
+*   [Cursor CLI](https://cursor.com/cli) — Cursor's terminal-native agent with sandboxed permissions.
+*   [Aider](https://aider.chat/) — Git-integrated pair programming with surgical edits and undo.
+*   [OpenCode](https://opencode.ai/) — Provider-agnostic terminal harness with a strong TUI.
+*   [OpenHands](https://docs.all-hands.dev/) — Open-source autonomous SWE platform; browser + shell + editor loop.
+*   [Cline (⭐62k)](https://github.com/cline/cline) — Open-source agentic IDE extension with strong multi-provider support.
+*   [Continue](https://www.continue.dev/) — Open-source IDE + CLI assistant with source-controlled rules.
+*   [Goose](https://block.github.io/goose/) — Block's extensible, MCP-driven local agent.
+*   [Factory Droid](https://factory.ai/product/cli) — Benchmark-leading multi-model harness with BYOK local execution.
+*   [Amp](https://ampcode.com/) — Sourcegraph's commercial agentic coding tool with strong product UX.
+*   [Mistral Vibe](https://mistral.ai/products/vibe) — Mistral's agentic coding CLI, powered by Devstral.
+*   [Qwen Code (⭐24k)](https://github.com/QwenLM/qwen-code) — Alibaba's terminal coding agent, optimized for Qwen models.
+*   [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
+*   [Nanocoder (⭐1.9k)](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
+*   [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
+
+### 🧠 Models / 💬 Language
+
+*   [Grok](https://x.ai/) — Best for real-time information via X and very long context.
+*   [Llama](https://www.llama.com/) — Best open-weight family for self-hosting and fine-tuning.
+*   [Kimi](https://www.kimi.com/) — Best for long-context instruction following.
+*   [GLM](https://chatglm.cn/) — Frontier-tier Chinese model with open weights.
+
+### 🧠 Models / 🖼 Image
+
+*   [GPT Image](https://openai.com/index/introducing-chatgpt-images-2-0/) — OpenAI's integrated image generation with near-perfect text rendering.
+
+### 🧠 Models / 🎥 Video
+
+*   [Google Veo](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
+
+### 🧠 Models / 📊 Compare
+
+*   [OpenRouter](https://openrouter.ai/models) — Unified API + live pricing across \~300 models.
+*   [LMArena](https://lmarena.ai/leaderboard) — Human-preference Elo rankings for text, image, and video.
+*   [Artificial Analysis](https://artificialanalysis.ai/) — Speed, price, and quality benchmarks across providers.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
-### 📚 Books
+### 📚 Learn / Books
 
 *   [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
-*   [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
 *   [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).
-*   [100 Page Language Models Book](https://www.thelmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
-*   [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
-*   [Deep Learning](https://www.deeplearningbook.org/) — Neural networks & architectures (Goodfellow, Bengio, Courville).
-*   [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL fundamentals (Sutton & Barto).
+*   [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
+*   [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — The canonical AI theory text (Russell, Norvig).
+*   [Deep Learning](https://www.deeplearningbook.org/) — Mathematical foundations of neural networks (Goodfellow, Bengio, Courville).
+*   [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL foundations (Sutton, Barto).
 
-### 🏗 AI Engineering / 📖 Guides & Playbooks
-
-*   **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
-*   [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents
-*   [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
-*   [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
-*   [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
-*   [LLM Engineer Handbook (⭐4.4k)](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
-
-### 🏗 AI Engineering / 🤖 Frameworks
-
-*   [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
-*   [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
-*   [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
-*   [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
-*   [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
-*   [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
-
-### 🏗 AI Engineering / 📦 Retrieval-Augmented Generation (RAG)
-
-*   [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
-*   [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
-*   [Docling (⭐45k)](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
-
-### 🏗 AI Engineering / Evals
-
-*   [OpenAI Evals (⭐17k)](https://github.com/openai/evals) — OpenAI's framework for writing evals
-
-### 📄 Landmark Papers / Evals
-
-*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Transformer architecture.
-*   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
-*   [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
-*   [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
-
-### 🎓 Courses / Evals
+### 📚 Learn / Courses
 
 *   [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 *   [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
@@ -62,63 +84,87 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 *   [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 *   [MIT 6.S191: Intro to Deep Learning](https://introtodeeplearning.com/)
 *   [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
-*   [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-*   [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-*   [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
-### 📰 Newsletters / Evals
+### 📚 Learn / Landmark Papers
+
+*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Transformer architecture.
+*   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
+*   [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
+*   [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
+
+### 🛠 Build / Guides & Playbooks
+
+*   **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+*   [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents.
+*   [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) — Practical guide to building AI agents from Google.
+*   [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) — Companion guide from Google.
+*   [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+*   [LLM Engineer Handbook (⭐4.9k)](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers.
+
+### 🛠 Build / Frameworks
+
+*   [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
+*   [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
+*   [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
+*   [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
+*   [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
+*   [AutoGen](https://microsoft.github.io/autogen/) — Microsoft's framework for multi-agent conversation and collaboration.
+*   [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
+*   [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
+*   [Docling (⭐60k)](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+
+### 🛠 Build / Evals
+
+*   [OpenAI Evals (⭐18k)](https://github.com/openai/evals) — OpenAI's framework for writing evals.
+
+### 🛠 Build / IDEs
+
+*   [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
+*   [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
+
+### 🧠 Models / 💬 Language
+
+*   [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general reasoning, tool use, and the broadest ecosystem.
+*   [Mistral](https://mistral.ai/) — Best for lightweight, high-performance open-weight models.
+*   [DeepSeek](https://deepseek.com/) — Best for cost-efficient reasoning with open weights.
+*   [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
+*   [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
+
+### 🧠 Models / 🖼 Image
+
+*   [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud; commercial-safe.
+*   [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
+*   [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable, open-weight images.
+
+### 🧠 Models / 🎥 Video
+
+*   [Kling](https://klingai.com/) — Cinematic, realistic video generation.
+
+### 🧠 Models / 🎙 Audio
+
+*   [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech and voice cloning.
+*   [Suno](https://suno.ai/) — AI music from text prompts.
+
+### 📡 Follow / Newsletters
 
 *   [The Rundown AI](https://www.therundown.ai/)
 *   [AlphaSignal](https://alphasignal.ai/)
 *   [Superhuman AI](https://www.superhuman.ai/)
 *   [AI Engineer](https://newsletter.owainlewis.com)
 
-### 💬 Models / Evals
-
-*   [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
-*   [Perplexity](https://www.perplexity.ai/) — Best for quick research with live citations.
-*   [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
-*   [Mistral](https://mistral.ai/) — Best for lightweight, high-performance open-weight models.
-*   [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
-*   [DeepSeek](https://deepseek.com/) — Best for efficient, cost-optimized large models with competitive reasoning.
-
-### 👨‍💻 Code & Developer Tools / Evals
-
-*   [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
-*   [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
-*   [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
-
-### 🎨 Multimedia AI Tools / 🖼 Image
-
-*   [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation with style control.
-*   [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
-*   [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
-*   [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
-
-### 🎨 Multimedia AI Tools / 🎥 Video
-
-*   [Kling](https://klingai.com/) — Cinematic, realistic video generation.
-*   [Google Veo 3](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
-
-### 🎨 Multimedia AI Tools / 🎙 Audio
-
-*   [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech.
-*   [Suno](https://suno.ai/) — AI music from text prompts.
-*   [Aiva](https://www.aiva.ai/) — Music composition for media.
-
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
-### 🎨 Multimedia AI Tools / 🖼 Image
+### 🧠 Models / 🖼 Image
 
-*   [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images and video.
+*   [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images.
 
-### 🎨 Multimedia AI Tools / 🎥 Video
+### 🧠 Models / 🎥 Video
 
-*   [Runway](https://runwayml.com/) — Video editing + generation.
+*   [Runway](https://runwayml.com/) — Video editing + generation with granular creative control.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
-### 💬 Models / Evals
+### 🧠 Models / 💬 Language
 
-*   [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
-*   [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
+*   [Claude](https://www.anthropic.com/claude) — Best for long-context analysis, coding, and structured thinking.
+*   [Gemini](https://gemini.google.com/) — Best for multimodal tasks and Google ecosystem integration.

@@ -6,6 +6,16 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [ghq-worktree (⭐1)](https://github.com/liquidcatmofu/zsh-ghq-worktree) - Integrates `ghq`, [fzf (⭐80k)](https://github.com/junegunn/fzf), and `git worktree` to minimize context-switching cost in multi-repository development.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [soda-pop (⭐0)](https://github.com/im-adnan/soda-pop.zsh-theme) - A fast, customizable, highly visual, and pure-shell asynchronous `git` prompt theme. It combines an informative git status, an execution tracker, and a rich bubblegum/soda-pop aesthetic with precise color mapping optimized for both light and dark modes.
+
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -36,12 +46,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [pi (⭐0)](https://github.com/nearsyh/pi-zsh-plugin) - Maps `:` commands in your shell to `pi -p` calls and keeps a per-shell `pi` session file for continuity.
 *   [pnpm (bgowers) (⭐1)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 *   [undo-dir (⭐6)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
-
-## [May 05, 2026](/content/2026/05/05/README.md)
-
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [git-tidy (⭐0)](https://github.com/silee9019/git-tidy) - Plugin for safely reviewing and removing local branches whose upstream branch is marked \[gone].
 
 ## [May 04, 2026](/content/2026/05/04/README.md)
 
@@ -1050,7 +1054,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [scad (⭐4)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐2.2k)](https://github.com/garabik/grc) and [jq (⭐35k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐34)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐84k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐34)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐85k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐6k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐1)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
 *   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐39)](https://github.com/xxh/xxh-shell-zsh).
 
@@ -1166,7 +1170,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐84k)](https://github.com/astral-sh/uv).
+*   [uv (⭐1)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐85k)](https://github.com/astral-sh/uv).
 
 ## [Nov 25, 2024](/content/2024/11/25/README.md)
 
@@ -1715,7 +1719,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐30k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐31k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -2803,7 +2807,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [autorestic (⭐3)](https://github.com/naegling/zsh-autorestic) - automatically installs [Restic (⭐1.8k)](https://github.com/cupcakearmy/autorestic/)'s completions for you, and keeps them up to date as your autorestic version changes.
 *   [kustomize (⭐15)](https://github.com/ralgozino/oh-my-kustomize) - Adds tab completions for [kustomize](https://kustomize.io/)
 *   [misc-completions (⭐0)](https://github.com/syohex/zsh-misc-completions) - Adds completions for more unix and perl commands.
 
@@ -3504,7 +3507,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zpy (⭐98)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐84k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐98)](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv (⭐85k)](https://github.com/astral-sh/uv) or [pip-tools (⭐8k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

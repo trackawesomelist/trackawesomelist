@@ -132,7 +132,7 @@ Thanks to our main contributors
 
 *Google Dorks Tools*
 
-*   [DorkEye (⭐121)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
+*   [DorkEye (⭐137)](https://github.com/xPloits3c/DorkEye) - DorkEye is a Python-based OSINT framework for automated Google Dorking. It includes an interactive wizard for guided configuration, a dork generator to build and customize queries, a multi-agent analysis pipeline with SQLi detection, secrets scanning, security analysis, and advanced HTML report export with selective result saving — allowing accurate, targeted inclusion of findings.
 *   [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 *   [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 *   [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -199,7 +199,7 @@ Thanks to our main contributors
 *   [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 *   [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 *   [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
-*   [Leaker (⭐302)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
+*   [Leaker (⭐308)](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 *   [NOX (⭐217)](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 *   [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Fast lookup across multiple breach databases, with a simple API available.
 *   [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
@@ -579,6 +579,7 @@ Thanks to our main contributors
 *   [Telegram channels scraper TeleGraphite  (⭐276)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
 *   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 *   [TeleTracker (⭐527)](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
+*   [TGStat](https://tgstat.com/) - OSINT platform analyzing Telegram channels, groups, metrics, and trending activity.
 *   [TOsint (⭐821)](https://github.com/drego85/tosint) - Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.
 
 **Telegram Bots**
@@ -672,7 +673,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Username Check
 
-*   [Antisocial (⭐2)](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
+*   [Antisocial (⭐3)](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
 *   [Blackbird (⭐6k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 *   [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 *   [Cupidcr4wl (⭐124)](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
@@ -1035,7 +1036,7 @@ Thanks to our main contributors
 *   [stored.website](https://stored.website)
 *   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 *   [Wayback Machine Archiver (⭐3.2k)](https://github.com/jsvine/waybackpack)
-*   [Wayback-Archive (⭐8)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+*   [Wayback-Archive (⭐10)](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 *   [waybackpy (⭐577)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [↑](#-table-of-contents) Language Tools
@@ -1382,7 +1383,7 @@ Thanks to our main contributors
 *   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐31k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐32k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetect](http://www.changedetect.com)
 *   [ChangeDetection](http://www.changedetection.com)
 *   [Deltafeed](http://bitreading.com/deltafeed)
@@ -1433,6 +1434,7 @@ Thanks to our main contributors
 *   [Gnu Icecat](https://icecatbrowser.org/) -
 *   [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 *   [Firefox](https://www.mozilla.org)
+*   [firefox-stealth (⭐16)](https://github.com/feder-cr/firefox-stealth) - C++ source patches that harden Firefox against browser fingerprinting at the engine level (Canvas, WebGL, Audio, Fonts, WebRTC, Timezone). MPL-2.0; build from source or grab the pre-built binary.
 *   [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security defaults.
 *   [Maxthon](http://www.maxthon.com)
 *   [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed in collaboration with Tor Project.
@@ -1692,6 +1694,7 @@ Thanks to our main contributors
 *   [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
 *   [Taranis AI (⭐1.1k)](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
 *   [Threat Actor Usernames Scrape (⭐191)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [VoidAccess (⭐41)](https://github.com/KatrielMoses/voidaccess) - Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.
 *   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 
 ## [↑](#-table-of-contents) Gaming Platforms

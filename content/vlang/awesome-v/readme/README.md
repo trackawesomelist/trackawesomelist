@@ -202,6 +202,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [Heroku Buildpack for V (⭐2)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 *   [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 *   [Mantis (⭐41)](https://github.com/khalyomede/mantis) - A web framework written in V.
+*   [Mustela (⭐0)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 *   [rr-dl (⭐1)](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 *   [Tiniest Veb Server (⭐17)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 *   [v-admin-skeleton (⭐15)](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.

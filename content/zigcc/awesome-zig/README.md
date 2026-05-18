@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Network & Web / Web Framework
+
+*   [llllOllOOll/spider (⭐9)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
+
 ## [May 17, 2026](/content/2026/05/17/README.md)
 
 ### Network & Web / Network

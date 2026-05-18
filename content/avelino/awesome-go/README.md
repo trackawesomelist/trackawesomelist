@@ -6,6 +6,31 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 18, 2026](/content/2026/05/18/README.md)
+
+### Configuration
+
+*   [go-external-config (⭐1)](https://github.com/go-external-config/go) - Spring-inspired configuration management library for Go.
+*   [go-external-config/aws (⭐0)](https://github.com/go-external-config/aws) - AWS property source support for go-external-config.
+*   [go-external-config/consul (⭐0)](https://github.com/go-external-config/consul) - Consul property source support for go-external-config.
+*   [go-external-config/vault (⭐0)](https://github.com/go-external-config/vault) - Vault property source support for go-external-config.
+
+### Databases Implemented in Go
+
+*   [nanotdb (⭐106)](https://github.com/aymanhs/nanotdb) - A lightweight, zero-dependency, append-only time-series database optimized for low-power hardware.
+
+### Error Handling
+
+*   [go-errr (⭐1)](https://github.com/go-errr/go) - Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go.
+
+### Dependency Injection
+
+*   [go-beans (⭐0)](https://github.com/go-beans/go) - Spring-inspired dependency injection and application lifecycle framework for Go.
+
+### Testing Frameworks
+
+*   [Testo (⭐80)](https://github.com/ozontech/testo) - Plugin-based testing framework with suites, parallel tests, hooks and parametrization. Inspired by Pytest.
+
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Third-party APIs
@@ -85,7 +110,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [pgxcli (⭐16)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
+*   [pgxcli (⭐46)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
 
 ### Game Development
 
@@ -93,11 +118,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [gogpu/systray (⭐4)](https://github.com/gogpu/systray) - Pure Go system tray library for Windows, macOS, and Linux with zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
+*   [gogpu/systray (⭐11)](https://github.com/gogpu/systray) - Pure Go system tray library for Windows, macOS, and Linux with zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
 
 ### Security
 
-*   [canery (⭐4)](https://github.com/rluders/canery) - Minimal, stateless authorization engine with a pluggable evaluation model.
+*   [canery (⭐5)](https://github.com/rluders/canery) - Minimal, stateless authorization engine with a pluggable evaluation model.
 
 ### Web Frameworks
 
@@ -201,7 +226,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [agent-sdk-go (⭐7)](https://github.com/agenticenv/agent-sdk-go) - Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.
+*   [agent-sdk-go (⭐9)](https://github.com/agenticenv/agent-sdk-go) - Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.
 
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
@@ -316,13 +341,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [localaik (⭐8)](https://github.com/harshaneel/localaik) - Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.
+*   [localaik (⭐8)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 
 ## [Mar 31, 2026](/content/2026/03/31/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [kepfi (⭐11)](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
+*   [kepfi (⭐12)](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -510,7 +535,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Version Control
 
-*   [ggc (⭐277)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
+*   [ggc (⭐278)](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
 ## [Mar 10, 2026](/content/2026/03/10/README.md)
 
@@ -4331,6 +4356,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [minimp3 (⭐133)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
 *   [Oto (⭐1.9k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐836)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
+    -[voxrai-ai (⭐2)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC
 
 ### Authentication and Authorization
 
@@ -4568,7 +4594,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [pogreb (⭐1.4k)](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 *   [prometheus (⭐64k)](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 *   [rosedb (⭐4.9k)](https://github.com/roseduan/rosedb) - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
-*   [rqlite (⭐17k)](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
+*   [rqlite (⭐18k)](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
 *   [tempdb (⭐19)](https://github.com/rafaeljesus/tempdb) - Key-value store for temporary items.
 *   [tidb (⭐40k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 *   [tiedot (⭐2.7k)](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
@@ -4577,7 +4603,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [atlas (⭐8.3k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐8.4k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐48)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [darwin (⭐150)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [go-fixtures (⭐32)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
@@ -4602,7 +4628,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mysql (⭐4.9k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [octillery (⭐200)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [pg\_timetable (⭐1.4k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
-*   [pgweb (⭐9.3k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
+*   [pgweb (⭐9.4k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 *   [prep (⭐36)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
 *   [pREST (⭐4.5k)](https://github.com/prest/prest) - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 *   [rwdb (⭐21)](https://github.com/andizzle/rwdb) - rwdb provides read replica capability for multiple database servers setup.
@@ -5097,7 +5123,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [bayesian (⭐812)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+*   [bayesian (⭐813)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [CloudForest (⭐748)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -6197,7 +6223,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-benchmarks (⭐150)](https://github.com/tylertreat/go-benchmarks) - Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches.
 *   [go-http-routing-benchmark (⭐1.7k)](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP request router benchmark and comparison.
 *   [go-json-benchmark (⭐11)](https://github.com/zerosnake0/go-json-benchmark) - Go JSON benchmark.
-*   [go-ml-benchmarks (⭐32)](https://github.com/nikolaydubina/go-ml-benchmarks) - benchmarks for machine learning inference in Go.
+*   [go-ml-benchmarks (⭐33)](https://github.com/nikolaydubina/go-ml-benchmarks) - benchmarks for machine learning inference in Go.
 *   [go-web-framework-benchmark (⭐2.1k)](https://github.com/smallnest/go-web-framework-benchmark) - Go web framework benchmark.
 *   [go\_serialization\_benchmarks (⭐1.6k)](https://github.com/alecthomas/go_serialization_benchmarks) - Benchmarks of Go serialization methods.
 *   [gocostmodel (⭐63)](https://github.com/PuerkitoBio/gocostmodel) - Benchmarks of common basic operations for the Go language.
