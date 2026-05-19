@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [May 19, 2026](/content/2026/05/19/README.md)
+
+### Java
+
+*   [FOIL (⭐0)](https://github.com/jasom/foil/blob/master/docs/foil.md) - Rich Hickey's Foreign Object Interface for Lisp to access the JVM and the CLI/CLR.
+
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
 ### Educational
@@ -3396,6 +3402,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   example project: a Lem editor CLIM interface: [discussion (⭐3k)](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
     *   [Anathema](https://codeberg.org/contrapunctus/anathema), a theme library for McCLIM applications. Unlicense.
+        *   *At time of reading (2026-05-18), it provides fonts and color changes. Doesn't change the rendering of widgets. Provides a Doom theme.*
+    *   [clim-modern](https://git.sr.ht/~hajovonta/clim-modern) - A theming library for McCLIM that replaces stock '90s Motif-style widgets with flat, modern-looking equivalents. Fully customizable via themes and per-widget style overrides. MIT. *Built with LLMs*.
 
 ## [Nov 21, 2017](/content/2017/11/21/README.md)
 
@@ -3535,10 +3543,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### ORMs
 
 *   [datafly (⭐107)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-
-### Java
-
-*   [cl+j](https://common-lisp.net/project/cl-plus-j/) - A JNI-based interface to a JVM via CFFI. Not available on Quicklisp. Does not reliably work with all implementations. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Miscellaneous
 

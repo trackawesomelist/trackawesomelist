@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [May 19, 2026](/content/2026/05/19/README.md)
+
+### Feature Flags
+
+*   [ConfigCat](https://configcat.com/) - Powerful, privacy-first feature flag management with unlimited team size and a forever free plan.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Monitoring

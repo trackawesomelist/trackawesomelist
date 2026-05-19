@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
+### Feature Flags
+
+*   [ConfigCat](https://configcat.com/) - Powerful, privacy-first feature flag management with unlimited team size and a forever free plan.
+
 ### Monitoring
 
 *   [Future AGI](https://futureagi.com/) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails. [![Future AGI](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/future-agi/future-agi)

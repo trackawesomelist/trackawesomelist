@@ -132,7 +132,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted (⭐285k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted (⭐294k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 ### Math and Programming Online
 
@@ -199,6 +199,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 *   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 *   [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
+*   [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
 
 ### Colors
 
@@ -227,16 +228,16 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 **Sphinx Themes and configurations**
 
-*   [rtd theme (⭐5k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐770)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [rtd theme (⭐5.1k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+*   [Alabaster (⭐773)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 **Science Books Using Sphinx**
 
 > Here are some examples of how sphinx can be used for research.
 
-*   [Theoretical Physics (⭐231)](https://github.com/certik/theoretical-physics)
-*   [Statistical Physics (⭐49)](https://github.com/emptymalei/statisticalphysics)
+*   [Theoretical Physics (⭐233)](https://github.com/certik/theoretical-physics)
+*   [Statistical Physics (⭐50)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐11)](https://github.com/NeuPhysics/neutrino)
 
 **Writing Tools**
@@ -248,7 +249,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [write good (⭐5.1k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
 *   [artbollocks-mode (⭐78)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
-*   [Rousseau (⭐187)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+*   [Rousseau (⭐188)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 *   [textlint-rule-rousseau (⭐9)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 *   [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 
@@ -276,7 +277,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 > These programs are running on the server and can be [hosted using these services](#hosting).
 
 *   [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
-*   [Ghost (⭐52k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐54k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Pico (⭐3.9k)](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 *   [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
@@ -291,7 +292,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
 *   [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
 *   [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-    *   [Pelican Svbtle Theme (⭐152)](https://github.com/wting/pelican-svbtle)
+    *   [Pelican Svbtle Theme (⭐153)](https://github.com/wting/pelican-svbtle)
 *   [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
 *   [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 *   [Hyperdraft](https://hyperdraft.rosano.ca)(Written in `JavaScript`)(`Markdown`): Automatically generate a website as you type plaintext or Markdown.
@@ -430,7 +431,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Google Drive](https://drive.google.com/): no introduction needed
 *   [Sway](https://sway.com/): Microsoft
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐711)](https://github.com/harish-io/Impressionist)
+*   [Impressionist (⭐710)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source
@@ -445,12 +446,12 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 *   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
 *   [Beckpoke.js (⭐4.8k)](https://github.com/bespokejs/bespoke)
-*   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
+*   [CSSS (⭐1.8k)](https://github.com/LeaVerou/CSSS)
 *   [Scrolldeck (⭐663)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐498)](https://github.com/briancavalier/slides)
+*   [Slides (⭐496)](https://github.com/briancavalier/slides)
 *   [remark](https://remarkjs.com)
 
 ### IPython/Jupyter Notebook
@@ -501,7 +502,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-    *   [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+    *   [jiffylab (⭐187)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
     *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 *   [Maple](https://www.maplesoft.com/index.aspx?L=E)
@@ -515,7 +516,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Julia](http://julialang.org/)
 *   [R](http://www.r-project.org/)
 *   [Rust](https://www.rust-lang.org/en-US/)
-*   [dna-claude-analysis (⭐25)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+*   [dna-claude-analysis (⭐38)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Coding is Fun
 
@@ -541,7 +542,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 *   [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
 *   [Uncited](https://uncited.org): Keeping up with the literature.
-*   [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
+*   [ODataMap (⭐7)](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
+*   [citracer (⭐20)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
+*   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository (⭐20)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -638,7 +641,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 > CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
 
-*   [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+*   [Guokr Badge (⭐23)](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
 ## Data Visualization and Graph Making
 
@@ -674,14 +677,14 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 > Professional graphs should be made using professional tools.
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐445)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 *   [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
 *   [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
-> Choose percentually accurate colors for your research plots. Why? ([1 (⭐728)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
+> Choose percentually accurate colors for your research plots. Why? ([1 (⭐741)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
 
-*   [colorcet (⭐728)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐741)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ## LaTeX
 
@@ -721,7 +724,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [plot in terminal (⭐1.9k)](https://github.com/glamp/bashplotlib)
 *   [asciinema](https://asciinema.org/): Command line recording.
 *   [bashplot (⭐1.9k)](https://github.com/glamp/bashplotlib): plot in terminal.
-*   [fuck (⭐397)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐398)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia
 

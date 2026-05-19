@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US and Canadian postal codes with address validation, radius search, and Census demographics. 2,500 free requests/day.
 
+### Web Hosting
+
+*   [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### APIs, Data, and ML
@@ -342,10 +346,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
-
-### Web Hosting
-
-*   [Oaysus](https://oaysus.com) - Visual page builder for developer-built React, Vue, or Svelte components. Free tier includes 1 site with unlimited pages, form submissions, and global CDN hosting.
 
 ### Storage and Media Processing
 

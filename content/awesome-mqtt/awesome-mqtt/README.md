@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ Daily / [Weekly](/content/awesome-mqtt/awesome-mqtt/week/README.md) / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [May 19, 2026](/content/2026/05/19/README.md)
+
+### Monitoring / Firmwares for ESP based Devices
+
+*   [ccusage-mqtt (⭐0)](https://github.com/george-vice/ccusage-mqtt) - Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices

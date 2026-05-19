@@ -6,6 +6,17 @@
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / Weekly / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Datasets / Social Sciences
+
+*   [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+
+### Investigate Papers / HTML+CSS+JS
+
+*   [citracer (⭐20)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
+*   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository (⭐20)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
+
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Plotting and Charting Online / Enterprise Git Service
@@ -23,13 +34,13 @@
 ### Investigate Papers / HTML+CSS+JS
 
 *   [Uncited](https://uncited.org): Keeping up with the literature.
-*   [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
+*   [ODataMap (⭐7)](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### Scientific Computing / HTML+CSS+JS
 
-*   [dna-claude-analysis (⭐25)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+*   [dna-claude-analysis (⭐38)](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 
 ### Bibliography / HTML+CSS+JS
 
@@ -179,7 +190,7 @@
 
 ### Graph Making / HTML+CSS+JS
 
-*   [colorcet (⭐728)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐741)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ### More / HTML+CSS+JS
 
@@ -211,15 +222,15 @@
 
 ### Writing / Social Sciences
 
-*   [rtd theme (⭐5k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐770)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [rtd theme (⭐5.1k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+*   [Alabaster (⭐773)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
 *   [proselint (⭐4.5k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
 *   [write good (⭐5.1k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
 *   [artbollocks-mode (⭐78)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
-*   [Rousseau (⭐187)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+*   [Rousseau (⭐188)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 *   [textlint-rule-rousseau (⭐9)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 *   [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 
@@ -467,7 +478,7 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐49)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐50)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐11)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
@@ -519,7 +530,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐445)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐446)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -570,7 +581,7 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [fuck (⭐397)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐398)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
 
@@ -605,7 +616,7 @@
 ### Use Licenses / HTML+CSS+JS
 
 *   [Choose a License](http://choosealicense.com/) which helps you decide which license to use through several steps.
-*   [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
+*   [Guokr Badge (⭐23)](https://github.com/opentf/GuokrBadge): Green CC License badges. (**Documentation is in Chinese.**)
 
 ### More / HTML+CSS+JS
 
@@ -628,7 +639,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐231)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐233)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -637,13 +648,13 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Ghost (⭐52k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐54k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 ### Static Site Generator / Social Sciences
 
 *   [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-    *   [Pelican Svbtle Theme (⭐152)](https://github.com/wting/pelican-svbtle)
+    *   [Pelican Svbtle Theme (⭐153)](https://github.com/wting/pelican-svbtle)
 
 ### Editors / LaTeX
 
@@ -674,7 +685,7 @@
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 *   [Strut (⭐1.9k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐711)](https://github.com/harish-io/Impressionist)
+*   [Impressionist (⭐710)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source / HTML+CSS+JS
@@ -682,12 +693,12 @@
 *   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐38k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 *   [Reveal.js (⭐71k)](https://github.com/hakimel/reveal.js)
-*   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
+*   [CSSS (⭐1.8k)](https://github.com/LeaVerou/CSSS)
 *   [Scrolldeck (⭐663)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.9k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐498)](https://github.com/briancavalier/slides)
+*   [Slides (⭐496)](https://github.com/briancavalier/slides)
 
 ### The Power of SVG / HTML+CSS+JS
 
@@ -698,7 +709,7 @@
 *   [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-    *   [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+    *   [jiffylab (⭐187)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
     *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 
