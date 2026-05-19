@@ -77,8 +77,14 @@
 
 *   [Cloud Run Compose](https://docs.cloud.google.com/run/docs/deploy-run-compose) - :yen: Deploy `docker-compose.yaml` files directly to Google Cloud Run as a managed service.
 
+### Observability / Reverse Proxy
+
+*   [docker-exporter (⭐1)](https://github.com/dlepaux/docker-exporter) - Lightweight Prometheus exporter for Docker container metrics written in Rust. Correct cgroup v2 memory working set on ARM64 (Raspberry Pi 5), runs non-root with a read-only socket, \~7 MiB idle RAM.
+*   [Middleware](https://middleware.io/) - :yen: Monitor Docker hosts, containers, logs, and application performance from a unified observability platform.
+
 ### Security / Reverse Proxy
 
+*   [container-explorer (⭐96)](https://github.com/google/container-explorer) - Forensic utility to explore Docker and containerd container details from mounted disk images.
 *   [docker-socket-proxy (⭐2.5k)](https://github.com/Tecnativa/docker-socket-proxy) - HAProxy-based fine-grained filter for the Docker API socket; widely used to expose a restricted socket to reverse proxies and homelab stacks.
 
 ### Developer Workflow / CI/CD
@@ -640,7 +646,6 @@
 *   [plash (⭐384)](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 *   [podman-compose (⭐6.1k)](https://github.com/containers/podman-compose) - A script to run docker-compose.yml using podman.
 *   [Smalte (⭐36)](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container.
-*   [Stitchocker (⭐30)](https://github.com/alexaandrov/stitchocker) - A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services.
 
 ### Running Containers / Orchestration
 
@@ -678,7 +683,6 @@
 
 ### Networking & Proxies / Networking
 
-*   [docker-consul (⭐1.1k)](https://github.com/gliderlabs/docker-consul) - Consul packaged for Docker — registers and discovers running containers.
 *   [Flannel (⭐9.5k)](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes.
 *   [netshoot (⭐11k)](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues.
 *   [Pipework (⭐4.3k)](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker.
@@ -696,7 +700,6 @@
 
 ### Storage & Data / Reverse Proxy
 
-*   [Blockbridge (⭐94)](https://github.com/blockbridge/blockbridge-docker-volume) - :yen: The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS.
 *   [Netshare (⭐1.1k)](https://github.com/ContainX/docker-volume-netshare) Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin.
 *   [portworx](https://portworx.com) - :yen: Decentralized storage solution for persistent, shared and replicated volumes.
 *   [quobyte](https://www.quobyte.com/) - :yen: Fully fault-tolerant distributed file system with a docker volume driver.
@@ -718,7 +721,6 @@
 *   [Aqua Security](https://www.aquasec.com) - :yen: Securing container-based applications from Dev to Production on any platform.
 *   [Deepfence Threat Mapper (⭐5.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 *   [docker-bench-security (⭐9.6k)](https://github.com/docker/docker-bench-security) - Script that checks for dozens of common best-practices around deploying Docker containers in production.
-*   [docker-explorer (⭐553)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions.
 *   [KICS (⭐2.6k)](https://github.com/checkmarx/kics) - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies.
 *   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) - :yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
 *   [Sysdig Falco (⭐8.9k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
@@ -734,7 +736,6 @@
 
 *   [dcinja (⭐14)](https://github.com/Falldog/dcinja) - The powerful and smallest binary size of template engine for docker command line environment.
 *   [dive (⭐54k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
-*   [dockdash (⭐125)](https://github.com/byrnedo/dockdash) - Detailed Docker container stats.
 *   [docker pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
 *   [dockerfile-mode (⭐564)](https://github.com/spotify/dockerfile-mode) - An Emacs mode for handling Dockerfiles.
 *   [dockerfilegraph (⭐264)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles.

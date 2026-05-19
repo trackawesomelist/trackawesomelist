@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 19, 2026](/content/2026/05/19/README.md)
+
+### APIs, Data, and ML
+
+*   [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US and Canadian postal codes with address validation, radius search, and Census demographics. 2,500 free requests/day.
+
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
 ### Education and Career Development
@@ -728,12 +734,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [fivenines.io](https://fivenines.io/) - Linux server monitoring with real‑time dashboards and alerting - free forever for up to 5 monitored servers at 60-seconds interval. No credit card required.
-
-## [May 10, 2025](/content/2025/05/10/README.md)
-
-### BaaS
-
-*   [Claw.cloud](https://run.claw.cloud) - A PaaS platform offering $5/month in free credits for users with a GitHub account older than 180 days. Perfect for hosting apps, databases, and more. ([Signup Link with free credit](https://ap-southeast-1.run.claw.cloud/signin)).
 
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
@@ -2648,6 +2648,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   BigQuery - 1 TB of querying per month, 10 GB of storage each month
     *   Cloud Build - 120 build-minutes per day
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    *   [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification - 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ## [Jul 20, 2022](/content/2022/07/20/README.md)
