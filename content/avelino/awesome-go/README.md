@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [web-researcher-mcp (⭐7)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 
+### Interfaces to Multiple Backends
+
+*   [transactor (⭐4)](https://github.com/metalfm/transactor) - Type-safe transaction boundary abstraction with adapters for database/sql, sqlx, and pgx.
+
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### Science and Data Analysis
@@ -101,7 +105,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [pgrwl (⭐106)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
+*   [pgrwl](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 
 ### Distributed Systems
 
@@ -109,7 +113,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [Razify (⭐3)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
+*   [Razify](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -198,7 +202,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [stacktower (⭐508)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
+*   [stacktower](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
 
 ## [Apr 19, 2026](/content/2026/04/19/README.md)
 
@@ -330,7 +334,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [fibersse (⭐1)](https://github.com/vinod-morya/fibersse) - Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
+*   [fibersse](https://github.com/vinod-morya/fibersse) - Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
 
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
@@ -2273,7 +2277,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [config-file-validator (⭐503)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
+*   [config-file-validator (⭐506)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ## [Mar 10, 2024](/content/2024/03/10/README.md)
 
@@ -2622,7 +2626,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [fjira (⭐265)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
+*   [fjira (⭐267)](https://github.com/mk-5/fjira) - A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -6163,7 +6167,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Rodent (⭐33)](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 *   [s3-proxy (⭐459)](https://github.com/oxyno-zeta/s3-proxy) - S3 Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth).
 *   [s3gof3r (⭐1.1k)](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
-*   [s5cmd (⭐4k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+*   [s5cmd (⭐4.1k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 *   [Scaleway-cli (⭐970)](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).
 *   [script (⭐7k)](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go for DevOps and system administration tasks.
 *   [sg (⭐8)](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.
@@ -6223,7 +6227,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐22)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
-*   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
+*   [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.

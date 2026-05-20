@@ -538,6 +538,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [tambourine-voice (⭐352)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 *   [tassiovirginio/try-rs (⭐251)](https://github.com/tassiovirginio/try-rs) \[[try-rs](https://crates.io/crates/try-rs)] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.
 *   [thClaws/thClaws (⭐868)](https://github.com/thClaws/thClaws) - Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes. [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](https://github.com/thClaws/thClaws)
+*   [tinyhumansai/openhuman (⭐23k)](https://github.com/tinyhumansai/openhuman) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
 *   [xingkongliang/skills-manager (⭐1.2k)](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
 *   [yashs662/rust\_kanban (⭐262)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
@@ -594,7 +595,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 
 ### System tools
 
-*   [ajeetdsouza/zoxide (⭐36k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐37k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [anylinuxfs (⭐1.2k)](https://github.com/nohajc/anylinuxfs) - CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM
 *   [anylinuxfs-gui (⭐108)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 *   [ataraxy-labs/sem (⭐2k)](https://github.com/ataraxy-labs/sem) - Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter. [![Release](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml/badge.svg)](https://github.com/ataraxy-labs/sem/actions/workflows/release.yml)
@@ -618,7 +619,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [diskonaut (⭐3k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of du
 *   [erickochen/purple (⭐260)](https://github.com/erickochen/purple) \[[purple-ssh](https://crates.io/crates/purple-ssh)] - Ratatui-powered SSH client with cloud sync, container management, file transfer, tunnels, snippets and password management [![CI](https://github.com/erickochen/purple/actions/workflows/ci.yml/badge.svg)](https://github.com/erickochen/purple/actions/workflows/ci.yml)
-*   [eza-community/eza (⭐22k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza](https://github.com/eza-community/eza) - A replacement for 'ls'
 *   [fish-shell/fish-shell (⭐33k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [fork (⭐83)](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon)
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
@@ -855,7 +856,7 @@ See also [A comparison of operating systems written in Rust (⭐853)](https://gi
 *   [intelli-shell (⭐1.2k)](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time [![crate](https://img.shields.io/crates/v/intelli-shell.svg)](https://crates.io/crates/intelli-shell) [![build badge](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml/badge.svg)](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 *   [j178/prek (⭐7.6k)](https://github.com/j178/prek) - A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.
 *   [jj-vcs/jj (⭐29k)](https://github.com/jj-vcs/jj) - A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing [![Release](https://img.shields.io/github/v/release/martinvonz/jj)](https://github.com/jj-vcs/jj/releases)
-*   [just (⭐33k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [just (⭐34k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [mask (⭐1.6k)](https://github.com/jacobdeichert/mask) - A CLI task runner defined by a simple markdown file [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 *   [mise (⭐28k)](https://github.com/jdx/mise) \[[mise](https://crates.io/crates/mise)] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance. [![build badge](https://github.com/jdx/mise/actions/workflows/test.yml/badge.svg)](https://github.com/jdx/mise/actions/workflows/test.yml)
 *   [Module Linker (⭐257)](https://github.com/fiatjaf/module-linker) - Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
@@ -1739,6 +1740,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 *   Operations
     *   [Camino (⭐557)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) \[[fff-search](https://crates.io/crates/fff-search)] - Typo-resistant file and content search library with frecency ranking, git-aware annotations, background watcher, and lightweight in-memory content index. Provides MCP server, Node/Bun SDK, C library, and Neovim plugin.
     *   [dnbln/dir-structure (⭐0)](https://github.com/dnbln/dir-structure) \[[dir-structure](https://crates.io/crates/dir-structure)] - Model file system trees with plain Rust structures. [![Tests](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml/badge.svg?branch=trunk)](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml)
     *   [OpenDAL (⭐5.1k)](https://github.com/apache/opendal) \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain)
     *   [ParthJadhav/Rust\_Search (⭐189)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.

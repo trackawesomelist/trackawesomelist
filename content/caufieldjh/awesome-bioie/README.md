@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/caufieldjh/awesome-bioie/week/README.md) / [Overview](/content/caufieldjh/awesome-bioie/readme/README.md) ]
 
+## [May 20, 2026](/content/2026/05/20/README.md)
+
+### Research Overviews / Pre-LLM Overviews
+
+*   [Awesome AI-based Protein Design (⭐306)](https://github.com/opendilab/awesome-AI-based-protein-design) - This is a collection of research papers for AI-based protein design.
+
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### Data Models / Other Datasets

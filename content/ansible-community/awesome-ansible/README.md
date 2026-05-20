@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [May 20, 2026](/content/2026/05/20/README.md)
+
+### Tools
+
+*   [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Playbooks, Roles and Collections / French
@@ -160,7 +166,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
+*   [ansible-doc-extractor (⭐17)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 
 ### Blog posts and opinions
 
@@ -216,7 +222,7 @@ Awesome Ansible List
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner (⭐1.1k)](https://github.com/ansible/ansible-runner) - A tool and Python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
@@ -339,7 +345,7 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐779)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
@@ -385,4 +391,4 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+*   [Ansible Vagrant Examples by geerlingguy (⭐2.1k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.

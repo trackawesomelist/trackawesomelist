@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 20, 2026](/content/2026/05/20/README.md)
+
+### Applications / Productivity
+
+*   [tinyhumansai/openhuman (⭐23k)](https://github.com/tinyhumansai/openhuman) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
+
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### Applications / Embedded
@@ -2535,7 +2541,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐22k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
@@ -2567,6 +2573,7 @@ A curated list of Rust code and resources.
 
 *   Operations
     *   [Camino (⭐557)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) \[[fff-search](https://crates.io/crates/fff-search)] - Typo-resistant file and content search library with frecency ranking, git-aware annotations, background watcher, and lightweight in-memory content index. Provides MCP server, Node/Bun SDK, C library, and Neovim plugin.
     *   [dnbln/dir-structure (⭐0)](https://github.com/dnbln/dir-structure) \[[dir-structure](https://crates.io/crates/dir-structure)] - Model file system trees with plain Rust structures. [![Tests](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml/badge.svg?branch=trunk)](https://github.com/dnbln/dir-structure/actions/workflows/test-dir-structure.yml)
     *   [OpenDAL (⭐5.1k)](https://github.com/apache/opendal) \[[opendal](https://crates.io/crates/opendal)] - A unified data access layer, empowering users to seamlessly and efficiently retrieve data from diverse storage services. [![build](https://img.shields.io/github/actions/workflow/status/apache/opendal/ci_core.yml?branch=main)](https://github.com/apache/opendal/actions?query=branch%3Amain)
     *   [ParthJadhav/Rust\_Search (⭐189)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library.
@@ -4759,7 +4766,7 @@ A curated list of Rust code and resources.
 *   [clog-tool/clog-cli (⭐915)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐2.1k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [git-journal (⭐645)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
-*   [just (⭐33k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [just (⭐34k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) - code completion for Rust
 
 ### Development tools / Build system
@@ -5173,7 +5180,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐36k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐37k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 

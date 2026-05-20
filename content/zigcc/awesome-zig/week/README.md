@@ -12,6 +12,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [llllOllOOll/spider (⭐9)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 
+### Multimedia & Graphics / GUI
+
+*   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Fundamentals / Package and Version Manager
@@ -30,7 +34,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [justrach/nanobrew (⭐1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
+*   [justrach/nanobrew](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 
 ### Fundamentals / Utility
 
@@ -38,11 +42,11 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / GUI
 
-*   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
+*   [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 
 ### Interoperability / FFI Bindings
 
-*   [happystraw/phpz (⭐1)](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+*   [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
 
 ### Interoperability / Build with Zig
 
@@ -68,11 +72,11 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [lispking/zvm (⭐20)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
+*   [lispking/zvm (⭐25)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 
 ### Network & Web / Network
 
-*   [zquic (⭐7)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
+*   [zquic (⭐12)](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
 
 ### Network & Web / Web3 Framework
 
@@ -80,7 +84,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [lispking/kvdb (⭐9)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
+*   [lispking/kvdb (⭐13)](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -90,7 +94,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Database
 
-*   [zeno-core/zeno (⭐19)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+*   [zeno-core/zeno (⭐20)](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -106,7 +110,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Language Essentials / Data Structure and Algorithm
 
-*   [OrlovEvgeny/lo.zig (⭐34)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
+*   [OrlovEvgeny/lo.zig](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -116,7 +120,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Language Essentials / Parser Library
 
-*   [OrlovEvgeny/zigquery (⭐4)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 
 ### Language Essentials / File Format Processing
 
@@ -156,11 +160,11 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Web3 Framework
 
-*   [StrobeLabs/eth.zig (⭐73)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+*   [StrobeLabs/eth.zig (⭐74)](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
 
 ### Multimedia & Graphics / Image and Video Processing
 
-*   [foxnne/pixi (⭐1.3k)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
+*   [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
 
 ### Interoperability / Build with Zig
 

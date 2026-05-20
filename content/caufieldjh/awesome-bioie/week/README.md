@@ -8,6 +8,10 @@
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
+### Research Overviews / Pre-LLM Overviews
+
+*   [Awesome AI-based Protein Design (⭐306)](https://github.com/opendilab/awesome-AI-based-protein-design) - This is a collection of research papers for AI-based protein design.
+
 ### Data Models / Other Datasets
 
 *   [unmiri-ngs-fhir-schema (⭐4)](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.

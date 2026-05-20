@@ -6,6 +6,32 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Design
+
+*   [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator that turns yard photos into outdoor redesign concepts and cost estimates. `#freemium`
+
+### Developer Tools
+
+*   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
+
+### Image Editing
+
+*   [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - In-browser AI background removal — runs entirely on your device via ONNX Runtime, no upload, no signup, open source. `#free` `#opensource`
+
+### Image Generator
+
+*   [Punch Needle Generator](https://www.punchneedle.co.il/en) - AI-generated punch needle embroidery patterns with color-coded yarn maps from text prompts or image uploads. `#freemium` `#design`
+
+### Research
+
+*   [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers, with PubMed/OpenAlex search and Zotero plugin workflow. `#freemium`
+
+### SEO
+
+*   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
+
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Chatbots
@@ -979,7 +1005,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 ### Developer
 
-*   [Floom (⭐46)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐45)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 ### Travel
 

@@ -360,6 +360,7 @@ Use these hashtags in search to filter out the tools
 *   [Galileo AI](https://www.usegalileo.ai/explore) -Galileo AI is a UI generation platform for easy and fast design ideation.Generative AI for user interface design, empowering you to design beyond imagination with speed . `#freemium`
 *   [GitMind](https://gitmind.com/) - Brainstorming and architecture diagram creation. `#free`
 *   [Kittl](https://www.kittl.com/) - AI-powered graphic design tool with text-to-image and logo generation. `#freemium`
+*   [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator that turns yard photos into outdoor redesign concepts and cost estimates. `#freemium`
 *   [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool. `#freemium`
 *   [Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love. `#free`
 *   [Miaoban Board](https://miaoban.com/) - Online space for graphic drawing and brainstorming. `#free`
@@ -383,7 +384,7 @@ Use these hashtags in search to filter out the tools
 ## Developer
 
 *   [Bubble](https://bubble.io/) - Bubble is a no-code platform that allows users to build web applications with ease, integrating AI functionalities like chatbots and content generation. `#freemium`
-*   [Floom (⭐46)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐45)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 *   [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
 *   [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
 
@@ -451,6 +452,7 @@ Use these hashtags in search to filter out the tools
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`
+*   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
 *   [Twinny (⭐3.6k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 *   [v0](https://v0.dev/) - AI-powered UI component generator by Vercel. `#free`
@@ -676,6 +678,7 @@ Use these hashtags in search to filter out the tools
 *   [Skybox AI](https://skybox.blockadelabs.com/) - 360° virtual world panorama generation. \`\`
 *   [Upscayl](https://upscayl.org/) - Open-source image resolution amplifier. `#free`
 *   [WHEE](https://www.whee.com/) - Meitu Inc. one-stop visual creative service. `#free`
+*   [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - In-browser AI background removal — runs entirely on your device via ONNX Runtime, no upload, no signup, open source. `#free` `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -703,6 +706,7 @@ Use these hashtags in search to filter out the tools
 *   [pica-ai](https://www.pica-ai.com/) - Experience funny or realistic face swapping effects. Begin by uploading your photo!. `#freemium`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 *   [Playground AI](https://playground.com/) - Free-to-use online tool to create art, social media posts, presentations, posters, videos, logos and more. `#free`
+*   [Punch Needle Generator](https://www.punchneedle.co.il/en) - AI-generated punch needle embroidery patterns with color-coded yarn maps from text prompts or image uploads. `#freemium` `#design`
 *   [Remaker-Ai](https://remaker.ai/en) - All-in-one tool leveraging the capabilities of artificial intelligence. Craft and produce diverse content formats, spanning text, images, and beyond. `#free`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
 *   [Rentoor](https://rentoor.vercel.app) - Enhance your images with Rentoor's super-resolution feature, restoring clarity and detail for stunning visuals. `#freemium`
@@ -945,6 +949,7 @@ Use these hashtags in search to filter out the tools
 *   [NotebookLM](https://notebooklm.google.com/) - Google’s multimodal research thinking assistant. `#free`
 *   [Research Rabbit](https://www.researchrabbit.ai/) - AI-powered research discovery and organization tool. `#free`
 *   [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search engine with paper recommendations. `#free`
+*   [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers, with PubMed/OpenAlex search and Zotero plugin workflow. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -959,6 +964,7 @@ Use these hashtags in search to filter out the tools
 ## SEO
 
 *   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
+*   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
 *   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
 *   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
 *   [Frizerly](https://www.thefrizerly.com/) - AI agent that learns your business and competitors to automatically publish SEO blogs. `#paid`

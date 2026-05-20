@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [May 20, 2026](/content/2026/05/20/README.md)
+
+### Mobile Development
+
+*   [fastlane-plugin-pgyer](https://github.com/PGYER/fastlane-plugin-pgyer) - Distribute iOS, Android and HarmonyOS apps to PGYER beta testing service from your Fastlane lane.
+
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### Assets
@@ -729,7 +735,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐466)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [Jan 10, 2021](/content/2021/01/10/README.md)
 
@@ -2133,7 +2139,7 @@
 
 ### Mobile Development
 
-*   [fastlane (⭐41k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐42k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### Search
 
