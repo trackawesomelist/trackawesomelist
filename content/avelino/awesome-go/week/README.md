@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
+### Artificial Intelligence
+
+*   [web-researcher-mcp (⭐7)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
+
 ### Configuration
 
 *   [go-external-config (⭐1)](https://github.com/go-external-config/go) - Spring-inspired configuration management library for Go.
@@ -63,7 +67,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [lock (⭐1)](https://github.com/ubgo/lock) - Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability hooks across all backends.
+*   [lock (⭐3)](https://github.com/ubgo/lock) - Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability hooks across all backends.
 
 ### Job Scheduler
 
@@ -90,7 +94,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [mac-cleanup-go (⭐386)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+*   [mac-cleanup-go (⭐400)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
@@ -169,11 +173,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [cmd-stream-go (⭐88)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
+*   [cmd-stream-go (⭐93)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
 
 ### HTTP Clients
 
-*   [hedge (⭐276)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
+*   [hedge (⭐277)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
 
 ### Security
 
@@ -244,7 +248,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [AegisFlow (⭐15)](https://github.com/saivedant169/AegisFlow) - AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.
-*   [localaik (⭐8)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
+*   [localaik (⭐10)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 *   [otellix (⭐10)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 *   [routex (⭐20)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
 
@@ -254,7 +258,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [boa (⭐44)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+*   [boa (⭐47)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 
 ### Databases Implemented in Go
 
@@ -350,7 +354,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [loom (⭐124)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐126)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
 ### Configuration
 
@@ -358,7 +362,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [GoSQLX (⭐92)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
+*   [GoSQLX (⭐95)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
 
 ### Distributed Systems
 
@@ -390,7 +394,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [stto (⭐44)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
+*   [stto (⭐45)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -512,7 +516,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [langgraphgo (⭐242)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
+*   [langgraphgo (⭐250)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
 
 ### Authentication and Authorization
 

@@ -8,6 +8,10 @@
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
+### Research & Knowledge Retrieval
+
+*   [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
+
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [ML/AI Interview Prep (⭐0)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design

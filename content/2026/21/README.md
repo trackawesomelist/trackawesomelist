@@ -1,36 +1,48 @@
 # Awesome List Updates on May 25 - May 31, 2026
 
-33 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-content-settings (⭐57)](https://github.com/occipital/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Muxy (⭐1k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
+
+## [3. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
 *   📝 [forall x: Calgary (An Introduction to Formal Logic)](https://forallx.openlogicproject.org/) - P.D. Magnus and Tim Button, remixed by Aaron Thomas-Bolduc and Richard Zach (Open Logic Project)
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Java
 
 *   [FOIL (⭐0)](https://github.com/jasom/foil/blob/master/docs/foil.md) - Rich Hickey's Foreign Object Interface for Lisp to access the JVM and the CLI/CLR.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [SlothDB (⭐527)](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. \[MIT] [website](https://slothdb.org/)
 
-## [4. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / CMS
 
 *   [magento-2-seeder (⭐35)](https://github.com/run-as-root/magento-2-seeder) - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 
-## [5. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [7. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Datasets / Social Sciences
 
@@ -41,7 +53,7 @@
 *   [citracer (⭐20)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 *   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository (⭐20)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 
@@ -163,13 +175,13 @@
 
 *   Data Annotation and Labeling Tools [awesome-open-data-annotation (⭐700)](https://github.com/zenml-io/awesome-open-data-annotation).
 
-## [7. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [9. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Apktool (⭐25k)](https://github.com/iBotPeaches/Apktool) – really useful for compilation/decompilation (uses smali)
 
-## [8. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [10. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / STUN/TURN
 
@@ -179,7 +191,7 @@
 
 *   [icey (⭐1.4k)](https://github.com/nilstate/icey) - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -189,25 +201,25 @@
 
 *   [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
 
-## [10. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [12. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Data Models / Other Datasets
 
 *   [unmiri-ngs-fhir-schema (⭐4)](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 
-## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
 
-## [13. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [15. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Agent-to-Agent Protocols
 
@@ -217,7 +229,7 @@
 
 *   [MCP Specification](https://modelcontextprotocol.io/specification/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [16. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Finance
 
@@ -227,7 +239,7 @@
 
 *   [A tidyverse user's guide to Polars](https://chuvanan.github.io/cookbook-python-polars/) - A practical cookbook for R/tidyverse users learning the Polars DataFrame library for Python. Each section pairs Polars syntax with its dplyr/tidyr/lubridate equivalent so the concepts map directly onto what you already know.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -241,19 +253,19 @@
 
 *   [esp-rs/esp-hal (⭐1.9k)](https://github.com/esp-rs/esp-hal) \[[esp-hal](https://crates.io/crates/esp-hal)] - Bare-metal `no_std` hardware abstraction layer for Espressif ESP32 devices (ESP32, ESP32-C2/C3/C5/C6/C61, ESP32-H2, ESP32-P4, ESP32-S2/S3). Provides safe Rust APIs for GPIO, I2C, SPI, UART, timers, DMA, and more. [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/esp-rs/esp-hal/ci.yml?labelColor=1C2C2E\&label=CI\&logo=github\&style=flat-square)](https://github.com/esp-rs/esp-hal/actions/workflows/ci.yml)
 
-## [16. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [18. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
 *   [Linuxfabrik LFOps (⭐77)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 
-## [17. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [19. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 
-## [18. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [20. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Common Resources for all animals / Welfare Organizations
 
@@ -285,19 +297,23 @@
 *   [Rabbit Diet - House Rabbit Resource Network](https://rabbitresource.org/rabbit-care-information-and-resources/diet/) - Articles on what rabbits eat, importance of hay, pellets, fresh foods and treat recipes.
 *   [Rabbit Food Pyramid - San Diego House Rabbit Society](https://sandiegorabbits.org/education/providing-a-healthy-rabbit-diet) - Healthy rabbit diet explained in detail with a food pyramid infographic.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
 *   [ray-x/copilot-agent.nvim (⭐11)](https://github.com/ray-x/copilot-agent.nvim) - GitHub Copilot agent runtime with native tool execution, session persistence, and fine-grained permissions.
 
-## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Research & Knowledge Retrieval
+
+*   [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [ML/AI Interview Prep (⭐0)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 
-## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Feature Flags
 
@@ -307,13 +323,13 @@
 
 *   [Future AGI](https://futureagi.com/) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails. [![Future AGI](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/future-agi/future-agi)
 
-## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [24. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
 *   [GuicedEE](https://guicedee.com) - JPMS-first Java platform built on Guice and Vert.x 5 for modular, reactive, enterprise applications. Provides MicroProfile Config, Health, Metrics, OpenAPI, REST, persistence, and more out of the box.
 
-## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -327,7 +343,7 @@
 
 *   [VoidAccess (⭐41)](https://github.com/KatrielMoses/voidaccess) - Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.
 
-## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [26. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### 📚 Learn / Books
 
@@ -385,19 +401,23 @@
 *   [LMArena](https://lmarena.ai/leaderboard) — Human-preference Elo rankings for text, image, and video.
 *   [Artificial Analysis](https://artificialanalysis.ai/) — Speed, price, and quality benchmarks across providers.
 
-## [25. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [27. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Web Framework
 
 *   [llllOllOOll/spider (⭐9)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 
-## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [Mustela (⭐0)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 
-## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Artificial Intelligence
+
+*   [web-researcher-mcp (⭐7)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 
 ### Configuration
 
@@ -431,13 +451,13 @@
 
 *   [Go-Constant (⭐0)](https://github.com/sajjadrabiee/go-constant) - Generic typed constant sets with safe string parsing for Go's missing enum type.
 
-## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Computer Vision
 
 *   [ultralytics (⭐57k)](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO for object detection, segmentation, pose estimation, and classification with state-of-the-art accuracy and speed.
 
-## [29. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
@@ -448,7 +468,7 @@
 *   [MiniWiki (⭐2)](https://github.com/wellsa-ai/miniwiki) - Privacy-first personal wiki with E2E encryption (ChaCha20-Poly1305), 100% offline, wikilinks, FTS5 full-text search by [wellsa-ai](https://github.com/wellsa-ai)
 *   [Memex (⭐149)](https://github.com/memex-lab/memex) - An open-source, local-first AI journal for iOS and Android that turns text, photo and voice fragments into structured timeline cards and organizes knowledge using the P.A.R.A. methodology by [Memex Lab](https://www.memexlab.ai/).
 
-## [30. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [32. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Monitoring / Firmwares for ESP based Devices
 
@@ -458,7 +478,7 @@
 
 *   [awtSCADA (⭐2)](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI system with MQTT support (plus IEC 61850, OPC UA, Modbus TCP). Runs from a single HTML file in any browser, zero installation. 53 function blocks, 65 graphic elements, real-time trends.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -468,13 +488,13 @@
 
 *   [soda-pop (⭐0)](https://github.com/im-adnan/soda-pop.zsh-theme) - A fast, customizable, highly visual, and pure-shell asynchronous `git` prompt theme. It combines an informative git status, an execution tracker, and a rich bubblegum/soda-pop aesthetic with precise color mapping optimized for both light and dark modes.
 
-## [32. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [34. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Books / Transactions
 
 *   [Mathematics of Big Data](https://mitpress.mit.edu/9780262038393/mathematics-of-big-data/) - The mathematical theory behind wide-column stores such as HBase.
 
-## [33. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [35. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Official Projects
 

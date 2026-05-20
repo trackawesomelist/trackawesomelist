@@ -238,13 +238,14 @@ Please take a quick gander at the [contribution guidelines (⭐172k)](https://gi
 *   [goai (⭐100)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 *   [hotplex (⭐3)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 *   [langchaingo (⭐9.2k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [langgraphgo (⭐242)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
+*   [langgraphgo (⭐250)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
 *   [LocalAI (⭐46k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-*   [localaik (⭐8)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
+*   [localaik (⭐10)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 *   [Ollama (⭐171k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 *   [OllamaFarm (⭐97)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 *   [otellix (⭐10)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 *   [routex (⭐20)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
+*   [web-researcher-mcp (⭐7)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 *   [zenflow (⭐2)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
 **[⬆ back to top](#contents)**
@@ -407,7 +408,7 @@ Please take a quick gander at the [contribution guidelines (⭐172k)](https://gi
 *   [gookit/color (⭐1.6k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
 *   [lazyenv (⭐46)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 *   [lipgloss (⭐11k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
-*   [loom (⭐124)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐126)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 *   [marker (⭐53)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
 *   [mpb (⭐2.5k)](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
 *   [phoenix (⭐27)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
@@ -436,7 +437,7 @@ Please take a quick gander at the [contribution guidelines (⭐172k)](https://gi
 *   [acmd (⭐138)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐640)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐43)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [boa (⭐44)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
+*   [boa (⭐47)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 *   [carapace (⭐1.3k)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.8k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐30)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
@@ -854,7 +855,7 @@ additional ordered map implementations.
 *   [gatewayd (⭐283)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 *   [go-mysql (⭐4.9k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [gorm-multitenancy (⭐81)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
-*   [GoSQLX (⭐92)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
+*   [GoSQLX (⭐95)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
 *   [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
 *   [octillery (⭐200)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [onedump (⭐965)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
@@ -1022,7 +1023,7 @@ additional ordered map implementations.
 *   [bedrock (⭐15)](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
 *   [capillaries (⭐71)](https://github.com/capillariesio/capillaries) - distributed batch data processing framework.
 *   [circuit (⭐4)](https://github.com/schigh/circuit) - Circuit breaker with gradual recovery via probabilistic throttling.
-*   [cmd-stream-go (⭐88)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
+*   [cmd-stream-go (⭐93)](https://github.com/cmd-stream/cmd-stream-go) - High-performance distributed command pattern library for Go.
 *   [committer (⭐42)](https://github.com/vadiminshakov/committer) - A distributed transactions management system (2PC/3PC implementation).
 *   [consistent (⭐773)](https://github.com/buraksezer/consistent) - Consistent hashing with bounded loads.
 *   [consistenthash (⭐32)](https://github.com/mbrostami/consistenthash) - Consistent hashing with configurable replicas.
@@ -1061,7 +1062,7 @@ additional ordered map implementations.
 *   [Kitex (⭐7.9k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
 *   [Kratos (⭐26k)](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 *   [liftbridge (⭐2.8k)](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams for NATS.
-*   [lock (⭐1)](https://github.com/ubgo/lock) - Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability hooks across all backends.
+*   [lock (⭐3)](https://github.com/ubgo/lock) - Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability hooks across all backends.
 *   [lura (⭐6.8k)](https://github.com/luraproject/lura) - Ultra performant API Gateway framework with middlewares.
 *   [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 *   [mochi mqtt (⭐1.9k)](https://github.com/mochi-co/mqtt) - Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.
@@ -2181,7 +2182,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-zoox/fetch (⭐88)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 *   [Grequest (⭐9)](https://github.com/lib4u/grequest)  - Simple and lightweight golang package for http requests. based on powerful net/http
 *   [grequests (⭐2.2k)](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
-*   [hedge (⭐276)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
+*   [hedge (⭐277)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
 *   [heimdall (⭐2.7k)](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
 *   [httpretry (⭐57)](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
 *   [pester (⭐656)](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
@@ -3350,7 +3351,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [php-parser (⭐959)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
 *   [revive (⭐5.5k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
 *   [staticcheck (⭐6.8k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
-*   [stto (⭐44)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
+*   [stto (⭐45)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
 *   [testifylint (⭐169)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐26k)](https://github.com/stretchr/testify).
 *   [tickgit (⭐324)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
 *   [todocheck (⭐437)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
@@ -3590,7 +3591,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [lgo (⭐2.5k)](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
 *   [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 *   [LiteIDE (⭐7.8k)](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
-*   [mac-cleanup-go (⭐386)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+*   [mac-cleanup-go (⭐400)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 *   [mockingjay (⭐568)](https://github.com/quii/mockingjay-server) - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
 *   [myLG (⭐2.7k)](https://github.com/mehrdadrad/mylg) - Command Line Network Diagnostic tool written in Go.
 *   [naclpipe (⭐23)](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.

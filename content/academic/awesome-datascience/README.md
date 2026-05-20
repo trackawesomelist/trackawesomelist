@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 20, 2026](/content/2026/05/20/README.md)
+
+### Research & Knowledge Retrieval
+
+*   [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
