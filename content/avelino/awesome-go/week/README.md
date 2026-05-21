@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [web-researcher-mcp (⭐7)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 
+### Build Automation
+
+*   [rex (⭐1)](https://github.com/rexrun-dev/rex) - Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command.
+
 ### Configuration
 
 *   [go-external-config (⭐1)](https://github.com/go-external-config/go) - Spring-inspired configuration management library for Go.
@@ -42,11 +46,16 @@ A curated list of awesome Go frameworks, libraries and software
 ### Testing Frameworks
 
 *   [go-mutesting (⭐0)](https://github.com/jonbaldie/go-mutesting) - Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
+*   [go-testing (⭐4)](https://github.com/tkrop/go-testing) - Go testing extension, that allows a simple setup of strongly isolated unit, component, and integration test providing advanced mock support extending gomock and gock.
 *   [Testo (⭐80)](https://github.com/ozontech/testo) - Plugin-based testing framework with suites, parallel tests, hooks and parametrization. Inspired by Pytest.
 
 ### Utilities
 
 *   [Go-Constant (⭐0)](https://github.com/sajjadrabiee/go-constant) - Generic typed constant sets with safe string parsing for Go's missing enum type.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [mdv (⭐0)](https://github.com/Allra-Fintech/mdv) - CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -67,7 +76,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [pgrwl](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
+*   [pgrwl (⭐168)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 
 ### Distributed Systems
 
@@ -79,12 +88,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [aes-ctr-drbg (⭐5)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
-*   [Razify](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
+*   [aes-ctr-drbg (⭐6)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
+*   [Razify (⭐19)](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 
 ### Serialization
 
-*   [proto (⭐615)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
+*   [proto (⭐616)](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 
 ### Utilities
 
@@ -154,7 +163,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [stacktower](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
+*   [stacktower (⭐512)](https://github.com/stacktower-io/stacktower) - Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
 
 ### Web Frameworks
 
@@ -300,7 +309,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [fibersse](https://github.com/vinod-morya/fibersse) - Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
+*   [fibersse (⭐1)](https://github.com/vinod-morya/fibersse) - Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -5717,7 +5726,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Circuit (⭐2k)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 *   [Comcast (⭐11k)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 *   [confd (⭐8.4k)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
-*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
+*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 *   [croc (⭐35k)](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 *   [Documize (⭐2.4k)](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 *   [dp (⭐78)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
@@ -5753,7 +5762,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐22)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
-*   [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
+*   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 *   [Snitch (⭐16)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 *   [Stack Up (⭐2.5k)](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.

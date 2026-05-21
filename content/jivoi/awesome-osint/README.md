@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 21, 2026](/content/2026/05/21/README.md)
+
+### Social Media Tools / GitHub
+
+*   [GHNames](https://ghnames.com/) - GitHub lookup tool to search for username history, associated emails, and deleted repositories.
+
+### People Investigations / GitHub
+
+*   [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
+
+### Domain and IP Research / GitHub
+
+*   [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
+
+### Image Analysis / GitHub
+
+*   [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
+
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Social Media Tools / Telegram
@@ -2551,7 +2569,6 @@
 *   [HypeStat](https://www.hypestat.com)
 *   [Infosniper](http://www.infosniper.net)
 *   [IP 2 Geolocation](http://ip2geolocation.com)
-*   [IP 2 Location](http://www.ip2location.com/demo.aspx)
 *   [IP Checking](http://www.ipchecking.com)
 *   [Kloth](http://www.kloth.net/services)
 *   [MaxMind](https://www.maxmind.com)

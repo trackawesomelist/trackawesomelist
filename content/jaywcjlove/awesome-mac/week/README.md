@@ -8,6 +8,10 @@
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
+### Reading and Writing Tools / RSS
+
+*   [Papr (⭐37)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Developer Tools / Developer Utilities
 
 *   [Muxy (⭐1k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.

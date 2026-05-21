@@ -648,6 +648,7 @@ Thanks to our main contributors
 
 ### [↑](#-table-of-contents) GitHub
 
+*   [GHNames](https://ghnames.com/) - GitHub lookup tool to search for username history, associated emails, and deleted repositories.
 *   [github\_monitor (⭐46)](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 *   [GithubRecon](https://kriztalz.sh/github-recon/) - Lookup Github users by username or email and gather associated data.
 *   [GitLeak](https://gitleak.io) - An OSINT tool for GitHub that extracts hidden email addresses, commit timezones, and activity patterns via .patch metadata.
@@ -705,6 +706,7 @@ Thanks to our main contributors
 *   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 *   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 *   [BuscaPaginasBlancas (⭐3)](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
+*   [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 *   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
@@ -950,7 +952,7 @@ Thanks to our main contributors
 *   [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 *   [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 *   [IP 2 Geolocation](http://ip2geolocation.com)
-*   [IP 2 Location](http://www.ip2location.com/demo.aspx)
+*   [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 *   [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 *   [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 *   [IP Checking](http://www.ipchecking.com)
@@ -1087,6 +1089,7 @@ Thanks to our main contributors
 *   [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 *   [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 *   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+*   [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 

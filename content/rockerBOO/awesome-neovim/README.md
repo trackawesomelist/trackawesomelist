@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 21, 2026](/content/2026/05/21/README.md)
+
+### Register / Assembly
+
+*   [tversteeg/registers.nvim](https://codeberg.org/fosk/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+
+### Live Preview / Indent
+
+*   [ritschalex/jupyter\_ascending.nvim (⭐5)](https://github.com/RitschAlex/jupyter_ascending.nvim) - A seamless way to work with Jupyter Notebooks using Jupyter Ascending.
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -63,7 +73,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Colorscheme Switchers
 
-*   [zaakiy/line-justice.nvim](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
+*   [zaakiy/line-justice.nvim (⭐14)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
 
 ### Terminal Integration / CSV Files
 
@@ -145,13 +155,13 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Comment
 
-*   [jeangiraldoo/codedocs.nvim (⭐83)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+*   [jeangiraldoo/codedocs.nvim (⭐96)](https://github.com/jeangiraldoo/codedocs.nvim) - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 
 ## [Apr 18, 2026](/content/2026/04/18/README.md)
 
 ### LSP
 
-*   [ryan-WORK/ohm](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
+*   [ryan-WORK/ohm (⭐15)](https://github.com/ryan-WORK/ohm) - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 
 ### Colorscheme / Assembly
 
@@ -161,11 +171,11 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [micdzu/aalto.nvim](https://github.com/micdzu/aalto.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
+*   [micdzu/aalto.nvim (⭐3)](https://github.com/micdzu/aalto.nvim) - ***`[TS][LSP][L/D][Lua]`*** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
 
 ### Code Runner / Quickfix
 
-*   [sektant1/executioner.nvim](https://github.com/sektant1/executioner.nvim) - Script picker and runner to find and run any script from your project directory, with or without arguments.
+*   [sektant1/executioner.nvim (⭐5)](https://github.com/sektant1/executioner.nvim) - Script picker and runner to find and run any script from your project directory, with or without arguments.
 
 ## [Apr 15, 2026](/content/2026/04/15/README.md)
 
@@ -364,7 +374,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [taigrr/cyberpunk.nvim](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+*   [taigrr/cyberpunk.nvim (⭐4)](https://github.com/taigrr/cyberpunk.nvim) - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 
 ## [Feb 28, 2026](/content/2026/02/28/README.md)
 
@@ -374,7 +384,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [sanjay-np/nvim-yt-player](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [sanjay-np/nvim-yt-player (⭐14)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 
 ## [Feb 27, 2026](/content/2026/02/27/README.md)
 
@@ -557,7 +567,7 @@ Collections of awesome neovim plugins.
 *   [esmuellert/codediff.nvim (⭐1.4k)](https://github.com/esmuellert/codediff.nvim) - Side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 *   [Sengoku11/commitpad.nvim (⭐11)](https://github.com/Sengoku11/commitpad.nvim) - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
 *   [BibekBhusal0/nvim-git-utils (⭐7)](https://github.com/BibekBhusal0/nvim-git-utils) - Simple commands to make life easier while working with Git.
-*   [spacedentist/resolve.nvim](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
+*   [spacedentist/resolve.nvim (⭐58)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 *   [jceb/jiejie.nvim (⭐63)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
 
 ### Motion / GitLab
@@ -717,7 +727,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Assembly
 
-*   [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+*   [dimtion/guttermarks.nvim (⭐52)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
 
 ### Colorscheme / Assembly
 
@@ -920,13 +930,13 @@ Collections of awesome neovim plugins.
 ### Editing Support / Scrollbar
 
 *   [qwavies/smart-backspace.nvim (⭐31)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
-*   [ckolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
+*   [ckolkey/ts-node-action (⭐378)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
 
 ## [Nov 11, 2025](/content/2025/11/11/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [tttol/md-outline.nvim](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
+*   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ## [Nov 10, 2025](/content/2025/11/10/README.md)
 
@@ -1850,7 +1860,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Web Development
 
-*   [azratul/expose-localhost.nvim](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
+*   [azratul/expose-localhost.nvim (⭐6)](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
 
 ## [Mar 29, 2025](/content/2025/03/29/README.md)
 
@@ -1938,7 +1948,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [redoxahmii/json-to-types.nvim](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
+*   [redoxahmii/json-to-types.nvim (⭐56)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
 
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
@@ -2018,7 +2028,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [Davidyz/VectorCode](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
+*   [Davidyz/VectorCode (⭐861)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
 *   [dlants/magenta.nvim (⭐446)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 
 ### Color / Assembly
@@ -2230,7 +2240,7 @@ Collections of awesome neovim plugins.
 
 ### Git / GitHub
 
-*   [2KAbhishek/octohub.nvim](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐79)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Game / Competitive Programming
 
@@ -2826,7 +2836,7 @@ Collections of awesome neovim plugins.
 
 *   [nfrid/due.nvim (⭐119)](https://github.com/nfrid/due.nvim) - Displays due for a date string as a virtual text.
 *   [zk-org/zk-nvim (⭐825)](https://github.com/zk-org/zk-nvim) -  Provides integration with `zk`, a plain text note-taking assistant.
-*   [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
+*   [Ostralyan/scribe.nvim (⭐26)](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
 
 ### Debugging / CSV Files
 
@@ -2979,7 +2989,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
+*   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 
 ### Code Runner / Quickfix
 
@@ -3076,7 +3086,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐98)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / CSV Files
 
@@ -3206,7 +3216,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / CSV Files
 
-*   [theKnightsOfRohan/csvlens.nvim (⭐39)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+*   [theKnightsOfRohan/csvlens.nvim (⭐39)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐3.8k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ### Code Runner / Quickfix
 
@@ -3681,7 +3691,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐497)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### Editing Support / Scrollbar
 
@@ -4895,7 +4905,7 @@ Collections of awesome neovim plugins.
 
 *   [chipsenkbeil/distant.nvim (⭐1.4k)](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 *   [jamestthompson3/nvim-remote-containers (⭐932)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside Docker containers, just like VSCode.
-*   [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Provide functionality similar to VSCode's [remote container development](https://code.visualstudio.com/docs/remote/containers) plugin, with other functionalities that enable development in Docker containers.
+*   [esensar/nvim-dev-container (⭐723)](https://github.com/esensar/nvim-dev-container) - Provide functionality similar to VSCode's [remote container development](https://code.visualstudio.com/docs/remote/containers) plugin, with other functionalities that enable development in Docker containers.
 
 ### Split and Window / Indent
 
@@ -4951,7 +4961,6 @@ Collections of awesome neovim plugins.
 ### Register / Assembly
 
 *   [gennaro-tedesco/nvim-peekup (⭐335)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-*   [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 
 ### Marks / Assembly
 
@@ -5471,7 +5480,7 @@ Collections of awesome neovim plugins.
 ### Fuzzy Finder / Assembly
 
 *   [nvim-telescope/telescope.nvim (⭐19k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐19k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) A highly extensible fuzzy finder over lists.
-*   [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+*   [ibhagwan/fzf-lua (⭐4.3k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 
 ### Colorscheme / Assembly
 
@@ -5554,13 +5563,13 @@ Collections of awesome neovim plugins.
 
 ### Snippet / Assembly
 
-*   [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.9k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐339)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.9k)](https://github.com/honza/vim-snippets).
 
 ## [Sep 27, 2021](/content/2021/09/27/README.md)
 
 ### Formatting / Folding
 
-*   [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A code formatting runner.
+*   [sbdchd/neoformat (⭐2k)](https://github.com/sbdchd/neoformat) - A code formatting runner.
 
 ## [Sep 09, 2021](/content/2021/09/09/README.md)
 
@@ -5666,7 +5675,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐2.3k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ## [Jun 17, 2021](/content/2021/06/17/README.md)
 
@@ -5704,7 +5713,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Assembly
 
-*   [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
+*   [winston0410/range-highlight.nvim (⭐214)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
 
 ### Colorscheme / Assembly
 
