@@ -1,18 +1,61 @@
 # Awesome List Updates on May 21, 2026
 
-9 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Build123d](/content/phillipthelen/awesome-build123d/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Graphics
+
+*   [museslabs/phonto (⭐234)](https://github.com/museslabs/phonto) - GPU-accelerated video wallpaper program for Wayland and macOS, written in Rust.
+
+## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [popular.zsh (⭐6)](https://github.com/sajjadRabiee/popular-zsh) - Lets you bookmark, template, and re-run your most-used ZSH commands with `padd`, `p`, and `pls`. Supports AES-256-CBC encrypted secret placeholders, history capture via `paddh`, tab completion, and export/import including direct import from a GitHub repository.
+
+## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Shell Script Development
+
+*   [alinex bashlib](https://gitlab.com/alinex/bash-lib) - Modular bash library for server administration, data processing, and remote scripting.
+
+## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+
+### API / Samples
+
+*   [JdbcREST (⭐6)](https://github.com/synthesized-io/jdbcrest/) - REST API for any JDBC-backed database, a PostgREST clone written in Java.
+
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+
+### Contents / GUI
+
+*   [QueryGlow](https://queryglow.com/) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete (Commercial Software).
+
+### Contents / CLI
+
+*   [squix (⭐234)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
+
+### Contents / Utilities
+
+*   [Greenmask (⭐1.7k)](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
+*   [Qail (⭐22)](https://github.com/qail-io/qail) - rust-first typed AST pipeline for PostgreSQL with compile-time query checks and built-in tenant scoping.
+
+### Resources / Newsletters
+
+*   [pgsql-hackers Weekly Digest](https://ryogrid.net/pgsql-hackers-digest/) - Weekly digest of the pgsql-hackers mailing list that provides a list of active threads, thread summaries, and more.
+
+## [6. Awesome Build123d](/content/phillipthelen/awesome-build123d/README.md)
 
 ### Quick Start
 
 *   [jdegenstein/build123d-core-portable (⭐3)](https://github.com/jdegenstein/build123d-core-portable) - A cross-platform portable build123d installation with filewatcher123d, OCP CAD Viewer, and python bundled together -- bring your own editor and browser. Provides a quick download, unzip, and run experience -- [releases page (⭐3)](https://github.com/jdegenstein/build123d-core-portable/releases).
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / GitHub
 
@@ -30,11 +73,15 @@
 
 *   [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Build Automation
 
 *   [rex (⭐1)](https://github.com/rexrun-dev/rex) - Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command.
+
+### Security
+
+*   [veil (⭐1)](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
 
 ### Testing Frameworks
 
@@ -44,7 +91,7 @@
 
 *   [mdv (⭐0)](https://github.com/Allra-Fintech/mdv) - CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -100,19 +147,19 @@
 
 *   [YAML (⭐467) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / RSS
 
 *   [Papr (⭐37)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Tools / Starforged
 
 *   [Sector Forge](https://sector-forge.linkon.click/) - Procedural sector generator for Ironsworn: Starforged
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Register / Assembly
 
@@ -122,14 +169,14 @@
 
 *   [ritschalex/jupyter\_ascending.nvim (⭐5)](https://github.com/RitschAlex/jupyter_ascending.nvim) - A seamless way to work with Jupyter Notebooks using Jupyter Ascending.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [marmonitor (⭐22)](https://github.com/mjjo16/marmonitor) Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.
 *   [tmux-ai-window-name (⭐0)](https://github.com/ndom91/tmux-ai-window-name) Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)
 
-## [9. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [14. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
