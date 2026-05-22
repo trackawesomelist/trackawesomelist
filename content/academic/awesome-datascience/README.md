@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 22, 2026](/content/2026/05/22/README.md)
+
+### Tutorials
+
+*   [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Research & Knowledge Retrieval
@@ -78,7 +84,7 @@
 
 ### Tools
 
-*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐0)](https://github.com/unitedideas/nothumansearch)
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐2)](https://github.com/unitedideas/nothumansearch)
 
 ### Books / Visualization Tools
 
@@ -541,7 +547,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐640)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐645)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 18, 2024](/content/2024/05/18/README.md)
 
@@ -1486,8 +1492,8 @@
 *   [sklearn-deap (⭐774)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐6.5k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐380)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-opt (⭐6.6k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-posthocs (⭐381)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
@@ -1495,10 +1501,10 @@
 *   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
-*   [hyperlearn (⭐2.4k)](https://github.com/danielhanchen/hyperlearn)
+*   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐445)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐997)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐446)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐1k)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 

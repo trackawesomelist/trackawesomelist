@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Development / Chat
+
+*   [dotenv-diff (⭐49)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Utilities / Calendars
@@ -34,7 +40,7 @@
 
 ### Development / Text Editors
 
-*   [Prosaic (⭐10)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+*   [Prosaic (⭐11)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
 
 ### AI / Agents
 
@@ -54,7 +60,7 @@
 
 ### Files and Directories / Directory Listing
 
-*   [treepp (⭐71)](https://github.com/Water-Run/treepp) - Windows tree++.
+*   [treepp (⭐72)](https://github.com/Water-Run/treepp) - Windows tree++.
 
 ### AI / Agents
 
@@ -64,7 +70,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [kanban (⭐96)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐107)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### Data Manipulation / Processors
 
@@ -253,7 +259,7 @@
 
 ### Entertainment / Music
 
-*   [spotatui (⭐644)](https://github.com/LargeModGames/spotatui) - Spotify client.
+*   [spotatui (⭐685)](https://github.com/LargeModGames/spotatui) - Spotify client.
 
 ### Utilities / macOS
 
@@ -346,11 +352,11 @@
 
 ### Utilities / Network Utilities
 
-*   [rustnet (⭐2.1k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
+*   [rustnet (⭐3.6k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐503)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐506)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -408,7 +414,7 @@
 ### Development / Devops
 
 *   [logdy (⭐2.2k)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
-*   [s5cmd (⭐4k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+*   [s5cmd (⭐4.1k)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
 ### Development / Docker
 
@@ -424,7 +430,7 @@
 
 ### Files and Directories / File Managers
 
-*   [xplr (⭐4.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
+*   [xplr (⭐4.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Files and Directories / Disk Usage
 
@@ -436,7 +442,7 @@
 
 ### Files and Directories / Search
 
-*   [television (⭐5.8k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐5.9k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ### Version Control / Git
 
@@ -514,7 +520,7 @@
 
 ### Productivity / Testing
 
-*   [fjira (⭐265)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐267)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Productivity / Finance
 
@@ -746,13 +752,13 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐337)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### Development / Text Editors
 
-*   [neovim (⭐99k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐100k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐666)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 *   [helix (⭐44k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
@@ -800,7 +806,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐831)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐833)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -992,7 +998,7 @@
 
 ### Files and Directories / Disk Usage
 
-*   [diskonaut (⭐3k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
+*   [diskonaut (⭐3.1k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files and Directories / Files
 
@@ -1027,7 +1033,7 @@
 
 ### Development / Chat
 
-*   [just (⭐33k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐34k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ### Development / Docker
 
@@ -1113,7 +1119,7 @@
 ### Files and Directories / Directory Navigation
 
 *   [z.lua (⭐3.1k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐36k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [zoxide (⭐37k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [Apr 06 - Apr 12, 2020](/content/2020/14/README.md)
 
@@ -1240,7 +1246,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐657)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
+*   [sqlline (⭐659)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
@@ -1413,7 +1419,7 @@
 
 ### Development / Release
 
-*   [clog (⭐915)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐916)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 

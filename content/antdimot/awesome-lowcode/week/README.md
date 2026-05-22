@@ -6,6 +6,16 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
+
+### Educational
+
+*   [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+
+### Misc
+
+*   [ShopSavvy](https://shopsavvy.com/data) - Product data API with real-time pricing from thousands of retailers and price history.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Marketing

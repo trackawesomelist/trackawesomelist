@@ -1,18 +1,47 @@
 # Awesome List Updates on May 22, 2026
 
-8 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [mmalmi/nostr-vpn (⭐581)](https://github.com/mmalmi/nostr-vpn) \[[nvpn](https://crates.io/crates/nvpn)] - Tailscale-style private mesh VPN built on Nostr identities and a FIPS-backed data plane. Features native cross-platform apps (macOS, Linux, Windows, Mobile) and a CLI/daemon.
+
+## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+### Educational
+
+*   [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+
+### Misc
+
+*   [ShopSavvy](https://shopsavvy.com/data) - Product data API with real-time pricing from thousands of retailers and price history.
+
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Development / Chat
+
+*   [dotenv-diff (⭐49)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+
+## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Tutorials
+
+*   [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+
+## [5. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Command Line Tools
 
 *   [Fastfetch (⭐23k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [winfetch (⭐1.8k)](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/lptstr/winfetch)
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Email Search / Email Check / GitHub
 
@@ -22,31 +51,31 @@
 
 *   [Wiley](https://www.wiley.com)
 
-## [3. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [7. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Tools / API
 
 *   [WuppieFuzz (⭐200)](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [Zvec (⭐9.7k)](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. \[Apache2] [website](https://zvec.org/)
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [Updatecli (⭐913)](https://github.com/updatecli/updatecli) - A universal declarative update policy engine.
 
-## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Additional Resources
 
 *   [BitcoinCompanies](https://bitcoincompanies.co/) - Corporate Bitcoin treasury map and leaderboard with claimed vs verified holdings.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [11. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing
 
@@ -104,7 +133,7 @@
 
 *   [You're all calculating churn rates wrong](https://web.archive.org/web/20260204065339/https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [12. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Cryptography
 
