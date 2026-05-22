@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [May 22, 2026](/content/2026/05/22/README.md)
+
+### Additional Resources
+
+*   [BitcoinCompanies](https://bitcoincompanies.co/) - Corporate Bitcoin treasury map and leaderboard with claimed vs verified holdings.
+
 ## [May 21, 2026](/content/2026/05/21/README.md)
 
 ### Utilities

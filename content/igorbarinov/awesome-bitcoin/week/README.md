@@ -32,6 +32,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### Additional Resources
 
+*   [BitcoinCompanies](https://bitcoincompanies.co/) - Corporate Bitcoin treasury map and leaderboard with claimed vs verified holdings.
 *   [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)

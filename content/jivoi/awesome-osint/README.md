@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 22, 2026](/content/2026/05/22/README.md)
+
+### Email Search / Email Check / GitHub
+
+*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
+
+### Academic Resources and Grey Literature / GitHub
+
+*   [Wiley](https://www.wiley.com)
+
 ## [May 21, 2026](/content/2026/05/21/README.md)
 
 ### Social Media Tools / GitHub
@@ -2685,7 +2695,6 @@
 *   [Springer](http://link.springer.com)
 *   [Taylor & Francis Online](http://www.tandfonline.com)
 *   [The Open Syllabus Project](http://opensyllabusproject.org/)
-*   [Wiley](http://eu.wiley.com)
 *   [World Digital Library](http://www.wdl.org)
 *   [World Science](http://worldwidescience.org)
 *   [Zetoc](http://zetoc.jisc.ac.uk)

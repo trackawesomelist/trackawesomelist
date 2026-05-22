@@ -1,24 +1,136 @@
 # Awesome List Updates on May 25 - May 31, 2026
 
-46 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### Command Line Tools
+
+*   [Fastfetch (⭐23k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+## [2. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+
+### Tools / API
+
+*   [WuppieFuzz (⭐200)](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL.
+
+## [3. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+
+### Pricing
+
+*   [The Network Monetization Map: Aligning Incentives with Revenue](https://web.archive.org/web/20201222120055/https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 models of monetization relying on network effect.
+*   [The 5 Pillars of PriceOps](https://web.archive.org/web/20260124084716/https://priceops.org/) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
+
+### Pricing / Usage-based Pricing
+
+*   [Credyt](https://credyt.ai/?utm_source=awesome-billing\&utm_medium=referral\&utm_campaign=awesome-billing-oss-sponsorship) - Real-time monetization infrastructure for AI products: meter usage, charge from prepaid balances, and ship a branded customer portal without writing frontend. Commercial SaaS.
+*   [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://web.archive.org/web/20201107232605/https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e) - Behind the quest of this developer to track its expenses, you get a glimpse on cloud billing difficulties. While not explicitly pointed out, pricing cloud resources is hard and the result of quantization, granularity and rounding, between space, time and currencies.
+*   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform=\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
+
+### Pricing / Market Research
+
+*   [Finding the max revenue price mark for digital products](https://web.archive.org/web/20260213003122/https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d) - “To find the optimal price that provides maximum revenue for your product you will need to field-test several price points; you then reconstruct the revenue curve and find the peak.”
+
+### Accounting / Double-Entry Model
+
+*   [The Double-Entry Counting Method](https://web.archive.org/web/20260306094438/https://beancount.github.io/docs/the_double_entry_counting_method.html) - Same premise as above, but way more detailed and complete, as it adds reporting and implementation details.
+
+### Contracts / Currencies
+
+*   [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/insights/comparing-cuds-suds-and-commits-in-google-cloud) - Explains the differences between various types of discounts and usage commitments in GCP.
+
+### Taxes / European VAT
+
+*   [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://web.archive.org/web/20260220184109/https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01) - “If you think you can just setup a simple Stripe integration and move on, like us, you'd be sadly mistaken.”
+
+### Invoice / Structure
+
+*   [Content of EU invoices](https://web.archive.org/web/20260128155309/https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ%3AL%3A2006%3A347%3AFULL) - The information required on a EU invoice is detailed by Article 226, Section 4 (Content of invoices) of Council Directive 2006/112/EC on the common system of VAT.
+
+### Invoice / Integrity
+
+*   [Digital signatures: how Sleek leverages Cloud HSM to guarantee the integrity of legal documents](https://web.archive.org/web/20260113213039/https://medium.com/google-developers/digital-signatures-how-sleek-leverages-cloud-hsm-to-guarantee-the-integrity-of-legal-documents-a7bd3b82faf6) - Here is a great way to rely on GCP's HSM to digitally sign documents and provide an immutable audit-trail. Might be applied to invoices as well as contract agreements.
+
+### Payments / Electronic invoices
+
+*   [Avoiding Double Payments in a Distributed Payments System](https://web.archive.org/web/20260516074518/https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb) - RDBMS were build for banks around transactions to solve that specific issue. Then NoSQL came forcing us to carefully implement systems to avoid double spending.
+*   How ACH works: A developer perspective, [part 1](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1), [part 2](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2-7a890638c4dd), [part 3](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3-cd98728cf31f), [part 4](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4-718a48cb8d2c), [part 5](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5-1d998bbcd82c).
+
+### Fraud / Cards
+
+*   [Credit Card Fraud Detection using Autoencoders in Keras](https://web.archive.org/web/20200101000000/https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) - Tutorial on how to rely on anomaly detection to implement suspicious card transactions.
+
+### UX/UI / Billing
+
+*   [Apple In-app purchase Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
+
+### Business Intelligence / Metrics
+
+*   [16 Startup Metrics](https://a16z.com/16-startup-metrics/) - The 2 critical metrics being Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV).
+
+### Business Intelligence / Customer Lifetime Value
+
+*   [You're all calculating churn rates wrong](https://web.archive.org/web/20260204065339/https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
+
+## [4. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+
+### Cryptography
+
+*   [Real World Crypto Symposium](https://web.archive.org/web/20260428040052/https://rwc.iacr.org/) - Aims to bring together cryptography researchers with developers, focusing on uses in real-world environments such as the Internet, the cloud, and embedded devices.
+
+### Zero-trust Network / Identifiers
+
+*   [What is BeyondCorp? What is Identity-Aware Proxy?](https://web.archive.org/web/20251205052156/https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90) - More companies add extra layers of VPNs, firewalls, restrictions and constraints, resulting in a terrible experience and a slight security gain. There's a better way.
+
+### Password-less auth / Security key
+
+*   [Getting started with security keys](https://web.archive.org/web/20260401133706/https://paulstamatiou.com/getting-started-with-security-keys/) - A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.
+
+### Password-less auth / JWT
+
+*   [JWT, JWS and JWE for Not So Dummies!](https://web.archive.org/web/20221112173931/https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3) - A signed JWT is known as a JWS (JSON Web Signature). In fact a JWT does not exist itself — either it has to be a JWS or a JWE (JSON Web Encryption). Its like an abstract class — the JWS and JWE are the concrete implementations.
+
+### Authorization / Policy models
+
+*   [GCP's IAM syntax is better than AWS's](https://web.archive.org/web/20251208231427/https://ucarion.com/iam-operation-syntax) - The minutiae of permission design in GCP improves the developer's experience.
+
+### Authorization / ReBAC frameworks
+
+*   [Zanzibar: Google's Consistent, Global Authorization System](https://web.archive.org/web/20191207160155/https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://nitter.tiekoetter.com/LeaKissner/status/1136626971566149633). [Zanzibar Academy](https://zanzibar.academy/) is a site dedicated to explaining how Zanzibar works.
+
+### Authorization / Macaroons
+
+*   [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://web.archive.org/web/20191009113323/https://ai.google/research/pubs/pub41892) - Google's original paper.
+
+### OAuth2 & OpenID / Other tools
+
+*   [Descope](https://www.descope.com/?utm_source=awesome-iam\&utm_medium=referral\&utm_campaign=awesome-iam-oss-sponsorship) - Drag and drop your auth. Add authentication, user management, and authorization to your app with a few lines of code.
+
+### Secret Management / Hardware Security Module (HSM)
+
+*   [HSM: What they are and why it's likely that you've (indirectly) used one today](https://web.archive.org/web/20260404010649/https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - Really basic overview of HSM usages.
+
+### Competitive Analysis / GDPR
+
+*   [163 AWS services explained in one line each](https://web.archive.org/web/20260301070017/https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws) - Help makes sense of their huge service catalog. In the same spirit: [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
+
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Shell Script Development
 
 *   [alinex bashlib](https://gitlab.com/alinex/bash-lib) - Modular bash library for server administration, data processing, and remote scripting.
 
-## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### API / Samples
 
 *   [JdbcREST (⭐6)](https://github.com/synthesized-io/jdbcrest/) - REST API for any JDBC-backed database, a PostgREST clone written in Java.
 
-## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -37,13 +149,13 @@
 
 *   [pgsql-hackers Weekly Digest](https://ryogrid.net/pgsql-hackers-digest/) - Weekly digest of the pgsql-hackers mailing list that provides a list of active threads, thread summaries, and more.
 
-## [4. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
+## [8. Awesome Build123d](/content/phillipthelen/awesome-build123d/week/README.md)
 
 ### Quick Start
 
 *   [jdegenstein/build123d-core-portable (⭐3)](https://github.com/jdegenstein/build123d-core-portable) - A cross-platform portable build123d installation with filewatcher123d, OCP CAD Viewer, and python bundled together -- bring your own editor and browser. Provides a quick download, unzip, and run experience -- [releases page (⭐3)](https://github.com/jdegenstein/build123d-core-portable/releases).
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -99,20 +211,20 @@
 
 *   [YAML (⭐467) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Starforged
 
 *   [Sector Forge](https://sector-forge.linkon.click/) - Procedural sector generator for Ironsworn: Starforged
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [marmonitor (⭐22)](https://github.com/mjjo16/marmonitor) Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.
 *   [tmux-ai-window-name (⭐0)](https://github.com/ndom91/tmux-ai-window-name) Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)
 
-## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [12. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -138,9 +250,10 @@
 
 ### Additional Resources
 
+*   [BitcoinCompanies](https://bitcoincompanies.co/) - Corporate Bitcoin treasury map and leaderboard with claimed vs verified holdings.
 *   [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 
-## [9. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [13. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Research
 
@@ -166,25 +279,25 @@
 
 *   [AIRanked](https://geochecktool.com/) - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview. `#free` `#seo`
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Mobile Development
 
 *   [fastlane-plugin-pgyer](https://github.com/PGYER/fastlane-plugin-pgyer) - Distribute iOS, Android and HarmonyOS apps to PGYER beta testing service from your Fastlane lane.
 
-## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [Schemato](https://www.schemato.top/graphql-to-typescript) - Browser-only GraphQL SDL converter for generating TypeScript, Zod, Pydantic, Go, Rust, and other typed models.
 
-## [12. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [16. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Configuration
 
 *   [django-content-settings (⭐57)](https://github.com/occipital/django-content-settings) - Easily create and manage editable typed variables directly from the Django admin panel.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / RSS
 
@@ -194,31 +307,32 @@
 
 *   [Muxy (⭐1k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
 
-## [14. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
 *   📝 [forall x: Calgary (An Introduction to Formal Logic)](https://forallx.openlogicproject.org/) - P.D. Magnus and Tim Button, remixed by Aaron Thomas-Bolduc and Richard Zach (Open Logic Project)
 
-## [15. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Java
 
 *   [FOIL (⭐0)](https://github.com/jasom/foil/blob/master/docs/foil.md) - Rich Hickey's Foreign Object Interface for Lisp to access the JVM and the CLI/CLR.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [SlothDB (⭐527)](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. \[MIT] [website](https://slothdb.org/)
+*   [SlothDB (⭐854)](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. \[MIT] [website](https://slothdb.org/)
+*   [Zvec (⭐9.7k)](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. \[Apache2] [website](https://zvec.org/)
 
-## [17. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [21. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / CMS
 
 *   [magento-2-seeder (⭐35)](https://github.com/run-as-root/magento-2-seeder) - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 
-## [18. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [22. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Datasets / Social Sciences
 
@@ -229,7 +343,7 @@
 *   [citracer (⭐20)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 *   [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository (⭐20)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 
-## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 
@@ -351,13 +465,13 @@
 
 *   Data Annotation and Labeling Tools [awesome-open-data-annotation (⭐700)](https://github.com/zenml-io/awesome-open-data-annotation).
 
-## [20. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Apktool (⭐25k)](https://github.com/iBotPeaches/Apktool) – really useful for compilation/decompilation (uses smali)
 
-## [21. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [25. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / STUN/TURN
 
@@ -367,7 +481,7 @@
 
 *   [icey (⭐1.4k)](https://github.com/nilstate/icey) - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -377,7 +491,7 @@
 
 *   [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
 
-## [23. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [27. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews / Pre-LLM Overviews
 
@@ -387,19 +501,19 @@
 
 *   [unmiri-ngs-fhir-schema (⭐4)](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 
-## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [28. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 
-## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [29. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [flawfinder](http://dwheeler.com/flawfinder/) — Finds possible security weaknesses.
 
-## [26. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [30. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Agent-to-Agent Protocols
 
@@ -409,7 +523,7 @@
 
 *   [MCP Specification](https://modelcontextprotocol.io/specification/) - Anthropic's specification for the Model Context Protocol defining tools, resources, and prompts.
 
-## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Finance
 
@@ -419,7 +533,7 @@
 
 *   [A tidyverse user's guide to Polars](https://chuvanan.github.io/cookbook-python-polars/) - A practical cookbook for R/tidyverse users learning the Polars DataFrame library for Python. Each section pairs Polars syntax with its dplyr/tidyr/lubridate equivalent so the concepts map directly onto what you already know.
 
-## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -441,7 +555,7 @@
 
 *   [esp-rs/esp-hal (⭐1.9k)](https://github.com/esp-rs/esp-hal) \[[esp-hal](https://crates.io/crates/esp-hal)] - Bare-metal `no_std` hardware abstraction layer for Espressif ESP32 devices (ESP32, ESP32-C2/C3/C5/C6/C61, ESP32-H2, ESP32-P4, ESP32-S2/S3). Provides safe Rust APIs for GPIO, I2C, SPI, UART, timers, DMA, and more. [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/esp-rs/esp-hal/ci.yml?labelColor=1C2C2E\&label=CI\&logo=github\&style=flat-square)](https://github.com/esp-rs/esp-hal/actions/workflows/ci.yml)
 
-## [29. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [33. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -451,13 +565,13 @@
 
 *   [Linuxfabrik LFOps (⭐77)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 
-## [30. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [34. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 
-## [31. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [35. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Common Resources for all animals / Welfare Organizations
 
@@ -489,7 +603,7 @@
 *   [Rabbit Diet - House Rabbit Resource Network](https://rabbitresource.org/rabbit-care-information-and-resources/diet/) - Articles on what rabbits eat, importance of hay, pellets, fresh foods and treat recipes.
 *   [Rabbit Food Pyramid - San Diego House Rabbit Society](https://sandiegorabbits.org/education/providing-a-healthy-rabbit-diet) - Healthy rabbit diet explained in detail with a food pyramid infographic.
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -511,13 +625,13 @@
 
 *   [xiangnongWu2233/rubiks-cube.nvim (⭐2)](https://github.com/xiangnongWu2233/rubiks-cube.nvim) - A playable Rubik's cube with auto-solver.
 
-## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [37. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [ML/AI Interview Prep (⭐0)](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q\&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [38. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Feature Flags
 
@@ -527,13 +641,13 @@
 
 *   [Future AGI](https://futureagi.com/) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails. [![Future AGI](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/future-agi/future-agi)
 
-## [35. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [39. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
 *   [GuicedEE](https://guicedee.com) - JPMS-first Java platform built on Guice and Vert.x 5 for modular, reactive, enterprise applications. Provides MicroProfile Config, Health, Metrics, OpenAPI, REST, persistence, and more out of the box.
 
-## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [40. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -547,6 +661,10 @@
 
 *   [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
 
+### Email Search / Email Check / GitHub
+
+*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
+
 ### Domain and IP Research / GitHub
 
 *   [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
@@ -554,6 +672,10 @@
 ### Image Analysis / GitHub
 
 *   [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
+
+### Academic Resources and Grey Literature / GitHub
+
+*   [Wiley](https://www.wiley.com)
 
 ### Browsers / GitHub
 
@@ -563,7 +685,7 @@
 
 *   [VoidAccess (⭐41)](https://github.com/KatrielMoses/voidaccess) - Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.
 
-## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [41. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### 📚 Learn / Books
 
@@ -621,7 +743,7 @@
 *   [LMArena](https://lmarena.ai/leaderboard) — Human-preference Elo rankings for text, image, and video.
 *   [Artificial Analysis](https://artificialanalysis.ai/) — Speed, price, and quality benchmarks across providers.
 
-## [38. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [42. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Web Framework
 
@@ -631,13 +753,13 @@
 
 *   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 
-## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [43. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [Mustela (⭐0)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 
-## [40. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -688,17 +810,21 @@
 
 *   [Go-Constant (⭐0)](https://github.com/sajjadrabiee/go-constant) - Generic typed constant sets with safe string parsing for Go's missing enum type.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [Updatecli (⭐913)](https://github.com/updatecli/updatecli) - A universal declarative update policy engine.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [mdv (⭐0)](https://github.com/Allra-Fintech/mdv) - CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
 
-## [41. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [45. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Computer Vision
 
 *   [ultralytics (⭐57k)](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO for object detection, segmentation, pose estimation, and classification with state-of-the-art accuracy and speed.
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
@@ -709,7 +835,7 @@
 *   [MiniWiki (⭐2)](https://github.com/wellsa-ai/miniwiki) - Privacy-first personal wiki with E2E encryption (ChaCha20-Poly1305), 100% offline, wikilinks, FTS5 full-text search by [wellsa-ai](https://github.com/wellsa-ai)
 *   [Memex (⭐149)](https://github.com/memex-lab/memex) - An open-source, local-first AI journal for iOS and Android that turns text, photo and voice fragments into structured timeline cards and organizes knowledge using the P.A.R.A. methodology by [Memex Lab](https://www.memexlab.ai/).
 
-## [43. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [47. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Monitoring / Firmwares for ESP based Devices
 
@@ -719,7 +845,7 @@
 
 *   [awtSCADA (⭐2)](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI system with MQTT support (plus IEC 61850, OPC UA, Modbus TCP). Runs from a single HTML file in any browser, zero installation. 53 function blocks, 65 graphic elements, real-time trends.
 
-## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -730,13 +856,13 @@
 
 *   [soda-pop (⭐0)](https://github.com/im-adnan/soda-pop.zsh-theme) - A fast, customizable, highly visual, and pure-shell asynchronous `git` prompt theme. It combines an informative git status, an execution tracker, and a rich bubblegum/soda-pop aesthetic with precise color mapping optimized for both light and dark modes.
 
-## [45. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [49. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Books / Transactions
 
 *   [Mathematics of Big Data](https://mitpress.mit.edu/9780262038393/mathematics-of-big-data/) - The mathematical theory behind wide-column stores such as HBase.
 
-## [46. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [50. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Official Projects
 

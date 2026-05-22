@@ -761,6 +761,7 @@ Thanks to our main contributors
 *   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 *   [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
+*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 *   [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 *   [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 *   [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
@@ -1156,7 +1157,7 @@ Thanks to our main contributors
 *   [Springer](http://link.springer.com)
 *   [Taylor & Francis Online](http://www.tandfonline.com)
 *   [The Open Syllabus Project](http://opensyllabusproject.org/)
-*   [Wiley](http://eu.wiley.com)
+*   [Wiley](https://www.wiley.com)
 *   [World Digital Library](http://www.wdl.org)
 *   [World Science](http://worldwidescience.org)
 *   [Zetoc](http://zetoc.jisc.ac.uk)

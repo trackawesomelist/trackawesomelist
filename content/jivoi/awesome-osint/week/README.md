@@ -20,6 +20,10 @@
 
 *   [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
 
+### Email Search / Email Check / GitHub
+
+*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
+
 ### Domain and IP Research / GitHub
 
 *   [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
@@ -27,6 +31,10 @@
 ### Image Analysis / GitHub
 
 *   [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
+
+### Academic Resources and Grey Literature / GitHub
+
+*   [Wiley](https://www.wiley.com)
 
 ### Browsers / GitHub
 
@@ -2579,7 +2587,6 @@
 *   [Springer](http://link.springer.com)
 *   [Taylor & Francis Online](http://www.tandfonline.com)
 *   [The Open Syllabus Project](http://opensyllabusproject.org/)
-*   [Wiley](http://eu.wiley.com)
 *   [World Digital Library](http://www.wdl.org)
 *   [World Science](http://worldwidescience.org)
 *   [Zetoc](http://zetoc.jisc.ac.uk)
