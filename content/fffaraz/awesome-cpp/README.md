@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [May 23, 2026](/content/2026/05/23/README.md)
+
+### Miscellaneous
+
+*   [ffc.h (⭐186)](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast\_float library. \[Apache-2.0/BSL-1.0/MIT]
+
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
 ### Database

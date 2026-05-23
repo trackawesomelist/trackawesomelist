@@ -320,6 +320,10 @@
 
 *   [Muxy (⭐1k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
 
+### Translation Tools / Audio Record and Process
+
+*   [Live Translator (⭐14)](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Gemini. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/umutcetinkaya/live-translator) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
@@ -338,6 +342,10 @@
 
 *   [SlothDB (⭐854)](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. \[MIT] [website](https://slothdb.org/)
 *   [Zvec (⭐9.7k)](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. \[Apache2] [website](https://zvec.org/)
+
+### Miscellaneous
+
+*   [ffc.h (⭐186)](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast\_float library. \[Apache-2.0/BSL-1.0/MIT]
 
 ## [23. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -780,6 +788,10 @@
 
 ## [45. Awesome V](/content/vlang/awesome-v/week/README.md)
 
+### Command-line
+
+*   [PhoneSnatchProof (⭐1)](https://github.com/tailsmails/PhoneSnatchProof) - An FS that encrypts your app data and keeps them on RAM (with a backup).
+
 ### Web
 
 *   [Mustela (⭐0)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
@@ -861,6 +873,10 @@
 *   [Memex (⭐149)](https://github.com/memex-lab/memex) - An open-source, local-first AI journal for iOS and Android that turns text, photo and voice fragments into structured timeline cards and organizes knowledge using the P.A.R.A. methodology by [Memex Lab](https://www.memexlab.ai/).
 
 ## [49. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+
+### Platforms
+
+*   [ForestHub.ai](https://foresthub.ai) - Platform for building, deploying and orchestrating embedded and edge AI agents over MQTT. Visual builder, local runtime, generated embedded code for ESP32/STM32, hybrid edge-cloud orchestration.
 
 ### Monitoring / Firmwares for ESP based Devices
 

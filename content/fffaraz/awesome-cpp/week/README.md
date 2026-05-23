@@ -13,6 +13,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [SlothDB (⭐854)](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. \[MIT] [website](https://slothdb.org/)
 *   [Zvec (⭐9.7k)](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. \[Apache2] [website](https://zvec.org/)
 
+### Miscellaneous
+
+*   [ffc.h (⭐186)](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast\_float library. \[Apache-2.0/BSL-1.0/MIT]
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Documentation
