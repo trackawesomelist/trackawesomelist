@@ -6,6 +6,23 @@ A curated list of awesome READMEs
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [May 24, 2026](/content/2026/05/24/README.md)
+
+### Examples
+
+*   [yeaight7/awesome-ai-devtools (⭐4)](https://github.com/yeaight7/awesome-ai-devtools#readme) - Auto-Generated README built from structured metadata, with a custom SVG header, comparison matrix, category index, tool tables, and review-backed summaries.
+
+### Articles
+
+*   ["Top ten reasons why I won't use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+
+### Tools
+
+*   [GPRM (⭐958)](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - A tool to generate a customized GitHub Profile README with a modern UI.
+*   [README Typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg#readme) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
+*   [READMINE (⭐78)](https://github.com/mhucka/readmine#readme) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
+*   [user-statistician (⭐129)](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
 ### Examples
@@ -35,11 +52,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [FileShot/FileShotZKE (⭐26)](https://github.com/FileShot/FileShotZKE#readme) - Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.
-
-### Articles
-
-*   ["Top ten reasons why I wonâ€™t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+*   [FileShot/FileShotZKE (⭐27)](https://github.com/FileShot/FileShotZKE#readme) - Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -70,11 +83,6 @@ A curated list of awesome READMEs
 ### Examples
 
 *   [dsplce-co/supabase-plus (⭐69)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
-
-### Tools
-
-*   [GPRM (⭐958)](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
-*   [README Typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
 
 ## [Jul 29, 2025](/content/2025/07/29/README.md)
 
@@ -167,7 +175,7 @@ A curated list of awesome READMEs
 *   [Flutter Engine (⭐176k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
 *   [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
 *   [Linux cryptography (⭐233k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
-*   [Neovim (⭐99k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
+*   [Neovim (⭐100k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
 *   [Oh My Zsh (⭐187k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐74k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 *   [Tauri (⭐106k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
@@ -195,7 +203,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [hywax/mafl (⭐695)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐733)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 
 ## [Mar 14, 2024](/content/2024/03/14/README.md)
 
@@ -257,12 +265,6 @@ A curated list of awesome READMEs
 ### Examples
 
 *   [ankitwasankar/mftool-java (⭐50)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
-
-## [Aug 04, 2022](/content/2022/08/04/README.md)
-
-### Tools
-
-*   [user-statistician (⭐129)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
 ## [Jun 20, 2022](/content/2022/06/20/README.md)
 
@@ -358,12 +360,6 @@ A curated list of awesome READMEs
 ### Tools
 
 *   [Amazing GitHub Template (⭐684)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
-
-## [May 18, 2021](/content/2021/05/18/README.md)
-
-### Tools
-
-*   [READMINE (⭐78)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 
 ## [May 14, 2021](/content/2021/05/14/README.md)
 

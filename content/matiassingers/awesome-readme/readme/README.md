@@ -47,7 +47,7 @@ images, screenshots, GIFs, text formatting, etc.
 *   [emalderson/thephish (⭐1.3k)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 *   [eylon-44/Buzz-OS (⭐21)](https://github.com/eylon-44/Buzz-OS#readme) - Project logo. Colorful emojis. GIFs for project demo, examples, and instructions. Fast and simple copy-paste instructions for installation and usage. Pretty table of contents. A quick overview of project's main features.
 *   [feberts/python-game-server (⭐7)](https://github.com/feberts/python-game-server#readme) - A diagram that shows at a glance what the project is about. A clearly structured readme that shows everything a developer needs to know without getting lost in unnecessary details. Selected badges that only show relevant information.
-*   [FileShot/FileShotZKE (⭐26)](https://github.com/FileShot/FileShotZKE#readme) - Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.
+*   [FileShot/FileShotZKE (⭐27)](https://github.com/FileShot/FileShotZKE#readme) - Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.
 *   [github-changelog-generator/github-changelog-generator (⭐7.5k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 *   [gitpoint/git-point (⭐4.8k)](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
 *   [gofiber/fiber (⭐40k)](https://github.com/gofiber/fiber#readme) - Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
@@ -60,7 +60,7 @@ images, screenshots, GIFs, text formatting, etc.
 *   [hmpl-language/hmpl (⭐953)](https://github.com/hmpl-language/hmpl#readme) - Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.
 *   [htmlhint/HTMLHint (⭐3.3k)](https://github.com/htmlhint/HTMLHint#readme) - Centered hero animation as the masthead. Concise tagline. Useful badges (npm version, OpenSSF best practices, downloads, license). Quick navigation links. Table of contents. Sectioned installation guide for local and global use, with both ESM and CommonJS code samples.
 *   [httpie/httpie (⭐38k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-*   [hywax/mafl (⭐695)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [hywax/mafl (⭐733)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
 *   [IgorAntun/node-chat (⭐769)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 *   [iharsh234/WebApp (⭐96)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 *   [iterative/dvc (⭐16k)](https://github.com/iterative/dvc#readme) - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
@@ -109,6 +109,7 @@ images, screenshots, GIFs, text formatting, etc.
 *   [vhesener/Closures (⭐1.7k)](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color-coordinated. Clean documentation.
 *   [voltagent/voltagent (⭐8.9k)](https://github.com/voltagent/voltagent#readme) - Clean project logo. Useful badges and links (website, docs, demo). Screenshot. Clear code examples amongst the feature list. Quickstart example.
 *   [xnbox/DeepfakeHTTP (⭐527)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [yeaight7/awesome-ai-devtools (⭐4)](https://github.com/yeaight7/awesome-ai-devtools#readme) - Auto-Generated README built from structured metadata, with a custom SVG header, comparison matrix, category index, tool tables, and review-backed summaries.
 *   [yvann-ba/ft\_transcendence (⭐11)](https://github.com/yvann-ba/ft_transcendence#readme) - Minimalist Project banner, clear GIF gallery in table layout. Colorful architecture diagram. Clear tech stack description. Team section with contributor avatars.
 *   [zenml-io/zenml (⭐5.4k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
 
@@ -124,7 +125,7 @@ This can also be a dedicated section of your README.md files.
 *   [Flutter Engine (⭐176k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
 *   [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
 *   [Linux cryptography (⭐233k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
-*   [Neovim (⭐99k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
+*   [Neovim (⭐100k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
 *   [Oh My Zsh (⭐187k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐74k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 *   [Tauri (⭐106k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
@@ -136,7 +137,7 @@ This can also be a dedicated section of your README.md files.
 *   ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 *   ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 *   ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
-*   ["Top ten reasons why I wonâ€™t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+*   ["Top ten reasons why I won't use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 *   ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 *   *Architecture*
     *   ["ARCHITECTURE.md"](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - *Alex Kladov*
@@ -153,18 +154,18 @@ This can also be a dedicated section of your README.md files.
 *   [Github Licenses Stats (⭐11)](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 *   [GitHub PR Stats (⭐9)](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 *   [GitHub Readme Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
-*   [GPRM (⭐958)](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
+*   [GPRM (⭐958)](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - A tool to generate a customized GitHub Profile README with a modern UI.
 *   [Hall-of-fame (⭐952)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 *   [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 *   [README best practices (⭐938)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 *   [Readme Forge](https://readme-forge.github.io/) - A component-based README generator to create stunning READMEs with ease. Features an extensive and versatile README templates library.
 *   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
-*   [README Typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
-*   [READMINE (⭐78)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
+*   [README Typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg#readme) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
+*   [READMINE (⭐78)](https://github.com/mhucka/readmine#readme) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 *   [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 *   [Standard Readme (⭐6.3k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 *   [Telegram Card (⭐13)](https://github.com/Malith-Rukshan/telegram-card#readme) - Dynamic preview card generator for Telegram channels, groups, and bots. Features responsive design, dark/light theme support, and displays subscriber/member/monthly users/online users counts. Perfect for GitHub profiles and portfolios.
-*   [user-statistician (⭐129)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+*   [user-statistician (⭐129)](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 *   [Zalando's README Template (⭐805)](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
 
 ## Creating GIFs
