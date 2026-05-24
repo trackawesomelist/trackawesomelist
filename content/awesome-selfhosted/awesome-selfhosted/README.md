@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Razzia (⭐800)](https://github.com/Ralex91/Razzia) - Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!). `MIT` `Nodejs/Docker`
 
+### Software / Personal Dashboards
+
+*   [Nimbus](https://nimbus.turboot.com/) - Modern drag-and-drop homelab dashboard with visual editor and simple configuration. ([Demo](https://nimbus.turboot.com/), [Source Code (⭐102)](https://github.com/Turbootzz/Nimbus)) `AGPL-3.0` `Docker`
+
 ## [May 12, 2026](/content/2026/05/12/README.md)
 
 ### Software / Communication - Custom Communication Systems

@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [May 24, 2026](/content/2026/05/24/README.md)
+
+### Database
+
+*   [Doltlite (⭐107)](https://github.com/dolthub/doltlite) - Version Controlled SQLite. \[PublicDomain/Apache2]
+
 ## [May 23, 2026](/content/2026/05/23/README.md)
 
 ### Miscellaneous
