@@ -2,9 +2,15 @@
 
 A curated list of awesome Dart frameworks, libraries, and software
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yissachar/awesome-dart/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) · ⭐ 2.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/yissachar/awesome-dart/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) · ⭐ 2.5K · 🏷️ Programming Languages
 
 [ [Daily](/content/yissachar/awesome-dart/README.md) / Weekly / [Overview](/content/yissachar/awesome-dart/readme/README.md) ]
+
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### Tools
+
+*   [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
@@ -20,15 +26,15 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Server Frameworks
 
-*   [Dart Frog (⭐1.5k)](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
+*   [Dart Frog (⭐2.2k)](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
 
 ### Template
 
-*   [mason (⭐806)](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
+*   [mason (⭐1.1k)](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
 
 ### Utilities
 
-*   [Basics (⭐154)](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
+*   [Basics (⭐165)](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
 
 ### Testing
 
@@ -36,7 +42,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### IDEs, Editors, and Plugins
 
-*   [Dart Barrel File Generator (⭐23)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
+*   [Dart Barrel File Generator (⭐29)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
 
@@ -48,7 +54,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Other Frameworks
 
-*   [Rapid Open Hardware Development (ROHD) Framework (⭐272)](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
+*   [Rapid Open Hardware Development (ROHD) Framework (⭐482)](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -71,7 +77,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 ### Tools
 
 *   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
-*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+*   [m2cgen (⭐3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -83,7 +89,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Server Frameworks
 
-*   [Alfred (⭐500)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+*   [Alfred (⭐534)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -95,13 +101,13 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Crash monitoring
 
-*   [Sentry (⭐672)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+*   [Sentry (⭐859)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
 ### Unions
 
-*   [Freezed (⭐1.6k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+*   [Freezed (⭐2.2k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ### Tutorials
 
@@ -117,7 +123,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Tools
 
-*   [Stagehand (⭐660)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+*   [Stagehand (⭐646)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
@@ -133,39 +139,39 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Server Frameworks
 
-*   [Jaguar (⭐458)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
+*   [Jaguar (⭐469)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
 *   [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     *   There are many packages written for Shelf. By convention they start with [shelf\_](https://pub.dartlang.org/search?q=shelf_).
-*   [Vane (⭐59)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
-*   [Rikulo Stream (⭐233)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+*   [Vane (⭐61)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
+*   [Rikulo Stream (⭐236)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 
 ### Game Development
 
-*   [Flame (⭐8.1k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
+*   [Flame (⭐11k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
 
 ### Database
 
-*   [PostgreSQL (⭐84)](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
+*   [PostgreSQL (⭐85)](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
 
 ### Tools
 
 *   [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
-*   [js2dart (⭐60)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
-*   [webdev\_proxy (⭐11)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐205)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+*   [js2dart (⭐63)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
+*   [webdev\_proxy (⭐11)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐224)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 
 ### IDEs, Editors, and Plugins
 
-*   [Sublime Text Package (⭐263)](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package.
-*   [Emacs Plugin (⭐9)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
-*   [Vim Plugin (⭐626)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
+*   [Sublime Text Package (⭐262)](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package.
+*   [Emacs Plugin (⭐22)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
+*   [Vim Plugin (⭐653)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
 ## [Jun 17 - Jun 23, 2019](/content/2019/24/README.md)
 
 ### Cross-platform development
 
-*   [universal\_io (⭐82)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
-*   [universal\_html (⭐170)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
+*   [universal\_io (⭐101)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
+*   [universal\_html (⭐0)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -183,13 +189,13 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Dependency Injection
 
-*   [package: inject (⭐867)](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
+*   [package: inject (⭐863)](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
 
 ## [Nov 12 - Nov 18, 2018](/content/2018/46/README.md)
 
 ### Dependency Injection
 
-*   [Dependencies (⭐30)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
+*   [Dependencies (⭐31)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
 
@@ -229,10 +235,10 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Utilities
 
-*   [built\_collection (⭐270)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
-*   [built\_value (⭐842)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
-*   [Quiver (⭐953)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-*   [route\_hierarchical (⭐29)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
+*   [built\_collection (⭐283)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
+*   [built\_value (⭐885)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
+*   [Quiver (⭐1.1k)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+*   [route\_hierarchical (⭐30)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
 
@@ -276,20 +282,20 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Database
 
-*   [Postgres (⭐130)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
+*   [Postgres (⭐128)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 
 ## [May 23 - May 29, 2016](/content/2016/21/README.md)
 
 ### Tools
 
-*   [dev\_compiler (⭐136)](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
+*   [dev\_compiler (⭐131)](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
 ### Parsers
 
-*   [markdown (⭐409)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
-*   [PetitParser (⭐419)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+*   [markdown (⭐473)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
+*   [PetitParser (⭐484)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 *   [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 *   [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 
@@ -334,7 +340,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Image
 
-*   [image (⭐1k)](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+*   [image (⭐1.3k)](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## [Apr 20 - Apr 26, 2015](/content/2015/16/README.md)
 
@@ -352,7 +358,7 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Validation
 
-*   [validator.dart (⭐65)](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+*   [validator.dart](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## [Nov 17 - Nov 23, 2014](/content/2014/46/README.md)
 
@@ -364,37 +370,37 @@ A curated list of awesome Dart frameworks, libraries, and software
 
 ### Game Development
 
-*   [Ranger (⭐25)](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
+*   [Ranger (⭐26)](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## [Oct 13 - Oct 19, 2014](/content/2014/41/README.md)
 
 ### Testing
 
-*   [Guinness (⭐43)](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
+*   [Guinness (⭐42)](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 
 ## [Aug 25 - Aug 31, 2014](/content/2014/34/README.md)
 
 ### Server Frameworks
 
-*   [Start (⭐531)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+*   [Start (⭐530)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 
 ### Game Development
 
 *   [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
-*   [Pixi Dart (⭐36)](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
+*   [Pixi Dart (⭐35)](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 
 ### Animation
 
-*   [Universal Tween Engine (⭐33)](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
-*   [Spine Dart (⭐19)](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
+*   [Universal Tween Engine (⭐35)](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
+*   [Spine Dart (⭐22)](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
 
 ### Template
 
-*   [jaded (⭐42)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+*   [jaded (⭐43)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ### Database
 
-*   [SQLJockey (⭐20)](https://github.com/jamesots/sqljocky) - MySQL connector.
+*   [SQLJockey (⭐21)](https://github.com/jamesots/sqljocky) - MySQL connector.
 
 ### Package Managers
 
