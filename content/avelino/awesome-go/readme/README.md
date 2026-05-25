@@ -239,7 +239,7 @@ Please take a quick gander at the [contribution guidelines (⭐172k)](https://gi
 *   [hotplex (⭐10)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 *   [langchaingo (⭐9.2k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 *   [langgraphgo (⭐250)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
-*   [LocalAI (⭐46k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [localaik (⭐10)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
 *   [Ollama (⭐171k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 *   [OllamaFarm (⭐97)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
@@ -578,7 +578,7 @@ Please take a quick gander at the [contribution guidelines (⭐172k)](https://gi
 *   [muffet (⭐2.6k)](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives (⭐3.6k)](https://github.com/lycheeverse/lychee#features).
 *   [overalls (⭐116)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
 *   [roveralls (⭐21)](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
-*   [woodpecker (⭐7k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 **[⬆ back to top](#contents)**
 
@@ -1202,7 +1202,7 @@ additional ordered map implementations.
 *   [baraka (⭐65)](https://github.com/xis/baraka) - A library to process http file uploads easily.
 *   [checksum (⭐114)](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 *   [copy (⭐772)](https://github.com/otiai10/copy) - Copy directory recursively.
-*   [fastwalk (⭐137)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐80k)](https://github.com/junegunn/fzf)).
+*   [fastwalk (⭐137)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐81k)](https://github.com/junegunn/fzf)).
 *   [flop (⭐35)](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 *   [gdu (⭐5.6k)](https://github.com/dundee/gdu) - Disk usage analyzer with console interface.
 *   [go-csv-tag (⭐131)](https://github.com/artonge/go-csv-tag) - Load csv file using tag.
@@ -2461,7 +2461,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 ## Server Applications
 
 *   [algernon (⭐3k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐72k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐73k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐138)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.5k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -2485,7 +2485,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [nginx-prometheus (⭐43)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
 *   [OpenRun (⭐831)](https://github.com/openrundev/openrun) - Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.
-*   [pocketbase (⭐58k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [pocketbase (⭐59k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 *   [protoxy (⭐35)](https://github.com/camgraff/protoxy) - A proxy server that converts JSON request bodies to Protocol Buffers.
 *   [psql-streamer (⭐61)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
@@ -2921,7 +2921,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 *   [filler (⭐18)](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
 *   [filter (⭐151)](https://github.com/gookit/filter) - provide filtering, sanitizing, and conversion of Go data.
-*   [fzf (⭐80k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
+*   [fzf (⭐81k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐31)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐53)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 *   [git-time-metric (⭐1k)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
@@ -3301,6 +3301,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [Cadence-client (⭐376)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 *   [Dagu (⭐3.4k)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Flowbaker](https://github.com/flowbaker/flowbaker) - Self-hosted execution engine for building, connecting, and automating no-code workflows.
 *   [go-dag (⭐37)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 *   [go-taskflow (⭐626)](https://github.com/noneback/go-taskflow) - A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler.
 *   [workflow (⭐235)](https://github.com/luno/workflow) - A tech stack agnostic Event Driven Workflow framework.
@@ -3324,7 +3325,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [Cosign (⭐5.9k)](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
 *   [in-toto (⭐150)](https://github.com/in-toto/in-toto-golang) - Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation.
-*   [OpenZiti (⭐4.1k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐124)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐44)](https://github.com/openziti-test-kitchen/zssh)
+*   [OpenZiti (⭐4.2k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐124)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐44)](https://github.com/openziti-test-kitchen/zssh)
 *   [Spiffe-Vault (⭐99)](https://github.com/philips-labs/spiffe-vault) - Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication.
 *   [Spire (⭐2.3k)](https://github.com/spiffe/spire) - SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms.
 
@@ -3357,6 +3358,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [php-parser (⭐959)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
 *   [revive (⭐5.5k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
 *   [staticcheck (⭐6.8k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
+*   [structalign (⭐1)](https://github.com/peczenyj/structalign) - Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.
 *   [stto (⭐45)](https://github.com/mainak55512/stto) - A light-weight superfast line of code counter written in pure Go.
 *   [testifylint (⭐169)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐26k)](https://github.com/stretchr/testify).
 *   [tickgit (⭐324)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
@@ -3456,7 +3458,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [chaosmonkey (⭐17k)](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
 *   [colima (⭐29k)](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup.
 *   [Ddosify (⭐8.5k)](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-*   [decompose (⭐132)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 *   [Den (⭐6)](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [dish (⭐276)](https://github.com/thevxn/dish) - A lightweight, remotely configurable monitoring service.
@@ -3501,7 +3503,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [kepfi (⭐12)](https://github.com/Knuspii/kepfi) - A smart alternative to rm with a recovery bin and storage tracking.
 *   [kind (⭐15k)](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 *   [ko (⭐8.4k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
-*   [kool (⭐716)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
+*   [kool](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubeblocks (⭐3k)](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 *   [kubefwd (⭐4.1k)](https://github.com/txn2/kubefwd) - Bulk Kubernetes port forwarding with unique IPs per service for local development.
 *   [kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
@@ -3610,7 +3612,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.8k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 *   [portal (⭐1.8k)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
-*   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
+*   [restic (⭐34k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐744)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
 *   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐22)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.

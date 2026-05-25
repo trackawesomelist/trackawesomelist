@@ -6,6 +6,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
+*   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
@@ -89,7 +96,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f\&tab=-1) - Exterior views for residential property listings.
-*   [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 *   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 *   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 *   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.

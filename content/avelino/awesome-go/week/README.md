@@ -16,6 +16,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [GOKe (⭐35)](https://github.com/kjkrol/goke) - Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned chunked SoA layout for predictable, stepless memory growth and zero-allocation execution paths.
 
+### Workflow Frameworks / Libraries for creating HTTP middlewares
+
+*   [Flowbaker](https://github.com/flowbaker/flowbaker) - Self-hosted execution engine for building, connecting, and automating no-code workflows.
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [structalign (⭐1)](https://github.com/peczenyj/structalign) - Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [tldx (⭐1.8k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
@@ -917,7 +925,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### File Handling
 
-*   [fastwalk (⭐137)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐80k)](https://github.com/junegunn/fzf)).
+*   [fastwalk (⭐137)](https://github.com/charlievieth/fastwalk) - Fast parallel directory traversal library (used by [fzf (⭐81k)](https://github.com/junegunn/fzf)).
 
 ### Job Scheduler
 
@@ -1315,7 +1323,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Zero Trust / Libraries for creating HTTP middlewares
 
-*   [OpenZiti (⭐4.1k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐124)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐44)](https://github.com/openziti-test-kitchen/zssh)
+*   [OpenZiti (⭐4.2k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐124)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐44)](https://github.com/openziti-test-kitchen/zssh)
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
@@ -1820,7 +1828,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [gondola (⭐10)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
-*   [pocketbase (⭐58k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [pocketbase (⭐59k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 
 ### Mock
 
@@ -2221,7 +2229,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Artificial Intelligence
 
 *   [langchaingo (⭐9.2k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [LocalAI (⭐46k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [Ollama (⭐171k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 
 ### Email
@@ -2250,7 +2258,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐132)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -2956,7 +2964,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Continuous Integration
 
 *   [gotestfmt (⭐597)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
-*   [woodpecker (⭐7k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Date and Time
 
@@ -5162,7 +5170,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [algernon (⭐3k)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-*   [Caddy (⭐72k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+*   [Caddy (⭐73k)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 *   [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [cortex-tenant (⭐138)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 *   [devd (⭐3.5k)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -5341,7 +5349,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 *   [filler (⭐18)](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
 *   [filter (⭐151)](https://github.com/gookit/filter) - provide filtering, sanitizing, and conversion of Go data.
-*   [fzf (⭐80k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
+*   [fzf (⭐81k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐31)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐53)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 *   [git-time-metric (⭐1k)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
@@ -5709,7 +5717,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [jcli (⭐418)](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 *   [kala (⭐2.2k)](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 *   [kcli (⭐222)](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
-*   [kool (⭐716)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
+*   [kool](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 *   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
@@ -5781,7 +5789,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Orbit (⭐187)](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 *   [peg (⭐1.1k)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.8k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
-*   [restic (⭐33k)](https://github.com/restic/restic) - De-duplicating backup program.
+*   [restic (⭐34k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [scc (⭐8.4k)](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 *   [Seaweed File System (⭐22)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 *   [shell2http (⭐1.5k)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).

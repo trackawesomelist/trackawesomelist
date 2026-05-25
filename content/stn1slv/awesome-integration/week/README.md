@@ -6,12 +6,51 @@ A curated list of awesome system integration software and resources.
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [May 25 - May 31, 2026](/content/2026/21/README.md)
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐417) (⭐416)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-*   [WSO2 API Manager (⭐980) (⭐979)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐416) (⭐416)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐981) (⭐979)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+### Projects / API Documentation
+
+*   [Zudoku (⭐536) (⭐531)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Gateway
+
+*   [Higress (⭐8.4k) (⭐8.5k)](https://github.com/higress-group/higress) - A next-generation cloud-native gateway based on Envoy and Istio, offering high performance, easy-to-use, and rich plugin extensibility.
+
+### Projects / Data Integration
+
+*   [Estuary Flow (⭐927) (⭐922)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+
+### Projects / Data Mapping Solution
+
+*   [DataSonnet (⭐37)](https://github.com/datasonnet/datasonnet-mapper) - A template-based data transformation library built on Jsonnet, tailored for system integration.
+
+### Projects / Enterprise Service Bus
+
+*   [WSO2 Enterprise Integrator (⭐399) (⭐400)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+
+### Projects / Message Broker
+
+*   [LavinMQ (⭐950) (⭐943)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐189k) (⭐188k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Resources / API Specification
+
+*   [Arazzo Specification (⭐433) (⭐433)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
+*   [TypeSpec (⭐5.7k) (⭐5.7k)](https://github.com/microsoft/typespec) - A highly extensible language for describing API data shapes and protocols, capable of compiling to OpenAPI, JSON Schema, Protobuf, and other formats.
+
+### Resources / Data Formats
+
+*   [YAML (⭐471) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Projects / API Design
 
@@ -22,45 +61,24 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Documentation
 
 *   [OpenAPI Explorer (⭐345) (⭐344)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
-*   [Zudoku (⭐534) (⭐531)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
 *   [Envoy Gateway (⭐2.7k) (⭐2.7k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
 *   [Gloo Edge (⭐161) (⭐161)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 
-### Projects / Data Integration
-
-*   [Estuary Flow (⭐924) (⭐922)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
-
 ### Projects / Data Mapping Solution
 
 *   [AtlasMap (⭐212) (⭐211)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
 *   [JSLT (⭐693) (⭐693)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
 
-### Projects / Enterprise Service Bus
-
-*   [WSO2 Enterprise Integrator (⭐400) (⭐400)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
-
 ### Projects / Integration Frameworks
 
 *   [Apache Camel (⭐6.2k) (⭐6.2k)](https://github.com/apache/camel) - Robust integration framework leveraging Enterprise Integration Patterns to seamlessly connect diverse systems and APIs.
 
-### Projects / Message Broker
-
-*   [LavinMQ (⭐944) (⭐943)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
-
-### Projects / Self-Service Integration
-
-*   [n8n (⭐188k) (⭐188k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
-
 ### Projects / Workflow Engine
 
 *   [Cadence (⭐9.3k) (⭐9.3k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
-
-### Resources / Data Formats
-
-*   [YAML (⭐467) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -432,8 +450,9 @@ A curated list of awesome system integration software and resources.
 
 *   Mocking tools
     *   [Hoverfly (⭐2.4k) (⭐2.5k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-    *   [Imposter (⭐408) (⭐408)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Imposter (⭐407) (⭐408)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
     *   [Microcks (⭐1.9k) (⭐1.9k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
+    *   [Mock Service Worker (MSW) (⭐17k) (⭐18k)](https://github.com/mswjs/msw) - A seamless API mocking library for browser and Node.js that intercepts requests at the network level.
     *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
     *   [Mockbin (⭐140) (⭐140)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
     *   [Mockoon (⭐8.2k) (⭐8.3k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
@@ -557,7 +576,7 @@ A curated list of awesome system integration software and resources.
 *   API clients
     *   [Advanced REST Client (⭐1.4k) (⭐1.5k)](https://github.com/advanced-rest-client/arc-electron) - A robust open-source API client for testing and debugging RESTful services with an intuitive interface.
     *   [Bruno (⭐44k) (⭐44k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
-    *   [curl (⭐41k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
     *   [curlie (⭐3.6k) (⭐3.6k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
     *   [gRPC UI (⭐5.8k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
     *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
@@ -1100,7 +1119,7 @@ A curated list of awesome system integration software and resources.
 *   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-    *   [NDJSON (⭐822) (⭐821)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+    *   [NDJSON (⭐826) (⭐821)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
     *   [JSON Lines](https://jsonlines.org/) - A text format for storing structured data one record per line.
     *   [JSON Text Sequence](https://datatracker.ietf.org/doc/html/rfc7464) - Defined in RFC 7464, describe a specific format for transmitting or storing a sequence of individual JSON texts.
 

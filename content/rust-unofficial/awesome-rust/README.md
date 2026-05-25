@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 25, 2026](/content/2026/05/25/README.md)
+
+### Applications / Web
+
+*   [konippi/servo-fetch (⭐107)](https://github.com/konippi/servo-fetch) - A self-contained browser engine that fetches, renders, and extracts web content as Markdown, JSON, or screenshots — no Chromium, no API key. CLI, Python, MCP server. [![CI](https://github.com/konippi/servo-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/konippi/servo-fetch/actions/workflows/ci.yml)
+
+### Libraries / Parsing
+
+*   [firecrawl/pdf-inspector (⭐1.3k)](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF classification and text extraction.
+
 ## [May 24, 2026](/content/2026/05/24/README.md)
 
 ### Applications / Productivity
@@ -1197,7 +1207,7 @@ A curated list of Rust code and resources.
 
 *   [clash-verge-rev/clash-verge-rev (⭐118k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
 *   [Edit (⭐14k)](https://github.com/microsoft/edit) - A simple editor for simple needs. [![CI](https://github.com/microsoft/edit/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/edit/actions/workflows/ci.yml)
-*   [Saga Reader (⭐508)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐521)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ### Applications / Blockchain
 
@@ -1627,7 +1637,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [TrailBase (⭐5.1k)](https://github.com/trailbaseio/trailbase) - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test)
+*   [TrailBase (⭐5.2k)](https://github.com/trailbaseio/trailbase) - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test)
 
 ### Applications / Text processing
 
@@ -3124,7 +3134,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Sniffnet (⭐37k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐38k)](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 25, 2026](/content/2026/05/25/README.md)
+
+### APIs, Data, and ML
+
+*   [vatnode](https://vatnode.dev) - EU VAT number validation REST API with VIES and national tax-registry fallback, returning the official VIES consultation number for audit records. Free tier of 100 validations/month, no credit card.
+
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### APIs, Data, and ML
