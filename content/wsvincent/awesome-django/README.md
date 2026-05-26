@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [May 26, 2026](/content/2026/05/26/README.md)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Upsun](https://upsun.com)
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Third-Party Packages / Configuration
@@ -488,7 +494,6 @@ A curated list of awesome things related to Django
 *   [Dokku](https://dokku.com)
 *   [Divio](https://www.divio.com)
 *   [Heroku](https://www.heroku.com)
-*   [Platform.sh](https://platform.sh)
 *   [Railway](https://railway.app)
 *   [Render](https://render.com)
 
@@ -993,7 +998,7 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Task Queues
 
 *   [django-rq (⭐1.9k)](https://github.com/rq/django-rq) - Integration for Redis Queue.
-*   [celery (⭐28k)](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+*   [celery (⭐29k)](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 
 ### Third-Party Packages / Testing
 

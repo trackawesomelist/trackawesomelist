@@ -2,21 +2,27 @@
 
 :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/veelenga/awesome-crystal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) · ⭐ 3.5K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/veelenga/awesome-crystal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) · ⭐ 3.6K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
+
+## [May 26, 2026](/content/2026/05/26/README.md)
+
+### Implementations/Compilers
+
+*   [GiavaScript (⭐1)](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
 
 ## [Apr 19, 2026](/content/2026/04/19/README.md)
 
 ### HTTP
 
-*   [cryload (⭐183)](https://github.com/sdogruyol/cryload) - cryload is a powerful, fast, and practical HTTP benchmarking tool for stress testing APIs and web services
+*   [cryload (⭐199)](https://github.com/sdogruyol/cryload) - cryload is a powerful, fast, and practical HTTP benchmarking tool for stress testing APIs and web services
 
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
 ### Misc
 
-*   [lua.cr (⭐65)](https://github.com/veelenga/lua.cr) - Bindings to liblua and a wrapper around it
+*   [lua.cr (⭐68)](https://github.com/veelenga/lua.cr) - Bindings to liblua and a wrapper around it
 *   [luajit.cr (⭐7)](https://github.com/mdwagner/luajit.cr) - LuaJIT bindings for Crystal
 
 ## [Mar 26, 2026](/content/2026/03/26/README.md)
@@ -33,7 +39,7 @@
 
 ### ORM/ODM Extensions
 
-*   [lustra (⭐22)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
+*   [lustra (⭐24)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
 
 ## [Feb 08, 2026](/content/2026/02/08/README.md)
 
@@ -60,7 +66,7 @@
 ### Security
 
 *   [cyclonedx-cr (⭐5)](https://github.com/hahwul/cyclonedx-cr) - CycloneDX SBOM(Software Bill of Materials) generator for Crystal projects
-*   [OWASP Noir (⭐1.2k)](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis
+*   [OWASP Noir (⭐1.3k)](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis
 *   [XSSMaze (⭐32)](https://github.com/hahwul/xssmaze) - XSSMaze is a web service that tests security tools using diverse XSS cases
 
 ## [Jul 29, 2025](/content/2025/07/29/README.md)
@@ -85,7 +91,7 @@
 
 ### HTML/XML Parsing
 
-*   [lexbor (⭐112)](https://github.com/kostya/lexbor) - Fast HTML5 Parser that includes CSS selectors
+*   [lexbor (⭐113)](https://github.com/kostya/lexbor) - Fast HTML5 Parser that includes CSS selectors
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -115,7 +121,7 @@
 
 ### Testing
 
-*   [selenium.cr (⭐26)](https://github.com/crystal-loot/selenium.cr) - Selenium client for interacting with web pages for browser automation
+*   [selenium.cr (⭐27)](https://github.com/crystal-loot/selenium.cr) - Selenium client for interacting with web pages for browser automation
 
 ### Unofficial
 
@@ -126,7 +132,7 @@
 
 ### Markdown/Text Processors
 
-*   [cr-cmark-gfm (⭐21)](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
+*   [cr-cmark-gfm (⭐22)](https://github.com/amauryt/cr-cmark-gfm) -  Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown
 
 ## [Mar 15, 2024](/content/2024/03/15/README.md)
 
@@ -184,7 +190,7 @@
 
 ### HTML Builders
 
-*   [blueprint (⭐80)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
+*   [blueprint (⭐83)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -264,7 +270,7 @@
 
 ### CLI Utils
 
-*   [hetzner-k3s (⭐3.5k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
+*   [hetzner-k3s (⭐3.6k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
@@ -280,13 +286,13 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐30)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐31)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [Nov 24, 2022](/content/2022/11/24/README.md)
 
 ### Web Frameworks
 
-*   [marten (⭐470)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+*   [marten (⭐473)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
@@ -307,13 +313,13 @@
 
 ### GUI Development
 
-*   [GTK4.cr (⭐122)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐123)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [Aug 27, 2022](/content/2022/08/27/README.md)
 
 ### Network Protocols
 
-*   [mqtt-client.cr (⭐5)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+*   [mqtt-client.cr (⭐6)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
 ## [Jul 14, 2022](/content/2022/07/14/README.md)
 
@@ -332,7 +338,7 @@
 
 ### Processes and Threads
 
-*   [concurrent.cr (⭐49)](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
+*   [concurrent.cr (⭐50)](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
 
 ## [Apr 10, 2022](/content/2022/04/10/README.md)
 
@@ -344,8 +350,8 @@
 
 ### C bindings
 
-*   [fftw.cr (⭐12)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
-*   [wasmer-crystal (⭐98)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+*   [fftw.cr (⭐13)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
+*   [wasmer-crystal (⭐101)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
 
 ## [Dec 09, 2021](/content/2021/12/09/README.md)
 
@@ -397,7 +403,7 @@
 
 ### Internationalization
 
-*   [Lens (⭐18)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
+*   [Lens (⭐19)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
 
 ## [Aug 26, 2021](/content/2021/08/26/README.md)
 
@@ -442,7 +448,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐206)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐34k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐206)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐35k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
@@ -460,11 +466,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐177)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐176)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐244)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐245)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -477,7 +483,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐512)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐509)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 
@@ -531,13 +537,13 @@
 *   Acme:
     *   [acmecrystal (⭐6)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐53)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐54)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [Feb 27, 2021](/content/2021/02/27/README.md)
 
 ### Misc
 
-*   [anyolite (⭐180)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐179)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
@@ -553,7 +559,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐330)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐331)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [Dec 08, 2020](/content/2020/12/08/README.md)
 
@@ -585,7 +591,7 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐19k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐20k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [Nov 01, 2020](/content/2020/11/01/README.md)
 
@@ -595,7 +601,7 @@
 
 ### Processes and Threads
 
-*   [werk (⭐30)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+*   [werk (⭐31)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## [Oct 31, 2020](/content/2020/10/31/README.md)
 
@@ -607,13 +613,13 @@
 
 ### Configuration
 
-*   [Envy (⭐10)](https://github.com/grottopress/envy) - Load environment variables from YAML
+*   [Envy (⭐11)](https://github.com/grottopress/envy) - Load environment variables from YAML
 
 ## [Oct 16, 2020](/content/2020/10/16/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐292)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐291)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [Sep 26, 2020](/content/2020/09/26/README.md)
 
@@ -636,11 +642,11 @@
 ### Game Development
 
 *   [crystal-chipmunk (⭐45)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐18)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐72k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-imgui-sfml (⭐18)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐73k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐76)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐72k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐77)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐73k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ## [Sep 04, 2020](/content/2020/09/04/README.md)
 
@@ -721,7 +727,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐231)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐232)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [Jun 08, 2020](/content/2020/06/08/README.md)
 
@@ -741,7 +747,7 @@
 
 ### Third-party APIs
 
-*   [stripe.cr (⭐52)](https://github.com/confact/stripe.cr) - Stripe api wrapper
+*   [stripe.cr (⭐51)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
 ## [May 25, 2020](/content/2020/05/25/README.md)
 
@@ -763,7 +769,7 @@
 
 ### Environment Management
 
-*   [crenv (⭐237)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐238)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [May 04, 2020](/content/2020/05/04/README.md)
 
@@ -835,7 +841,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐73)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐74)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ## [Mar 23, 2020](/content/2020/03/23/README.md)
 
@@ -847,7 +853,7 @@
 
 ### Validation
 
-*   [validator (⭐30)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐31)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## [Mar 12, 2020](/content/2020/03/12/README.md)
 
@@ -859,13 +865,13 @@
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐47)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐49)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [Feb 06, 2020](/content/2020/02/06/README.md)
 
 ### HTML Builders
 
-*   [Water (⭐30)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐31)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
@@ -884,7 +890,7 @@
 
 ### Shell plugins
 
-*   [crystal-zsh (⭐27)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
+*   [crystal-zsh (⭐28)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 
 ## [Jan 06, 2020](/content/2020/01/06/README.md)
 
@@ -988,7 +994,7 @@
 
 ### CLI Utils
 
-*   [tablo (⭐38)](https://github.com/hutou/tablo) - A flexible terminal table generator
+*   [tablo (⭐39)](https://github.com/hutou/tablo) - A flexible terminal table generator
 
 ### Misc
 
@@ -1016,7 +1022,7 @@
 
 ### Queues and Messaging
 
-*   [NATS.io (⭐45)](https://github.com/nats-io/nats.cr) - NATS client
+*   [NATS.io (⭐46)](https://github.com/nats-io/nats.cr) - NATS client
 
 ## [Sep 03, 2019](/content/2019/09/03/README.md)
 
@@ -1028,13 +1034,13 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐557)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐559)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [Jul 30, 2019](/content/2019/07/30/README.md)
 
 ### HTTP
 
-*   [Cable (⭐132)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐134)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [Jul 15, 2019](/content/2019/07/15/README.md)
 
@@ -1044,7 +1050,7 @@
 
 ### Misc
 
-*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐48)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
@@ -1104,7 +1110,7 @@
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐75)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐74)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [Apr 08, 2019](/content/2019/04/08/README.md)
 
@@ -1128,7 +1134,7 @@
 
 ### Data Formats
 
-*   [BinData (⭐48)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐49)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [Mar 05, 2019](/content/2019/03/05/README.md)
 
@@ -1219,13 +1225,13 @@
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐44)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐45)](https://github.com/mamantoha/shards-info)
 
 ## [Oct 02, 2018](/content/2018/10/02/README.md)
 
 ### Data Formats
 
-*   [toml.cr (⭐65)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐66)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [Sep 26, 2018](/content/2018/09/26/README.md)
 
@@ -1305,7 +1311,7 @@
 
 ### Shell plugins
 
-*   [crun (⭐47)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐48)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [Aug 08, 2018](/content/2018/08/08/README.md)
 
@@ -1420,7 +1426,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐308)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐307)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [Apr 07, 2018](/content/2018/04/07/README.md)
 
@@ -1486,7 +1492,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐189)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐191)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [Feb 18, 2018](/content/2018/02/18/README.md)
 
@@ -1522,7 +1528,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐194)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐195)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [Dec 04, 2017](/content/2017/12/04/README.md)
 
@@ -1550,7 +1556,7 @@
 
 ### HTTP
 
-*   [crest (⭐247)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐248)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [Oct 22, 2017](/content/2017/10/22/README.md)
 
@@ -1586,7 +1592,7 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐304)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐308)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ## [Sep 22, 2017](/content/2017/09/22/README.md)
 
@@ -1626,7 +1632,7 @@
 
 ### Examples and funny stuff
 
-*   [exercism-crystal (⭐79)](https://github.com/exercism/crystal) - Exercism exercises
+*   [exercism-crystal (⭐78)](https://github.com/exercism/crystal) - Exercism exercises
 
 ### Game Development
 
@@ -1643,15 +1649,15 @@
 ### Network Protocols
 
 *   [jwt (⭐212)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
-*   [msgpack-crystal (⭐146)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+*   [msgpack-crystal (⭐147)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐790)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐788)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
-*   [kemal (⭐3.8k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+*   [kemal (⭐3.9k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
@@ -1668,9 +1674,9 @@
 *   Sublime
     *   [sublime-crystal (⭐90)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
 *   TextMate
-    *   [Crystal.tmbundle (⭐19)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
+    *   [Crystal.tmbundle (⭐20)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐426)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐428)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐13)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
     *   [vscode-crystal-lang (⭐300)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
@@ -1685,7 +1691,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐424)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐425)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [Aug 01, 2017](/content/2017/08/01/README.md)
 
@@ -1703,7 +1709,7 @@
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐89)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐90)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ## [Jul 13, 2017](/content/2017/07/13/README.md)
 
@@ -1713,7 +1719,7 @@
 
 ### Email
 
-*   [crystal-email (⭐114)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐115)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ## [Jul 12, 2017](/content/2017/07/12/README.md)
 
@@ -1737,7 +1743,7 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐115)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐116)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ## [May 23, 2017](/content/2017/05/23/README.md)
 
@@ -1777,7 +1783,7 @@
 
 ### Routing
 
-*   [router.cr (⭐271)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐272)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [May 08, 2017](/content/2017/05/08/README.md)
 
@@ -1871,7 +1877,7 @@
 
 ### CLI Builders
 
-*   [admiral (⭐142)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐144)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [Jan 21, 2017](/content/2017/01/21/README.md)
 
@@ -1944,13 +1950,13 @@
 ### Template Engine
 
 *   [Kilt (⭐152)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐236)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐235)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ## [Aug 08, 2016](/content/2016/08/08/README.md)
 
 ### Configuration
 
-*   [cr-dotenv (⭐99)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐100)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Web Frameworks
 
@@ -2019,7 +2025,7 @@
 
 ### CLI Builders
 
-*   [commander (⭐128)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐130)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ## [May 26, 2016](/content/2016/05/26/README.md)
 
@@ -2029,7 +2035,7 @@
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐776)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐778)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [May 04, 2016](/content/2016/05/04/README.md)
 
@@ -2041,17 +2047,17 @@
 
 ### HTTP
 
-*   [http2 (⭐105)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐106)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 
-*   [crustache (⭐87)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐88)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ## [Mar 27, 2016](/content/2016/03/27/README.md)
 
 ### Misc
 
-*   [immutable (⭐204)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐203)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
@@ -2079,13 +2085,13 @@
 
 ### Data Generators
 
-*   [faker (⭐157)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐158)](https://github.com/askn/faker) - A library for generating fake data
 
 ## [Dec 27, 2015](/content/2015/12/27/README.md)
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐379)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
@@ -2093,7 +2099,7 @@
 
 ### Testing
 
-*   [minitest.cr (⭐151)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐153)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
 ## [Jul 20, 2015](/content/2015/07/20/README.md)
 
@@ -2115,7 +2121,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐481)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐480)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 

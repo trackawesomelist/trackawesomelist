@@ -352,7 +352,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-q2 (⭐601)](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 *   [django-rq (⭐1.9k)](https://github.com/rq/django-rq) - Integration for Redis Queue.
 *   [django-redis (⭐3.1k)](https://github.com/jazzband/django-redis) - Full-featured Redis cache backend for Django.
-*   [celery (⭐28k)](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+*   [celery (⭐29k)](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 *   [flower (⭐7.2k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 *   [django-celery-beat (⭐1.9k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 *   [celery-exporter (⭐543)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
@@ -543,7 +543,7 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 *   [Heroku](https://www.heroku.com)
 *   [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 *   [Piku (⭐6.6k)](https://github.com/piku/piku)
-*   [Platform.sh](https://platform.sh)
+*   [Upsun](https://upsun.com)
 *   [PythonAnywhere](https://www.pythonanywhere.com)
 *   [Railway](https://railway.app)
 *   [Render](https://render.com)

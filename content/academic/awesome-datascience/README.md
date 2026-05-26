@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [May 26, 2026](/content/2026/05/26/README.md)
+
+### Research & Knowledge Retrieval
+
+*   [II-Commons (⭐2)](https://github.com/Intelligent-Internet/II-Commons-Skills) - Daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
+
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
 ### Tutorials
@@ -44,7 +50,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [Chunk Tuner (⭐0)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
+*   [Chunk Tuner (⭐1)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
 
 ### Free Courses
 
@@ -54,7 +60,7 @@
 
 ### Tools
 
-*   [CAJAL (⭐11)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
+*   [CAJAL (⭐17)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
@@ -1634,7 +1640,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐11k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐297k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐299k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.5k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐18k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

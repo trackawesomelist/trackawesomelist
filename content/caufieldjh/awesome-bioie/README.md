@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/caufieldjh/awesome-bioie/week/README.md) / [Overview](/content/caufieldjh/awesome-bioie/readme/README.md) ]
 
+## [May 26, 2026](/content/2026/05/26/README.md)
+
+### Tools, Platforms, and Services / Repos for Specific Datasets
+
+*   [II-Commons (⭐2)](https://github.com/Intelligent-Internet/II-Commons-Skills) - A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Research Overviews / Pre-LLM Overviews

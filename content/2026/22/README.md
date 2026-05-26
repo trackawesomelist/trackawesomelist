@@ -1,12 +1,99 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2026
 
-15 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [1. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+
+### Implementations/Compilers
+
+*   [GiavaScript (⭐1)](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Upsun](https://upsun.com)
+
+## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Books
+
+- API: [Amanah Sunnah](https://sunnah.amanahagent.cloud/developers)
+
+  Description: Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [HackMyIP](https://hackmyip.com/api)
+
+  Description: IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [Orizn Visa](https://visa.orizn.app)
+
+  Description: Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+
+### Tools, Platforms, and Services / Repos for Specific Datasets
+
+*   [II-Commons (⭐2)](https://github.com/Intelligent-Internet/II-Commons-Skills) - A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.
+
+## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+
+### Development
+
+*   [feather (⭐31)](https://github.com/Kyonru/feather) - Extensible Development Toolkit for LÖVE. Step by step debugger, hot reloading, remote log inspection, easy android and ios development builds, assisted release and upload, shader graph, particle system playground, and more!
+
+### Platforms
+
+*   [lovejs-player](https://codeberg.org/alexjgriffith/lovejs-player) - LÖVE ported to the web using Emscripten.
+*   [Lutro](https://lutro.libretro.com/) - Portable game engine implementing a subset of the LÖVE API for retro games, runnable through RetroArch on many platforms.
+
+### UI
+
+*   [LuaJIT-ImGui (⭐293)](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.
+
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Plugins / Navigation
+
+*   [Menu plugin (⭐3)](https://github.com/dereuromark/cakephp-menu) - Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.
+
+### Software / Development Environment
+
+*   [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
+
+## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Popular AI Tools
 
@@ -17,13 +104,13 @@
 *   [Github Wiki Generator (⭐13)](https://github.com/Satttoshi/github-wiki-generator)
 *   [OpenDeepWiki (⭐3.3k)](https://github.com/AIDotNet/OpenDeepWiki)
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### DNS / GitHub
 
 *   [dnsx (⭐2.7k)](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit from ProjectDiscovery for running DNS probes, resolving records and filtering DNS responses.
 
-## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -38,7 +125,16 @@
 *   [Q2RTXPerimental (⭐16)](https://github.com/PolyhedronStudio/Q2RTXPerimental) - My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II
 *   [QuakeLive (⭐3)](https://github.com/themuffinator/QuakeLive) - A full source code reconstruction effort for QUAKE LIVE, based upon the QUAKE III: ARENA GPL source \[WIP]
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Finance
+
+*   [longbridge/longbridge-terminal (⭐837)](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for Longbridge Securities: real-time quotes, portfolio, trading for HK/US/A-share/SG.
+
+### Applications / Productivity
+
+*   [AlexsJones/llmfit (⭐27k)](https://github.com/AlexsJones/llmfit) \[[llmfit](https://crates.io/crates/llmfit)] - Terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Interactive TUI with hardware detection, multi-dimensional scoring (quality/speed/fit/context), community leaderboard, and support for Ollama, llama.cpp, MLX, vLLM, and more. [![CI](https://github.com/AlexsJones/llmfit/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexsJones/llmfit/actions/workflows/ci.yml)
+*   [AlexsJones/llmserve (⭐254)](https://github.com/AlexsJones/llmserve) \[[llmserve](https://crates.io/crates/llmserve)] - Interactive TUI to serve local LLM models with auto-detected backends (llama-server, KoboldCpp, LocalAI, MLX, Ollama, vLLM, LM Studio). Features source tree navigation, per-backend presets, live logs, and vision model support. [![CI](https://github.com/AlexsJones/llmserve/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexsJones/llmserve/actions/workflows/ci.yml)
 
 ### Applications / Web
 
@@ -55,7 +151,7 @@
     *   [Performance of Rust language](https://raw.githubusercontent.com/yugr/rust-slides/main/EN.pdf) - An overview of Rust's performance-oriented language features
     *   [The Rust Performance Book](https://nnethercote.github.io/perf-book/) - Tips for optimizing Rust programs
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -99,20 +195,20 @@
 
 *   [YAML (⭐471) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [vatnode](https://vatnode.dev) - EU VAT number validation REST API with VIES and national tax-registry fallback, returning the official VIES consultation number for audit records. Free tier of 100 validations/month, no credit card.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 *   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Network Utilities
 
@@ -135,19 +231,19 @@
 
 *   [birda (⭐23)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Google Cloud
 
 *   [Self-host n8n on Google Cloud Run (⭐605)](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 
-## [10. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [16. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -165,13 +261,17 @@
 
 *   [structalign (⭐1)](https://github.com/peczenyj/structalign) - Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Voice-to-Text / Audio Record and Process
+
+*   [Parakey (⭐3)](https://github.com/rcourtman/parakey) - Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rcourtman/parakey)
 
 ### Security Tools / Audio Record and Process
 
 *   [PureSnitch (⭐9)](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/momenbasel/puresnitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
@@ -181,7 +281,7 @@
 
 *   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐234)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [20. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -191,7 +291,7 @@
 
 *   [BirdNET-Go (⭐1.2k)](https://github.com/tphakala/birdnet-go) - Realtime wildlife soundscape analyser with multi-model AI inference, MQTT publishing with Home Assistant discovery, and web dashboard.
 
-## [15. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
