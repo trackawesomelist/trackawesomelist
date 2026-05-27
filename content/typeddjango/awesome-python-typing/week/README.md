@@ -6,18 +6,24 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ [Daily](/content/typeddjango/awesome-python-typing/README.md) / Weekly / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### Static type checkers
+
+*   [zuban (⭐1.1k)](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Static type checkers
 
-*   [pyrefly (⭐5.7k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
+*   [pyrefly (⭐6.5k)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 *   [pycroscope (⭐34)](https://github.com/JelleZijlstra/pycroscope) - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
 ### Static type checkers
 
-*   [ty (⭐18k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
+*   [ty (⭐19k)](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
 
 ### Articles / Third-party articles
 
@@ -167,7 +173,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Stub packages
 
-*   [celery-types (⭐147)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐28k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐784)](https://github.com/celery/django-celery-results), [ampq (⭐315)](https://github.com/celery/py-amqp), [kombu (⭐3.1k)](https://github.com/celery/kombu), [billiard (⭐432)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐889)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐147)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐29k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐784)](https://github.com/celery/django-celery-results), [ampq (⭐315)](https://github.com/celery/py-amqp), [kombu (⭐3.1k)](https://github.com/celery/kombu), [billiard (⭐432)](https://github.com/celery/billiard), [vine (⭐129)](https://github.com/celery/vine) and [ephem (⭐889)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -252,7 +258,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 *   [botostubs (⭐92)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
 *   [PyQt5-stubs (⭐71)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 *   [sqlalchemy-stubs (⭐584)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐12k)](https://github.com/sqlalchemy/sqlalchemy).
-*   [typeshed (⭐5k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [typeshed (⭐5.1k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
@@ -288,8 +294,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 *   [monkeytype (⭐5k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pytest-annotate (⭐113)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐46)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐66)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
-*   [typilus (⭐63)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐43)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
@@ -343,7 +347,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐7.2k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
 *   [pytype annotate-ast (⭐5k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
@@ -456,5 +459,5 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐297k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐299k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐72)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.

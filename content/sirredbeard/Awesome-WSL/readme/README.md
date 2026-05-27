@@ -322,6 +322,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
 *   [Alacritty (⭐64k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 *   [Fluent Terminal (⭐9.6k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [KKTerm (⭐9)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 *   [Yaw](https://yaw.sh) - A cross-platform terminal that auto-detects WSL along with PowerShell, CMD, and Git Bash on Windows.
 
 #### For Managing WSL Installations
@@ -374,7 +375,7 @@ An X server running on Windows is required for running Linux GUI apps on Windows
 *   [WSLInstall (⭐256)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project][githublogo]
 *   [cmd-colors-solarized (⭐1.1k)](https://github.com/neilpa/cmd-colors-solarized) - This is a solarized color scheme for the Windows command prompt that works in WSL.
 *   [weasel-pageant (⭐248)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
-*   [wsl2-ssh-pageant (⭐369)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [wsl2-ssh-pageant (⭐370)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
 *   [WinCryptSSHAgent (⭐576)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 *   [Files (⭐43k)](https://github.com/files-community/Files) - A modern file explorer that supports WSL filesystem. ![github project][githublogo]
 *   [easyWSL (⭐582)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project][githublogo]

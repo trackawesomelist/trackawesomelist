@@ -6,6 +6,12 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 [ [Daily](/content/sirredbeard/Awesome-WSL/README.md) / Weekly / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
 
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### WSL Tools / Terminals
+
+*   [KKTerm (⭐9)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### WSL Tools / WSL-Specific Development Tools
@@ -295,7 +301,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [wsl2-ssh-pageant (⭐369)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [wsl2-ssh-pageant (⭐370)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
 *   [WinCryptSSHAgent (⭐576)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)

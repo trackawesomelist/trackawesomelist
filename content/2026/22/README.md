@@ -1,24 +1,145 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2026
 
-21 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [1. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+
+### Commercial Honepots
+
+*   [honerix](https://www.honerix.com) - Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.
+
+### Honeypots
+
+*   [CyberBriefing IOC Feeds API](https://cyberbriefing.info) - REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.
+*   Database Honeypots
+    *   [Acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.
+
+    *   [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+
+    *   [ESPot (⭐28)](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+
+    *   [Elastic honey (⭐191)](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
+
+    *   [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - A simple Mysql honeypot project.
+
+    *   [MongoDB-HoneyProxy (⭐93)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
+
+    *   [NoSQLpot (⭐103)](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
+
+    *   [mysql-honeypotd (⭐37)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+
+    *   [MysqlPot (⭐22)](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
+
+    *   [pghoney (⭐20)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+
+    *   [sticky\_elephant (⭐13)](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
+
+    *   [Delilah (⭐25)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
+
+    *   [ESPot (⭐28)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+
+    *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
+
+    *   [Elastic honey (⭐191)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+
+    *   [MongoDB-HoneyProxy (⭐93)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
+
+    *   [NoSQLpot (⭐103)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
+
+    *   [mysql-honeypotd (⭐37)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+
+    *   [MysqlPot (⭐22)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
+
+    *   [pghoney (⭐20)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+
+    *   [sticky\_elephant (⭐13)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
+
+    *   [RedisHoneyPot (⭐25)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
+*   Blockchain honeypots
+    *   [Ethereum-honey-pot (⭐12)](https://github.com/jeremyfritzen/Ethereum-honey-pot) - Tool hacking-back hackers who tried to steal tokens.
+*   Web honeypots
+
+    *   [Krawl (⭐533)](https://github.com/BlessedRebuS/Krawl) - Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.
+    *   [Cloud Active Defense (⭐106)](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
+    *   [Express honeypot (⭐21)](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
+    *   [EoHoneypotBundle (⭐38)](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
+    *   [FCaptcha (⭐138)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.
+    *   [Glastopf (⭐597)](https://github.com/mushorg/glastopf) - Web Application Honeypot.
+    *   [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
+    *   [HellPot (⭐1.1k)](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
+    *   [Laravel Application Honeypot (⭐437)](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
+    *   [Lophiid (⭐27)](https://github.com/mrheinen/lophiid/) - Distributed web application honeypot to interact with large scale exploitation attempts.
+    *   [Nodepot (⭐48)](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
+    *   [PasitheaHoneypot (⭐4)](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI honeypot.
+    *   [Servletpot (⭐16)](https://github.com/schmalle/servletpot) - Web application Honeypot.
+    *   [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.
+    *   [StrutsHoneypot (⭐72)](https://github.com/Cymmetria/StrutsHoneypot) - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
+    *   [WebTrap (⭐69)](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites.
+    *   [basic-auth-pot (bap) (⭐54)](https://github.com/bjeborn/basic-auth-pot) - HTTP Basic Authentication honeypot.
+    *   [bwpot (⭐28)](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
+    *   [django-admin-honeypot (⭐1.1k)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
+    *   [drupo (⭐58)](https://github.com/d1str0/drupot) - Drupal Honeypot.
+    *   [flux (⭐4)](https://github.com/andrewmichaelsmith/flux) - Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.
+    *   [galah (⭐648)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
+    *   [honeyhttpd (⭐54)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
+    *   [honeyup (⭐29)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
+    *   [modpot (⭐63)](https://github.com/referefref/modpot) - Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.
+    *   [owa-honeypot (⭐70)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
+    *   [phpmyadmin\_honeypot (⭐68)](https://github.com/gfoss/phpmyadmin_honeypot) - Simple and effective phpMyAdmin honeypot.
+    *   [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
+    *   [smart-honeypot (⭐18)](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot.
+    *   Snare/Tanner - successors to Glastopf
+        *   [Snare (⭐479)](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honeypot.
+        *   [Tanner (⭐230)](https://github.com/mushorg/tanner) - Evaluating SNARE events.
+    *   [stack-honeypot (⭐24)](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
+    *   [tomcat-manager-honeypot (⭐12)](https://github.com/helospark/tomcat-manager-honeypot) - Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study.
+    *   WordPress honeypots
+        *   [HonnyPotter (⭐35)](https://github.com/MartinIngesen/HonnyPotter) - WordPress login honeypot for collection and analysis of failed login attempts.
+        *   [HoneyPress (⭐8)](https://github.com/kungfuguapo/HoneyPress) - Python based WordPress honeypot in a Docker container.
+        *   [wp-smart-honeypot (⭐29)](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
+        *   [WebDecoy (⭐1)](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress plugin with invisible honeypot fields, behavioral analysis, and SHA-256 proof-of-work challenges to detect bots, headless browsers, and automation frameworks.
+        *   [wordpot (⭐185)](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
+    *   [Python-Honeypot (⭐479)](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
+*   Space/Satellite honeypots
+
+    *   [HoneySat (⭐0)](https://github.com/HoneySat/honeysat-deploy) - Mimics multiple satellite missions
+*   Dynamic Deception Tool
+
+    *   [Mimicry (⭐60)](https://github.com/chaitin/mimicry) - Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.
+
+### Guides
+
+*   [The Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
+
+## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+
+### Static type checkers
+
+*   [zuban (⭐1.1k)](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust.
+
+## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### WSL Tools / Terminals
+
+*   [KKTerm (⭐9)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
+
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
 *   [GiavaScript (⭐1)](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
 *   [Upsun](https://upsun.com)
 
-## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -62,13 +183,13 @@
 
 
 
-## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [7. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Tools, Platforms, and Services / Repos for Specific Datasets
 
 *   [II-Commons (⭐2)](https://github.com/Intelligent-Internet/II-Commons-Skills) - A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.
 
-## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Development
 
@@ -83,7 +204,7 @@
 
 *   [LuaJIT-ImGui (⭐293)](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.
 
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Navigation
 
@@ -93,7 +214,7 @@
 
 *   [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
-## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [10. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Popular AI Tools
 
@@ -104,13 +225,13 @@
 *   [Github Wiki Generator (⭐13)](https://github.com/Satttoshi/github-wiki-generator)
 *   [OpenDeepWiki (⭐3.3k)](https://github.com/AIDotNet/OpenDeepWiki)
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### DNS / GitHub
 
 *   [dnsx (⭐2.7k)](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit from ProjectDiscovery for running DNS probes, resolving records and filtering DNS responses.
 
-## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [12. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -125,7 +246,7 @@
 *   [Q2RTXPerimental (⭐16)](https://github.com/PolyhedronStudio/Q2RTXPerimental) - My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II
 *   [QuakeLive (⭐3)](https://github.com/themuffinator/QuakeLive) - A full source code reconstruction effort for QUAKE LIVE, based upon the QUAKE III: ARENA GPL source \[WIP]
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Finance
 
@@ -151,7 +272,7 @@
     *   [Performance of Rust language](https://raw.githubusercontent.com/yugr/rust-slides/main/EN.pdf) - An overview of Rust's performance-oriented language features
     *   [The Rust Performance Book](https://nnethercote.github.io/perf-book/) - Tips for optimizing Rust programs
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -195,20 +316,20 @@
 
 *   [YAML (⭐471) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [vatnode](https://vatnode.dev) - EU VAT number validation REST API with VIES and national tax-registry fallback, returning the official VIES consultation number for audit records. Free tier of 100 validations/month, no credit card.
 
-## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [16. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 *   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Network Utilities
 
@@ -231,19 +352,19 @@
 
 *   [birda (⭐23)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
-## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Google Cloud
 
 *   [Self-host n8n on Google Cloud Run (⭐605)](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 
-## [16. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [19. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
 
-## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -261,7 +382,7 @@
 
 *   [structalign (⭐1)](https://github.com/peczenyj/structalign) - Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -271,7 +392,7 @@
 
 *   [PureSnitch (⭐9)](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/momenbasel/puresnitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
@@ -281,7 +402,7 @@
 
 *   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐234)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 
-## [20. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -291,7 +412,7 @@
 
 *   [BirdNET-Go (⭐1.2k)](https://github.com/tphakala/birdnet-go) - Realtime wildlife soundscape analyser with multi-model AI inference, MQTT publishing with Home Assistant discovery, and web dashboard.
 
-## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [24. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
