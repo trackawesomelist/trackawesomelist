@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### File Explorer / Assembly
+
+*   [adriancmiranda/glimpse.nvim (⭐2)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+
+### Editing Support / Comment
+
+*   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### AI / Diagnostics
@@ -65,7 +75,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Statusline
 
-*   [tajirhas9/muslim.nvim (⭐34)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+*   [tajirhas9/muslim.nvim (⭐35)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Terminal Integration / CSV Files
 
@@ -795,7 +805,7 @@ Collections of awesome neovim plugins.
     *   [mikavilpas/blink-ripgrep.nvim (⭐114)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐22)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐6)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐45k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐46k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐78)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐15)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐36)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -4506,7 +4516,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐391)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐393)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 

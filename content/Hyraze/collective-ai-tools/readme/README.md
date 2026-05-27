@@ -2,7 +2,7 @@
 
 AI tools platform with 800+ curated tools, built-in workspace tools, and job board for developers and researchers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) · ⭐ 185 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) · ⭐ 186 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐185)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐185)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐186)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐186)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 > [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 > [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/collective-ai-tools)
 > [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license)
@@ -446,7 +446,7 @@ Use these hashtags in search to filter out the tools
 *   [Quest AI](https://www.quest.ai/) - Intelligent Q\&A and info retrieval for dev. \`\`
 *   [Replit Agent](https://replit.com/ai) - Creates mobile APPs in just 2 minutes. \`\`
 *   [Replit Ghostwriter](https://replit.com/ghostwriter) - AI-powered code generation and completion in the browser. `#freemium`
-*   [ReviewCerberus (⭐25)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
+*   [ReviewCerberus (⭐26)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
@@ -664,6 +664,7 @@ Use these hashtags in search to filter out the tools
 ## Image Editing
 
 *   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
 *   [Cutout.Pro](https://www.cutout.pro/) - Creative visual platform and automated tasks. `#free`
 *   [Image Candy](https://imagecandy.com/) - Online Image Editor - Image Candy `#free`
 *   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
@@ -955,6 +956,7 @@ Use these hashtags in search to filter out the tools
 
 ## Resume
 
+*   [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Free, open-source resume checker that scores your resume against a job description (0–100), flags missing ATS keywords, and runs fully in-browser so nothing is uploaded. `#free` `#opensource`
 *   [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day `#freemium`
 *   [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications `#freemium`
 *   [Resume AI Scanner](https://pdf.ai/tools/resume-ai-scanner) - Assists in assessing candidates by scanning their resumes, extracting relevant information, and generating questions to evaluate their suitability for a position. `#free`
@@ -985,6 +987,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
 *   [Anse](https://anse.app/) - Your Elegant AI Answer Companion `#paid`
+*   [BestAIFor.com](https://bestaifor.com/) - A curated directory of the best AI tools, organized by use case. `#free`
 *   [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search `#free`
 *   [Hai News](https://hai.news/) - Search with generative AI - Hai News `#free`
 *   [Neeva](https://neeva.com/) - Source-marked AI search (Shutdown). 59 \`\`

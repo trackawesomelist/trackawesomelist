@@ -264,7 +264,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
     *   [mikavilpas/blink-ripgrep.nvim (⭐114)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
     *   [bydlw98/blink-cmp-env (⭐22)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐6)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐45k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐11)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐46k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐78)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐15)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
     *   [xieyonn/blink-cmp-dat-word (⭐36)](https://github.com/xieyonn/blink-cmp-dat-word) - `blink.cmp` source for dictionary.
@@ -650,6 +650,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Enigama/miss.nvim (⭐12)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 *   [vodchella/hodur.nvim (⭐20)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 *   [A7Lavinraj/fyler.nvim (⭐719)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
+*   [adriancmiranda/glimpse.nvim (⭐2)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 
 <!--lint disable double-link -->
 
@@ -985,7 +986,7 @@ then it is not supported:
 *   [Mr-LLLLL/lualine-ext.nvim (⭐21)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 *   [mikesmithgh/git-prompt-string-lualine.nvim (⭐27)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 *   [sschleemilch/slimline.nvim (⭐130)](https://github.com/sschleemilch/slimline.nvim) - A slim, minimal and opinionated Lua statusline.
-*   [tajirhas9/muslim.nvim (⭐34)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+*   [tajirhas9/muslim.nvim (⭐35)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Tabline
 
@@ -1437,7 +1438,7 @@ then it is not supported:
 *   [dlyongemallo/diffview.nvim (⭐193)](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
 *   [barrettruth/diffs.nvim (⭐96)](https://github.com/barrettruth/diffs.nvim) - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 *   [kdheepak/lazygit.nvim (⭐2.3k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐391)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐393)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [aaronhallaert/advanced-git-search.nvim (⭐389)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
 *   [9seconds/repolink.nvim (⭐22)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 *   [chrisgrieser/nvim-tinygit (⭐206)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.
@@ -1690,6 +1691,7 @@ then it is not supported:
 *   [b3nj5m1n/kommentary (⭐532)](https://github.com/b3nj5m1n/kommentary) - Commenting plugin written in Lua.
 *   [gennaro-tedesco/nvim-commaround (⭐42)](https://github.com/gennaro-tedesco/nvim-commaround) - Fast and light commenting plugin written in Lua.
 *   [folke/todo-comments.nvim (⭐4.1k)](https://github.com/folke/todo-comments.nvim) - Highlight, list and search TODO comments in your projects.
+*   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
 *   [alexmozaidze/tree-comment.nvim (⭐12)](https://github.com/alexmozaidze/tree-comment.nvim) - Highlight and configure TODO comments for [tree-sitter-comment (⭐166)](https://github.com/stsewd/tree-sitter-comment).
 *   [terrortylor/nvim-comment (⭐496)](https://github.com/terrortylor/nvim-comment) - Toggle comments using the built-in commentstring option.
 *   [winston0410/commented.nvim (⭐114)](https://github.com/winston0410/commented.nvim) - A commenting plugin which supports counts and multiple comment patterns and much more.

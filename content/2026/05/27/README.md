@@ -1,12 +1,107 @@
 # Awesome List Updates on May 27, 2026
 
-3 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Image Editing
+
+*   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
+
+### Resume
+
+*   [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Free, open-source resume checker that scores your resume against a job description (0–100), flags missing ATS keywords, and runs fully in-browser so nothing is uploaded. `#free` `#opensource`
+
+### Search Engine
+
+*   [BestAIFor.com](https://bestaifor.com/) - A curated directory of the best AI tools, organized by use case. `#free`
+
+## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+### Software / Test Automation Frameworks
+
+*   [Jumpstarter (⭐28)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Other DB wrappers
+
+*   [lmdb (⭐2)](https://github.com/melisgl/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+
+### Portability layers
+
+*   [DRef (⭐4)](https://github.com/melisgl/dref) - Another definition introspection library with extensive documentation, tests and an emphasis on extensibility. [MIT](https://opensource.org/licenses/MIT).
+
+### Online editors / Third-party APIs
+
+*   [Try (⭐41)](https://github.com/melisgl/try) - Try is an extensible test anti-framework with equal support for interactive and non-interactive workflows, as well as Emacs integration. [MIT](https://opensource.org/licenses/MIT).
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
+
+### Text Analysis
+
+- API: [Audexum](https://audexum.com/docs)
+
+  Description: Text-to-speech REST API with 43 voices and 33 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Software Development - API Management
+
+*   [Aastro](https://starwalkn.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐6)](https://github.com/starwalkn/aastro)) `Apache-2.0` `Go/Docker`
+
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+
+### Examples
+
+*   [doomemacs/doomemacs (⭐22k)](https://github.com/doomemacs/doomemacs#readme) - Beautiful and well organized. Centered title with section links and useful badges. Screenshot to show off the UI. Well-written introduction with a humorous quote that perfectly describes the project, plus a little demon that says "Yay Evil!" to complete the aesthetic. Concise and informative feature list followed by excellent installation instructions. Ends with helpful links to documentation and built-in shortcuts.
+
+## [7. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+
+### Projects
+
+*   [pic0rick (⭐65)](https://github.com/kelu124/pic0rick/) - an open-source Raspberry Pi pico platform for pulse-echo ultrasound imaging hardware
+*   [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+*   [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
+*   [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+*   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+*   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+*   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
+
+### Conferences
+
+*   [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
+*   [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+*   [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+*   [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
+
+### Books
+
+*   [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ\&printsec=frontcover\&dq=Hardware+hacker+bunnie+huang\&hl=nl\&newbks=1\&newbks_redir=1\&sa=X\&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### File Explorer / Assembly
+
+*   [adriancmiranda/glimpse.nvim (⭐2)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+
+### Editing Support / Comment
+
+*   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
+
+## [9. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ### Commercial Honepots
 
@@ -115,13 +210,13 @@
 
 *   [The Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
 
-## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
 *   [zuban (⭐1.1k)](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust.
 
-## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 

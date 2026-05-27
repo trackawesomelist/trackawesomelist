@@ -2,9 +2,32 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 789 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 822 · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / Weekly / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
+
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### Projects
+
+*   [pic0rick (⭐65)](https://github.com/kelu124/pic0rick/) - an open-source Raspberry Pi pico platform for pulse-echo ultrasound imaging hardware
+*   [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+*   [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
+*   [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+*   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+*   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+*   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
+
+### Conferences
+
+*   [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
+*   [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+*   [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+*   [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
+
+### Books
+
+*   [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ\&printsec=frontcover\&dq=Hardware+hacker+bunnie+huang\&hl=nl\&newbks=1\&newbks_redir=1\&sa=X\&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -12,9 +35,9 @@
 
 *   [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
 *   [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
+*   [Hackaday Supercon](https://hackaday.io/superconference/) - Annual conference on hardware hacking and deep-dive technical workshops
 *   [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
 *   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
-*   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -46,7 +69,7 @@
 
 ### Projects
 
-*   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+*   [PiSpot Watch (⭐2)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 *   [PiSpot Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
@@ -78,13 +101,13 @@
 
 ### Projects
 
-*   [Open Gamma Detector (⭐340)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐348)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Projects
 
-*   [Open-Source-Rover (⭐9.2k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Open-Source-Rover (⭐9.4k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -101,7 +124,7 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐7.6k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐7.7k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -181,7 +204,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐525)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐530)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -215,5 +238,5 @@
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐702)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open Electronics (⭐719)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐95)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.

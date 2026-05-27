@@ -6,6 +6,20 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [May 27, 2026](/content/2026/05/27/README.md)
+
+### Other DB wrappers
+
+*   [lmdb (⭐2)](https://github.com/melisgl/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+
+### Portability layers
+
+*   [DRef (⭐4)](https://github.com/melisgl/dref) - Another definition introspection library with extensive documentation, tests and an emphasis on extensibility. [MIT](https://opensource.org/licenses/MIT).
+
+### Online editors / Third-party APIs
+
+*   [Try (⭐41)](https://github.com/melisgl/try) - Try is an extensible test anti-framework with equal support for interactive and non-interactive workflows, as well as Emacs integration. [MIT](https://opensource.org/licenses/MIT).
+
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### Java
@@ -1826,10 +1840,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   used by its [author](https://github.com/melisgl) to [win (⭐129)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
 
-### Other DB wrappers
-
-*   [lmdb (⭐45)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
-
 ### Miscellaneous
 
 *   [cl-cffi-gtk (⭐148)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
@@ -2875,7 +2885,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐760)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐759)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [May 16, 2019](/content/2019/05/16/README.md)
 

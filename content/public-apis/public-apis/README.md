@@ -6,6 +6,22 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [May 27, 2026](/content/2026/05/27/README.md)
+
+### Text Analysis
+
+- API: [Audexum](https://audexum.com/docs)
+
+  Description: Text-to-speech REST API with 43 voices and 33 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [May 26, 2026](/content/2026/05/26/README.md)
 
 ### Books
@@ -7288,7 +7304,7 @@ A collective list of free APIs
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐80k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -7478,7 +7494,7 @@ A collective list of free APIs
 
 ### Photography
 
-- API: [Readme typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐8.9k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 

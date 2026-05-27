@@ -36,6 +36,20 @@ A collective list of free APIs
 
 
 
+### Text Analysis
+
+- API: [Audexum](https://audexum.com/docs)
+
+  Description: Text-to-speech REST API with 43 voices and 33 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Transportation
 
 - API: [Orizn Visa](https://visa.orizn.app)
@@ -7231,7 +7245,7 @@ A collective list of free APIs
 
 ### Open Source Projects
 
-- API: [GitHub ReadMe Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats)
+- API: [GitHub ReadMe Stats (⭐80k)](https://github.com/anuraghazra/github-readme-stats)
 
   Description: Add dynamically generated statistics to your GitHub profile ReadMe
 
@@ -7256,7 +7270,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Readme typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg)
+- API: [Readme typing SVG (⭐8.9k)](https://github.com/DenverCoder1/readme-typing-svg)
 
   Description: Customizable typing and deleting text SVG
 

@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ [Daily](/content/matiassingers/awesome-readme/README.md) / Weekly / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### Examples
+
+*   [doomemacs/doomemacs (⭐22k)](https://github.com/doomemacs/doomemacs#readme) - Beautiful and well organized. Centered title with section links and useful badges. Screenshot to show off the UI. Well-written introduction with a humorous quote that perfectly describes the project, plus a little demon that says "Yay Evil!" to complete the aesthetic. Concise and informative feature list followed by excellent installation instructions. Ends with helpful links to documentation and built-in shortcuts.
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Examples
@@ -19,7 +25,7 @@ A curated list of awesome READMEs
 ### Tools
 
 *   [GPRM (⭐958)](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) - A tool to generate a customized GitHub Profile README with a modern UI.
-*   [README Typing SVG (⭐8.8k)](https://github.com/DenverCoder1/readme-typing-svg#readme) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
+*   [README Typing SVG (⭐8.9k)](https://github.com/DenverCoder1/readme-typing-svg#readme) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
 *   [READMINE (⭐78)](https://github.com/mhucka/readmine#readme) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 *   [user-statistician (⭐129)](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
@@ -64,7 +70,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [GyulyVGC/sniffnet (⭐37k)](https://github.com/GyulyVGC/sniffnet#readme) - Project banner, custom badges and horizontal rules, concise one-line description, informative screenshots, tabular download section with links, features bullet list, acknowledgements section, footer with social icons and links.
+*   [GyulyVGC/sniffnet (⭐38k)](https://github.com/GyulyVGC/sniffnet#readme) - Project banner, custom badges and horizontal rules, concise one-line description, informative screenshots, tabular download section with links, features bullet list, acknowledgements section, footer with social icons and links.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -171,7 +177,7 @@ A curated list of awesome READMEs
 *   [Neovim (⭐100k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
 *   [Oh My Zsh (⭐187k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐74k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
-*   [Tauri (⭐106k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
+*   [Tauri (⭐107k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
 *   [VS Code (⭐185k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ### Articles
@@ -294,7 +300,7 @@ A curated list of awesome READMEs
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐79k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐80k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -313,7 +319,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [xnbox/DeepfakeHTTP (⭐527)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [xnbox/DeepfakeHTTP (⭐526)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 

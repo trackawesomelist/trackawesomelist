@@ -2,7 +2,7 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 789 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 822 · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / Overview ]
 
@@ -39,19 +39,26 @@
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
 *   [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
-*   [openUC2 (⭐525)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐530)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
-*   [Open-Source-Rover (⭐9.2k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Open-Source-Rover (⭐9.4k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 *   [Biohack Academy](https://assets.waag.org/biohackacademy) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
 *   [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
-*   [Open Gamma Detector (⭐340)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐348)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 *   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 *   [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
 *   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 *   [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
-*   [PiSpot Watch (⭐1)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+*   [PiSpot Watch (⭐2)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 *   [PiSpot Show (⭐1)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+*   [pic0rick (⭐65)](https://github.com/kelu124/pic0rick/) - an open-source Raspberry Pi pico platform for pulse-echo ultrasound imaging hardware
+*   [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+*   [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
+*   [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+*   [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+*   [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+*   [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
 
 ## Talks
 
@@ -78,10 +85,14 @@
 
 *   [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
 *   [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
+*   [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
 *   [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
+*   [Hackaday Supercon](https://hackaday.io/superconference/) - Annual conference on hardware hacking and deep-dive technical workshops
+*   [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+*   [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+*   [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
 *   [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
 *   [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
-*   [Hackaday Supercon](https://hackaday.io/superconference/) - A hardware hacking conference hosted by Hackaday.
 
 ## Platforms
 
@@ -112,6 +123,7 @@
 *   [Open-source Lab](https://books.google.com/books?id=0bOKAAAAQBAJ\&pg=PP1) - Book by Josua M. Pearce, how to build your own hardware and reduce costs.
 *   [Free to Make](https://books.google.com/books?id=jz1bCwAAQBAJ\&pg=PP1) - Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
+*   [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ\&printsec=frontcover\&dq=Hardware+hacker+bunnie+huang\&hl=nl\&newbks=1\&newbks_redir=1\&sa=X\&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
 ## Training programs
 
@@ -129,9 +141,9 @@
 
 ## Related awesome
 
-*   [Awesome Open Electronics (⭐702)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open Electronics (⭐719)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐95)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
-*   [Awesome Electronics (⭐7.6k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐7.7k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 
