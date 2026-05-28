@@ -673,6 +673,7 @@ Use these hashtags in search to filter out the tools
 *   [Meshy](https://www.meshy.ai/) - Convert text/images to 3D mesh models. \`\`
 *   [Midjourney](https://www.midjourney.com/) - Gold standard for high-fidelity visual art. `#paid`
 *   [Nano Banana](https://nanobanana.im/) - Transform any image with simple text prompts. Nano-banana's advanced model delivers consistent character editing and scene preservation that surpasses Flux Kontext. Experience the future of AI image editing. `#freemium`
+*   [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B\&W images. `#freemium`
 *   [Photoroom](https://www.photoroom.com/) - Fast enterprise-level image editing templates. `#free`
 *   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
 *   [remove.bg](https://remove.bg/) - Online background remover (5 seconds)1. `#free`
@@ -685,6 +686,7 @@ Use these hashtags in search to filter out the tools
 
 ## Image Generator
 
+*   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
 *   [Adobe Firefly 3](https://www.adobe.com/products/firefly.html) - Adobe's latest AI image generation with commercial-safe content `#freemium`
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `#freemium`
 *   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `#freemium`

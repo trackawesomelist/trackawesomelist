@@ -6,6 +6,16 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [May 28, 2026](/content/2026/05/28/README.md)
+
+### Image Editing
+
+*   [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B\&W images. `#freemium`
+
+### Image Generator
+
+*   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
+
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
 ### Image Editing

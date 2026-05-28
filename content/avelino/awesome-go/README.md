@@ -8,9 +8,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
+### Continuous Integration
+
+*   [PikoCI (⭐12)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+
 ### Database Tools
 
 *   [go-postgres-s3-backup (⭐2)](https://github.com/nicobistolfi/go-postgres-s3-backup) - Serverless PostgreSQL backups to S3 using AWS Lambda, with daily, monthly, and yearly rotation.
+
+### Third-party APIs
+
+*   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
@@ -458,7 +466,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [chroma16](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
+*   [chroma16 (⭐3)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
 
 ### Financial
 
@@ -466,7 +474,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Selenium and browser control tools
 
-*   [bonk](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
+*   [bonk (⭐11)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -627,7 +635,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [vizb](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐69)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 
@@ -3957,7 +3965,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gdcache (⭐14)](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
 *   [go-mcache (⭐106)](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
 *   [groupcache (⭐13k)](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-*   [timedmap](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
+*   [timedmap (⭐75)](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
 *   [ttlcache (⭐1.3k)](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics.
 *   [ttlcache (⭐10)](https://github.com/cheshir/ttlcache) - In-memory key value storage with TTL for each record.
 
@@ -5453,7 +5461,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [graval (⭐28)](https://github.com/koofr/graval) - Experimental FTP server framework.
 *   [HTTPLab (⭐4.2k)](https://github.com/gchaincl/httplab) - HTTPLabs let you inspect HTTP requests and forge responses.
 *   [httpproxy (⭐32)](https://github.com/wzshiming/httpproxy) - HTTP proxy handler and dialer.
-*   [iplib](https://github.com/c-robinson/iplib) - Library for working with IP addresses (net.IP, net.IPNet), inspired by python [ipaddress](https://docs.python.org/3/library/ipaddress.html) and ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
+*   [iplib (⭐151)](https://github.com/c-robinson/iplib) - Library for working with IP addresses (net.IP, net.IPNet), inspired by python [ipaddress](https://docs.python.org/3/library/ipaddress.html) and ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 *   [jazigo (⭐229)](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple network devices.
 *   [kcp-go (⭐4.5k)](https://github.com/xtaci/kcp-go) - KCP - Fast and Reliable ARQ Protocol.
 *   [kcptun](https://github.com/xtaci/kcptun) - Extremely simple & fast udp tunnel based on KCP protocol.
@@ -5699,7 +5707,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [pongo2 (⭐3.1k)](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 *   [quicktemplate (⭐3.3k)](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
 *   [Razor (⭐883)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
-*   [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
+*   [Soy (⭐177)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 *   [tbd (⭐27)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 
 ### Testing Frameworks
@@ -5831,7 +5839,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Death (⭐198)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 *   [delve (⭐662)](https://github.com/derekparker/delve) - Go debugger.
 *   [dlog (⭐17)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
-*   [equalizer](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.
+*   [equalizer (⭐89)](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.
 *   [ergo (⭐648)](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 *   [filetype (⭐2.3k)](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 *   [filler (⭐18)](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.

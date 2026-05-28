@@ -11,6 +11,7 @@
 ### Software / Frameworks
 
 *   [Iotellect](https://iotellect.com) - A low-code IoT platform for device integration, data collection, and real-time visualization. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols with drag-and-drop UI builder.
+*   [Jumpstarter (⭐28)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
 
 ### Software / Miscellaneous
 
@@ -161,7 +162,7 @@
 
 ### Software / Libraries and Tools
 
-*   [Chaos Genius (⭐778)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐777)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 

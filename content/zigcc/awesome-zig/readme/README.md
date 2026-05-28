@@ -137,7 +137,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Package and Version Manager
 
 *   [mlugg/setup-zig (⭐230)](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows.
-*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
+*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 *   [marler8997/zigup (⭐1.1k)](https://github.com/marler8997/zigup) - Download and manage Zig compilers.
 *   [zigtools/zpm (⭐104)](https://github.com/zigtools/zpm) - Zig package manager helper.
 *   [jsomedon/night.zig (⭐33)](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
@@ -149,7 +149,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [joachimschmidt557/zigpkgs (⭐8)](https://github.com/joachimschmidt557/zigpkgs) - A collection of Zig packages built with Nix.
 *   [lispking/zvm (⭐25)](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 *   [nektro/zigmod (⭐929)](https://github.com/nektro/zigmod) - A package manager for the Zig programming language.
-*   [justrach/nanobrew](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
+*   [justrach/nanobrew (⭐1.1k)](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 *   [vezel-dev/zig-sdk (⭐107)](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 *   [tristanisham/zvm (⭐966)](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
 *   [rosarp/nu-zigup (⭐1)](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
@@ -171,12 +171,12 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [ktarasov/zigrep (⭐2)](https://github.com/ktarasov/zigrep) - A training project on the implementation of the similarity of the grep utility in Linux in the Zig language.
 *   [hspak/geteltorito-zig (⭐6)](https://github.com/hspak/geteltorito-zig) - Re-write of geteltorito in Zig.
 *   [NilsIrl/dockerc (⭐4.9k)](https://github.com/NilsIrl/dockerc) - Container image to single executable compiler.
-*   [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
+*   [shepherdjerred/macos-cross-compiler (⭐0)](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 *   [rockorager/zzdoc (⭐34)](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
-*   [ghostty (⭐54k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
-*   [midasdf/zt (⭐38)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
+*   [ghostty (⭐55k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
+*   [midasdf/zt (⭐41)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐39)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
-*   [zdu (⭐0)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
+*   [zdu](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 *   [zmx (⭐1.5k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 *   [ghext (⭐3)](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 *   [nrdmn/ilo\_license\_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
@@ -579,6 +579,10 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [nullclaw/nullclaw (⭐7.6k)](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 *   [ollama-zig (⭐38)](https://github.com/dravenk/ollama-zig) - Ollama Zig library.
 *   [renerocksai/gpt4all.zig (⭐95)](https://github.com/renerocksai/gpt4all.zig) - Zig build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
+*   [SMC17/faiss-zig](https://github.com/SMC17/faiss-zig) - Pure-Zig vector similarity search; Flat + HNSW + IVFFlat + IVFPQ. AGPL-3.0.
+*   [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig HuggingFace safetensors reader; \~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
+*   [SMC17/tokenizers-zig (⭐2)](https://github.com/SMC17/tokenizers-zig) - Pure-Zig HuggingFace tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
+*   [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
 
 ### Machine Learning
 
@@ -641,7 +645,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [rockorager/libvaxis (⭐1.8k)](https://github.com/rockorager/libvaxis) - Modern TUI library written in Zig.
 *   [zig-plotille (⭐16)](https://github.com/tammoippen/zig-plotille) - Terminal plotting library using Unicode braille characters.
 *   [xtxf (⭐18)](https://github.com/charlesrocket/xtxf) - The Matrix screensaver in Zig.
-*   [zsdl3 (⭐18)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 *   [anomalyco/opentui (⭐11k)](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 
 ### GUI
@@ -661,7 +665,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [star-tek-mb/zig-tray (⭐24)](https://github.com/star-tek-mb/zig-tray) - Create tray applications with Zig.
 *   [kotsutsumi/zylix (⭐49)](https://github.com/kotsutsumi/zylix) - Zig powered cross-platform UI framework with Virtual DOM.
 *   [meszmate/zigzag (⭐334)](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
-*   [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
+*   [happystraw/zig-webview (⭐6)](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 *   [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 
 ### Game Development
@@ -723,7 +727,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [bfactory-ai/zignal (⭐431)](https://github.com/bfactory-ai/zignal) - Image processing library in Zig, heavily inspired by dlib.
 *   [brian-sinquin/mimg (⭐1)](https://github.com/brian-sinquin/mimg) - A chained-modifiers Image processing Command-line tool.
 *   [dmtrKovalenko/odiff (⭐3k)](https://github.com/dmtrKovalenko/odiff) - ODiff - A very fast SIMD-first image comparison library (with Node.js API).
-*   [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
+*   [foxnne/pixi (⭐0)](https://github.com/foxnne/pixi) - Pixel art and animation editor written in Zig.
 *   [freref/fancy-cat (⭐515)](https://github.com/freref/fancy-cat) - PDF reader inside the terminal.
 
 ## Interoperability
@@ -745,7 +749,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 *   [jiacai2050/zig-jemalloc (⭐4)](https://github.com/jiacai2050/zig-jemalloc) - Zig allocator baked by jemalloc.
 *   [arshidkv12/zig-php (⭐24)](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 *   [OnlyF0uR/pqc-zig (⭐4)](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean (⭐916)](https://github.com/PQClean/PQClean/), post-quantum cryptography.
-*   [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+*   [happystraw/phpz (⭐2)](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
 
 ### Build with Zig
 

@@ -11,6 +11,11 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 ### Image Editing
 
 *   [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image workspace. Upload once, chain 40+ tools (compress, convert, crop, background removal, face blur) without re-uploading. Files never leave your device. `#free`
+*   [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B\&W images. `#freemium`
+
+### Image Generator
+
+*   [Alimvo](https://alimvo.com/) - AI product photo and video generator for ecommerce brands. Create studio shots, lifestyle scenes, and ad creatives in minutes. `#freemium`
 
 ### Resume
 
