@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [fastmcpp](https://github.com/0xeb/fastmcpp) - C++ port of the fastmcp Python library. \[Apache2]
 
+### Math
+
+*   [wide-integer (⭐218)](https://github.com/ckormanyos/wide-integer) - Wide-Integer implements a generic C++ template for uint128\_t, uint256\_t, uint512\_t, uint1024\_t, etc. \[BSL-1.0]
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Database
@@ -32,11 +36,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Image Processing
 
-*   [avir (⭐492)](https://github.com/avaneev/avir) - High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. \[MIT]
+*   [avir](https://github.com/avaneev/avir) - High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. \[MIT]
 
 ### Machine Learning
 
-*   [FANN (⭐1.7k)](https://github.com/libfann/fann) - Fast Artificial Neural Network library in C. \[LGPL]
+*   [FANN](https://github.com/libfann/fann) - Fast Artificial Neural Network library in C. \[LGPL]
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -56,18 +60,18 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Reflection
 
-*   [Enchantum (⭐132)](https://github.com/ZXShady/enchantum) - modern C++17 header-only library for compile-time enum reflection. \[MIT]
+*   [Enchantum](https://github.com/ZXShady/enchantum) - modern C++17 header-only library for compile-time enum reflection. \[MIT]
 
 ### Regular Expression
 
-*   [PCRE2 (⭐1.3k)](https://github.com/PCRE2Project/pcre2) - a set of C functions that implement
+*   [PCRE2](https://github.com/PCRE2Project/pcre2) - a set of C functions that implement
     regular expression pattern matching. \[BSD] [website](https://pcre2project.github.io/pcre2/)
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
 ### Artificial Intelligence
 
-*   [cpp-mcp (⭐275)](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
+*   [cpp-mcp](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
 
 ### Networking
 
@@ -89,7 +93,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Database
 
-*   [sqlpp23 (⭐144)](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
+*   [sqlpp23](https://github.com/rbock/sqlpp23) - A type safe SQL library for C++. \[BSD-2-Clause]
 
 ### Font
 
@@ -103,11 +107,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Compression
 
-*   [FSST (⭐512)](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
+*   [FSST](https://github.com/cwida/fsst) - efficient random-access string compression. \[MIT]
 
 ### Containers
 
-*   [marisa-trie (⭐613)](https://github.com/s-yata/marisa-trie) - Matching Algorithm with Recursively Implemented StorAge. \[BSD-2-Clause/LGPL-2.1]
+*   [marisa-trie](https://github.com/s-yata/marisa-trie) - Matching Algorithm with Recursively Implemented StorAge. \[BSD-2-Clause/LGPL-2.1]
 
 ### Multimedia
 
@@ -198,7 +202,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Debug
 
-*   [Attest](https://github.com/tugglecore/attest) - Cross-platform, heap-free C test framework with parameterized and lifecycle-aware tests and assertions with ad-hoc formatted messages. \[MIT]
+*   [Attest (⭐4)](https://github.com/tugglecore/attest) - Cross-platform, heap-free C test framework with parameterized and lifecycle-aware tests and assertions with ad-hoc formatted messages. \[MIT]
 *   [MTuner (⭐2.8k)](https://github.com/milostosic/MTuner) - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. \[BSD-2-Clause]
 *   [heaptrack (⭐4.1k)](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux. \[LGPL-2.1]
 
@@ -1161,7 +1165,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [JNGL (⭐317)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### Internationalization
 
@@ -2989,7 +2993,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [OpenXRay (⭐3.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Graphics
 
@@ -3196,7 +3200,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [EnTT (⭐13k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
@@ -3239,7 +3243,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [Diligent Engine (⭐4.3k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 
@@ -3468,7 +3472,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Scripting
 
 *   [cppimport (⭐1.2k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐3.4k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
 *   [Cython (⭐11k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [JavaCpp (⭐4.7k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
 *   [libffi (⭐4.3k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
@@ -3819,7 +3823,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Brotli (⭐15k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
 *   [FiniteStateEntropy (⭐1.5k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 *   [LZFSE (⭐1.8k)](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
-*   [zstd (⭐27k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
+*   [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
 
 ### Build Systems
 
@@ -3870,7 +3874,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Scripting
 
-*   [Duktape (⭐6.2k)](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Web Application Framework
 
@@ -4829,7 +4833,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [bgfx (⭐17k)](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. \[BSD]
+*   [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. \[BSD]
 *   [Horde3D (⭐1.6k)](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. \[EPL]
 *   [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. \[BSD]
 *   [urho3d (⭐4.7k)](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. \[Many different, mostly MIT]
@@ -4913,7 +4917,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Cryptography
 
-*   [libsodium (⭐14k)](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
+*   [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
 
 ### Math
 
@@ -5014,5 +5018,5 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [algorithms (⭐5.5k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.6k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+*   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 *   [papers-we-love (⭐106k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
