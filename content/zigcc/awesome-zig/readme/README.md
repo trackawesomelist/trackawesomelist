@@ -137,7 +137,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Package and Version Manager
 
 *   [mlugg/setup-zig (⭐230)](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows.
-*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
+*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
 *   [marler8997/zigup (⭐1.1k)](https://github.com/marler8997/zigup) - Download and manage Zig compilers.
 *   [zigtools/zpm (⭐104)](https://github.com/zigtools/zpm) - Zig package manager helper.
 *   [jsomedon/night.zig (⭐33)](https://github.com/jsomedon/night.zig) - Simple tool that just install & update Zig nightly.
@@ -176,7 +176,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [ghostty (⭐55k)](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 *   [midasdf/zt (⭐41)](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 *   [zlist (⭐39)](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
-*   [zdu](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
+*   [zdu (⭐1)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 *   [zmx (⭐1.5k)](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 *   [ghext (⭐3)](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 *   [nrdmn/ilo\_license\_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
@@ -237,7 +237,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [yamafaktory/hypergraphz (⭐121)](https://github.com/yamafaktory/hypergraphz) - HypergraphZ - A Hypergraph Implementation in Zig.
 *   [williamw520/toposort (⭐98)](https://github.com/williamw520/toposort) - Topological sort library that produces topological ordered nodes and dependence-free subsets.
 *   [BraedonWooding/Lazy-Zig (⭐47)](https://github.com/BraedonWooding/Lazy-Zig) - Linq in Zig.
-*   [OrlovEvgeny/lo.zig](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
+*   [OrlovEvgeny/lo.zig (⭐35)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 *   [CogitatorTech/ordered (⭐37)](https://github.com/CogitatorTech/ordered) - A sorted collection library (sorted sets and sorted maps) for Zig.
 *   [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 
@@ -251,7 +251,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Parser Library
 
-*   [OrlovEvgeny/zigquery](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery (⭐5)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 *   [tree-sitter/zig-tree-sitter (⭐98)](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 
 ### Logging Processing
@@ -487,6 +487,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [im-ng/zero (⭐15)](https://github.com/im-ng/zero) - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
 *   [GuneshRaj/zigar (⭐3)](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 *   [llllOllOOll/spider (⭐9)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
+*   [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
 
 ### Web3 Framework
 
@@ -645,7 +646,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [rockorager/libvaxis (⭐1.8k)](https://github.com/rockorager/libvaxis) - Modern TUI library written in Zig.
 *   [zig-plotille (⭐16)](https://github.com/tammoippen/zig-plotille) - Terminal plotting library using Unicode braille characters.
 *   [xtxf (⭐18)](https://github.com/charlesrocket/xtxf) - The Matrix screensaver in Zig.
-*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐21)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 *   [anomalyco/opentui (⭐11k)](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 
 ### GUI

@@ -22,11 +22,56 @@ A collective list of free APIs
 
 
 
+### Development
+
+- API: [QR & Barcode](https://solsigs.com/qrapi/)
+
+  Description: QR codes and barcodes (Code 128, EAN-13, Data Matrix, PDF417 + more). SVG or PNG output
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [EconPulse](https://econpulse.io)
+
+  Description: Live economic data — CPI, PPI, energy, treasury rates, BTC premium
+
+  Auth: apiKey
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: **[⬆ Back to Index](#index)**
+
+
+
 ### Geocoding
 
 - API: [HackMyIP](https://hackmyip.com/api)
 
   Description: IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Open Scholarships](https://scholarships.grudged.io)
+
+  Description: Free, openly-licensed directory of US scholarships and student aid from official sources
 
   Auth: No
 
@@ -55,6 +100,20 @@ A collective list of free APIs
 - API: [Orizn Visa](https://visa.orizn.app)
 
   Description: Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### URL Shorteners
+
+- API: [RedirHub](https://redirhub.com)
+
+  Description: URL redirect management with custom domains, HTTPS, analytics, and REST API
 
   Auth: `apiKey`
 
@@ -383,20 +442,6 @@ A collective list of free APIs
   Description: IBAN validation and BIC/SWIFT lookup for 75+ countries with 121K+ bank entries
 
   Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
-### Food & Drink
-
-- API: [RecipeAPI](https://recipeapi.io)
-
-  Description: Recipes, ingredients, nutrition data and cooking instructions
-
-  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -3980,20 +4025,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Untappd](https://untappd.com/api/docs)
-
-  Description: Social beer sharing
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Government
 
 - API: [City, Lviv](https://opendata.city-adm.lviv.ua/)
@@ -4972,42 +5003,6 @@ A collective list of free APIs
   CORS: Unknown
 
   : 
-
-
-
-### Food & Drink
-
-- API: [BaconMockup](https://baconmockup.com/)
-
-  Description: Resizable bacon placeholder images
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Chomp](https://chompthis.com/api/)
-
-  Description: Data about various grocery products and foods
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Tasty](https://rapidapi.com/apidojo/api/tasty/)
-
-  Description: API to query data about recipe, plan, ingredients
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
 
 
 
@@ -6834,31 +6829,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Fruityvice](https://www.fruityvice.com)
-
-  Description: Data about all kinds of fruit
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Systembolaget](https://api-portal.systembolaget.se)
-
-  Description: Govornment owned liqour store in Sweden
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Games & Comics
 
 - API: [Digimon Information](https://digimon-api.vercel.app/)
@@ -8015,20 +7985,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Kroger](https://developer.kroger.com/reference)
-
-  Description: Supermarket Data
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Games & Comics
 
 - API: [Battle.net](https://develop.battle.net/documentation/guides/getting-started)
@@ -9016,20 +8972,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Coffee](https://coffee.alexflipnote.dev/)
-
-  Description: Random pictures of coffee
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Games & Comics
 
 - API: [Geek-Jokes (⭐127)](https://github.com/sameerkumar18/geek-joke-api)
@@ -9657,20 +9599,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Spoonacular](https://spoonacular.com/food-api)
-
-  Description: Recipes, Food Products, and Meal Planning
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
 ### Games & Comics
 
 - API: [Fun Facts](https://asli-fun-fact-api.herokuapp.com/)
@@ -9884,20 +9812,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
-
-
-
-### Food & Drink
-
-- API: [Rustybeer](https://rustybeer.herokuapp.com/)
-
-  Description: Beer brewing tools
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
 
 
 
@@ -13390,42 +13304,6 @@ A collective list of free APIs
 
 
 
-### Food & Drink
-
-- API: [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)
-
-  Description: Nutrition Analysis
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)
-
-  Description: Recipe Search
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Foodish (⭐121)](https://github.com/surhud004/Foodish#readme)
-
-  Description: Random pictures of food dishes
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Video
 
 - API: [SWAPI](https://www.swapi.tech)
@@ -15168,33 +15046,6 @@ A collective list of free APIs
 
 
 
-## [Jun 17 - Jun 23, 2019](/content/2019/24/README.md)
-
-### Food & Drink
-
-- API: [WhiskyHunter](https://whiskyhunter.net/api/)
-
-  Description: Past online whisky auctions statistical data
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Zestful](https://zestfuldata.com/)
-
-  Description: Parse recipe ingredients
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 
 ### Games & Comics
@@ -15854,20 +15705,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
-
-
-
-### Food & Drink
-
-- API: [Open Brewery DB](https://www.openbrewerydb.org)
-
-  Description: Breweries, Cideries and Craft Beer Bottle Shops
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -17037,97 +16874,6 @@ A collective list of free APIs
   CORS: Unknown
 
   : 
-
-
-
-### Food & Drink
-
-- API: [LCBO](https://lcboapi.com/)
-
-  Description: Alcohol
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Open Food Facts](https://world.openfoodfacts.org/data)
-
-  Description: Food Products Database
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [PunkAPI](https://punkapi.com/)
-
-  Description: Brewdog Beer Recipes
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)
-
-  Description: Community-driven taco database
-
-  Auth: No
-
-  HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [The Report of the Week (⭐54)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
-
-  Description: Food & Drink Reviews
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [TheCocktailDB](https://www.thecocktaildb.com/api.php)
-
-  Description: Cocktail Recipes
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [TheMealDB](https://www.themealdb.com/api.php)
-
-  Description: Meal Recipes
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [What's on the menu?](http://nypl.github.io/menus-api/)
-
-  Description: NYPL human-transcribed historical menu collection
-
-  Auth: `apiKey`
-
-  HTTPS: No
-
-  CORS: Unknown
 
 
 

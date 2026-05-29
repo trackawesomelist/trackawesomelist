@@ -589,6 +589,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [ProxyCrawl](https://proxycrawl.com)                                                                                                      | Scraping and crawling anticaptcha service                                                            | `apiKey`        | Yes   | Unknown |
 | [ProxyKingdom](https://proxykingdom.com)                                                                                                  | Rotating Proxy API that produces a working proxy on every request                                    | `apiKey`        | Yes   | Yes     |
 | [Pusher Beams](https://pusher.com/beams)                                                                                                  | Push notifications for Android & iOS                                                                 | `apiKey`        | Yes   | Unknown |
+| [QR & Barcode](https://solsigs.com/qrapi/)                                                                                                | QR codes and barcodes (Code 128, EAN-13, Data Matrix, PDF417 + more). SVG or PNG output              | No              | Yes   | Yes     |
 | [QR code](https://www.qrtag.net/api/)                                                                                                     | Create an easy to read QR code and URL shortener                                                     | No              | Yes   | Yes     |
 | [QR code](http://goqr.me/api/)                                                                                                            | Generate and decode / read QR code graphics                                                          | No              | Yes   | Unknown |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)                                                                     | Integrate custom and unique looking QR codes into your system or workflow                            | No              | Yes   | Unknown |
@@ -777,6 +778,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Boleto.Cloud](https://boleto.cloud/)                                                                                      | A api to generate boletos in Brazil                                                                 | `apiKey` | Yes   | Unknown |   |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list)                                                             | All Citigroup account and statement data APIs                                                       | `apiKey` | Yes   | Unknown |   |
 | [Econdb](https://www.econdb.com/api/)                                                                                      | Global macroeconomic data                                                                           | No       | Yes   | Yes     |   |
+| [EconPulse](https://econpulse.io)                                                                                          | Live economic data — CPI, PPI, energy, treasury rates, BTC premium                                  | apiKey   | Yes   | Yes     |   |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/)                                                         | U.S. Department of the Treasury Data                                                                | No       | Yes   | Unknown |   |
 | [Finage](https://finage.co.uk)                                                                                             | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | `apiKey` | Yes   | Unknown |   |
 | [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs)                                           | Realtime and historical stock data                                                                  | `apiKey` | Yes   | Unknown |   |
@@ -813,38 +815,38 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Yahoo Finance](https://www.yahoofinanceapi.com/)                                                                          | Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange  | `apiKey` | Yes   | Yes     |   |
 | [YNAB](https://api.youneedabudget.com/)                                                                                    | Budgeting & Planning                                                                                | `OAuth`  | Yes   | Yes     |   |
 | [Zoho Books](https://www.zoho.com/books/api/v3/)                                                                           | Online accounting software, built for your business                                                 | `OAuth`  | Yes   | Unknown |   |
+| **[⬆ Back to Index](#index)**                                                                                              |                                                                                                     |          |       |         |   |
 
-**[⬆ Back to Index](#index)** <br > <br >
-
+<br >
+<br >
 ### Food & Drink
-
-| API                                                                                    | Description                                                   | Auth     | HTTPS | CORS    |
-| :------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------- | :---- | :------ |
-| [BaconMockup](https://baconmockup.com/)                                                | Resizable bacon placeholder images                            | No       | Yes   | Yes     |
-| [Chomp](https://chompthis.com/api/)                                                    | Data about various grocery products and foods                 | `apiKey` | Yes   | Unknown |
-| [Coffee](https://coffee.alexflipnote.dev/)                                             | Random pictures of coffee                                     | No       | Yes   | Unknown |
-| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)             | Nutrition Analysis                                            | `apiKey` | Yes   | Unknown |
-| [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)                  | Recipe Search                                                 | `apiKey` | Yes   | Unknown |
-| [Foodish (⭐121)](https://github.com/surhud004/Foodish#readme)                          | Random pictures of food dishes                                | No       | Yes   | Yes     |
-| [Fruityvice](https://www.fruityvice.com)                                               | Data about all kinds of fruit                                 | No       | Yes   | Unknown |
-| [Kroger](https://developer.kroger.com/reference)                                       | Supermarket Data                                              | `apiKey` | Yes   | Unknown |
-| [LCBO](https://lcboapi.com/)                                                           | Alcohol                                                       | `apiKey` | Yes   | Unknown |
-| [Open Brewery DB](https://www.openbrewerydb.org)                                       | Breweries, Cideries and Craft Beer Bottle Shops               | No       | Yes   | Yes     |
-| [Open Food Facts](https://world.openfoodfacts.org/data)                                | Food Products Database                                        | No       | Yes   | Unknown |
-| [PunkAPI](https://punkapi.com/)                                                        | Brewdog Beer Recipes                                          | No       | Yes   | Unknown |
-| [RecipeAPI](https://recipeapi.io)                                                      | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes   | Yes     |
-| [Rustybeer](https://rustybeer.herokuapp.com/)                                          | Beer brewing tools                                            | No       | Yes   | No      |
-| [Spoonacular](https://spoonacular.com/food-api)                                        | Recipes, Food Products, and Meal Planning                     | `apiKey` | Yes   | Unknown |
-| [Systembolaget](https://api-portal.systembolaget.se)                                   | Govornment owned liqour store in Sweden                       | `apiKey` | Yes   | Unknown |
-| [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)                               | Community-driven taco database                                | No       | No    | Unknown |
-| [Tasty](https://rapidapi.com/apidojo/api/tasty/)                                       | API to query data about recipe, plan, ingredients             | `apiKey` | Yes   | Unknown |
-| [The Report of the Week (⭐54)](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                                          | No       | Yes   | Unknown |
-| [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                 | Cocktail Recipes                                              | `apiKey` | Yes   | Yes     |
-| [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                  | `apiKey` | Yes   | Yes     |
-| [Untappd](https://untappd.com/api/docs)                                                | Social beer sharing                                           | `OAuth`  | Yes   | Unknown |
-| [What's on the menu?](http://nypl.github.io/menus-api/)                                | NYPL human-transcribed historical menu collection             | `apiKey` | No    | Unknown |
-| [WhiskyHunter](https://whiskyhunter.net/api/)                                          | Past online whisky auctions statistical data                  | No       | Yes   | Unknown |
-| [Zestful](https://zestfuldata.com/)                                                    | Parse recipe ingredients                                      | `apiKey` | Yes   | Yes     |
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [BaconMockup](https://baconmockup.com/) | Resizable bacon placeholder images | No | Yes | Yes |
+| [Chomp](https://chompthis.com/api/) | Data about various grocery products and foods | `apiKey` | Yes | Unknown |
+| [Coffee](https://coffee.alexflipnote.dev/) | Random pictures of coffee | No | Yes | Unknown |
+| [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api) | Nutrition Analysis | `apiKey` | Yes | Unknown |
+| [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api) | Recipe Search | `apiKey` | Yes | Unknown |
+| [Foodish](https://github.com/surhud004/Foodish#readme) | Random pictures of food dishes | No | Yes | Yes |
+| [Fruityvice](https://www.fruityvice.com) | Data about all kinds of fruit | No | Yes | Unknown |
+| [Kroger](https://developer.kroger.com/reference) | Supermarket Data | `apiKey` | Yes | Unknown |
+| [LCBO](https://lcboapi.com/) | Alcohol | `apiKey` | Yes | Unknown |
+| [Open Brewery DB](https://www.openbrewerydb.org) | Breweries, Cideries and Craft Beer Bottle Shops | No | Yes | Yes |
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Food Products Database | No | Yes | Unknown |
+| [PunkAPI](https://punkapi.com/) | Brewdog Beer Recipes | No | Yes | Unknown |
+| [RecipeAPI](https://recipeapi.io) | Recipes, ingredients, nutrition data and cooking instructions | `apiKey` | Yes | Yes |
+| [Rustybeer](https://rustybeer.herokuapp.com/) | Beer brewing tools | No | Yes | No |
+| [Spoonacular](https://spoonacular.com/food-api) | Recipes, Food Products, and Meal Planning | `apiKey` | Yes | Unknown |
+| [Systembolaget](https://api-portal.systembolaget.se) | Govornment owned liqour store in Sweden | `apiKey` | Yes | Unknown |
+| [TacoFancy](https://github.com/evz/tacofancy-api) | Community-driven taco database | No | No | Unknown |
+| [Tasty](https://rapidapi.com/apidojo/api/tasty/) | API to query data about recipe, plan, ingredients | `apiKey` | Yes | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews | No | Yes | Unknown |
+| [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes | Yes |
+| [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes | Yes |
+| [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth` | Yes | Unknown |
+| [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
+| [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
+| [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1337,6 +1339,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)                        | Open data about nobel prizes and events                                                             | No       | Yes   | Yes     |
 | [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar)                                  | Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API          | No       | Yes   | Unknown |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/)                             | Spatial (GIS) and non-spatial city data for Minneapolis                                             | No       | Yes   | No      |
+| [Open Scholarships](https://scholarships.grudged.io)                                     | Free, openly-licensed directory of US scholarships and student aid from official sources            | No       | Yes   | Yes     |
 | [openAFRICA](https://africaopendata.org/)                                                | Large datasets repository of African open data                                                      | No       | Yes   | Unknown |
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference)              | Data on corporate entities and directors in many countries                                          | `apiKey` | Yes   | Unknown |
 | [OpenSanctions](https://www.opensanctions.org/docs/api/)                                 | Data on international sanctions, crime and politically exposed persons                              | No       | Yes   | Yes     |
@@ -1845,6 +1848,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Mgnet.me](http://mgnet.me/api.html)                                                 | Torrent URL shorten API                                                            | No       | Yes   | No      |
 | [owo](https://owo.vc/api)                                                            | A simple link obfuscator/shortener                                                 | No       | Yes   | Unknown |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs)                                | Custom URL shortener for sharing branded links                                     | `apiKey` | Yes   | Unknown |
+| [RedirHub](https://redirhub.com)                                                     | URL redirect management with custom domains, HTTPS, analytics, and REST API        | `apiKey` | Yes   | Yes     |
 | [Short Link](https://github.com/FayasNoushad/Short-Link-API)                         | Short URLs support so many domains                                                 | No       | Yes   | Unknown |
 | [Shrtcode](https://shrtco.de/docs)                                                   | URl Shortener with multiple Domains                                                | No       | Yes   | Yes     |
 | [Shrtlnk](https://shrtlnk.dev/developer)                                             | Simple and efficient short link creation                                           | `apiKey` | Yes   | Yes     |

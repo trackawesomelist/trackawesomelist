@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [May 29, 2026](/content/2026/05/29/README.md)
+
+### Network & Web / Web Framework
+
+*   [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
+
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
 ### Data & Science / Large Language Model
@@ -49,7 +55,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Utility
 
-*   [zdu](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
+*   [zdu (⭐1)](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
@@ -133,13 +139,13 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Language Essentials / Data Structure and Algorithm
 
-*   [OrlovEvgeny/lo.zig](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
+*   [OrlovEvgeny/lo.zig (⭐35)](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
 ### Language Essentials / Parser Library
 
-*   [OrlovEvgeny/zigquery](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
+*   [OrlovEvgeny/zigquery (⭐5)](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
@@ -233,7 +239,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Fundamentals / Package and Version Manager
 
-*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
+*   [asdf-community/asdf-zig (⭐80)](https://github.com/asdf-community/asdf-zig) - Zig plugin for the [asdf (⭐25k)](https://github.com/asdf-vm/asdf) version manager.
 
 ### Fundamentals / Utility
 
@@ -256,7 +262,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Multimedia & Graphics / Graphics Library
 
-*   [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+*   [zsdl3 (⭐21)](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 
 ## [Feb 11, 2026](/content/2026/02/11/README.md)
 

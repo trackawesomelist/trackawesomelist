@@ -8,6 +8,10 @@
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
+### Tools
+
+*   [ai-evaluation (⭐101)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
+
 ### Research & Knowledge Retrieval
 
 *   [II-Commons (⭐2)](https://github.com/Intelligent-Internet/II-Commons-Skills) - Daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
@@ -147,7 +151,7 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [FirstData (⭐160)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+*   [FirstData (⭐162)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -186,7 +190,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [jSciPy (⭐20)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
+*   [jSciPy (⭐21)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
 
 ### Books / Visualization Tools
 
@@ -322,7 +326,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐680)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐689)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -536,7 +540,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐57k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐57k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐58k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -1021,7 +1025,7 @@
 *   [scikit-learn](https://scikit-learn.org/)
 *   [sigopt\_sklearn (⭐75)](https://github.com/sigopt/sigopt-sklearn)
 *   [Shogun](https://www.shogun-toolbox.org/)
-*   [modAL (⭐2.3k)](https://github.com/modAL-python/modAL)
+*   [modAL (⭐2.4k)](https://github.com/modAL-python/modAL)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 

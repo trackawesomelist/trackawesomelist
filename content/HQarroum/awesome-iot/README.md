@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [May 29, 2026](/content/2026/05/29/README.md)
+
+### Software / Miscellaneous
+
+*   [Electrum (⭐4)](https://github.com/yoelf22/electrum) - A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.
+
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
 ### Software / Frameworks

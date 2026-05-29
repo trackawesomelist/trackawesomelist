@@ -16,6 +16,7 @@
 ### Software / Miscellaneous
 
 *   [BirdNET-Go (⭐1.2k)](https://github.com/tphakala/birdnet-go) - Realtime wildlife soundscape analyser with multi-model AI inference, MQTT publishing with Home Assistant discovery, and web dashboard.
+*   [Electrum (⭐4)](https://github.com/yoelf22/electrum) - A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
