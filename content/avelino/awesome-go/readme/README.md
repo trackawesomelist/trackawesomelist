@@ -2391,13 +2391,14 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [CertMagic (⭐5.6k)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 *   [Coraza (⭐3.5k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 *   [dongle (⭐1.1k)](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding\&decoding and encryption\&decryption.
+*   [dotlock (⭐0)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 *   [encid (⭐6)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 *   [entpassgen (⭐6)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 *   [firewalld-rest (⭐343)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 *   [go-generate-password (⭐57)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 *   [go-htpasswd (⭐47)](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
 *   [go-password-validator (⭐579)](https://github.com/lane-c-wagner/go-password-validator) - Password validator based on raw cryptographic entropy values.
-*   [go-peer (⭐324)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐325)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [go-yara (⭐388)](https://github.com/hillu/go-yara) - Go Bindings for [YARA (⭐141)](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 *   [goArgonPass (⭐20)](https://github.com/dwin/goArgonPass) - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 *   [goSecretBoxPassword (⭐60)](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.

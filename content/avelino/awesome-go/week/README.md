@@ -28,6 +28,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-perfstat (⭐0)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
 
+### Security
+
+*   [dotlock (⭐0)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
+
 ### Third-party APIs
 
 *   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
@@ -2237,7 +2241,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [go-peer (⭐324)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐325)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐75)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)

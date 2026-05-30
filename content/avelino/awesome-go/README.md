@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 30, 2026](/content/2026/05/30/README.md)
+
+### Security
+
+*   [dotlock (⭐0)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
+
 ## [May 29, 2026](/content/2026/05/29/README.md)
 
 ### Performance
@@ -2513,7 +2519,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [go-peer (⭐324)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐325)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 

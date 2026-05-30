@@ -6,6 +6,27 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [May 30, 2026](/content/2026/05/30/README.md)
+
+### Others / Web project skeletons and generators
+
+*   [cl-web-push (⭐6)](https://github.com/ryukinix/cl-web-push) - Web Push Notifications for Common Lisp applications.
+
+### REPLs / Third-party APIs
+
+*   [cl-isocline](https://codeberg.org/digikar/cl-isocline/) - contains `isocline-repl`, a feature-rich Common Lisp REPL with support for: multiline editing, history, syntax highlighting, basic debugging.
+
+### System administration / Third-party APIs
+
+*   [cl-ssh (⭐12)](https://github.com/jmeissen/cl-ssh) -  SSH v2 client implementation. MIT.
+    *   Core transport, authentication, and session execution work. Use at your own risk.
+    *   see also: [trivial-ssh (⭐47)](https://github.com/eudoxia0/trivial-ssh) (*bitrot as of 2026?*)
+
+### VSCode / Third-party APIs
+
+*   NEW as of May, 2026 · [OLIVE (⭐13)](https://github.com/kchanqvq/olive/) - A Common Lisp extension for VSCode with REPL, debugger, go to definition, macro stepper. Based on Swank.
+    *   [announce and difference from Alive](https://old.reddit.com/r/lisp/comments/1tn3zff/new_cl_vscode_extension_olive/)
+
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
 ### Other DB wrappers
@@ -1871,6 +1892,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### VSCode / Third-party APIs
 
 *   [alive (⭐259)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+    *   not based on Slime/Swank.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [Sep 23, 2021](/content/2021/09/23/README.md)
@@ -2238,10 +2260,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Utils / Third-party APIs
 
 *   [STMX (⭐258)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
-
-### REPLs / Third-party APIs
-
-*   [sbcli (⭐105)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Online editors / Third-party APIs
 
@@ -3062,6 +3080,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   [cross compilation](https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html#Cross-compilation)
+        *   [blog report: porting Maxima to iOS](https://li-yiyang.github.io/lisp/imaxima/).
     *   WASM support in development ([NLNET grant in 2025](https://nlnet.nl/project/ECL/))
     *   [eclweb (⭐20)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [CLASP (⭐2.8k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
@@ -3503,6 +3522,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance](https://common-lisp.net/project/armedbear/faq.shtml#qa). [GNU GPL3](http://www.gnu.org/copyleft/gpl.html) with [Classpath exception](http://www.gnu.org/software/classpath/license.html).
     *   [abcl-memory-compiler](https://gitlab.com/cl-projects/abcl-memory-compiler) - a way to compile Java source code to create Java classes at runtime with ABCL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+    *   [py4abcl](https://gitlab.com/cl-projects/py4abcl) - communicate with Python in ABCL.
 
 ### Intermediate
 

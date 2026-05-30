@@ -2,9 +2,15 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 388K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 389K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
+
+## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
+
+### Artificial Intelligence
+
+*   [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - Tiago Monteiro (HTML)
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -26,7 +32,7 @@
 
 ### Misc / Mathematics For Computer Science
 
-*   [Front-end Debugging Tools Handbook (⭐47)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
+*   [Front-end Debugging Tools Handbook (⭐48)](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 
 ## [Feb 02 - Feb 08, 2026](/content/2026/5/README.md)
 
@@ -142,7 +148,7 @@
 
 ### 0 - Meta-Lists
 
-*   [Build your own X (⭐500k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐507k)](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Data Science
 
@@ -158,8 +164,8 @@
 
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐817)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐817)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐826)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐826)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 
 ### Prompt Engineering / Mathematics For Computer Science
 
@@ -168,7 +174,7 @@
 ### Security & Privacy / Mathematics For Computer Science
 
 *   [Network Security](https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable) - OpenLearn (PDF)
-*   [The SELINUX Coloring Book (⭐533)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+*   [The SELINUX Coloring Book (⭐534)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
 
 ## [Oct 06 - Oct 12, 2025](/content/2025/40/README.md)
 
@@ -197,13 +203,13 @@
 
 ### Prompt Engineering / Mathematics For Computer Science
 
-*   [LLM Prompt Engineering Simplified Book (⭐126)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
+*   [LLM Prompt Engineering Simplified Book (⭐127)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
 *   [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 *   [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [The SELinux Notebook (⭐732)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
+*   [The SELinux Notebook (⭐736)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 ### Software Architecture / Mathematics For Computer Science
 
@@ -244,7 +250,7 @@
 
 ### Software Architecture / Mathematics For Computer Science
 
-*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐745)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
+*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐788)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -287,7 +293,7 @@
 
 ### Blockchain
 
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐535)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐536)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 
 ### Machine Learning
 
@@ -355,7 +361,7 @@
 
 ### Programming / Mathematics For Computer Science
 
-*   [The Super Programmer (⭐135)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
+*   [The Super Programmer (⭐136)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -431,7 +437,7 @@
 
 ### Artificial Intelligence
 
-*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.4k)](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
+*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.5k)](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
@@ -1311,7 +1317,7 @@
 
 ### Security & Privacy / Mathematics For Computer Science
 
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐9.2k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐9.4k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
 ### Version Control Systems / Mathematics For Computer Science
 
@@ -1326,7 +1332,7 @@
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *( :card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐386)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐387)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 *   [Introduction to Git and GitHub eBook (⭐1.1k)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
@@ -1355,7 +1361,7 @@
 
 ### Blockchain
 
-*   [Mastering the Lightning Network (⭐2.9k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
+*   [Mastering the Lightning Network (⭐3k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -1460,7 +1466,7 @@
 ### Containers
 
 *   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐98)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
-*   [CI/CD with Docker and Kubernetes Book (⭐213)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐214)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -1664,7 +1670,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐453)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐454)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 
@@ -1743,7 +1749,7 @@
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐65)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐66)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 *   [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks

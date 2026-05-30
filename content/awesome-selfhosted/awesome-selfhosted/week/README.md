@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
+### Software / Automation
+
+*   [flowctl](https://flowctl.net) - Self-service workflow execution platform with approvals, remote execution and scheduling. ([Demo](https://demo.flowctl.net), [Source Code (⭐312)](https://github.com/cvhariharan/flowctl)) `Apache-2.0` `Go/Docker`
+
 ### Software / Games
 
 *   [DDraceNetwork](https://ddnet.org/) - Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay. ([Source Code (⭐780)](https://github.com/ddnet/ddnet)) `Zlib` `C++`
@@ -16,9 +20,17 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐234)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 
+### Software / Search Engines
+
+*   [Hister](https://hister.org/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐1.1k)](https://github.com/asciimoo/hister)) `AGPL-3.0` `Go/Docker`
+
 ### Software / Software Development - API Management
 
 *   [Aastro](https://starwalkn.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐6)](https://github.com/starwalkn/aastro)) `Apache-2.0` `Go/Docker`
+
+### Software / Software Development - Testing
+
+*   [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code (⭐3)](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`
 
 ### Software / Video Surveillance
 
@@ -248,7 +260,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [LLM Harbor](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
+*   [LLM Harbor (⭐3k)](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
 *   [Local Deep Research (⭐7.9k)](https://github.com/LearningCircuit/local-deep-research) - AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage. `MIT` `Docker/Python`
 *   [LocalAI](https://localai.io/) - Run your AI models locally and generate images and audio (alternative to OpenAI and Claude). ([Source Code (⭐46k)](https://github.com/mudler/LocalAI), [Clients](https://localai.io/gallery.html)) `MIT` `Docker/K8S`
 
@@ -436,7 +448,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Agenta](https://agenta.ai/) - LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications with collaborative prompt engineering. ([Source Code (⭐4.1k)](https://github.com/agenta-ai/agenta)) `MIT` `Docker`
 *   [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code (⭐30k)](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
-*   [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code (⭐58)](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Docker`
 
 ### Software / Groupware
 

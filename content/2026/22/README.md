@@ -1,12 +1,40 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2026
 
-40 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [1. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+
+### Libraries and Tools / Python
+
+*   [Jumpstarter (⭐28)](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with automotive diagnostic drivers for UDS, DoIP, and CAN bus protocols.
+*   [canarchy (⭐1)](https://github.com/hexsecs/canarchy) - CANarchy is a stream-first CAN analysis and manipulation runtime designed for automation, security research, and agent-driven workflows.
+
+### Miscellaneous / Episodes
+
+*   [AutoPi (⭐184)](https://github.com/autopi-io/autopi-core) - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for vehicle telematics, CAN bus data collection, and automotive IoT applications.
+
+### Applications / Episodes
+
+*   [BlackFlag ECU (⭐17)](https://github.com/bad-antics/blackflag-ecu) - Professional ECU diagnostics and tuning suite with OBD-II scanning, DTC reading, live sensor monitoring, and reflash capabilities.
+*   [Tesla Mod (⭐793)](https://github.com/hypery11/flipper-tesla-fsd) - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
+
+## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+
+### Platforms and Software Resources / AI in Planning Tools and Platforms
+
+*   [Ollama](https://ollama.com/) - A free and an open-source framework that allows you to easily set up, manage, and run LLMs directly on your own computer.
+
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Artificial Intelligence
+
+*   [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - Tiago Monteiro (HTML)
+
+## [4. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Content and utilities for content
 
@@ -50,25 +78,25 @@
 *   [plone-registryfromenviron](https://github.com/bluedynamics/plone-registryfromenviron) - Override plone.registry settings from environment variables.
 *   [Cloudbrine](https://bluedynamics.github.io/zodb-pgjsonb/ecosystem.html) - A set of add-ons that replace the ZODB and the catalog with PostgreSQL and stores objects as queryable JSONB and can delegate image scaling to Thumbor.
 
-## [2. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [visqol-python (⭐2)](https://github.com/talker93/visqol-python) [:octocat: (⭐2)](https://github.com/talker93/visqol-python) [:package:](https://pypi.org/project/visqol-python/) - Port of Google's ViSQOL audio/speech quality metric (MOS-LQO) that installs without Bazel.
 
-## [3. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [6. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Window Management / Shell Utilities
 
 *   [mrkai77/Loop (⭐11k)](https://github.com/mrkai77/Loop) — Window management made elegant. ☆`10,808`
 
-## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Scanning / Sub Domain Enumeration
 
 *   [SecuriTool](https://securitool.js.org/) - Free online collection of 29 client-side web security tools: web auditor, JWT attacker/decoder, CVE search, CSP evaluator, email security checker (SPF/DKIM/DMARC), subdomain scanner, and more. 100% client-side, privacy-first, open source by [@ReplikanteK](https://github.com/ReplikanteK).
 
-## [5. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [8. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Web Framework
 
@@ -81,13 +109,13 @@
 *   [SMC17/tokenizers-zig (⭐2)](https://github.com/SMC17/tokenizers-zig) - Pure-Zig HuggingFace tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 *   [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
 
-## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Database
 
 *   [chdb (⭐2.7k)](https://github.com/chdb-io/chdb) - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
@@ -105,7 +133,7 @@
 
 *   [Scaling up your Screenshot Testing, without the Friction](https://www.youtube.com/watch?v=9sarjgIHF2g) - Mobile focussed talk from Droidcon/Fluttercon India. Explains the bottlenecks with scaling up screenshot testing and how to solve them.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
@@ -119,7 +147,7 @@
 *   [`esp32c61`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c61) - [![crates.io](https://img.shields.io/crates/v/esp32c61.svg)](https://crates.io/crates/esp32c61)
 *   [`esp32p4`](https://github.com/esp-rs/esp-pacs/tree/main/esp32p4) - [![crates.io](https://img.shields.io/crates/v/esp32p4.svg)](https://crates.io/crates/esp32p4)
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
@@ -129,7 +157,7 @@
 
 *   [wide-integer (⭐218)](https://github.com/ckormanyos/wide-integer) - Wide-Integer implements a generic C++ template for uint128\_t, uint256\_t, uint512\_t, uint1024\_t, etc. \[BSL-1.0]
 
-## [10. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [13. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Tools
 
@@ -147,7 +175,7 @@
 
 *   [Awesome AI Music Generation (⭐463)](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated list of AI music generation tools and resources.
 
-## [11. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [PikoCI](https://pikoci.com)
 
@@ -161,7 +189,7 @@
 
 
 
-## [12. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [15. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Image Editing
 
@@ -180,7 +208,7 @@
 
 *   [BestAIFor.com](https://bestaifor.com/) - A curated directory of the best AI tools, organized by use case. `#free`
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Other DB wrappers
 
@@ -190,17 +218,36 @@
 
 *   [DRef (⭐4)](https://github.com/melisgl/dref) - Another definition introspection library with extensive documentation, tests and an emphasis on extensibility. [MIT](https://opensource.org/licenses/MIT).
 
+### Others / Web project skeletons and generators
+
+*   [cl-web-push (⭐6)](https://github.com/ryukinix/cl-web-push) - Web Push Notifications for Common Lisp applications.
+
+### REPLs / Third-party APIs
+
+*   [cl-isocline](https://codeberg.org/digikar/cl-isocline/) - contains `isocline-repl`, a feature-rich Common Lisp REPL with support for: multiline editing, history, syntax highlighting, basic debugging.
+
+### System administration / Third-party APIs
+
+*   [cl-ssh (⭐12)](https://github.com/jmeissen/cl-ssh) -  SSH v2 client implementation. MIT.
+    *   Core transport, authentication, and session execution work. Use at your own risk.
+    *   see also: [trivial-ssh (⭐47)](https://github.com/eudoxia0/trivial-ssh) (*bitrot as of 2026?*)
+
+### VSCode / Third-party APIs
+
+*   NEW as of May, 2026 · [OLIVE (⭐13)](https://github.com/kchanqvq/olive/) - A Common Lisp extension for VSCode with REPL, debugger, go to definition, macro stepper. Based on Swank.
+    *   [announce and difference from Alive](https://old.reddit.com/r/lisp/comments/1tn3zff/new_cl_vscode_extension_olive/)
+
 ### Online editors / Third-party APIs
 
 *   [Try (⭐41)](https://github.com/melisgl/try) - Try is an extensible test anti-framework with equal support for interactive and non-interactive workflows, as well as Emacs integration. [MIT](https://opensource.org/licenses/MIT).
 
-## [14. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [doomemacs/doomemacs (⭐22k)](https://github.com/doomemacs/doomemacs#readme) - Beautiful and well organized. Centered title with section links and useful badges. Screenshot to show off the UI. Well-written introduction with a humorous quote that perfectly describes the project, plus a little demon that says "Yay Evil!" to complete the aesthetic. Concise and informative feature list followed by excellent installation instructions. Ends with helpful links to documentation and built-in shortcuts.
 
-## [15. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [18. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -223,7 +270,7 @@
 
 *   [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ\&printsec=frontcover\&dq=Hardware+hacker+bunnie+huang\&hl=nl\&newbks=1\&newbks_redir=1\&sa=X\&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File Explorer / Assembly
 
@@ -237,7 +284,7 @@
 
 *   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
 
-## [17. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [20. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Commercial Honepots
 
@@ -347,31 +394,31 @@
 
 *   [The Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
 
-## [18. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [21. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
 *   [zuban (⭐1.1k)](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust.
 
-## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [22. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
 *   [KKTerm (⭐9)](https://github.com/ryantsai/KKTerm) - A Windows-first, local-first terminal for managing connections, sessions, and workspaces.
 
-## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
 *   [GiavaScript (⭐1)](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
 
-## [21. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [24. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
 *   [Upsun](https://upsun.com)
 
-## [22. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -488,7 +535,7 @@
 
 
 
-## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [26. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Development
 
@@ -503,7 +550,7 @@
 
 *   [LuaJIT-ImGui (⭐293)](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.
 
-## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Research & Knowledge Retrieval
 
@@ -513,7 +560,7 @@
 
 *   [ai-evaluation (⭐101)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 
-## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Plugins / Navigation
 
@@ -523,7 +570,7 @@
 
 *   [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
-## [26. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [29. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Popular AI Tools
 
@@ -534,13 +581,13 @@
 *   [Github Wiki Generator (⭐13)](https://github.com/Satttoshi/github-wiki-generator)
 *   [OpenDeepWiki (⭐3.3k)](https://github.com/AIDotNet/OpenDeepWiki)
 
-## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### DNS / GitHub
 
 *   [dnsx (⭐2.7k)](https://github.com/projectdiscovery/dnsx) - A fast and multi-purpose DNS toolkit from ProjectDiscovery for running DNS probes, resolving records and filtering DNS responses.
 
-## [28. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [31. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -555,7 +602,7 @@
 *   [Q2RTXPerimental (⭐16)](https://github.com/PolyhedronStudio/Q2RTXPerimental) - My 'Experimental' fork of NVIDIA’s implementation of RTX ray-tracing in Quake II
 *   [QuakeLive (⭐3)](https://github.com/themuffinator/QuakeLive) - A full source code reconstruction effort for QUAKE LIVE, based upon the QUAKE III: ARENA GPL source \[WIP]
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Finance
 
@@ -600,7 +647,7 @@
     *   [Performance of Rust language](https://raw.githubusercontent.com/yugr/rust-slides/main/EN.pdf) - An overview of Rust's performance-oriented language features
     *   [The Rust Performance Book](https://nnethercote.github.io/perf-book/) - Tips for optimizing Rust programs
 
-## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -644,7 +691,7 @@
 
 *   [YAML (⭐471) (⭐467)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -654,14 +701,14 @@
 
 *   [RedirHub](https://www.redirhub.com/) - API-first URL redirect infrastructure with custom nameservers, edge network, HTTPS, and proactive link monitoring. Free plan includes 2 hostnames, 100K requests per month, auto-SSL, path forwarding, and REST API access.
 
-## [32. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 *   [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -680,19 +727,19 @@
 
 *   [birda (⭐23)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
-## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [37. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Google Cloud
 
 *   [Self-host n8n on Google Cloud Run (⭐605)](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 
-## [35. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [38. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -718,6 +765,10 @@
 
 *   [go-perfstat (⭐0)](https://github.com/go-perfstat/go) - Lightweight performance statistics and execution time aggregation for Go.
 
+### Security
+
+*   [dotlock (⭐0)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
+
 ### Third-party APIs
 
 *   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
@@ -730,7 +781,7 @@
 
 *   [structalign (⭐1)](https://github.com/peczenyj/structalign) - Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### AI Tools / Other Tools
 
@@ -744,7 +795,11 @@
 
 *   [PureSnitch (⭐9)](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/momenbasel/puresnitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Automation
+
+*   [flowctl](https://flowctl.net) - Self-service workflow execution platform with approvals, remote execution and scheduling. ([Demo](https://demo.flowctl.net), [Source Code (⭐312)](https://github.com/cvhariharan/flowctl)) `Apache-2.0` `Go/Docker`
 
 ### Software / Games
 
@@ -754,19 +809,26 @@
 
 *   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐234)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 
+### Software / Search Engines
+
+*   [Hister](https://hister.org/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ([Demo](https://demo.hister.org/), [Source Code (⭐1.1k)](https://github.com/asciimoo/hister)) `AGPL-3.0` `Go/Docker`
+
 ### Software / Software Development - API Management
 
 *   [Aastro](https://starwalkn.github.io/aastro-docs) - Extensible API Gateway written in Go. ([Source Code (⭐6)](https://github.com/starwalkn/aastro)) `Apache-2.0` `Go/Docker`
+
+### Software / Software Development - Testing
+
+*   [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code (⭐3)](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`
 
 ### Software / Video Surveillance
 
 *   [Strix (⭐690)](https://github.com/eduard256/Strix) - Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. `MIT` `Go/Docker`
 
-## [39. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [42. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
-*   [Jumpstarter (⭐28)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
 *   [Iotellect](https://iotellect.com) - A low-code IoT platform for device integration, data collection, and real-time visualization. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols with drag-and-drop UI builder.
 
 ### Software / Miscellaneous
@@ -774,7 +836,7 @@
 *   [BirdNET-Go (⭐1.2k)](https://github.com/tphakala/birdnet-go) - Realtime wildlife soundscape analyser with multi-model AI inference, MQTT publishing with Home Assistant discovery, and web dashboard.
 *   [Electrum (⭐4)](https://github.com/yoelf22/electrum) - A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.
 
-## [40. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [43. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
