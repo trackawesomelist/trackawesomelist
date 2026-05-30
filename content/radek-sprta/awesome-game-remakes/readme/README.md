@@ -52,12 +52,13 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Adventure
 
 *   [DetectiveDS (⭐4)](https://github.com/RustyPixelsUK/DetectiveDS) - A remake of the original C64 classic The Detective Game for Nintendo DS.
-*   [ScummVM (⭐2.7k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
-*   [lba2remake (⭐280)](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
-*   [twin-e (⭐88)](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
-*   [timeco (⭐7)](https://github.com/LBALab/timeco) - Time Commando Reimplementation
+*   [Dusklight (⭐4.4k)](https://github.com/TwilitRealm/dusklight) - Dusklight is a reverse-engineered reimplementation of Twilight Princess.
 *   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
 *   [lba2-classic-community (⭐97)](https://github.com/LBALab/lba2-classic-community) - Little Big Adventure 2 engine source code.
+*   [lba2remake (⭐280)](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
+*   [ScummVM (⭐2.7k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
+*   [twin-e (⭐88)](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
+*   [timeco (⭐7)](https://github.com/LBALab/timeco) - Time Commando Reimplementation
 
 ## Arcade
 

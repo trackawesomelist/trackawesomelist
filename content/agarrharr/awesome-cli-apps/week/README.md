@@ -8,6 +8,10 @@
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
+### Development / Database
+
+*   [pgxcli (⭐46)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [gtasks (⭐151)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
@@ -47,13 +51,13 @@
 
 ### Files and Directories / Search
 
-*   [reflex (⭐51)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+*   [reflex (⭐57)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
 ### Entertainment / Music
 
-*   [termusic (⭐2k)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
+*   [termusic (⭐2.1k)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 
 ### Utilities / Theming and Customization
 
@@ -67,7 +71,7 @@
 
 ### AI / Agents
 
-*   [lean-ctx (⭐1.6k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+*   [lean-ctx (⭐2.3k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -584,7 +588,7 @@
 
 ### Command Line Learning / Professional: Resume
 
-*   [yai (⭐870)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐866)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ### Files and Directories / File Managers
 
@@ -1063,7 +1067,7 @@
 *   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Professional: Resume
 
@@ -1085,7 +1089,7 @@
 
 *   [jq (⭐35k)](https://github.com/stedolan/jq) - JSON processor.
 *   [yq (⭐2.9k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐7.9k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [dasel (⭐8k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐91)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐585)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 

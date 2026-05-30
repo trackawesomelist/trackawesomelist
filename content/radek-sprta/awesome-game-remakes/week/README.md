@@ -14,6 +14,10 @@ Actively maintained open-source game remakes.
 *   [Speed-Academy (⭐16)](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 *   [Speed-Outcast (⭐10)](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
 
+### Adventure
+
+*   [Dusklight (⭐4.4k)](https://github.com/TwilitRealm/dusklight) - Dusklight is a reverse-engineered reimplementation of Twilight Princess.
+
 ### FPS
 
 *   [DOOM64EXUltra (⭐4)](https://github.com/StevenSYS/DOOM64EXUltra) - A fork of DOOM 64 EX+ with new stuff and fixes
@@ -56,11 +60,11 @@ Actively maintained open-source game remakes.
 ### Adventure
 
 *   [DetectiveDS (⭐4)](https://github.com/RustyPixelsUK/DetectiveDS) - A remake of the original C64 classic The Detective Game for Nintendo DS.
+*   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
+*   [lba2-classic-community (⭐97)](https://github.com/LBALab/lba2-classic-community) - Little Big Adventure 2 engine source code.
 *   [lba2remake (⭐280)](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
 *   [twin-e (⭐88)](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
 *   [timeco (⭐7)](https://github.com/LBALab/timeco) - Time Commando Reimplementation
-*   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
-*   [lba2-classic-community (⭐97)](https://github.com/LBALab/lba2-classic-community) - Little Big Adventure 2 engine source code.
 
 ### Arcade
 

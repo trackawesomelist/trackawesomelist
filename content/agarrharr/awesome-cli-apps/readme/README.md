@@ -139,7 +139,7 @@ Inspired by the [awesome (⭐467k)](https://github.com/sindresorhus/awesome) lis
 *   [radio-active (⭐586)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 *   [mpvc (⭐147)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 *   [TUISIC (⭐60)](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
-*   [termusic (⭐2k)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
+*   [termusic (⭐2.1k)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 
 ### Video
 
@@ -236,6 +236,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [usql (⭐9.9k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 *   [rdsai-cli (⭐54)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 *   [squix (⭐234)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+*   [pgxcli (⭐46)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Devops
 
@@ -263,7 +264,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐150)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 *   [decompose (⭐133)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 *   [kool (⭐720)](https://github.com/kool-dev/kool) - Web development with containers made easy.
@@ -557,7 +558,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [Wat (⭐508)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐412)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐870)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐866)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
@@ -570,7 +571,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [jq (⭐35k)](https://github.com/stedolan/jq) - JSON processor.
 *   [yq (⭐2.9k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐7.9k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [dasel (⭐8k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐91)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐585)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 *   [xq (⭐1.1k)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
@@ -705,7 +706,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [srgn (⭐898)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 *   [rawhide (⭐56)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 *   [semantic-grep (⭐1.2k)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
-*   [reflex (⭐51)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+*   [reflex (⭐57)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## Version Control
 
@@ -823,7 +824,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [coi (⭐507)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 *   [agentify (⭐26)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 *   [actionbook (⭐1.5k)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
-*   [lean-ctx (⭐1.6k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+*   [lean-ctx (⭐2.3k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 
 ### LLM Interaction
 

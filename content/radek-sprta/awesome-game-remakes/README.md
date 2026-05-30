@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [May 30, 2026](/content/2026/05/30/README.md)
+
+### Adventure
+
+*   [Dusklight (⭐4.4k)](https://github.com/TwilitRealm/dusklight) - Dusklight is a reverse-engineered reimplementation of Twilight Princess.
+
 ## [May 26, 2026](/content/2026/05/26/README.md)
 
 ### Action
@@ -63,11 +69,11 @@ Actively maintained open-source game remakes.
 ### Adventure
 
 *   [DetectiveDS (⭐4)](https://github.com/RustyPixelsUK/DetectiveDS) - A remake of the original C64 classic The Detective Game for Nintendo DS.
+*   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
+*   [lba2-classic-community (⭐97)](https://github.com/LBALab/lba2-classic-community) - Little Big Adventure 2 engine source code.
 *   [lba2remake (⭐280)](https://github.com/LBALab/lba2remake) - A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React.
 *   [twin-e (⭐88)](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
 *   [timeco (⭐7)](https://github.com/LBALab/timeco) - Time Commando Reimplementation
-*   [lba1-classic (⭐1)](https://github.com/LBALab/lba1-classic) - Little Big Adventure: Twinsen's Adventure Definitive Edition
-*   [lba2-classic-community (⭐97)](https://github.com/LBALab/lba2-classic-community) - Little Big Adventure 2 engine source code.
 
 ### Arcade
 

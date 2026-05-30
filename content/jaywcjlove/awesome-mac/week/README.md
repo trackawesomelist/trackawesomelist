@@ -20,6 +20,10 @@
 
 *   [PureSnitch (⭐9)](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/momenbasel/puresnitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Cleanup and Uninstall
+
+*   [Mac Clean (⭐31)](https://github.com/iliyami/MacClean) - Free, open-source cleaner, optimizer, and malware scanner. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iliyami/MacClean) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Reading and Writing Tools / RSS
@@ -2013,7 +2017,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐2.8k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐2.9k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [Syntax Highlight (⭐4.1k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)

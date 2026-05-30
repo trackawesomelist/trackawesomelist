@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [May 30, 2026](/content/2026/05/30/README.md)
+
+### Utilities / Cleanup and Uninstall
+
+*   [Mac Clean (⭐31)](https://github.com/iliyami/MacClean) - Free, open-source cleaner, optimizer, and malware scanner. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/iliyami/MacClean) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [May 29, 2026](/content/2026/05/29/README.md)
 
 ### AI Tools / Other Tools
@@ -2346,7 +2352,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [QLMarkdown (⭐2.8k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [QLMarkdown (⭐2.9k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [Syntax Highlight (⭐4.1k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [Oct 16, 2022](/content/2022/10/16/README.md)

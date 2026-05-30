@@ -1243,6 +1243,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 *   [App Uninstaller (⭐20)](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 *   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
+*   [Mac Clean (⭐31)](https://github.com/iliyami/MacClean) - Free, open-source cleaner, optimizer, and malware scanner. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8\&platform=mac)
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 *   [ClearDisk (⭐337)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
@@ -1556,7 +1557,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
-*   [QLMarkdown (⭐2.8k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+*   [QLMarkdown (⭐2.9k)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 *   [FluxMarkdown (⭐987)](https://github.com/xykong/flux-markdown) - Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 *   [markdown-quicklook (⭐4)](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 *   [Torrent Preview (⭐28)](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
