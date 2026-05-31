@@ -171,7 +171,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Userstyles
 
-*   [Modern Hacker News Userstyle (⭐22)](https://github.com/losuler/hacker-news-userstyle)
+*   [Modern Hacker News Userstyle (⭐21)](https://github.com/losuler/hacker-news-userstyle)
 
 ### Desktop (Windows, macOS, Linux)
 
@@ -194,7 +194,7 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 ### iOS
 
 *   [Boreal](https://itunes.apple.com/us/app/boreal-a-hacker-news-client/id925851179?ls=1\&mt=8)
-*   [Gem for Hacker News (⭐79)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
 *   [HACK for Hacker News](https://itunes.apple.com/us/app/hack-for-hacker-news-developer/id1464477788?mt=8)
 *   [Hack Later](http://brushedtype.co/apps/hack-later/)
 *   [Hacker Feed](https://itunes.apple.com/us/app/hacker-feed/id1451386900)
@@ -212,8 +212,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 
 ### Android
 
-*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
-*   [Hacker News client for Android (⭐229)](https://github.com/bishopmatthew/hackernews)
+*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
+*   [Hacker News client for Android (⭐228)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [Hacker News Reader](https://www.hn-reader.com)
 *   [Hacki for Hacker News (⭐1.6k)](https://github.com/Livinglist/Hacki)
@@ -255,7 +255,8 @@ A collection of awesome [Hacker News](https://news.ycombinator.com/) apps, libra
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
 *   [Node HackerNews (⭐3)](https://github.com/headcanon/node-hn)
-*   [Pyhn (⭐383)](https://github.com/socketubs/pyhn)
+*   [Pyhn (⭐384)](https://github.com/socketubs/pyhn)
+*   [Circumflex (⭐2k)](https://github.com/bensadeh/circumflex)
 
 ### Alfred workflows
 
