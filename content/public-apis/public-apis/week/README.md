@@ -6,6 +6,438 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Calendar
+
+- API: [Checkiday - National Holiday](https://apilayer.com/marketplace/checkiday-api)
+
+  Description: Industry-leading holiday data with over 5,000 holidays and thousands of descriptions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [Talordata](https://docs.talordata.com/)
+
+  Description: SERP data from major search engines with a free trial
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Documents & Productivity
+
+- API: [Renderly](https://renderlyapi.com)
+
+  Description: HTML to PDF conversion API built on Chromium
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Smart Image Enhancement](https://apilayer.com/marketplace/image_enhancement-api)
+
+  Description: Performs image upscaling by adding detail to images through multiple super-resolution algorithms
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Finance
+
+- API: [Bank Data](https://apilayer.com/marketplace/bank_data-api)
+
+  Description: Instant IBAN and SWIFT number validation across the globe
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+- API: [Tax Data](https://apilayer.com/marketplace/tax_data-api)
+
+  Description: Instant VAT number and tax validation across the globe
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Food & Drink
+
+- API: [BaconMockup](https://baconmockup.com/)
+
+  Description: Resizable bacon placeholder images
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Chomp](https://chompthis.com/api/)
+
+  Description: Data about various grocery products and foods
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Coffee](https://coffee.alexflipnote.dev/)
+
+  Description: Random pictures of coffee
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)
+
+  Description: Nutrition Analysis
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)
+
+  Description: Recipe Search
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Foodish (⭐121)](https://github.com/surhud004/Foodish#readme)
+
+  Description: Random pictures of food dishes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Fruityvice](https://www.fruityvice.com)
+
+  Description: Data about all kinds of fruit
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Kroger](https://developer.kroger.com/reference)
+
+  Description: Supermarket Data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [LCBO](https://lcboapi.com/)
+
+  Description: Alcohol
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Open Brewery DB](https://www.openbrewerydb.org)
+
+  Description: Breweries, Cideries and Craft Beer Bottle Shops
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Open Food Facts](https://world.openfoodfacts.org/data)
+
+  Description: Food Products Database
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [PunkAPI](https://punkapi.com/)
+
+  Description: Brewdog Beer Recipes
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [RecipeAPI](https://recipeapi.io)
+
+  Description: Recipes, ingredients, nutrition data and cooking instructions
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Rustybeer](https://rustybeer.herokuapp.com/)
+
+  Description: Beer brewing tools
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Spoonacular](https://spoonacular.com/food-api)
+
+  Description: Recipes, Food Products, and Meal Planning
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Systembolaget](https://api-portal.systembolaget.se)
+
+  Description: Govornment owned liqour store in Sweden
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)
+
+  Description: Community-driven taco database
+
+  Auth: No
+
+  HTTPS: No
+
+  CORS: Unknown
+
+
+- API: [Tasty](https://rapidapi.com/apidojo/api/tasty/)
+
+  Description: API to query data about recipe, plan, ingredients
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [The Report of the Week (⭐54)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+
+  Description: Food & Drink Reviews
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [TheCocktailDB](https://www.thecocktaildb.com/api.php)
+
+  Description: Cocktail Recipes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [TheMealDB](https://www.themealdb.com/api.php)
+
+  Description: Meal Recipes
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Untappd](https://untappd.com/api/docs)
+
+  Description: Social beer sharing
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [What's on the menu?](http://nypl.github.io/menus-api/)
+
+  Description: NYPL human-transcribed historical menu collection
+
+  Auth: `apiKey`
+
+  HTTPS: No
+
+  CORS: Unknown
+
+
+- API: [WhiskyHunter](https://whiskyhunter.net/api/)
+
+  Description: Past online whisky auctions statistical data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Zestful](https://zestfuldata.com/)
+
+  Description: Parse recipe ingredients
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [MedlinePlus Genetics](https://medlineplus.gov/about/developers/geneticsdatafilesapi/)
+
+  Description: Genetic conditions, genes, chromosomes and mtDNA data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Social
+
+- API: [GetXAPI](https://www.getxapi.com/)
+
+  Description: Read Twitter / X data and post tweets, likes, retweets, follows, DMs via REST
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Text Analysis
+
+- API: [Code Detection](https://codedetectionapi.runtime.dev)
+
+  Description: Detect, label, format and enrich the code in your app or in your data pipeline
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Vehicle
+
+- API: [RevCarData](https://revcardata.com)
+
+  Description: 86,000+ global vehicle specifications and EV metrics
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Video
+
+- API: [Hyperserve](https://hyperserve.io/)
+
+  Description: Video backend API: upload any format, transcode to MP4, deliver via CDN
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Books
@@ -42,14 +474,11 @@ A collective list of free APIs
 
   Description: Live economic data — CPI, PPI, energy, treasury rates, BTC premium
 
-  Auth: apiKey
+  Auth: `apiKey`
 
   HTTPS: Yes
 
   CORS: Yes
-
-
-- API: **[⬆ Back to Index](#index)**
 
 
 
@@ -520,7 +949,7 @@ A collective list of free APIs
 
 - API: [Verome (⭐222)](https://github.com/Kirazul/Verome-API)
 
-  Description: Music API for searching, streaming, and exploring music data from YouTube Music, YouTube, and Last.fm
+  Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
   Auth: No
 
@@ -840,7 +1269,7 @@ A collective list of free APIs
 
 - API: [IPLogs](https://iplogs.com/docs)
 
-  Description: Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing.
+  Description: Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing
 
   Auth: No
 
@@ -868,7 +1297,7 @@ A collective list of free APIs
 
 - API: [GeoScore](https://geoscoreapi.com)
 
-  Description: Score content for AI search citation readiness. Returns a 0-100 GEO score, 8 structural metrics, and improvement fixes
+  Description: Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics
 
   Auth: `apiKey`
 
@@ -1266,11 +1695,9 @@ A collective list of free APIs
 
   Auth: `apiKey`
 
-  HTTPS: YES
+  HTTPS: Yes
 
-  CORS: 
-
-  : 
+  CORS: Unknown
 
 
 
@@ -1304,65 +1731,6 @@ A collective list of free APIs
 
 
 
-## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
-
-### Calendar
-
-- API: [Checkiday - National Holiday API](https://apilayer.com/marketplace/checkiday-api)
-
-  Description: Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Documents & Productivity
-
-- API: [Smart Image Enhancement API](https://apilayer.com/marketplace/image_enhancement-api)
-
-  Description: Performs image upscaling by adding detail to images through multiple super-resolution algorithms
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Finance
-
-- API: [Bank Data API](https://apilayer.com/marketplace/bank_data-api)
-
-  Description: Instant IBAN and SWIFT number validation across the globe
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
-
-- API: [Tax Data API](https://apilayer.com/marketplace/tax_data-api)
-
-  Description: Instant VAT number and tax validation across the globe
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
-
-
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
 ### Cloud Storage & File Sharing
@@ -1376,8 +1744,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
-
-  : 
 
 
 
@@ -1412,17 +1778,6 @@ A collective list of free APIs
 
 
 ### Text Analysis
-
-- API: [Code Detection API](https://codedetectionapi.runtime.dev)
-
-  Description: Detect, label, format and enrich the code in your app or in your data pipeline
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
 
 - API: [Hirak OCR](https://ocr.hirak.site/)
 

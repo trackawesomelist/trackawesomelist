@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ [Daily](/content/zigcc/awesome-zig/README.md) / Weekly / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [nDimensional/zig-flatbuffers (⭐6)](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Fundamentals / Documentation and Testing
@@ -399,7 +405,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Network
 
-*   [YUX/floo](https://github.com/YUX/floo) - High-throughput, token-authenticated tunneling built in Zig. Multiplexes TCP and UDP services through a Noise-protected transport with 29+ Gbit/s encrypted throughput.
+*   [YUX/floo (⭐57)](https://github.com/YUX/floo) - High-throughput, token-authenticated tunneling built in Zig. Multiplexes TCP and UDP services through a Noise-protected transport with 29+ Gbit/s encrypted throughput.
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
 
@@ -707,7 +713,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Interoperability / FFI Bindings
 
-*   [sackosoft/zig-luajit](https://github.com/sackosoft/zig-luajit) - Zig bindings for the LuaJIT C API.
+*   [sackosoft/zig-luajit (⭐76)](https://github.com/sackosoft/zig-luajit) - Zig bindings for the LuaJIT C API.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -1351,7 +1357,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Network
 
-*   [Vexu/routez](https://github.com/Vexu/routez) - HTTP server for Zig.
+*   [Vexu/routez (⭐248)](https://github.com/Vexu/routez) - HTTP server for Zig.
 *   [Vexu/zuri (⭐50)](https://github.com/Vexu/zuri) - URI parser for Zig.
 *   [karlseguin/http.zig (⭐1.5k)](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for Zig.
 *   [ducdetronquito/h11 (⭐103)](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
@@ -1366,7 +1372,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Network & Web / Runtime
 
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+*   [oven-sh/bun (⭐93k)](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 ### Network & Web / Web Framework
 

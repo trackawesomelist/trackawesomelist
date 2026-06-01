@@ -2,7 +2,7 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 249 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 253 · 🏷️ Security
 
 [ [Daily](/content/bakke92/awesome-gdpr/README.md) / [Weekly](/content/bakke92/awesome-gdpr/week/README.md) / Overview ]
 
@@ -28,7 +28,6 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 *   [Data Protection Authorities](#data-protection-authorities-art-51--59)
 *   [Organisations / Projects](#organisations--projects)
 *   [Publications](#Publications)
-*   [Solutions providers](#Solutions-providers)
 *   [Related](#Related)
 
 ## Legal text
@@ -47,15 +46,15 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 ## Rights of the data subject (art. 12 - 23)
 
-*   [Open source privacy notice template (Juro) (⭐179)](https://github.com/juro-privacy/free-privacy-notice)
+*   [Open source privacy notice template (Juro)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐353)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐352)](https://github.com/LINCnil/GDPR-Developer-Guide)
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 *   [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 *   [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
-*   [dstack (⭐458)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
+*   [dstack (⭐496)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
 ## Records of Processing (art. 30)
 
@@ -72,7 +71,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐8.9k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐9.1k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ## Data Protection Impact Assessments (DPIA, art. 35)
@@ -88,6 +87,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 *   [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 *   [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country.
 *   [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
+*   [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 
 ## Data Protection Authorities (art. 51 -59)
 
@@ -120,9 +120,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Related
 
 *   [Privacy Respecting (⭐2k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐446k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐467k)](https://github.com/sindresorhus/awesome#security)
 *   [Awesome: Humane Tech (⭐3.1k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
-*   [Awesome: Privacy (⭐18k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐19k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 *   [Developers Guide to HIPAA Compliance (⭐1.7k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 *   [Analytics without cookies](https://www.gocookieless.com/)
 *   [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)

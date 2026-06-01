@@ -6,6 +6,12 @@
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / Weekly / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Software / Libraries and Tools
+
+*   [aem-modbus-simulator (⭐1)](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Python Modbus RTU/TCP slave simulator emulating the LRI AEM-60DC8 industrial DC monitor. Mirrors 147 holding registers, 8 DC channels, six baudrates (4,800-115,200). Useful for SCADA/PLC integration testing without physical hardware.
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Software / Frameworks

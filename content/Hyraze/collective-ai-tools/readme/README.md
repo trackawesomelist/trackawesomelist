@@ -12,16 +12,19 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 > Explore a curated selection of AI tools and resources.
 > We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐186)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐186)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
-> [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-> [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/collective-ai-tools)
-> [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license)
-> ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-> ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fcollective-ai-tools\&countColor=%2337d67a\&style=flat)
-> ![GitHub contributors](https://img.shields.io/github/contributors/Hyraze/collective-ai-tools)
-> ![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/collective-ai-tools)
-> ![Github](https://img.shields.io/github/license/Hyraze/collective-ai-tools)
-> ![GitHub issues](https://img.shields.io/github/issues/Hyraze/collective-ai-tools)
-> ![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/collective-ai-tools) <a href="https://www.producthunt.com/posts/ai-collective-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-collective&#0045;ai&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835&theme=light" alt="Collective&#0032;AI&#0032;Tools - Explore&#0032;a&#0032;curated&#0032;selection&#0032;of&#0032;AI&#0032;tools&#0032;and&#0032;resources&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/collective-ai-tools)
+[![CodeFactor](https://www.codefactor.io/repository/github/hyraze/collective-ai-tools/badge)](https://www.codefactor.io/repository/github/hyraze/collective-ai-tools)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fcollective-ai-tools\&countColor=%2337d67a\&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/Hyraze/collective-ai-tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hyraze/collective-ai-tools)
+![GitHub license](https://img.shields.io/github/license/Hyraze/collective-ai-tools)
+![GitHub issues](https://img.shields.io/github/issues/Hyraze/collective-ai-tools)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/collective-ai-tools)
+
+[![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835\&theme=light)](https://www.producthunt.com/posts/ai-collective-tools)
 
 ## Pricing
 
@@ -1117,6 +1120,7 @@ Use these hashtags in search to filter out the tools
 *   [WinkStudio](https://wink.meitu.com/) - Meitu image restoration and portrait retouch. `#free`
 *   [Wondershare Timo](https://timo.wondershare.com/) - Professional one-stop media creation solution. \`\`
 *   [Xiling Digital Human](https://xiling.baidu.com/) - Marketing promotion and content output avatars. `#free`
+*   [ZOOOP](https://zooop.ai/) - AI-native filmmaking workstation for text/image-to-video, lip-sync, and storyboarding on an infinite canvas. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

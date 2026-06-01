@@ -296,6 +296,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [travisstaloch/protobuf-zig (⭐53)](https://github.com/travisstaloch/protobuf-zig) - A protocol buffers implementation in Zig.
 *   [Arwalk/zig-protobuf (⭐404)](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 *   [mattnite/protobuf (⭐4)](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
+*   [nDimensional/zig-flatbuffers (⭐6)](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
 
 ### Date, Time and Timezones
 

@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jun 01, 2026](/content/2026/06/01/README.md)
+
+### Video
+
+*   [ZOOOP](https://zooop.ai/) - AI-native filmmaking workstation for text/image-to-video, lip-sync, and storyboarding on an infinite canvas. `#freemium`
+
 ## [May 28, 2026](/content/2026/05/28/README.md)
 
 ### Image Editing
