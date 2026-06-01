@@ -396,6 +396,20 @@ A collective list of free APIs
 
 
 
+### Sports & Fitness
+
+- API: [TheRundown](https://therundown.io/)
+
+  Description: Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Text Analysis
 
 - API: [Code Detection](https://codedetectionapi.runtime.dev)

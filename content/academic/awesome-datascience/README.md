@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jun 01, 2026](/content/2026/06/01/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐1)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
+
 ## [May 31, 2026](/content/2026/05/31/README.md)
 
 ### Tutorials
@@ -189,7 +195,7 @@
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐20)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐24)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -532,7 +538,7 @@
 
 *   [XGBoost (⭐28k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐18k)](https://github.com/microsoft/LightGBM)
-*   [CatBoost (⭐8.9k)](https://github.com/catboost/catboost)
+*   [CatBoost (⭐9k)](https://github.com/catboost/catboost)
 *   [JAX (⭐36k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
@@ -1650,7 +1656,7 @@
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐72k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Machine Learning (⭐73k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐11k)](https://github.com/jnv/lists)
 *   [awesome-python (⭐299k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)

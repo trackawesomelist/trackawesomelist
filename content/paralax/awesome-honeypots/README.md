@@ -6,6 +6,14 @@ an awesome list of honeypot resources
 
 [ Daily / [Weekly](/content/paralax/awesome-honeypots/week/README.md) / [Overview](/content/paralax/awesome-honeypots/readme/README.md) ]
 
+## [Jun 01, 2026](/content/2026/06/01/README.md)
+
+### Honeypots
+
+*   Honeypot Distribution with mixed content
+
+    *   [HoneyDrive](https://www.honeynet.org/tags/honeydrive/)
+
 ## [May 27, 2026](/content/2026/05/27/README.md)
 
 ### Commercial Honepots
@@ -67,7 +75,7 @@ an awesome list of honeypot resources
     *   [Cloud Active Defense (⭐106)](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
     *   [Express honeypot (⭐21)](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
     *   [EoHoneypotBundle (⭐38)](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
-    *   [FCaptcha (⭐138)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.
+    *   [FCaptcha (⭐152)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.
     *   [Glastopf (⭐597)](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     *   [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
     *   [HellPot (⭐1.1k)](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
@@ -88,6 +96,7 @@ an awesome list of honeypot resources
     *   [honeyhttpd (⭐54)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
     *   [honeyup (⭐29)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
     *   [modpot (⭐63)](https://github.com/referefref/modpot) - Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.
+    *   [nginx-honeypot](https://github.com/GetPageSpeed/nginx-honeypot) - A simple honeypot based on NGINX configuration that logs and blocks bots scanning for vulnerabilities.
     *   [owa-honeypot (⭐70)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
     *   [phpmyadmin\_honeypot (⭐68)](https://github.com/gfoss/phpmyadmin_honeypot) - Simple and effective phpMyAdmin honeypot.
     *   [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
@@ -407,9 +416,6 @@ an awesome list of honeypot resources
 *   Network traffic redirector
 
     *   [Honeywall](https://projects.honeynet.org/honeywall/)
-*   Honeypot Distribution with mixed content
-
-    *   [HoneyDrive](https://bruteforcelab.com/honeydrive)
 *   Honeypot sensor
 
     *   [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeypot sensor on a Raspberry Pi based on a customized Raspbian OS.

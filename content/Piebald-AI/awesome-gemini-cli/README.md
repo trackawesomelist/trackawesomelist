@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Jun 01, 2026](/content/2026/06/01/README.md)
+
+### Development Tools & Utilities
+
+*   [authsome (⭐41)](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
+
 ## [May 31, 2026](/content/2026/05/31/README.md)
 
 ### Education & Study Tools
@@ -176,7 +182,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [BGPT MCP (⭐20)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐24)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 
 ## [Feb 23, 2026](/content/2026/02/23/README.md)
 

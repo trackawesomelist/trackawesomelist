@@ -2,7 +2,7 @@
 
 A curated repository of software engineering repository mining data sets
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) · ⭐ 455 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) · ⭐ 480 · 🏷️ Computer Science
 
 [ [Daily](/content/dspinellis/awesome-msr/README.md) / [Weekly](/content/dspinellis/awesome-msr/week/README.md) / Overview ]
 
@@ -21,7 +21,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
     you can contribute.
     Alternatively, you can send me an [email](https://github.com/dspinellis/awesome-msr/blob/master/README.md/mailto:dds@aueb.gr)
     if you find the process too cumbersome or confusing.
-*   For more awesome lists, see [awesome (⭐409k)](https://github.com/sindresorhus/awesome).
+*   For more awesome lists, see [awesome (⭐472k)](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
@@ -32,7 +32,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
-*   [ESEUR (⭐418)](https://github.com/Derek-Jones/ESEUR-code-data) All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+*   [ESEUR (⭐422)](https://github.com/Derek-Jones/ESEUR-code-data) All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 *   [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 *   [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
 *   [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
@@ -50,7 +50,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 *   [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse.
 *   [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - Collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils.
 *   [Cryptocurrency GitHub Activity and Market Cap Dataset](https://rvantonder.github.io/CryptOSS/) - Activity such as commits, stars, prices, and market cap of over 200 cryptocurrency projects on GitHub over time. Raw, historic data is also [available](https://zenodo.org/record/2595588#.XRuzuBNKhSM).
-*   [Defects4J (⭐889)](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
+*   [Defects4J (⭐969)](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
 *   [Eclipse AERI stacktraces](http://download.eclipse.org/scava/datasets/aeri_stacktraces/aeri_stacktraces.html) - Collection of stacktraces of Exceptions encountered by users of the Eclipse IDE, as retrieved by the AERI reporting system.
 *   [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - All the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'.
 *   [Findbugs-maven (⭐2)](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
@@ -59,7 +59,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 *   [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - GitHub data accessible through Google's BigQuery platform.
 *   [Grammar Zoo](http://slebok.github.io/zoo/) - Collection of grammars of DSLs and GPLs, some extracted from metamodels and document schemata.
 *   [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data.
-*   [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout (⭐213)](https://github.com/dspinellis/cscout/).
+*   [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout (⭐229)](https://github.com/dspinellis/cscout/).
 *   [Maven metrics (⭐0)](https://github.com/bkarak/data_msr2015) - Collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org).
 *   [Maven Dependency Graph](https://zenodo.org/record/1489120) - Snapshot of the whole Maven Central taken on September 6, 2018, stored in a graph database.
 *   [mzdata (⭐7)](https://github.com/jxshin/mzdata) - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -73,31 +73,32 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 *   [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 *   [Ultimate Debian Database (UDD)](https://wiki.debian.org/UltimateDebianDatabase) - Data about various aspects of Debian (e.g. packages, bugs, mainteners) in the same SQL database.
 *   [Unified Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/) - Static source code based datasets which includes the Bugcatchers Bug Dataset, the [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php), the [Eclipse Bug Dataset](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/), the [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/), some datasets from the [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) repository.
-*   [Unix history (⭐6.9k)](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
+*   [Unix history (⭐7.2k)](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
 
 ## Tools
 
-*   [astminer (⭐298)](https://github.com/JetBrains-Research/astminer) - Library and tool for mining of path-based representations of code and other data derived from ASTs.
+*   [astminer (⭐300)](https://github.com/JetBrains-Research/astminer) - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 *   [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 *   [buckwheat (⭐24)](https://github.com/JetBrains-Research/buckwheat) - Multi-language tokenizer for extracting identifiers from source code.
 *   [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
-*   [Coming (⭐98)](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.
+*   [Coming (⭐102)](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.
 *   [CryptOSS (⭐7)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 *   [DbDeo (⭐13)](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells.
 *   [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
-*   [DesigniteJava (⭐187)](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
+*   [DesigniteJava (⭐193)](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
 *   [Diggit (⭐20)](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories.
-*   [GitEvo (⭐12)](https://github.com/andrehora/gitevo) - Code evolution analysis for Git repositories.
+*   [GitEvo (⭐18)](https://github.com/andrehora/gitevo) - Code evolution analysis for Git repositories.
 *   [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 *   [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
-*   [Maven-miner (⭐32)](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
-*   [Perceval (⭐308)](https://github.com/chaoss/grimoirelab-perceval) - Fetch repository data from tens of back-ends.
-*   [Puppeteer (⭐40)](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code.
-*   [PyDriller (⭐915)](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
-*   [qmcalc (⭐66)](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
-*   [reaper (⭐112)](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
-*   [RefactoringMiner (⭐458)](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
-*   [VulData7 (⭐43)](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
+*   [Maven-miner (⭐33)](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
+*   [Perceval (⭐320)](https://github.com/chaoss/grimoirelab-perceval) - Fetch repository data from tens of back-ends.
+*   [Puppeteer (⭐41)](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code.
+*   [PyDriller (⭐959)](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
+*   [qmcalc (⭐69)](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
+*   [reaper (⭐118)](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
+*   [RefactoringMiner (⭐489)](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
+*   [TestMiner](https://andrehora.github.io/testminer) - Software testing analysis for GitHub repositories.
+*   [VulData7 (⭐44)](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## Research Outlets
 

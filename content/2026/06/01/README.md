@@ -1,36 +1,142 @@
 # Awesome List Updates on Jun 01, 2026
 
-8 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### .NET / Miscellaneous
+
+*   [Polars.NET (⭐161)](https://github.com/ErrorLSC/Polars.NET) - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) `Polars.NET` is a library to bring polars to .NET ecosystem, with idiomatic C# [Polars.NET](https://www.nuget.org/packages/Polars.NET) and F# [Polars.FSharp](https://www.nuget.org/packages/Polars.FSharp) API nuget packages provided.
+
+## [2. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+
+### Honeypots
+
+*   Honeypot Distribution with mixed content
+
+    *   [HoneyDrive](https://www.honeynet.org/tags/honeydrive/)
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Persistent object databases
+
+*   bknr.datastore - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+    *   active and significant fork: [tdrhk/bknr-datastore (⭐8)](https://github.com/tdrhq/bknr-datastore)
+    *   [original repository (⭐122)](https://github.com/hanshuebner/bknr-datastore)
+    *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐299)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   See also [bknr.cluster (⭐32)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore. [blog post](https://screenshotbot.io/blog/building-a-highly-available-web-service-without-a-database).
+
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+### OS Images
+
+*   [Anthias](https://anthias.screenly.io/) - The world's most popular open source digital signage project.
+*   [HamPi](https://sourceforge.net/projects/hampi/) - Formerly known as W3DJS Raspberry Pi for Ham Radio.
+
+### Tools
+
+*   [Raspberry Pi GPIO Pinout](https://raspberry.tips/en/raspberry-pi-gpio-pinout) - Interactive pinout reference for all 40 GPIO pins with BCM numbers, functions, voltage specs, and HAT overlays. Updated for Pi 5 (RP1 controller).
+*   [Raspberry Pi SD Card Lifespan Calculator](https://raspberry.tips/en/calculate-raspberry-pi-sd-card-lifespan-test-now) - Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).
+
+## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+
+### General
+
+*   [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D, bubble, cyberpunk). Create visual typography effects and download as transparent PNG.
+*   [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
+
+## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+
+### C / Syntax highlighting packages
+
+*   [totp-gb (⭐2)](https://github.com/dmang-dev/totp-gb) - TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.
+
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Component bundles
+
+*   [NeoUI (⭐27)](https://github.com/jimmyps/blazor-shadcn-ui) - ![stars](https://img.shields.io/github/stars/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=86400) Production-ready shadcn/ui-inspired component library for Blazor. 100+ styled components, 15 headless primitives, 12 chart types, declarative animations, 3,200+ icons, zero-config pre-built CSS, WCAG 2.1 AA, dark mode, 85 theme combinations, and full .NET 10 Auto rendering mode. MIT licensed.
+
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Productivity / Testing
+
+*   [linear-tui (⭐26)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
+
+## [9. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
+
+### Tools
+
+*   [TestMiner](https://andrehora.github.io/testminer) - Software testing analysis for GitHub repositories.
+
+## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+### Agents
+
+*   [Vibe-Trading (⭐9.3k)](https://github.com/HKUDS/Vibe-Trading) - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
+*   [oracle3 (⭐246)](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
+
+### Skills
+
+*   [CFA Institute Bias Detection (⭐2)](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
+*   [Ethical Capital Skills (⭐0)](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
+
+### Courses & Books & Blogs
+
+*   [The Automation Ahead (⭐55)](https://github.com/CFA-Institute-RPC/The-Automation-Ahead) - CFA Institute examples for GenAI-driven investment workflows.
+
+### Data Sources / Traditional Markets
+
+*   [FinanceKit MCP (⭐4)](https://github.com/vdalhambra/financekit-mcp) - MCP server for stock quotes, technical analysis, crypto data, risk metrics, and portfolio analysis. No API keys for core data.
+*   [Tapetide](https://tapetide.com) - Indian market data API and MCP server for NSE/BSE stocks, financials, screeners, and institutional flows.
+*   [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.
+
+### Data Sources / Crypto Currencies
+
+*   [Sharpe](https://www.sharpe.ai/docs/free-api) - Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.
+
+## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐1)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
+
+## [12. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+
+### Development Tools & Utilities
+
+*   [authsome (⭐41)](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
+
+## [13. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### Video
 
 *   [ZOOOP](https://zooop.ai/) - AI-native filmmaking workstation for text/image-to-video, lip-sync, and storyboarding on an infinite canvas. `#freemium`
 
-## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [14. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Tools
 
 *   [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [15. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Language Essentials / File Format Processing
 
 *   [nDimensional/zig-flatbuffers (⭐6)](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
 *   [secluso](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -98,13 +204,13 @@
 
 *   [JSON Schema (⭐5k) (⭐5k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Network Analysis
 
 *   [Rockxy](https://rockxy.io) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LocNguyenHuu/Rockxy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -494,6 +600,20 @@
 
 
 
+### Sports & Fitness
+
+- API: [TheRundown](https://therundown.io/)
+
+  Description: Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Text Analysis
 
 - API: [Code Detection](https://codedetectionapi.runtime.dev)
@@ -536,7 +656,7 @@
 
 
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [20. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Libraries and Tools
 

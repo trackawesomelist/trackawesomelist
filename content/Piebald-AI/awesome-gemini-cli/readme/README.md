@@ -61,7 +61,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐1
 *   [wolfpack (⭐30)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
 *   [Xquik MCP (⭐100)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 *   [rule-gen (⭐7)](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window and produces project-specific rules. Supports Cursor (.mdc), Claude Code (CLAUDE.md), Copilot, and Windsurf output formats. Zero dependencies.
-*   [BGPT MCP (⭐20)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐24)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 *   [Helium MCP (⭐5)](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. 9 tools, free tier. Works with any MCP client including Gemini CLI.
 
 > \[!tip]
@@ -183,6 +183,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 *   [agentwatch (⭐7)](https://github.com/mishanefedov/agentwatch) - Local-only TUI + web dashboard that tails Gemini CLI sessions alongside Claude Code, Codex, Cursor, Hermes, and OpenClaw on one unified timeline. Parses tokens, tools, and per-turn cost from each Gemini CLI session (gemini-2.5-pro / flash rates), plus context compaction visualizer, MAD z-score anomaly detection, MCP server mode, and OpenTelemetry exporter. No cloud, no telemetry. macOS + Linux. MIT.
 *   [agenttrace (⭐37)](https://github.com/luoyuctl/agenttrace) - Local-first TUI for Gemini CLI and AI coding agent session observability. Parses local logs for cost, tokens, tool failures, latency, anomalies, health gates, and diffs across Gemini CLI, Claude Code, Codex CLI, Aider, Cursor exports, OpenCode, and more.
 *   [andrej-karpathy-skills (⭐13)](https://github.com/swarmclawai/andrej-karpathy-skills) - Npm installer for Karpathy-inspired GEMINI.md guidelines, plus adapters for Codex, Claude Code, Cursor, OpenCode, OpenClaw, Windsurf, and Aider.
+*   [authsome (⭐41)](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
 
 ## Browser Extensions
 
@@ -219,7 +220,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 
 Model Context Protocol servers that enable Gemini CLI integration with other AI tools.
 
-*   [BGPT MCP (⭐20)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
+*   [BGPT MCP (⭐24)](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Works with any MCP client including Gemini CLI.
 *   [Helium MCP (⭐5)](https://github.com/connerlambden/helium-mcp) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. 9 tools, free tier. Works with any MCP client including Gemini CLI.
 *   [ToolsForMCPServer (⭐106)](https://github.com/tanaikech/ToolsForMCPServer) - Bridges Gemini CLI with Google Workspace through Apps Script integration, automating document processing, spreadsheet manipulation, and workflow automation.
 *   [KubeStellar Console kc-agent (⭐109)](https://github.com/kubestellar/console) - Multi-cluster Kubernetes MCP server bridging Gemini CLI to kubeconfig and Kubernetes APIs. Manage clusters, policies, and 20+ CNCF project integrations across edge and cloud. Install via `brew tap kubestellar/tap && brew install kc-agent`.
