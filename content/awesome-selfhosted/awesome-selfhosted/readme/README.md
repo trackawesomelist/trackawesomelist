@@ -14,9 +14,9 @@ A list of Free Software network services and web applications which can be hoste
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐293k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐297k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
-**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐293k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
+**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐297k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
 See [Contributing](#contributing).
 
@@ -521,6 +521,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [NodeBB](https://nodebb.org/) - Forum software built for the modern web. ([Demo](https://try.nodebb.org/), [Source Code (⭐15k)](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs/Docker`
 *   [OSSN](https://www.opensource-socialnetwork.org/) - Social networking software that allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐1.2k)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `CAL-1.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐2.1k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
+*   [PieFed](https://join.piefed.social) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Demo](https://piefed.social), [Source Code](https://codeberg.org/rimu/pyfedi)) `AGPL-3.0` `Python/Docker`
 *   [PixelFed](https://pixelfed.social) - Ethical photo sharing platform, powered by ActivityPub federation (alternative to Instagram). ([Source Code (⭐7k)](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
 *   [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible. ([Source Code](https://git.pleroma.social/pleroma/pleroma)) `AGPL-3.0` `Elixir`
 *   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐438)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
@@ -1255,7 +1256,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [tubesync (⭐2.7k)](https://github.com/meeb/tubesync) `⚠` - Syncs YouTube channels and playlists to a locally hosted media server. `AGPL-3.0` `Docker/Python`
 *   [Watcharr (⭐1.4k)](https://github.com/sbondCo/Watcharr) - Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 *   [ydl\_api\_ng (⭐234)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
-*   [Youtarr](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
+*   [Youtarr (⭐1.1k)](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
 *   [YoutubeDL-Server (⭐310)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
 *   [yt-dlp Web UI (⭐2.4k)](https://github.com/marcopiovanello/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
@@ -1813,7 +1814,7 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐549)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐32k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
 *   [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code (⭐79k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
-*   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
+*   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code (⭐44k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
 *   [Lura](https://luraproject.org/) - High-performance API Gateway. ([Source Code (⭐6.8k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
 *   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐19k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐571)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
@@ -1992,7 +1993,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *   [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
 *   [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code (⭐1.2k)](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
 *   [tududi](https://tududi.com/) - Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration. ([Source Code (⭐2.9k)](https://github.com/chrisvel/tududi)) `MIT` `Docker`
-*   [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`
+*   [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code (⭐4.4k)](https://github.com/go-vikunja/vikunja)) `AGPL-3.0/GPL-3.0` `Go`
 *   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐21k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 ### Ticketing
@@ -2008,7 +2009,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *   [FreeScout](https://freescout.net/) - Email-based customer support application, help desk and shared mailbox (alternative to Zendesk and Help Scout). ([Demo](https://demo.freescout.net/login), [Source Code (⭐4.3k)](https://github.com/freescout-help-desk/freescout)) `AGPL-3.0` `PHP/Docker`
 *   [GlitchTip](https://glitchtip.com) - Error tracking app to collect errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python/Docker/K8S`
 *   [ITFlow](https://itflow.org) - Client IT documentation, ticketing, invoicing and accounting for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐936)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
-*   [Libredesk](https://libredesk.io/) - Modern customer support desk. Single binary app. ([Source Code (⭐2.5k)](https://github.com/abhinavxd/libredesk)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [Libredesk](https://libredesk.io/) - Modern omnichannel customer support desk. Live chat, email, and more in a single binary. ([Demo](https://demo.libredesk.io), [Source Code (⭐2.5k)](https://github.com/abhinavxd/libredesk)) `AGPL-3.0` `Docker/Go/Nodejs`
 *   [MantisBT](https://www.mantisbt.org/) - Bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code (⭐1.8k)](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
 *   [OTOBO](https://otobo.io/en/) - Flexible web-based ticketing system used for customer service, help desk, IT service management. ([Demo](https://otobo.io/en/service-management-plattform/otobo-demo/), [Source Code (⭐324)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 *   [Request Tracker](https://www.bestpractical.com/rt/) - Enterprise-grade issue tracking system. ([Source Code (⭐1.1k)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
@@ -2056,7 +2057,7 @@ Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.
 *Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming)*
 
 *   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐271)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐32k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐33k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 *   [motionEye (⭐4.6k)](https://github.com/motioneye-project/motioneye) - Online interface for the software Motion, a video surveillance program with motion detection. `GPL-3.0` `Python/Docker`
 *   [SentryShot](https://codeberg.org/SentryShot/sentryshot) - Video surveillance management system. `GPL-2.0` `Docker/Rust`
 *   [Strix (⭐690)](https://github.com/eduard256/Strix) - Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. `MIT` `Go/Docker`
@@ -2081,7 +2082,7 @@ Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/We
 
 *   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐3k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go/Docker`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/repos/asf/httpd/httpd/trunk/)) `Apache-2.0` `C/deb/Docker`
-*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐10k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐11k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
 *   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐73k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go/deb/Docker`
 *   [go-doxy (⭐3k)](https://github.com/yusing/godoxy) - Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
 *   [godoxy](https://docs.godoxy.dev/) - High-performance reverse proxy and container orchestrator for self-hosters. ([Demo](https://demo.godoxy.dev/), [Source Code (⭐3k)](https://github.com/yusing/godoxy)) `MIT` `Docker/Go`
@@ -2211,7 +2212,7 @@ Contributing guidelines can be found [here (⭐978)](https://github.com/awesome-
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐293k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐297k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).\
 The list of authors can be found in the [AUTHORS (⭐978)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
 

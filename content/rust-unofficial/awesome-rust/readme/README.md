@@ -144,7 +144,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [asm-cli-rust (⭐357)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
 *   [clash-verge-rev/clash-verge-rev (⭐122k)](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
 *   [cloudflare/boringtun (⭐7.1k)](https://github.com/cloudflare/boringtun) - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/crates/v/boringtun.svg)](https://crates.io/crates/boringtun)
-*   [DBX (⭐1.6k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
+*   [DBX (⭐3.3k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
 *   [defguard (⭐2.7k)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 *   [denoland/deno (⭐107k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/actions/workflows/ci.yml/badge.svg)](https://github.com/denoland/deno/actions)
 *   [doprz/dipc (⭐346)](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
@@ -197,7 +197,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [topjohnwu/Magisk (⭐61k)](https://github.com/topjohnwu/Magisk) - A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications
 *   [Typst (⭐54k)](https://github.com/typst/typst) - A markup-based typesetting system [![crates.io](https://img.shields.io/crates/v/typst.svg)](https://crates.io/crates/typst)
 *   [UpVPN (⭐416)](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
-*   [vortix (⭐419)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐426)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 *   [vproxy (⭐397)](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server [![crates.io](https://img.shields.io/crates/v/vproxy.svg)](https://crates.io/crates/vproxy)
 *   [wasmer (⭐21k)](https://github.com/wasmerio/wasmer) - A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/actions/workflows/build.yml/badge.svg)](https://github.com/wasmerio/wasmer/actions)
 *   [Weld (⭐322)](https://github.com/serayuzgur/weld) - Full fake REST API generator
@@ -322,7 +322,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [tabularis (⭐2.2k)](https://github.com/TabularisDB/tabularis) - A lightweight, developer-focused database management tool, built with Tauri and React.
 *   [TerminusDB (⭐382)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/actions/workflows/test.yml/badge.svg)](https://github.com/terminusdb/terminusdb-store/actions)
 *   [tikv (⭐17k)](https://github.com/tikv/tikv) - A distributed KV database in Rust
-*   [tokio-rs/toasty (⭐2.4k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
+*   [tokio-rs/toasty (⭐2.6k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
 *   [Tonbo (⭐1.5k)](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded persistent database built on Apache Arrow & Parquet [![crates.io](https://img.shields.io/crates/v/tonbo.svg)](https://crates.io/crates/tonbo)
 *   [TrailBase (⭐5.2k)](https://github.com/trailbaseio/trailbase) - A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard [![GitHub Workflow Status](https://github.com/trailbaseio/trailbase/workflows/test/badge.svg)](https://github.com/trailbaseio/trailbase/actions?workflow=test)
 *   [tsink (⭐304)](https://github.com/h2337/tsink) - Embedded time-series database for Rust [![crates.io](https://img.shields.io/crates/v/tsink.svg)](https://crates.io/crates/tsink)
@@ -396,7 +396,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Payments](#payments) applications.
 
-*   [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐353)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 *   [klirr (⭐130)](https://github.com/Sajjon/klirr) \[[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
 *   [longbridge/longbridge-terminal (⭐837)](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for Longbridge Securities: real-time quotes, portfolio, trading for HK/US/A-share/SG.
 *   [nautechsystems/nautilus\_trader (⭐23k)](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
@@ -526,7 +526,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
 *   [farion1231/cc-switch (⭐84k)](https://github.com/farion1231/cc-switch) - An all-in-one GUI assistant and profile manager for Claude Code, Codex, and Gemini CLI.
 *   [flusterIO/fluster (⭐196)](https://github.com/flusterIO/fluster) - An all-in-one note taking application built for STEM students and professionals. [![publish](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml/badge.svg)](https://github.com/flusterIO/fluster/actions/workflows/release_rust.yml)
-*   [fulsomenko/kanban (⭐107)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+*   [fulsomenko/kanban (⭐114)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
 *   [Furtherance (⭐386)](https://github.com/unobserved-io/Furtherance) - Time tracking app built with GTK4
 *   [graves/awful\_aj (⭐13)](https://github.com/graves/awful_aj) \[[awful\_aj](https://crates.io/crates/awful_aj)] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.
 *   [Hmbown/DeepSeek-TUI (⭐33k)](https://github.com/Hmbown/DeepSeek-TUI) \[[deepseek-tui-cli](https://crates.io/crates/deepseek-tui-cli)] - Terminal coding agent for DeepSeek V4 with streaming reasoning blocks, local workspace editing, auto model selection, MCP support, and ratatui-based TUI. [![CI](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml/badge.svg)](https://github.com/Hmbown/DeepSeek-TUI/actions/workflows/ci.yml)
@@ -589,7 +589,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [reaction](https://framagit.org/ppom/reaction) - Scan logs and take action: an alternative to fail2ban
 *   [ripasso (⭐820)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
 *   [rustscan (⭐20k)](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions)
-*   [secluso](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
+*   [secluso (⭐1.5k)](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
 *   [sherlock (⭐55)](https://github.com/jonaylor89/sherlock-rs) \[[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 *   [ssh-vault (⭐505)](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
 *   [SystemVll/TAuth (⭐140)](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
@@ -703,6 +703,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [Inkwell (⭐214)](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 *   [ki-editor/ki-editor (⭐927)](https://github.com/ki-editor/ki-editor) - A multi-cursor combinatoric modal editor
 *   [Lapce (⭐38k)](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
+*   [manyougz/velotype (⭐354)](https://github.com/manyougz/velotype) - A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.
 *   [mathall/rim (⭐630)](https://github.com/mathall/rim) - Vim-like text editor.
 *   [ox (⭐3.7k)](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 *   [SoloMD (⭐343)](https://github.com/zhitongblog/solomd) - A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.
@@ -720,7 +721,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [Lisprez/so\_stupid\_search (⭐177)](https://github.com/Lisprez/so_stupid_search) - A simple and fast string search tool for human beings
 *   [loki\_text (⭐6)](https://github.com/roquess/loki_text) \[[loki\_text](https://crates.io/crates/loki_text)] - String manipulation library with pattern searching, text transformation, and multiple string search algorithms (KMP, Boyer-Moore, Aho-Corasick, etc.)
 *   [Melody (⭐4.7k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
-*   [micahkepe/jsongrep (⭐642)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+*   [micahkepe/jsongrep (⭐645)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
 *   [phiresky/ripgrep-all (⭐9.6k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 *   [ripgrep](https://crates.io/crates/ripgrep) - combines the usability of The Silver Searcher with the raw speed of grep
 *   [ruplacer (⭐489)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
@@ -743,7 +744,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [Epic Asset Manager (⭐503)](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 *   [evansmurithi/cloak (⭐308)](https://github.com/evansmurithi/cloak) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 *   [fcsonline/tmux-thumbs (⭐1.1k)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
-*   [gitlogue (⭐4.7k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
+*   [gitlogue (⭐4.8k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
 *   [guoxbin/dtool (⭐376)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 *   [IvanWng97/pixtuoid (⭐85)](https://github.com/IvanWng97/pixtuoid) \[[pixtuoid](https://crates.io/crates/pixtuoid)] - Terminal pixel-art office that visualizes Claude Code sessions as animated coworkers in real time. [![CI](https://img.shields.io/github/actions/workflow/status/IvanWng97/pixtuoid/ci.yml?branch=main)](https://github.com/IvanWng97/pixtuoid/actions/workflows/ci.yml)
 *   [Linus-Mussmaecher/rucola (⭐500)](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager. [![Crate](https://img.shields.io/crates/v/rucola-notes.svg?logo=rust)](https://crates.io/crates/rucola-notes) [![Build Status](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml/badge.svg)](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
@@ -808,7 +809,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [MASQ-Project/Node (⭐192)](https://github.com/MASQ-Project/Node) - MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 *   [Plume-org/Plume (⭐2.2k)](https://github.com/Plume-org/Plume) - ActivityPub federating blogging application
 *   [Redlib (⭐3.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5.2k)](https://github.com/libreddit/libreddit)
-*   [shouya/rss-funnel (⭐153)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
+*   [shouya/rss-funnel (⭐155)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 *   [SinTan1729/Chhoto URL (⭐847)](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[![release](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml/badge.svg)](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml)
 *   [Stoatchat (⭐3.1k)](https://github.com/stoatchat/stoatchat) - User-first chat platform built with modern web technologies.
 *   [zhom/donutbrowser (⭐2.6k)](https://github.com/zhom/donutbrowser) - Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync. [![GitHub release](https://img.shields.io/github/v/release/zhom/donutbrowser)](https://github.com/zhom/donutbrowser/releases)
@@ -833,7 +834,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 
 ### Workflow Automation
 
-*   [cowork-forge (⭐63)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
+*   [cowork-forge (⭐61)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
 *   [dali-benothmen/cronflow (⭐117)](https://github.com/dali-benothmen/cronflow) - Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code. [![release](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml)
 
 ## Development tools
@@ -882,7 +883,7 @@ See also [A comparison of operating systems written in Rust (⭐856)](https://gi
 *   [Rustup (⭐6.9k)](https://github.com/rust-lang/rustup) - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/actions/workflows/ci.yaml/badge.svg)](https://github.com/rust-lang/rustup/actions)
 *   [scriptisto (⭐1.1k)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 *   [typos (⭐4k)](https://github.com/crate-ci/typos) \[[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
-*   [voidzero-dev/vite-plus (⭐4.7k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+*   [voidzero-dev/vite-plus (⭐4.8k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 *   [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 *   [Wilfred/difftastic (⭐25k)](https://github.com/Wilfred/difftastic) \[[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
 *   [yvgude/lean-ctx (⭐2.3k)](https://github.com/yvgude/lean-ctx) \[[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
@@ -1211,7 +1212,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 *   [0xplaygrounds/rig (⭐7.4k)](https://github.com/0xplaygrounds/rig) - Library for creating agents and modular, scalable LLM-powered applications
 *   [64bit/async-openai (⭐1.9k)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
-*   [awakenworks/awaken (⭐75)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
+*   [awakenworks/awaken (⭐77)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 *   [liquidos-ai/AutoAgents (⭐656)](https://github.com/liquidos-ai/AutoAgents) \[[AutoAgents](https://crates.io/crates/autoagents)] - Multi Agent Framework for building AI agents with native edge support.
 *   [openai/codex (⭐87k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 *   [openai/harmony (⭐4.4k)](https://github.com/openai/harmony) \[[openai-harmony](https://crates.io/crates/openai-harmony/0.0.3)] - Renderer for the harmony response format to be used with gpt-oss.
@@ -1307,7 +1308,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   AWS \[[aws](https://crates.io/keywords/aws)]
     *   [aws/aws-lambda-rust-runtime (⭐3.6k)](https://github.com/aws/aws-lambda-rust-runtime) \[[lambda\_runtime](https://crates.io/crates/lambda_runtime)] - Runtime for AWS Lambda [![build badge](https://github.com/aws/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/aws/aws-lambda-rust-runtime/actions)
     *   [awslabs/aws-sdk-rust (⭐3.3k)](https://github.com/awslabs/aws-sdk-rust) - The new AWS SDK
-    *   [faiscadev/fakecloud (⭐297)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
+    *   [faiscadev/fakecloud (⭐311)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
     *   [rusoto/rusoto (⭐2.7k)](https://github.com/rusoto/rusoto) - An AWS SDK for Rust
 *   Azure
     *   [Azure/azure-sdk-for-rust (⭐875)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
@@ -1475,7 +1476,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [libOctavo/octavo (⭐141)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
 *   [orion-rs/orion (⭐718)](https://github.com/orion-rs/orion) - This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
 *   [racum/rust-djangohashers (⭐60)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] - Port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style.
-*   [rust-native-tls/rust-native-tls (⭐542)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐544)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 *   [rust-openssl (⭐1.6k)](https://github.com/rust-openssl/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
 *   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
 *   [RustCrypto/hashes (⭐2.2k)](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions
@@ -2313,7 +2314,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 *   [cenotelie/cratery (⭐176)](https://github.com/cenotelie/cratery) - A lightweight private cargo registry with batteries included, built for organisations, including features similar to [docs.rs](https://docs.rs) and [deps.rs](https://deps.rs). [![CI](https://github.com/cenotelie/cratery/actions/workflows/ci.yml/badge.svg)](https://github.com/cenotelie/cratery/actions/workflows/ci.yml)
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/cargo-registry) - A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Free for open-source projects.
 *   [Crates](https://crates.io) - The official public registry for Rust/Cargo.
-*   [getnora-io/nora (⭐166)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+*   [getnora-io/nora (⭐187)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 *   [RepoFlow :heavy\_dollar\_sign:](https://www.repoflow.io) - A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.
 *   [w4/chartered (⭐129)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 

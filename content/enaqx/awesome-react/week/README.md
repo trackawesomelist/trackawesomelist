@@ -2,18 +2,63 @@
 
 A collection of awesome things regarding React ecosystem
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/enaqx/awesome-react/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 enaqx/awesome-react](https://github.com/enaqx/awesome-react) · ⭐ 73K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/enaqx/awesome-react/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 enaqx/awesome-react](https://github.com/enaqx/awesome-react) · ⭐ 74K · 🏷️ Front-End Development
 
 [ [Daily](/content/enaqx/awesome-react/README.md) / Weekly / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
+
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### React Tutorials
+
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐47k)](https://github.com/typescript-cheatsheets/react)
+
+### React State Management and Data Fetching
+
+*   [effector (⭐4.8k)](https://github.com/effector/effector) - Business logic with ease
+
+### React Styling
+
+*   [vanilla-extract (⭐10k)](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+### React Development Tools
+
+*   [reactotron (⭐16k)](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React and React Native projects
+*   [eslint-plugin-react (⭐9.3k)](https://github.com/jsx-eslint/eslint-plugin-react) - React specific linting rules for ESLint
+
+### React Testing
+
+*   [jest (⭐45k)](https://github.com/jestjs/jest) - Delightful JavaScript Testing
+
+### React Awesome Components
+
+*   [react-big-calendar (⭐8.7k)](https://github.com/bigcalendar/react-big-calendar) - Calendar component
+*   [puck (⭐13k)](https://github.com/puckeditor/puck) - The visual editor for React
+
+### React Tables and Grids
+
+*   [react-data-grid (⭐7.6k)](https://github.com/Comcast/react-data-grid) - Feature-rich and customizable data grid React component
+
+### React Graphics and Animations
+
+*   [framer-motion (⭐32k)](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
+*   [react-tsparticles (⭐8.9k)](https://github.com/tsparticles/tsparticles) - Easily create highly customizable particles effects
+
+### React Integration
+
+*   [rescript-compiler (⭐7.4k)](https://github.com/rescript-lang/rescript) - A robustly typed language that compiles to efficient and human-readable JavaScript
+
+### React Real Apps
+
+*   [mattermost-server (⭐37k)](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
 ### React Icon Libraries
 
 *   [react-icons (⭐13k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
-*   [lucide-react (⭐22k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
-*   [heroicons (⭐23k)](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
-*   [thesvg (⭐209)](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
+*   [lucide-react (⭐23k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
+*   [heroicons (⭐24k)](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
+*   [thesvg (⭐2.2k)](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
 
 ### React Development Tools
 
@@ -21,19 +66,19 @@ A collection of awesome things regarding React ecosystem
 
 ### React Libraries
 
-*   [ai-sdk (⭐23k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
+*   [ai-sdk (⭐25k)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
 ### React Internationalization
 
-*   [react-intlayer (⭐649)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
+*   [react-intlayer (⭐753)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### React Component Libraries
 
-*   [ruixen-ui (⭐172)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+*   [ruixen-ui (⭐190)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 
 ### React Renderers
 
@@ -43,8 +88,8 @@ A collection of awesome things regarding React ecosystem
 
 ### React Component Libraries
 
-*   [react-bits (⭐37k)](https://github.com/DavidHDev/react-bits) - A collection of animated, interactive & fully customizable React components
-*   [headlessui (⭐28k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
+*   [react-bits (⭐40k)](https://github.com/DavidHDev/react-bits) - A collection of animated, interactive & fully customizable React components
+*   [headlessui (⭐29k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 
 ### React Awesome Components
 
@@ -54,21 +99,21 @@ A collection of awesome things regarding React ecosystem
 
 ### React Real Apps
 
-*   [notifuse (⭐1.9k)](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+*   [notifuse (⭐2k)](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 
 ## [Sep 22 - Sep 28, 2025](/content/2025/38/README.md)
 
 ### React Component Libraries
 
-*   [8bitcn-ui (⭐1.8k)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
+*   [8bitcn-ui (⭐1.9k)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 
 ### React Testing
 
-*   [playwright (⭐85k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
+*   [playwright (⭐90k)](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 ### React Awesome Components
 
-*   [json-edit-react (⭐617)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+*   [json-edit-react (⭐627)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
 
 ### React Forms
 
@@ -76,7 +121,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Real Apps
 
-*   [bookcars (⭐563)](https://github.com/aelassas/bookcars) - Car rental platform
+*   [bookcars (⭐587)](https://github.com/aelassas/bookcars) - Car rental platform
 
 ### React Native Libraries
 
@@ -94,26 +139,26 @@ A collection of awesome things regarding React ecosystem
 
 ### React Forms
 
-*   [tanstack-form (⭐6.4k)](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
+*   [tanstack-form (⭐6.6k)](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
 ### React Real Apps
 
-*   [readest (⭐19k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+*   [readest (⭐21k)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### React Component Libraries
 
 *   [mantine (⭐31k)](https://github.com/mantinedev/mantine) - Fully featured React components library
-*   [react-email (⭐18k)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
+*   [react-email (⭐19k)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
 ### React Charts
 
-*   [xyflow (⭐36k)](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
+*   [xyflow (⭐37k)](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
 
 ### React Graphics and Animations
 
-*   [simple-parallax-js (⭐2.1k)](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
+*   [simple-parallax-js (⭐2.2k)](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
@@ -127,7 +172,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Real Apps
 
-*   [wave (⭐19k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+*   [wave (⭐21k)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
@@ -143,11 +188,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Component Libraries
 
-*   [shadcn-ui (⭐111k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
-
-### React Awesome Components
-
-*   [puck (⭐12k)](https://github.com/measuredco/puck) - The visual editor for React
+*   [shadcn-ui (⭐115k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
@@ -158,12 +199,12 @@ A collection of awesome things regarding React ecosystem
 ### React State Management and Data Fetching
 
 *   [redux (⭐61k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
-*   [xstate (⭐29k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+*   [xstate (⭐30k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 *   [rxdb (⭐23k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 
 ### React Maps
 
-*   [react-map-gl (⭐8.4k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+*   [react-map-gl (⭐8.5k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 *   [react-leaflet (⭐5.6k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 ### React Charts
@@ -172,7 +213,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Renderers
 
-*   [remotion (⭐41k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐49k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ### React Native Navigation
 
@@ -191,26 +232,26 @@ A collection of awesome things regarding React ecosystem
 ### React Tutorials
 
 *   [React Official Tutorial](https://react.dev/learn)
-*   [React Interview Questions & Answers (⭐44k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [React Interview Questions & Answers (⭐45k)](https://github.com/sudheerj/reactjs-interview-questions)
 *   [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 *   [A simple, scalable, and powerful architecture for building production ready React applications (⭐35k)](https://github.com/alan2207/bulletproof-react)
 
 ### React Frameworks
 
-*   [next (⭐138k)](https://github.com/vercel/next.js) - The React Framework
+*   [next (⭐140k)](https://github.com/vercel/next.js) - The React Framework
 *   [gatsby (⭐56k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-*   [refine (⭐34k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+*   [refine (⭐35k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
 ### React Component Libraries
 
 *   [material-ui (⭐98k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 *   [fluentui (⭐20k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 *   [framework7 (⭐19k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [ariakit (⭐8.5k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+*   [ariakit (⭐8.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 
 ### React State Management and Data Fetching
 
-*   [tanstack-query (⭐49k)](https://github.com/TanStack/query) - Powerful asynchronous state management
+*   [tanstack-query (⭐50k)](https://github.com/TanStack/query) - Powerful asynchronous state management
 *   [swr (⭐32k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
 *   [apollo-client (⭐20k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 *   [relay (⭐19k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
@@ -218,11 +259,11 @@ A collection of awesome things regarding React ecosystem
 ### React Routing
 
 *   [react-router (⭐56k)](https://github.com/remix-run/react-router) - Declarative routing for React
-*   [tanstack-router (⭐14k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐15k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ### React Development Tools
 
-*   [vite (⭐79k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐81k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [why-did-you-render (⭐12k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Libraries
@@ -238,10 +279,9 @@ A collection of awesome things regarding React ecosystem
 
 ### React Awesome Components
 
-*   [Awesome React Components (⭐47k)](https://github.com/brillout/awesome-react-components)
-*   [react-big-calendar (⭐8.7k)](https://github.com/jquense/react-big-calendar) - Calendar component
-*   [react-qrcode (⭐4.2k)](https://github.com/zpao/qrcode.react) - QR component for use with React
-*   [react-complex-tree (⭐1.3k)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+*   [Awesome React Components (⭐48k)](https://github.com/brillout/awesome-react-components)
+*   [react-qrcode (⭐4.3k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+*   [react-complex-tree (⭐1.4k)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 *   [react-insta-stories (⭐1.5k)](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 *   [keen-slider (⭐5k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 *   [heart-switch (⭐452)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
@@ -260,16 +300,13 @@ A collection of awesome things regarding React ecosystem
 ### React Graphics and Animations
 
 *   [auto-animate (⭐14k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐8.8k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
 ### React Integration
 
-*   [rescript-compiler (⭐7.4k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 *   [fulcro (⭐1.6k)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 ### React Real Apps
 
-*   [mattermost-server (⭐36k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 *   [webamp (⭐11k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ### React Native General Resources
@@ -297,19 +334,12 @@ A collection of awesome things regarding React ecosystem
 
 *   [swiper (⭐42k)](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 
-## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
-
-### React Styling
-
-*   [vanilla-extract (⭐10k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
 ### React State Management and Data Fetching
 
 *   [mobx (⭐28k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
 *   [zustand (⭐58k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-*   [effector (⭐4.8k)](https://github.com/zerobias/effector) - Business logic with ease
 *   [immer (⭐29k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for JavaScript
 
@@ -335,14 +365,13 @@ A collection of awesome things regarding React ecosystem
 
 ### React Renderers
 
-*   [react-three-fiber (⭐30k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-*   [react-pdf (⭐16k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-three-fiber (⭐31k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐17k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 *   [react-figma (⭐2.7k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 ### React Graphics and Animations
 
 *   [react-spring (⭐29k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-*   [framer-motion (⭐31k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
@@ -360,7 +389,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Renderers
 
-*   [ink (⭐36k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [ink (⭐39k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -386,10 +415,6 @@ A collection of awesome things regarding React ecosystem
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
-### React Tutorials
-
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐47k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-
 ### React Awesome Components
 
 *   [react-archer (⭐1.3k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
@@ -412,15 +437,6 @@ A collection of awesome things regarding React ecosystem
 *   [styled-components (⭐41k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 *   [emotion (⭐18k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 
-### React Development Tools
-
-*   [reactotron (⭐16k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [eslint-plugin-react (⭐9.3k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-
-### React Testing
-
-*   [jest (⭐45k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
-
 ### React Awesome Components
 
 *   [react-datepicker (⭐8.4k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
@@ -428,7 +444,7 @@ A collection of awesome things regarding React ecosystem
 ### React Components Sandboxes
 
 *   [storybook (⭐90k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
-*   [react-cosmos (⭐8.6k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐8.7k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 
@@ -436,15 +452,11 @@ A collection of awesome things regarding React ecosystem
 
 *   [react-select (⭐28k)](https://github.com/JedWatson/react-select) - The Select Component for React
 
-### React Tables and Grids
-
-*   [react-data-grid (⭐7.6k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
-
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
 ### React General Resources
 
-*   [React GitHub (⭐244k)](https://github.com/facebook/react)
+*   [React GitHub (⭐245k)](https://github.com/facebook/react)
 *   [Reactiflux Discord Channel](http://www.reactiflux.com/)
 
 ### React Tutorials
@@ -457,7 +469,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Internationalization
 
-*   [react-i18next (⭐9.9k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+*   [react-i18next (⭐10k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
 
 ### React Native General Resources
 

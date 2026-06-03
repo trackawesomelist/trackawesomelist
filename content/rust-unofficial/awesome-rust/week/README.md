@@ -10,7 +10,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
-*   [secluso](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
+*   [secluso (⭐1.5k)](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
+
+### Applications / Text editors
+
+*   [manyougz/velotype (⭐354)](https://github.com/manyougz/velotype) - A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
@@ -65,7 +69,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [tokio-rs/toasty (⭐2.4k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
+*   [tokio-rs/toasty (⭐2.6k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
 
 ### Applications / Embedded
 
@@ -156,11 +160,11 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [DBX (⭐1.6k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
+*   [DBX (⭐3.3k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
 
 ### Applications / Finance
 
-*   [Ashutosh0x/rust-finance](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐353)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 
 ### Applications / Games
 
@@ -173,7 +177,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Workflow Automation
 
-*   [cowork-forge (⭐63)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
+*   [cowork-forge (⭐61)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
 
 ### Development tools / Workflow Automation
 
@@ -182,7 +186,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [awakenworks/awaken (⭐75)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
+*   [awakenworks/awaken (⭐77)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 
 ### Libraries / Asynchronous
 
@@ -284,7 +288,7 @@ A curated list of Rust code and resources.
 
 ### Registries / Web programming
 
-*   [getnora-io/nora (⭐166)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+*   [getnora-io/nora (⭐187)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -324,7 +328,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [fulsomenko/kanban (⭐107)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+*   [fulsomenko/kanban (⭐114)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
 *   [iwe-org/iwe (⭐1k)](https://github.com/iwe-org/iwe) \[[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml)
 
 ### Applications / System tools
@@ -333,7 +337,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [micahkepe/jsongrep (⭐642)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+*   [micahkepe/jsongrep (⭐645)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
 
 ### Libraries / Artificial Intelligence
 
@@ -399,7 +403,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [voidzero-dev/vite-plus (⭐4.7k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+*   [voidzero-dev/vite-plus (⭐4.8k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 
 ### Development tools / Tunnel
 
@@ -574,7 +578,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [shouya/rss-funnel (⭐153)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
+*   [shouya/rss-funnel (⭐155)](https://github.com/shouya/rss-funnel) - A modular RSS processing pipeline system.
 
 ### Libraries / Scripting
 
@@ -616,7 +620,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [vortix (⭐419)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐426)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
 ### Applications / Operating systems
 
@@ -628,7 +632,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [gitlogue (⭐4.7k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
+*   [gitlogue (⭐4.8k)](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal
 
 ### Libraries / Artificial Intelligence
 
@@ -640,7 +644,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [rust-native-tls/rust-native-tls (⭐542)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
+*   [rust-native-tls/rust-native-tls (⭐544)](https://github.com/rust-native-tls/rust-native-tls) - Bindings for native TLS libraries
 
 ### Libraries / Data processing
 
@@ -4365,7 +4369,7 @@ A curated list of Rust code and resources.
 *   AWS \[[aws](https://crates.io/keywords/aws)]
     *   [aws/aws-lambda-rust-runtime (⭐3.6k)](https://github.com/aws/aws-lambda-rust-runtime) \[[lambda\_runtime](https://crates.io/crates/lambda_runtime)] - Runtime for AWS Lambda [![build badge](https://github.com/aws/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/aws/aws-lambda-rust-runtime/actions)
     *   [awslabs/aws-sdk-rust (⭐3.3k)](https://github.com/awslabs/aws-sdk-rust) - The new AWS SDK
-    *   [faiscadev/fakecloud (⭐297)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
+    *   [faiscadev/fakecloud (⭐311)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
     *   [rusoto/rusoto (⭐2.7k)](https://github.com/rusoto/rusoto) - An AWS SDK for Rust
 
 ### Libraries / Command-line

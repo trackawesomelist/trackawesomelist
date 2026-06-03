@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jun 03, 2026](/content/2026/06/03/README.md)
+
+### AI Tools / Other Tools
+
+*   [Cursor Voice](https://cursorvoice.app) - Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cursorvoice/cursor-voice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [Sleepless (⭐2)](https://github.com/Aboudjem/Sleepless) - Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aboudjem/Sleepless)
+
 ## [Jun 02, 2026](/content/2026/06/02/README.md)
 
 ### Audio and Video Tools / Audio Record and Process

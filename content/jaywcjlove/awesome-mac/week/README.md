@@ -12,6 +12,10 @@
 
 *   [Rockxy](https://rockxy.io) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LocNguyenHuu/Rockxy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### AI Tools / Other Tools
+
+*   [Cursor Voice](https://cursorvoice.app) - Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cursorvoice/cursor-voice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Audio and Video Tools / Audio Record and Process
 
 *   [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -19,6 +23,10 @@
 ### Utilities / Clipboard Tools
 
 *   [ClipHistory (⭐9)](https://github.com/weiykong/ClipHistory) - Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/weiykong/ClipHistory) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [Sleepless (⭐2)](https://github.com/Aboudjem/Sleepless) - Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aboudjem/Sleepless)
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 

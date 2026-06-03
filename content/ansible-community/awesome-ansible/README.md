@@ -6,17 +6,23 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Jun 03, 2026](/content/2026/06/03/README.md)
+
+### Tools
+
+*   [ansible-security-scanner (⭐2)](https://github.com/cpeoples/ansible-security-scanner) - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Tools
 
-*   [Ansible DocSmith](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
+*   [Ansible DocSmith (⭐20)](https://github.com/foundata/ansible-docsmith) - Generates Ansible role documentation from argument\_specs.yml for READMEs and default variable files.
 
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Linuxfabrik LFOps (⭐77)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
+*   [Linuxfabrik LFOps (⭐82)](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
 
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
@@ -64,7 +70,7 @@ Awesome Ansible List
 ### Editor and IDE Integrations / French
 
 *   [Vim](https://www.vim.org/) - An open-source, free command-line text editor. Useful Vim plugins include:
-    *   [Ansible vim (⭐819)](https://github.com/pearofducks/ansible-vim) - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
+    *   [Ansible vim (⭐820)](https://github.com/pearofducks/ansible-vim) - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
     *   [Ansible vim and neovim plugin](https://www.npmjs.com/package/@yaegassy/coc-ansible) - A vim plugin (lsp client) for Ansible, it supports autocompletion, syntax highlighting, hover, diagnostics, and goto support.
 *   [Emacs](https://www.gnu.org/software/emacs/) - A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):
     *   [lsp-mode](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Ansible Language Server Protocol support for Emacs: provides syntax highlighting, auto-completion and diagnostics.
@@ -185,13 +191,13 @@ Awesome Ansible List
 
 *   [php-ansible Library (⭐215)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
 *   [TD4A (⭐220)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐749)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [Ansible Playbook Grapher (⭐750)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐158)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐160)](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -296,7 +302,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Doctor (⭐156)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Doctor (⭐157)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -339,7 +345,7 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐108)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐111)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [Nov 26, 2019](/content/2019/11/26/README.md)
 

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jun 03, 2026](/content/2026/06/03/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [PieFed](https://join.piefed.social) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Demo](https://piefed.social), [Source Code](https://codeberg.org/rimu/pyfedi)) `AGPL-3.0` `Python/Docker`
+
 ## [May 31, 2026](/content/2026/05/31/README.md)
 
 ### Software / Learning and Courses
@@ -14,7 +20,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Management
 
-*   [Youtarr](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
+*   [Youtarr (⭐1.1k)](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
 
 ## [May 30, 2026](/content/2026/05/30/README.md)
 
@@ -414,7 +420,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Ticketing
 
-*   [Libredesk](https://libredesk.io/) - Modern customer support desk. Single binary app. ([Source Code (⭐2.5k)](https://github.com/abhinavxd/libredesk)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [Libredesk](https://libredesk.io/) - Modern omnichannel customer support desk. Live chat, email, and more in a single binary. ([Demo](https://demo.libredesk.io), [Source Code (⭐2.5k)](https://github.com/abhinavxd/libredesk)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Web Servers
 
@@ -1489,7 +1495,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Web Servers
 
-*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐10k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐11k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
 
 ## [Aug 11, 2024](/content/2024/08/11/README.md)
 
@@ -2683,7 +2689,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Video Surveillance
 
-*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐32k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
+*   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐33k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
 ## [Oct 18, 2022](/content/2022/10/18/README.md)
 
@@ -3623,7 +3629,7 @@ A list of Free Software network services and web applications which can be hoste
 *   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
 *   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐2.1k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
 *   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐32k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
-*   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
+*   [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code (⭐44k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
 *   [Lura](https://luraproject.org/) - High-performance API Gateway. ([Source Code (⭐6.8k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐571)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐11k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
@@ -4485,7 +4491,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Task Management & To-do Lists
 
-*   [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`
+*   [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code (⭐4.4k)](https://github.com/go-vikunja/vikunja)) `AGPL-3.0/GPL-3.0` `Go`
 
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
 

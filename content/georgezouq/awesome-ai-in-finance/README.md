@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Jun 03, 2026](/content/2026/06/03/README.md)
+
+### Research Tools / Prediction Markets
+
+*   [WalletLens](https://walletlens.live) - Multi-asset portfolio tracker with AI insights, technical analysis, live prices, and local-first data storage.
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Agents

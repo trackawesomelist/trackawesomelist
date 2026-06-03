@@ -32,6 +32,10 @@
 
 *   [Sharpe](https://www.sharpe.ai/docs/free-api) - Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.
 
+### Research Tools / Prediction Markets
+
+*   [WalletLens](https://walletlens.live) - Multi-asset portfolio tracker with AI insights, technical analysis, live prices, and local-first data storage.
+
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)
 
 ### Crypto Currencies Strategies

@@ -794,6 +794,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 *   [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 *   [CodexBar](https://codexbar.app) - Show usage stats for OpenAI Codex and Claude Code, without having to login. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+*   [Cursor Voice](https://cursorvoice.app) - Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 *   [Desktop Control (⭐35)](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 *   [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 *   [Flock (⭐13)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
@@ -1520,6 +1521,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 *   [stats (⭐39k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 *   [Sensei](https://sensei.app/) - Performance toolkit for monitoring, cleanup, and hardware diagnostics.
+*   [Sleepless (⭐2)](https://github.com/Aboudjem/Sleepless) - Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 *   [Sleepr](https://sleepr.app/) - Sleepr brings back sleep timer on macOS. [![App Store][app-store Icon]](https://apps.apple.com/us/app/sleepr-app/id6465683427?platform=mac)
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 *   [SteerMouse](https://plentycom.jp/en/steermouse/) - Customize mouse buttons, wheel behavior, and cursor speed.
