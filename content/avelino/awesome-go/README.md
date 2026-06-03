@@ -8,6 +8,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
+### Job Scheduler
+
+*   [go-cron (⭐40)](https://github.com/netresearch/go-cron) - Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron.
+*   [ofelia (⭐56)](https://github.com/netresearch/ofelia) - Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence.
+
 ### Machine Learning
 
 *   [Anneal (⭐10)](https://github.com/georgebuilds/anneal) - Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.
@@ -98,11 +103,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Science and Data Analysis
 
-*   [matrix (⭐2)](https://github.com/Arceus-7/matrix) - A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.
+*   [matrix (⭐6)](https://github.com/Arceus-7/matrix) - A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.
 
 ### Testing Frameworks
 
-*   [go-mutesting (⭐0)](https://github.com/jonbaldie/go-mutesting) - Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
+*   [go-mutesting (⭐2)](https://github.com/jonbaldie/go-mutesting) - Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
 
 ### Utilities
 

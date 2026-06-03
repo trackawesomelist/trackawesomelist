@@ -10,11 +10,13 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Management
 
+*   [Gravitee.io API Management (⭐417) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 *   [WSO2 API Manager (⭐986) (⭐986)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Documentation
 
-*   [Zudoku (⭐540) (⭐540)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [OpenAPI Explorer (⭐346) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐541) (⭐540)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
@@ -49,7 +51,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / Data Mapping Solution
 
 *   [JSLT (⭐695) (⭐695)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
-*   [Kaoto (⭐360) (⭐107)](https://github.com/KaotoIO/kaoto) - Visual data mapper for Apache Camel with a drag-and-drop interface supporting XML, JSON, CSV, and XSLT transformations. Successor to AtlasMap.
+*   [Kaoto (⭐107) (⭐107)](https://github.com/KaotoIO/kaoto) - Visual data mapper for Apache Camel with a drag-and-drop interface supporting XML, JSON, CSV, and XSLT transformations. Successor to AtlasMap.
 
 ### Projects / Enterprise Service Bus
 
@@ -57,7 +59,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Integration Platform as a Service
 
-*   [Camel K (⭐890) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+*   [Camel K (⭐917) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
 
 ### Projects / Message Broker
 
@@ -71,9 +73,14 @@ A curated list of awesome system integration software and resources.
 
 *   [Bonita (⭐174) (⭐174)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
 
+### Resources / API Specification
+
+*   [Arazzo Specification (⭐435) (⭐433)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
+*   [OpenAPI (ex.Swagger) (⭐31k) (⭐31k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
+
 ### Resources / Data Formats
 
-*   [YAML (⭐473) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [YAML (⭐474) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Protocols
 
@@ -86,17 +93,12 @@ A curated list of awesome system integration software and resources.
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐416) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-
 ### Projects / Data Mapping Solution
 
 *   [DataSonnet (⭐37) (⭐37)](https://github.com/datasonnet/datasonnet-mapper) - A template-based data transformation library built on Jsonnet, tailored for system integration.
 
 ### Resources / API Specification
 
-*   [Arazzo Specification (⭐433) (⭐433)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
 *   [TypeSpec (⭐5.7k) (⭐5.7k)](https://github.com/microsoft/typespec) - A highly extensible language for describing API data shapes and protocols, capable of compiling to OpenAPI, JSON Schema, Protobuf, and other formats.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
@@ -106,10 +108,6 @@ A curated list of awesome system integration software and resources.
 *   [OpenAPI Style Validator (⭐236) (⭐236)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Spectral (⭐3.1k) (⭐3.1k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 *   [Zally (⭐946) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐345) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
 
 ### Projects / API Gateway
 
@@ -375,10 +373,6 @@ A curated list of awesome system integration software and resources.
 *   [Argo Workflows (⭐16k) (⭐17k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 *   [jBPM (⭐1.7k) (⭐1.7k)](https://github.com/kiegroup/jbpm) - Comprehensive toolkit for automating business processes and decisions with robust workflow management capabilities.
 
-### Resources / API Specification
-
-*   [OpenAPI (ex.Swagger) (⭐30k) (⭐31k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
-
 ### Resources / Articles
 
 *   [API-Security-Checklist (⭐23k) (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
@@ -596,7 +590,7 @@ A curated list of awesome system integration software and resources.
     *   [Bruno (⭐44k) (⭐45k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
     *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
     *   [curlie (⭐3.6k) (⭐3.7k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
-    *   [gRPC UI (⭐5.8k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
+    *   [gRPC UI (⭐5.9k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
     *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
     *   [HTTPie (⭐38k) (⭐38k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
     *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
@@ -1137,7 +1131,7 @@ A curated list of awesome system integration software and resources.
 *   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-    *   [NDJSON (⭐829) (⭐828)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+    *   [NDJSON (⭐828) (⭐828)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
     *   [JSON Lines](https://jsonlines.org/) - A text format for storing structured data one record per line.
     *   [JSON Text Sequence](https://datatracker.ietf.org/doc/html/rfc7464) - Defined in RFC 7464, describe a specific format for transmitting or storing a sequence of individual JSON texts.
 

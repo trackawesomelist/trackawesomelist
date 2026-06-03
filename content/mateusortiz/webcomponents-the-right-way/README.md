@@ -6,6 +6,12 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Jun 03, 2026](/content/2026/06/03/README.md)
+
+### Books
+
+*   [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Book by Mark Volkmann, available at Manning early access program.
+
 ## [May 23, 2026](/content/2026/05/23/README.md)
 
 ### Design Systems
@@ -325,7 +331,7 @@ A curated list of awesome Web Components resources.
 
 ### Design Systems
 
-*   [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
+*   [Astro Space UX Design System (⭐150)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 *   [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 *   [FAST Components (⭐9.6k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 *   [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
@@ -378,7 +384,7 @@ A curated list of awesome Web Components resources.
 *   [Mutation testing elements (⭐27)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 *   [One Platform Components (⭐33)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
 *   [Playground Elements (⭐646)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-*   [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+*   [Stripe Elements (⭐84)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 *   [Titanium Elements (⭐20)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
 *   [Umbraco UI Components (⭐148)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 *   [VSCode Webview Elements (⭐0)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
@@ -393,7 +399,7 @@ A curated list of awesome Web Components resources.
 *   [Material Web Components (⭐11k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
 *   [Momentum UI Web Components (⭐212)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
 *   [OutlineJS (⭐130)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Pharos Design System (⭐129)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 *   [Red Hat Design System (⭐138)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 *   [Siemens iX Web Components (⭐344)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 
@@ -409,7 +415,7 @@ A curated list of awesome Web Components resources.
 
 ### Integrations
 
-*   [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Export your project components as custom elements for integration into external pages.
+*   [nuxt-custom-elements (⭐83)](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Export your project components as custom elements for integration into external pages.
 
 ### React
 
@@ -536,7 +542,7 @@ A curated list of awesome Web Components resources.
 
 ### Design Systems
 
-*   [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
+*   [Fluent UI Web Components (⭐20k)](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 
 ## [Aug 31, 2020](/content/2020/08/31/README.md)
 
@@ -604,7 +610,7 @@ A curated list of awesome Web Components resources.
 
 ### Tools
 
-*   [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
+*   [Custom Elements Locator (⭐38)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 
 ## [Aug 19, 2020](/content/2020/08/19/README.md)
 
@@ -630,7 +636,7 @@ A curated list of awesome Web Components resources.
 
 ### Integrations
 
-*   [reactify-wc](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
+*   [reactify-wc (⭐177)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
 ## [Jul 10, 2020](/content/2020/07/10/README.md)
 
@@ -665,7 +671,7 @@ A curated list of awesome Web Components resources.
 
 ### Tools
 
-*   [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
+*   [Web Components Codemods (⭐10)](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 
 ## [Jul 06, 2020](/content/2020/07/06/README.md)
 
@@ -1129,7 +1135,7 @@ A curated list of awesome Web Components resources.
 ### Polyfills / Custom Elements polyfills
 
 *   [@webcomponents/custom-elements (⭐1.2k)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
-*   [document-register-element](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
+*   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
 
 ### Polyfills / Customized Built-in Elements polyfills
 
@@ -1281,7 +1287,7 @@ A curated list of awesome Web Components resources.
 
 ### Integrations
 
-*   [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐721)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [Mar 17, 2019](/content/2019/03/17/README.md)
 

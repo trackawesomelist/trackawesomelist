@@ -1592,6 +1592,7 @@ additional ordered map implementations.
 *   [clockwerk (⭐182)](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
 *   [cronticker (⭐20)](https://github.com/krayzpipes/cronticker) - A ticker implementation to support cron schedules.
 *   [go-cron (⭐239)](https://github.com/rk/go-cron) - Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons.
+*   [go-cron (⭐40)](https://github.com/netresearch/go-cron) - Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron.
 *   [go-job (⭐1)](https://github.com/cybergarage/go-job) - A flexible and extensible job scheduling and execution library for Go.
 *   [go-quartz (⭐2k)](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
 *   [go-scheduler (⭐34)](https://github.com/pardnchiu/go-scheduler) - Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies.
@@ -1601,6 +1602,7 @@ additional ordered map implementations.
 *   [gronx (⭐504)](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
 *   [JobRunner (⭐1.1k)](https://github.com/bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
 *   [leprechaun (⭐107)](https://github.com/kilgaloon/leprechaun) - Job scheduler that supports webhooks, crons and classic scheduling.
+*   [ofelia (⭐56)](https://github.com/netresearch/ofelia) - Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence.
 *   [pending (⭐6)](https://github.com/kahoon/pending) - ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.
 *   [sched (⭐31)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
 *   [scheduler (⭐469)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
@@ -2354,7 +2356,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [jsonl-graph (⭐78)](https://github.com/nikolaydubina/jsonl-graph) - Tool to manipulate JSONL graphs with graphviz support.
 *   [matlab (⭐11)](https://github.com/scigolib/matlab) - Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO.
 *   [MatProInterface.go (⭐2)](https://github.com/MatProGo-dev/MatProInterface.go) - MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go.
-*   [matrix (⭐2)](https://github.com/Arceus-7/matrix) - A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.
+*   [matrix (⭐6)](https://github.com/Arceus-7/matrix) - A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.
 *   [ode (⭐22)](https://github.com/ChristopherRabotin/ode) - Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.
 *   [orb (⭐1.1k)](https://github.com/paulmach/orb) - 2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support.
 *   [pagerank (⭐87)](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go.
@@ -2577,7 +2579,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-cmp (⭐4.6k)](https://github.com/google/go-cmp) - Package for comparing Go values in tests.
 *   [go-hit (⭐256)](https://github.com/Eun/go-hit) - Hit is an http integration test framework written in golang.
 *   [go-httpbin (⭐848)](https://github.com/mccutchen/go-httpbin) - HTTP testing and debugging tool with various endpoints for client testing.
-*   [go-mutesting (⭐0)](https://github.com/jonbaldie/go-mutesting) - Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
+*   [go-mutesting (⭐2)](https://github.com/jonbaldie/go-mutesting) - Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.
 *   [go-mysql-test-container (⭐3)](https://github.com/arikama/go-mysql-test-container) - Golang MySQL testcontainer to help with MySQL integration testing.
 *   [go-snaps (⭐261)](http://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Golang.
 *   [go-test-coverage (⭐233)](https://github.com/vladopajic/go-test-coverage) - Tool that reports coverage of files below set threshold.
