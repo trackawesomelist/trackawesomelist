@@ -6,6 +6,66 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### Calendar
+
+- API: [caldays](https://caldays.com/api)
+
+  Description: Public holidays for 195+ countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [Zero Retention PDF](https://xeropdf.com)
+
+  Description: Zero-retention HTML to PDF conversion
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Finance
+
+- API: [CongressInvests](https://congressinvests.com)
+
+  Description: Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Sports & Fitness
+
+- API: [Padel Snipe](https://padelsnipe.com/fr/world/api)
+
+  Description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Calendar

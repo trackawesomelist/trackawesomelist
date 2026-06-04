@@ -409,8 +409,10 @@ Use these hashtags in search to filter out the tools
 *   [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. `#freemium`
 *   [Clacky AI](https://clacky.ai/) - L3 Agentic AI cloud development environment. \`\`
 *   [Claude](https://claude.ai/) - Anthropic's AI assistant with advanced reasoning capabilities. `#freemium`
+*   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
+*   [Codex CLI (⭐87k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. `#freemium`
@@ -419,12 +421,12 @@ Use these hashtags in search to filter out the tools
 *   [CodeSnippets](https://codesnippets.ai/) - Secure chat library for team user management. `#free`
 *   [Codiga](https://www.codiga.io/) - Customizable real-time static code analysis. `#free`
 *   [CodiumAI (Qodo)](https://www.qodo.ai/)%20AI%20Tool) - Quality agent platform for organizational standards. `#paid`
-*   [Cody](https://about.sourcegraph.com/cody) - AI coding assistant that understands your entire codebase. `#freemium`
-*   [Cody](https://sourcegraph.com/cody) - Sourcegraph accurate code maintenance tool. \`\`
 *   [Continue](https://continue.dev/) - Open-source AI code assistant that works with any LLM `#free`
 *   [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
+*   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 *   [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
+*   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
 *   [Devin](https://www.cognition.ai/devin) - Autonomous AI software engineer for end-to-end tasks. \`\`
 *   [Doubao AI Prog](https://www.doubao.com/) - Assistant for beginners to master concepts. `#free`
@@ -433,7 +435,9 @@ Use these hashtags in search to filter out the tools
 *   [Fitten Code](https://code.fitten.com/) - Jittor framework high-speed completion tool. \`\`
 *   [Fronty](https://fronty.com/) - Converts image/screenshots to HTML/CSS. \`\`
 *   [Genie](https://genie.ai/) - Simulating human engineer cognitive processes. \`\`
+*   [Gemini CLI (⭐104k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
+*   [Groq](https://groq.com/) - Ultra-fast LLM inference API with free tier for Llama, Mixtral, and Gemma models. `#freemium`
 *   [HeyCLI](https://heycli.com/) - Natural language execution for Linux terminals. \`\`
 *   [Hocoos](https://hocoos.com/) - AI-driven no-code website construction tool. `#paid`
 *   [Imgcook](https://www.imgcook.com/) - Taobao design-to-code intelligent tool. `#free`
@@ -444,6 +448,10 @@ Use these hashtags in search to filter out the tools
 *   [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 *   [Lovable](https://lovable.dev/) - Generating full-stack apps via Supabase/GitHub. \`\`
 *   [MarsX](https://www.marsx.dev/) - MicroApps and no-code software development. \`\`
+*   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
+*   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
+*   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
+*   [OpenCode (⭐165k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
 *   [Quest AI](https://www.quest.ai/) - Intelligent Q\&A and info retrieval for dev. \`\`
@@ -453,12 +461,16 @@ Use these hashtags in search to filter out the tools
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
+*   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
+*   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`
 *   [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities (AI Background Remover that runs locally, OG Image Generator, AI Robots.txt Generator, SEO Meta Tag Generator, AI Cost Calculator, AI Content Disclosure for EU AI Act, favicon and color palette generators, domain name generator). Open source, no signup. `#free` `#opensource`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
+*   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
 *   [Twinny (⭐3.6k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 *   [v0](https://v0.dev/) - AI-powered UI component generator by Vercel. `#free`
+*   [Vercel AI SDK](https://sdk.vercel.ai/) - TypeScript toolkit for building AI-powered applications with streaming, agents, and tool calling. `#free` `#opensource`
 *   [Warp](https://www.warp.dev/) - Parallel agent operation for fast completion. `#paid`
 *   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`

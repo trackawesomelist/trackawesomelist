@@ -2,7 +2,7 @@
 
 An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 1.3K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 1.4K · 🏷️ Gaming
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / Overview ]
 
@@ -92,7 +92,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
 
-*   [Flutter Web and Flame (⭐139)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐138)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 *   [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage][1].
 
@@ -141,7 +141,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 <!--lint ignore double-link-->
 
-*   [BGUG (⭐95)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐96)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 *   [Dino Run (⭐249)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
 
@@ -149,7 +149,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Flutters (⭐242)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-*   [Simple Platformer (⭐66)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1].
+*   [Simple Platformer (⭐65)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
@@ -214,7 +214,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   TTG - Through The Galaxies - [Android](https://play.google.com/store/apps/details?id=dev.app2pack.ttg), [iOS](https://apps.apple.com/app/ttg-through-the-galaxy/id6444870791?platform=iphone) - Control the rocket to go through the planets to gain higher and higher score. By [imaNNeo](https://github.com/imaNNeo)
 
-*   BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://coconutisland.xyz/)
+*   BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps][4]
 
 *   Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
 
@@ -299,6 +299,10 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
 
+*   Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps][4]
+
+*   Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps][4]
+
 #### Roguelike
 
 *   Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
@@ -313,12 +317,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ## Non-English Content
 
-*   [Mandarin Chinese (中文) (⭐1.3k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-*   [Spanish (Español) (⭐1.3k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Mandarin Chinese (中文) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Spanish (Español) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
-[Please read the contribution guidelines (⭐1.3k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+[Please read the contribution guidelines (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
 
 <!-- Add ref links here -->
 
@@ -327,4 +331,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 [2]: https://www.yayocode.com "YayoCode"
 
 [3]: https://www.dong.digital "Dong Digital"
+
+[4]: https://www.coconutisland.app "Coconut Island Apps"
 

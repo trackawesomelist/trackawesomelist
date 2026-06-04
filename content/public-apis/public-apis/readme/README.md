@@ -321,6 +321,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 | API                                                                                            | Description                                                                                    | Auth     | HTTPS | CORS    |
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------- | :---- | :------ |
+| [caldays](https://caldays.com/api)                                                             | Public holidays for 195+ countries                                                             | No       | Yes   | Yes     |
 | [Calendarific](https://calendarific.com/)                                                      | Worldwide Holidays                                                                             | `apiKey` | Yes   | Unknown |
 | [Checkiday - National Holiday](https://apilayer.com/marketplace/checkiday-api)                 | Industry-leading holiday data with over 5,000 holidays and thousands of descriptions           | `apiKey` | Yes   | Unknown |
 | [Church Calendar](http://calapi.inadiutorium.cz/)                                              | Catholic liturgical calendar                                                                   | No       | No    | Unknown |
@@ -681,6 +682,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Vector Express v2.0](https://vector.express)                                     | Free vector file converting API                                                                      | No       | Yes   | No      |   |
 | [WakaTime](https://wakatime.com/developers)                                       | Automated time tracking leaderboards for programmers                                                 | No       | Yes   | Unknown |   |
 | [Zube](https://zube.io/docs/api)                                                  | Full stack project management                                                                        | `OAuth`  | Yes   | Unknown |   |
+| [Zero Retention PDF](https://xeropdf.com)                                         | Zero-retention HTML to PDF conversion                                                                | `apiKey` | Yes   | Unknown |   |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -779,6 +781,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Binlist](https://binlist.net/)                                                                                            | Public access to a database of IIN/BIN information                                                  | No       | Yes   | Unknown |   |
 | [Boleto.Cloud](https://boleto.cloud/)                                                                                      | A api to generate boletos in Brazil                                                                 | `apiKey` | Yes   | Unknown |   |
 | [Citi](https://sandbox.developerhub.citi.com/api-catalog-list)                                                             | All Citigroup account and statement data APIs                                                       | `apiKey` | Yes   | Unknown |   |
+| [CongressInvests](https://congressinvests.com)                                                                             | Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk                | `apiKey` | Yes   | Yes     |   |
 | [Econdb](https://www.econdb.com/api/)                                                                                      | Global macroeconomic data                                                                           | No       | Yes   | Yes     |   |
 | [EconPulse](https://econpulse.io)                                                                                          | Live economic data — CPI, PPI, energy, treasury rates, BTC premium                                  | `apiKey` | Yes   | Yes     |   |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/)                                                         | U.S. Department of the Treasury Data                                                                | No       | Yes   | Unknown |   |
@@ -1665,6 +1668,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)                                   | NHL historical data and statistics                                                                  | No              | Yes   | Unknown |
 | [Oddsmagnet](https://data.oddsmagnet.com)                                                   | Odds history from multiple UK bookmakers                                                            | No              | Yes   | Yes     |
 | [OpenLigaDB](https://www.openligadb.de)                                                     | Crowd sourced sports league results                                                                 | No              | Yes   | Yes     |
+| [Padel Snipe](https://padelsnipe.com/fr/world/api)                                          | 4,000+ mapped padel clubs across 9 European countries with GPS and courts                           | No              | Yes   | Yes     |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics                                                 | `apiKey`        | Yes   | Unknown |
 | [RacingHub](https://racinghub.net/api/v1/docs#/)                                            | Formula 1 historical data and statistics                                                            | No              | Yes   | Unknown |
 | [Sport Data](https://sportdataapi.com)                                                      | Get sports data from all over the world                                                             | `apiKey`        | Yes   | Unknown |

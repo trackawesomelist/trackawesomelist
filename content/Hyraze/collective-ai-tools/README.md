@@ -6,6 +6,24 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### Developer Tools
+
+*   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
+*   [Codex CLI (⭐87k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
+*   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
+*   [Gemini CLI (⭐104k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
+*   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
+*   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
+*   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
+*   [OpenCode (⭐165k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant with deep codebase context, for VS Code, JetBrains and web. `#freemium`
+*   [Supermaven](https://supermaven.com/) - Fast AI code completion with 300k token context window. `#freemium`
+*   [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
+*   [Vercel AI SDK](https://sdk.vercel.ai/) - TypeScript toolkit for building AI-powered applications with streaming, agents, and tool calling. `#free` `#opensource`
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Video
@@ -215,7 +233,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 *   [CodeSnippets](https://codesnippets.ai/) - Secure chat library for team user management. `#free`
 *   [Codiga](https://www.codiga.io/) - Customizable real-time static code analysis. `#free`
 *   [CodiumAI (Qodo)](https://www.qodo.ai/)%20AI%20Tool) - Quality agent platform for organizational standards. `#paid`
-*   [Cody](https://sourcegraph.com/cody) - Sourcegraph accurate code maintenance tool. \`\`
 *   [Devin](https://www.cognition.ai/devin) - Autonomous AI software engineer for end-to-end tasks. \`\`
 *   [Doubao AI Prog](https://www.doubao.com/) - Assistant for beginners to master concepts. `#free`
 *   [Fig](https://fig.io/) - Terminal auto-completion (Shutdown 2024). `#free`
@@ -810,7 +827,16 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 *   [DeepSeek-V3](https://www.deepseek.com/) - Advanced reasoning model with 128K context length and strong coding abilities `#freemium`
 *   [Gemini 2.0](https://gemini.google.com/) - Google's latest multimodal AI model with advanced reasoning and creative capabilities `#free`
 *   [GPT-4o](https://openai.com/gpt-4o) - OpenAI's flagship model with vision, audio, and text capabilities in a single model `#freemium`
-*   [Groq](https://groq.com/) - Lightning-fast AI inference platform with real-time response capabilities `#freemium`
+
+### Developer Tools
+
+*   [Groq](https://groq.com/) - Ultra-fast LLM inference API with free tier for Llama, Mixtral, and Gemma models. `#freemium`
+*   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
+*   [Bolt.new](https://bolt.new/) - AI-powered full-stack web development platform `#freemium`
+*   [CodeRabbit](https://coderabbit.ai/) - AI-powered code review assistant that provides intelligent feedback `#freemium`
+*   [Continue](https://continue.dev/) - Open-source AI code assistant that works with any LLM `#free`
+*   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
+*   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 
 ### Image Generator
 
@@ -830,15 +856,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 ### Design
 
 *   [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `#free`
-
-### Developer Tools
-
-*   [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repo `#free`
-*   [Bolt.new](https://bolt.new/) - AI-powered full-stack web development platform `#freemium`
-*   [CodeRabbit](https://coderabbit.ai/) - AI-powered code review assistant that provides intelligent feedback `#freemium`
-*   [Continue](https://continue.dev/) - Open-source AI code assistant that works with any LLM `#free`
-*   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
-*   [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
 
 ### Models
 
@@ -909,7 +926,6 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 ### Developer Tools
 
 *   [Claude](https://claude.ai/) - Anthropic's AI assistant with advanced reasoning capabilities. `#freemium`
-*   [Cody](https://about.sourcegraph.com/cody) - AI coding assistant that understands your entire codebase. `#freemium`
 *   [Replit Ghostwriter](https://replit.com/ghostwriter) - AI-powered code generation and completion in the browser. `#freemium`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Tabnine](https://www.tabnine.com/) - AI code completion tool that learns from your code patterns. `#freemium`

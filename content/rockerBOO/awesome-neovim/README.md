@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### Utility / Cursorline
+
+*   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
+
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
 ### Colorscheme / Assembly

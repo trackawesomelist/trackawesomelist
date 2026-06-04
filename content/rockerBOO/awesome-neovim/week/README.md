@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [marekh19/meowsoot.nvim (⭐10)](https://github.com/marekh19/meowsoot.nvim) - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 
+### Utility / Cursorline
+
+*   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### File Explorer / Assembly

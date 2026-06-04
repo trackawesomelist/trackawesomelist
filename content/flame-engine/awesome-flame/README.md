@@ -2,9 +2,16 @@
 
 An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 1.3K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 1.4K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
+
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### App Releases / Tower Defense
+
+*   Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps](https://www.coconutisland.app "Coconut Island Apps")
+*   Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps](https://www.coconutisland.app "Coconut Island Apps")
 
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
@@ -159,7 +166,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Casual
 
-*   BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://coconutisland.xyz/)
+*   BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://www.coconutisland.app "Coconut Island Apps")
 
 ## [Apr 08, 2023](/content/2023/04/08/README.md)
 
@@ -257,7 +264,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Spanish (Español) (⭐1.3k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Spanish (Español) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
@@ -295,7 +302,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐66)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐65)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [Nov 29, 2021](/content/2021/11/29/README.md)
 
@@ -391,7 +398,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Mandarin Chinese (中文) (⭐1.3k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐1.4k)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## [Jul 06, 2020](/content/2020/07/06/README.md)
 
@@ -404,7 +411,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### Other Articles & Tutorials
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
-*   [Flutter Web and Flame (⭐139)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐138)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ### Open Source / Casual
 
@@ -442,4 +449,4 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Endless Runner
 
-*   [BGUG (⭐95)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐96)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)

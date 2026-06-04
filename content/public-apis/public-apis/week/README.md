@@ -10,6 +10,17 @@ A collective list of free APIs
 
 ### Calendar
 
+- API: [caldays](https://caldays.com/api)
+
+  Description: Public holidays for 195+ countries
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Checkiday - National Holiday](https://apilayer.com/marketplace/checkiday-api)
 
   Description: Industry-leading holiday data with over 5,000 holidays and thousands of descriptions
@@ -60,6 +71,17 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [Zero Retention PDF](https://xeropdf.com)
+
+  Description: Zero-retention HTML to PDF conversion
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Finance
 
@@ -72,6 +94,19 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+  : 
+
+
+- API: [CongressInvests](https://congressinvests.com)
+
+  Description: Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
   : 
 
@@ -397,6 +432,17 @@ A collective list of free APIs
 
 
 ### Sports & Fitness
+
+- API: [Padel Snipe](https://padelsnipe.com/fr/world/api)
+
+  Description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [TheRundown](https://therundown.io/)
 
