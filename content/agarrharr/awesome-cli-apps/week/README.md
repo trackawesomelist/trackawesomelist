@@ -12,6 +12,10 @@
 
 *   [linear-tui (⭐26)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 
+### AI / Agents
+
+*   [hcom (⭐300)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Development / Database
@@ -103,7 +107,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [kanban (⭐107)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐114)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### Data Manipulation / Processors
 
@@ -246,7 +250,7 @@
 
 ### Screensavers / Image Conversion
 
-*   [gitlogue (⭐4.7k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+*   [gitlogue (⭐4.8k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ### AI / Agents
 

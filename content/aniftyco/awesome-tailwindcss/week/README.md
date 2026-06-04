@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Plugins
+
+*   💼 [tailwind-hitslop (⭐1)](https://github.com/Jubstaaa/tailwind-hitslop) - Adds `hit-slop` utilities to invisibly expand touch targets, like React Native's `hitSlop`.
+
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
 ### Tools
@@ -48,13 +54,13 @@
 *   💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
 *   🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 *   🧩 [Ripple UI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
-*   🧩 [Xtend UI (⭐452)](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
+*   🧩 [Xtend UI (⭐450)](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
 *   📚 [Date picker (⭐148)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 *   📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 
 ### Plugins
 
-*   💼 [Bootstrap grid (⭐187)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+*   💼 [Bootstrap grid (⭐188)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 *   💼 [Dot & grid backgrounds (⭐37)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 *   💼 [px to viewport (⭐9)](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
 
@@ -114,7 +120,7 @@
 
 ### UI libraries, components & templates
 
-*   📁 [Astro Template Dante (⭐484)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+*   📁 [Astro Template Dante (⭐497)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -193,7 +199,7 @@
 
 ### UI libraries, components & templates
 
-*   📁 [Admin One React (⭐583)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+*   📁 [Admin One React (⭐591)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -221,7 +227,7 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐310)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐313)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
@@ -281,7 +287,7 @@
 ### Tools
 
 *   🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
-*   🔼 [RustyWind (⭐610)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+*   🔼 [RustyWind (⭐617)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 
 ### UI libraries, components & templates
@@ -290,4 +296,4 @@
 
 ### Plugins
 
-*   💙🧩 [Typography (⭐6.3k)](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
+*   💙🧩 [Typography (⭐6.4k)](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.

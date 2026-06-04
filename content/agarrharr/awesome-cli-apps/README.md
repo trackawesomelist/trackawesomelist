@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### AI / Agents
+
+*   [hcom (⭐300)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Productivity / Testing
@@ -135,7 +141,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [kanban (⭐107)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐114)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -304,7 +310,7 @@
 
 ### Screensavers / Image Conversion
 
-*   [gitlogue (⭐4.7k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+*   [gitlogue (⭐4.8k)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ### AI / Agents
 

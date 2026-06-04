@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 04, 2026](/content/2026/06/04/README.md)
+
+### Monitoring
+
+*   [Runframe](https://runframe.io/) - On-call alerting, incident management, and public/private status pages. The free plan includes up to 5 users, 1 team, 1 on-call schedule, basic status pages, incident lifecycle, and Slack-native incident response.
+
 ## [Jun 02, 2026](/content/2026/06/02/README.md)
 
 ### Security and PKI
@@ -576,10 +582,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
 
-### Design and UI
-
-*   [Modeldraw.com](https://modeldraw.com) - Complete diagramming platform with UML, system architecture, flowcharts, mind maps, and Agile workflows. Real-time collaboration with unlimited team members, no credit card required.
-
 ### Analytics, Events and Statistics
 
 *   [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
@@ -681,10 +683,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Generative AI
 
 *   [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
-
-### DNS
-
-*   [VolaryDDNS](https://volaryddns.net) - Free high-performant DDNS with no subscriptions or advertisements
 
 ## [Jun 09, 2025](/content/2025/06/09/README.md)
 
@@ -802,12 +800,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
-
-## [Mar 25, 2025](/content/2025/03/25/README.md)
-
-### Storage and Media Processing
-
-*   [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator - no login, no watermark, no ads. Up to 100 URLs per bulk export.
 
 ## [Mar 18, 2025](/content/2025/03/18/README.md)
 
@@ -2788,7 +2780,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Supportivekoala](https://supportivekoala.com/) - Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
 *   [wolfram.com](https://wolfram.com/language/) - Built-in knowledge-based algorithms in the cloud.
 
 ### IDE and Code Editing
