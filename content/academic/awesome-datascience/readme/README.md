@@ -446,7 +446,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
 *   [modAL (⭐2.4k)](https://github.com/modAL-python/modAL)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
@@ -564,6 +564,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [geomap](https://pypi.org/project/geomap/)
 *   [Dash](https://plotly.com/dash/)
 *   [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
+*   [torchvista (⭐743)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
 
 ### Miscellaneous Tools
 

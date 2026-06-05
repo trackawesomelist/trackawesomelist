@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jun 05, 2026](/content/2026/06/05/README.md)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [torchvista (⭐743)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -1522,7 +1528,7 @@
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)

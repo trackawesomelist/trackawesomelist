@@ -8,6 +8,10 @@
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
+### Deep Learning Packages / Visualization Tools
+
+*   [torchvista (⭐743)](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
+
 ### Datasets / Book Deals (Affiliated)
 
 *   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐1)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
@@ -1370,7 +1374,7 @@
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐5.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐5.6k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)

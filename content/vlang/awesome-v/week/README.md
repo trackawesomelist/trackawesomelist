@@ -10,7 +10,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [salty](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
+*   [netprint (⭐0)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [salty (⭐0)](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 

@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [neuron-cli (⭐2)](https://github.com/steevin/neuron-cli) - A local-first, Obsidian-compatible terminal knowledge manager.
 
+### Third-party APIs
+
+*   [libopenapi (⭐849)](https://github.com/pb33f/libopenapi) - Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.
+
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
 ### Job Scheduler
@@ -555,7 +559,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [loom](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
+*   [loom (⭐126)](https://github.com/loom-go/loom) - Signal-based reactive components framework for building TUIs.
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -597,7 +601,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [GoSQLX](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
+*   [GoSQLX (⭐97)](https://github.com/ajitpratap0/GoSQLX) - High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.
 
 ### Distributed Systems
 
@@ -786,7 +790,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [hdf5 (⭐27)](https://github.com/scigolib/hdf5) - Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
 *   [insyra (⭐51)](https://github.com/HazelnutParadise/insyra) - Data analysis library with statistics, visualization, Parquet support, and Python integration.
 *   [matlab (⭐11)](https://github.com/scigolib/matlab) - Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO.
-*   [MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) - MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go.
+*   [MatProInterface.go (⭐2)](https://github.com/MatProGo-dev/MatProInterface.go) - MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go.
 
 ### Testing Frameworks
 

@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jun 05, 2026](/content/2026/06/05/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
+
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
@@ -108,7 +114,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 *   [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
-*   [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
+*   [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Portable human 3DGS capture platform.
 *   [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 *   [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 *   [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
@@ -229,7 +235,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.7k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.8k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
 
 ## [Jul 01, 2024](/content/2024/07/01/README.md)
 
