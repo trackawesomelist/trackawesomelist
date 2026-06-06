@@ -8,6 +8,59 @@ A collective list of free APIs
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
+### Art & Design
+
+- API: [DummyImage](https://dummyimage.com/)
+
+  Description: Generate placeholder images with custom size, colors and text
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Blockchain
+
+- API: [Blockscout](https://dev.blockscout.com/)
+
+  Description: Multichain block explorer REST API (with Etherscan-compatible JSON-RPC)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Business
+
+- API: [Invovate](https://invovate.com/api)
+
+  Description: Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Signaliz](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction)
+
+  Description: GTM enrichment, lead generation, email verification, and company signals
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ### Calendar
 
 - API: [caldays](https://caldays.com/api)
@@ -32,8 +85,52 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [The Calendar](https://the-calendar.net/api/)
+
+  Description: Public holidays for US states and 30 countries plus sports and finance calendars as static JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Development
+
+- API: [Amazonscraperapi](https://amazonscraperapi.com)
+
+  Description: Amazon product, search & batch scraping API with residential proxies (1000 free)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Hipsum](https://hipsum.co)
+
+  Description: Hipster-themed lorem ipsum generator for placeholder text
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Keyvalue](https://keyvalue.immanuel.co/)
+
+  Description: Simple key-value storage REST API for quick prototyping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
 
 - API: [Talordata](https://docs.talordata.com/)
 
@@ -44,6 +141,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [Thunder Client](https://www.thunderclient.com/)
+
+  Description: API testing tool
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -58,6 +166,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Rendex](https://rendex.dev)
+
+  Description: Render HTML, Markdown, or URLs to PNG/JPEG/WebP/PDF, with extraction and templating
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 - API: [Smart Image Enhancement](https://apilayer.com/marketplace/image_enhancement-api)
@@ -83,6 +202,45 @@ A collective list of free APIs
 
 
 
+### Email
+
+- API: [Kiprio Email Validate](https://kiprio.com/v1/email-validate)
+
+  Description: Free email validation: MX check, disposable detection, syntax
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [JokeAPI](https://v2.jokeapi.dev/)
+
+  Description: Programmable jokes in multiple languages with filtering options
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PotterDB](https://docs.potterdb.com/)
+
+  Description: Harry Potter universe database with characters, spells, potions and more
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Finance
 
 - API: [Bank Data](https://apilayer.com/marketplace/bank_data-api)
@@ -98,9 +256,33 @@ A collective list of free APIs
   : 
 
 
+- API: [BriefTape](https://brieftape.com)
+
+  Description: Real-time AI-summarized SEC filings, Fed, FDA and BLS data, ticker-tagged
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [CongressInvests](https://congressinvests.com)
 
   Description: Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [Sugra](https://sugra.ai)
+
+  Description: One API for market data, economics, commodities, climate, and global news. LLM-ready JSON
 
   Auth: `apiKey`
 
@@ -403,13 +585,169 @@ A collective list of free APIs
 
 
 
+### Games & Comics
+
+- API: [Astroworld](https://api.astroworldmc.com)
+
+  Description: Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [Kiprio UK Postcode](https://kiprio.com/v1/postcode)
+
+  Description: UK postcode lookup with lat/lon, district, ward, constituency
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip)
+
+  Description: French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Open Government, Indonesia](https://data.go.id/)
+
+  Description: Indonesian Government Open Data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs)
+
+  Description: US federal contracts, grants, and agency spending data updated daily
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Health
+
+- API: [Longevity World Cup](https://longevityworldcup.com/api/data/athletes)
+
+  Description: Public biological age competition data with biomarkers and rankings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [MedlinePlus Genetics](https://medlineplus.gov/about/developers/geneticsdatafilesapi/)
 
   Description: Genetic conditions, genes, chromosomes and mtDNA data
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Machine Learning
+
+- API: [MediaCraft AI](https://mediacraft-x402-api.onrender.com)
+
+  Description: Chinese content compliance review (17 platforms), EN↔CN translation, and SEO optimization. Pay-per-call via x402 (Solana USDC).
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Warnely](https://warnely.com/developers)
+
+  Description: Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live incident wire), OpenAPI 3.1 spec, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Personality
+
+- API: [AstroWay](https://api.astroway.info/docs/)
+
+  Description: Astrology, natal charts, Human Design, Vedic and horoscopes on the Swiss Ephemeris
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Personality.fyi](https://personality.fyi/api)
+
+  Description: Free MBTI personality types and OEJTS test scoring
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [URLhaus](https://urlhaus.abuse.ch/api/)
+
+  Description: Database of malicious URLs used for malware distribution
+
+  Auth: `No`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Shopping
+
+- API: [Descripio Amazon Reviews](https://docs.descripio.com)
+
+  Description: Amazon product reviews for 12 marketplaces
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -433,6 +771,17 @@ A collective list of free APIs
 
 ### Sports & Fitness
 
+- API: [OpenF1](https://openf1.org/)
+
+  Description: Real-time and historical Formula 1 data including laps, car telemetry and positions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Padel Snipe](https://padelsnipe.com/fr/world/api)
 
   Description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
@@ -444,11 +793,36 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [PropLine](https://prop-line.com)
+
+  Description: Real-time player-props betting odds with graded prop resolution across 13 books
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 - API: [TheRundown](https://therundown.io/)
 
   Description: Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Test Data
+
+- API: [DummyJSON](https://dummyjson.com/)
+
+  Description: Fake REST API with products, users, posts, comments, todos and more
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -469,8 +843,52 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [Kiprio Translate](https://kiprio.com/v1/translate)
+
+  Description: Free text translation with language detection, supports 50+ languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Vehicle
+
+- API: [Auto Body Shop Directory](https://autobodyshopnear.com/developers/body-shop-api)
+
+  Description: Find auto body shops by ZIP code, city, location, or profile
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [CarVector](https://carvector.io/docs)
+
+  Description: Vehicle specs, images, recalls, and DTC codes across 1925-2029
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ProblemsByVin](https://problemsbyvin.com/data/)
+
+  Description: Owner complaints, recalls and failure-mileage statistics by vehicle make, model and year
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [RevCarData](https://revcardata.com)
 
@@ -495,6 +913,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Rendobar](https://rendobar.com)
+
+  Description: Hosted media processing over REST: transcode, caption, watermark video
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
 
 
 
@@ -3668,17 +4097,6 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
-
-
-- API: [Zoo Animals](https://zoo-animal-api.herokuapp.com/)
-
-  Description: Facts and pictures of zoo animals
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -8087,17 +8505,6 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [FTX](https://docs.ftx.com/)
-
-  Description: Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 - API: [Indodax (⭐168)](https://github.com/btcid/indodax-official-api-docs)
 
   Description: Trade your Bitcoin and other assets with rupiah
@@ -10353,32 +10760,6 @@ A collective list of free APIs
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
 ### Cloud Storage & File Sharing
-
-- API: [AnonFiles](https://anonfiles.com/docs/api)
-
-  Description: Upload and share your files anonymously
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
-
-- API: [BayFiles](https://bayfiles.com/docs/api)
-
-  Description: Upload and share your files
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-  : 
-
 
 - API: [File.io](https://www.file.io)
 
@@ -19331,17 +19712,6 @@ A collective list of free APIs
 
 
 ### Weather
-
-- API: [MetaWeather](https://www.metaweather.com/api/)
-
-  Description: Weather
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: No
-
 
 - API: [ODWeather](http://api.oceandrivers.com/static/docs.html)
 

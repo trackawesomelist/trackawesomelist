@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jun 06, 2026](/content/2026/06/06/README.md)
+
+### Developer Tools
+
+*   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
+
 ## [Jun 04, 2026](/content/2026/06/04/README.md)
 
 ### Developer Tools

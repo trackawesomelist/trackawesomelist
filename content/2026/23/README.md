@@ -1,30 +1,36 @@
 # Awesome List Updates on Jun 08 - Jun 14, 2026
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+
+### Libraries / To draw using canvas
+
+*   [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) is Skia's Canvas API compiled to WebAssembly, providing high-performance 2D graphics rendering for web applications.
+
+## [2. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Networking / Distributed Utilities
 
 *   [mbrostami/consistenthash (⭐32)](https://github.com/mbrostami/consistenthash) — Consistent hashing implementation ☆`32`
 
-## [2. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Security / Scala
 
 *   [OWASP Agent Memory Guard (⭐36)](https://github.com/OWASP/www-project-agent-memory-guard) — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML policies, microsecond latency, zero external dependencies.
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
 
-## [4. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [5. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 4
 
@@ -34,7 +40,7 @@
 
 *   [Godot Asset Store](https://store.godotengine.org/) - Official Godot Asset Store. A modern replacement for the Godot Asset Library.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -46,39 +52,39 @@
 
 *   [smucd (⭐0)](https://github.com/pro555161rblxs/smucd) - Fuzzy typo-tolerant cd replacement with interactive selection UI.
 
-## [6. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [7. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Blockchain and Rewards
 
 *   [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, \~$350 free volume, no platform lock-in.
 
-## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [netprint (⭐0)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
 *   [salty (⭐0)](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
 
-## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [tailwind-hitslop (⭐1)](https://github.com/Jubstaaa/tailwind-hitslop) - Adds `hit-slop` utilities to invisibly expand touch targets, like React Native's `hitSlop`.
 
-## [10. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [11. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Tower Defense
 
 *   Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps](https://www.coconutisland.app "Coconut Island Apps")
 *   Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps](https://www.coconutisland.app "Coconut Island Apps")
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
@@ -88,7 +94,7 @@
 
 *   `⚠ ` - Depends on a proprietary service outside the user's control
 
-## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Remote Code Execution
 
@@ -98,7 +104,7 @@
 
 *   [OWASP Juice Shop (⭐13k)](https://github.com/juice-shop/juice-shop) - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) and the [@owasp\_juiceshop](https://twitter.com/owasp_juiceshop) team.
 
-## [13. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Infrastructure & Delivery
 
@@ -1753,13 +1759,13 @@
 *   Browse and search existing resources
 *   Track approval status of your submissions
 
-## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Books
 
 *   [Web Component Development with Modern Libraries and Tooling](https://www.manning.com/books/web-component-development-with-modern-libraries-and-tooling) - Book by Mark Volkmann, available at Manning early access program.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -1778,7 +1784,7 @@
 
 *   [libopenapi (⭐849)](https://github.com/pb33f/libopenapi) - Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.
 
-## [16. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [17. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Machine Learning
 
@@ -1826,19 +1832,39 @@
 
 *   [blinker (⭐2.1k)](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 
-## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [18. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [ansible-security-scanner (⭐2)](https://github.com/cpeoples/ansible-security-scanner) - Static analyzer for playbooks, roles and collections covering hardcoded credentials, RCE, and supply-chain risks. Outputs SARIF, CycloneDX SBOM and GitLab SAST.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Bookmarks and Link Sharing
+
+*   [Betula](https://joinbetula.org) - Single-user federated bookmark manager with Fediverse support and archives. ([Source Code](https://codeberg.org/bouncepaw/betula)) `AGPL-3.0` `Go`
+
+### Software / Communication - Email - Mailing Lists and Newsletters
+
+*   [mlmmj](https://mlmmj.org/) - Mailing list management made joyful. ([Source Code](https://codeberg.org/mlmmj/mlmmj)) `MIT` `C`
 
 ### Software / Communication - Social Networks and Forums
 
 *   [PieFed](https://join.piefed.social) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Demo](https://piefed.social), [Source Code](https://codeberg.org/rimu/pyfedi)) `AGPL-3.0` `Python/Docker`
 
-## [19. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Pingvin Share X (⭐142)](https://github.com/smp46/pingvin-share-x) - File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). `BSD-2-Clause` `Docker/Nodejs`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Calagopus](https://calagopus.com) - Modern game server management panel. Deploy, monitor, and manage Minecraft, Hytale, and other game servers with industry-leading performance. ([Source Code (⭐382)](https://github.com/calagopus/panel)) `MIT` `Rust/Docker/deb`
+
+### Software / Web Servers
+
+*   [Ferron](https://ferron.sh/) - Fast, memory-safe web server written in Rust. ([Source Code (⭐2k)](https://github.com/ferronweb/ferron)) `MIT` `Rust/Docker/deb`
+
+## [20. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Learning / Computer Graphics
 
@@ -1853,7 +1879,7 @@
     *   🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by *Apple*.
     *   📚 [WebGPU Fundamentals](https://webgpufundamentals.org/) - Set of articles to help learn WebGPU.
 
-## [20. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [21. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tutorials
 
@@ -1898,7 +1924,11 @@
 
 *   [mattermost-server (⭐37k)](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [alsi-lawr/agent-term.nvim (⭐3)](https://github.com/alsi-lawr/agent-term.nvim) - Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI.
 
 ### Colorscheme / Assembly
 
@@ -1908,7 +1938,7 @@
 
 *   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 
-## [22. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 2\. Azure OpenAI & Copilot
 
@@ -1929,14 +1959,14 @@
     *   [Solution Accelerators](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/azure.md#solution-accelerators)
     *   [Architecture Patterns & Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/azure.md#architecture-patterns--use-cases)
 
-## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Threat Intelligence / GitHub
 
 *   [defend.network](https://defend.network) - Free, no-login cyber threat intelligence publishing daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog. Content is structured by threat type, industry, and severity, with remediation guidance. RSS feed at defend.network/feed.xml.
 *   [Dropbase](https://dropbase.fun) -  a fast breach, malware log, and OSINT search workspace with daily credits, map tools, and live community chat.
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
@@ -1946,13 +1976,17 @@
 
 *   [Runframe](https://runframe.io/) - On-call alerting, incident management, and public/private status pages. The free plan includes up to 5 users, 1 team, 1 on-call schedule, basic status pages, incident lifecycle, and Slack-native incident response.
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+### Payment and Billing Integration
+
+*   [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.
+
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
 *   [anneal (⭐10)](https://github.com/georgebuilds/anneal) - From-scratch Go port of tinygrad: a graph-rewrite ML compiler with reverse-mode autodiff and a WebGPU backend.
 
-## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Security / Privacy
 
@@ -1962,7 +1996,7 @@
 
 *   [Polars.NET (⭐161)](https://github.com/ErrorLSC/Polars.NET) - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) `Polars.NET` is a library to bring polars to .NET ecosystem, with idiomatic C# [Polars.NET](https://www.nuget.org/packages/Polars.NET) and F# [Polars.FSharp](https://www.nuget.org/packages/Polars.FSharp) API nuget packages provided.
 
-## [27. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [28. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Honeypots
 
@@ -1970,7 +2004,7 @@
 
     *   [HoneyDrive](https://www.honeynet.org/tags/honeydrive/)
 
-## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
@@ -1981,7 +2015,7 @@
     *   an example web application using bknr.datastore: [screenshotbot-oss (⭐299)](https://github.com/screenshotbot/screenshotbot-oss).
     *   See also [bknr.cluster (⭐32)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore. [blog post](https://screenshotbot.io/blog/building-a-highly-available-web-service-without-a-database).
 
-## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -1993,26 +2027,26 @@
 *   [Raspberry Pi GPIO Pinout](https://raspberry.tips/en/raspberry-pi-gpio-pinout) - Interactive pinout reference for all 40 GPIO pins with BCM numbers, functions, voltage specs, and HAT overlays. Updated for Pi 5 (RP1 controller).
 *   [Raspberry Pi SD Card Lifespan Calculator](https://raspberry.tips/en/calculate-raspberry-pi-sd-card-lifespan-test-now) - Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).
 
-## [30. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [31. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D, bubble, cyberpunk). Create visual typography effects and download as transparent PNG.
 *   [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
 
-## [31. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [32. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
 *   [totp-gb (⭐2)](https://github.com/dmang-dev/totp-gb) - TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
 *   [NeoUI (⭐27)](https://github.com/jimmyps/blazor-shadcn-ui) - ![stars](https://img.shields.io/github/stars/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jimmyps/blazor-shadcn-ui?style=flat-square\&cacheSeconds=86400) Production-ready shadcn/ui-inspired component library for Blazor. 100+ styled components, 15 headless primitives, 12 chart types, declarative animations, 3,200+ icons, zero-config pre-built CSS, WCAG 2.1 AA, dark mode, 85 theme combinations, and full .NET 10 Auto rendering mode. MIT licensed.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Testing
 
@@ -2022,13 +2056,13 @@
 
 *   [hcom (⭐300)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 
-## [34. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [35. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Tools
 
 *   [TestMiner](https://andrehora.github.io/testminer) - Software testing analysis for GitHub repositories.
 
-## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [36. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Agents
 
@@ -2058,7 +2092,7 @@
 
 *   [WalletLens](https://walletlens.live) - Multi-asset portfolio tracker with AI insights, technical analysis, live prices, and local-first data storage.
 
-## [36. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [37. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -2068,17 +2102,18 @@
 
 *   [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub (⭐1)](https://github.com/MarvinBregiosa/vision-zero-fars), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
 
-## [37. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [38. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Development Tools & Utilities
 
 *   [authsome (⭐41)](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. OAuth2 and API key vault stored locally, a loopback HTTPS proxy injects credentials into outbound provider requests so the Gemini CLI agent never sees raw secrets. 45 providers bundled (GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe, ...). Python 3.13+, MIT.
 
-## [38. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [39. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Developer Tools
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
+*   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 *   [Codex CLI (⭐87k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
@@ -2096,19 +2131,19 @@
 
 *   [ZOOOP](https://zooop.ai/) - AI-native filmmaking workstation for text/image-to-video, lip-sync, and storyboarding on an infinite canvas. `#freemium`
 
-## [39. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [40. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Tools
 
 *   [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) - Hands-on comparison of 9 platforms.
 
-## [40. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [41. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
 *   [nDimensional/zig-flatbuffers (⭐6)](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
@@ -2123,7 +2158,7 @@
 
 *   [manyougz/velotype (⭐354)](https://github.com/manyougz/velotype) - A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.
 
-## [42. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [43. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -2208,7 +2243,11 @@
 
 *   [JSON Schema (⭐5k) (⭐5k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Others
+
+*   [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Network Analysis
 
@@ -2239,6 +2278,10 @@
 *   [ClipHistory (⭐9)](https://github.com/weiykong/ClipHistory) - Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/weiykong/ClipHistory) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SnippetCraft](https://getsnippetcraft.com) - System-wide text expansion, snippet management, and clipboard history for macOS.
 
+### Utilities / Menu Bar Tools
+
+*   [Mole Widget (⭐8)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / System Related Tools
 
 *   [Sleepless (⭐2)](https://github.com/Aboudjem/Sleepless) - Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aboudjem/Sleepless)
@@ -2247,7 +2290,60 @@
 
 *   [CSV Quick Look (⭐1)](https://github.com/adamorad/csv-quick-look) - Quick Look extension for CSV and TSV files with virtual scrolling, sorting, filtering, and dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adamorad/csv-quick-look) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Art & Design
+
+- API: [DummyImage](https://dummyimage.com/)
+
+  Description: Generate placeholder images with custom size, colors and text
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Blockchain
+
+- API: [Blockscout](https://dev.blockscout.com/)
+
+  Description: Multichain block explorer REST API (with Etherscan-compatible JSON-RPC)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Business
+
+- API: [Invovate](https://invovate.com/api)
+
+  Description: Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Signaliz](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction)
+
+  Description: GTM enrichment, lead generation, email verification, and company signals
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Calendar
 
@@ -2273,8 +2369,52 @@
   CORS: Unknown
 
 
+- API: [The Calendar](https://the-calendar.net/api/)
+
+  Description: Public holidays for US states and 30 countries plus sports and finance calendars as static JSON
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Development
+
+- API: [Amazonscraperapi](https://amazonscraperapi.com)
+
+  Description: Amazon product, search & batch scraping API with residential proxies (1000 free)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [Hipsum](https://hipsum.co)
+
+  Description: Hipster-themed lorem ipsum generator for placeholder text
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Keyvalue](https://keyvalue.immanuel.co/)
+
+  Description: Simple key-value storage REST API for quick prototyping
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
 
 - API: [Talordata](https://docs.talordata.com/)
 
@@ -2285,6 +2425,17 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [Thunder Client](https://www.thunderclient.com/)
+
+  Description: API testing tool
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -2299,6 +2450,17 @@
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Rendex](https://rendex.dev)
+
+  Description: Render HTML, Markdown, or URLs to PNG/JPEG/WebP/PDF, with extraction and templating
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 - API: [Smart Image Enhancement](https://apilayer.com/marketplace/image_enhancement-api)
@@ -2324,6 +2486,45 @@
 
 
 
+### Email
+
+- API: [Kiprio Email Validate](https://kiprio.com/v1/email-validate)
+
+  Description: Free email validation: MX check, disposable detection, syntax
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Entertainment
+
+- API: [JokeAPI](https://v2.jokeapi.dev/)
+
+  Description: Programmable jokes in multiple languages with filtering options
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PotterDB](https://docs.potterdb.com/)
+
+  Description: Harry Potter universe database with characters, spells, potions and more
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Finance
 
 - API: [Bank Data](https://apilayer.com/marketplace/bank_data-api)
@@ -2339,9 +2540,33 @@
   : 
 
 
+- API: [BriefTape](https://brieftape.com)
+
+  Description: Real-time AI-summarized SEC filings, Fed, FDA and BLS data, ticker-tagged
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [CongressInvests](https://congressinvests.com)
 
   Description: Real-time U.S. congressional stock trade disclosures from Senate EFD and House Clerk
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+- API: [Sugra](https://sugra.ai)
+
+  Description: One API for market data, economics, commodities, climate, and global news. LLM-ready JSON
 
   Auth: `apiKey`
 
@@ -2644,13 +2869,169 @@
 
 
 
+### Games & Comics
+
+- API: [Astroworld](https://api.astroworldmc.com)
+
+  Description: Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [Kiprio UK Postcode](https://kiprio.com/v1/postcode)
+
+  Description: UK postcode lookup with lat/lon, district, ward, constituency
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip)
+
+  Description: French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Open Government, Indonesia](https://data.go.id/)
+
+  Description: Indonesian Government Open Data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs)
+
+  Description: US federal contracts, grants, and agency spending data updated daily
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Health
+
+- API: [Longevity World Cup](https://longevityworldcup.com/api/data/athletes)
+
+  Description: Public biological age competition data with biomarkers and rankings
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [MedlinePlus Genetics](https://medlineplus.gov/about/developers/geneticsdatafilesapi/)
 
   Description: Genetic conditions, genes, chromosomes and mtDNA data
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Machine Learning
+
+- API: [MediaCraft AI](https://mediacraft-x402-api.onrender.com)
+
+  Description: Chinese content compliance review (17 platforms), EN↔CN translation, and SEO optimization. Pay-per-call via x402 (Solana USDC).
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Warnely](https://warnely.com/developers)
+
+  Description: Composite travel-safety scores for 180 countries (FCDO + US State + GPI + WGI + live incident wire), OpenAPI 3.1 spec, CC BY 4.0
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Personality
+
+- API: [AstroWay](https://api.astroway.info/docs/)
+
+  Description: Astrology, natal charts, Human Design, Vedic and horoscopes on the Swiss Ephemeris
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Personality.fyi](https://personality.fyi/api)
+
+  Description: Free MBTI personality types and OEJTS test scoring
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [URLhaus](https://urlhaus.abuse.ch/api/)
+
+  Description: Database of malicious URLs used for malware distribution
+
+  Auth: `No`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Shopping
+
+- API: [Descripio Amazon Reviews](https://docs.descripio.com)
+
+  Description: Amazon product reviews for 12 marketplaces
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -2674,6 +3055,17 @@
 
 ### Sports & Fitness
 
+- API: [OpenF1](https://openf1.org/)
+
+  Description: Real-time and historical Formula 1 data including laps, car telemetry and positions
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Padel Snipe](https://padelsnipe.com/fr/world/api)
 
   Description: 4,000+ mapped padel clubs across 9 European countries with GPS and courts
@@ -2685,11 +3077,36 @@
   CORS: Yes
 
 
+- API: [PropLine](https://prop-line.com)
+
+  Description: Real-time player-props betting odds with graded prop resolution across 13 books
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 - API: [TheRundown](https://therundown.io/)
 
   Description: Real-time sports data: odds, scores, stats & prediction markets, 30+ leagues, 18+ sportsbooks
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Test Data
+
+- API: [DummyJSON](https://dummyjson.com/)
+
+  Description: Fake REST API with products, users, posts, comments, todos and more
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -2710,8 +3127,52 @@
   CORS: Unknown
 
 
+- API: [Kiprio Translate](https://kiprio.com/v1/translate)
+
+  Description: Free text translation with language detection, supports 50+ languages
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Vehicle
+
+- API: [Auto Body Shop Directory](https://autobodyshopnear.com/developers/body-shop-api)
+
+  Description: Find auto body shops by ZIP code, city, location, or profile
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+- API: [CarVector](https://carvector.io/docs)
+
+  Description: Vehicle specs, images, recalls, and DTC codes across 1925-2029
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [ProblemsByVin](https://problemsbyvin.com/data/)
+
+  Description: Owner complaints, recalls and failure-mileage statistics by vehicle make, model and year
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [RevCarData](https://revcardata.com)
 
@@ -2738,8 +3199,19 @@
   CORS: Yes
 
 
+- API: [Rendobar](https://rendobar.com)
 
-## [45. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+  Description: Hosted media processing over REST: transcode, caption, watermark video
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+## [46. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
