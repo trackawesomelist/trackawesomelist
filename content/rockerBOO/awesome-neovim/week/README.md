@@ -20,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 
+### Motion / GitLab
+
+*   [kkew3/jieba.vim (⭐38)](https://github.com/kkew3/jieba.vim) - Word motions and word text objects for Chinese.
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### File Explorer / Assembly

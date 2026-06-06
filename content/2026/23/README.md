@@ -1771,6 +1771,10 @@
 
 *   [neuron-cli (⭐2)](https://github.com/steevin/neuron-cli) - A local-first, Obsidian-compatible terminal knowledge manager.
 
+### GUI
+
+*   [proton (⭐8)](https://github.com/CzaxStudio/proton) - Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.
+
 ### Job Scheduler
 
 *   [go-cron (⭐40)](https://github.com/netresearch/go-cron) - Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron.
@@ -1852,9 +1856,14 @@
 
 *   [PieFed](https://join.piefed.social) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Demo](https://piefed.social), [Source Code](https://codeberg.org/rimu/pyfedi)) `AGPL-3.0` `Python/Docker`
 
+### Software / Database Management
+
+*   [d9](https://d9.webcapsule.io) - Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS (fork of Directus). ([Source Code (⭐122)](https://github.com/LaWebcapsule/d9)) `GPL-3.0` `Nodejs`
+
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Pingvin Share X (⭐142)](https://github.com/smp46/pingvin-share-x) - File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). `BSD-2-Clause` `Docker/Nodejs`
+*   [Safebucket](https://docs.safebucket.io/) - File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ([Source Code (⭐515)](https://github.com/safebucket/safebucket)) `Apache-2.0` `Go/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -1937,6 +1946,10 @@
 ### Utility / Cursorline
 
 *   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
+
+### Motion / GitLab
+
+*   [kkew3/jieba.vim (⭐38)](https://github.com/kkew3/jieba.vim) - Word motions and word text objects for Chinese.
 
 ## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
@@ -2320,6 +2333,20 @@
 
 
 
+### Books
+
+- API: [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs)
+
+  Description: KDP niche demand scores, competition analysis and revenue estimates
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Business
 
 - API: [Invovate](https://invovate.com/api)
@@ -2392,6 +2419,17 @@
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [DownStatus](https://isitdownstatus.com)
+
+  Description: Real-time status for GitHub, AWS, Discord and 90+ services
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Hipsum](https://hipsum.co)
@@ -2882,6 +2920,17 @@
   CORS: Yes
 
 
+- API: [Call of Duty Mobile](https://callofdutymobile.vercel.app/)
+
+  Description: Unofficial API for CODM player data and daily cache claiming
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Geocoding
 
@@ -3113,6 +3162,17 @@
   CORS: Yes
 
 
+- API: [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai/)
+
+  Description: Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Text Analysis
 
@@ -3132,6 +3192,20 @@
   Description: Free text translation with language detection, supports 50+ languages
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [OpenVan](https://openvan.camp/docs)
+
+  Description: Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel
+
+  Auth: No
 
   HTTPS: Yes
 

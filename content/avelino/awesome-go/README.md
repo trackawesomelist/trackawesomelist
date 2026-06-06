@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 06, 2026](/content/2026/06/06/README.md)
+
+### GUI
+
+*   [proton (⭐8)](https://github.com/CzaxStudio/proton) - Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.
+
 ## [Jun 05, 2026](/content/2026/06/05/README.md)
 
 ### Standard CLI
@@ -89,7 +95,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [veil (⭐1)](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
+*   [veil (⭐7)](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
 
 ### Testing Frameworks
 
@@ -182,7 +188,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [relimpact (⭐11)](https://github.com/hashmap-kz/relimpact) - Fast API compatibility reports for Go projects.
+*   [relimpact (⭐12)](https://github.com/hashmap-kz/relimpact) - Fast API compatibility reports for Go projects.
 
 ## [May 06, 2026](/content/2026/05/06/README.md)
 
@@ -398,11 +404,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Project Layout
 
-*   [go-rest-api-boilerplate (⭐53)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
+*   [go-rest-api-boilerplate (⭐55)](https://github.com/vahiiiid/go-rest-api-boilerplate) - AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
 
 ### Version Control
 
-*   [gitty (⭐23)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
+*   [gitty (⭐24)](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
 
 ## [Apr 05, 2026](/content/2026/04/05/README.md)
 
@@ -674,15 +680,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Artificial Intelligence
 
-*   [hotplex (⭐10)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
+*   [hotplex (⭐42)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 
 ### Advanced Console UIs
 
-*   [phoenix (⭐29)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
+*   [phoenix (⭐30)](https://github.com/phoenix-tui/phoenix) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
 
 ### SQL Query Builders
 
-*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Job Scheduler
 
@@ -690,7 +696,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [fursy (⭐4)](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
+*   [fursy (⭐5)](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
 
 ## [Mar 04, 2026](/content/2026/03/04/README.md)
 

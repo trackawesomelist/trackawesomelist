@@ -1,18 +1,24 @@
 # Awesome List Updates on Jun 06, 2026
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### GUI
+
+*   [proton (⭐8)](https://github.com/CzaxStudio/proton) - Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.
+
+## [2. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ### Developer Tools
 
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Others
 
@@ -22,7 +28,7 @@
 
 *   [Mole Widget (⭐8)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -49,6 +55,20 @@
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Books
+
+- API: [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs)
+
+  Description: KDP niche demand scores, competition analysis and revenue estimates
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -102,6 +122,17 @@
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [DownStatus](https://isitdownstatus.com)
+
+  Description: Real-time status for GitHub, AWS, Discord and 90+ services
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Hipsum](https://hipsum.co)
@@ -229,6 +260,17 @@
   HTTPS: Yes
 
   CORS: Yes
+
+
+- API: [Call of Duty Mobile](https://callofdutymobile.vercel.app/)
+
+  Description: Unofficial API for CODM player data and daily cache claiming
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 
@@ -415,6 +457,17 @@
   CORS: Yes
 
 
+- API: [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai/)
+
+  Description: Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Text Analysis
 
@@ -423,6 +476,20 @@
   Description: Free text translation with language detection, supports 50+ languages
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [OpenVan](https://openvan.camp/docs)
+
+  Description: Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel
+
+  Auth: No
 
   HTTPS: Yes
 
@@ -480,7 +547,7 @@
 
 
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -490,9 +557,14 @@
 
 *   [mlmmj](https://mlmmj.org/) - Mailing list management made joyful. ([Source Code](https://codeberg.org/mlmmj/mlmmj)) `MIT` `C`
 
+### Software / Database Management
+
+*   [d9](https://d9.webcapsule.io) - Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS (fork of Directus). ([Source Code (⭐122)](https://github.com/LaWebcapsule/d9)) `GPL-3.0` `Nodejs`
+
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Pingvin Share X (⭐142)](https://github.com/smp46/pingvin-share-x) - File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). `BSD-2-Clause` `Docker/Nodejs`
+*   [Safebucket](https://docs.safebucket.io/) - File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ([Source Code (⭐515)](https://github.com/safebucket/safebucket)) `Apache-2.0` `Go/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -502,23 +574,27 @@
 
 *   [Ferron](https://ferron.sh/) - Fast, memory-safe web server written in Rust. ([Source Code (⭐2k)](https://github.com/ferronweb/ferron)) `MIT` `Rust/Docker/deb`
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Payment and Billing Integration
 
 *   [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.
 
-## [6. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) is Skia's Canvas API compiled to WebAssembly, providing high-performance 2D graphics rendering for web applications.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
 *   [alsi-lawr/agent-term.nvim (⭐3)](https://github.com/alsi-lawr/agent-term.nvim) - Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI.
+
+### Motion / GitLab
+
+*   [kkew3/jieba.vim (⭐38)](https://github.com/kkew3/jieba.vim) - Word motions and word text objects for Chinese.
 
 ---
 

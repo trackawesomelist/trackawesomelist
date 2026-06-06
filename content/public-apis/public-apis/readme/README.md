@@ -271,6 +271,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Google Books](https://developers.google.com/books/)                        | Books                                                                                               | `OAuth`  | Yes   | Unknown |
 | [GurbaniNow](https://github.com/GurbaniNow/api)                             | Fast and Accurate Gurbani RESTful API                                                               | No       | Yes   | Unknown |
 | [Gutendex](https://gutendex.com/)                                           | Web-API for fetching data from Project Gutenberg Books Library                                      | No       | Yes   | Unknown |
+| [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs)            | KDP niche demand scores, competition analysis and revenue estimates                                 | No       | Yes   | Yes     |
 | [Open Library](https://openlibrary.org/developers/api)                      | Books, book covers and related data                                                                 | No       | Yes   | No      |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)   | Books, book covers and related data                                                                 | No       | Yes   | Yes     |
 | [PoetryDB (⭐634)](https://github.com/thundercomb/poetrydb#readme)           | Enables you to get instant data from our vast poetry collection                                     | No       | Yes   | Yes     |
@@ -529,6 +530,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [DigitalOcean Status](https://status.digitalocean.com/api)                                                                                | Status of all DigitalOcean services                                                                  | No              | Yes   | Unknown |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)                                                                              | Interact with Docker Hub                                                                             | `apiKey`        | Yes   | Yes     |
 | [DomainDb Info](https://api.domainsdb.info/)                                                                                              | Domain name search to find all domains containing particular words/phrases/etc                       | No              | Yes   | Unknown |
+| [DownStatus](https://isitdownstatus.com)                                                                                                  | Real-time status for GitHub, AWS, Discord and 90+ services                                           | No              | Yes   | Yes     |
 | [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html)                                                                   | A simple JSON store API                                                                              | No              | Yes   | Yes     |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api)                                                                             | Provide numerous capabilities for important testing and monitoring methods for websites              | `apiKey`        | Yes   | Unknown |
 | [Genderize.io](https://genderize.io)                                                                                                      | Estimates a gender from a first name                                                                 | No              | Yes   | Yes     |
@@ -879,6 +881,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2)                                | Board games, RPG and videogames                                                                              | No              | Yes   | No      |
 | [Brawl Stars](https://developer.brawlstars.com)                                                    | Brawl Stars Game Information                                                                                 | `apiKey`        | Yes   | Unknown |
 | [Bugsnax](https://www.bugsnaxapi.com/)                                                             | Get information about Bugsnax                                                                                | No              | Yes   | Yes     |
+| [Call of Duty Mobile](https://callofdutymobile.vercel.app/)                                        | Unofficial API for CODM player data and daily cache claiming                                                 | No              | Yes   | Unknown |
 | [CheapShark](https://www.cheapshark.com/api)                                                       | Steam/PC Game Prices and Deals                                                                               | No              | Yes   | Yes     |
 | [Chess.com](https://www.chess.com/news/view/published-data-api)                                    | Chess.com read-only REST API                                                                                 | No              | Yes   | Unknown |
 | [Chuck Norris Database](http://www.icndb.com/api/)                                                 | Jokes                                                                                                        | No              | No    | Unknown |
@@ -1715,34 +1718,35 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Test Data
 
-| API                                                                          | Description                                                           | Auth     | HTTPS | CORS    |
-| :--------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :------- | :---- | :------ |
-| [Bacon Ipsum](https://baconipsum.com/json-api/)                              | A Meatier Lorem Ipsum Generator                                       | No       | Yes   | Unknown |
-| [Dicebear Avatars](https://avatars.dicebear.com/)                            | Generate random pixel-art avatars                                     | No       | Yes   | No      |
-| [DummyJSON](https://dummyjson.com/)                                          | Fake REST API with products, users, posts, comments, todos and more   | No       | Yes   | Yes     |
-| [English Random Words](https://random-words-api.vercel.app/word)             | Generate English Random Words with Pronunciation                      | No       | Yes   | No      |
-| [FakeJSON](https://fakejson.com)                                             | Service to generate test and fake data                                | `apiKey` | Yes   | Yes     |
-| [FakerAPI](https://fakerapi.it/en)                                           | APIs collection to get fake data                                      | No       | Yes   | Yes     |
-| [FakeStoreAPI](https://fakestoreapi.com/)                                    | Fake store rest API for your e-commerce or shopping website prototype | No       | Yes   | Unknown |
-| [GeneradorDNI](https://api.generadordni.es)                                  | Data generator API. Profiles, vehicles, banks and cards, etc          | `apiKey` | Yes   | Unknown |
-| [ItsThisForThat](https://itsthisforthat.com/api.php)                         | Generate Random startup ideas                                         | No       | Yes   | No      |
-| [JSONPlaceholder](http://jsonplaceholder.typicode.com/)                      | Fake data for testing and prototyping                                 | No       | No    | Unknown |
-| [Loripsum](http://loripsum.net/)                                             | The "lorem ipsum" generator that doesn't suck                         | No       | No    | Unknown |
-| [Mailsac](https://mailsac.com/docs/api)                                      | Disposable Email                                                      | `apiKey` | Yes   | Unknown |
-| [Metaphorsum](http://metaphorpsum.com/)                                      | Generate demo paragraphs giving number of words and sentences         | No       | No    | Unknown |
-| [Mockaroo](https://www.mockaroo.com/docs)                                    | Generate fake data to JSON, CSV, TXT, SQL and XML                     | `apiKey` | Yes   | Unknown |
-| [QuickMocker](https://quickmocker.com)                                       | API mocking tool to generate contextual, fake or random data          | No       | Yes   | Yes     |
-| [Random Data](https://random-data-api.com)                                   | Random data generator                                                 | No       | Yes   | Unknown |
-| [Randommer](https://randommer.io/randommer-api)                              | Random data generator                                                 | `apiKey` | Yes   | Yes     |
-| [RandomUser](https://randomuser.me)                                          | Generates and list user data                                          | No       | Yes   | Unknown |
-| [RoboHash](https://robohash.org/)                                            | Generate random robot/alien avatars                                   | No       | Yes   | Unknown |
-| [Spanish random names](https://random-names-api.herokuapp.com/public)        | Generate spanish names (with gender) randomly                         | No       | Yes   | Unknown |
-| [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly                                       | No       | Yes   | Unknown |
-| [This Person Does not Exist](https://thispersondoesnotexist.com)             | Generates real-life faces of people who do not exist                  | No       | Yes   | Unknown |
-| [Toolcarton](https://testimonialapi.toolcarton.com/)                         | Generate random testimonial data                                      | No       | Yes   | Unknown |
-| [UUID Generator](https://www.uuidtools.com/docs)                             | Generate UUIDs                                                        | No       | Yes   | No      |
-| [What The Commit](http://whatthecommit.com/index.txt)                        | Random commit message generator                                       | No       | No    | Yes     |
-| [Yes No](https://yesno.wtf/api)                                              | Generate yes or no randomly                                           | No       | Yes   | Unknown |
+| API                                                                          | Description                                                                                 | Auth     | HTTPS | CORS    |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------- | :---- | :------ |
+| [Bacon Ipsum](https://baconipsum.com/json-api/)                              | A Meatier Lorem Ipsum Generator                                                             | No       | Yes   | Unknown |
+| [Dicebear Avatars](https://avatars.dicebear.com/)                            | Generate random pixel-art avatars                                                           | No       | Yes   | No      |
+| [DummyJSON](https://dummyjson.com/)                                          | Fake REST API with products, users, posts, comments, todos and more                         | No       | Yes   | Yes     |
+| [English Random Words](https://random-words-api.vercel.app/word)             | Generate English Random Words with Pronunciation                                            | No       | Yes   | No      |
+| [FakeJSON](https://fakejson.com)                                             | Service to generate test and fake data                                                      | `apiKey` | Yes   | Yes     |
+| [FakerAPI](https://fakerapi.it/en)                                           | APIs collection to get fake data                                                            | No       | Yes   | Yes     |
+| [FakeStoreAPI](https://fakestoreapi.com/)                                    | Fake store rest API for your e-commerce or shopping website prototype                       | No       | Yes   | Unknown |
+| [GeneradorDNI](https://api.generadordni.es)                                  | Data generator API. Profiles, vehicles, banks and cards, etc                                | `apiKey` | Yes   | Unknown |
+| [ItsThisForThat](https://itsthisforthat.com/api.php)                         | Generate Random startup ideas                                                               | No       | Yes   | No      |
+| [JSONPlaceholder](http://jsonplaceholder.typicode.com/)                      | Fake data for testing and prototyping                                                       | No       | No    | Unknown |
+| [Loripsum](http://loripsum.net/)                                             | The "lorem ipsum" generator that doesn't suck                                               | No       | No    | Unknown |
+| [Mailsac](https://mailsac.com/docs/api)                                      | Disposable Email                                                                            | `apiKey` | Yes   | Unknown |
+| [Metaphorsum](http://metaphorpsum.com/)                                      | Generate demo paragraphs giving number of words and sentences                               | No       | No    | Unknown |
+| [Mockaroo](https://www.mockaroo.com/docs)                                    | Generate fake data to JSON, CSV, TXT, SQL and XML                                           | `apiKey` | Yes   | Unknown |
+| [QuickMocker](https://quickmocker.com)                                       | API mocking tool to generate contextual, fake or random data                                | No       | Yes   | Yes     |
+| [Random Data](https://random-data-api.com)                                   | Random data generator                                                                       | No       | Yes   | Unknown |
+| [Randommer](https://randommer.io/randommer-api)                              | Random data generator                                                                       | `apiKey` | Yes   | Yes     |
+| [RandomUser](https://randomuser.me)                                          | Generates and list user data                                                                | No       | Yes   | Unknown |
+| [RoboHash](https://robohash.org/)                                            | Generate random robot/alien avatars                                                         | No       | Yes   | Unknown |
+| [Spanish random names](https://random-names-api.herokuapp.com/public)        | Generate spanish names (with gender) randomly                                               | No       | Yes   | Unknown |
+| [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Generate spanish words randomly                                                             | No       | Yes   | Unknown |
+| [This Person Does not Exist](https://thispersondoesnotexist.com)             | Generates real-life faces of people who do not exist                                        | No       | Yes   | Unknown |
+| [Toolcarton](https://testimonialapi.toolcarton.com/)                         | Generate random testimonial data                                                            | No       | Yes   | Unknown |
+| [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai/)                    | Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec | No       | Yes   | Yes     |
+| [UUID Generator](https://www.uuidtools.com/docs)                             | Generate UUIDs                                                                              | No       | Yes   | No      |
+| [What The Commit](http://whatthecommit.com/index.txt)                        | Random commit message generator                                                             | No       | No    | Yes     |
+| [Yes No](https://yesno.wtf/api)                                              | Generate yes or no randomly                                                                 | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1819,6 +1823,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Open Charge Map](https://openchargemap.org/site/develop/api)                                                                             | Global public registry of electric vehicle charging locations                                  | `apiKey` | Yes   | Yes     |
 | [Orizn Visa](https://visa.orizn.app)                                                                                                      | Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages           | `apiKey` | Yes   | Yes     |
 | [OpenSky Network](https://opensky-network.org/apidoc/index.html)                                                                          | Free real-time ADS-B aviation data                                                             | No       | Yes   | Unknown |
+| [OpenVan](https://openvan.camp/docs)                                                                                                      | Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel          | No       | Yes   | Yes     |
 | [Railway Transport for France](https://www.digital.sncf.com/startup/api)                                                                  | SNCF public API                                                                                | `apiKey` | Yes   | Unknown |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms)                                                                 | Provides safe restroom access for transgender, intersex and gender nonconforming individuals   | No       | Yes   | Unknown |
 | [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel)                             | Travel Search - Limited usage                                                                  | `apiKey` | Yes   | Unknown |

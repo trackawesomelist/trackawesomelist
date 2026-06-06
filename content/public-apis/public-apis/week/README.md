@@ -36,6 +36,20 @@ A collective list of free APIs
 
 
 
+### Books
+
+- API: [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs)
+
+  Description: KDP niche demand scores, competition analysis and revenue estimates
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Business
 
 - API: [Invovate](https://invovate.com/api)
@@ -108,6 +122,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [DownStatus](https://isitdownstatus.com)
+
+  Description: Real-time status for GitHub, AWS, Discord and 90+ services
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Hipsum](https://hipsum.co)
@@ -598,6 +623,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [Call of Duty Mobile](https://callofdutymobile.vercel.app/)
+
+  Description: Unofficial API for CODM player data and daily cache claiming
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Geocoding
 
@@ -829,6 +865,17 @@ A collective list of free APIs
   CORS: Yes
 
 
+- API: [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai/)
+
+  Description: Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Text Analysis
 
@@ -848,6 +895,20 @@ A collective list of free APIs
   Description: Free text translation with language detection, supports 50+ languages
 
   Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [OpenVan](https://openvan.camp/docs)
+
+  Description: Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel
+
+  Auth: No
 
   HTTPS: Yes
 
