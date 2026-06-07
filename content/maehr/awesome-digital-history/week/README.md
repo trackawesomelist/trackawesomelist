@@ -2,9 +2,37 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 321 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 328 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / Weekly / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Archives and primary sources / Africa
+
+*   [Documenting Africans in Trans-Atlantic Slavery](https://documentingafricans.blogspot.com/) - Collaborative research project exploring African ethnonyms, identity, and migration patterns in trans-Atlantic slavery.
+
+### Archives and primary sources / Europe
+
+*   [RunoVerse](https://runoverse.org/) - Research platform for Finnish and Estonian runosong oral folk poetry with cross-lingual comparison and geographic analysis.
+
+### Archives and primary sources / Global
+
+*   [Enslaved.org](https://enslaved.org/) - Compiles individual biographies of enslaved and connected persons from the global slave trade using linked open data.
+*   [Slave Voyages](https://www.slavevoyages.org/) - Interactive databases documenting the trans-Atlantic and intra-American slave trade, compiling records of over 47,000 voyages.
+
+### Archives and primary sources / Latin America
+
+*   [History of Science in Latin America and the Caribbean](https://sites.usnh.edu/hoslac/) - Curated portal containing primary source documents, maps, and visual sources detailing the history of science and medicine in Latin America.
+
+### Archives and primary sources / North America
+
+*   [Digital Library on American Slavery](https://dlas.uncg.edu/) - Centralized database containing petitions, runaway slave advertisements, and county legislative records across the American South.
+*   [Linked Jazz](https://linkedjazz.org/) - Reconstructs social networks of twentieth-century jazz communities using oral history transcripts and linked open data.
+
+### Archives and primary sources / Oceania
+
+*   [Trove](https://trove.nla.gov.au/) - Australia's national digital portal consolidating digitized historical press, manuscripts, and archive collections.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -419,9 +447,9 @@ Find primary sources online and learn how to research history digitally.
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
-*   [Research Tools (⭐2.6k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐942)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Research Tools (⭐2.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐947)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jun 07, 2026](/content/2026/06/07/README.md)
+
+### Research & Knowledge Retrieval
+
+*   [Spraay x402 Gateway](https://docs.spraay.app/#cat-research) - x402 payment gateway with 23 Research & Reference endpoints for AI agents: Wikipedia, arXiv, PubMed, Wikidata, academic citation lookup, entity extraction, and more. Pay-per-call in USDC on Base & Solana — no API keys or subscriptions. Also serves 150+ endpoints across 39 categories including geospatial, AI inference, DeFi, and compute. [GitHub](https://github.com/plagtech)
+
 ## [Jun 05, 2026](/content/2026/06/05/README.md)
 
 ### Deep Learning Packages / Visualization Tools
@@ -114,7 +120,7 @@
 
 ### Tools
 
-*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐2)](https://github.com/unitedideas/nothumansearch)
+*   [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub (⭐5)](https://github.com/unitedideas/nothumansearch)
 
 ### Books / Visualization Tools
 
@@ -177,7 +183,7 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [latamdata-py (⭐0)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+*   [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -577,7 +583,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐645)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐647)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 18, 2024](/content/2024/05/18/README.md)
 
@@ -1512,8 +1518,8 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐954)](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys (⭐490)](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐707)](https://github.com/larsmans/seqlearn)
@@ -1523,18 +1529,18 @@
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.5k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐6.6k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐381)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐383)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐670)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐5.2k)](https://github.com/rapidsai/cuml)
-*   [causalml (⭐5.8k)](https://github.com/uber/causalml)
+*   [causalml (⭐5.9k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.7k)](https://github.com/mlpack/mlpack)
-*   [MLxtend (⭐5.1k)](https://github.com/rasbt/mlxtend)
+*   [MLxtend (⭐5.2k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
 *   [RuleFit (⭐446)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐1k)](https://github.com/dswah/pyGAM)
+*   [pyGAM](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1562,19 +1568,19 @@
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
 *   [Mesh TensorFlow (⭐1.6k)](https://github.com/tensorflow/mesh)
-*   [TF-Agents (⭐3k)](https://github.com/tensorflow/agents)
+*   [TF-Agents](https://github.com/tensorflow/agents)
 
 ### Deep Learning Packages / Keras Ecosystem
 
 *   [Keras](https://keras.io)
-*   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib)
-*   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas)
+*   [keras-contrib](https://github.com/keras-team/keras-contrib)
+*   [Hyperas](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐487)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
 *   [qkeras (⭐582)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
-*   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
+*   [Talos](https://github.com/autonomio/talos)
 
 ## [Oct 29, 2020](/content/2020/10/29/README.md)
 

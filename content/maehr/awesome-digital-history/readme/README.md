@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 321 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 328 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -25,8 +25,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
     *   [Germany](#germany)
     *   [Global](#global)
     *   [Great Britain](#great-britain)
+    *   [Latin America](#latin-america)
     *   [Netherlands](#netherlands)
     *   [North America](#north-america)
+    *   [Oceania](#oceania)
     *   [Switzerland](#switzerland)
 *   [Learning](#learning)
 *   [More Awesome](#more-awesome)
@@ -36,6 +38,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Africa
 
+*   [Documenting Africans in Trans-Atlantic Slavery](https://documentingafricans.blogspot.com/) - Collaborative research project exploring African ethnonyms, identity, and migration patterns in trans-Atlantic slavery.
 *   [National Library of South Africa Digital Collections](https://cdm21048.contentdm.oclc.org/) - National Library of South Africa's digital collections, including historical newspapers and special collections materials.
 *   [PARC](https://parc-portal.org/) - Portal for African Research Collections: PARC is the new meta-catalogue for the Africana collections at the research location Basel.
 *   [West African Arabic Manuscript Database](https://waamd.lib.berkeley.edu/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
@@ -68,6 +71,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Mapire](https://mapire.eu/) - Interactive historical maps.
 *   [Monasterium](https://www.monasterium.net/mom/home) - Deeds from all over Europe.
 *   [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
+*   [RunoVerse](https://runoverse.org/) - Research platform for Finnish and Estonian runosong oral folk poetry with cross-lingual comparison and geographic analysis.
 *   [tímarit.is](https://www.timarit.is/) - Digitized newspapers and magazines from Iceland, Greenland and the Faroe Islands.
 *   [Visual Archive Southeastern Europe](http://gams.uni-graz.at/context:vase) - Historical and contemporary visual materials from Southeastern Europe.
 
@@ -104,6 +108,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 *   [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 *   [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
+*   [Enslaved.org](https://enslaved.org/) - Compiles individual biographies of enslaved and connected persons from the global slave trade using linked open data.
 *   [Fxtop](https://fxtop.com/) - Forex rate history since 1953.
 *   [Got Papers?](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 *   [HMML](https://hmml.org/) - Hill Museum & Manuscript Library. Digital collection of manuscripts from around the world.
@@ -116,6 +121,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
 *   [ProQuest](https://www.proquest.com/index) - Central platform providing access to a wide range of research databases and content types including news, dissertations, ebooks, video, and journals.
 *   [Public Books Database](http://www.publicbooks.org/public-books-database/) - Open access academic literature.
+*   [Slave Voyages](https://www.slavevoyages.org/) - Interactive databases documenting the trans-Atlantic and intra-American slave trade, compiling records of over 47,000 voyages.
 *   [Southeast Asian & Caribbean Images (KITLV)](https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv) - Image collection of photographs, prints, and drawings focusing on Southeast Asia and the Caribbean, depicting life roughly 1850-1950.
 *   [United Nations Archive](https://archives.un.org/) - Archives and records from the United Nations regarding Secretaries-Generals, departments and missions.
 *   [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
@@ -130,6 +136,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [The National Archives](https://www.nationalarchives.gov.uk/) - A non-ministerial department, and the official archive and publisher for the UK Government, and for England and Wales.
 *   [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
 
+### Latin America
+
+*   [History of Science in Latin America and the Caribbean](https://sites.usnh.edu/hoslac/) - Curated portal containing primary source documents, maps, and visual sources detailing the history of science and medicine in Latin America.
+
 ### Netherlands
 
 *   [Delpher](https://www.delpher.nl/) - Dutch newspapers, books and magazines.
@@ -142,14 +152,20 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Chronicling America](https://chroniclingamerica.loc.gov/) - America's historic newspapers from 1777-1963.
 *   [Computer Gaming World Museum](https://www.cgwmuseum.org/) - Archive of various magazines on gaming.
 *   [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical maps collection.
+*   [Digital Library on American Slavery](https://dlas.uncg.edu/) - Centralized database containing petitions, runaway slave advertisements, and county legislative records across the American South.
 *   [Digital Public Library of America](https://dp.la/) - Discovery tool, or union catalog, for public domain and openly licensed content held by the United States' archives, libraries, museums, and other cultural heritage institutions.
 *   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - Wide range of trans-related digitized historical materials, born-digital materials, and information on archival holdings throughout the world.
 *   [Eugenics Archive](https://eugenicsarchive.ca/) - Scholars, survivors, students, and community partners in challenging eugenics.
 *   [HathiTrust](https://www.hathitrust.org) - A not-for-profit collaborative of academic and research libraries preserving and making accessible millions of digitized items.
+*   [Linked Jazz](https://linkedjazz.org/) - Reconstructs social networks of twentieth-century jazz communities using oral history transcripts and linked open data.
 *   [National Archives](https://www.archives.gov/) - The official archives regarding veteran records, founding documents and presidential libraries of the United States.
 *   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - Online collection of scanned maps.
 *   [Women Working 1800-1930](https://curiosity.lib.harvard.edu/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
 *   [World Digital Library](https://www.wdl.org/) - WDL is an international digital library operated by UNESCO and the United States Library of Congress.
+
+### Oceania
+
+*   [Trove](https://trove.nla.gov.au/) - Australia's national digital portal consolidating digitized historical press, manuscripts, and archive collections.
 
 ### Switzerland
 
@@ -210,13 +226,13 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ## More Awesome
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-*   [Research Tools (⭐2.6k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐942)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐2.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐947)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐321)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐321)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐327)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) and [Editorial Policy (⭐327)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) first.
 

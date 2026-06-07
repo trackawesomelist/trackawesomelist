@@ -21,6 +21,17 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [UpRes](https://upres.ai/docs/api)
+
+  Description: AI image upscaling to 8K with 18 models (Real-ESRGAN, SeedVR2, AuraSR)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Blockchain
 
@@ -33,6 +44,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [TWZRD Agent Intel](https://intel.twzrd.xyz)
+
+  Description: Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -651,6 +673,17 @@ A collective list of free APIs
 
 ### Government
 
+- API: [Conversor IAE CNAE](https://www.conversoriaecnae.es/api/v1/docs)
+
+  Description: Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
 - API: [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip)
 
   Description: French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET
@@ -804,6 +837,17 @@ A collective list of free APIs
   CORS: Unknown
 
 
+- API: [xfetch](https://xfetch.io)
+
+  Description: Read API for X/Twitter search, profiles, tweets, and social graph
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 
 ### Sports & Fitness
 
@@ -838,6 +882,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: Unknown
+
+
+- API: [SportScore](https://sportscore.com/developers/)
+
+  Description: Live scores, fixtures, standings and stats for football, basketball, cricket and tennis
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [TheRundown](https://therundown.io/)
@@ -985,6 +1040,20 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+
+### Weather
+
+- API: [Rainbow Weather](https://developer.rainbow.ai/)
+
+  Description: Global real-time nowcasting API powered by radar + satellite fusion
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
 
 
 

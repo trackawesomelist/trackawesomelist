@@ -6,6 +6,92 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 07, 2026](/content/2026/06/07/README.md)
+
+### Art & Design
+
+- API: [UpRes](https://upres.ai/docs/api)
+
+  Description: AI image upscaling to 8K with 18 models (Real-ESRGAN, SeedVR2, AuraSR)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Blockchain
+
+- API: [TWZRD Agent Intel](https://intel.twzrd.xyz)
+
+  Description: Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Government
+
+- API: [Conversor IAE CNAE](https://www.conversoriaecnae.es/api/v1/docs)
+
+  Description: Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Social
+
+- API: [xfetch](https://xfetch.io)
+
+  Description: Read API for X/Twitter search, profiles, tweets, and social graph
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Sports & Fitness
+
+- API: [SportScore](https://sportscore.com/developers/)
+
+  Description: Live scores, fixtures, standings and stats for football, basketball, cricket and tennis
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Weather
+
+- API: [Rainbow Weather](https://developer.rainbow.ai/)
+
+  Description: Global real-time nowcasting API powered by radar + satellite fusion
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Jun 06, 2026](/content/2026/06/06/README.md)
 
 ### Art & Design

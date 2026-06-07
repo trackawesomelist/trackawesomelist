@@ -196,29 +196,30 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Art & Design
 
-| API                                                                         | Description                                                   | Auth     | HTTPS | CORS    |
-| :-------------------------------------------------------------------------- | :------------------------------------------------------------ | :------- | :---- | :------ |
-| [Améthyste](https://api.amethyste.moe/)                                     | Generate images for Discord users                             | `apiKey` | Yes   | Unknown |
-| [Art Institute of Chicago](https://api.artic.edu/docs/)                     | Art                                                           | No       | Yes   | Yes     |
-| [Colormind](http://colormind.io/api-access/)                                | Color scheme generator                                        | No       | No    | Unknown |
-| [ColourLovers](http://www.colourlovers.com/api)                             | Get various patterns, palettes and images                     | No       | No    | Unknown |
-| [Cooper Hewitt](https://collection.cooperhewitt.org/api)                    | Smithsonian Design Museum                                     | `apiKey` | Yes   | Unknown |
-| [Dribbble](https://developer.dribbble.com)                                  | Discover the world’s top designers & creatives                | `OAuth`  | Yes   | Unknown |
-| [DummyImage](https://dummyimage.com/)                                       | Generate placeholder images with custom size, colors and text | No       | Yes   | Unknown |
-| [EmojiHub (⭐216)](https://github.com/cheatsnake/emojihub)                   | Get emojis by categories and groups                           | No       | Yes   | Yes     |
-| [Europeana](https://pro.europeana.eu/resources/apis/search)                 | European Museum and Galleries content                         | `apiKey` | Yes   | Unknown |
-| [Harvard Art Museums (⭐408)](https://github.com/harvardartmuseums/api-docs) | Art                                                           | `apiKey` | No    | Unknown |
-| [Icon Horse](https://icon.horse)                                            | Favicons for any website, with fallbacks                      | No       | Yes   | Yes     |
-| [Iconfinder](https://developer.iconfinder.com)                              | Icons                                                         | `apiKey` | Yes   | Unknown |
-| [Icons8](https://img.icons8.com/)                                           | Icons (find "search icon" hyperlink in page)                  | No       | Yes   | Unknown |
-| [Lordicon](https://lordicon.com/)                                           | Icons with predone Animations                                 | No       | Yes   | Yes     |
-| [Metropolitan Museum of Art](https://metmuseum.github.io/)                  | Met Museum of Art                                             | No       | Yes   | No      |
-| [Noun Project](http://api.thenounproject.com/index.html)                    | Icons                                                         | `OAuth`  | No    | Unknown |
-| [PHP-Noise](https://php-noise.com/)                                         | Noise Background Image Generator                              | No       | Yes   | Yes     |
-| [Pixel Encounter](https://pixelencounter.com/api)                           | SVG Icon Generator                                            | No       | Yes   | No      |
-| [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)             | RijksMuseum Data                                              | `apiKey` | Yes   | Unknown |
-| [Word Cloud](https://wordcloudapi.com/)                                     | Easily create word clouds                                     | `apiKey` | Yes   | Unknown |
-| [xColors](https://x-colors.herokuapp.com/)                                  | Generate & convert colors                                     | No       | Yes   | Yes     |
+| API                                                                         | Description                                                            | Auth     | HTTPS | CORS    |
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :------- | :---- | :------ |
+| [Améthyste](https://api.amethyste.moe/)                                     | Generate images for Discord users                                      | `apiKey` | Yes   | Unknown |
+| [Art Institute of Chicago](https://api.artic.edu/docs/)                     | Art                                                                    | No       | Yes   | Yes     |
+| [Colormind](http://colormind.io/api-access/)                                | Color scheme generator                                                 | No       | No    | Unknown |
+| [ColourLovers](http://www.colourlovers.com/api)                             | Get various patterns, palettes and images                              | No       | No    | Unknown |
+| [Cooper Hewitt](https://collection.cooperhewitt.org/api)                    | Smithsonian Design Museum                                              | `apiKey` | Yes   | Unknown |
+| [Dribbble](https://developer.dribbble.com)                                  | Discover the world’s top designers & creatives                         | `OAuth`  | Yes   | Unknown |
+| [DummyImage](https://dummyimage.com/)                                       | Generate placeholder images with custom size, colors and text          | No       | Yes   | Unknown |
+| [EmojiHub (⭐216)](https://github.com/cheatsnake/emojihub)                   | Get emojis by categories and groups                                    | No       | Yes   | Yes     |
+| [Europeana](https://pro.europeana.eu/resources/apis/search)                 | European Museum and Galleries content                                  | `apiKey` | Yes   | Unknown |
+| [Harvard Art Museums (⭐408)](https://github.com/harvardartmuseums/api-docs) | Art                                                                    | `apiKey` | No    | Unknown |
+| [Icon Horse](https://icon.horse)                                            | Favicons for any website, with fallbacks                               | No       | Yes   | Yes     |
+| [Iconfinder](https://developer.iconfinder.com)                              | Icons                                                                  | `apiKey` | Yes   | Unknown |
+| [Icons8](https://img.icons8.com/)                                           | Icons (find "search icon" hyperlink in page)                           | No       | Yes   | Unknown |
+| [Lordicon](https://lordicon.com/)                                           | Icons with predone Animations                                          | No       | Yes   | Yes     |
+| [Metropolitan Museum of Art](https://metmuseum.github.io/)                  | Met Museum of Art                                                      | No       | Yes   | No      |
+| [Noun Project](http://api.thenounproject.com/index.html)                    | Icons                                                                  | `OAuth`  | No    | Unknown |
+| [PHP-Noise](https://php-noise.com/)                                         | Noise Background Image Generator                                       | No       | Yes   | Yes     |
+| [Pixel Encounter](https://pixelencounter.com/api)                           | SVG Icon Generator                                                     | No       | Yes   | No      |
+| [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/)             | RijksMuseum Data                                                       | `apiKey` | Yes   | Unknown |
+| [UpRes](https://upres.ai/docs/api)                                          | AI image upscaling to 8K with 18 models (Real-ESRGAN, SeedVR2, AuraSR) | `apiKey` | Yes   | Yes     |
+| [Word Cloud](https://wordcloudapi.com/)                                     | Easily create word clouds                                              | `apiKey` | Yes   | Unknown |
+| [xColors](https://x-colors.herokuapp.com/)                                  | Generate & convert colors                                              | No       | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -238,20 +239,21 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Blockchain
 
-| API                                                            | Description                                                                                          | Auth     | HTTPS | CORS    |
-| -------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :------- | :---- | :------ |
-| [Bitquery](https://graphql.bitquery.io/ide)                    | Onchain GraphQL APIs & DEX APIs                                                                      | `apiKey` | Yes   | Yes     |
-| [Blockscout](https://dev.blockscout.com/)                      | Multichain block explorer REST API (with Etherscan-compatible JSON-RPC)                              | `apiKey` | Yes   | No      |
-| [Chainlink](https://chain.link/developer-resources)            | Build hybrid smart contracts with Chainlink                                                          | No       | Yes   | Unknown |
-| [Chainpoint](https://tierion.com/chainpoint/)                  | Chainpoint is a global network for anchoring data to the Bitcoin blockchain                          | No       | Yes   | Unknown |
-| [Covalent](https://www.covalenthq.com/docs/api/)               | Multi-blockchain data aggregator platform                                                            | `apiKey` | Yes   | Unknown |
-| [Etherscan](https://etherscan.io/apis)                         | Ethereum explorer API                                                                                | `apiKey` | Yes   | Yes     |
-| [Helium](https://docs.helium.com/api/blockchain/introduction/) | Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage | No       | Yes   | Unknown |
-| [Nownodes](https://nownodes.io/)                               | Blockchain-as-a-service solution that provides high-quality connection via API                       | `apiKey` | Yes   | Unknown |
-| [Steem](https://developers.steem.io/)                          | Blockchain-based blogging and social media website                                                   | No       | No    | No      |
-| [The Graph](https://thegraph.com)                              | Indexing protocol for querying networks like Ethereum with GraphQL                                   | `apiKey` | Yes   | Unknown |
-| [Walltime](https://walltime.info/api.html)                     | To retrieve Walltime's market info                                                                   | No       | Yes   | Unknown |
-| [Watchdata](https://docs.watchdata.io)                         | Provide simple and reliable API access to Ethereum blockchain                                        | `apiKey` | Yes   | Unknown |
+| API                                                            | Description                                                                                             | Auth     | HTTPS | CORS    |
+| -------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :------- | :---- | :------ |
+| [Bitquery](https://graphql.bitquery.io/ide)                    | Onchain GraphQL APIs & DEX APIs                                                                         | `apiKey` | Yes   | Yes     |
+| [Blockscout](https://dev.blockscout.com/)                      | Multichain block explorer REST API (with Etherscan-compatible JSON-RPC)                                 | `apiKey` | Yes   | No      |
+| [Chainlink](https://chain.link/developer-resources)            | Build hybrid smart contracts with Chainlink                                                             | No       | Yes   | Unknown |
+| [Chainpoint](https://tierion.com/chainpoint/)                  | Chainpoint is a global network for anchoring data to the Bitcoin blockchain                             | No       | Yes   | Unknown |
+| [Covalent](https://www.covalenthq.com/docs/api/)               | Multi-blockchain data aggregator platform                                                               | `apiKey` | Yes   | Unknown |
+| [Etherscan](https://etherscan.io/apis)                         | Ethereum explorer API                                                                                   | `apiKey` | Yes   | Yes     |
+| [Helium](https://docs.helium.com/api/blockchain/introduction/) | Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage    | No       | Yes   | Unknown |
+| [Nownodes](https://nownodes.io/)                               | Blockchain-as-a-service solution that provides high-quality connection via API                          | `apiKey` | Yes   | Unknown |
+| [Steem](https://developers.steem.io/)                          | Blockchain-based blogging and social media website                                                      | No       | No    | No      |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz)                   | Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets | No       | Yes   | Yes     |
+| [The Graph](https://thegraph.com)                              | Indexing protocol for querying networks like Ethereum with GraphQL                                      | `apiKey` | Yes   | Unknown |
+| [Walltime](https://walltime.info/api.html)                     | To retrieve Walltime's market info                                                                      | No       | Yes   | Unknown |
+| [Watchdata](https://docs.watchdata.io)                         | Provide simple and reliable API access to Ethereum blockchain                                           | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1093,6 +1095,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [City, Toronto Open Data](https://open.toronto.ca/)                                                           | Toronto (CA) City Open Data                                                                         | No       | Yes   | Yes     |
 | [Code.gov](https://code.gov)                                                                                  | The primary platform for Open Source and code sharing for the U.S. Federal Government               | `apiKey` | Yes   | Unknown |
 | [Colorado Information Marketplace](https://data.colorado.gov/)                                                | Colorado State Government Open Data                                                                 | No       | Yes   | Unknown |
+| [Conversor IAE CNAE](https://www.conversoriaecnae.es/api/v1/docs)                                             | Spanish IAE/CNAE tax activity codes, 2009→2025 crosswalk and AEAT obligations                       | `apiKey` | Yes   | No      |
 | [Data USA](https://datausa.io/about/api/)                                                                     | US Public Data                                                                                      | No       | Yes   | Unknown |
 | [Data.gov](https://api.data.gov/)                                                                             | US Government Data                                                                                  | `apiKey` | Yes   | Unknown |
 | [Data.parliament.uk](https://explore.data.parliament.uk/?learnmore=Members)                                   | Contains live datasets including information about petitions, bills, MP votes, attendance and more  | No       | No    | Unknown |
@@ -1666,6 +1669,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Twitch](https://dev.twitch.tv/docs)                                            | Game Streaming API                                                                                | `OAuth`  | Yes   | Unknown |   |   |
 | [Twitter](https://developer.twitter.com/en/docs)                                | Read and write Twitter data                                                                       | `OAuth`  | Yes   | No      |   |   |
 | [vk](https://vk.com/dev/sites)                                                  | Read and write vk data                                                                            | `OAuth`  | Yes   | Unknown |   |   |
+| [xfetch](https://xfetch.io)                                                     | Read API for X/Twitter search, profiles, tweets, and social graph                                 | `apiKey` | Yes   | Yes     |   |   |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1703,6 +1707,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Sport List & Data](https://developers.decathlon.com/products/sports)                       | List of and resources related to sports                                                             | No              | Yes   | Yes     |
 | [Sport Places](https://developers.decathlon.com/products/sport-places)                      | Crowd-source sports places around the world                                                         | No              | Yes   | No      |
 | [Sport Vision](https://developers.decathlon.com/products/sport-vision)                      | Identify sport, brands and gear in an image. Also does image sports captioning                      | `apiKey`        | Yes   | Yes     |
+| [SportScore](https://sportscore.com/developers/)                                            | Live scores, fixtures, standings and stats for football, basketball, cricket and tennis             | No              | Yes   | Yes     |
 | [Sportmonks Cricket](https://docs.sportmonks.com/cricket/)                                  | Live cricket score, player statistics and fantasy API                                               | `apiKey`        | Yes   | Unknown |
 | [Sportmonks Football](https://docs.sportmonks.com/football/)                                | Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga  | `apiKey`        | Yes   | Unknown |
 | [Squiggle](https://api.squiggle.com.au)                                                     | Fixtures, results and predictions for Australian Football League matches                            | No              | Yes   | Yes     |
@@ -1994,6 +1999,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [OpenWeatherMap](https://openweathermap.org/api)                                                                             | Weather                                                                              | `apiKey`     | Yes   | Unknown |
 | [Pirate Weather](https://pirateweather.net/en/latest/)                                                                       | Free weather API with forecast data similar to Dark Sky                              | No           | Yes   | Yes     |
 | [QWeather](https://dev.qweather.com/en/)                                                                                     | Location-based weather data                                                          | `apiKey`     | Yes   | Yes     |
+| [Rainbow Weather](https://developer.rainbow.ai/)                                                                             | Global real-time nowcasting API powered by radar + satellite fusion                  | `apiKey`     | Yes   | Unknown |
 | [RainViewer](https://www.rainviewer.com/api.html)                                                                            | Radar data collected from different websites across the Internet                     | No           | Yes   | Unknown |
 | [Storm Glass](https://stormglass.io/)                                                                                        | Global marine weather from multiple sources                                          | `apiKey`     | Yes   | Yes     |
 | [Tomorrow](https://docs.tomorrow.io)                                                                                         | Weather API Powered by Proprietary Technology                                        | `apiKey`     | Yes   | Unknown |
