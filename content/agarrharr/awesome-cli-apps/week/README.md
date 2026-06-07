@@ -8,9 +8,21 @@
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
+### Entertainment / Video
+
+*   [cinema (⭐33)](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
+
+### Entertainment / Chat
+
+*   [concord (⭐663)](https://github.com/chojs23/concord) - Discord client.
+
 ### Productivity / Testing
 
 *   [linear-tui (⭐26)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
+
+### Screensavers / Image Conversion
+
+*   [drift (⭐634)](https://github.com/phlx0/drift) - Multiple animated scenes.
 
 ### AI / Agents
 
@@ -47,7 +59,7 @@
 
 ### Development / Chat
 
-*   [dotenv-diff (⭐49)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+*   [dotenv-diff (⭐51)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
@@ -77,7 +89,7 @@
 
 ### Development / Text Editors
 
-*   [Prosaic (⭐11)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+*   [Prosaic (⭐12)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
 
 ### AI / Agents
 
@@ -97,7 +109,7 @@
 
 ### Files and Directories / Directory Listing
 
-*   [treepp (⭐72)](https://github.com/Water-Run/treepp) - Windows tree++.
+*   [treepp (⭐74)](https://github.com/Water-Run/treepp) - Windows tree++.
 
 ### AI / Agents
 
@@ -296,7 +308,7 @@
 
 ### Entertainment / Music
 
-*   [spotatui (⭐685)](https://github.com/LargeModGames/spotatui) - Spotify client.
+*   [spotatui (⭐738)](https://github.com/LargeModGames/spotatui) - Spotify client.
 
 ### Utilities / macOS
 
@@ -389,7 +401,7 @@
 
 ### Utilities / Network Utilities
 
-*   [rustnet (⭐3.6k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
+*   [rustnet (⭐4.3k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 
 ### Data Manipulation / YAML
 
@@ -479,7 +491,7 @@
 
 ### Files and Directories / Search
 
-*   [television (⭐5.9k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐6k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ### Version Control / Git
 
@@ -505,7 +517,7 @@
 
 ### Files and Directories / File Managers
 
-*   [yazi (⭐38k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+*   [yazi (⭐39k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -614,7 +626,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐332)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐331)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -797,7 +809,7 @@
 
 *   [neovim (⭐100k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐675)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐44k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
+*   [helix (⭐45k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -843,7 +855,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐833)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐835)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -1283,7 +1295,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐659)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
+*   [sqlline (⭐655)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
@@ -1456,7 +1468,7 @@
 
 ### Development / Release
 
-*   [clog (⭐916)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐917)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
@@ -1497,7 +1509,7 @@
 
 ### Data Manipulation / JSON
 
-*   [fx (⭐20k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+*   [fx (⭐21k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 *   [vj (⭐99)](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Data Manipulation / Text
@@ -1510,7 +1522,7 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐4.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 

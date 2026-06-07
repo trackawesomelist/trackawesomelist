@@ -36,6 +36,48 @@ A collective list of free APIs
 
 
 
+### Documents & Productivity
+
+- API: [OCR.Space](https://ocr.space/ocrapi)
+
+  Description: OCR text extraction from images and PDFs with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Environment
+
+- API: [SustainMetrics](https://www.sustainmetrics.net/api)
+
+  Description: 18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [ip2geo.dev](https://ip2geo.dev)
+
+  Description: Programmatically convert IP addresses into geolocation data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Government
 
 - API: [Conversor IAE CNAE](https://www.conversoriaecnae.es/api/v1/docs)
@@ -47,6 +89,73 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [FastDOL](https://www.fastdol.com/docs)
+
+  Description: Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Health
+
+- API: [Clinical Trials Directory](https://trials.starfile.org/api)
+
+  Description: Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Jobs
+
+- API: [JobDataLake](https://www.jobdatalake.com/docs)
+
+  Description: 1M+ enriched job listings from 20,000+ companies with salary, skills, seniority
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Machine Learning
+
+- API: [Jina AI](https://jina.ai)
+
+  Description: Free AI API for embeddings, reranking, and text processing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Open Data
+
+- API: [Statistics of the World](https://statisticsoftheworld.com/api-docs)
+
+  Description: Economic data for 218 countries — GDP, population, inflation, and 440+ indicators from IMF and World Bank
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -71,6 +180,31 @@ A collective list of free APIs
   Description: Live scores, fixtures, standings and stats for football, basketball, cricket and tennis
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Transportation
+
+- API: [FAA N-Number Registry](https://n-number.starfile.org/api)
+
+  Description: Every FAA-registered civil aircraft in the United States, lookup by N-number or Mode S hex code
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Road511](https://road511.com/docs.html)
+
+  Description: Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 

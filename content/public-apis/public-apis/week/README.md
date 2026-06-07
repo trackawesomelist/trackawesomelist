@@ -204,6 +204,17 @@ A collective list of free APIs
 
 ### Documents & Productivity
 
+- API: [OCR.Space](https://ocr.space/ocrapi)
+
+  Description: OCR text extraction from images and PDFs with a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 - API: [Renderly](https://renderlyapi.com)
 
   Description: HTML to PDF conversion API built on Chromium
@@ -281,6 +292,20 @@ A collective list of free APIs
   Description: Harry Potter universe database with characters, spells, potions and more
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Environment
+
+- API: [SustainMetrics](https://www.sustainmetrics.net/api)
+
+  Description: 18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 
@@ -659,6 +684,17 @@ A collective list of free APIs
 
 ### Geocoding
 
+- API: [ip2geo.dev](https://ip2geo.dev)
+
+  Description: Programmatically convert IP addresses into geolocation data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Kiprio UK Postcode](https://kiprio.com/v1/postcode)
 
   Description: UK postcode lookup with lat/lon, district, ward, constituency
@@ -682,6 +718,17 @@ A collective list of free APIs
   HTTPS: Yes
 
   CORS: No
+
+
+- API: [FastDOL](https://www.fastdol.com/docs)
+
+  Description: Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 - API: [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip)
@@ -720,6 +767,17 @@ A collective list of free APIs
 
 ### Health
 
+- API: [Clinical Trials Directory](https://trials.starfile.org/api)
+
+  Description: Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [Longevity World Cup](https://longevityworldcup.com/api/data/athletes)
 
   Description: Public biological age competition data with biomarkers and rankings
@@ -743,7 +801,32 @@ A collective list of free APIs
 
 
 
+### Jobs
+
+- API: [JobDataLake](https://www.jobdatalake.com/docs)
+
+  Description: 1M+ enriched job listings from 20,000+ companies with salary, skills, seniority
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Machine Learning
+
+- API: [Jina AI](https://jina.ai)
+
+  Description: Free AI API for embeddings, reranking, and text processing
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [MediaCraft AI](https://mediacraft-x402-api.onrender.com)
 
@@ -758,6 +841,17 @@ A collective list of free APIs
 
 
 ### Open Data
+
+- API: [Statistics of the World](https://statisticsoftheworld.com/api-docs)
+
+  Description: Economic data for 218 countries — GDP, population, inflation, and 440+ indicators from IMF and World Bank
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
 
 - API: [Warnely](https://warnely.com/developers)
 
@@ -959,11 +1053,33 @@ A collective list of free APIs
 
 ### Transportation
 
+- API: [FAA N-Number Registry](https://n-number.starfile.org/api)
+
+  Description: Every FAA-registered civil aircraft in the United States, lookup by N-number or Mode S hex code
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
 - API: [OpenVan](https://openvan.camp/docs)
 
   Description: Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel
 
   Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Road511](https://road511.com/docs.html)
+
+  Description: Unified traffic data from 65 US/CA jurisdictions: events, cameras, signs, bridges, truck routes
+
+  Auth: `apiKey`
 
   HTTPS: Yes
 

@@ -2,9 +2,15 @@
 
 🕶️A curated list of awesome tools for dealing with CSV.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/secretGeek/AwesomeCSV/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) · ⭐ 923 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/secretGeek/AwesomeCSV/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) · ⭐ 928 · 🏷️ Miscellaneous
 
 [ [Daily](/content/secretGeek/AwesomeCSV/README.md) / Weekly / [Overview](/content/secretGeek/AwesomeCSV/readme/README.md) ]
+
+## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
+
+### Tools
+
+*   [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -16,8 +22,8 @@
 
 ### Tools
 
-*   [QSV (⭐3.6k)](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
-*   [Data Wrangler (⭐588)](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+*   [QSV (⭐3.7k)](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+*   [Data Wrangler (⭐596)](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 
 ### Generate Data / CSV <-> JSON
 
@@ -117,7 +123,7 @@
 ### Tools
 
 *   [ParaText (⭐1.1k)](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
-*   [Rainbow CSV plugins (⭐702)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐702)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+*   [Rainbow CSV plugins (⭐710)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐710)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 
 ## [Nov 19 - Nov 25, 2018](/content/2018/47/README.md)
 
@@ -130,7 +136,7 @@
 ### Tools
 
 *   [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
-*   [d3-dsv (⭐443)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
+*   [d3-dsv (⭐446)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 *   [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 *   [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 *   [awk by example (⭐10k)](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
@@ -140,14 +146,14 @@
 *   [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 *   [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 *   [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
-*   [graph-cli (⭐809)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
+*   [graph-cli (⭐806)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 *   [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
 *   [C#: kbCSV (⭐78)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
 *   [csvprintf (⭐43)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 
 ### Tools / Repair or Validate CSV
 
-*   [Csvlint.go (⭐206)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
+*   [Csvlint.go (⭐207)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 
 ### Generate Table Schema / Treat CSV as SQL
 
@@ -180,7 +186,7 @@
 *   [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 *   [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 *   [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-*   [awesome-public-datasets (⭐74k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+*   [awesome-public-datasets (⭐76k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 
 ### Conferences / CSV <-> JSON
 
