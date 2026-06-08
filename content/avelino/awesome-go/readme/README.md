@@ -43,7 +43,7 @@ We use the *[Golang Bridge (⭐432)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐299k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐302k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -241,6 +241,7 @@ Please take a quick gander at the [contribution guidelines (⭐174k)](https://gi
 *   [langgraphgo (⭐260)](https://github.com/smallnest/langgraphgo) - A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
 *   [LocalAI (⭐46k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [localaik (⭐12)](https://github.com/harshaneel/localaik) - LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
+*   [mcp-go (⭐8.8k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
 *   [Ollama (⭐173k)](https://github.com/jmorganca/ollama) - Run large language models locally.
 *   [OllamaFarm (⭐98)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 *   [otellix (⭐10)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
@@ -397,7 +398,7 @@ Please take a quick gander at the [contribution guidelines (⭐174k)](https://gi
 *   [chroma16 (⭐3)](https://github.com/arceus-7/chroma16) - Generate a harmonious 16-color terminal palette from a single seed color or string.
 *   [crab-config-files-templating (⭐8)](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 *   [ctc (⭐53)](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method.
-*   [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
+*   [fx (⭐21k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
 *   [go-ataman (⭐20)](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
 *   [go-colorable (⭐808)](https://github.com/mattn/go-colorable) - Colorable writer for windows.
 *   [go-colortext (⭐215)](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals.
@@ -501,6 +502,7 @@ Please take a quick gander at the [contribution guidelines (⭐174k)](https://gi
 *   [cleanenv (⭐2.1k)](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
 *   [config (⭐339)](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
 *   [config (⭐61)](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code.
+*   [config](https://github.com/andreiavrammsd/config) - Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
 *   [configuration (⭐108)](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
 *   [configuro (⭐92)](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
 *   [confiq (⭐40)](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats.
@@ -896,7 +898,7 @@ additional ordered map implementations.
 *   [ozzo-dbx (⭐667)](https://github.com/go-ozzo/ozzo-dbx) - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
 *   [patcher (⭐7)](https://github.com/Jacobbrewer1/patcher) - Powerful SQL Query builder that automatically generates SQL queries from structs.
 *   [qry (⭐35)](https://github.com/HnH/qry) - Tool that generates constants from files with raw SQL queries.
-*   [relica](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 *   [sg (⭐7)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 *   [sq (⭐201)](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
 *   [sqlc (⭐18k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.

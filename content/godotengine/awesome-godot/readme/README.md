@@ -50,15 +50,15 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [A Dark Forest (⭐182)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 *   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 *   [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
-*   [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
+*   [Unknown Horizons (⭐877)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3
 
 *   [Blipshift (⭐15)](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game.
-*   [Breakable](https://github.com/didier-v/breakable) - A breakout-like game.
+*   [Breakable (⭐66)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [Circle Jump (⭐152)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 *   [Everplast (⭐87)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
-*   [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
+*   [Falling Square (⭐26)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 *   [Flappy Race (⭐39)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
 *   [Haldric (⭐362)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 *   [Memory Game (⭐32)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
@@ -66,8 +66,8 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Portal 2D (⭐97)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 *   [ROTA (⭐321)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 *   [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
-*   [Starship Olympics](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
-*   [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
+*   [Starship Olympics (⭐523)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [TuxBuilder (⭐214)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 #### Godot 2
 
@@ -77,12 +77,12 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Dolphin Island 2 (⭐181)](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
 *   [DynaDungeons (⭐239)](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 *   [Kraken-Rampage (⭐6)](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-*   [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone.
+*   [Minehunter (⭐19)](https://github.com/genete/Minehunter) - A Minesweeper clone.
 *   [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 *   [Mountain of Hope (⭐12)](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015).
-*   [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
-*   [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
-*   [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
+*   [Ninja-Training (⭐38)](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
+*   [No hope (⭐9)](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
+*   [Planet Rider (⭐36)](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
 *   [Platshoot (⭐50)](https://github.com/Calinou/platshoot) - A 2D shooter game.
 *   [Ringed (⭐95)](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
 *   [Tanks of Freedom (⭐1.2k)](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
@@ -108,11 +108,11 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Boom (⭐43)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 *   [Broken Seals (⭐412)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 *   [Meteorite (⭐329)](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
-*   [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
+*   [Rapid Rescue (⭐77)](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
 
 #### Godot 2
 
-*   [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
+*   [Cheese Hunter (⭐16)](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
 ### XR
 
@@ -133,16 +133,16 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 *   [Arrow (⭐1.3k)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 *   [Clipboard Narrator (⭐65)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
-*   [GodSVG](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+*   [GodSVG (⭐2.5k)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 *   [Lorien (⭐6.7k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 *   [Material Maker (⭐5.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
 *   [Pixelorama (⭐9.7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
-*   [ProtonGraph](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐1.7k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 #### Godot 3
 
 *   [Godello (⭐880)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-*   [SimulaVR](https://github.com/SimulaVR/Simula) - A VR window manager for Linux, built on top of Godot engine.
+*   [SimulaVR (⭐3.2k)](https://github.com/SimulaVR/Simula) - A VR window manager for Linux, built on top of Godot engine.
 *   [vpuppr (⭐807)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ## Templates
@@ -152,25 +152,25 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 #### Godot 4
 
 *   [COGITO](https://codeberg.org/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
-*   [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
-*   [Godot C# Template](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
+*   [Crystal Bit Godot Game Template (⭐918)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Godot C# Template (⭐166)](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
 *   [First Person Starter (⭐971)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
-*   [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+*   [Godot-GameTemplate (⭐1.6k)](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 *   [Godot 4 Custom Gravity (⭐28)](https://github.com/Ivorforce/Godot4-Custom-Gravity) - Template for a 3D project with planetary gravity (Super Mario Galaxy-like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
 *   [Godot XR Template (⭐206)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 *   [Maaack's Game Template (⭐1.5k)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [MechanicalFlower Godot Template (⭐65)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
-*   [Takin Godot Template](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐472)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
 
 *   [bendn's Godot Template (⭐42)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐17)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 *   [Godot First Person Camera (⭐63)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
-*   [Godot FPS Template](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
-*   [Godot Game Of Life](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot FPS Template (⭐78)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot Game Of Life (⭐38)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 *   [Minimum Game (⭐81)](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
 *   [Multiplayer First Person Shooter (⭐63)](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
-*   [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
+*   [Multiplayer Third Person Shooter (⭐67)](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
 
 ## Demos
 
@@ -178,12 +178,12 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 #### Godot 4
 
-*   [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
-*   [Godot experiments](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot Demo Projects (⭐8.9k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
+*   [Godot experiments (⭐1k)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 *   [Kaleidoscope (⭐33)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
 *   [OpenRPG (⭐2.8k)](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template.
-*   [PlaneShooter](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
-*   [TPS Demo](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
+*   [PlaneShooter (⭐15)](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
+*   [TPS Demo (⭐1.3k)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 *   [voxelgame (⭐739)](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
 
 #### Godot 3
@@ -198,7 +198,7 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Pathfinding 2d (⭐71)](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 *   [UDP Snapshot interpolation (⭐67)](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 *   [UDP State synchronization (⭐166)](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
-*   [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
+*   [Voxel Game (⭐76)](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 
 ## Tutorials
 
@@ -213,8 +213,8 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 #### Godot 4
 
 *   [3D Auto Collision Generator (⭐94)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
-*   [AgonesSDK (⭐87)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones](https://github.com/googleforgames/agones) SDK functionality to Godot.
-*   [AnimatedShape2D](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+*   [AgonesSDK (⭐87)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6.9k)](https://github.com/googleforgames/agones) SDK functionality to Godot.
+*   [AnimatedShape2D (⭐227)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 *   [AnimSheet (⭐31)](https://github.com/Lighar/AnimSheet) - Automatically generate AnimationPlayer or AnimatedSprite2D nodes directly from spritesheets within the Godot editor.
 *   [AntialiasedLine2D (⭐190)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (all rendering methods, all platforms).
 *   [Aseprite Wizard (⭐1.3k)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
@@ -227,7 +227,7 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Dialogue Engine (⭐317)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 *   [Dialogue Manager (⭐3.6k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
 *   [DotnetQuestSystem (⭐21)](https://github.com/TRUINGLol/DotnetQuestSystem) - A simple implementation of a quest system on .NET with an interface for Godot.
-*   [Event Audio](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
+*   [Event Audio (⭐68)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 *   [Fast Fourier Transform (FFT) (⭐64)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 *   [FMOD GDNative (⭐874)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
 *   [friflo ECS (⭐650)](https://github.com/friflo/Friflo.Engine.ECS) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
@@ -247,24 +247,24 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Godot Spin Button (⭐131)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 *   [Godot SQLite (⭐1.4k)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
 *   [Godot Torrent (⭐23)](https://github.com/NodotProject/godot-torrent) - A comprehensive BitTorrent GDExtension for Godot 4, providing full protocol functionality with native C++ performance.
-*   [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
-*   [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
-*   [GodotVMF](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
+*   [Godot XR Tools (⭐705)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+*   [GodotSx (⭐100)](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
+*   [GodotVMF (⭐380)](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
 *   [GUT (⭐2.6k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
-*   [HCoroutines](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
+*   [HCoroutines (⭐52)](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
 *   [Health, HitBoxes, HurtBoxes, and HitScans (⭐154)](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
-*   [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
+*   [HTerrain (⭐2.2k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 *   [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
 *   [Importality (⭐516)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others.
-*   [Input Helper](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
+*   [Input Helper (⭐1.1k)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
 *   [Inventory Manager (⭐67)](https://github.com/Rubonnek/inventory-manager) - Minimalistic inventory manager for easily adding and removing items with variable stack sizes and stack count limits.
 *   [Konado (⭐60)](https://github.com/godothub/konado) - A dialogue creation toolkit with templates to help you quickly build Visual Novels, Gal Games, RPGs and other story‑driven projects.
 *   [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
 *   [LimboAI (⭐2.8k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 *   [Maaack's Game Template Plugin (⭐1.5k)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
-*   [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
+*   [Maaack's Menus Template (⭐446)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐70)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
-*   [Netfox](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
+*   [Netfox (⭐991)](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
 *   [NobodyWho (⭐941)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 *   [Nodot (⭐400)](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
 *   [obs-websocket-gd (⭐115)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
@@ -279,24 +279,24 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Questify (⭐249)](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
 *   [QuestSystem (⭐454)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 *   [Quill-IDE (⭐36)](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
-*   [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
+*   [Ridiculous Coding (⭐1.1k)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 *   [Roommate (⭐56)](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
 *   [Scene Library (⭐108)](https://github.com/4d49/scene-library) - A tool for organizing Godot scenes with efficiency.
-*   [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
+*   [Scene Manager (⭐596)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 *   [Script-IDE (⭐1k)](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
 *   [Shaker (⭐450)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
-*   [Signal Lens](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
-*   [SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
+*   [Signal Lens (⭐345)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
+*   [SignalVisualizer (⭐657)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 *   [Simplified Flight Simulation library (⭐298)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 *   [SimpleGodotCRTShader (⭐395)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays.
 *   [SmartShape2D (⭐1.7k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool. *(Godot 3 and 4)*
 *   [Sprouty Dialogs (⭐135)](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 *   [Subtitles Importer (⭐12)](https://github.com/Rubonnek/subtitles-importer) - A comprehensive subtitle parser supporting 15+ subtitle formats (SRT, VTT, SSA/ASS, SBV, and more) with runtime parsing, time-based queries, and AnimationPlayer integration.
 *   [System Bar Color Changer (⭐36)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
-*   [Talo](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
+*   [Talo (⭐221)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 *   [TerraBrush (⭐1.2k)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 *   [Terrain3D (⭐3.9k)](https://github.com/TokisanGames/Terrain3D) - A high performance, editable 3D terrain system.
-*   [ThemeGen](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
+*   [ThemeGen (⭐241)](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 *   [UI Design Tool (⭐441)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 *   [Vest (⭐21)](https://github.com/foxssake/vest) - A unit testing addon for Godot.
 *   [Virtual Joystick (⭐970)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
@@ -315,35 +315,35 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Code Snapshot (⭐58)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
 *   [CRT Shader (⭐309)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
 *   [CSG Mesh Exporter (.OBJ) (⭐56)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
-*   [Debanding Material Shader](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
+*   [Debanding Material Shader (⭐40)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
 *   [Delaunator GDScript (⭐89)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
 *   [Dijkstra map for Godot (⭐86)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Discord.gd (⭐144)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 *   [DungeonTemplateLibrary-Godot (⭐44)](https://github.com/krazyjakee/DungeonTemplateLibrary-Godot) - Godot Dungeon Template Library (terrain & roguelike generation).
 *   [EffekseerForGodot3 (⭐142)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
 *   [Escoria (⭐838)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
 *   [Funexpected Flash Tools (⭐23)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 *   [gdstats (⭐37)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
-*   [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
+*   [GitHub integration (⭐228)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
 *   [godotccd (⭐69)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
 *   [godotdetour (⭐128)](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
-*   [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [Godot GamePad (⭐125)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
 *   [Godot Gif Getter (⭐45)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 *   [Godot Google Play Games Services (⭐29)](https://github.com/Iakobs/godot-google-play-game-services-android-plugin) - Integrate Google Play Games Services in your Godot game.
 *   [Godot Mixing Desk (⭐674)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
 *   [Godot NExt (⭐997)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
-*   [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center.
+*   [GodotNotificationCenter (⭐60)](https://github.com/didier-v/GodotNotificationCenter) - A notification center.
 *   [GodotOnReady (⭐123)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 *   [GodotPhoenixChannels (⭐302)](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework.
 *   [godot-ply (⭐417)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 *   [GodotRx (⭐98)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
-*   [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). *(Godot 2 and 3)*
+*   [GodotTIE (⭐296)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue). *(Godot 2 and 3)*
 *   [Godot-Trail-System (⭐370)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 *   [Godot VirtualJoystick (⭐15)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
-*   [InGrid](https://github.com/Larpon/ingrid) - Infinite scrolling grid.
+*   [InGrid (⭐118)](https://github.com/Larpon/ingrid) - Infinite scrolling grid.
 *   [Kehom's Godot Addon Pack (⭐201)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 *   [Level of Detail (LOD) (⭐247)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
-*   [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
+*   [Line Collider 2D (⭐9)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 *   [NativeLib (⭐95)](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating. Attribution and analytics: Adjust, Amplitude, AppsFlyer, Flurry, GameAnalytics, Tenjin. Ads networks and mediation: AdColony, AppLovin, TapDaq. GDPR and privacy: App Tracking Transparency, Ogury. Social: Facebook. Universal backend solution: Firebase.
 *   [NI mate Motion Capture (⭐31)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
 *   [Scrolling Background (⭐28)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node. *(Godot 2 and 3)*
@@ -387,32 +387,33 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 *   [Entity Spell System (⭐197)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs. *(Godot 3 and 4)*
 *   [FMOD GD4 (⭐62)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
-*   [Godex](https://github.com/GodotECS/godex) - An entity component system library.
-*   [GodotHook](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
-*   [godot-jolt](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐10k)](https://github.com/jrouwe/JoltPhysics).
+*   [Godex (⭐1.4k)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [GodotHook (⭐64)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
+*   [godot-jolt (⭐2.5k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐10k)](https://github.com/jrouwe/JoltPhysics).
 *   [godot-luaAPI (⭐420)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
 *   [godot-rapier-2d (⭐901)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐5.4k)](https://github.com/dimforge/rapier) physics server for Godot.
-*   [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux.
+*   [GodotSteam (⭐3.7k)](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux.
 *   [godot-voxel (⭐3.7k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
-*   [Keyring](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
-*   [spout-gd](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐973)](https://github.com/leadedge/Spout2).
+*   [Keyring (⭐16)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [spout-gd (⭐83)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐973)](https://github.com/leadedge/Spout2).
 *   [Texture Packer (⭐72)](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime. *(Godot 3 and 4)*
+*   [Tree3D (⭐313)](https://github.com/JekSun97/gdTree3D) - A plugin for procedural generation of 3D trees in real time for gaming projects.
 *   [Voxelman (⭐111)](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability. *(Godot 3 and 4)*
 
 #### Godot 3
 
-*   [Flash Module](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐44)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 *   [FMOD Integration (⭐179)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
-*   [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+*   [Gdnet for Godot 3 (⭐126)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 *   [GodotAIGym (⭐233)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 *   [godot-apple-id (⭐35)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [godotcord (⭐53)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-python (⭐2.1k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [godot-simple-state (⭐69)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
-*   [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐2.2k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Godot-Slicer (⭐124)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐2.2k)](https://github.com/DavidArayan/ezy-slice) for Godot.
 *   [Goost (⭐497)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐19)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use PortAudio.
-*   [Speech to Text](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐34)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 #### Godot version unknown
 
@@ -420,8 +421,8 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [godot-enet-better (⭐93)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 *   [Head tracking using OpenCV (⭐48)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
-*   [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-*   [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+*   [Open Adaptive Music Library (⭐58)](https://github.com/oamldev/oamlGodotModule)
+*   [RawPacker (⭐24)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 *   [spine (⭐138)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 *   [WaterSplash 2D node (⭐43)](https://github.com/laverneth/water)
 
@@ -432,18 +433,18 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 *   [Emacs (⭐389)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 *   [Geany (⭐21)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐18)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
-*   [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+*   [IntelliJ IDEA (⭐148)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 *   [JetBrains Rider (C#) (⭐493)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 *   [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 *   [GNU Nano (⭐2)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
 *   [Neovim (⭐81)](https://github.com/Mathijs-Bakker/godotdev.nvim) - A batteries-included Neovim plugin for Godot 4.x game development. Use Neovim as a fully featured external editor for Godot, with minimal setup.
 *   [Sublime Text (⭐71)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
-*   [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Vim (⭐581)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 *   Visual Studio Code
     *   [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
     *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter) - Formatter for GDScript in Visual Studio Code.
     *   [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
-    *   [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+    *   [GUT Visual Studio Code Extension (⭐45)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
 
 ## Themes
 
@@ -458,7 +459,7 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 *Alternative themes for the built-in script editor.*
 
-*   [base16-godot (⭐41)](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐41)](https://github.com/Calinou/base16-godot) - All [base16 (⭐932)](https://github.com/chriskempson/base16) themes.
 *   [Godot syntax themes (⭐490)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 *   [Syntax themes by Geequlim (⭐58)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
@@ -466,16 +467,16 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 *Alternative themes with the trusted Godot editor's colors for external tools.*
 
-*   [Alacritty](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
-*   [NeoVim](https://github.com/voylin/godot_color_theme/tree/master/lua)
-*   [Visual Studio Code](https://github.com/ryanabx/godot-vscode-theme)
+*   [Alacritty (⭐4)](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
+*   [NeoVim (⭐4)](https://github.com/voylin/godot_color_theme/tree/master/lua)
+*   [Visual Studio Code (⭐7)](https://github.com/ryanabx/godot-vscode-theme)
 *   [Zed (⭐7)](https://github.com/D4r3NPo/zed-godot-theme)
 
 ## Unofficial Godot builds
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
-*   [bend-n's 2D builds](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/engine_details/development/compiling/optimizing_for_size.html) with [these modules disabled](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+*   [bend-n's 2D builds (⭐33)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/engine_details/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐33)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 *   [Godot RISC-V](https://gitee.com/openkylin/godot-riscv) - Godot built for the RISC‑V architecture.
 
 ## Bash scripts
@@ -497,15 +498,15 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 *Other stuff.*
 
-*   [asdf-godot](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
+*   [asdf-godot (⭐8)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 *   [codetranslator (⭐58)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gd2cs.py (⭐99)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 *   [gdvm](https://gdvm.io) ([GitHub (⭐77)](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
 *   [godot-actions (⭐36)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 *   [godot-ci (⭐1.1k)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 *   [godot-gdscript-toolkit (⭐1.6k)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
-*   [godot-launcher](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
-*   [Godot Awesome Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation.
+*   [godot-launcher (⭐6)](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
+*   [Godot Awesome Scientific (⭐33)](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - Community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation.
 *   [Godot Package Manager (⭐17)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 *   [RetroPie Godot Game Engine "Emulator" (⭐108)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.

@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Artificial Intelligence
+
+*   [mcp-go (⭐8.8k)](https://github.com/mark3labs/mcp-go) - Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
+
+### Configuration
+
+*   [config](https://github.com/andreiavrammsd/config) - Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Standard CLI
@@ -555,7 +565,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [relica](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Generators
 
@@ -1216,7 +1226,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
+*   [fx (⭐21k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
 
 ### Standard CLI
 

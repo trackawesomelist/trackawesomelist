@@ -117,7 +117,6 @@ Thanks to our main contributors
 *   [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
 *   [Google Search](https://www.google.com) - Most popular search engine.
 *   [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
-*   [Impersonal.me](http://www.impersonal.me)
 *   [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 *   [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 *   [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
@@ -715,6 +714,7 @@ Thanks to our main contributors
 *   [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 *   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration required. Funded by The Church Of Jesus Christ of Latter-day Saints.
 *   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
+*   [FinalNotes Obituary Research Guide](https://www.finalnotes.page/obituary-research-guide/) - Guide for finding obituary records, preserving source trails, and turning obituary clues into sourced family-history stories.
 *   [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present.
 *   [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 *   [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
@@ -761,7 +761,7 @@ Thanks to our main contributors
 *   [IntelBase](https://intelbase.is/) - Forensics platform focused on reverse email lookup and email data enrichment.
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 *   [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
-*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
+*   [MailAccess (⭐128)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 *   [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
 *   [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 *   [Multirbl](https://multirbl.valli.org/dnsbl-lookup) - MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.
@@ -1116,7 +1116,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐165k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐169k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1667,6 +1667,7 @@ Thanks to our main contributors
 *   [PassiveRecon (⭐0)](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
 *   [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 *   [Photon (⭐13k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [PRISM (⭐41)](https://github.com/NovaCode37/Prism-platform) - Self-hosted all-in-one OSINT platform that scans a domain, IP, email, phone, or username across 22+ modules and returns threat intel, breach data, subdomains, an OPSEC score, entity graph, GeoIP map, and HTML/PDF reports. [Live demo](https://getprism.su).
 *   [Pyba (⭐30)](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 *   [pygreynoise (⭐177)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
@@ -1686,6 +1687,10 @@ Thanks to our main contributors
 *   [Zen (⭐592)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 ## [↑](#-table-of-contents) Threat Intelligence
+
+*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
+
+<!---->
 
 *   [defend.network](https://defend.network) - Free, no-login cyber threat intelligence publishing daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog. Content is structured by threat type, industry, and severity, with remediation guidance. RSS feed at defend.network/feed.xml.
 *   [DFIR Platform](https://platform.dfir-lab.ch) - Threat intelligence platform with multi-source IOC enrichment, phishing email analysis, exposure scanning, and domain reputation scoring. Free tier available.

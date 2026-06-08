@@ -6,6 +6,12 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Newsletters / Book Deals (Affiliated)
+
+*   [DiamantAI](https://diamantai.substack.com). Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Research & Knowledge Retrieval
@@ -147,7 +153,7 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
+*   [latamdata-py (⭐1)](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 
 ## [Mar 30 - Apr 05, 2026](/content/2026/13/README.md)
 
@@ -1362,8 +1368,8 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn (⭐953)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys (⭐490)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.6k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐421)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐707)](https://github.com/larsmans/seqlearn)
@@ -1384,7 +1390,7 @@
 *   [hyperlearn (⭐2.5k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
 *   [RuleFit (⭐446)](https://github.com/christophM/rulefit)
-*   [pyGAM](https://github.com/dswah/pyGAM)
+*   [pyGAM (⭐1k)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1412,19 +1418,19 @@
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
 *   [Mesh TensorFlow (⭐1.6k)](https://github.com/tensorflow/mesh)
-*   [TF-Agents](https://github.com/tensorflow/agents)
+*   [TF-Agents (⭐3k)](https://github.com/tensorflow/agents)
 
 ### Deep Learning Packages / Keras Ecosystem
 
 *   [Keras](https://keras.io)
 *   [keras-contrib](https://github.com/keras-team/keras-contrib)
-*   [Hyperas](https://github.com/maxpumperla/hyperas)
+*   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐487)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
 *   [qkeras (⭐582)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
-*   [Talos](https://github.com/autonomio/talos)
+*   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -1523,7 +1529,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐73k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐11k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐299k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐302k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐29k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.5k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐18k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

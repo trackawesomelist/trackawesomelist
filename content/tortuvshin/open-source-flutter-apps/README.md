@@ -6,49 +6,63 @@ A curated, self-refreshing directory of real open-source application codebases -
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
-## [Jun 07, 2026](/content/2026/06/07/README.md)
+## [Jun 08, 2026](/content/2026/06/08/README.md)
 
-### What This Is
+### What is included
 
-*   **Learn from real apps:** inspect production patterns, architecture choices,
-    platform support, and implementation tradeoffs.
-*   **Find contribution targets:** look for active repos with issue templates,
-    contribution docs, good-first-issue labels, and recent commits.
-*   **Compare ecosystems:** browse apps by category, stack, platform, activity,
-    contribution readiness, and distribution channel.
-*   **Maintain a living catalog:** let automation refresh GitHub-shaped metadata
-    while humans focus on curation.
+*   mobile apps
+*   web apps
+*   desktop apps
+*   developer tools with app-like structure
+*   full-stack products
+*   apps useful for studying architecture, UI, data flow, auth, state management, testing, deployment, or product structure
+*   simple demos
+*   tutorials
+*   boilerplates
+*   starter templates
+*   package-only libraries
+*   abandoned repos with no learning value
+*   repos with unclear license or purpose
 
-### Inclusion Bar
+### What you can do with it
 
-*   Real application codebase, not a tutorial, demo, template, or package-only
-    library.
-*   At least **50 stars** and **50 lifetime commits** on the primary public repo.
-*   Clear license and enough project context to understand what the app does.
-*   Recent activity, or a strong reason to keep an archived project for learning
-    value.
-*   Human curation notes that explain why the app is worth listing.
+*   find real apps to study
+*   compare how different projects are structured
+*   discover apps worth contributing to
+*   look for implementation examples from working products
+*   find open-source alternatives by category
+*   explore projects beyond GitHub stars and trending pages
 
-### How The Data Works
+### How apps are reviewed
 
-*   [`validate-data.yml`](https://github.com/tortuvshin/open-source-flutter-apps/blob/main/README.md/./.github/workflows/validate-data.yml) checks schema
-    and data integrity in PRs.
-*   [`update-apps.yml`](https://github.com/tortuvshin/open-source-flutter-apps/blob/main/README.md/./.github/workflows/update-apps.yml) refreshes legacy
-    activity data.
-*   [`sync-github-metadata.yml`](https://github.com/tortuvshin/open-source-flutter-apps/blob/main/README.md/./.github/workflows/sync-github-metadata.yml)
-    syncs `schemaVersion: 1` GitHub metadata.
-*   [`cleanup-stale-apps.yml`](https://github.com/tortuvshin/open-source-flutter-apps/blob/main/README.md/./.github/workflows/cleanup-stale-apps.yml)
-    reports stale or below-bar entries before removal.
+*   Is this a real app?
+*   Can a developer understand what it does?
+*   Is the codebase useful to study?
+*   Is the license clear?
+*   Is the project active, mature, or historically useful?
+*   Does it have enough documentation or structure?
+*   Would this help someone build or improve a real product?
 
-### Local Development
+### App data
 
-*   Node.js 20 or newer
-*   pnpm, managed by Corepack
+*   name
+*   description
+*   category
+*   platform
+*   tech stack
+*   license
+*   GitHub stars
+*   forks
+*   contributors
+*   last commit date
+*   activity score
+*   maturity score
+*   learning score
+*   contribution score
+*   documentation score
+*   review notes
 
-### What This Is Not
+### For AI tools
 
-*   Not a Product Hunt clone.
-*   Not a GitHub scraper.
-*   Not a complete index of open-source apps.
-*   Not a popularity contest.
-*   Not a SaaS.
+*   <https://open-apps.dev.mn/llms.txt>
+*   <https://open-apps.dev.mn/llms-full.txt>

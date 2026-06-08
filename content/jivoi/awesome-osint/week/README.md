@@ -6,6 +6,20 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### People Investigations / GitHub
+
+*   [FinalNotes Obituary Research Guide](https://www.finalnotes.page/obituary-research-guide/) - Guide for finding obituary records, preserving source trails, and turning obituary clues into sourced family-history stories.
+
+### Other Tools / GitHub
+
+*   [PRISM (⭐41)](https://github.com/NovaCode37/Prism-platform) - Self-hosted all-in-one OSINT platform that scans a domain, IP, email, phone, or username across 22+ modules and returns threat intel, breach data, subdomains, an OPSEC score, entity graph, GeoIP map, and HTML/PDF reports. [Live demo](https://getprism.su).
+
+### Threat Intelligence / GitHub
+
+*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Threat Intelligence / GitHub
@@ -35,7 +49,7 @@
 
 ### Email Search / Email Check / GitHub
 
-*   [MailAccess (⭐30)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
+*   [MailAccess (⭐128)](https://github.com/KatrielMoses/MailAccess) - Free email OSINT tool, checks 800+ platforms, breach exposure via HIBP, infostealer logs via Hudson Rock, and builds a cross-platform identity graph with confidence scoring. `pip install mailaccess`
 
 ### Domain and IP Research / GitHub
 
@@ -1160,7 +1174,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐491)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐165k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐169k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -2113,10 +2127,6 @@
 *   [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
 ## [Nov 28 - Dec 04, 2016](/content/2016/48/README.md)
-
-### General Search
-
-*   [Impersonal.me](http://www.impersonal.me)
 
 ### Main National Search Engines
 
