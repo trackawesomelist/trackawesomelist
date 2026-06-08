@@ -1,12 +1,72 @@
 # Awesome List Updates on Jun 08, 2026
 
-7 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Polars plugins / Data Manipulation
+
+*   [polarstation (⭐0)](https://github.com/const-ae/polarstation) - Helper functions to simplify creating and working with Enums by [const-ae](https://github.com/const-ae).
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Language Essentials / String Processing
+
+*   [shaik-abdul-thouhid/ezi-code (⭐0)](https://github.com/shaik-abdul-thouhid/ezi-code) - A comprehensive Unicode library for Zig covering UTF-8/16/32 encoding, normalization (NFC/NFD/NFKC/NFKD), segmentation (grapheme/word/sentence/line), casing, BiDi, collation (UCA/DUCET), and character properties. No dependencies.
+
+### Language Essentials / File Format Processing
+
+*   [shaik-abdul-thouhid/ezi-gex (⭐0)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
+
+### Network & Web / Web3 Framework
+
+*   [cryptuon/zig-evm (⭐6)](https://github.com/cryptuon/zig-evm) - A high-performance, embeddable EVM with wave-based parallel transaction execution, work-stealing thread pool, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). Targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.
+
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+### App Releases / Roguelike
+
+*   Mortigen - [Android](https://play.google.com/store/apps/details?id=com.ler.mortigen), [iOS](https://apps.apple.com/us/app/mortigen/id6761758806) - A top-down auto-fire survival shooter where Dr. Luisen survives a biopharma outbreak through procedural labs, escalating hordes, and upgrade-driven builds. By [Luis Enrique Ruiz](https://koldo92.github.io/mortigen/).
+
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+### Documentation
+
+*   [Code Splitting (Webpack)](https://webpack.js.org/guides/code-splitting/) - Official guide to splitting JavaScript bundles for faster initial load and on-demand loading.
+
+### Image Optimizers / Meetups
+
+*   [Adaptive Images](https://adaptive-images.com/) - Server-side PHP tool that detects screen size and automatically creates, caches, and delivers device-appropriate resized images from existing `<img>` markup.
+
+### Miscellaneous / Meetups
+
+*   [react-virtualized (⭐27k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Code Runner / Quickfix
+
+*   [negativo/nx-nvim (⭐3)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+
+### UI / OS-specific
+
+*   [nvim-mini/mini.nvim#mini.input (⭐9.2k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md) - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Monitoring
+
+*   [Oh Dear](https://ohdear.app) - Uptime, performance, SSL certificate, broken link, and DNS monitoring.
+
+### Scraping
+
+*   [Geonode](https://geonode.com) - Rotating residential and datacenter proxies with REST API access.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### People Investigations / GitHub
 
@@ -20,7 +80,7 @@
 
 *   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
@@ -30,7 +90,7 @@
 
 *   [config](https://github.com/andreiavrammsd/config) - Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
@@ -45,7 +105,7 @@
 
 *   [rustmailer/bichon (⭐1.8k)](https://github.com/rustmailer/bichon) - A lightweight, high-performance email archiver with full-text search and WebUI.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### What is included
 
@@ -106,7 +166,7 @@
 *   <https://open-apps.dev.mn/llms.txt>
 *   <https://open-apps.dev.mn/llms-full.txt>
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
@@ -120,13 +180,13 @@
 
 *   [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Security_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
 
-## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Modules / Godot 4
 
 *   [Tree3D (⭐313)](https://github.com/JekSun97/gdTree3D) - A plugin for procedural generation of 3D trees in real time for gaming projects.
 
-## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Newsletters / Book Deals (Affiliated)
 
