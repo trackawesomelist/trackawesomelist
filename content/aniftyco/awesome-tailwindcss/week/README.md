@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Tools
+
+*   🎨🌍🔧 [FreeColorPalettes.co](https://freecolorpalettes.co/tints-shades) - Generates a 50–950 Tailwind CSS color scale from any hex color.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Plugins

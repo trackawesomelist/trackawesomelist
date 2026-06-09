@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 09, 2026](/content/2026/06/09/README.md)
+
+### Logging
+
+*   [GoLogX (⭐2)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+
+### Validation
+
+*   [govy (⭐45)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+
 ## [Jun 08, 2026](/content/2026/06/08/README.md)
 
 ### Artificial Intelligence
@@ -14,7 +24,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Configuration
 
-*   [config](https://github.com/andreiavrammsd/config) - Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
+*   [config (⭐0)](https://github.com/andreiavrammsd/config) - Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.
 
 ## [Jun 06, 2026](/content/2026/06/06/README.md)
 
@@ -6165,7 +6175,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [errcheck (⭐2.5k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [go-checkstyle (⭐130)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐980)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
-*   [go-critic (⭐2k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
+*   [go-critic (⭐2.1k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 *   [go-mod-outdated (⭐669)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
 *   [goast-viewer (⭐793)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
 *   [golang-ifood-sdk (⭐13)](https://github.com/arxdsilva/golang-ifood-sdk) - iFood API SDK.
@@ -6177,7 +6187,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [staticcheck (⭐6.8k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐325)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
 *   [todocheck (⭐436)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐387)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [unconvert (⭐388)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [validate (⭐62)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares

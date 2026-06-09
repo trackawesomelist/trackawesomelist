@@ -212,6 +212,7 @@ See [Vivraan/godot-lang-support (⭐553)](https://github.com/Vivraan/godot-lang-
 
 #### Godot 4
 
+*   [2dog](https://2dog.dev) - Run and control Godot in .NET, create unit tests, custom developer and CI workflows using your existing .NET tools and IDEs.
 *   [3D Auto Collision Generator (⭐94)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
 *   [AgonesSDK (⭐87)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6.9k)](https://github.com/googleforgames/agones) SDK functionality to Godot.
 *   [AnimatedShape2D (⭐227)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.

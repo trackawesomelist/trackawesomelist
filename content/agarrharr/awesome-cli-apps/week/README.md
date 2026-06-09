@@ -6,6 +6,16 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Images / Emoji
+
+*   [rclip (⭐939)](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
+
+### AI / Agents
+
+*   [toktrack (⭐155)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Entertainment / Video
@@ -632,7 +642,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐165k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐169k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

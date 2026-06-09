@@ -2,9 +2,19 @@
 
 :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/leomaurodesenv/game-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) · ⭐ 1K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/leomaurodesenv/game-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) · ⭐ 1.1K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/leomaurodesenv/game-datasets/week/README.md) / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
+
+## [Jun 09, 2026](/content/2026/06/09/README.md)
+
+### API
+
+*   [PixelGamesHub AI Games Index](https://pixelgameshub.com/ai-games/index) - Curated index of AI-powered browser games with open JSON and CSV endpoints.
+
+### Dataset / Web
+
+*   [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser games industry metrics across competitor sites, downloadable as open CSV under CC-BY-4.0.
 
 ## [Mar 12, 2026](/content/2026/03/12/README.md)
 
@@ -28,11 +38,11 @@
 ### Artificial Intelligence
 
 *   [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
-*   [MiniDungeons (⭐8)](https://github.com/sentientdesigns/minidungeons) - Procedural dungeon-like game.
+*   [MiniDungeons (⭐9)](https://github.com/sentientdesigns/minidungeons) - Procedural dungeon-like game.
 
 ### Dataset / Web
 
-*   [GamingVideoSET (⭐5)](https://github.com/NabajeetBarman/GamingHDRVideoSET) - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
+*   [GamingVideoSET (⭐6)](https://github.com/NabajeetBarman/GamingHDRVideoSET) - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
 
 ### Miscellaneous / Related
 
@@ -42,7 +52,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Esports (⭐95)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
+*   [Awesome Esports (⭐101)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -71,12 +81,6 @@
 
 *   [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
 *   [Video Games Data](https://www.kaggle.com/datasets/maso0dahmed/video-games-data) - Video games synopse.
-
-## [Aug 12, 2023](/content/2023/08/12/README.md)
-
-### API
-
-*   [Steambase](https://github.com/Steambase) - Steam data tools and insights. [Website](https://steambase.io/).
 
 ## [May 01, 2023](/content/2023/05/01/README.md)
 
@@ -154,7 +158,7 @@
 
 ### Artificial Intelligence / Mobile
 
-*   [Habitica (⭐1.7k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
+*   [Habitica (⭐1.8k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
 
@@ -196,7 +200,7 @@
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐413)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐420)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ## [Nov 04, 2019](/content/2019/11/04/README.md)
 
@@ -208,7 +212,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐6.7k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐6.8k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
@@ -232,7 +236,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐2.9k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐3k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ## [Jul 23, 2019](/content/2019/07/23/README.md)
 
@@ -251,12 +255,12 @@
 ### Dataset / Web
 
 *   [bravefrontier\_data (⭐65)](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
-*   [GTA-3D Dataset (⭐145)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
+*   [GTA-3D Dataset (⭐146)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 
 ### Dataset / Related
 
 *   [Steam Game Data (⭐32)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
-*   [Steam Review Datasets (⭐43)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
+*   [Steam Review Datasets (⭐45)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 
 ### Miscellaneous / Related
 
@@ -268,7 +272,6 @@
 
 *   [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset\&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
 *   [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
-*   [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 
 ## [May 14, 2019](/content/2019/05/14/README.md)
 
@@ -288,17 +291,17 @@
 
 *   [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 *   [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
-*   [Dungeon Crawl: Stone Soup (⭐2.8k)](https://github.com/crawl/crawl) - Roguelike adventure.
+*   [Dungeon Crawl: Stone Soup (⭐2.9k)](https://github.com/crawl/crawl) - Roguelike adventure.
 *   [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 *   [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
 *   [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 *   [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 *   [Malmo (⭐4.3k)](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-*   [microRTS (⭐344)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
+*   [microRTS (⭐353)](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR (⭐5)](https://github.com/rubensolv/MicroRTS).
 *   [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 *   [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 *   [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
-*   [qengine (⭐886)](https://github.com/klaussilveira/qengine) - Retro game engine.
+*   [qengine (⭐885)](https://github.com/klaussilveira/qengine) - Retro game engine.
 *   [Retro Contest (⭐3.6k)](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 *   [Showdown AI Competition (⭐16)](https://github.com/scotchkorean27/showdownaiclient) - Competition of Pokemon battle.
 *   [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
@@ -309,11 +312,11 @@
 ### Artificial Intelligence / Mobile
 
 *   [Pixel Dungeon (⭐3.9k)](https://github.com/watabou/pixel-dungeon) - Roguelike game.
-*   [Shattered Pixel Dungeon (⭐5.9k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
+*   [Shattered Pixel Dungeon (⭐6.2k)](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
 
 ### Artificial Intelligence / Web
 
-*   [Infinite Mario Bros (⭐520)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
+*   [Infinite Mario Bros (⭐522)](https://github.com/robertkleffner/mariohtml5) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 *   [Onslaught! Arena (⭐203)](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 *   [TapAI (⭐1)](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game.
 
@@ -335,7 +338,7 @@
 *   [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
 *   [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 *   [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
-*   [Pokémon GO Pokédex (⭐130)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
+*   [Pokémon GO Pokédex (⭐132)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 *   [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 *   [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
 *   [Scrabble (⭐1)](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
@@ -358,7 +361,7 @@
 ### Miscellaneous / Related
 
 *   [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
-*   [Awesome ACG (⭐1.4k)](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
+*   [Awesome ACG (⭐1.5k)](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
 *   [Games of Coding (⭐2.1k)](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
 *   [Games on GitHub (⭐25k)](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
 *   [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
@@ -379,11 +382,11 @@
 
 ### Artificial Intelligence
 
-*   [polyworld (⭐201)](https://github.com/polyworld/polyworld) - Artificial life system.
+*   [polyworld (⭐205)](https://github.com/polyworld/polyworld) - Artificial life system.
 
 ### Dataset / Web
 
-*   [dnddata (⭐120)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
+*   [dnddata (⭐122)](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
 
 ### Miscellaneous / Related
 
@@ -393,7 +396,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐572)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐575)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [Mar 28, 2019](/content/2019/03/28/README.md)
 
@@ -405,7 +408,7 @@
 *   [smm-maker-profile (⭐1)](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
 *   [Steam Database](https://github.com/SteamDatabase) - Series of tools to Steam data. [Website](https://steamdb.info/).
 *   [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
-*   [vgchartzScrape (⭐86)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
+*   [vgchartzScrape (⭐87)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 
 ### Artificial Intelligence
 
@@ -413,7 +416,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Digger (⭐96)](https://github.com/lutzroeder/digger) - Boulderdash game.
+*   [Digger (⭐94)](https://github.com/lutzroeder/digger) - Boulderdash game.
 
 ### Dataset / Web
 
@@ -440,7 +443,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐618)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐623)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 
@@ -483,5 +486,5 @@
 
 ### Artificial Intelligence
 
-*   [Dungeon and Cave Generation (⭐20)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
+*   [Dungeon and Cave Generation (⭐21)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 *   [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.

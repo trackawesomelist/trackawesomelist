@@ -8,6 +8,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
+### Plugins and scripts / Godot 4
+
+*   [2dog](https://2dog.dev) - Run and control Godot in .NET, create unit tests, custom developer and CI workflows using your existing .NET tools and IDEs.
+
 ### Modules / Godot 4
 
 *   [Tree3D (⭐313)](https://github.com/JekSun97/gdTree3D) - A plugin for procedural generation of 3D trees in real time for gaming projects.

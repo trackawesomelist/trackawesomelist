@@ -6,6 +6,13 @@ A curated list of Microservice Architecture related principles and technologies.
 
 [ [Daily](/content/mfornos/awesome-microservices/README.md) / Weekly / [Overview](/content/mfornos/awesome-microservices/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Testing / Scala
+
+*   [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
+*   [Specmatic](https://specmatic.io) - Converts API specifications (OpenAPI, AsyncAPI, GraphQL, gRPC etc) into executable contracts for automated testing, service virtualisation, and backward compatibility validation without writing code.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Security / Scala
@@ -17,7 +24,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Platforms
 
 *   [1Backend (⭐2.3k)](https://github.com/1backend/1backend) - AI-native microservices platform.
-*   [OpenWhisk](https://github.com/apache/openwhisk) - Serverless, open source cloud platform that executes functions in response to events at any scale.
+*   [OpenWhisk (⭐6.8k)](https://github.com/apache/openwhisk) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 
 ### Frameworks / Runtimes
 
@@ -50,7 +57,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity / Scala
 
-*   [Reactive Kafka](https://github.com/akka/alpakka-kafka) - Reactive Streams API for Apache Kafka.
+*   [Reactive Kafka (⭐1.4k)](https://github.com/akka/alpakka-kafka) - Reactive Streams API for Apache Kafka.
 
 ### Resilience / Scala
 
@@ -76,7 +83,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Workflow Orchestration / Scala
 
-*   [Inngest](https://github.com/inngest/inngest) - Durable functions for reliable background logic, from background jobs to complex workflows.
+*   [Inngest (⭐5.5k)](https://github.com/inngest/inngest) - Durable functions for reliable background logic, from background jobs to complex workflows.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
@@ -234,7 +241,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Frameworks / Runtimes
 
-*   [Spin](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+*   [Spin (⭐6.4k)](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -494,7 +501,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateways / Edge Services / Scala
 
-*   [APIcast](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
+*   [APIcast (⭐322)](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 
 ### Configuration & Discovery / Scala
 
@@ -523,7 +530,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging / Scala
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
-*   [Bull](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+*   [Bull (⭐16k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 
 ### Security / Scala
 
@@ -689,7 +696,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Serialization / Scala
 
-*   [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
+*   [FST (⭐1.6k)](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -838,7 +845,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Java VM / Java
 
-*   [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
+*   [Disruptor (⭐18k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 
 ### Java VM / Scala
 
@@ -854,7 +861,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage / Scala
 
-*   [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐78)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -987,7 +994,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Messaging / Scala
 
-*   [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+*   [Aeron (⭐8.7k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 
 ### Data Formats / Scala
 
@@ -997,7 +1004,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Frameworks / Runtimes
 
-*   [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
+*   [Erlang/OTP (⭐12k)](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 
 ### C
 
@@ -1084,7 +1091,7 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 *   [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 *   [VCR (⭐6.1k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
-*   [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
+*   [Wilma (⭐61)](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 *   [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
 ## [Oct 26 - Nov 01, 2015](/content/2015/43/README.md)
@@ -1145,7 +1152,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Haskell / Erlang
 
-*   [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+*   [Scotty (⭐1.8k)](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
 *   [Yesod (⭐2.7k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
 ### Java VM / Clojure
@@ -1188,7 +1195,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Serialization / Scala
 
-*   [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+*   [BooPickle (⭐370)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 *   [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 *   [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 *   [Cheshire (⭐1.6k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
@@ -1238,7 +1245,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Data Formats / Scala
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-*   [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐7.5k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 

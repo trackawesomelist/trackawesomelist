@@ -2,9 +2,15 @@
 
 A collection of resources covering different aspects of Gatling load testing tool usage.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aliesbelik/awesome-gatling/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aliesbelik/awesome-gatling](https://github.com/aliesbelik/awesome-gatling) · ⭐ 77 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aliesbelik/awesome-gatling/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aliesbelik/awesome-gatling](https://github.com/aliesbelik/awesome-gatling) · ⭐ 79 · 🏷️ Testing
 
 [ [Daily](/content/aliesbelik/awesome-gatling/README.md) / Weekly / [Overview](/content/aliesbelik/awesome-gatling/readme/README.md) ]
+
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Tools / Frameworks
+
+*   [Karate Gatling](https://docs.karatelabs.io/extensions/performance-testing/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
 ## [Mar 16 - Mar 22, 2026](/content/2026/11/README.md)
 
@@ -31,12 +37,12 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Plugins
 
-*   [gatling-kafka (⭐18)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
+*   [gatling-kafka (⭐17)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
 *   [gatling-wait (⭐11)](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 
 ### Tools / Reporting
 
-*   [gatling-elasticsearch (⭐16)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
+*   [gatling-elasticsearch (⭐14)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
 ### Community / Video Tutorials
 
@@ -46,14 +52,14 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Plugins
 
-*   [gatling-kafka-plugin (⭐15)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐5)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-*   [gatling-jdbc-plugin (⭐6)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐4)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-kafka-plugin (⭐21)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-amqp-plugin (⭐7)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+*   [gatling-jdbc-plugin (⭐9)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+*   [gatling-picatinny (⭐11)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 
 ### Tools / Miscellaneous
 
-*   [gatling-template.g8 (⭐3)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
+*   [gatling-template.g8 (⭐5)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -92,7 +98,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Distributed Testing
 
-*   [gatling-operator (⭐82)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
+*   [gatling-operator (⭐84)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
@@ -108,8 +114,8 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Other
 
-*   [How They Load Test (⭐151)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐234)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐164)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐243)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -132,7 +138,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Frameworks
 
-*   [Kraken (⭐118)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
+*   [Kraken (⭐119)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -150,13 +156,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Reporting
 
-*   [gatling-report (⭐125)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
-
-## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
-
-### Tools / Frameworks
-
-*   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
+*   [gatling-report (⭐126)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
@@ -171,7 +171,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐743)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐763)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
@@ -213,7 +213,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 *   [gatling-remote-sbt (⭐10)](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
 *   [gatling-junitrunner (⭐3)](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
-*   [gatling-mqtt (⭐43)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
+*   [gatling-mqtt (⭐44)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 *   [gatling-kafka (⭐67)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
 *   [gatling-sql (⭐6)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 *   [gatling-tcp-extensions (⭐23)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
@@ -223,7 +223,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Plugins
 
-*   [gatling-sbt-plugin (⭐109)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐108)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -235,7 +235,7 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Related / Awesome Lists
 
-*   [Awesome JMeter (⭐772)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome JMeter (⭐787)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 *   [Awesome Tsung (⭐23)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
@@ -271,10 +271,10 @@ A collection of resources covering different aspects of Gatling load testing too
 
 ### Tools / Plugins
 
-*   [gatling-grpc (⭐127)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+*   [gatling-grpc (⭐128)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
 *   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐2.2k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐2.3k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.

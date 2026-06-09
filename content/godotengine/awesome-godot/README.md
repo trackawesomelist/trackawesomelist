@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Jun 09, 2026](/content/2026/06/09/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [2dog](https://2dog.dev) - Run and control Godot in .NET, create unit tests, custom developer and CI workflows using your existing .NET tools and IDEs.
+
 ## [Jun 08, 2026](/content/2026/06/08/README.md)
 
 ### Modules / Godot 4

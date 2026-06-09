@@ -148,7 +148,7 @@ Inspired by the [awesome (⭐472k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.7k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐5.4k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐165k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐169k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 *   [cinema (⭐33)](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 
 ### Movies
@@ -759,6 +759,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [pageres-cli (⭐1.7k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 *   [optimizt (⭐175)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 *   [freeze (⭐4.6k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+*   [rclip (⭐939)](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
 
 ### Gif Creation
 
@@ -830,6 +831,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [actionbook (⭐1.5k)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 *   [lean-ctx (⭐2.3k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 *   [hcom (⭐300)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+*   [toktrack (⭐155)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 
 ### LLM Interaction
 
