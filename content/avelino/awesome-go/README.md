@@ -8,9 +8,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
+### Artificial Intelligence
+
+*   [trpc-agent-go (⭐1.3k)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
+
 ### Logging
 
 *   [GoLogX (⭐2)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+
+### Security
+
+*   [fort](https://github.com/djadmin/fort) - Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
 
 ### Validation
 
@@ -87,7 +95,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [GOKe (⭐35)](https://github.com/kjkrol/goke) - Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned chunked SoA layout for predictable, stepless memory growth and zero-allocation execution paths.
+*   [GOKe](https://github.com/kjkrol/goke) - Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned chunked SoA layout for predictable, stepless memory growth and zero-allocation execution paths.
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -99,7 +107,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [tldx (⭐1.8k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
+*   [tldx (⭐1.9k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
 
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
@@ -202,7 +210,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-snk (⭐3)](https://github.com/SharkByteSoftware/go-snk) - Type-safe generic helpers for slices, maps, strings, errors, JSON, HTTP, and containers, organized as small independently adoptable packages.
+*   [go-snk](https://github.com/SharkByteSoftware/go-snk) - Type-safe generic helpers for slices, maps, strings, errors, JSON, HTTP, and containers, organized as small independently adoptable packages.
 
 ## [May 07, 2026](/content/2026/05/07/README.md)
 
@@ -291,11 +299,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Mock
 
-*   [gomock (⭐6)](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
+*   [gomock](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [Fox (⭐12)](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
+*   [Fox](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
 
 ## [Apr 22, 2026](/content/2026/04/22/README.md)
 
@@ -418,7 +426,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Video
 
-*   [manifestor (⭐9)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
+*   [manifestor (⭐10)](https://github.com/alanzng/manifestor) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
 
 ## [Apr 06, 2026](/content/2026/04/06/README.md)
 
@@ -563,7 +571,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [lazyenv (⭐49)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
+*   [lazyenv (⭐50)](https://github.com/lazynop/lazyenv) - TUI for browsing, comparing, and editing .env files.
 
 ## [Mar 22, 2026](/content/2026/03/22/README.md)
 
@@ -6274,7 +6282,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐720)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐122k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐1k)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐342)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐32)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐311)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐72k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.

@@ -6,6 +6,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### no-std crates / WIP
+
+*   [embassy (⭐9.4k)](https://github.com/embassy-rs/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embedded-3dgfx](https://crates.io/crates/embedded-3dgfx): 3D engine based on `embedded-graphics` with optional physics effects. [![crates.io](https://img.shields.io/crates/v/embedded-3dgfx.svg)](https://crates.io/crates/embedded-3dgfx)
+*   [embedded-gui](https://crates.io/crates/embedded-gui): GUI library taking inspiration from the Pebble smartwatches and LVGL. [![crates.io](https://img.shields.io/crates/v/embedded-gui.svg)](https://crates.io/crates/embedded-gui)
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
@@ -60,7 +68,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [locate-rs](https://github.com/trembel/locate-rs): Microcontroller-optimized solver for Indoor Localization (Multilateration / TDOA) - [![crates.io](https://img.shields.io/crates/v/locate-rs.svg)](https://crates.io/crates/locate-rs)
+*   [locate-rs (⭐1)](https://github.com/trembel/locate-rs): Microcontroller-optimized solver for Indoor Localization (Multilateration / TDOA) - [![crates.io](https://img.shields.io/crates/v/locate-rs.svg)](https://crates.io/crates/locate-rs)
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -79,7 +87,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### no-std crates / WIP
 
 *   [hayasen (⭐30)](https://github.com/Vaishnav-Sabari-Girish/Hayasen): An Embedded Rust crate with support for multiple sensors.  [![crates.io](https://img.shields.io/crates/v/hayasen.svg)](https://crates.io/crates/hayasen)
-*   [post-haste](https://github.com/petekubiak/post-haste): A no\_std, alloc-free async Rust library for creating modular projects.
+*   [post-haste (⭐8)](https://github.com/petekubiak/post-haste): A no\_std, alloc-free async Rust library for creating modular projects.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -549,7 +557,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / WIP
 
-*   [SPL06-007](https://github.com/roxgib/SPL06-007) - I2C - Pressure and temperature sensor - [![crates.io](https://img.shields.io/crates/v/spl06-007.svg)](https://crates.io/crates/spl06-007)
+*   [SPL06-007 (⭐1)](https://github.com/roxgib/SPL06-007) - I2C - Pressure and temperature sensor - [![crates.io](https://img.shields.io/crates/v/spl06-007.svg)](https://crates.io/crates/spl06-007)
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -674,7 +682,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [drogue-device](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [drogue-device (⭐204)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
 *   [ector (⭐68)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 *   [embedded-update (⭐29)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
 *   [embedded-tls (⭐233)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
@@ -845,7 +853,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [cargo-flash](https://probe.rs/docs/tools/cargo-flash/) A small cargo subcommand to download your binary to your target chip. - [![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)](https://crates.io/crates/cargo-flash)
 *   [cargo-embed](https://probe.rs/docs/tools/cargo-embed/) A superset of cargo-flash with additional useful features like configuration file support, an RTT terminal, or a GDB server. - [![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)](https://crates.io/crates/cargo-embed)
-*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.3k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐27)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐9.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -1073,12 +1081,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Board support crates / STMicroelectronics
 
 *   [`stm32f3-discovery`](https://crates.io/crates/stm32f3-discovery) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) used in [Rust Embedded Discovery book](https://rust-embedded.github.io/discovery/index.html) - [![crates.io](https://img.shields.io/crates/v/stm32f3-discovery)](https://crates.io/crates/stm32f3-discovery)
-
-## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
-
-### no-std crates / WIP
-
-*   [embassy (⭐11)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
@@ -1500,7 +1502,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [ILI9341 (⭐72)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
 *   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - [![crates.io](https://img.shields.io/crates/v/ina260.svg)](https://crates.io/crates/ina260)
 *   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog (also compatible with LM75A, LM75B, LM75C, AT30TS75A, DS1775, DS75, DS7505, G751, MAX7500/1/2/3/4, MAX6625, MCP9800/1/2/3, STDS75, TCN75, PCT2075) - [![crates.io](https://img.shields.io/crates/v/lm75.svg)](https://crates.io/crates/lm75)
-*   [LS010B7DH01](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
+*   [LS010B7DH01 (⭐7)](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
 *   [LSM303C](https://crates.io/crates/lsm303c) - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) [![crates.io](https://img.shields.io/crates/v/lsm303c.svg)](https://crates.io/crates/lsm303c)
 *   [MAG3110 (⭐1)](https://github.com/therealprof/mag3110) - I2C - Magnetometer
 *   [MAX31865](https://crates.io/crates/max31865) - SPI - RTD to Digital converter - [![crates.io](https://img.shields.io/crates/v/max31865.svg)](https://crates.io/crates/max31865)
@@ -1555,14 +1557,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐61)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐32)](https://github.com/thejpster/vga-framebuffer-rs). [![crates.io](https://img.shields.io/crates/v/console-tratis.svg)](https://crates.io/crates/console-tratis)
 *   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - [![crates.io](https://img.shields.io/crates/v/cmim.svg)](https://crates.io/crates/cmim)
 *   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements [![crates.io](https://img.shields.io/crates/v/dcmimu.svg)](https://crates.io/crates/dcmimu)
-*   [gcode](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+*   [gcode (⭐105)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
 *   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - [![crates.io](https://img.shields.io/crates/v/heapless.svg)](https://crates.io/crates/heapless)
 *   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - [![crates.io](https://img.shields.io/crates/v/ieee802154.svg)](https://crates.io/crates/ieee802154)
 *   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - [![crates.io](https://img.shields.io/crates/v/infrared.svg)](https://crates.io/crates/infrared)
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - [![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)](https://crates.io/crates/intrusive-collections)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - [![crates.io](https://img.shields.io/crates/v/managed.svg)](https://crates.io/crates/managed)
 *   [menu (⭐61)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. [![crates.io](https://img.shields.io/crates/v/menu.svg)](https://crates.io/crates/menu)
-*   [micromath](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
+*   [micromath (⭐485)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - [![crates.io](https://img.shields.io/crates/v/micromath.svg)](https://crates.io/crates/micromath)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - [![crates.io](https://img.shields.io/crates/v/nalgebra.svg)](https://crates.io/crates/nalgebra)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - [![crates.io](https://img.shields.io/crates/v/nom.svg)](https://crates.io/crates/nom)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - [![crates.io](https://img.shields.io/crates/v/null-terminated.svg)](https://crates.io/crates/null-terminated)
@@ -1570,7 +1572,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [pc-keyboard (⭐115)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. [![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)](https://crates.io/crates/pc-keyboard)
 *   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16-bit integer to a 64-bit integer. - [![crates.io](https://img.shields.io/crates/v/qei.svg)](https://crates.io/crates/qei)
 *   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - [![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)](https://crates.io/crates/qemu-exit)
-*   [register-rs](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
+*   [register-rs (⭐50)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - [![crates.io](https://img.shields.io/crates/v/register.svg)](https://crates.io/crates/register)
 *   [scroll](https://crates.io/crates/scroll): extensible and endian-aware Read/Write traits for generic containers - [![crates.io](https://img.shields.io/crates/v/scroll.svg)](https://crates.io/crates/scroll)
 *   [smoltcp (⭐4.5k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. [![crates.io](https://img.shields.io/crates/v/smoltcp.svg)](https://crates.io/crates/smoltcp)
 *   [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - [![crates.io](https://img.shields.io/crates/v/tinybmp.svg)](https://crates.io/crates/tinybmp)

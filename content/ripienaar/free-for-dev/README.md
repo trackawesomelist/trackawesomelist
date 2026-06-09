@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 09, 2026](/content/2026/06/09/README.md)
+
+### Monitoring
+
+*   [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, and service uptime monitoring.
+
 ## [Jun 06, 2026](/content/2026/06/06/README.md)
 
 ### Payment and Billing Integration
@@ -94,7 +100,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Forms
 
-*   [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 50 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
+*   [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 100 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
 
 ## [Apr 30, 2026](/content/2026/04/30/README.md)
 
@@ -2173,12 +2179,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (\~10 PRs).
-
-## [Mar 12, 2023](/content/2023/03/12/README.md)
-
-### APIs, Data, and ML
-
-*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
 
 ## [Mar 08, 2023](/content/2023/03/08/README.md)
 

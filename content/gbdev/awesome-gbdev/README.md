@@ -6,6 +6,16 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Jun 09, 2026](/content/2026/06/09/README.md)
+
+### Game Boy Color / Opcodes
+
+*   [Colorization palettes in the BIOS](https://forums.nesdev.org/viewtopic.php?p=114388#p114388)
+
+### Related projects / Syntax highlighting packages
+
+*   [Dumping the Super Game Boy Boot ROM](https://www.its.caltech.edu/~costis/sgb_hack/)
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### C / Syntax highlighting packages
@@ -565,7 +575,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Related projects / Syntax highlighting packages
 
 *   [Programming Game Boy Chinese cartridges with an STM32F4](https://dhole.github.io/post/gameboy_cartridge_rw_1/)
-*   [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/~costis/sgb_hack/)
 
 ## [Jan 03, 2020](/content/2020/01/03/README.md)
 
@@ -644,7 +653,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Game Boy Color / Opcodes
 
 *   [Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
-*   [Colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388\&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
 
 ### Peripherals / Opcodes
 
@@ -985,8 +993,8 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### ASM / Music drivers and trackers
 
 *   [assemblydigest (⭐78)](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
-    *   [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
-    *   [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
+    *   [Making an Empty Game Boy ROM (in Wiz)](https://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
+    *   [Making Art for the Game Boy](https://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 
 ## [Jan 09, 2018](/content/2018/01/09/README.md)
 

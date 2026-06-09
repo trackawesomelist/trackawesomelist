@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Monitoring
+
+*   [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, and service uptime monitoring.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Security and PKI
@@ -84,7 +90,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Forms
 
-*   [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 50 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
+*   [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 100 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
 
 ### PaaS
 
@@ -1830,10 +1836,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
-
-### APIs, Data, and ML
-
-*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
 
 ### Authentication, Authorization, and User Management
 
