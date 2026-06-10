@@ -15,6 +15,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [tree-sitter-cl-syntax](https://codeberg.org/zshaftel/tree-sitter-cl-syntax) - another WIP grammar, ocused specifically on the syntax of the language.
     *   with a grammar for `format` directives.
 
+### Job processing / Third-party APIs
+
+*   [cl-cron (⭐22)](https://github.com/lisp-maintainers/cl-cron) - A simple tool that provides cron like facilities. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Persistent object databases
@@ -2251,10 +2255,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [physical-quantities (⭐35)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
 
-### Job processing / Third-party APIs
-
-*   [cl-cron (⭐21)](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-
 ### Online editors / Third-party APIs
 
 *   [parseq (⭐35)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
@@ -3191,7 +3191,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Job processing / Third-party APIs
 
-*   [clerk (⭐19)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT](https://opensource.org/licenses/MIT).
+*   [clerk (⭐19)](https://github.com/tsikov/clerk) - run regular or one-time jobs at given intervals. [MIT](https://opensource.org/licenses/MIT).
+    *   maintained on [lisp-maintainers/clerk (⭐13)](https://github.com/lisp-maintainers/clerk)
 
 ## [Aug 21, 2018](/content/2018/08/21/README.md)
 

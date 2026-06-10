@@ -1072,6 +1072,7 @@ then it is not supported:
 *   [vyfor/cord.nvim (⭐643)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 *   [iamt4nk/smm.nvim (⭐31)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
 *   [sanjay-np/nvim-yt-player (⭐14)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+*   [T-b-t-nchos/FMP7.nvim (⭐2)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
 
 <!--lint disable double-link -->
 
@@ -1372,6 +1373,7 @@ then it is not supported:
 *   [MunifTanjim/nui.nvim (⭐2.1k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 *   [nvim-mini/mini.nvim#mini.doc (⭐9.2k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-doc.md) - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
 *   [milisims/nvim-luaref (⭐127)](https://github.com/milisims/nvim-luaref) - A reference for built-in Lua functions.
+*   [DrKJeff16/nvim-luaref (⭐1)](https://github.com/DrKJeff16/nvim-luaref) - Forked from `milisims/nvim-luaref`, adds built-in Lua 5.1 help docs.
 *   [nvim-mini/mini.nvim#mini.test (⭐9.2k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md) - Module of `mini.nvim` with framework for writing extensive Neovim plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
 *   [ray-x/guihua.lua (⭐188)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 *   [anuvyklack/animation.nvim (⭐47)](https://github.com/anuvyklack/animation.nvim) - Create animations.
@@ -1384,7 +1386,7 @@ then it is not supported:
 *   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐92)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Neovim Lua development.
 *   [DrKJeff16/wezterm-types (⭐206)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for LuaLS, including support for community plugins.
-*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐22k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐122)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 *   [lumen-oss/lz.n (⭐278)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 *   [jrop/morph.nvim (⭐113)](https://github.com/jrop/morph.nvim) - A React-like renderer for building interactive buffers/TUIs.
@@ -1415,7 +1417,7 @@ then it is not supported:
 
 *   [DrKJeff16/pipenv.nvim (⭐8)](https://github.com/DrKJeff16/pipenv.nvim) - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
 *   [vuki656/package-info.nvim (⭐593)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim (⭐1.1k)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/import.nvim (⭐262)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 *   [Silletr/LazyDeveloperHelper (⭐17)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 *   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
@@ -1444,7 +1446,7 @@ then it is not supported:
 *   [dlyongemallo/diffview.nvim (⭐212)](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
 *   [barrettruth/diffs.nvim (⭐97)](https://github.com/barrettruth/diffs.nvim) - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 *   [kdheepak/lazygit.nvim (⭐2.3k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐393)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [aaronhallaert/advanced-git-search.nvim (⭐388)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
 *   [9seconds/repolink.nvim (⭐22)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 *   [chrisgrieser/nvim-tinygit (⭐207)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.

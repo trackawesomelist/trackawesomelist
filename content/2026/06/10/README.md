@@ -1,12 +1,52 @@
 # Awesome List Updates on Jun 10, 2026
 
-8 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Workflow Automation
+
+*   [SouravRoy-ETL/duckle (⭐380)](https://github.com/SouravRoy-ETL/duckle) - Visual-first, open-source data studio (ETL/ELT) that runs entirely on DuckDB. Drag sources, transforms and sinks onto a canvas and it compiles to plain DuckDB SQL; 300+ connectors and a built-in MCP server. [![release](https://github.com/SouravRoy-ETL/duckle/actions/workflows/release.yml/badge.svg)](https://github.com/SouravRoy-ETL/duckle/actions/workflows/release.yml)
+
+### Development tools / Static analysis
+
+*   [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) \[[zizmor](https://crates.io/crates/zizmor)] - Static analysis tool for GitHub Actions that finds security issues including template injection, credential leakage, excessive permissions, and impostor commits. [![CI](https://github.com/zizmorcore/zizmor/actions/workflows/ci.yml/badge.svg)](https://github.com/zizmorcore/zizmor/actions/workflows/ci.yml)
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / IDEs
+
+*   [Cate](https://cate.cero-ai.com) - Open-source IDE on an infinite zoomable canvas, with editor, terminal, browser, and AI agent panels arranged in a spatial workspace. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0-AI-UG/cate) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+
+### Serialization / Scala
+
+*   [Lite³ (⭐788)](https://github.com/fastserial/lite3) - JSON-compatible zero-copy serialization format.
+*   [yyjson (⭐3.8k)](https://github.com/ibireme/yyjson) - The fastest JSON library in C.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Media / Cursorline
+
+*   [T-b-t-nchos/FMP7.nvim (⭐2)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
+
+### Neovim Lua Development / Quickfix
+
+*   [DrKJeff16/nvim-luaref (⭐1)](https://github.com/DrKJeff16/nvim-luaref) - Forked from `milisims/nvim-luaref`, adds built-in Lua 5.1 help docs.
+
+## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Other / [Other](#other-1)
+
+*   **krane** :warning: — Krane is a simple Kubernetes RBAC static analysis tool.
+    It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
+
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Service Virtualization
 
@@ -16,7 +56,7 @@
 
 *   [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tree-sitter grammars
 
@@ -25,7 +65,11 @@
 *   [tree-sitter-cl-syntax](https://codeberg.org/zshaftel/tree-sitter-cl-syntax) - another WIP grammar, ocused specifically on the syntax of the language.
     *   with a grammar for `format` directives.
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+### Job processing / Third-party APIs
+
+*   [cl-cron (⭐22)](https://github.com/lisp-maintainers/cl-cron) - A simple tool that provides cron like facilities. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -218,7 +262,7 @@
 *   [Awesome public datasets (⭐76k)](https://github.com/awesomedata/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](https://hanecci.hatenadiary.org/entry/20131005/p1) - Curated list from 2013.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -229,7 +273,7 @@
 *   [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
 *   [Exchange Rate API](https://exchange-rateapi.com) - Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.
 
-## [5. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [10. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -244,13 +288,13 @@
 
 *   🆓 [Sprite Fusion](https://www.spritefusion.com/) - Free, web-based 2D tilemap editor with export to Unity, Godot, and more.
 
-## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
 *   [DocKit (⭐1.1k)](https://github.com/geek-fun/dockit) - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
 
-## [7. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [12. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Understanding Nginx
 
@@ -297,7 +341,7 @@
 *   [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 *   [An Introduction To OpenResty](https://www.openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 
-## [8. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [13. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### MCP Servers
 

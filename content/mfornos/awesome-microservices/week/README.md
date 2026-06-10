@@ -8,6 +8,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
+### Serialization / Scala
+
+*   [Lite³ (⭐788)](https://github.com/fastserial/lite3) - JSON-compatible zero-copy serialization format.
+*   [yyjson (⭐3.8k)](https://github.com/ibireme/yyjson) - The fastest JSON library in C.
+
 ### Testing / Scala
 
 *   [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
@@ -150,7 +155,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Chi (⭐22k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 *   [GoFr (⭐21k)](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
-*   [Lura (⭐6.8k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Lura](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
 
 ### Java VM / Java
 

@@ -1745,8 +1745,9 @@ See also:
 
 *   [SBCL's timers](http://www.sbcl.org/manual/#Timers), system-wide event schedulers.
 *   [psychiq (⭐56)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL][8].
-*   [cl-cron (⭐21)](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3][2].
-*   [clerk (⭐19)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT][200].
+*   [cl-cron (⭐22)](https://github.com/lisp-maintainers/cl-cron) - A simple tool that provides cron like facilities. [GPL3][2].
+*   [clerk (⭐19)](https://github.com/tsikov/clerk) - run regular or one-time jobs at given intervals. [MIT][200].
+    *   maintained on [lisp-maintainers/clerk (⭐13)](https://github.com/lisp-maintainers/clerk)
 
 # Regular expressions and string parsing
 

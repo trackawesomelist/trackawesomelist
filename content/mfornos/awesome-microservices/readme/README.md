@@ -166,7 +166,7 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Go-zero (⭐33k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 *   [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 *   [Iris (⭐26k)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
-*   [Lura (⭐6.8k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Lura](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
 *   [RPCX (⭐8.3k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Haskell
@@ -441,10 +441,12 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Jackson (⭐9.7k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐92)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 *   [Kryo (⭐6.5k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Lite³ (⭐788)](https://github.com/fastserial/lite3) - JSON-compatible zero-copy serialization format.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 *   [Protostuff (⭐2.1k)](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 *   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
+*   [yyjson (⭐3.8k)](https://github.com/ibireme/yyjson) - The fastest JSON library in C.
 
 ### Storage
 

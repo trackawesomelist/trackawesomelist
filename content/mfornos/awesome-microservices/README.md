@@ -6,6 +6,13 @@ A curated list of Microservice Architecture related principles and technologies.
 
 [ Daily / [Weekly](/content/mfornos/awesome-microservices/week/README.md) / [Overview](/content/mfornos/awesome-microservices/readme/README.md) ]
 
+## [Jun 10, 2026](/content/2026/06/10/README.md)
+
+### Serialization / Scala
+
+*   [Lite³ (⭐788)](https://github.com/fastserial/lite3) - JSON-compatible zero-copy serialization format.
+*   [yyjson (⭐3.8k)](https://github.com/ibireme/yyjson) - The fastest JSON library in C.
+
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
 ### Testing / Scala
@@ -144,7 +151,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Go / Erlang
 
 *   [Chi (⭐22k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
-*   [Lura (⭐6.8k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Lura](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
 
 ### Java VM / Java
 
