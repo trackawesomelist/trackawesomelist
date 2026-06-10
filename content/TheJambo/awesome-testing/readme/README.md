@@ -75,6 +75,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [DeepfakeHTTP (⭐526)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 *   [fakecloud (⭐311)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 *   [mockd (⭐124)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+*   [MockServer (⭐4.9k)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 *   [WireMock (⭐7.3k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 *   [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 
@@ -123,6 +124,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 
+*   [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+
 *   [UI Coverage Tool (⭐8)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
 *   [agent-qa (⭐87)](https://github.com/vostride/agent-qa) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
@@ -138,7 +141,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 *   [Synth (⭐1.5k)](https://github.com/getsynth/synth) - Open-source test data generator.
-*   [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐511)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 *   [test-each (⭐118)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ### Browser Extensions & Utilities

@@ -2,9 +2,56 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.7K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.8K · 🏷️ Back-End Development
 
 [ [Daily](/content/fcambus/nginx-resources/README.md) / Weekly / [Overview](/content/fcambus/nginx-resources/readme/README.md) ]
+
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Understanding Nginx
+
+*   [Understanding Nginx versioning](https://www.f5.com/company/blog/nginx/nginx-1-18-1-19-released)
+*   [Interview with Igor Sysoev, author of Apache's competitor NGINX](https://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
+*   [Nginx Optimization: understanding sendfile, tcp\_nodelay and tcp\_nopush](https://fv.gs/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765)
+
+### Architecture
+
+*   [Nginx Internals](https://www.slideshare.net/slideshow/nginx-internals/2028238)
+*   [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
+*   [Thread Pools in NGINX](https://www.f5.com/company/blog/nginx/thread-pools-boost-performance-9x)
+
+### Configuration
+
+*   [Useful Rewrites for Nginx](https://www.engineyard.com/blog/useful-rewrites-for-nginx/)
+*   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.f5.com/company/blog/nginx/avoiding-top-10-nginx-configuration-mistakes)
+
+### Tutorials
+
+*   [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) (\[Part 2])<https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2>))
+*   [NGINX as a WebSockets Proxy](https://www.f5.com/company/blog/nginx/websocket-nginx)
+*   [HTTP Keepalive Connections and Web Performance ](https://www.f5.com/company/blog/nginx/http-keepalives-and-web-performance)
+*   [Performing A/B Testing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/performing-a-b-testing-nginx-plus)
+*   [Improving NGINX Performance with Kernel TLS and SSL\_sendfile()](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
+
+### APIs
+
+*   [GIN - JSON-API framework](https://gin.io/)
+*   [Kong - Management Layer for Microservices and APIs (⭐44k)](https://github.com/kong/kong)
+
+### Tips
+
+*   [Things you didn't know Nginx could do](https://www.slideshare.net/slideshow/5-things-you-didnt-know-nginx-could-do/35181267)
+
+### Nginx + njs
+
+*   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.f5.com/company/blog/nginx/make-nginx-config-even-more-modular-reusable-njs-0-7-7)
+*   [Diagnostic logging with the NGINX JavaScript module](https://www.f5.com/company/blog/nginx/diagnostic-logging-nginx-javascript-module)
+*   [Using NGINX as an Object Storage Gateway via njs](https://blog.nginx.org/blog/using-nginx-as-object-storage-gateway/)
+
+### OpenResty
+
+*   [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
+*   [An Introduction To OpenResty](https://www.openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 
 ## [Feb 23 - Mar 01, 2026](/content/2026/8/README.md)
 
@@ -20,10 +67,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Collection of njs use cases (⭐9)](https://github.com/f5devcentral/nginx-njs-usecases)
 *   [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
 *   [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
-*   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
-*   [Diagnostic logging with the NGINX JavaScript module](https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/)
 *   [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
-*   [Using NGINX as an Object Storage Gateway via njs](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/)
 *   [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
@@ -32,18 +76,11 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 *   [Nginx common configuration - Universal config and snippets (⭐585)](https://github.com/tldr-devops/nginx-common-configuration)
 
-## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
-
-### Tutorials
-
-*   [Improving NGINX Performance with Kernel TLS and SSL\_sendfile()](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
-
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
 ### Configuration
 
-*   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer (⭐8.6k)](https://github.com/yandex/gixy) - Maintained forks: [gixy-ng (⭐1.1k)](https://github.com/dvershinin/gixy), [gixy-next (⭐141)](https://github.com/MegaManSec/Gixy-Next)
+*   [Gixy - Nginx configuration static analyzer (⭐8.6k)](https://github.com/yandex/gixy) - Maintained forks: [gixy-ng (⭐1.2k)](https://github.com/dvershinin/gixy), [gixy-next](https://github.com/MegaManSec/Gixy-Next)
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
@@ -60,25 +97,19 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Nginx + Lua
 
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐217)](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐221)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
-
-### Understanding Nginx
-
-*   [Nginx Optimization: understanding sendfile, tcp\_nodelay and tcp\_nopush](https://thoughts.t37.net/nginx-optimization-understanding-sendfile-tcp-nodelay-and-tcp-nopush-c55cdd276765)
 
 ### Architecture
 
 *   [The Architecture of Open Source Applications (Volume 2): nginx](https://aosabook.org/en/nginx.html)
 *   [Nginx discovery journey](https://www.nginx-discovery.com/)
-*   [Nginx Internals](https://www.slideshare.net/joshzhu/nginx-internals)
 
 ### Configuration
 
 *   [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 *   [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
-*   [Useful Rewrites for Nginx](https://blog.engineyard.com/useful-rewrites-for-nginx)
 *   [Nginx Configuration Primer](https://blog.martinfjordvald.com/nginx-primer/)
 *   [Nginx Primer 2: From Apache to Nginx](https://blog.martinfjordvald.com/nginx-primer-2-from-apache-to-nginx/)
 *   [Understanding the Nginx Configuration Inheritance Model](https://blog.martinfjordvald.com/understanding-the-nginx-configuration-inheritance-model/)
@@ -88,7 +119,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 *   [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 *   [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
-*   [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part-2/))
 *   [Optimizing Nginx for High Traffic Loads](https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/)
 
 ### Modules development
@@ -97,20 +127,10 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
 *   [Advanced Topics In Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide-advanced.html)
 
-### APIs
-
-*   [Outbound API rate limits: the nginx way](https://www.monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way)
-*   [Using Nginx to comply with a third-party API's rate limits](https://vitobotta.com/2014/01/12/nginx-rate-limits/)
-*   [Kong - Management Layer for Microservices and APIs](https://konghq.com/kong/)
-
 ### Hacks
 
 *   [Using Environment Variables In Nginx.conf](https://web.archive.org/web/20170712003702/https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
 *   [Nginx: a caching, thumbnailing, reverse proxying image server?](https://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
-
-### Tips
-
-*   [Things you didn't know Nginx could do](https://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do)
 
 ### Nginx + Lua
 
@@ -118,7 +138,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Adding OAuth Support to Nginx via Lua](https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 *   [Scripting libdrizzle with Lua inside Nginx](https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐46)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐47)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 
 ### OpenResty
@@ -126,8 +146,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Lapis - A web framework for Lua or MoonScript powered by OpenResty](https://leafo.net/lapis/)
 *   [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
 *   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source (⭐9)](https://github.com/lusis/sysadvent-2014))
-*   [Ceryx - A dynamic reverse proxy](https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
-*   [An Introduction To OpenResty](https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 *   [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)
 
 ### Tengine
@@ -172,12 +190,11 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Understanding Nginx
 
-*   [Interview with Igor Sysoev, author of Apache's competitor NGINX](http://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
 *   [The case for Nginx in front of application servers](https://www.cambus.net/the-case-for-nginx-in-front-of-application-servers/)
 
 ### Configuration
 
-*   [Nginx Boilerplate - Configuration template and a set of handy must-have snippets (⭐2.4k)](https://github.com/nginx-boilerplate/nginx-boilerplate)
+*   [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate)
 
 ### Tutorials
 
@@ -200,19 +217,9 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Tengine
 
-*   [Difference between OpenResty and Tengine (⭐14k)](https://github.com/openresty/openresty/issues/54)
-
-## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
-
-### Tutorials
-
-*   [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
+*   [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54)
 
 ## [Feb 22 - Feb 28, 2016](/content/2016/8/README.md)
-
-### APIs
-
-*   [GIN - JSON-API framework](http://gin.io/)
 
 ### OpenResty
 
@@ -223,21 +230,10 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Understanding Nginx
 
 *   [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
-*   [Understanding Nginx versioning](https://www.nginx.com/blog/nginx-1-6-1-7-released/)
-
-### Architecture
-
-*   [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-*   [Thread Pools in NGINX](https://www.nginx.com/blog/thread-pools-boost-performance-9x/)
 
 ### Configuration
 
 *   [Nginx Pitfalls](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
-
-### Tutorials
-
-*   [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
-*   [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
 
 ### Hacks
 
@@ -248,10 +244,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 *   [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
 *   [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
-
-### Talks
-
-*   [NGINX Conference](https://www.nginx.com/nginxconf/)
 
 ## [Nov 09 - Nov 15, 2015](/content/2015/45/README.md)
 

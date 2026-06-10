@@ -606,6 +606,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Doppler](https://doppler.com/) - Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for five users with basic access controls.
 *   [Dotenv](https://dotenv.org/) - Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
 *   [GitGuardian](https://www.gitguardian.com) - Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files - Free for individuals and teams of 25 developers or less.
+*   [Guardfos Scanner](https://guardfos.com/scanner) - Free online WordPress security scanner. No credit card or account required. Results are available instantly.
 *   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 *   [Have I been pwned?](https://haveibeenpwned.com) - REST API for fetching the information on the breaches.
 *   [hostedscan.com](https://hostedscan.com) - Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
@@ -1513,6 +1514,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Payment and Billing Integration
 
 *   [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
+*   [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
 *   [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.
 *   [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
 *   [Currencyapi](https://currencyapi.com) - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
@@ -1520,6 +1522,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [CurrencyFreaks](https://currencyfreaks.com/) - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
 *   [currencylayer](https://currencylayer.com/) - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
 *   [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
+*   [Exchange Rate API](https://exchange-rateapi.com) - Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.
 *   [FraudLabsPRO](https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 *   [FxRatesAPI](https://fxratesapi.com) - Provides real-time and historical exchange rates. The free tier requires attribution.
 *   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. The free tier offers 30,000 events/month.

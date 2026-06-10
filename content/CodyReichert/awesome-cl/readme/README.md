@@ -99,6 +99,7 @@ sellers who aren't evil for physical resources.
 *   [Implementations](#implementations)
 *   [Language libraries](#language-libraries)
     *   [Lisp parsers](#lisp-parsers)
+    *   [Tree-sitter grammars](#tree-sitter-grammars)
 *   [Language extensions](#language-extensions)
     *   [Pattern matching](#pattern-matching)
     *   [Portability layers](#portability-layers)
@@ -772,7 +773,6 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 These are bindings:
 
 *   [glfw (⭐37)](https://github.com/shirakumo/glfw) - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
-*   [common-cv (⭐70)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 *   [cl-cairo2 (⭐67)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
 *   [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD][39].
 *   [cl-horde3d (⭐15)](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0][59]
@@ -924,6 +924,13 @@ See also:
 See also:
 
 *   [breeze (⭐26)](https://github.com/fstamour/breeze/) - experiments on workflows for Common Lisp. WIP.
+
+## Tree-sitter grammars
+
+*   [tree-sitter-commonlisp (⭐64)](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) -  Common Lisp grammar for tree-sitter. MIT.
+    *   still Work In Progress.
+*   [tree-sitter-cl-syntax](https://codeberg.org/zshaftel/tree-sitter-cl-syntax) - another WIP grammar, ocused specifically on the syntax of the language.
+    *   with a grammar for `format` directives.
 
 # Language extensions
 

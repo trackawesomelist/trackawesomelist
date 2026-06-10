@@ -6,6 +6,15 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Tree-sitter grammars
+
+*   [tree-sitter-commonlisp (⭐64)](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) -  Common Lisp grammar for tree-sitter. MIT.
+    *   still Work In Progress.
+*   [tree-sitter-cl-syntax](https://codeberg.org/zshaftel/tree-sitter-cl-syntax) - another WIP grammar, ocused specifically on the syntax of the language.
+    *   with a grammar for `format` directives.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Persistent object databases
@@ -369,7 +378,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [CMUCL](http://www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
 *   [cl-all](https://codeberg.org/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   👍 [serapeum (⭐500)](https://github.com/ruricolist/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
@@ -1318,7 +1327,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   [hu.dwim.walker (⭐10)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
@@ -1632,7 +1641,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [CommonQt5 (⭐35)](https://github.com/commonqt/commonqt5/) - bindings for Qt5.
         *   warn: currently difficult to install. Used in production© by SISCOG.
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 
@@ -2579,7 +2588,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
     *   has a web view.
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   [rutils (⭐264)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
@@ -2598,7 +2607,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [modf (⭐71)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
 *   👍 [access (⭐91)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   [generic-cl (⭐161)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT](https://opensource.org/licenses/MIT).
     *   see also the more lightweight [equals (⭐9)](https://github.com/karlosz/equals/) [MIT](https://opensource.org/licenses/MIT).
@@ -2961,7 +2970,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Miscellaneous
 
-*   [common-cv (⭐70)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 *   [ftw (⭐70)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
@@ -3108,7 +3116,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   depends on YASON
     *   for JSON libraries that don't do it natively (jzon, shasht and cl-json are able to *encode* CLOS objects to JSON out of the box, and cl-json has the ability to *decode* JSON objects into a "fluid-class" CLOS object.)
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   [arrow-macros (⭐142)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
@@ -3228,7 +3236,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [peercoin-calculator (⭐2)](https://github.com/glv2/peercoin-calculator) - This program gives you the probability of generating a POS or POW block within 10 minutes, 24 hours, 31 days, 90 days and 1 year, as well as the reward that can be expected. GUI in Qt. [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
 *   [peercoin-vote (⭐5)](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (addresses and balances). [GPL3](http://www.gnu.org/copyleft/gpl.html). Not in Quicklisp.
 
-### Lisp parsers
+### Tree-sitter grammars
 
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 

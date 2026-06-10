@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 10, 2026](/content/2026/06/10/README.md)
+
+### Security and PKI
+
+*   [Guardfos Scanner](https://guardfos.com/scanner) - Free online WordPress security scanner. No credit card or account required. Results are available instantly.
+
+### Payment and Billing Integration
+
+*   [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
+*   [Exchange Rate API](https://exchange-rateapi.com) - Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.
+
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
 ### Monitoring

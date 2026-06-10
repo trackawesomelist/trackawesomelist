@@ -6,6 +6,16 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Software / Service Virtualization
+
+*   [MockServer (⭐4.9k)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
+
+### Software / UI & End-to-End Testing
+
+*   [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Software / UI & End-to-End Testing
@@ -332,7 +342,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐511)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
