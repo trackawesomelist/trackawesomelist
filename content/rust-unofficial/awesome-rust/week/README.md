@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
+### Applications
+
+*   [provrb/OBDium (⭐232)](https://github.com/provrb/obdium) - A cross-platform Tauri-based application for everything vehicle diagnostics. Connect your vehicle over an ELM327 adapter and read trouble codes, live OBD-II data, I/M readiness tests, and more!
+
 ### Applications / Database
 
 *   [microsoft/pg\_durable (⭐1.8k)](https://github.com/microsoft/pg_durable) - Durable execution inside PostgreSQL. Long-running, fault-tolerant SQL functions with automatic checkpointing, crash recovery, and parallel execution. Zero infrastructure - runs as a PostgreSQL extension built with pgrx and Rust. [![License](https://img.shields.io/badge/license-PostgreSQL%20License-3d86c6.svg)](https://github.com/rust-unofficial/awesome-rust/blob/main/README.md/LICENSE.txt)
@@ -830,7 +834,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Video
 
-*   [screencapturekit-rs](https://github.com/doom-fish/screencapturekit-rs) \[[screencapturekit](https://crates.io/crates/screencapturekit)] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture [![Build Status](https://github.com/doom-fish/screencapturekit-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/doom-fish/screencapturekit-rs/actions)
+*   [screencapturekit-rs (⭐217)](https://github.com/doom-fish/screencapturekit-rs) \[[screencapturekit](https://crates.io/crates/screencapturekit)] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture [![Build Status](https://github.com/doom-fish/screencapturekit-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/doom-fish/screencapturekit-rs/actions)
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -4908,7 +4912,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐164)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
 
 ## [Jul 08 - Jul 14, 2019](/content/2019/27/README.md)
 
