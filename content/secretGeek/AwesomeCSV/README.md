@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/secretGeek/AwesomeCSV/week/README.md) / [Overview](/content/secretGeek/AwesomeCSV/readme/README.md) ]
 
+## [Jun 11, 2026](/content/2026/06/11/README.md)
+
+### Tools
+
+*   [csvtodashboard](https://csvtodashboard.com) - Convert, clean, query (SQL) and visualize CSV entirely in the browser - local-first, nothing is uploaded.
+
 ## [Jun 07, 2026](/content/2026/06/07/README.md)
 
 ### Tools
