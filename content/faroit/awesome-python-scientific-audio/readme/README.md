@@ -42,7 +42,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-*   Total number of packages: 66
+*   Total number of packages: 67
 
 #### Read-Write
 
@@ -50,10 +50,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 *   [audioread (⭐536)](https://github.com/beetbox/audioread) [:octocat: (⭐536)](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
 *   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.9k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 *   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐3.2k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
+*   [pyfar](https://pyfar.readthedocs.io) [:octocat: (⭐129)](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Read audio files, SOFA files, and COMSOL data with the [pyfar.io](https://pyfar.readthedocs.io/en/stable/modules/pyfar.io.html) module.
 *   [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: (⭐14)](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 *   [pySox (⭐538)](https://github.com/rabitt/pysox) [:octocat: (⭐538)](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
 *   [stempeg (⭐107)](https://github.com/faroit/stempeg) [:octocat: (⭐107)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
-*   [tinytag (⭐813)](https://github.com/devsnd/tinytag) [:octocat: (⭐813)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
+*   [tinytag (⭐817)](https://github.com/devsnd/tinytag) [:octocat: (⭐817)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 #### Transformations - General DSP
 
@@ -66,6 +67,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 *   [matchering (⭐2.5k)](https://github.com/sergree/matchering) [:octocat: (⭐2.5k)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
 *   [MDCT (⭐55)](https://github.com/nils-werner/mdct) [:octocat: (⭐55)](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) - MDCT transform.
 *   [pydub](http://pydub.com) [:octocat: (⭐9.8k)](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
+*   [pyfar](https://pyfar.readthedocs.io) [:octocat: (⭐129)](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
 *   [pytftb](http://tftb.nongnu.org) [:octocat: (⭐279)](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
 *   [pyroomacoustics (⭐1.9k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.9k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
 *   [PyRubberband (⭐218)](https://github.com/bmcfee/pyrubberband) [:octocat: (⭐218)](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
@@ -184,6 +186,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 *   [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat: (⭐1.3k)](https://github.com/stevetjoa/stanford-mir) - collection of instructional iPython Notebooks for music information retrieval (MIR).
 *   [Selected Topics in Audio Signal Processing (⭐69)](https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises as iPython notebooks.
 *   [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. [Code (⭐18)](https://github.com/cool-RR/python_synthesizer).
+*   [pyfar examples](https://pyfar-gallery.readthedocs.io/en/latest/examples_gallery.html) - Introduction and examples for the python packages for acoustics research (pyfar).
 
 ## Books
 
@@ -204,7 +207,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Related lists
 
-There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python (⭐299k)](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
+There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python (⭐302k)](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
 
 ## Contributing
 

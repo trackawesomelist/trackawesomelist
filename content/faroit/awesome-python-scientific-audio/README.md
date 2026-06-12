@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/faroit/awesome-python-scientific-audio/week/README.md) / [Overview](/content/faroit/awesome-python-scientific-audio/readme/README.md) ]
 
+## [Jun 12, 2026](/content/2026/06/12/README.md)
+
+### Audio Related Packages
+
+*   Total number of packages: 67
+
+### Audio Related Packages / Transformations - General DSP
+
+*   [pyfar](https://pyfar.readthedocs.io) [:octocat: (⭐129)](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
+
+### Tutorials / Wrappers for Audio Plugins
+
+*   [pyfar examples](https://pyfar-gallery.readthedocs.io/en/latest/examples_gallery.html) - Introduction and examples for the python packages for acoustics research (pyfar).
+
 ## [May 29, 2026](/content/2026/05/29/README.md)
 
 ### Audio Related Packages / Speech Processing
@@ -127,10 +141,6 @@
 *   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐3.2k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
 ## [Oct 23, 2019](/content/2019/10/23/README.md)
-
-### Audio Related Packages
-
-*   Total number of packages: 66
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -273,7 +283,7 @@
 
 *   [audioread (⭐536)](https://github.com/beetbox/audioread) [:octocat: (⭐536)](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
 *   [pySox (⭐538)](https://github.com/rabitt/pysox) [:octocat: (⭐538)](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
-*   [tinytag (⭐813)](https://github.com/devsnd/tinytag) [:octocat: (⭐813)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
+*   [tinytag (⭐817)](https://github.com/devsnd/tinytag) [:octocat: (⭐817)](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Audio Related Packages / Transformations - General DSP
 
