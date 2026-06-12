@@ -1,8 +1,8 @@
 # Collective Ai Tools Overview
 
-AI tools platform with 800+ curated tools, built-in workspace tools, and job board for developers and researchers.
+AI tools platform with 800+ curated tools, built-in workspace tools for developers and researchers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) · ⭐ 186 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/collective-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) · ⭐ 189 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools, and job boa
 # collectiveai.tools
 
 > Explore a curated selection of AI tools and resources.
-> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐186)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐186)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+> We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐189)](https://github.com/Hyraze/collective-ai-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐189)](https://github.com/Hyraze/collective-ai-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/collective-ai-tools)
@@ -436,7 +436,7 @@ Use these hashtags in search to filter out the tools
 *   [Fitten Code](https://code.fitten.com/) - Jittor framework high-speed completion tool. \`\`
 *   [Fronty](https://fronty.com/) - Converts image/screenshots to HTML/CSS. \`\`
 *   [Genie](https://genie.ai/) - Simulating human engineer cognitive processes. \`\`
-*   [Gemini CLI (⭐104k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
+*   [Gemini CLI (⭐105k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
 *   [Groq](https://groq.com/) - Ultra-fast LLM inference API with free tier for Llama, Mixtral, and Gemma models. `#freemium`
 *   [HeyCLI](https://heycli.com/) - Natural language execution for Linux terminals. \`\`
@@ -452,13 +452,14 @@ Use these hashtags in search to filter out the tools
 *   [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 *   [Ollama](https://ollama.com/) - Run LLMs locally with GPU acceleration. Llama, Mistral, DeepSeek, Gemma and more. `#free` `#opensource`
 *   [n8n](https://n8n.io/) - Open-source workflow automation with AI agent nodes, MCP support, and 400+ integrations. `#freemium` `#opensource`
-*   [OpenCode (⭐165k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
+*   [OpenCode (⭐174k)](https://github.com/anomalyco/opencode) - Open-source terminal AI coding agent with skills, MCP, and custom workflows. `#free` `#opensource`
 *   [Plandex](https://plandex.ai/) - Terminal AI agent for large-scale projects. `#free`
 *   [QueryCraft](https://querycraft.ai/) - AI-Powered Data Query Generator `#free`
 *   [Quest AI](https://www.quest.ai/) - Intelligent Q\&A and info retrieval for dev. \`\`
 *   [Replit Agent](https://replit.com/ai) - Creates mobile APPs in just 2 minutes. \`\`
 *   [Replit Ghostwriter](https://replit.com/ghostwriter) - AI-powered code generation and completion in the browser. `#freemium`
-*   [ReviewCerberus (⭐26)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
+*   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
+*   [ReviewCerberus (⭐27)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - AI-powered tutor for math and coding problems. `#free`
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`

@@ -6,6 +6,12 @@ Find primary sources online and learn how to research history digitally.
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / Weekly / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Archives and primary sources / Global
+
+*   [mural.ch](https://www.mural.ch/) - Inventory of murals from all around the world, from the 19th century until today. Contains more than 13’000 records, with a focus on the 1920s to 1950s.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Archives and primary sources / Africa
@@ -447,7 +453,7 @@ Find primary sources online and learn how to research history digitally.
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Research Tools (⭐2.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
 *   [Scientific Writing (⭐947)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 

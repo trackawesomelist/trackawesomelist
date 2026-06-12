@@ -116,6 +116,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - Book search engine for finding hundreds of millions of media in catalogs worldwide.
 *   [Marxist Internet Archive](https://www.marxists.org/) - Everything you ever wanted to know about Marx (and other important socialists).
 *   [Mementoweb](https://mementoweb.org/) - Find archived web pages in Internet Archive, Archive-It, British Library, archive.today, and GitHub.
+*   [mural.ch](https://www.mural.ch/) - Inventory of murals from all around the world, from the 19th century until today. Contains more than 13’000 records, with a focus on the 1920s to 1950s.
 *   [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 *   [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 *   [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
@@ -226,7 +227,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ## More Awesome
 
 *   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization (⭐4.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
 *   [Scientific Writing (⭐947)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.

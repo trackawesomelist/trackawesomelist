@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 12, 2026](/content/2026/06/12/README.md)
+
+### Resource / OS-specific
+
+*   [ChuYanLon/chad46 (⭐3)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
+
 ## [Jun 10, 2026](/content/2026/06/10/README.md)
 
 ### Media / Cursorline
@@ -64,11 +70,11 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Assembly
 
-*   [adriancmiranda/glimpse.nvim (⭐2)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+*   [adriancmiranda/glimpse.nvim (⭐4)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 
 ### Editing Support / Comment
 
-*   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
+*   [kuri-sun/todoage.nvim (⭐22)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
 
 ## [May 21, 2026](/content/2026/05/21/README.md)
 
@@ -127,7 +133,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Statusline
 
-*   [tajirhas9/muslim.nvim (⭐35)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+*   [tajirhas9/muslim.nvim (⭐36)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
@@ -1182,7 +1188,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐23k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐122)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 *   [lumen-oss/lz.n (⭐278)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 
@@ -5100,7 +5106,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Quickfix
 
-*   [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐1.1k)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Editing Support / Scrollbar
 
@@ -5411,7 +5417,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐396)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 

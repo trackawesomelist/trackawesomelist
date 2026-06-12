@@ -26,6 +26,10 @@ A curated list of Rust code and resources.
 *   Discord
     *   [concord (⭐663)](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord.
 
+### Applications / Text processing
+
+*   [harehare/mq (⭐430)](https://github.com/harehare/mq) - A command-line tool and library for processing Markdown using a jq-like syntax [![build badge](https://github.com/harehare/mq/actions/workflows/ci.yml/badge.svg)](https://github.com/harehare/mq/actions/workflows/ci.yml)
+
 ### Applications / Utilities
 
 *   [Thoth (⭐58)](https://github.com/anitnilay20/thoth) - A high-performance, feature-rich desktop application for viewing and exploring JSON and NDJSON files, with WASM-based plugin support. [![CI](https://github.com/anitnilay20/thoth/workflows/CI/badge.svg)](https://github.com/anitnilay20/thoth/actions/workflows/ci.yml)

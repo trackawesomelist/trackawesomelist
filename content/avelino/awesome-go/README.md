@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jun 12, 2026](/content/2026/06/12/README.md)
 
+### SQL Query Builders
+
+*   [sqlh (⭐1)](https://github.com/kirill-scherba/sqlh) - Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).
+
 ### Markup Languages
 
 *   [mdsmith (⭐7)](https://github.com/jeduden/mdsmith) - fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.

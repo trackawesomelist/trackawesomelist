@@ -652,7 +652,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Enigama/miss.nvim (⭐12)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 *   [vodchella/hodur.nvim (⭐20)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 *   [A7Lavinraj/fyler.nvim (⭐721)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
-*   [adriancmiranda/glimpse.nvim (⭐2)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+*   [adriancmiranda/glimpse.nvim (⭐4)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 
 <!--lint disable double-link -->
 
@@ -990,7 +990,7 @@ then it is not supported:
 *   [Mr-LLLLL/lualine-ext.nvim (⭐21)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 *   [mikesmithgh/git-prompt-string-lualine.nvim (⭐27)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 *   [sschleemilch/slimline.nvim (⭐134)](https://github.com/sschleemilch/slimline.nvim) - A slim, minimal and opinionated Lua statusline.
-*   [tajirhas9/muslim.nvim (⭐35)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
+*   [tajirhas9/muslim.nvim (⭐36)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Tabline
 
@@ -1386,7 +1386,7 @@ then it is not supported:
 *   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐92)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Neovim Lua development.
 *   [DrKJeff16/wezterm-types (⭐206)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for LuaLS, including support for community plugins.
-*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐23k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 *   [BirdeeHub/lze (⭐122)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 *   [lumen-oss/lz.n (⭐278)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 *   [jrop/morph.nvim (⭐113)](https://github.com/jrop/morph.nvim) - A React-like renderer for building interactive buffers/TUIs.
@@ -1417,7 +1417,7 @@ then it is not supported:
 
 *   [DrKJeff16/pipenv.nvim (⭐8)](https://github.com/DrKJeff16/pipenv.nvim) - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
 *   [vuki656/package-info.nvim (⭐593)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐1.1k)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/import.nvim (⭐262)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 *   [Silletr/LazyDeveloperHelper (⭐17)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 *   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
@@ -1446,7 +1446,7 @@ then it is not supported:
 *   [dlyongemallo/diffview.nvim (⭐212)](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
 *   [barrettruth/diffs.nvim (⭐97)](https://github.com/barrettruth/diffs.nvim) - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 *   [kdheepak/lazygit.nvim (⭐2.3k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐396)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [aaronhallaert/advanced-git-search.nvim (⭐388)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your Git history by commit content, message and author with Telescope.
 *   [9seconds/repolink.nvim (⭐22)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
 *   [chrisgrieser/nvim-tinygit (⭐207)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.
@@ -1700,7 +1700,7 @@ then it is not supported:
 *   [b3nj5m1n/kommentary (⭐532)](https://github.com/b3nj5m1n/kommentary) - Commenting plugin written in Lua.
 *   [gennaro-tedesco/nvim-commaround (⭐42)](https://github.com/gennaro-tedesco/nvim-commaround) - Fast and light commenting plugin written in Lua.
 *   [folke/todo-comments.nvim (⭐4.1k)](https://github.com/folke/todo-comments.nvim) - Highlight, list and search TODO comments in your projects.
-*   [kuri-sun/todoage.nvim (⭐15)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
+*   [kuri-sun/todoage.nvim (⭐22)](https://github.com/kuri-sun/todoage.nvim) - Show how old your TODOs are.
 *   [alexmozaidze/tree-comment.nvim (⭐12)](https://github.com/alexmozaidze/tree-comment.nvim) - Highlight and configure TODO comments for [tree-sitter-comment (⭐168)](https://github.com/stsewd/tree-sitter-comment).
 *   [terrortylor/nvim-comment (⭐497)](https://github.com/terrortylor/nvim-comment) - Toggle comments using the built-in commentstring option.
 *   [winston0410/commented.nvim (⭐114)](https://github.com/winston0410/commented.nvim) - A commenting plugin which supports counts and multiple comment patterns and much more.
@@ -2116,6 +2116,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist (⭐248)](ht
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 *   [Weyaaron/nvim-training (⭐125)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 *   [Nvim.app](https://nvim.app) - A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors.
+*   [ChuYanLon/chad46 (⭐3)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 
 <!--lint disable double-link -->
 
