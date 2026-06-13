@@ -2,7 +2,7 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 368 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 403 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / Overview ]
 
@@ -26,7 +26,9 @@ A curated list of tools and resources for Amazon sellers.
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 *   [Advigator](https://www.advigator.com) - Amazon Advertising Software
 *   [AiHello AutoPilot](https://www.aihello.com/) - Amazon PPC Ads Automation Software.
+*   [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. Residential proxies and TLS impersonation handled server-side. 1000 free requests on signup.
 *   [Amzmailer](https://amzmailer.com/) - Feedback software and email autoresponder to send Amazon customers automated emails.
+*   *   [amztool](https://amztool.me) - Open-web Sponsored Products bulk-sheet generator. Reusable keyword dictionaries, one-click ad-group cloning, exports upload-ready .xlsx. Free tier. Companion [open spec](https://github.com/lizhl6/amazon-sp-bulk-sheet-spec) describes the schema.
 *   [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
 *   [ASINspector](https://asinspector.com/) - Sales trend data, unique product ideas, mobile scanner, best-seller rankings.
 *   [BQool](https://www.bqool.com/) - Scheduled repricing, compete against buy box price, comprehensive dashboard & reports, repricing history log.
@@ -40,10 +42,12 @@ A curated list of tools and resources for Amazon sellers.
 *   [Forecastly](https://www.forecast.ly/) - Predict future product demand, make fast and accurate buying decisions.
 *   [ForecastRx](https://www.forecastrx.com/) - Inventory forecasting solution. Projects future demand so you can purchase the right product, in the right quantity, at the right time.
 *   [Helium10](https://www.helium10.com/) - Software suite contains over a dozen tools that help find high ranking keywords, identify trends, monitor competitors, and fully optimize product listings to increase sales.
+*   [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce product photos. Background removal, image generation, inpainting, upscaling, and virtual try-on. Browser-based, no signup required.
 *   [HelloProfit](https://helloprofit.com/) - Lets you view all your sales & profit data from different merchant accounts from one dashboard.
 *   [Jungle Scout](https://www.junglescout.com/) - Track and compare key product metrics, database allows you to filter products across multiple categories by demand, price, estimated sales, rating, seasonality, dimensions and more, find out which products sell and which niches have high opportunity.
 *   [Keyword Tool](https://keywordtool.io/amazon) - Finds great keywords using Amazon autocomplete.
 *   [MerchantWords](https://www.merchantwords.com/) - Finds highly specific keyword phrases that help buyers find what you are selling.
+*   [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit tool for comparing item dimensions against carton and mailer options before FBA or merchant-fulfilled shipping.
 *   [Prestozon](https://prestozon.com/) - Automation and analytics for Amazon HSA & sponsored products ads.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 *   [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
@@ -82,6 +86,7 @@ A curated list of tools and resources for Amazon sellers.
 
 ## Other
 
+*   [chdh-tools-dataset (⭐4)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 *   [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 *   [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.
 *   [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.

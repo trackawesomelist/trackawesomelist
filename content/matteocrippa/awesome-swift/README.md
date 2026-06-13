@@ -6,27 +6,37 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Jun 13, 2026](/content/2026/06/13/README.md)
+
+### Quality / Barcode
+
+*   [solid-like-a-rock (⭐24)](https://github.com/nenadvulic/solid-like-a-rock) :penguin: - Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.
+
+### Calendar / Barcode
+
+*   [Yotei (⭐129)](https://github.com/claustrofob/Yotei) - A modular, customizable SwiftUI/UIKit calendar package for iOS.
+
 ## [May 05, 2026](/content/2026/05/05/README.md)
 
 ### Chat
 
-*   [swiftui-messaging-ui (⭐45)](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
+*   [swiftui-messaging-ui (⭐53)](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ## [Apr 11, 2026](/content/2026/04/11/README.md)
 
 ### AI
 
-*   [EdgeRunner (⭐32)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
+*   [EdgeRunner (⭐36)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 
 ## [Mar 29, 2026](/content/2026/03/29/README.md)
 
 ### AI
 
-*   [Fazm (⭐180)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+*   [Fazm (⭐258)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 
 ### Security / Barcode
 
-*   [TouchBridge (⭐193)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
+*   [TouchBridge (⭐241)](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
@@ -41,11 +51,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### AI
 
-*   [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
+*   [Espresso (⭐115)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 
 ### API
 
-*   [SwiftDisc (⭐41)](https://github.com/M1tsumi/SwiftDisc) - Discord API library for bots and integrations.
+*   [SwiftDisc (⭐42)](https://github.com/M1tsumi/SwiftDisc) - Discord API library for bots and integrations.
 
 ### Cache
 
@@ -53,11 +63,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐792)](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐790)](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Command Line
 
-*   [Mocker (⭐135)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+*   [Mocker (⭐226)](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 
 ### Images / Barcode
 
@@ -69,12 +79,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Text / Barcode
 
-*   [MarkdownDisplayView (⭐165)](https://github.com/zjc19891106/MarkdownDisplayView) - A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.
+*   [MarkdownDisplayView (⭐179)](https://github.com/zjc19891106/MarkdownDisplayView) - A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.
 *   [TextBuilder (⭐247)](https://github.com/davdroman/swiftui-text-builder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ### UI / Barcode
 
-*   [MuscleMap (⭐161)](https://github.com/melihcolpan/MuscleMap) - Render interactive human body muscle maps with SwiftUI and UIKit.
+*   [MuscleMap (⭐187)](https://github.com/melihcolpan/MuscleMap) - Render interactive human body muscle maps with SwiftUI and UIKit.
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
@@ -91,7 +101,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Utility / Barcode
 
 *   [swift-build (⭐52)](https://github.com/brightdigit/swift-build) - GitHub Action for building and testing Swift packages across all platforms.
-*   [SyntaxKit (⭐104)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
+*   [SyntaxKit (⭐105)](https://github.com/brightdigit/SyntaxKit) - Generate Swift code programmatically with a declarative syntax.
 
 ## [Mar 11, 2026](/content/2026/03/11/README.md)
 
@@ -101,15 +111,15 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### API
 
-*   [YouTubeKit](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
+*   [YouTubeKit (⭐129)](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
 
 ### App Store
 
-*   [Flare (⭐65)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
+*   [Flare (⭐66)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 
 ### Text / Barcode
 
-*   [GMarkdown (⭐64)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
+*   [GMarkdown (⭐66)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
 
 ### UI / Barcode
 
@@ -125,27 +135,27 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Audio
 
-*   [FluidAudio (⭐1.9k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.
+*   [FluidAudio (⭐2.2k)](https://github.com/FluidInference/FluidAudio) - SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### JSON
 
-*   [ReerCodable (⭐438)](https://github.com/reers/ReerCodable) - Codable extensions using Swift macro.
+*   [ReerCodable (⭐419)](https://github.com/reers/ReerCodable) - Codable extensions using Swift macro.
 
 ### Utility / Barcode
 
-*   [ReerKit (⭐117)](https://github.com/reers/ReerKit) - Powerful Swift foundation library of extensions and providing utility functions to supercharge your iOS/macOS/Linux development workflow.
+*   [ReerKit (⭐107)](https://github.com/reers/ReerKit) - Powerful Swift foundation library of extensions and providing utility functions to supercharge your iOS/macOS/Linux development workflow.
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 
 ### Dependency Managers
 
-*   [Swiftly (⭐912)](https://github.com/swiftlang/swiftly) - Swift CLI toolchain installer to install different versions of Swift.
+*   [Swiftly (⭐931)](https://github.com/swiftlang/swiftly) - Swift CLI toolchain installer to install different versions of Swift.
 
 ### Misc
 
-*   [Forked (⭐480)](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
+*   [Forked (⭐481)](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 
 ### Audio
 
@@ -153,20 +163,20 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Realm
 
-*   [Unrealm](https://github.com/matghazaryan/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+*   [Unrealm (⭐533)](https://github.com/matghazaryan/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 ### XML
 
-*   [XMLCoder (⭐876)](https://github.com/CoreOffice/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐878)](https://github.com/CoreOffice/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Camera
 
-*   [MijickCamera (⭐617)](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.
+*   [MijickCamera (⭐628)](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.
 
 ### Images / Barcode
 
 *   [Brightroom (⭐3.6k)](https://github.com/FluidGroup/Brightroom) - An image editor and engine using CoreImage.
-*   [MCScratchImageView](https://github.com/JaylenCoding/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
+*   [MCScratchImageView (⭐357)](https://github.com/JaylenCoding/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 
 ### Quality / Barcode
 
@@ -182,7 +192,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [BulletinBoard (⭐5.4k)](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+*   [BulletinBoard (⭐5.3k)](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 *   [Preferences (⭐1.5k)](https://github.com/sindresorhus/Settings) - Add a preferences window to your macOS app in minutes.
 *   [SweetCurtain (⭐116)](https://github.com/ihormalovanyi/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
 
@@ -192,15 +202,15 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Permissions / Barcode
 
-*   [SPPermission](https://github.com/sparrowcode/PermissionsKit) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.8k)](https://github.com/sparrowcode/PermissionsKit) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
-*   [MijickNavigattie (⭐324)](https://github.com/Mijick/NavigationView) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐322)](https://github.com/Mijick/NavigationView) - Easy navigation with SwiftUI.
 
 ### UITableView / Barcode
 
-*   [WLEmptyState](https://github.com/WizelineLabs/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐318)](https://github.com/WizelineLabs/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
 ### Walkthrough / Barcode
 
@@ -228,7 +238,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Augmented Reality
 
-*   [ARKit-CoreLocation](https://github.com/AndrewHartAR/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+*   [ARKit-CoreLocation (⭐5.5k)](https://github.com/AndrewHartAR/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Game Engine
 
@@ -236,19 +246,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### HTML / Barcode
 
-*   [ZMarkupParser (⭐362)](https://github.com/ZhgChgLi/ZMarkupParser) - Helps you convert HTML strings into NSAttributedString with customized styles and tags.
+*   [ZMarkupParser (⭐363)](https://github.com/ZhgChgLi/ZMarkupParser) - Helps you convert HTML strings into NSAttributedString with customized styles and tags.
 
 ### Testing / Barcode
 
-*   [swift-testing-expectation](https://github.com/dfed/swift-testing-expectation) - Create an asynchronous expectation in Swift Testing.
+*   [swift-testing-expectation (⭐79)](https://github.com/dfed/swift-testing-expectation) - Create an asynchronous expectation in Swift Testing.
 
 ### UI / Barcode
 
-*   [SwiftUISkia](https://github.com/rustq/swiftui-skia) - Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering
+*   [SwiftUISkia (⭐46)](https://github.com/rustq/swiftui-skia) - Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering
 
 ### Calendar / Barcode
 
-*   [OBCalendar (⭐168)](https://github.com/oBilet/OBCalendar) - OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.
+*   [OBCalendar (⭐169)](https://github.com/oBilet/OBCalendar) - OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.
 
 ### Pagination / Barcode
 
@@ -262,7 +272,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐487)](https://github.com/fulldecent/swift6-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐488)](https://github.com/fulldecent/swift6-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Dependency Managers
 
@@ -270,7 +280,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Audio
 
-*   [MusicKit (⭐620)](https://github.com/0thernet/MusicKit) - A framework for composing and transforming music.
+*   [MusicKit (⭐621)](https://github.com/0thernet/MusicKit) - A framework for composing and transforming music.
 
 ### Chart
 
@@ -278,7 +288,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Concurrency
 
-*   [AsyncQueue (⭐272)](https://github.com/dfed/swift-async-queue) :penguin: - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
+*   [AsyncQueue (⭐276)](https://github.com/dfed/swift-async-queue) :penguin: - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
 
 ### Other Data
 
@@ -286,7 +296,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Dependency Injection
 
-*   [SafeDI (⭐184)](https://github.com/dfed/safedi) - Compile-time safe dependency injection.
+*   [SafeDI (⭐188)](https://github.com/dfed/safedi) - Compile-time safe dependency injection.
 
 ### Images / Barcode
 
@@ -304,7 +314,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Animation
 
-*   [AnimatedGradient (⭐160)](https://github.com/exyte/AnimatedGradient) - Animated linear gradient library written with SwiftUI
+*   [AnimatedGradient (⭐165)](https://github.com/exyte/AnimatedGradient) - Animated linear gradient library written with SwiftUI
 
 ### API
 
@@ -316,7 +326,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Auto Layout / Barcode
 
-*   [FixFlex (⭐43)](https://github.com/psharanda/FixFlex) - Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView.
+*   [FixFlex (⭐42)](https://github.com/psharanda/FixFlex) - Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView.
 
 ### Localization / Barcode
 
@@ -324,13 +334,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [FlagAndCountryCode (⭐106)](https://github.com/exyte/FlagAndCountryCode) - FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI
+*   [FlagAndCountryCode (⭐107)](https://github.com/exyte/FlagAndCountryCode) - FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI
 
 ## [Apr 23, 2024](/content/2024/04/23/README.md)
 
 ### Patterns
 
-*   [SimplexArchitecture (⭐56)](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
+*   [SimplexArchitecture (⭐55)](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
 
 ### Analytics
 
@@ -338,7 +348,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Layout / Barcode
 
-*   [FrameLayoutKit](https://github.com/kennic/FrameLayoutKit) - This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.
+*   [FrameLayoutKit (⭐82)](https://github.com/kennic/FrameLayoutKit) - This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.
 
 ### Menu / Barcode
 
@@ -348,11 +358,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Chart
 
-*   [Charts](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
+*   [Charts (⭐28k)](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 
 ### Files
 
-*   [ExtendedAttributes (⭐50)](https://github.com/sindresorhus/ExtendedAttributes) - Manage extended attributes for files and folders.
+*   [ExtendedAttributes (⭐51)](https://github.com/sindresorhus/ExtendedAttributes) - Manage extended attributes for files and folders.
 
 ### Alert / Barcode
 
@@ -360,7 +370,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Tab / Barcode
 
-*   [SwiftUIMaterialTabs (⭐99)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
+*   [SwiftUIMaterialTabs (⭐101)](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
@@ -376,7 +386,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Misc
 
-*   [MemberwiseInit (⭐185)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
+*   [MemberwiseInit (⭐193)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 
 ### Alert / Barcode
 
@@ -398,7 +408,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [SwiftAutoGUI (⭐85)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
+*   [SwiftAutoGUI (⭐89)](https://github.com/NakaokaRei/SwiftAutoGUI) - Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -414,13 +424,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Animation
 
-*   [CocoaSprings (⭐101)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
+*   [CocoaSprings (⭐103)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 
 ## [Mar 30, 2023](/content/2023/03/30/README.md)
 
 ### Scroll Bars / Barcode
 
-*   [DMScrollBar (⭐41)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
+*   [DMScrollBar (⭐42)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
 ## [Feb 24, 2023](/content/2023/02/24/README.md)
 
@@ -430,7 +440,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Patterns
 
-*   [GoodReactor (⭐34)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
+*   [GoodReactor (⭐33)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 
 ### Logging / Barcode
 
@@ -438,11 +448,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [GoodNetworking (⭐31)](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
+*   [GoodNetworking (⭐30)](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
 
 ### Keychain / Barcode
 
-*   [GoodPersistence (⭐37)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
+*   [GoodPersistence (⭐36)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
 
 ### HUD / Barcode
 
@@ -450,22 +460,22 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Template / Barcode
 
-*   [Temple (⭐38)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
+*   [Temple (⭐37)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
 
 ### UICollectionView / Barcode
 
-*   [GoodProvider](https://github.com/GoodRequest/GRProvider) - 🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.
+*   [GoodProvider (⭐28)](https://github.com/GoodRequest/GRProvider) - 🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.
 
 ### Utility / Barcode
 
-*   [GoodExtensions-iOS (⭐29)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
-*   [GoodUIKit (⭐31)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
+*   [GoodExtensions-iOS (⭐28)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
+*   [GoodUIKit (⭐30)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
 
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Layout / Barcode
 
-*   [AnimatedTabBar (⭐537)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
+*   [AnimatedTabBar (⭐541)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -487,13 +497,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Alert / Barcode
 
-*   [Kamagari](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
+*   [Kamagari (⭐77)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
 ### Misc
 
-*   [BetterCodable](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
+*   [BetterCodable (⭐1.8k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 
 ### Utility / Barcode
 
@@ -503,11 +513,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Algorithm
 
-*   [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
+*   [swift-algorithm-club (⭐29k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
 
 ### MongoDB
 
-*   [MongoKitten (⭐750)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐751)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -515,15 +525,15 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Documentation
 
-*   [SourceDocs (⭐423)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐424)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐103)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐109)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
-*   [SwiftIconFont](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
+*   [SwiftIconFont (⭐1.2k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
 
 ### Localization / Barcode
 
@@ -537,11 +547,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Camera
 
-*   [MediaPicker (⭐460)](https://github.com/exyte/mediapicker) - SwiftUI customizable media picker - supports camera and gallery with albums
+*   [MediaPicker (⭐470)](https://github.com/exyte/mediapicker) - SwiftUI customizable media picker - supports camera and gallery with albums
 
 ### Transition / Barcode
 
-*   [LiquidSwipe (⭐725)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
+*   [LiquidSwipe (⭐741)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
@@ -553,7 +563,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐145)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐146)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ## [Nov 08, 2022](/content/2022/11/08/README.md)
 
@@ -567,7 +577,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐237)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
@@ -607,19 +617,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Boilerplates
 
-*   [Model-View-Presenter template (⭐28)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
+*   [Model-View-Presenter template (⭐27)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
 ### Images / Barcode
 
-*   [Harbeth (⭐632)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐685)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [May 28, 2022](/content/2022/05/28/README.md)
 
 ### Tab / Barcode
 
-*   [TabBar (⭐472)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
+*   [TabBar (⭐470)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 
 ## [May 27, 2022](/content/2022/05/27/README.md)
 
@@ -631,43 +641,43 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐548)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐547)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ## [May 19, 2022](/content/2022/05/19/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐213)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐211)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [May 10, 2022](/content/2022/05/10/README.md)
 
 ### Calendar / Barcode
 
-*   [KVKCalendar (⭐790)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
+*   [KVKCalendar (⭐796)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 
 ## [May 03, 2022](/content/2022/05/03/README.md)
 
 ### UI / Barcode
 
-*   [BottomSheet (⭐352)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐351)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ## [Apr 26, 2022](/content/2022/04/26/README.md)
 
 ### Chart
 
-*   [FLCharts](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+*   [FLCharts (⭐276)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
 ## [Apr 20, 2022](/content/2022/04/20/README.md)
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐1.5k)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [Mar 08, 2022](/content/2022/03/08/README.md)
 
 ### Concurrency
 
-*   [async+ (⭐212)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐213)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 
 ## [Feb 21, 2022](/content/2022/02/21/README.md)
 
@@ -679,7 +689,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Command Line
 
-*   [Ashen (⭐116)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
+*   [Ashen (⭐118)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
 
 ### Game Engine
 
@@ -689,13 +699,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Chart
 
-*   [SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐962)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [Jan 16, 2022](/content/2022/01/16/README.md)
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐137)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐138)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [Jan 13, 2022](/content/2022/01/13/README.md)
 
@@ -722,25 +732,25 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐353)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐355)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [Dec 26, 2021](/content/2021/12/26/README.md)
 
 ### Tab / Barcode
 
-*   [CardTabBar](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐246)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
 ## [Dec 21, 2021](/content/2021/12/21/README.md)
 
 ### SVG / Barcode
 
-*   [SVGView (⭐840)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐847)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 
 ### Patterns
 
-*   [ReduxUI (⭐45)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
+*   [ReduxUI (⭐46)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 
 ## [Nov 19, 2021](/content/2021/11/19/README.md)
 
@@ -757,13 +767,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### CBOR
 
-*   [CBORCoding (⭐56)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐58)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
 ## [Oct 24, 2021](/content/2021/10/24/README.md)
 
 ### Utility / Barcode
 
-*   [Rugby (⭐715)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐716)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [Oct 20, 2021](/content/2021/10/20/README.md)
 
@@ -787,7 +797,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [HPParallaxHeader](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
+*   [HPParallaxHeader (⭐61)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
 ## [Sep 17, 2021](/content/2021/09/17/README.md)
 
@@ -799,7 +809,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Localization / Barcode
 
-*   [Locheck (⭐111)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+*   [Locheck (⭐110)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
 ## [Aug 09, 2021](/content/2021/08/09/README.md)
 
@@ -828,17 +838,17 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Images / Barcode
 
 *   [FaceCrop (⭐52)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
-*   [SwiftDraw (⭐603)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
+*   [SwiftDraw (⭐613)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 
 ### SOAP / Barcode
 
-*   [SOAPEngine (⭐483)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
+*   [SOAPEngine (⭐484)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
 
 ## [May 26, 2021](/content/2021/05/26/README.md)
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐711)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐716)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [Apr 02, 2021](/content/2021/04/02/README.md)
 
@@ -848,7 +858,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [Kanvas (⭐340)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
+*   [Kanvas (⭐342)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 
 ## [Apr 01, 2021](/content/2021/04/01/README.md)
 
@@ -862,7 +872,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐987)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐986)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.7k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [Feb 23, 2021](/content/2021/02/23/README.md)
@@ -875,7 +885,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐643)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐646)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [Jan 28, 2021](/content/2021/01/28/README.md)
 
@@ -887,7 +897,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Logging / Barcode
 
-*   [Puppy (⭐210)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐213)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [Jan 24, 2021](/content/2021/01/24/README.md)
 
@@ -909,7 +919,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### API
 
-*   [Swiftkube (⭐165)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐166)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [Oct 28, 2020](/content/2020/10/28/README.md)
 
@@ -927,7 +937,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Gesture
 
-*   [Tactile (⭐714)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
+*   [Tactile (⭐713)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
@@ -956,7 +966,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Cryptography / Barcode
 
-*   [BlueCryptor (⭐191)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
+*   [BlueCryptor (⭐190)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
 *   [BlueRSA (⭐134)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 
 ### System / Barcode
@@ -987,13 +997,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Fonts
 
-*   [SwiftUI-FontIcon](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐136)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ## [Aug 25, 2020](/content/2020/08/25/README.md)
 
 ### UI / Barcode
 
-*   [BetterSafariView (⭐639)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐638)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
 ## [Aug 24, 2020](/content/2020/08/24/README.md)
 
@@ -1020,7 +1030,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Camera
 
-*   [FDTake (⭐324)](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
+*   [FDTake (⭐325)](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
 
 ### Form / Barcode
 
@@ -1060,13 +1070,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [ContainerController](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
+*   [ContainerController (⭐501)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
 ## [Jun 16, 2020](/content/2020/06/16/README.md)
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐48k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐49k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
@@ -1106,7 +1116,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Data
 
-*   [CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐904)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
@@ -1130,7 +1140,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Logging / Barcode
 
-*   [Gedatsu (⭐533)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐532)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## [May 06, 2020](/content/2020/05/06/README.md)
 
@@ -1152,7 +1162,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### App Routing
 
-*   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐91)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ### Security / Barcode
 
@@ -1162,7 +1172,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Converters
 
-*   [Zolang (⭐154)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐155)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
@@ -1182,7 +1192,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐852)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐853)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -1195,7 +1205,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.8k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐161)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -1203,7 +1213,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐92)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [Apr 01, 2020](/content/2020/04/01/README.md)
 
@@ -1221,18 +1231,18 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐832)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐833)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ## [Mar 25, 2020](/content/2020/03/25/README.md)
 
 ### CSV
 
-*   [CodableCSV (⭐482)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐483)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐83)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐1.6k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐1.7k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ## [Mar 16, 2020](/content/2020/03/16/README.md)
 
@@ -1244,7 +1254,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Cache
 
-*   [CachyKit](https://github.com/Sadmansamee/CachyKit) - A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.
+*   [CachyKit (⭐130)](https://github.com/Sadmansamee/CachyKit) - A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.
 
 ## [Mar 10, 2020](/content/2020/03/10/README.md)
 
@@ -1254,7 +1264,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [Windless (⭐949)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
+*   [Windless (⭐948)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
 
 ### 3D / Barcode
 
@@ -1272,19 +1282,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [Partition Kit (⭐242)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
+*   [Partition Kit (⭐244)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 
 ## [Feb 20, 2020](/content/2020/02/20/README.md)
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐165)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐167)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
 ## [Feb 14, 2020](/content/2020/02/14/README.md)
 
 ### App Store
 
-*   [Apphud (⭐232)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
+*   [Apphud (⭐235)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
 
 ### Utility / Barcode
 
@@ -1298,7 +1308,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐185)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐184)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [Jan 31, 2020](/content/2020/01/31/README.md)
 
@@ -1314,7 +1324,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐371)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐370)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [Jan 18, 2020](/content/2020/01/18/README.md)
 
@@ -1340,7 +1350,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Audio
 
-*   [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
+*   [SwiftAudioPlayer (⭐624)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
 ## [Nov 21, 2019](/content/2019/11/21/README.md)
 
@@ -1422,7 +1432,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Phone Numbers / Barcode
 
-*   [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
+*   [NKVPhonePicker (⭐144)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
 ## [Sep 09, 2019](/content/2019/09/09/README.md)
 
@@ -1434,7 +1444,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [ReactiveAPI (⭐80)](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
+*   [ReactiveAPI (⭐79)](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
 
 ### UI / Barcode
 
@@ -1455,13 +1465,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐948)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐947)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [Aug 21, 2019](/content/2019/08/21/README.md)
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐301)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐302)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [Aug 20, 2019](/content/2019/08/20/README.md)
 
@@ -1471,7 +1481,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Keyboard / Barcode
 
-*   [Ribbon (⭐301)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐302)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [Jul 19, 2019](/content/2019/07/19/README.md)
 
@@ -1503,7 +1513,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [Bow (⭐657)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐658)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ## [Jul 10, 2019](/content/2019/07/10/README.md)
 
@@ -1519,13 +1529,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [BatteryView (⭐51)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
+*   [BatteryView (⭐50)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 
 ## [Jul 03, 2019](/content/2019/07/03/README.md)
 
 ### TOML
 
-*   [TOMLDecoder (⭐104)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
+*   [TOMLDecoder (⭐106)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 ### Files
 
@@ -1551,7 +1561,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐984)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐981)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [Jun 28, 2019](/content/2019/06/28/README.md)
 
@@ -1561,7 +1571,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐539)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐538)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
@@ -1601,14 +1611,14 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐802)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐803)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.6k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
 ## [May 22, 2019](/content/2019/05/22/README.md)
 
 ### Firebase
 
-*   [Ballcap](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
+*   [Ballcap (⭐230)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
 
 ### Game Engine
 
@@ -1638,7 +1648,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐382)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐381)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -1699,7 +1709,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐101)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [Mar 05, 2019](/content/2019/03/05/README.md)
 
@@ -1711,7 +1721,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+*   [Connectivity (⭐1.7k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 
 ## [Mar 01, 2019](/content/2019/03/01/README.md)
 
@@ -1729,11 +1739,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐540)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐541)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐355)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐354)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [Feb 19, 2019](/content/2019/02/19/README.md)
 
@@ -1761,7 +1771,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Camera
 
-*   [CameraKit-iOS (⭐735)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐738)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [Feb 12, 2019](/content/2019/02/12/README.md)
 
@@ -1777,23 +1787,23 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UITableView / Barcode
 
-*   [DTTableViewManager (⭐451)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+*   [DTTableViewManager (⭐452)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
 ## [Jan 31, 2019](/content/2019/01/31/README.md)
 
 ### Calendar / Barcode
 
-*   [CalendarView (⭐625)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+*   [CalendarView (⭐627)](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 ### UITableView / Barcode
 
-*   [DGElasticPullToRefresh (⭐3.8k)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh.
+*   [DGElasticPullToRefresh (⭐3.7k)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh.
 
 ## [Jan 21, 2019](/content/2019/01/21/README.md)
 
 ### Boilerplates
 
-*   [iOS project template (⭐412)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐411)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
@@ -1840,7 +1850,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Dependency Injection
 
-*   [Pure (⭐381)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐380)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
@@ -1858,7 +1868,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [PMHTTP (⭐504)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
+*   [PMHTTP (⭐503)](https://github.com/postmates/PMHTTP) - HTTP framework with a focus on REST and JSON.
 
 ### Socket / Barcode
 
@@ -1888,13 +1898,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐644)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐647)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
 ## [Dec 30, 2018](/content/2018/12/30/README.md)
 
 ### UI / Barcode
 
-*   [HidesNavigationBarWhenPushed (⭐54)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
+*   [HidesNavigationBarWhenPushed (⭐55)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
 
 ## [Dec 21, 2018](/content/2018/12/21/README.md)
 
@@ -1912,7 +1922,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐221)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐222)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 
 ### Utility / Barcode
 
@@ -1946,11 +1956,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Camera / Barcode
 
-*   [EFQRCode (⭐4.7k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
+*   [EFQRCode (⭐4.8k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐492)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐494)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ## [Nov 05, 2018](/content/2018/11/05/README.md)
 
@@ -1972,17 +1982,17 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐576)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [CircularProgress (⭐577)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 
 ## [Oct 23, 2018](/content/2018/10/23/README.md)
 
 ### Patterns
 
-*   [Reactant (⭐371)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
+*   [Reactant (⭐370)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 
 ### UI / Barcode
 
-*   [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐1.3k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
@@ -1992,7 +2002,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### JSON
 
-*   [ObjectMapper (⭐9.2k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### Testing / Barcode
 
@@ -2012,13 +2022,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Video / Barcode
 
-*   [Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐257)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
 ## [Oct 11, 2018](/content/2018/10/11/README.md)
 
 ### Patterns
 
-*   [Viperit (⭐512)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐513)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [Oct 09, 2018](/content/2018/10/09/README.md)
 
@@ -2034,19 +2044,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [Lumos](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐153)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [Oct 06, 2018](/content/2018/10/06/README.md)
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐163)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ## [Oct 03, 2018](/content/2018/10/03/README.md)
 
 ### Audio
 
-*   [voice-overlay-ios (⭐555)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐557)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Alert / Barcode
 
@@ -2066,18 +2076,18 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐800)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐799)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [Sep 18, 2018](/content/2018/09/18/README.md)
 
 ### Misc
 
-*   [Tuist (⭐5.6k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐5.7k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐2.2k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐908)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐910)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [Sep 09, 2018](/content/2018/09/09/README.md)
 
@@ -2101,7 +2111,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Dependency Injection
 
-*   [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
+*   [Deli (⭐136)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
 
 ## [Aug 18, 2018](/content/2018/08/18/README.md)
 
@@ -2123,11 +2133,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Colors
 
-*   [UIGradient](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+*   [UIGradient (⭐271)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
 
 ### Command Line
 
-*   [LineNoise (⭐154)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐155)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
@@ -2139,7 +2149,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Dependency Injection
 
-*   [Weaver (⭐770)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐769)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -2151,7 +2161,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐245)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐247)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
@@ -2171,7 +2181,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐310)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐308)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 
@@ -2193,7 +2203,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Button / Barcode
 
-*   [ExpandableButton (⭐103)](https://github.com/DimaMishchenko/ExpandableButton) - Customizable and easy to use expandable button.
+*   [ExpandableButton (⭐102)](https://github.com/DimaMishchenko/ExpandableButton) - Customizable and easy to use expandable button.
 
 ## [Aug 08, 2018](/content/2018/08/08/README.md)
 
@@ -2203,7 +2213,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Switch / Barcode
 
-*   [MJMaterialSwitch (⭐71)](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design.
+*   [MJMaterialSwitch (⭐70)](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design.
 
 ## [Aug 03, 2018](/content/2018/08/03/README.md)
 
@@ -2215,7 +2225,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐144)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐145)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [Jul 23, 2018](/content/2018/07/23/README.md)
 
@@ -2249,7 +2259,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### App Routing
 
-*   [Crossroad (⭐424)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
+*   [Crossroad (⭐425)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
 
 ### Transition / Barcode
 
@@ -2263,7 +2273,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Bots
 
-*   [Telegrammer (⭐299)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐300)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [Jun 21, 2018](/content/2018/06/21/README.md)
 
@@ -2299,7 +2309,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Cache
 
-*   [Carlos (⭐640)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐638)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ## [Jun 04, 2018](/content/2018/06/04/README.md)
 
@@ -2315,7 +2325,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [WhatsNewKit (⭐4.3k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [WhatsNewKit (⭐4.4k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
 ## [May 25, 2018](/content/2018/05/25/README.md)
 
@@ -2348,7 +2358,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [ImageDetect (⭐304)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
+*   [ImageDetect (⭐303)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ## [May 11, 2018](/content/2018/05/11/README.md)
 
@@ -2382,13 +2392,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Text / Barcode
 
-*   [Croc (⭐130)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
 ## [May 07, 2018](/content/2018/05/07/README.md)
 
 ### Webserver / Barcode
 
-*   [Curassow (⭐398)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
+*   [Curassow (⭐397)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 
 ### Template / Barcode
 
@@ -2418,7 +2428,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Multi Database
 
-*   [Shallows (⭐618)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐617)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -2426,7 +2436,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [ImageScout (⭐974)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐972)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
@@ -2456,15 +2466,15 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Socket / Barcode
 
-*   [sockets (⭐570)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+*   [sockets (⭐569)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐942)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐941)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐900)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐902)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [Mar 18, 2018](/content/2018/03/18/README.md)
 
@@ -2474,7 +2484,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐432)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐429)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -2486,7 +2496,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐987)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐986)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -2502,7 +2512,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Events
 
-*   [Tempura (⭐718)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐716)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [Feb 27, 2018](/content/2018/02/27/README.md)
 
@@ -2536,7 +2546,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐275)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐277)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [Jan 27, 2018](/content/2018/01/27/README.md)
 
@@ -2552,7 +2562,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### App Store
 
-*   [InAppPurchase (⭐286)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐285)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -2570,7 +2580,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Gesture
 
-*   [ShowTime (⭐563)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐567)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -2600,7 +2610,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [Ciao (⭐67)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+*   [Ciao (⭐68)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 
 ### Styling / Barcode
 
@@ -2608,11 +2618,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [Shiny (⭐841)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐842)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
-*   [StatusAlert (⭐845)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
+*   [StatusAlert (⭐843)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 
 ## [Jan 03, 2018](/content/2018/01/03/README.md)
 
@@ -2626,7 +2636,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Alert / Barcode
 
-*   [Zingle](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
+*   [Zingle (⭐111)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
 ## [Dec 31, 2017](/content/2017/12/31/README.md)
 
@@ -2672,7 +2682,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Localization / Barcode
 
-*   [L10n-swift (⭐324)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+*   [L10n-swift (⭐325)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
 ## [Dec 02, 2017](/content/2017/12/02/README.md)
 
@@ -2688,7 +2698,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Misc
 
-*   [XcodeGen (⭐8.4k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐8.5k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
@@ -2702,7 +2712,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Network / Barcode
 
-*   [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
+*   [Conduit (⭐53)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 
 ### Socket / Barcode
 
@@ -2710,7 +2720,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [Mandoline (⭐887)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐885)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
@@ -2719,7 +2729,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐863)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐862)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ## [Nov 15, 2017](/content/2017/11/15/README.md)
 
@@ -2769,9 +2779,9 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [AGCircularPicker (⭐626)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
-*   [KALoader](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
-*   [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
+*   [AGCircularPicker (⭐625)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
+*   [KALoader (⭐108)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
+*   [MediaBrowser (⭐645)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 
 ### Payment / Barcode
 
@@ -2806,7 +2816,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Math / Barcode
 
-*   [BigInt (⭐810)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+*   [BigInt (⭐814)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 
 ## [Oct 14, 2017](/content/2017/10/14/README.md)
 
@@ -2840,7 +2850,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐331)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐332)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [Oct 04, 2017](/content/2017/10/04/README.md)
 
@@ -2910,7 +2920,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Events
 
-*   [Observable (⭐379)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐378)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
@@ -2938,17 +2948,17 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Colors
 
-*   [ChromaColorPicker (⭐572)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐569)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Utility / Barcode
 
-*   [Highlighter (⭐925)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+*   [Highlighter (⭐924)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
 ## [Aug 08, 2017](/content/2017/08/08/README.md)
 
 ### Device
 
-*   [UIDeviceComplete (⭐421)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐420)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ## [Aug 07, 2017](/content/2017/08/07/README.md)
 
@@ -2994,7 +3004,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐789)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐787)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ## [Jul 23, 2017](/content/2017/07/23/README.md)
 
@@ -3014,7 +3024,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [InstantSearch iOS (⭐611)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐613)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ## [Jul 19, 2017](/content/2017/07/19/README.md)
 
@@ -3036,7 +3046,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Button / Barcode
 
-*   [MultiToggleButton (⭐85)](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).
+*   [MultiToggleButton (⭐86)](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).
 
 ## [Jul 10, 2017](/content/2017/07/10/README.md)
 
@@ -3046,7 +3056,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐385)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐382)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Validation / Barcode
 
@@ -3102,19 +3112,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐822)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐821)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
-*   [MarkdownView (⭐2.1k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
+*   [MarkdownView (⭐2.2k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 
 ### Menu / Barcode
 
-*   [KWDrawerController (⭐157)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
+*   [KWDrawerController (⭐156)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐275)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
@@ -3128,7 +3138,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Auto Layout / Barcode
 
-*   [Cupcake (⭐287)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+*   [Cupcake (⭐286)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 
 ### Logging / Barcode
 
@@ -3146,7 +3156,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐726)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐724)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [Jun 08, 2017](/content/2017/06/08/README.md)
 
@@ -3157,7 +3167,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### UI / Barcode
 
 *   [Dodo (⭐870)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐368)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [SectionedSlider (⭐367)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ## [May 30, 2017](/content/2017/05/30/README.md)
 
@@ -3182,7 +3192,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Benchmark
 
-*   [xcprofiler (⭐342)](https://github.com/giginet/xcprofiler) - Command line utility to profile compilation time.
+*   [xcprofiler (⭐343)](https://github.com/giginet/xcprofiler) - Command line utility to profile compilation time.
 
 ### Dependency Managers
 
@@ -3195,14 +3205,14 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Misc
 
-*   [SwagGen (⭐632)](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
+*   [SwagGen (⭐633)](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
 *   [SwiftGen (⭐9.5k)](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 *   [SwiftPlate (⭐1.8k)](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
 *   [Toybox (⭐130)](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
 
 ### Algorithm
 
-*   [Algorithm (⭐828)](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
+*   [Algorithm (⭐826)](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
 *   [SwiftLCS (⭐216)](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
 
 ### Animation
@@ -3233,17 +3243,17 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Audio
 
 *   [AudioKit (⭐11k)](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, without the steep learning curve.
-*   [Beethoven (⭐869)](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
+*   [Beethoven (⭐877)](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
 *   [SwiftySound (⭐1.3k)](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
 
 ### Cache
 
 *   [AwesomeCache (⭐1.3k)](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
-*   [EVURLCache (⭐296)](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
+*   [EVURLCache (⭐297)](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 
 ### Chart
 
-*   [TKRadarChart (⭐211)](https://github.com/TBXark/TKRadarChart) - A customizable radar chart.
+*   [TKRadarChart (⭐210)](https://github.com/TBXark/TKRadarChart) - A customizable radar chart.
 
 ### Chat
 
@@ -3257,12 +3267,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [Commander (⭐1.5k)](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces.
 *   [Progress.swift (⭐350)](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
-*   [SwiftCLI (⭐878)](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
+*   [SwiftCLI (⭐881)](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
 *   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - A set of tools to help you create command line applications.
 
 ### Concurrency
 
-*   [AsyncNinja (⭐158)](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
+*   [AsyncNinja (⭐156)](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 *   [Hydra (⭐2k)](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 *   [Venice (⭐1.5k)](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
 
@@ -3275,7 +3285,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [AlamofireObjectMapper (⭐2.6k)](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into objects using ObjectMapper.
 *   [Argo (⭐3.5k)](https://github.com/thoughtbot/Argo) - JSON parsing library.
-*   [Arrow (⭐386)](https://github.com/freshOS/Arrow) - Elegant JSON Parsing.
+*   [Arrow (⭐387)](https://github.com/freshOS/Arrow) - Elegant JSON Parsing.
 *   [Decodable (⭐1k)](https://github.com/Anviking/Decodable) :penguin: - JSON parsing.
 *   [Elevate (⭐619)](https://github.com/Nike-Inc/Elevate) - JSON parsing framework that makes parsing simple, reliable and composable.
 *   [Himotoki (⭐793)](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library.
@@ -3295,7 +3305,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Data
 
-*   [Pencil (⭐89)](https://github.com/naru-jpn/pencil) - Write any value to file.
+*   [Pencil (⭐88)](https://github.com/naru-jpn/pencil) - Write any value to file.
 
 ### SQL drivers
 
@@ -3305,9 +3315,9 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### SQLite
 
-*   [GRDB.swift (⭐8.3k)](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit.
+*   [GRDB.swift (⭐8.5k)](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit.
 *   [SQLite.swift (⭐10k)](https://github.com/stephencelis/SQLite.swift) - Framework wrapping SQLite3. Small. Simple. Safe.
-*   [SQLiteDB (⭐594)](https://github.com/FahimF/SQLiteDB) - SQLite wrapper.
+*   [SQLiteDB (⭐591)](https://github.com/FahimF/SQLiteDB) - SQLite wrapper.
 
 ### XML
 
@@ -3315,8 +3325,8 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### YAML
 
-*   [YamlSwift (⭐412)](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents.
-*   [Yams (⭐1.2k)](https://github.com/jpsim/Yams) :penguin: - Sweet YAML parser.
+*   [YamlSwift (⭐413)](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents.
+*   [Yams (⭐1.3k)](https://github.com/jpsim/Yams) :penguin: - Sweet YAML parser.
 
 ### ZIP
 
@@ -3346,28 +3356,28 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Events
 
 *   [EmitterKit (⭐563)](https://github.com/aleclarson/emitter-kit) - Implementation of event emitters and listeners.
-*   [FutureKit (⭐747)](https://github.com/FutureKit/FutureKit) - Future/Promises Library.
+*   [FutureKit (⭐746)](https://github.com/FutureKit/FutureKit) - Future/Promises Library.
 *   [Katana (⭐2.2k)](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
 *   [NoticeObserveKit (⭐152)](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.
 *   [Notificationz (⭐77)](https://github.com/SwiftKitz/Notificationz) - Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.
 *   [PromiseKit (⭐14k)](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
 *   [ReactorKit (⭐2.8k)](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
 *   [ReSwift (⭐7.6k)](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow.
-*   [Signals](https://github.com/artman/Signals) - Replaces delegates and notifications.
-*   [When (⭐264)](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises.
+*   [Signals (⭐467)](https://github.com/artman/Signals) - Replaces delegates and notifications.
+*   [When (⭐263)](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises.
 
 ### Files
 
 *   [FileKit (⭐2.4k)](https://github.com/nvzqz/FileKit) - Simple and expressive file management.
-*   [FileProvider (⭐112)](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.
-*   [PathKit](https://github.com/kylef/PathKit) :penguin: - Effortless path operations.
+*   [FileProvider (⭐115)](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.
+*   [PathKit (⭐1.5k)](https://github.com/kylef/PathKit) :penguin: - Effortless path operations.
 
 ### Fonts
 
 *   [FontAwesome.swift (⭐1.6k)](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your projects.
 *   [IoniconsKit (⭐310)](https://github.com/keitaoouchi/IoniconsKit) - Use ionicons as UIImage / UIFont in your projects.
 *   [OcticonsKit (⭐55)](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects.
-*   [SwiftIcons (⭐804)](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
+*   [SwiftIcons (⭐805)](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
 
 ### Games
 
@@ -3375,7 +3385,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Bluetooth
 
-*   [BlueCap (⭐719)](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
+*   [BlueCap (⭐718)](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
 
 ### Camera
 
@@ -3387,7 +3397,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Haptic Feedback / Barcode
 
-*   [Haptica (⭐818)](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
+*   [Haptica (⭐815)](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
 
 ### iBeacon / Barcode
 
@@ -3395,7 +3405,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [Agrume (⭐885)](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer.
+*   [Agrume (⭐891)](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer.
 *   [CTPanoramaView (⭐1k)](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 *   [HanekeSwift (⭐5.2k)](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
 *   [ImageLoader (⭐292)](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS.
@@ -3403,7 +3413,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [Lightbox (⭐1.7k)](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 *   [Nuke (⭐8.6k)](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
 *   [Sharaku (⭐1.5k)](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
-*   [Snowflake (⭐963)](https://github.com/onmyway133/Snowflake) - Work with SVG.
+*   [Snowflake (⭐962)](https://github.com/onmyway133/Snowflake) - Work with SVG.
 *   [SwiftGen-Assets (⭐9.5k)](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
 *   [SwiftSVG (⭐2k)](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 *   [TinyCrayon (⭐1.8k)](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
@@ -3434,7 +3444,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Localization / Barcode
 
-*   [IBLocalizable (⭐455)](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable.
+*   [IBLocalizable (⭐454)](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable.
 *   [LocalizationKit (⭐1.2k)](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
 *   [SwiftGen-L10n (⭐9.5k)](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 
@@ -3456,12 +3466,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [Alamofire (⭐42k)](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 *   [APIKit (⭐2k)](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 *   [Moya (⭐15k)](https://github.com/Moya/Moya) - Network abstraction layer.
-*   [Netfox (⭐3.8k)](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library.
+*   [Netfox (⭐3.7k)](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library.
 *   [OAuthSwift (⭐3.3k)](https://github.com/OAuthSwift/OAuthSwift) - OAuth library for iOS.
-*   [Pitaya (⭐835)](https://github.com/johnlui/Pitaya) :penguin: - HTTP / HTTPS networking library just incidentally execute on machines.
+*   [Pitaya (⭐833)](https://github.com/johnlui/Pitaya) :penguin: - HTTP / HTTPS networking library just incidentally execute on machines.
 *   [Postal (⭐656)](https://github.com/snipsco/Postal) - Framework providing simple access to common email providers.
 *   [Reachability.swift (⭐8k)](https://github.com/ashleymills/Reachability.swift) - A replacement for Apple's Reachability with closures.
-*   [SwiftyOAuth (⭐485)](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
+*   [SwiftyOAuth (⭐486)](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
 *   [TRON (⭐546)](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire.
 
 ### HTML / Barcode
@@ -3471,7 +3481,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Messaging Protocol / Barcode
 
-*   [Perfect-Notifications (⭐117)](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Linux and OS X.
+*   [Perfect-Notifications (⭐118)](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Linux and OS X.
 
 ### Socket / Barcode
 
@@ -3482,14 +3492,14 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Webserver / Barcode
 
 *   [Ambassador (⭐189)](https://github.com/envoy/Ambassador) - Super lightweight web framework based on SWSGI.
-*   [Embassy (⭐617)](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
-*   [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
+*   [Embassy (⭐618)](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
+*   [Noze.io (⭐307)](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 *   [swifter (⭐4k)](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 *   [Vapor (⭐26k)](https://github.com/vapor/vapor) :penguin: - Elegant web framework that works on iOS, OS X, and Ubuntu.
 
 ### PDF / Barcode
 
-*   [PDFGenerator (⭐766)](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF. Generate PDF from view(s) or image(s).
+*   [PDFGenerator (⭐768)](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF. Generate PDF from view(s) or image(s).
 *   [UXMPDFKit (⭐274)](https://github.com/uxmstudio/UXMPDFKit) - A PDF viewer and annotator that can be embedded in iOS applications.
 
 ### Quality / Barcode
@@ -3502,7 +3512,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [CryptoSwift (⭐11k)](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 *   [IDZSwiftCommonCrypto (⭐478)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
-*   [Swift-Sodium (⭐547)](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
+*   [Swift-Sodium (⭐549)](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
 
 ### Keychain / Barcode
 
@@ -3527,11 +3537,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Text / Barcode
 
-*   [Attributed (⭐751)](https://github.com/Nirma/Attributed) - Modern µframework for attributed strings.
+*   [Attributed (⭐750)](https://github.com/Nirma/Attributed) - Modern µframework for attributed strings.
 *   [AttributedTextView (⭐441)](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions.
 *   [edhita (⭐1.4k)](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 *   [Pluralize.swift (⭐196)](https://github.com/joshualat/Pluralize.swift) - Great String Pluralize Extension.
-*   [PrediKit (⭐537)](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit.
+*   [PrediKit (⭐536)](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit.
 *   [Regex by crossroadlabs (⭐329)](https://github.com/crossroadlabs/Regex) :penguin: - Very easy to use Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 *   [SwiftRichString (⭐3.1k)](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library.
 *   [SwiftVerbalExpressions (⭐593)](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting.
@@ -3540,19 +3550,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Thread / Barcode
 
 *   [Async (⭐4.6k)](https://github.com/duemunk/Async) - Syntactic sugar for Grand Central Dispatch.
-*   [AwaitKit (⭐747)](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
-*   [Each (⭐750)](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
+*   [AwaitKit (⭐746)](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
+*   [Each (⭐747)](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
 *   [GCDTimer (⭐192)](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.
 *   [SwiftyTimer (⭐1.2k)](https://github.com/radex/SwiftyTimer) - API for NSTimer.
 
 ### UI / Barcode
 
 *   [DropDown (⭐2.5k)](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
-*   [Elissa](https://github.com/KitchenStories/Elissa) - Displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
+*   [Elissa (⭐171)](https://github.com/KitchenStories/Elissa) - Displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
 *   [EstMusicIndicator (⭐468)](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes.
 *   [FAQView (⭐473)](https://github.com/mukeshthawani/faqview) - An easy to use FAQ view for iOS.
 *   [Fashion (⭐136)](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles.
-*   [GRMustache (⭐627)](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
+*   [GRMustache (⭐629)](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
 *   [GrowingTextView (⭐1.1k)](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.
 *   [HorizontalDial (⭐213)](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram.
 *   [IGColorPicker (⭐277)](https://github.com/iGenius-Srl/IGColorPicker) - A customizable color picker for iOS.
@@ -3565,10 +3575,10 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [MXParallaxHeader (⭐1.7k)](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 *   [MZFormSheetPresentationController (⭐967)](https://github.com/m1entus/MZFormSheetPresentationController) - Provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 *   [PullToDismiss (⭐486)](https://github.com/sgr-ksmt/PullToDismiss) - You can dismiss modal viewcontroller by pulling scrollview or navigationbar.
-*   [RangeSeekSlider (⭐758)](https://github.com/WorldDownTown/RangeSeekSlider) - A customizable range slider like a UISlider for iOS.
+*   [RangeSeekSlider (⭐757)](https://github.com/WorldDownTown/RangeSeekSlider) - A customizable range slider like a UISlider for iOS.
 *   [SelectionDialog (⭐116)](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 *   [SKPhotoBrowser (⭐2.7k)](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
-*   [SpreadsheetView (⭐57)](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
+*   [SpreadsheetView (⭐59)](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
 *   [StatefulViewController (⭐2.1k)](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 *   [Toaster (⭐1.9k)](https://github.com/devxoul/Toaster) - Notification toasts.
 *   [Twinkle (⭐614)](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
@@ -3588,7 +3598,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [DOFavoriteButton (⭐3.6k)](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button.
 *   [Floaty (⭐1.6k)](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
 *   [NFDownloadButton (⭐439)](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
-*   [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
+*   [SwiftShareBubbles (⭐173)](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
 
 ### Calendar / Barcode
 
@@ -3608,8 +3618,8 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Menu / Barcode
 
-*   [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (Drawer).
-*   [InteractiveSideMenu (⭐701)](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
+*   [AKSwiftSlideMenu (⭐284)](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (Drawer).
+*   [InteractiveSideMenu (⭐700)](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 *   [Pagemenu (⭐5.2k)](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 *   [SideMenu (⭐5.8k)](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 *   [YNDropDownMenu (⭐1.3k)](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.
@@ -3621,11 +3631,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Payment / Barcode
 
-*   [Caishen (⭐766)](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
+*   [Caishen (⭐765)](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
 
 ### Permissions / Barcode
 
-*   [AREK (⭐954)](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
+*   [AREK (⭐953)](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 
 ### Tab / Barcode
 
@@ -3634,11 +3644,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### TextField / Barcode
 
-*   [DTTextField (⭐333)](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
+*   [DTTextField (⭐332)](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
 *   [HTYTextField (⭐310)](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
 *   [TextFieldCounter (⭐436)](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
 *   [TextFieldEffects (⭐6k)](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields.
-*   [UITextField-Navigation (⭐441)](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.
+*   [UITextField-Navigation (⭐439)](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.
 
 ### Transition / Barcode
 
@@ -3647,9 +3657,9 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UICollectionView / Barcode
 
-*   [BouncyLayout (⭐4.3k)](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
+*   [BouncyLayout (⭐4.2k)](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
 *   [CollectionViewShelfLayout (⭐373)](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
-*   [Drag and Drop UICollectionView (⭐530)](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
+*   [Drag and Drop UICollectionView (⭐529)](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 *   [SwiftSpreadsheet (⭐637)](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 *   [TagCellLayout (⭐356)](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 
@@ -3663,7 +3673,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [Instructions (⭐5.2k)](https://github.com/ephread/Instructions) - A library to create app walkthroughs and guided tours.
 *   [SwiftyOnboard (⭐1.3k)](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
-*   [SwiftyWalkthrough (⭐372)](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
+*   [SwiftyWalkthrough (⭐371)](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
 
 ### Utility / Barcode
 
@@ -3671,15 +3681,15 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [Basis (⭐318)](https://github.com/typelift/Basis) - Pure Declarative Programming.
 *   [CallbackURLKit (⭐349)](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
 *   [Curry (⭐495)](https://github.com/thoughtbot/Curry) - Function currying.
-*   [Dollar (⭐4.3k)](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
-*   [ObjectiveKit (⭐838)](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
+*   [Dollar (⭐4.2k)](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
+*   [ObjectiveKit (⭐837)](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 *   [protobuf-swift (⭐938)](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.
 *   [Prototope](http://khan.github.io/Prototope/) - Library of lightweight interfaces for prototyping, bridged to JS.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) :penguin: - Random data generation.
 *   [ReadabilityKit (⭐836)](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts.
 *   [ResourceKit (⭐87)](https://github.com/bannzai/ResourceKit) - Enable autocomplete use resources.
 *   [Result (⭐2.5k)](https://github.com/antitypical/Result) - Type modelling the success/failure of arbitrary operations.
-*   [Runes (⭐822)](https://github.com/thoughtbot/Runes) - Functional operators: flatMap, map, apply.
+*   [Runes (⭐821)](https://github.com/thoughtbot/Runes) - Functional operators: flatMap, map, apply.
 *   [SwiftGen-Storyboard (⭐9.5k)](https://github.com/SwiftGen/SwiftGen#uistoryboard) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 *   [SwiftRandom (⭐556)](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data.
 *   [SwiftRater (⭐378)](https://github.com/takecian/SwiftRater) - A utility that reminds your iPhone app's users to review the app.
@@ -3691,8 +3701,8 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Validation / Barcode
 
 *   [FormValidatorSwift (⭐491)](https://github.com/ustwo/formvalidator-swift) - Allows you to validate inputs of text fields and text views in a convenient way.
-*   [Input Mask (⭐589)](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
-*   [SwiftValidators (⭐241)](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
+*   [Input Mask (⭐588)](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
+*   [SwiftValidators (⭐240)](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
 
 ### Phone Numbers / Barcode
 
@@ -3722,7 +3732,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐369)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐368)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [Nov 10, 2016](/content/2016/11/10/README.md)
 
@@ -3746,7 +3756,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Gesture
 
-*   [SwipyCell (⭐259)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐260)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ## [Nov 02, 2016](/content/2016/11/02/README.md)
 
@@ -3758,7 +3768,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [CoreStore (⭐4.1k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐18)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐875)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### UI / Barcode
@@ -3817,7 +3827,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐976)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐974)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
 ## [Aug 19, 2016](/content/2016/08/19/README.md)
 
@@ -3828,7 +3838,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### UI / Barcode
 
 *   [CustomSegue (⭐121)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐649)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [URLEmbeddedView (⭐648)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [Aug 11, 2016](/content/2016/08/11/README.md)
 
@@ -3838,7 +3848,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Pagination / Barcode
 
-*   [PageController (⭐409)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐408)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [Aug 06, 2016](/content/2016/08/06/README.md)
 
@@ -3854,7 +3864,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### TextField / Barcode
 
-*   [PasswordTextField (⭐311)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
+*   [PasswordTextField (⭐310)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
 
 ### Transition / Barcode
 
@@ -3864,13 +3874,13 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Animation
 
-*   [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+*   [IBAnimatable (⭐8.7k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 
 ## [Jul 20, 2016](/content/2016/07/20/README.md)
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐643)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐642)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 
@@ -3899,7 +3909,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Streaming / Barcode
 
-*   [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
+*   [Live (⭐2.4k)](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 
 ## [Jul 14, 2016](/content/2016/07/14/README.md)
 
@@ -3916,7 +3926,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [Solar (⭐612)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐615)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
@@ -3927,7 +3937,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Awesome Lists
 
-*   [awesome-macOS (⭐18k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
+*   [awesome-macOS (⭐19k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ### Dependency Injection
 
@@ -4031,11 +4041,11 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐50k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐51k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [PXGoogleDirections (⭐266)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 *   [reddift (⭐238)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
@@ -4044,7 +4054,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐645)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -4062,7 +4072,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐516)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ## [May 07, 2016](/content/2016/05/07/README.md)
 
@@ -4093,7 +4103,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Animation
 
-*   [Pulsator](https://github.com/shu223/pulsator) - Pulse animation for iOS.
+*   [Pulsator (⭐1.4k)](https://github.com/shu223/pulsator) - Pulse animation for iOS.
 
 ## [Apr 12, 2016](/content/2016/04/12/README.md)
 
@@ -4195,7 +4205,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Images / Barcode
 
-*   [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐472)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ## [Dec 14, 2015](/content/2015/12/14/README.md)
 
@@ -4245,7 +4255,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Colors
 
-*   [SwiftHEXColors (⭐693)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐692)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### UI / Barcode
 
@@ -4255,19 +4265,19 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Testing / Barcode
 
-*   [Erik (⭐613)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐612)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [Nov 23, 2015](/content/2015/11/23/README.md)
 
 ### Key Value Store
 
-*   [Zephyr (⭐945)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐944)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [Nov 22, 2015](/content/2015/11/22/README.md)
 
 ### Key Value Store
 
-*   [Prephirences (⭐573)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+*   [Prephirences (⭐574)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 
 ### Logging / Barcode
 
@@ -4295,7 +4305,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### JSON
 
-*   [JSONNeverDie (⭐447)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
+*   [JSONNeverDie (⭐444)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 
 ## [Oct 20, 2015](/content/2015/10/20/README.md)
 
@@ -4313,7 +4323,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐865)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐866)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 
@@ -4346,7 +4356,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### UI / Barcode
 
-*   [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
+*   [MaterialKit (⭐2.5k)](https://github.com/nghialv/MaterialKit) - Material design components.
 
 ## [Jun 03, 2015](/content/2015/06/03/README.md)
 
@@ -4392,7 +4402,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐250)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐251)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ## [Feb 28, 2015](/content/2015/02/28/README.md)
 

@@ -6,20 +6,210 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Jun 11, 2026](/content/2026/06/11/README.md)
+## [Jun 13, 2026](/content/2026/06/13/README.md)
+
+### Projects / AI Gateway
+
+*   [agentgateway (⭐3.2k) (⭐3.3k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
+*   [Envoy AI Gateway (⭐1.7k) (⭐1.7k)](https://github.com/envoyproxy/ai-gateway) - An open-source gateway built on Envoy Proxy to manage request traffic from application clients to GenAI services with unified API access and usage limits.
+*   [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) - Multi-LLM AI gateway built on Kong Gateway, offering semantic caching, prompt security, and AI observability through dedicated plugins.
+*   [LiteLLM (⭐50k) (⭐49k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
+*   [Portkey AI Gateway (⭐12k) (⭐12k)](https://github.com/Portkey-AI/gateway) - A fast AI gateway that routes to 250+ LLMs with guardrails, caching, retries, and load balancing via a single API.
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐420) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [Boomi API Management](https://boomi.com/platform/api-management/) - Cloud-native API management within the Boomi Enterprise Platform, covering the full API lifecycle with centralized control across environments.
+*   [Gravitee.io API Management (⭐421) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+
+### Projects / API Design
+
+*   [oasdiff (⭐1.2k) (⭐1.2k)](https://github.com/oasdiff/oasdiff) - Compare OpenAPI specs and detect breaking changes, with changelog generation in multiple output formats.
+*   [Redocly CLI (⭐1.4k) (⭐1.5k)](https://github.com/Redocly/redocly-cli) - Lint, bundle, and preview OpenAPI descriptions with configurable rulesets and plugins.
+*   [vacuum (⭐1k) (⭐1.1k)](https://github.com/daveshanley/vacuum) - An ultra-fast OpenAPI linter and quality analysis tool, compatible with Spectral rulesets.
+
+### Projects / API Documentation
+
+*   [Bump.sh](https://bump.sh/) - Generates hosted API documentation and changelogs from OpenAPI and AsyncAPI definitions, with automatic breaking-change detection.
+*   [Fern (⭐3.6k) (⭐3.7k)](https://github.com/fern-api/fern) - Generates SDKs and interactive API documentation from OpenAPI or its own API definition format.
+*   [OpenAPI Explorer (⭐349) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [ReadMe](https://readme.com/) - Hosted developer hubs that turn OpenAPI definitions into interactive, personalized API documentation with usage metrics.
+*   [Scalar (⭐15k) (⭐15k)](https://github.com/scalar/scalar) - Renders modern, interactive API references from OpenAPI/Swagger documents, with an integrated API client and broad framework integrations.
+*   [Zudoku (⭐543) (⭐540)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Testing
+
+*   API clients
+    *   [Bruno (⭐44k) (⭐45k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
+    *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [curlie (⭐3.6k) (⭐3.7k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
+    *   [gRPC UI (⭐5.9k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
+    *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
+    *   [Hoppscotch (⭐79k) (⭐79k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
+    *   [HTTPie (⭐38k) (⭐38k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+    *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
+    *   [Insomnia (⭐38k) (⭐38k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
+    *   [posting (⭐12k) (⭐12k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+    *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
+    *   [Requestly (⭐6.7k) (⭐6.7k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
+    *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A tiny command-line REST client implemented as shell functions around curl, handy for quick API exploration from the terminal.
+    *   [SoapUI (⭐1.6k) (⭐1.7k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
+    *   [Wombat (⭐1.4k) (⭐1.4k)](https://github.com/rogchap/wombat) - A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.
+    *   [xh (⭐7.8k) (⭐7.9k)](https://github.com/ducaale/xh) - A fast, friendly CLI HTTP client that reimplements HTTPie's design with improved performance, HTTP/2 support, and built-in curl translation.
+    *   [Yaade (⭐1.9k) (⭐2k)](https://github.com/EsperoTech/yaade) - A self-hosted, collaborative API development environment designed for team sharing with multi-user support, persistent storage, and support for REST, WebSockets, and Markdown documentation.
+    *   [Yaak (⭐18k) (⭐19k)](https://github.com/mountain-loop/yaak) - A fast, privacy-first desktop API client for REST, GraphQL, WebSocket, Server-Sent Events, and gRPC with offline-first design, built with Tauri and React.
+*   Contract testing
+    *   [Pact](https://docs.pact.io/) - The de-facto standard for consumer-driven contract testing, with implementations in most major languages and a broker for sharing contracts between teams.
+    *   [Specmatic (⭐381) (⭐381)](https://github.com/specmatic/specmatic) - Turns OpenAPI, AsyncAPI, and gRPC specifications into executable contracts for contract-driven development and testing.
+    *   [Spring Cloud Contract (⭐730) (⭐730)](https://github.com/spring-cloud/spring-cloud-contract) - Consumer-driven contract testing for JVM applications, generating tests and stubs from Groovy or YAML contract definitions.
+
+### Projects / B2B Integration
+
+*   [OpenAS2 (⭐232) (⭐232)](https://github.com/OpenAS2/OpenAs2App) - Java-based open-source implementation of the AS2 protocol for secure, signed, and encrypted document exchange over HTTP.
+*   [phase4 (⭐221) (⭐221)](https://github.com/phax/phase4) - Embeddable, lightweight Java library implementing the AS4 messaging protocol, including the Peppol and CEF/eDelivery profiles.
+*   [Smooks (⭐416) (⭐416)](https://github.com/smooks/smooks) - Extensible Java framework for processing and transforming structured data such as EDI, XML, CSV, and JSON.
+
+### Projects / Change Data Capture
+
+*   [AWS Database Migration Service](https://aws.amazon.com/dms/) - Managed migration and replication service with CDC support for keeping databases, data warehouses, and data lakes in sync.
+*   [PeerDB (⭐3.1k) (⭐3.1k)](https://github.com/PeerDB-io/peerdb) - Postgres-first CDC platform for fast, simple replication from PostgreSQL to data warehouses, queues, and storage.
+*   [Striim](https://www.striim.com/) - Real-time data integration and streaming platform with log-based CDC from databases to cloud analytics targets.
+
+### Projects / Data Integration
+
+*   [Apache SeaTunnel (⭐9.3k) (⭐9.4k)](https://github.com/apache/seatunnel) - High-performance, distributed data integration platform supporting batch and streaming synchronization across hundreds of connectors.
+*   [Conduit (⭐600) (⭐600)](https://github.com/ConduitIO/conduit) - Lightweight data integration tool written in Go that streams data between systems using built-in or standalone connectors, with Kafka Connect compatibility.
+*   [dlt (⭐5.4k) (⭐5.5k)](https://github.com/dlt-hub/dlt) - Open-source Python library for building data pipelines as code, with schema evolution and incremental loading out of the box.
+*   [Meltano (⭐2.5k) (⭐2.5k)](https://github.com/meltano/meltano) - Declarative, code-first data integration engine that runs Singer taps and targets with version-controlled pipeline configuration.
+*   [Singer (⭐1.3k) (⭐1.3k)](https://github.com/singer-io/getting-started) - Open-source standard for writing scripts that move data, defining a JSON-based protocol between extraction "taps" and loading "targets".
+
+### Projects / Enterprise Service Bus
+
+*   [CData Arc](https://www.cdata.com/arc/) - Integration platform (formerly ArcESB) that synchronizes data across applications, streamlines partner connectivity, and automates EDI and MFT workflows.
+*   [Red Hat build of Apache Camel](https://developers.redhat.com/products/redhat-build-of-apache-camel/overview) - Red Hat's supported distribution of Apache Camel (successor to Red Hat Fuse) for building cloud-native integrations.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐162) (⭐161)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
+*   [MassTransit (⭐7.7k) (⭐7.8k)](https://github.com/MassTransit/MassTransit) - Distributed application framework for .NET that provides a consistent messaging abstraction on top of transports such as RabbitMQ, Azure Service Bus, and Amazon SQS.
+*   [Spring Cloud Stream (⭐1k) (⭐1.1k)](https://github.com/spring-cloud/spring-cloud-stream) - Framework for building event-driven microservices connected to shared messaging systems through binder abstractions for Kafka, RabbitMQ, and more.
+*   [Wolverine (⭐2.2k) (⭐2.2k)](https://github.com/JasperFx/wolverine) - Low-ceremony messaging and command-bus framework for .NET with built-in durable messaging and transports like RabbitMQ and Kafka.
+
+### Projects / Integration Platform as a Service
+
+*   [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Microsoft's iPaaS for building automated workflows with hundreds of prebuilt connectors for cloud and on-premises systems.
+*   [Camel K (⭐919) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+
+### Projects / Managed File Transfer
+
+*   [CData Arc MFT](https://www.cdata.com/arc/mft/) - Enterprise-grade MFT solution (formerly ArcESB) with an intuitive interface and powerful automation for streamlined file exchanges.
+
+### Projects / Message Broker
+
+*   [Apache Iggy (⭐4.3k) (⭐4.3k)](https://github.com/apache/iggy) - Persistent message streaming platform written in Rust, supporting QUIC, TCP, and HTTP transports with high throughput and low latency.
+*   [AutoMQ (⭐10k) (⭐10k)](https://github.com/AutoMQ/automq) - Stateless, Kafka-compatible broker that runs on S3-class object storage for elastic scaling and reduced cost.
+*   [HiveMQ (⭐1.2k) (⭐1.2k)](https://github.com/hivemq/hivemq-community-edition) - MQTT broker built for reliable IoT messaging at scale, with an open-source community edition and a rich extension system.
+*   [Magistrala (⭐2.6k) (⭐2.6k)](https://github.com/absmach/magistrala) - Distributed, event-driven infrastructure for messaging supporting multiple protocols (HTTP, MQTT, WebSocket, CoAP) with strong security and IoT capabilities.
+*   [NATS (⭐20k) (⭐20k)](https://github.com/nats-io/nats-server) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
+*   [Redpanda (⭐12k) (⭐12k)](https://github.com/redpanda-data/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
+*   [ZeroMQ (⭐10k) (⭐11k)](https://github.com/zeromq/libzmq) - High-performance asynchronous messaging library providing broker-less, socket-based messaging patterns for distributed applications.
+
+### Projects / Schema Registry
+
+*   [Apicurio Registry (⭐813) (⭐814)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
+*   [AWS Glue Schema Registry](https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html) - Managed registry to validate and control the evolution of streaming data schemas, integrated with MSK, Kinesis, and Flink.
+*   [Azure Schema Registry](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview) - Schema registry hosted in Azure Event Hubs that centralizes schema management and governance for event-driven applications.
+*   [Confluent Schema Registry (⭐2.4k) (⭐2.4k)](https://github.com/confluentinc/schema-registry) - Widely used registry for Kafka, providing a RESTful interface and compatibility checks for Avro, JSON Schema, and Protobuf schemas.
+*   [Karapace (⭐618) (⭐619)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
+
+### Projects / Self-Service Integration
+
+*   [Activepieces (⭐22k) (⭐23k)](https://github.com/activepieces/activepieces) - Open-source, self-hostable automation platform with a no-code visual builder and hundreds of connectors ("pieces"), positioned as a Zapier alternative.
+*   [Automatisch (⭐13k) (⭐14k)](https://github.com/automatisch/automatisch) - Open-source business automation tool that connects popular services without sharing your data with third parties.
+*   [Huginn (⭐49k) (⭐49k)](https://github.com/huginn/huginn) - Self-hosted system for building agents that monitor services and act on your behalf, like a hackable version of IFTTT.
+*   [n8n (⭐192k) (⭐191k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [Node-RED (⭐23k) (⭐23k)](https://github.com/node-red/node-red) - Low-code, flow-based programming tool for wiring together hardware devices, APIs, and online services through a browser-based visual editor.
+*   [Pipedream (⭐11k) (⭐11k)](https://github.com/PipedreamHQ/pipedream) - Developer-centric integration platform that combines thousands of prebuilt triggers and actions with code-level control in Node.js, Python, Go, and Bash.
+
+### Projects / Stream Processing
+
+*   [Apache Beam (⭐8.6k) (⭐8.6k)](https://github.com/apache/beam) - Unified programming model for batch and streaming pipelines, portable across runners such as Flink, Spark, and Google Cloud Dataflow.
+*   [Apache Flink (⭐26k) (⭐26k)](https://github.com/apache/flink) - Distributed stream processing framework with stateful computations, exactly-once semantics, and event-time processing at scale.
+*   [Apache Spark (⭐43k) (⭐43k)](https://github.com/apache/spark) - Unified analytics engine whose Structured Streaming API provides scalable, fault-tolerant stream processing on the Spark SQL engine.
+*   [Arroyo (⭐4.9k) (⭐4.9k)](https://github.com/ArroyoSystems/arroyo) - Rust-native stream processing engine that lets users build real-time pipelines with SQL, designed for serverless operation.
+*   [Bytewax (⭐2k) (⭐2k)](https://github.com/bytewax/bytewax) - Python stream processing framework built on Timely Dataflow, combining Python's ecosystem with Rust performance.
+*   [Kafka Streams](https://kafka.apache.org/documentation/streams/) - Client library for building streaming applications and microservices directly on top of Apache Kafka.
+*   [ksqlDB (⭐304) (⭐305)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
+*   [Redpanda Connect (⭐8.6k) (⭐8.7k)](https://github.com/redpanda-data/connect) - Declarative stream processor and connector toolkit (formerly Benthos) for transforming and routing data between systems.
+*   [RisingWave (⭐9k) (⭐9.1k)](https://github.com/risingwavelabs/risingwave) - Postgres-compatible streaming database for incremental, real-time materialized views over event streams.
+
+### Projects / Webhook Infrastructure
+
+*   [Convoy (⭐2.8k) (⭐2.8k)](https://github.com/frain-dev/convoy) - Open-source webhooks gateway for sending and receiving webhooks with retries, rate limiting, and a management dashboard.
+*   [Hookdeck](https://hookdeck.com/) - Managed event gateway for receiving, queuing, transforming, and replaying webhooks and other event traffic.
+*   [Svix (⭐3.2k) (⭐3.2k)](https://github.com/svix/svix-webhooks) - Webhook sending service with an open-source server, handling signing, retries, and endpoint management for webhook providers.
+
+### Projects / Workflow Engine
+
+*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Serverless orchestration service for composing AWS services and custom logic into visual state-machine workflows.
+*   [Camunda (⭐4.1k) (⭐4.2k)](https://github.com/camunda/camunda) - Process orchestration platform built on the horizontally scalable Zeebe engine, with full BPMN and DMN support.
+*   [Conductor (⭐31k) (⭐32k)](https://github.com/conductor-oss/conductor) - Durable workflow orchestration engine originally built at Netflix, now maintained by the community after the original repository was archived.
+*   [Dagster (⭐15k) (⭐16k)](https://github.com/dagster-io/dagster) - Data orchestrator with a declarative, asset-based programming model for building and observing data pipelines.
+*   [Google Cloud Workflows](https://cloud.google.com/workflows) - Serverless orchestration to combine Google Cloud services and HTTP-based APIs into reliable, stateful workflows.
+*   [Inngest (⭐5.4k) (⭐5.5k)](https://github.com/inngest/inngest) - Event-driven durable execution platform that runs reliable step functions inside your existing services.
+*   [Kestra (⭐27k) (⭐27k)](https://github.com/kestra-io/kestra) - Event-driven declarative orchestrator with workflows defined in YAML and hundreds of plugins for data and infrastructure automation.
+*   [LittleHorse (⭐379) (⭐379)](https://github.com/littlehorse-enterprises/littlehorse) - High-throughput, low-latency microservice orchestration engine built on Kafka Streams, with SDKs in multiple languages.
+*   [Restate (⭐4k) (⭐4k)](https://github.com/restatedev/restate) - Durable execution engine for building resilient workflows, event-driven services, and stateful handlers as plain code.
+*   [Windmill (⭐16k) (⭐17k)](https://github.com/windmill-labs/windmill) - Open-source developer platform that turns scripts in Python, TypeScript, Go, and more into workflows, internal UIs, and scheduled jobs.
+
+### Resources / API Style Guides
+
+*   [API Stylebook](https://apistylebook.com/) - Collection of publicly available API design guidelines from companies such as Atlassian, Cisco, and Zalando, curated by Arnaud Lauret.
+*   [Google API Improvement Proposals](https://google.aip.dev/) - Design documents that codify Google's API design decisions, providing numbered, citable guidance for resource-oriented APIs.
+*   [Google Cloud API Design Guide](https://cloud.google.com/apis/design) - General design guide for networked APIs, used inside Google for both gRPC and REST APIs.
+*   [Microsoft REST API Guidelines (⭐23k) (⭐23k)](https://github.com/microsoft/api-guidelines) - Microsoft's company-wide guidelines for designing consistent REST APIs, including a Microsoft Graph-specific addendum.
+*   [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - Comprehensive, opinionated guidelines for designing RESTful APIs and event schemas, widely reused by other organizations.
+
+### Resources / Books
+
+*   [API Design Patterns](https://www.manning.com/books/api-design-patterns) - JJ Geewax's catalog of design patterns for resource-oriented APIs, covering naming, pagination, versioning, and more.
+*   [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/) - Adam Bellemare's guide to leveraging organizational data at scale with event-driven architectures.
+*   [Designing Data-Intensive Applications](https://dataintensive.net/) - Martin Kleppmann's deep dive into the ideas behind reliable, scalable, and maintainable data systems, including replication, partitioning, and stream processing.
+*   [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Gregor Hohpe and Bobby Woolf's catalog of 65 messaging patterns; the foundational book for asynchronous integration.
+*   [Flow Architectures](https://www.oreilly.com/library/view/flow-architectures/9781492075882/) - James Urquhart on the future of streaming, event-driven integration, and its impact on business.
+*   [Patterns for API Design](https://api-patterns.org/book/) - The book companion to the Microservice API Patterns language by Olaf Zimmermann and co-authors, on simplifying integration with loosely coupled message exchanges.
+*   [Principles of Web API Design](https://www.informit.com/store/principles-of-web-api-design-delivering-value-with-9780137355631) - James Higginbotham's process-driven approach to designing web APIs that deliver value, from requirements to documentation.
+
+### Resources / Data Formats
+
+*   [Apache Thrift (⭐10k) (⭐11k)](https://github.com/apache/thrift) - A serialization and RPC framework originally developed at Facebook that generates cross-language bindings from a single interface definition file.
+*   [Cap'n Proto (⭐13k) (⭐13k)](https://github.com/capnproto/capnproto) - An extremely fast data interchange format and RPC system whose zero-copy encoding doubles as both wire format and in-memory representation.
+*   [CBOR](https://cbor.io/) - Concise Binary Object Representation (RFC 8949), a binary data format with a JSON-like data model designed for small message sizes and constrained devices.
+*   EDI standards for exchanging business documents between trading partners.
+    *   [UN/EDIFACT](https://unece.org/trade/uncefact/introducing-unedifact) - The United Nations EDI standard for administration, commerce, and transport, dominant outside North America.
+    *   [X12](https://x12.org/) - The ANSI-accredited EDI standard widely used in North America for transactions such as orders, invoices, and healthcare claims.
+*   [FlatBuffers (⭐26k) (⭐26k)](https://github.com/google/flatbuffers) - An efficient cross-platform serialization library from Google that allows direct access to serialized data without parsing or unpacking.
+*   [MessagePack (⭐7.4k) (⭐7.5k)](https://github.com/msgpack/msgpack) - An efficient binary serialization format that lets you exchange data among multiple languages like JSON, but smaller and faster.
+*   [YAML (⭐477) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+### Resources / Protocols
+
+*   [AS2](https://datatracker.ietf.org/doc/html/rfc4130) - A protocol for secure and reliable transport of EDI and other business documents over HTTP/S, using S/MIME for signing and encryption.
+*   [AS4](https://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/AS4-profile-v1.0.html) - An OASIS profile of ebMS 3.0 for secure, web-services-based B2B document exchange, widely mandated in e-government networks such as Peppol.
+*   [gRPC](https://grpc.io/) - A high-performance, open-source RPC framework that uses HTTP/2 and Protocol Buffers, with support for streaming, pluggable load balancing, and authentication.
+*   [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) - A WHATWG standard for pushing text-based event streams from servers to clients over plain HTTP.
+*   [WebSocket](https://datatracker.ietf.org/doc/html/rfc6455) - A protocol providing full-duplex, bidirectional communication channels over a single TCP connection, ideal for real-time applications.
+
+### Resources / Standard APIs
+
+*   [FHIR](https://www.hl7.org/fhir/) - HL7's Fast Healthcare Interoperability Resources standard, defining RESTful APIs and resource formats for exchanging healthcare data.
+*   [Open Banking](https://www.openbanking.org.uk/) - UK standard defining secure APIs that enable banks to share account and payment data with authorized third-party providers.
+
+## [Jun 11, 2026](/content/2026/06/11/README.md)
 
 ### Projects / API Design
 
 *   [OpenAPI Style Validator (⭐237) (⭐236)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Zally (⭐944) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐348) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
 
 ### Projects / API Gateway
 
@@ -29,10 +219,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Estuary Flow (⭐934) (⭐932)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
 
-### Projects / Integration Platform as a Service
-
-*   [Camel K (⭐918) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
-
 ### Projects / Message Broker
 
 *   [LavinMQ (⭐964) (⭐958)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
@@ -40,10 +226,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Robotic Process Automation
 
 *   [TagUI (⭐6.3k) (⭐6.3k)](https://github.com/aisingapore/TagUI) - An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.
-
-### Projects / Self-Service Integration
-
-*   [n8n (⭐191k) (⭐191k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ### Projects / Workflow Engine
 
@@ -54,15 +236,7 @@ A curated list of awesome system integration software and resources.
 *   [Arazzo Specification (⭐440) (⭐440)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
 *   [AsyncAPI (⭐5.2k) (⭐5.2k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
-### Resources / Data Formats
-
-*   [YAML (⭐475) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
-
-### Projects / API Documentation
-
-*   [Zudoku (⭐541) (⭐540)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / Data Mapping Solution
 
@@ -89,7 +263,7 @@ A curated list of awesome system integration software and resources.
     *   [Apache JMeter (⭐9.4k) (⭐9.4k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
     *   [Artillery (⭐8.9k) (⭐9k)](https://github.com/artilleryio/artillery) - A complete load testing platform supporting HTTP, WebSocket, Socket.io, gRPC, and more, with cloud-native serverless scaling on AWS Lambda and Fargate.
     *   [Gatling (⭐6.9k) (⭐6.9k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
-    *   [Hurl (⭐18k) (⭐19k)](https://github.com/Orange-OpenSource/hurl) - A command-line tool for running HTTP requests with plain text syntax, excellent for both API testing and CI/CD integration with support for chaining, capturing values, and comprehensive assertions.
+    *   [Hurl (⭐19k) (⭐19k)](https://github.com/Orange-OpenSource/hurl) - A command-line tool for running HTTP requests with plain text syntax, excellent for both API testing and CI/CD integration with support for chaining, capturing values, and comprehensive assertions.
     *   [Keploy (⭐17k) (⭐18k)](https://github.com/keploy/keploy) - A developer-centric API and integration testing tool that auto-generates tests and data-mocks from real traffic using eBPF, supporting any language without code changes.
     *   [ghz (⭐3.3k) (⭐3.3k)](https://github.com/bojand/ghz) - A simple gRPC benchmarking and load testing tool with support for various load schedules, concurrency control, and detailed performance metrics.
     *   [Grafana k6 (⭐30k) (⭐31k)](https://github.com/grafana/k6) - Open-source, JS-scriptable load-testing tool for CI/CD.
@@ -202,20 +376,11 @@ A curated list of awesome system integration software and resources.
 
 *   [ZEN Engine (⭐1.7k) (⭐1.8k)](https://github.com/gorules/zen) - A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.
 
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐161) (⭐161)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
-
-### Projects / Message Broker
-
-*   [Redpanda (⭐12k) (⭐12k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
-
 ## [Apr 19, 2026](/content/2026/04/19/README.md)
 
 ### Projects / Message Broker
 
 *   [Apache Qpid (⭐70) (⭐70)](https://github.com/apache/qpid-broker-j) - AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.
-*   [Magistrala (⭐2.5k) (⭐2.6k)](https://github.com/absmach/magistrala) - Distributed, event-driven infrastructure for messaging supporting multiple protocols (HTTP, MQTT, WebSocket, CoAP) with strong security and IoT capabilities.
 
 ### Projects / Workflow Engine
 
@@ -304,10 +469,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Ballerina (⭐3.8k) (⭐3.8k)](https://github.com/ballerina-platform/ballerina-lang) - Innovative programming language designed for effortless creation and integration of network services and APIs.
 
-### Projects / Message Broker
-
-*   [NATS (⭐19k) (⭐20k)](https://github.com/nats-io/gnatsd) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
-
 ### Projects / Workflow Engine
 
 *   [StackStorm (⭐6.4k) (⭐6.5k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
@@ -347,12 +508,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache Pulsar (⭐15k) (⭐15k)](https://github.com/apache/pulsar) - Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.
 
-## [Dec 10, 2025](/content/2025/12/10/README.md)
-
-### Projects / Business Rules Engine
-
-*   [Easy Rules (⭐5.2k) (⭐5.2k)](https://github.com/j-easy/easy-rules) - Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.
-
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Projects / API Design
@@ -363,8 +518,8 @@ A curated list of awesome system integration software and resources.
 
 *   [DapperDox (⭐417) (⭐417)](https://github.com/DapperDox/dapperdox) - Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.
 *   [Redoc (⭐25k) (⭐26k)](https://github.com/Redocly/redoc) - Delivers clean, modern documentation with advanced theming, multi-language support, and seamless integration.
-*   [Swagger UI (⭐28k) (⭐29k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 *   [SpectaQL (⭐1.2k) (⭐1.2k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
+*   [Swagger UI (⭐28k) (⭐29k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 
 ### Projects / API Gateway
 
@@ -476,19 +631,13 @@ A curated list of awesome system integration software and resources.
 
 *   [SnapLogic Integrator Accreditation](https://learn.snaplogic.com/snaplogic-accreditation) - It's designed for those who want to enhance their expertise on all core SnapLogic concepts for various integration needs across industries and lines of business.
 
-## [May 10, 2025](/content/2025/05/10/README.md)
-
-### Projects / Workflow Engine
-
-*   [Camunda (⭐4.2k) (⭐4.3k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
-
 ## [Apr 09, 2025](/content/2025/04/09/README.md)
 
 ### Projects / API Testing
 
 *   Mocking tools
     *   [Hoverfly (⭐2.4k) (⭐2.5k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-    *   [Imposter (⭐409) (⭐408)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Imposter (⭐410) (⭐408)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
     *   [Microcks (⭐1.9k) (⭐1.9k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
     *   [Mock Service Worker (MSW) (⭐17k) (⭐18k)](https://github.com/mswjs/msw) - A seamless API mocking library for browser and Node.js that intercepts requests at the network level.
     *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
@@ -497,7 +646,7 @@ A curated list of awesome system integration software and resources.
     *   [MockServer (⭐4.8k) (⭐4.9k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
     *   [Prism (⭐4.9k) (⭐5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
-    *   [WireMock (⭐7.2k) (⭐7.3k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
+    *   [WireMock (⭐7.2k) (⭐7.3k)](https://github.com/wiremock/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
 
 ### Projects / Data Mapping Solution
 
@@ -510,10 +659,6 @@ A curated list of awesome system integration software and resources.
 *   [Tyk API Gateway (⭐10k) (⭐11k)](https://github.com/TykTechnologies/tyk) - An enterprise-grade, open-source gateway supporting REST, GraphQL, TCP, and gRPC with advanced rate limiting and analytics.
 
 ## [Mar 06, 2025](/content/2025/03/06/README.md)
-
-### Projects / Business Rules Engine
-
-*   [Red Hat Decision Manager](https://access.redhat.com/products/red-hat-decision-manager) - Enterprise-class decision platform built on Drools, offering advanced DMN support, intuitive UIs, and high availability for large-scale automation.
 
 ### Projects / Data Integration
 
@@ -556,8 +701,8 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Managed File Transfer
 
-*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Comprehensive solution delivering centralized, secure file transfers with automation and complete audit logging.
 *   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - Hardened file transfer server that ensures end-to-end encryption, automation, and compliance for mission-critical data.
+*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Comprehensive solution delivering centralized, secure file transfers with automation and complete audit logging.
 *   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Integrated managed file transfer solution that supports flexible deployment across hybrid environments.
 *   [Progress MOVEit](https://www.progress.com/moveit) - Secure, automated file transfer solution with guaranteed delivery, encryption, and compliance tools for regulated industries.
 
@@ -574,12 +719,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Design
 
 *   [Dredd (⭐4.2k) (⭐4.2k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
-
-## [Jan 31, 2025](/content/2025/01/31/README.md)
-
-### Projects / API Management
-
-*   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -615,31 +754,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Slate (⭐36k) (⭐36k)](https://github.com/slatedocs/slate) - Converts markdown into stylish, static API documentation with intuitive navigation and clear code examples.
 
-## [Aug 14, 2024](/content/2024/08/14/README.md)
-
-### Projects / API Testing
-
-*   API clients
-    *   [Advanced REST Client (⭐1.4k) (⭐1.5k)](https://github.com/advanced-rest-client/arc-electron) - A robust open-source API client for testing and debugging RESTful services with an intuitive interface.
-    *   [Bruno (⭐44k) (⭐45k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
-    *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
-    *   [curlie (⭐3.6k) (⭐3.7k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
-    *   [gRPC UI (⭐5.9k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
-    *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
-    *   [HTTPie (⭐38k) (⭐38k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
-    *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
-    *   [Hoppscotch (⭐79k) (⭐79k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
-    *   [Insomnia (⭐38k) (⭐38k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
-    *   [posting (⭐12k) (⭐12k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
-    *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
-    *   [Requestly (⭐6.7k) (⭐6.7k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
-    *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
-    *   [SoapUI (⭐1.6k) (⭐1.7k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
-    *   [Wombat (⭐1.4k) (⭐1.4k)](https://github.com/rogchap/wombat) - A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.
-    *   [xh (⭐7.8k) (⭐7.9k)](https://github.com/ducaale/xh) - A fast, friendly CLI HTTP client that reimplements HTTPie's design with improved performance, HTTP/2 support, and built-in curl translation.
-    *   [Yaade (⭐1.9k) (⭐2k)](https://github.com/EsperoTech/yaade) - A self-hosted, collaborative API development environment designed for team sharing with multi-user support, persistent storage, and support for REST, WebSockets, and Markdown documentation.
-    *   [Yaak (⭐18k) (⭐19k)](https://github.com/mountain-loop/yaak) - A fast, privacy-first desktop API client for REST, GraphQL, WebSocket, Server-Sent Events, and gRPC with offline-first design, built with Tauri and React.
-
 ## [Jul 24, 2024](/content/2024/07/24/README.md)
 
 ### Projects / Workflow Engine
@@ -671,18 +785,6 @@ A curated list of awesome system integration software and resources.
 ### Resources / API Specification
 
 *   [API Blueprint (⭐8.6k) (⭐8.7k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
-
-## [Jan 03, 2024](/content/2024/01/03/README.md)
-
-### Projects / Workflow Engine
-
-*   [Conductor (⭐12k) (⭐13k)](https://github.com/Netflix/conductor) - Cloud-based orchestration engine that manages microservices workflows, streamlining complex process automation.
-
-## [Nov 30, 2023](/content/2023/11/30/README.md)
-
-### Projects / Enterprise Service Bus
-
-*   [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.
 
 ## [Aug 21, 2023](/content/2023/08/21/README.md)
 
@@ -808,7 +910,7 @@ A curated list of awesome system integration software and resources.
         *   [Linked Information Holder](https://microservice-api-patterns.org/patterns/quality/referenceManagement/LinkedInformationHolder) - How can messages be kept small even when an API deals with multiple information elements that reference each other?
 
     *   Data Transfer Parsimony
-        *   [Pagination](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/Pagination) - How can messages be kept small even when an API deals with multiple information elements that reference each other?
+        *   [Pagination](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/Pagination) - How can an API provider deliver large sequences of structured data without overwhelming clients?
         *   [Wish List](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/WishList) - How can an API client inform the API provider at runtime about the data it is interested in?
         *   [Wish Template](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/WishTemplate) - How can an API client inform the API provider about nested data that it is interested in? How can such preferences be expressed flexibly and dynamically?
         *   [Conditional Request](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/ConditionalRequest) - How can unnecessary server-side processing and bandwidth usage be avoided when frequently invoking API operations that return rarely changing data?
@@ -835,10 +937,10 @@ A curated list of awesome system integration software and resources.
     *   [Canonical Protocol](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_protocol) - Defines a common communication protocol between services to enable interoperability and decoupling.
     *   [Canonical Schema](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_schema) - Defines a standard data model and format for exchanging data between services.
     *   [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - Identifies and categorizes the types of services within a particular domain.
-    *   [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Establishes a single, enterprise-wide inventory of services to maximize reuse and recomposition.
     *   [Logic Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/logic_centralization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
-    *   [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
-    *   [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - Organizes services into logical layers based on the type of logic they encapsulate.
+    *   [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - Ensures service boundaries within an inventory do not overlap, avoiding redundant functionality.
 *   Logical Inventory Layer Patterns
     *   [Entity Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_abstraction) - Abstracts data entities to simplify data access and reduce coupling.
     *   [Process Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/process_abstraction) - Abstracts processes to improve reusability and maintainability.
@@ -851,8 +953,8 @@ A curated list of awesome system integration software and resources.
     *   [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - Centralizes data schemas to reduce duplication and improve consistency.
 *   Inventory Implementation Patterns
     *   [Canonical Resources](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_resources) - Defines a standard set of resources for common functionality across services.
-    *   [Cross-Domain Utility Layer](https://patterns.arcitura.com/soa-patterns/design_patterns/cross_domain_utility_layer) - Uses multiple protocols for improved performance and flexibility.
-    *   [Dual Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/dual_protocols) - Defines a common utility layer across multiple domains.
+    *   [Cross-Domain Utility Layer](https://patterns.arcitura.com/soa-patterns/design_patterns/cross_domain_utility_layer) - Establishes a common utility services layer shared across multiple domain inventories.
+    *   [Dual Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/dual_protocols) - Allows the service inventory to support two communication protocols to balance interoperability and performance.
     *   [Inventory Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/inventory_endpoint) - Defines a standard endpoint for accessing inventory resources.
     *   [Service Grid](https://patterns.arcitura.com/soa-patterns/design_patterns/service_grid) - Provides a framework for managing and scaling services.
     *   [State Repository](https://patterns.arcitura.com/soa-patterns/design_patterns/state_repository) - Stores and manages service state information.
@@ -866,10 +968,10 @@ A curated list of awesome system integration software and resources.
     *   [Agnostic Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_capability) - Abstracts service capabilities for improved flexibility.
     *   [Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_context) - Abstracts service context for improved flexibility.
     *   [Functional Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/functional_decomposition) - Breaks down services into smaller, more manageable components.
-    *   [Non-Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/non_agnostic_context) - Breaks down services into smaller, more manageable components.
+    *   [Non-Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/non_agnostic_context) - Encapsulates single-purpose, non-reusable logic in a dedicated service so it can still be governed within the inventory.
     *   [Service Encapsulation](https://patterns.arcitura.com/soa-patterns/design_patterns/service_encapsulation) - Encapsulates service functionality for improved maintainability.
 *   Service Implementation Patterns
-    *   [Partial State Deferral](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_state_deferral) - Encapsulates service functionality for improved maintainability.
+    *   [Partial State Deferral](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_state_deferral) - Temporarily defers a portion of service state data to optimize memory and resource consumption.
     *   [Partial Validation](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_validation) - Validates only relevant data for improved performance.
     *   [Redundant Implementation](https://patterns.arcitura.com/soa-patterns/design_patterns/redundant_implementation) - Implements multiple versions of a service for improved flexibility.
     *   [Service Data Replication](https://patterns.arcitura.com/soa-patterns/design_patterns/service_data_replication) - Replicates data across multiple services for improved performance.
@@ -886,7 +988,7 @@ A curated list of awesome system integration software and resources.
 *   Service Contract Design Patterns
     *   [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - Allows multiple versions of a service contract to coexist simultaneously.
     *   [Contract Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_centralization) - Centralizes service contracts to improve consistency and reduce duplication.
-    *   [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - Allows a service contract to include redundant capabilities to accommodate consumers with different data exchange requirements.
     *   [Decoupled Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/decoupled_contract) - Decouples service contracts from their implementation for improved flexibility.
     *   [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - Abstracts validation logic to improve reusability and maintainability.
 *   Legacy Encapsulation Patterns
@@ -1007,12 +1109,6 @@ A curated list of awesome system integration software and resources.
 *   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - Managed Kafka solution that simplifies scaling and management while delivering high performance and security.
 *   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - Serverless, real-time event streaming platform with Apache Kafka compatibility for efficient data processing.
 
-## [Mar 21, 2022](/content/2022/03/21/README.md)
-
-### Projects / Business Process Management
-
-*   [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - Cloud-native platform that enables cross-functional teams to design, deploy, and manage automated business workflows with agility.
-
 ## [Feb 24, 2022](/content/2022/02/24/README.md)
 
 ### Projects / Data Mapping Solution
@@ -1103,7 +1199,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Enterprise Service Bus
 
-*   [Apache ServiceMix](https://servicemix.apache.org/) - Versatile open-source integration container combining messaging, routing, and service mediation for flexible enterprise connectivity.
 *   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.
 
 ### Projects / Integration Platform as a Service
@@ -1150,7 +1245,6 @@ A curated list of awesome system integration software and resources.
 *   [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - Integrated platform combining workflow automation and BPM to optimize operational processes and decision-making.
 *   [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - Comprehensive solution offering robust process modeling, workflow automation, and real-time analytics to drive operational excellence.
 *   [Pega Platform](https://www.pega.com/products/platform) - Advanced BPM and RPA platform featuring intelligent process automation and workforce analytics to streamline operations.
-*   [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - Robust BPM offering that combines process orchestration with application integration for end-to-end operational efficiency.
 *   [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - Enterprise BPM solution delivering process automation, documentation, and predictive analytics to enhance performance and decision-making.
 
 ### Projects / Data Integration
@@ -1164,7 +1258,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Enterprise Service Bus
 
-*   [ArcESB](https://www.arcesb.com/integration/) - Flexible integration platform that synchronizes data across applications, streamlines partner connectivity, and enhances data accessibility.
 *   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Powerful ESB solution that virtualizes and manages service interactions to reduce integration complexity.
 *   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - Comprehensive SOA platform that orchestrates services into composite applications, driving efficient business process integration.
 *   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.
@@ -1181,7 +1274,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Managed File Transfer
 
-*   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - Enterprise-grade MFT solution with an intuitive interface and powerful automation for streamlined file exchanges.
 *   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Robust platform offering advanced security and efficient, reliable data transfer across enterprise systems.
 *   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - Scalable and high-performance MFT platform designed for secure, fast, and reliable file exchange.
 *   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - Comprehensive platform that simplifies secure file exchange and management for enterprise operations.
@@ -1285,10 +1377,6 @@ A curated list of awesome system integration software and resources.
 
 *   [IBM MQ](https://www.ibm.com/products/mq) - Enterprise-grade messaging solution providing robust features, high availability, and multi-protocol support.
 *   [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - Enterprise messaging platform based on open-source technologies, offering scalable and reliable message delivery.
-
-### Projects / Self-Service Integration
-
-*   [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Streamlined tool that automates tasks between cloud applications, making integration accessible for non-developers.
 
 ### Integration Patterns / Enterprise Integration Patterns
 

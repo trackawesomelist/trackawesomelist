@@ -581,7 +581,7 @@ Please take a quick gander at the [contribution guidelines (⭐175k)](https://gi
 *   [goveralls (⭐795)](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
 *   [muffet (⭐2.6k)](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives (⭐3.7k)](https://github.com/lycheeverse/lychee#features).
 *   [overalls (⭐116)](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
-*   [PikoCI (⭐12)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+*   [PikoCI (⭐110)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
 *   [roveralls (⭐21)](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
 *   [woodpecker (⭐7.2k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
@@ -2876,7 +2876,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [simples3 (⭐203)](https://github.com/rhnvrm/simples3) - Simple no frills AWS S3 Library using REST with V4 Signing written in Go.
 *   [slack (⭐4.9k)](https://github.com/slack-go/slack) - Slack API in Go.
 *   [smite (⭐11)](https://github.com/sergiotapia/smitego) - Go package to wraps access to the Smite game API.
-*   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+*   [spec (⭐110)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 *   [spotify (⭐53)](https://github.com/rapito/go-spotify) - Go Library to access Spotify WEB API.
 *   [steam (⭐33)](https://github.com/sostronk/go-steam) - Go Library to interact with Steam game servers.
 *   [stripe (⭐2.6k)](https://github.com/stripe/stripe-go) - Go client for the Stripe API.
@@ -3300,6 +3300,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ## Webhooks Server
 
 *   [webhook (⭐12k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
+*   [HookRun (⭐0)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
 *   [webhooked (⭐43)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 *   [WebhookX (⭐297)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
 
@@ -3679,7 +3680,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [kvbench (⭐27)](https://github.com/jimrobinson/kvbench) - Key/Value database benchmark.
 *   [skynet (⭐1.1k)](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 *   [speedtest-resize (⭐246)](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
-*   [vizb (⭐69)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐70)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 **[⬆ back to top](#contents)**
 

@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 13, 2026](/content/2026/06/13/README.md)
+
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [HookRun (⭐0)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
+
 ## [Jun 12, 2026](/content/2026/06/12/README.md)
 
 ### SQL Query Builders
@@ -87,7 +93,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Continuous Integration
 
-*   [PikoCI (⭐12)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+*   [PikoCI (⭐110)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
 
 ### Database Tools
 
@@ -95,7 +101,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+*   [spec (⭐110)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
@@ -712,7 +718,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [vizb (⭐69)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐70)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 ## [Mar 06, 2026](/content/2026/03/06/README.md)
 

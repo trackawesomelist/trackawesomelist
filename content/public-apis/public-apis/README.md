@@ -16,6 +16,59 @@ A collective list of free APIs
 
 
 
+### Business
+
+- API: [Pick an Agency](https://www.pickanagency.com/developers)
+
+  Description: Search 47,000+ marketing agencies by service, location and rating
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [Hyperliquid Market Data](https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest)
+
+  Description: Hyperliquid open interest, funding and cross-venue predicted rates per coin
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Geocoding
+
+- API: [IP-API.io](https://ip-api.io)
+
+  Description: IP geolocation with VPN/proxy/Tor detection, reputation and risk score
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LatLng](https://www.latlng.work/docs)
+
+  Description: Geocoding, reverse geocoding, places, and static maps
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Health
 
 - API: [Cure Cancer With AI](https://www.curecancerwithai.com/developers)
@@ -60,6 +113,20 @@ A collective list of free APIs
 - API: [K-Data Gate](https://kdata-gate.vercel.app/docs)
 
   Description: Korean market data: K-beauty/K-food products, Naver trends, stocks, real estate, weather
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Phone
+
+- API: [VeriRoute Intel](https://verirouteintel.com)
+
+  Description: CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers
 
   Auth: `apiKey`
 
@@ -1009,7 +1076,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐122)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -1130,7 +1197,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [TacoFancy](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1584,7 +1651,7 @@ A collective list of free APIs
 
 ### Cloud Storage & File Sharing
 
-- API: [FileUp](https://github.com/RealSinaSnp/FileUp)
+- API: [FileUp (⭐0)](https://github.com/RealSinaSnp/FileUp)
 
   Description: Temporary file hosting with upload API, expiration times, and view limits
 
@@ -1667,7 +1734,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐232)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -7035,7 +7102,7 @@ A collective list of free APIs
   CORS: Yes
 
 
-- API: [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
+- API: [Wandbox (⭐1.3k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
 
   Description: Code compiler supporting 35+ languages mentioned at wandbox.org
 
@@ -8187,7 +8254,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [NaMoMemes](https://github.com/theIYD/NaMoMemes)
+- API: [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)
 
   Description: Memes on Narendra Modi
 
@@ -8879,7 +8946,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐185)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 
@@ -12605,7 +12672,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [Barter.VG](https://github.com/bartervg/barter.vg/wiki)
+- API: [Barter.VG (⭐20)](https://github.com/bartervg/barter.vg/wiki)
 
   Description: Provides information about Game, DLC, Bundles, Giveaways, Trading
 
@@ -12633,7 +12700,7 @@ A collective list of free APIs
 
 ### Security
 
-- API: [Passwordinator](https://github.com/fawazsullia/password-generator/)
+- API: [Passwordinator (⭐38)](https://github.com/fawazsullia/password-generator/)
 
   Description: Generate random passwords of varying complexities
 
@@ -14804,7 +14871,7 @@ A collective list of free APIs
 
 ### Cryptocurrency
 
-- API: [Binance](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐4.8k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 
@@ -15459,7 +15526,7 @@ A collective list of free APIs
 
 ### Games & Comics
 
-- API: [GW2Spidy](https://github.com/rubensayshi/gw2spidy/wiki)
+- API: [GW2Spidy (⭐231)](https://github.com/rubensayshi/gw2spidy/wiki)
 
   Description: GW2Spidy API, Items data on the Guild Wars 2 Trade Market
 
@@ -18171,7 +18238,7 @@ A collective list of free APIs
 
 ### Anime
 
-- API: [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1.3k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 

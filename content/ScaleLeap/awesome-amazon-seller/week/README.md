@@ -2,9 +2,22 @@
 
 A curated list of tools and resources for Amazon sellers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 368 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ScaleLeap/awesome-amazon-seller/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) · ⭐ 403 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / Weekly / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
+
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Software and Tools
+
+*   [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. Residential proxies and TLS impersonation handled server-side. 1000 free requests on signup.
+*   *   [amztool](https://amztool.me) - Open-web Sponsored Products bulk-sheet generator. Reusable keyword dictionaries, one-click ad-group cloning, exports upload-ready .xlsx. Free tier. Companion [open spec](https://github.com/lizhl6/amazon-sp-bulk-sheet-spec) describes the schema.
+*   [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce product photos. Background removal, image generation, inpainting, upscaling, and virtual try-on. Browser-based, no signup required.
+*   [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit tool for comparing item dimensions against carton and mailer options before FBA or merchant-fulfilled shipping.
+
+### Other
+
+*   [chdh-tools-dataset (⭐4)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

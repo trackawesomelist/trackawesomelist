@@ -37,6 +37,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [govy (⭐45)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [HookRun (⭐0)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### Standard CLI
@@ -68,7 +72,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Continuous Integration
 
-*   [PikoCI (⭐12)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
+*   [PikoCI (⭐110)](https://github.com/pikoci/pikoci) - Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.
 
 ### Database Tools
 
@@ -88,7 +92,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [spec (⭐108)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
+*   [spec (⭐110)](https://github.com/oaswrap/spec) - Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -564,7 +568,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Benchmarks / Libraries for creating HTTP middlewares
 
-*   [vizb (⭐69)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
+*   [vizb (⭐70)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 

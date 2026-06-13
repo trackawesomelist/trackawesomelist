@@ -2,9 +2,23 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 265 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 269 · 🏷️ Miscellaneous
 
 [ [Daily](/content/msub2/awesome-webxr/README.md) / Weekly / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
+
+### Art
+
+*   [Silk Brush](https://msub2.github.io/silk-brush/) - A port of Tilt Brush to WebXR with plans for future extensions.
+
+### Communities / Discord
+
+*   [Borellion Discord](https://discord.gg/4JzX9ZTRQk) - Official server for Borellion.
+
+### Monetization / Other
+
+*   [Borellion](https://www.borellion.com/) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 
@@ -28,7 +42,7 @@ All things WebXR.
 
 ### Web3XR / Engines
 
-*   [Hyperfy (⭐285)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
+*   [Hyperfy (⭐293)](https://github.com/hyperfy-xyz/hyperfy) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -41,7 +55,7 @@ All things WebXR.
 
 ### Development / Frameworks and Libraries
 
-*   [JSAR-DOM (⭐82)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+*   [JSAR-DOM (⭐83)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
@@ -102,12 +116,6 @@ All things WebXR.
 
 *   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
     *   [Official Documentation](https://doc.x3dom.org/)
-
-## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
-
-### Monetization / Other
-
-*   [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -189,7 +197,6 @@ All things WebXR.
 ### Communities / Discord
 
 *   [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
-*   [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -258,7 +265,6 @@ All things WebXR.
 ### Art
 
 *   [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
-*   [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
 
 ### Audio
 
@@ -295,9 +301,9 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐196)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐200)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐31k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐31k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.6k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 

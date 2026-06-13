@@ -48,16 +48,100 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SimpleDMS](https://simpledms.eu) - Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself. ([Source Code (⭐141)](https://github.com/simpledms/simpledms), [Clients](https://simpledms.eu/en/product/integrations)) `AGPL-3.0` `Docker`
 
+##### Software / Note-taking & Editors
+
+*   [plumio](https://plumio.app/) - Markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more. ([Demo](https://demo.plumio.app/homepage), [Source Code (⭐124)](https://github.com/albertasaftei/plumio)) `AGPL-3.0` `Nodejs/Docker`
+
 ##### Software / Software Development - Project Management
 
 *   [Ideon](https://www.theideon.com) - Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. ([Source Code (⭐462)](https://github.com/3xpyth0n/ideon)) `AGPL-3.0` `Docker`
 
-#### [4. Public Apis](/content/public-apis/public-apis/README.md)
+#### [4. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+
+##### Software and Tools
+
+*   [Amazon Scraper API](https://amazonscraperapi.com) - Production REST API for Amazon product, search, and batch ASIN data across 20 marketplaces. Residential proxies and TLS impersonation handled server-side. 1000 free requests on signup.
+*   *   [amztool](https://amztool.me) - Open-web Sponsored Products bulk-sheet generator. Reusable keyword dictionaries, one-click ad-group cloning, exports upload-ready .xlsx. Free tier. Companion [open spec](https://github.com/lizhl6/amazon-sp-bulk-sheet-spec) describes the schema.
+*   [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce product photos. Background removal, image generation, inpainting, upscaling, and virtual try-on. Browser-based, no signup required.
+*   [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit tool for comparing item dimensions against carton and mailer options before FBA or merchant-fulfilled shipping.
+
+##### Other
+
+*   [chdh-tools-dataset (⭐4)](https://github.com/launotice-lang/chdh-tools-dataset) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
+
+#### [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+
+##### Art
+
+*   [Silk Brush](https://msub2.github.io/silk-brush/) - A port of Tilt Brush to WebXR with plans for future extensions.
+
+##### Communities / Discord
+
+*   [Borellion Discord](https://discord.gg/4JzX9ZTRQk) - Official server for Borellion.
+
+##### Monetization / Other
+
+*   [Borellion](https://www.borellion.com/) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
+
+#### [6. Public Apis](/content/public-apis/public-apis/README.md)
 - API: [Filestack](https://www.filestack.com/signup-start/)
 
   Description: Powerful API to upload, transform & deliver any file into your app
 
   Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://github.com/public-apis/public-apis/blob/master/README.md/www.postman.com/filestack-wolfpack/filestack/overview?sideView=agentMode)
+
+
+
+##### Business
+
+- API: [Pick an Agency](https://www.pickanagency.com/developers)
+
+  Description: Search 47,000+ marketing agencies by service, location and rating
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Cryptocurrency
+
+- API: [Hyperliquid Market Data](https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest)
+
+  Description: Hyperliquid open interest, funding and cross-venue predicted rates per coin
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+##### Geocoding
+
+- API: [IP-API.io](https://ip-api.io)
+
+  Description: IP geolocation with VPN/proxy/Tor detection, reputation and risk score
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [LatLng](https://www.latlng.work/docs)
+
+  Description: Geocoding, reverse geocoding, places, and static maps
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 
@@ -114,6 +198,255 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
+##### Phone
+
+- API: [VeriRoute Intel](https://verirouteintel.com)
+
+  Description: CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+#### [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / AI Gateway
+
+*   [agentgateway (⭐3.2k) (⭐3.3k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
+*   [Envoy AI Gateway (⭐1.7k) (⭐1.7k)](https://github.com/envoyproxy/ai-gateway) - An open-source gateway built on Envoy Proxy to manage request traffic from application clients to GenAI services with unified API access and usage limits.
+*   [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) - Multi-LLM AI gateway built on Kong Gateway, offering semantic caching, prompt security, and AI observability through dedicated plugins.
+*   [LiteLLM (⭐50k) (⭐49k)](https://github.com/BerriAI/litellm) - An LLM gateway that exposes 100+ model providers through a unified OpenAI-compatible API, with spend tracking, fallbacks, and rate limiting.
+*   [Portkey AI Gateway (⭐12k) (⭐12k)](https://github.com/Portkey-AI/gateway) - A fast AI gateway that routes to 250+ LLMs with guardrails, caching, retries, and load balancing via a single API.
+
+##### Projects / API Management
+
+*   [Boomi API Management](https://boomi.com/platform/api-management/) - Cloud-native API management within the Boomi Enterprise Platform, covering the full API lifecycle with centralized control across environments.
+*   [Gravitee.io API Management (⭐421) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+
+##### Projects / API Design
+
+*   [oasdiff (⭐1.2k) (⭐1.2k)](https://github.com/oasdiff/oasdiff) - Compare OpenAPI specs and detect breaking changes, with changelog generation in multiple output formats.
+*   [Redocly CLI (⭐1.4k) (⭐1.5k)](https://github.com/Redocly/redocly-cli) - Lint, bundle, and preview OpenAPI descriptions with configurable rulesets and plugins.
+*   [vacuum (⭐1k) (⭐1.1k)](https://github.com/daveshanley/vacuum) - An ultra-fast OpenAPI linter and quality analysis tool, compatible with Spectral rulesets.
+
+##### Projects / API Documentation
+
+*   [Bump.sh](https://bump.sh/) - Generates hosted API documentation and changelogs from OpenAPI and AsyncAPI definitions, with automatic breaking-change detection.
+*   [Fern (⭐3.6k) (⭐3.7k)](https://github.com/fern-api/fern) - Generates SDKs and interactive API documentation from OpenAPI or its own API definition format.
+*   [OpenAPI Explorer (⭐349) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [ReadMe](https://readme.com/) - Hosted developer hubs that turn OpenAPI definitions into interactive, personalized API documentation with usage metrics.
+*   [Scalar (⭐15k) (⭐15k)](https://github.com/scalar/scalar) - Renders modern, interactive API references from OpenAPI/Swagger documents, with an integrated API client and broad framework integrations.
+*   [Zudoku (⭐543) (⭐540)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+##### Projects / API Testing
+
+*   API clients
+    *   [Bruno (⭐44k) (⭐45k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
+    *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [curlie (⭐3.6k) (⭐3.7k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
+    *   [gRPC UI (⭐5.9k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
+    *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
+    *   [Hoppscotch (⭐79k) (⭐79k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
+    *   [HTTPie (⭐38k) (⭐38k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+    *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
+    *   [Insomnia (⭐38k) (⭐38k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
+    *   [posting (⭐12k) (⭐12k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+    *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
+    *   [Requestly (⭐6.7k) (⭐6.7k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
+    *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A tiny command-line REST client implemented as shell functions around curl, handy for quick API exploration from the terminal.
+    *   [SoapUI (⭐1.6k) (⭐1.7k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
+    *   [Wombat (⭐1.4k) (⭐1.4k)](https://github.com/rogchap/wombat) - A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.
+    *   [xh (⭐7.8k) (⭐7.9k)](https://github.com/ducaale/xh) - A fast, friendly CLI HTTP client that reimplements HTTPie's design with improved performance, HTTP/2 support, and built-in curl translation.
+    *   [Yaade (⭐1.9k) (⭐2k)](https://github.com/EsperoTech/yaade) - A self-hosted, collaborative API development environment designed for team sharing with multi-user support, persistent storage, and support for REST, WebSockets, and Markdown documentation.
+    *   [Yaak (⭐18k) (⭐19k)](https://github.com/mountain-loop/yaak) - A fast, privacy-first desktop API client for REST, GraphQL, WebSocket, Server-Sent Events, and gRPC with offline-first design, built with Tauri and React.
+*   Contract testing
+    *   [Pact](https://docs.pact.io/) - The de-facto standard for consumer-driven contract testing, with implementations in most major languages and a broker for sharing contracts between teams.
+    *   [Specmatic (⭐381) (⭐381)](https://github.com/specmatic/specmatic) - Turns OpenAPI, AsyncAPI, and gRPC specifications into executable contracts for contract-driven development and testing.
+    *   [Spring Cloud Contract (⭐730) (⭐730)](https://github.com/spring-cloud/spring-cloud-contract) - Consumer-driven contract testing for JVM applications, generating tests and stubs from Groovy or YAML contract definitions.
+
+##### Projects / B2B Integration
+
+*   [OpenAS2 (⭐232) (⭐232)](https://github.com/OpenAS2/OpenAs2App) - Java-based open-source implementation of the AS2 protocol for secure, signed, and encrypted document exchange over HTTP.
+*   [phase4 (⭐221) (⭐221)](https://github.com/phax/phase4) - Embeddable, lightweight Java library implementing the AS4 messaging protocol, including the Peppol and CEF/eDelivery profiles.
+*   [Smooks (⭐416) (⭐416)](https://github.com/smooks/smooks) - Extensible Java framework for processing and transforming structured data such as EDI, XML, CSV, and JSON.
+
+##### Projects / Change Data Capture
+
+*   [AWS Database Migration Service](https://aws.amazon.com/dms/) - Managed migration and replication service with CDC support for keeping databases, data warehouses, and data lakes in sync.
+*   [PeerDB (⭐3.1k) (⭐3.1k)](https://github.com/PeerDB-io/peerdb) - Postgres-first CDC platform for fast, simple replication from PostgreSQL to data warehouses, queues, and storage.
+*   [Striim](https://www.striim.com/) - Real-time data integration and streaming platform with log-based CDC from databases to cloud analytics targets.
+
+##### Projects / Data Integration
+
+*   [Apache SeaTunnel (⭐9.3k) (⭐9.4k)](https://github.com/apache/seatunnel) - High-performance, distributed data integration platform supporting batch and streaming synchronization across hundreds of connectors.
+*   [Conduit (⭐600) (⭐600)](https://github.com/ConduitIO/conduit) - Lightweight data integration tool written in Go that streams data between systems using built-in or standalone connectors, with Kafka Connect compatibility.
+*   [dlt (⭐5.4k) (⭐5.5k)](https://github.com/dlt-hub/dlt) - Open-source Python library for building data pipelines as code, with schema evolution and incremental loading out of the box.
+*   [Meltano (⭐2.5k) (⭐2.5k)](https://github.com/meltano/meltano) - Declarative, code-first data integration engine that runs Singer taps and targets with version-controlled pipeline configuration.
+*   [Singer (⭐1.3k) (⭐1.3k)](https://github.com/singer-io/getting-started) - Open-source standard for writing scripts that move data, defining a JSON-based protocol between extraction "taps" and loading "targets".
+
+##### Projects / Enterprise Service Bus
+
+*   [CData Arc](https://www.cdata.com/arc/) - Integration platform (formerly ArcESB) that synchronizes data across applications, streamlines partner connectivity, and automates EDI and MFT workflows.
+*   [Red Hat build of Apache Camel](https://developers.redhat.com/products/redhat-build-of-apache-camel/overview) - Red Hat's supported distribution of Apache Camel (successor to Red Hat Fuse) for building cloud-native integrations.
+
+##### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐162) (⭐161)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
+*   [MassTransit (⭐7.7k) (⭐7.8k)](https://github.com/MassTransit/MassTransit) - Distributed application framework for .NET that provides a consistent messaging abstraction on top of transports such as RabbitMQ, Azure Service Bus, and Amazon SQS.
+*   [Spring Cloud Stream (⭐1k) (⭐1.1k)](https://github.com/spring-cloud/spring-cloud-stream) - Framework for building event-driven microservices connected to shared messaging systems through binder abstractions for Kafka, RabbitMQ, and more.
+*   [Wolverine (⭐2.2k) (⭐2.2k)](https://github.com/JasperFx/wolverine) - Low-ceremony messaging and command-bus framework for .NET with built-in durable messaging and transports like RabbitMQ and Kafka.
+
+##### Projects / Integration Platform as a Service
+
+*   [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Microsoft's iPaaS for building automated workflows with hundreds of prebuilt connectors for cloud and on-premises systems.
+*   [Camel K (⭐919) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+
+##### Projects / Managed File Transfer
+
+*   [CData Arc MFT](https://www.cdata.com/arc/mft/) - Enterprise-grade MFT solution (formerly ArcESB) with an intuitive interface and powerful automation for streamlined file exchanges.
+
+##### Projects / Message Broker
+
+*   [Apache Iggy (⭐4.3k) (⭐4.3k)](https://github.com/apache/iggy) - Persistent message streaming platform written in Rust, supporting QUIC, TCP, and HTTP transports with high throughput and low latency.
+*   [AutoMQ (⭐10k) (⭐10k)](https://github.com/AutoMQ/automq) - Stateless, Kafka-compatible broker that runs on S3-class object storage for elastic scaling and reduced cost.
+*   [HiveMQ (⭐1.2k) (⭐1.2k)](https://github.com/hivemq/hivemq-community-edition) - MQTT broker built for reliable IoT messaging at scale, with an open-source community edition and a rich extension system.
+*   [Magistrala (⭐2.6k) (⭐2.6k)](https://github.com/absmach/magistrala) - Distributed, event-driven infrastructure for messaging supporting multiple protocols (HTTP, MQTT, WebSocket, CoAP) with strong security and IoT capabilities.
+*   [NATS (⭐20k) (⭐20k)](https://github.com/nats-io/nats-server) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
+*   [Redpanda (⭐12k) (⭐12k)](https://github.com/redpanda-data/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
+*   [ZeroMQ (⭐10k) (⭐11k)](https://github.com/zeromq/libzmq) - High-performance asynchronous messaging library providing broker-less, socket-based messaging patterns for distributed applications.
+
+##### Projects / Schema Registry
+
+*   [Apicurio Registry (⭐813) (⭐814)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
+*   [AWS Glue Schema Registry](https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html) - Managed registry to validate and control the evolution of streaming data schemas, integrated with MSK, Kinesis, and Flink.
+*   [Azure Schema Registry](https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview) - Schema registry hosted in Azure Event Hubs that centralizes schema management and governance for event-driven applications.
+*   [Confluent Schema Registry (⭐2.4k) (⭐2.4k)](https://github.com/confluentinc/schema-registry) - Widely used registry for Kafka, providing a RESTful interface and compatibility checks for Avro, JSON Schema, and Protobuf schemas.
+*   [Karapace (⭐618) (⭐619)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
+
+##### Projects / Self-Service Integration
+
+*   [Activepieces (⭐22k) (⭐23k)](https://github.com/activepieces/activepieces) - Open-source, self-hostable automation platform with a no-code visual builder and hundreds of connectors ("pieces"), positioned as a Zapier alternative.
+*   [Automatisch (⭐13k) (⭐14k)](https://github.com/automatisch/automatisch) - Open-source business automation tool that connects popular services without sharing your data with third parties.
+*   [Huginn (⭐49k) (⭐49k)](https://github.com/huginn/huginn) - Self-hosted system for building agents that monitor services and act on your behalf, like a hackable version of IFTTT.
+*   [n8n (⭐192k) (⭐191k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [Node-RED (⭐23k) (⭐23k)](https://github.com/node-red/node-red) - Low-code, flow-based programming tool for wiring together hardware devices, APIs, and online services through a browser-based visual editor.
+*   [Pipedream (⭐11k) (⭐11k)](https://github.com/PipedreamHQ/pipedream) - Developer-centric integration platform that combines thousands of prebuilt triggers and actions with code-level control in Node.js, Python, Go, and Bash.
+
+##### Projects / Stream Processing
+
+*   [Apache Beam (⭐8.6k) (⭐8.6k)](https://github.com/apache/beam) - Unified programming model for batch and streaming pipelines, portable across runners such as Flink, Spark, and Google Cloud Dataflow.
+*   [Apache Flink (⭐26k) (⭐26k)](https://github.com/apache/flink) - Distributed stream processing framework with stateful computations, exactly-once semantics, and event-time processing at scale.
+*   [Apache Spark (⭐43k) (⭐43k)](https://github.com/apache/spark) - Unified analytics engine whose Structured Streaming API provides scalable, fault-tolerant stream processing on the Spark SQL engine.
+*   [Arroyo (⭐4.9k) (⭐4.9k)](https://github.com/ArroyoSystems/arroyo) - Rust-native stream processing engine that lets users build real-time pipelines with SQL, designed for serverless operation.
+*   [Bytewax (⭐2k) (⭐2k)](https://github.com/bytewax/bytewax) - Python stream processing framework built on Timely Dataflow, combining Python's ecosystem with Rust performance.
+*   [Kafka Streams](https://kafka.apache.org/documentation/streams/) - Client library for building streaming applications and microservices directly on top of Apache Kafka.
+*   [ksqlDB (⭐304) (⭐305)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
+*   [Redpanda Connect (⭐8.6k) (⭐8.7k)](https://github.com/redpanda-data/connect) - Declarative stream processor and connector toolkit (formerly Benthos) for transforming and routing data between systems.
+*   [RisingWave (⭐9k) (⭐9.1k)](https://github.com/risingwavelabs/risingwave) - Postgres-compatible streaming database for incremental, real-time materialized views over event streams.
+
+##### Projects / Webhook Infrastructure
+
+*   [Convoy (⭐2.8k) (⭐2.8k)](https://github.com/frain-dev/convoy) - Open-source webhooks gateway for sending and receiving webhooks with retries, rate limiting, and a management dashboard.
+*   [Hookdeck](https://hookdeck.com/) - Managed event gateway for receiving, queuing, transforming, and replaying webhooks and other event traffic.
+*   [Svix (⭐3.2k) (⭐3.2k)](https://github.com/svix/svix-webhooks) - Webhook sending service with an open-source server, handling signing, retries, and endpoint management for webhook providers.
+
+##### Projects / Workflow Engine
+
+*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Serverless orchestration service for composing AWS services and custom logic into visual state-machine workflows.
+*   [Camunda (⭐4.1k) (⭐4.2k)](https://github.com/camunda/camunda) - Process orchestration platform built on the horizontally scalable Zeebe engine, with full BPMN and DMN support.
+*   [Conductor (⭐31k) (⭐32k)](https://github.com/conductor-oss/conductor) - Durable workflow orchestration engine originally built at Netflix, now maintained by the community after the original repository was archived.
+*   [Dagster (⭐15k) (⭐16k)](https://github.com/dagster-io/dagster) - Data orchestrator with a declarative, asset-based programming model for building and observing data pipelines.
+*   [Google Cloud Workflows](https://cloud.google.com/workflows) - Serverless orchestration to combine Google Cloud services and HTTP-based APIs into reliable, stateful workflows.
+*   [Inngest (⭐5.4k) (⭐5.5k)](https://github.com/inngest/inngest) - Event-driven durable execution platform that runs reliable step functions inside your existing services.
+*   [Kestra (⭐27k) (⭐27k)](https://github.com/kestra-io/kestra) - Event-driven declarative orchestrator with workflows defined in YAML and hundreds of plugins for data and infrastructure automation.
+*   [LittleHorse (⭐379) (⭐379)](https://github.com/littlehorse-enterprises/littlehorse) - High-throughput, low-latency microservice orchestration engine built on Kafka Streams, with SDKs in multiple languages.
+*   [Restate (⭐4k) (⭐4k)](https://github.com/restatedev/restate) - Durable execution engine for building resilient workflows, event-driven services, and stateful handlers as plain code.
+*   [Windmill (⭐16k) (⭐17k)](https://github.com/windmill-labs/windmill) - Open-source developer platform that turns scripts in Python, TypeScript, Go, and more into workflows, internal UIs, and scheduled jobs.
+
+##### Resources / API Style Guides
+
+*   [API Stylebook](https://apistylebook.com/) - Collection of publicly available API design guidelines from companies such as Atlassian, Cisco, and Zalando, curated by Arnaud Lauret.
+*   [Google API Improvement Proposals](https://google.aip.dev/) - Design documents that codify Google's API design decisions, providing numbered, citable guidance for resource-oriented APIs.
+*   [Google Cloud API Design Guide](https://cloud.google.com/apis/design) - General design guide for networked APIs, used inside Google for both gRPC and REST APIs.
+*   [Microsoft REST API Guidelines (⭐23k) (⭐23k)](https://github.com/microsoft/api-guidelines) - Microsoft's company-wide guidelines for designing consistent REST APIs, including a Microsoft Graph-specific addendum.
+*   [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - Comprehensive, opinionated guidelines for designing RESTful APIs and event schemas, widely reused by other organizations.
+
+##### Resources / Books
+
+*   [API Design Patterns](https://www.manning.com/books/api-design-patterns) - JJ Geewax's catalog of design patterns for resource-oriented APIs, covering naming, pagination, versioning, and more.
+*   [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/) - Adam Bellemare's guide to leveraging organizational data at scale with event-driven architectures.
+*   [Designing Data-Intensive Applications](https://dataintensive.net/) - Martin Kleppmann's deep dive into the ideas behind reliable, scalable, and maintainable data systems, including replication, partitioning, and stream processing.
+*   [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Gregor Hohpe and Bobby Woolf's catalog of 65 messaging patterns; the foundational book for asynchronous integration.
+*   [Flow Architectures](https://www.oreilly.com/library/view/flow-architectures/9781492075882/) - James Urquhart on the future of streaming, event-driven integration, and its impact on business.
+*   [Patterns for API Design](https://api-patterns.org/book/) - The book companion to the Microservice API Patterns language by Olaf Zimmermann and co-authors, on simplifying integration with loosely coupled message exchanges.
+*   [Principles of Web API Design](https://www.informit.com/store/principles-of-web-api-design-delivering-value-with-9780137355631) - James Higginbotham's process-driven approach to designing web APIs that deliver value, from requirements to documentation.
+
+##### Resources / Data Formats
+
+*   [Apache Thrift (⭐10k) (⭐11k)](https://github.com/apache/thrift) - A serialization and RPC framework originally developed at Facebook that generates cross-language bindings from a single interface definition file.
+*   [Cap'n Proto (⭐13k) (⭐13k)](https://github.com/capnproto/capnproto) - An extremely fast data interchange format and RPC system whose zero-copy encoding doubles as both wire format and in-memory representation.
+*   [CBOR](https://cbor.io/) - Concise Binary Object Representation (RFC 8949), a binary data format with a JSON-like data model designed for small message sizes and constrained devices.
+*   EDI standards for exchanging business documents between trading partners.
+    *   [UN/EDIFACT](https://unece.org/trade/uncefact/introducing-unedifact) - The United Nations EDI standard for administration, commerce, and transport, dominant outside North America.
+    *   [X12](https://x12.org/) - The ANSI-accredited EDI standard widely used in North America for transactions such as orders, invoices, and healthcare claims.
+*   [FlatBuffers (⭐26k) (⭐26k)](https://github.com/google/flatbuffers) - An efficient cross-platform serialization library from Google that allows direct access to serialized data without parsing or unpacking.
+*   [MessagePack (⭐7.4k) (⭐7.5k)](https://github.com/msgpack/msgpack) - An efficient binary serialization format that lets you exchange data among multiple languages like JSON, but smaller and faster.
+*   [YAML (⭐477) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+##### Resources / Protocols
+
+*   [AS2](https://datatracker.ietf.org/doc/html/rfc4130) - A protocol for secure and reliable transport of EDI and other business documents over HTTP/S, using S/MIME for signing and encryption.
+*   [AS4](https://docs.oasis-open.org/ebxml-msg/ebms/v3.0/profiles/AS4-profile/v1.0/AS4-profile-v1.0.html) - An OASIS profile of ebMS 3.0 for secure, web-services-based B2B document exchange, widely mandated in e-government networks such as Peppol.
+*   [gRPC](https://grpc.io/) - A high-performance, open-source RPC framework that uses HTTP/2 and Protocol Buffers, with support for streaming, pluggable load balancing, and authentication.
+*   [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) - A WHATWG standard for pushing text-based event streams from servers to clients over plain HTTP.
+*   [WebSocket](https://datatracker.ietf.org/doc/html/rfc6455) - A protocol providing full-duplex, bidirectional communication channels over a single TCP connection, ideal for real-time applications.
+
+##### Resources / Standard APIs
+
+*   [FHIR](https://www.hl7.org/fhir/) - HL7's Fast Healthcare Interoperability Resources standard, defining RESTful APIs and resource formats for exchanging healthcare data.
+*   [Open Banking](https://www.openbanking.org.uk/) - UK standard defining secure APIs that enable banks to share account and payment data with authorized third-party providers.
+
+#### [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+##### Quality / Barcode
+
+*   [solid-like-a-rock (⭐24)](https://github.com/nenadvulic/solid-like-a-rock) :penguin: - Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.
+
+##### Calendar / Barcode
+
+*   [Yotei (⭐129)](https://github.com/claustrofob/Yotei) - A modular, customizable SwiftUI/UIKit calendar package for iOS.
+
+#### [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Image processing
+
+*   [Darkly (⭐55)](https://github.com/darkly-art/darkly) - Entropic editor for digital artists and painters.
+*   [Graphite (⭐26k)](https://github.com/GraphiteEditor/Graphite) - Vector-based graphics editor.
+
+#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [HookRun (⭐0)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (\~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
+
+#### [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### Lisp parsers
+
+*   [Eclector (⭐129)](https://github.com/s-expressionists/Eclector/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
+    *   used in tools and libraries but still *under active development*
+*   [cl-sourcery](https://sr.ht/~hajovonta/cl-sourcery/) - Intercepts all standard CL definition forms (defun, defmacro, defclass, defstruct, etc.) to capture and store the exact source as written — including whitespace, comments, and formatting. MIT. *Built with LLMs*.
+
+#### [12. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Version Control & Packages / Version Control
+
+*   [sourcegraph/go-vcs (⭐80)](https://github.com/sourcegraph/go-vcs) — manipulate and inspect VCS repositories in Go ☆`80`
+
 ### [Jun 12, 2026](/content/2026/06/12/README.md)
 
 
@@ -162,13 +495,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mural.ch](https://www.mural.ch/) - Inventory of murals from all around the world, from the 19th century until today. Contains more than 13’000 records, with a focus on the 1920s to 1950s.
 
-#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [7. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+##### Developer Tools
+
+*   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
+
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Resource / OS-specific
+
+*   [ChuYanLon/chad46 (⭐3)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
+
+#### [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Text processing
 
 *   [harehare/mq (⭐430)](https://github.com/harehare/mq) - A command-line tool and library for processing Markdown using a jq-like syntax [![build badge](https://github.com/harehare/mq/actions/workflows/ci.yml/badge.svg)](https://github.com/harehare/mq/actions/workflows/ci.yml)
 
-#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### SQL Query Builders
 
@@ -177,18 +522,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Markup Languages
 
 *   [mdsmith (⭐7)](https://github.com/jeduden/mdsmith) - fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.
-
-#### [9. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
-
-##### Developer Tools
-
-*   [Respan](https://www.respan.ai/ai-gateway) - Full-stack AI engineering platform for tracing, evals, prompt management, and a gateway to 250+ models. `#freemium`
-
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Resource / OS-specific
-
-*   [ChuYanLon/chad46 (⭐3)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 
 ### [Jun 11, 2026](/content/2026/06/11/README.md)
 
@@ -200,20 +533,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [csvtodashboard](https://csvtodashboard.com) - Convert, clean, query (SQL) and visualize CSV entirely in the browser - local-first, nothing is uploaded.
 
-#### [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-##### Projects / API Management
+##### Data Visualization on Maps
 
-*   [Gravitee.io API Management (⭐420) (⭐417)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [LatLng](https://www.latlng.work) - Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.
+
+#### [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Design
 
 *   [OpenAPI Style Validator (⭐237) (⭐236)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Zally (⭐944) (⭐946)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-##### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐348) (⭐345)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
 
 ##### Projects / API Gateway
 
@@ -223,10 +554,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Estuary Flow (⭐934) (⭐932)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
 
-##### Projects / Integration Platform as a Service
-
-*   [Camel K (⭐918) (⭐917)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
-
 ##### Projects / Message Broker
 
 *   [LavinMQ (⭐964) (⭐958)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
@@ -234,10 +561,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Projects / Robotic Process Automation
 
 *   [TagUI (⭐6.3k) (⭐6.3k)](https://github.com/aisingapore/TagUI) - An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.
-
-##### Projects / Self-Service Integration
-
-*   [n8n (⭐191k) (⭐191k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ##### Projects / Workflow Engine
 
@@ -247,16 +570,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Arazzo Specification (⭐440) (⭐440)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
 *   [AsyncAPI (⭐5.2k) (⭐5.2k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
-##### Resources / Data Formats
-
-*   [YAML (⭐475) (⭐473)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-#### [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Data Visualization on Maps
-
-*   [LatLng](https://www.latlng.work) - Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.
 
 #### [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -272,7 +585,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### AI Coding Agents / Claude Code
 
-*   [ccusage/ccusage (⭐16k)](https://github.com/ccusage/ccusage) — Analyze Claude Code usage stats ☆`16,047`
+*   [ccusage/ccusage (⭐16k)](https://github.com/ccusage/ccusage) — Analyze Claude Code usage stats ☆`16,100`
 
 ---
 
@@ -283,53 +596,53 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 441K 📝 06&#x2F;13) - A collective list of free APIs
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 297K 📝 06&#x2F;13) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 301K 📝 06&#x2F;09) - An opinionated list of Python frameworks, libraries, tools, and resources
-4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 174K 📝 06&#x2F;12) - A curated list of awesome Go frameworks, libraries and software
+4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source](https://github.com/avelino/awesome-go) ⭐ 174K 📝 06&#x2F;13) - A curated list of awesome Go frameworks, libraries and software
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source](https://github.com/ripienaar/free-for-dev) ⭐ 123K 📝 06&#x2F;11) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source](https://github.com/jaywcjlove/awesome-mac) ⭐ 105K 📝 06&#x2F;10) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 58K 📝 06&#x2F;12) - A curated list of Rust code and resources.
+7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source](https://github.com/rust-unofficial/awesome-rust) ⭐ 58K 📝 06&#x2F;13) - A curated list of Rust code and resources.
 8. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source](https://github.com/enaqx/awesome-react) ⭐ 74K 📝 06&#x2F;03) - A collection of awesome things regarding React ecosystem
-9. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 73K 📝 06&#x2F;02) - A curated list of awesome Machine Learning frameworks, libraries and software.
-10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 71K 📝 05&#x2F;31) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-11. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 06&#x2F;12) - Collections of awesome neovim plugins.
-12. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 389K 📝 05&#x2F;13) - :books: Freely available programming books
-13. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 29K 📝 06&#x2F;08) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 06&#x2F;13) - A collection of ZSH frameworks, plugins, themes and tutorials.
-15. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 26K 📝 06&#x2F;08) - :scream: A curated list of amazingly awesome OSINT
-16. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 34K 📝 06&#x2F;04) - A curated list of amazingly awesome open-source sysadmin resources.
-17. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 06&#x2F;09) - 🖥 📊 🕹 🛠 A curated list of command line apps
-18. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 15K 📝 06&#x2F;10) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-19. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source](https://github.com/mfornos/awesome-microservices) ⭐ 14K 📝 06&#x2F;10) - A curated list of Microservice Architecture related principles and technologies.
-20. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source](https://github.com/terkelg/awesome-creative-coding) ⭐ 15K 📝 06&#x2F;10) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-21. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15K 📝 06&#x2F;09) - 😎 Awesome things related to Tailwind CSS
-22. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source](https://github.com/chentsulin/awesome-graphql) ⭐ 15K 📝 06&#x2F;08) - Awesome list of GraphQL
-23. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 10K 📝 06&#x2F;09) - A curated list of free/libre plugins, scripts and add-ons for Godot
-24. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.9K 📝 06&#x2F;08) - A curated list of Web Performance Optimization. 
-25. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7.9K 📝 06&#x2F;09) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-26. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 06&#x2F;01) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-27. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 13K 📝 06&#x2F;03) - 🐶 A curated list of Web Security materials and resources.
-28. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 05&#x2F;27) - A curated list of awesome READMEs
-29. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source](https://github.com/mateusortiz/webcomponents-the-right-way) ⭐ 3.5K 📝 06&#x2F;12) - A curated list of awesome Web Components resources.
-30. [Awesome Honeypots](/content/paralax/awesome-honeypots/README.md) - ([Source](https://github.com/paralax/awesome-honeypots) ⭐ 10K 📝 06&#x2F;01) - an awesome list of honeypot resources
-31. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 05&#x2F;12) - 🎉 A curated list of awesome things related to Vue.js
-32. [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source](https://github.com/gbdev/awesome-gbdev) ⭐ 4.4K 📝 06&#x2F;09) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
-33. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 05&#x2F;19) - :whale: A curated list of Docker resources and projects
-34. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.3K 📝 06&#x2F;01) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-35. [Nginx Resources](/content/fcambus/nginx-resources/README.md) - ([Source](https://github.com/fcambus/nginx-resources) ⭐ 3.8K 📝 06&#x2F;10) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
-36. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source](https://github.com/tortuvshin/open-source-flutter-apps) ⭐ 4.3K 📝 06&#x2F;08) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
-37. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source](https://github.com/CodyReichert/awesome-cl) ⭐ 2.9K 📝 06&#x2F;10) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-38. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6K 📝 06&#x2F;03) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-39. [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source](https://github.com/TheJambo/awesome-testing) ⭐ 2.3K 📝 06&#x2F;12) - A curated list of testing resources
-40. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source](https://github.com/ramnes/awesome-mongodb) ⭐ 2.6K 📝 06&#x2F;10) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
-41. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source](https://github.com/wsvincent/awesome-django) ⭐ 11K 📝 05&#x2F;26) - A curated list of awesome things related to Django
-42. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.5K 📝 06&#x2F;09) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-43. [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source](https://github.com/web-padawan/awesome-lit) ⭐ 1.7K 📝 06&#x2F;12) - A curated list of awesome Lit resources.
-44. [Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md) - ([Source](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1.7K 📝 06&#x2F;12) -  Curated list of python software and packages related to scientific research in audio
-45. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source](https://github.com/zigcc/awesome-zig) ⭐ 2.3K 📝 06&#x2F;08) - A collaborative list of awesome Zig libraries and resources. 
-46. [Awesome Windows](/content/0pandadev/awesome-windows/README.md) - ([Source](https://github.com/0pandadev/awesome-windows) ⭐ 2.5K 📝 06&#x2F;07) - An awesome & curated list of tools and apps for Windows 10/11.
-47. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source](https://github.com/markets/awesome-ruby) ⭐ 14K 📝 05&#x2F;20) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-48. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source](https://github.com/rossant/awesome-math) ⭐ 15K 📝 05&#x2F;19) - A curated list of awesome mathematics resources
-49. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 46K 📝 05&#x2F;08) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-50. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12K 📝 05&#x2F;21) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+9. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source](https://github.com/matteocrippa/awesome-swift) ⭐ 26K 📝 06&#x2F;13) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+10. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 73K 📝 06&#x2F;02) - A curated list of awesome Machine Learning frameworks, libraries and software.
+11. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source](https://github.com/fffaraz/awesome-cpp) ⭐ 71K 📝 05&#x2F;31) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source](https://github.com/rockerBOO/awesome-neovim) ⭐ 21K 📝 06&#x2F;12) - Collections of awesome neovim plugins.
+13. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 389K 📝 05&#x2F;13) - :books: Freely available programming books
+14. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source](https://github.com/academic/awesome-datascience) ⭐ 29K 📝 06&#x2F;08) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+15. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18K 📝 06&#x2F;13) - A collection of ZSH frameworks, plugins, themes and tutorials.
+16. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source](https://github.com/jivoi/awesome-osint) ⭐ 26K 📝 06&#x2F;08) - :scream: A curated list of amazingly awesome OSINT
+17. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 34K 📝 06&#x2F;04) - A curated list of amazingly awesome open-source sysadmin resources.
+18. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20K 📝 06&#x2F;09) - 🖥 📊 🕹 🛠 A curated list of command line apps
+19. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source](https://github.com/analysis-tools-dev/static-analysis) ⭐ 15K 📝 06&#x2F;10) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+20. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source](https://github.com/mfornos/awesome-microservices) ⭐ 14K 📝 06&#x2F;10) - A curated list of Microservice Architecture related principles and technologies.
+21. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source](https://github.com/terkelg/awesome-creative-coding) ⭐ 15K 📝 06&#x2F;10) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+22. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15K 📝 06&#x2F;09) - 😎 Awesome things related to Tailwind CSS
+23. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source](https://github.com/chentsulin/awesome-graphql) ⭐ 15K 📝 06&#x2F;08) - Awesome list of GraphQL
+24. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source](https://github.com/godotengine/awesome-godot) ⭐ 10K 📝 06&#x2F;09) - A curated list of free/libre plugins, scripts and add-ons for Godot
+25. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 8.9K 📝 06&#x2F;08) - A curated list of Web Performance Optimization. 
+26. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7.9K 📝 06&#x2F;09) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+27. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16K 📝 06&#x2F;01) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+28. [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source](https://github.com/qazbnm456/awesome-web-security) ⭐ 13K 📝 06&#x2F;03) - 🐶 A curated list of Web Security materials and resources.
+29. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source](https://github.com/matiassingers/awesome-readme) ⭐ 21K 📝 05&#x2F;27) - A curated list of awesome READMEs
+30. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source](https://github.com/mateusortiz/webcomponents-the-right-way) ⭐ 3.5K 📝 06&#x2F;12) - A curated list of awesome Web Components resources.
+31. [Awesome Honeypots](/content/paralax/awesome-honeypots/README.md) - ([Source](https://github.com/paralax/awesome-honeypots) ⭐ 10K 📝 06&#x2F;01) - an awesome list of honeypot resources
+32. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source](https://github.com/vuejs/awesome-vue) ⭐ 74K 📝 05&#x2F;12) - 🎉 A curated list of awesome things related to Vue.js
+33. [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source](https://github.com/gbdev/awesome-gbdev) ⭐ 4.4K 📝 06&#x2F;09) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+34. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source](https://github.com/CodyReichert/awesome-cl) ⭐ 2.9K 📝 06&#x2F;13) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+35. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source](https://github.com/veggiemonk/awesome-docker) ⭐ 36K 📝 05&#x2F;19) - :whale: A curated list of Docker resources and projects
+36. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9.3K 📝 06&#x2F;01) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+37. [Nginx Resources](/content/fcambus/nginx-resources/README.md) - ([Source](https://github.com/fcambus/nginx-resources) ⭐ 3.8K 📝 06&#x2F;10) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
+38. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source](https://github.com/tortuvshin/open-source-flutter-apps) ⭐ 4.3K 📝 06&#x2F;08) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
+39. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6K 📝 06&#x2F;03) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+40. [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source](https://github.com/TheJambo/awesome-testing) ⭐ 2.3K 📝 06&#x2F;12) - A curated list of testing resources
+41. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source](https://github.com/ramnes/awesome-mongodb) ⭐ 2.6K 📝 06&#x2F;10) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
+42. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source](https://github.com/wsvincent/awesome-django) ⭐ 11K 📝 05&#x2F;26) - A curated list of awesome things related to Django
+43. [Awesome Cli Apps in a Csv](/content/toolleeo/awesome-cli-apps-in-a-csv/README.md) - ([Source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2.5K 📝 06&#x2F;09) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+44. [Awesome Lit](/content/web-padawan/awesome-lit/README.md) - ([Source](https://github.com/web-padawan/awesome-lit) ⭐ 1.7K 📝 06&#x2F;12) - A curated list of awesome Lit resources.
+45. [Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md) - ([Source](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1.7K 📝 06&#x2F;12) -  Curated list of python software and packages related to scientific research in audio
+46. [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source](https://github.com/zigcc/awesome-zig) ⭐ 2.3K 📝 06&#x2F;08) - A collaborative list of awesome Zig libraries and resources. 
+47. [Awesome Windows](/content/0pandadev/awesome-windows/README.md) - ([Source](https://github.com/0pandadev/awesome-windows) ⭐ 2.5K 📝 06&#x2F;07) - An awesome & curated list of tools and apps for Windows 10/11.
+48. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source](https://github.com/markets/awesome-ruby) ⭐ 14K 📝 05&#x2F;20) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+49. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source](https://github.com/rossant/awesome-math) ⭐ 15K 📝 05&#x2F;19) - A curated list of awesome mathematics resources
+50. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 46K 📝 05&#x2F;08) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
 ## All Tracked List
 
@@ -767,7 +1080,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Age](/content/FiloSottile/awesome-age/README.md) - ([Source ⭐ 532, 📝 25&#x2F;12&#x2F;28 ](https://github.com/FiloSottile/awesome-age)) - A collection of projects and resources in the age file encryption ecosystem.
 - [Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md) - ([Source ⭐ 1.6K, 📝 01&#x2F;06 ](https://github.com/brycejohnston/awesome-agriculture)) - Open source technology for agriculture, farming, and gardening
 - [Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md) - ([Source ⭐ 436, 📝 20&#x2F;10&#x2F;11 ](https://github.com/gaerae/awesome-algorithms-education)) - A curated list to learning and practicing about algorithm.
-- [Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md) - ([Source ⭐ 368, 📝 25&#x2F;12&#x2F;13 ](https://github.com/ScaleLeap/awesome-amazon-seller)) - A curated list of tools and resources for Amazon sellers.
+- [Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md) - ([Source ⭐ 403, 📝 06&#x2F;13 ](https://github.com/ScaleLeap/awesome-amazon-seller)) - A curated list of tools and resources for Amazon sellers.
 - [Awesome Analytics](/content/newTendermint/awesome-analytics/README.md) - ([Source ⭐ 4.2K, 📝 02&#x2F;14 ](https://github.com/newTendermint/awesome-analytics)) - A curated list of analytics frameworks, software and other tools.
 - [Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md) - ([Source ⭐ 44K, 📝 22&#x2F;08&#x2F;18 ](https://github.com/wasabeef/awesome-android-ui)) - A curated list of awesome Android UI/UX libraries
 - [Awesome Ansible](/content/ansible-community/awesome-ansible/README.md) - ([Source ⭐ 1.9K, 📝 06&#x2F;03 ](https://github.com/ansible-community/awesome-ansible)) - Awesome Ansible List
@@ -892,7 +1205,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.5K, 📝 04&#x2F;28 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
 - [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 279, 📝 23&#x2F;09&#x2F;10 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
-- [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 265, 📝 05&#x2F;07 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
+- [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 269, 📝 06&#x2F;13 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
 - [Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md) - ([Source ⭐ 915, 📝 04&#x2F;29 ](https://github.com/dariubs/awesome-workflow-automation)) - A curated list of Workflow Automation  Software, Engines and Tools
 - [Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md) - ([Source ⭐ 1.2K, 📝 16&#x2F;01&#x2F;24 ](https://github.com/therebelrobot/awesome-workshopper)) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 - [Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md) - ([Source ⭐ 170, 📝 23&#x2F;08&#x2F;08 ](https://github.com/schlessera/awesome-wp-cli)) - A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
@@ -950,7 +1263,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 8.1K, 📝 05&#x2F;15 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 533, 📝 06&#x2F;11 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 533, 📝 06&#x2F;13 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 52K, 📝 04&#x2F;23 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -991,7 +1304,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ava](/content/avajs/awesome-ava/README.md) - ([Source ⭐ 333, 📝 22&#x2F;09&#x2F;12 ](https://github.com/avajs/awesome-ava)) - Awesome AVA resources
 - [Awesome C](/content/inputsh/awesome-c/README.md) - ([Source ⭐ 3K, 📝 19&#x2F;10&#x2F;17 ](https://github.com/inputsh/awesome-c)) - Continuing the development of awesome-c list on GitHub
 - [Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md) - ([Source ⭐ 681, 📝 25&#x2F;07&#x2F;22 ](https://github.com/adafruit/awesome-circuitpython)) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.9K, 📝 06&#x2F;10 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.9K, 📝 06&#x2F;13 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [Awesome Clojure](/content/razum2um/awesome-clojure/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;08 ](https://github.com/razum2um/awesome-clojure)) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md) - ([Source ⭐ 967, 📝 23&#x2F;02&#x2F;03 ](https://github.com/hantuzun/awesome-clojurescript)) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [Awesome Cmake](/content/onqtam/awesome-cmake/README.md) - ([Source ⭐ 5.4K, 📝 05&#x2F;11 ](https://github.com/onqtam/awesome-cmake)) - A curated list of awesome CMake resources, scripts, modules and examples.
@@ -1013,8 +1326,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 402, 📝 02&#x2F;24 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 02&#x2F;08 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 174K, 📝 06&#x2F;12 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 4, 📝 06&#x2F;05 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 174K, 📝 06&#x2F;13 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 4, 📝 06&#x2F;13 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
@@ -1045,12 +1358,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6.4K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;20 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 58K, 📝 06&#x2F;12 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 58K, 📝 06&#x2F;13 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 266, 📝 25&#x2F;07&#x2F;14 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 
 - [Awesome Standard](/content/standard/awesome-standard/README.md) - ([Source ⭐ 351, 📝 21&#x2F;05&#x2F;07 ](https://github.com/standard/awesome-standard)) - Documenting the explosion of packages in the standard ecosystem!
-- [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 26K, 📝 05&#x2F;05 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+- [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 26K, 📝 06&#x2F;13 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4.4K, 📝 04&#x2F;02 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2.1K, 📝 06&#x2F;05 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 25&#x2F;11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects

@@ -51,7 +51,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 <strong>Get Involved</strong>
 
 *   [Contributing Guide](https://github.com/public-apis/public-apis/blob/master/README.md/CONTRIBUTING.md)
-*   [API for this project](https://github.com/davemachado/public-api)
+*   [API for this project (⭐1.7k)](https://github.com/davemachado/public-api)
 *   [Issues (⭐441k)](https://github.com/public-apis/public-apis/issues)
 *   [Pull Requests (⭐441k)](https://github.com/public-apis/public-apis/pulls)
 *   [LICENSE](https://github.com/public-apis/public-apis/blob/master/README.md/LICENSE)
@@ -132,7 +132,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [HTTP Dog](https://http.dog/)                                                              | Dogs for every HTTP response status code                                                        | No       | Yes   | Yes     |   |
 | [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                                           | IUCN Red List of Threatened Species                                                             | `apiKey` | No    | No      |   |
 | [MeowFacts (⭐534)](https://github.com/wh-iterabb-it/meowfacts)                             | Get random cat facts                                                                            | No       | Yes   | No      |   |
-| [Movebank](https://github.com/movebank/movebank-api-doc)                                   | Movement and Migration data of animals                                                          | No       | Yes   | Yes     |   |
+| [Movebank (⭐185)](https://github.com/movebank/movebank-api-doc)                            | Movement and Migration data of animals                                                          | No       | Yes   | Yes     |   |
 | [Petfinder](https://www.petfinder.com/developers/)                                         | Petfinder is dedicated to helping pets find homes, another resource to get pets adopted         | `apiKey` | Yes   | Yes     |   |
 | [PlaceBear](https://placebear.com/)                                                        | Placeholder bear pictures                                                                       | No       | Yes   | Yes     |   |
 | [PlaceDog](https://place.dog)                                                              | Placeholder Dog pictures                                                                        | No       | Yes   | Yes     |   |
@@ -153,7 +153,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | :------------------------------------------------------------------------ | :----------------------------------------------------------------------- | :------- | :---- | :------ |
 | [AniAPI](https://aniapi.com/docs/)                                        | Anime discovery, streaming & syncing with trackers                       | `OAuth`  | Yes   | Yes     |
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition)                       | Anime Database                                                           | `apiKey` | No    | Unknown |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)                  | Anime discovery & tracking                                               | `OAuth`  | Yes   | Unknown |
+| [AniList (⭐1.3k)](https://github.com/AniList/ApiV2-GraphQL-Docs)          | Anime discovery & tracking                                               | `OAuth`  | Yes   | Unknown |
 | [AnimeChan (⭐1.4k)](https://github.com/RocktimSaikia/anime-chan)          | Anime quotes (over 10k+)                                                 | No       | Yes   | No      |
 | [AnimeFacts](https://chandan-02.github.io/anime-facts-rest-api/)          | Anime Facts (over 100+)                                                  | No       | Yes   | Yes     |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                                                      | No       | Yes   | Yes     |
@@ -309,6 +309,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [mailjet](https://www.mailjet.com/)                                                                                 | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API    | `apiKey` | Yes   | Unknown |
 | [markerapi](https://markerapi.com)                                                                                  | Trademark Search                                                                             | No       | No    | Unknown |
 | [ORB Intelligence](https://api.orb-intelligence.com/docs/)                                                          | Company lookup                                                                               | `apiKey` | Yes   | Unknown |
+| [Pick an Agency](https://www.pickanagency.com/developers)                                                           | Search 47,000+ marketing agencies by service, location and rating                            | No       | Yes   | Yes     |
 | [Redash](https://redash.io/help/user-guide/integrations-and-api/api)                                                | Access your queries and dashboards on Redash                                                 | `apiKey` | Yes   | Yes     |
 | [Signaliz](https://signaliz.docs.buildwithfern.com/signaliz-api-public-docs/introduction)                           | GTM enrichment, lead generation, email verification, and company signals                     | `apiKey` | Yes   | Unknown |
 | [Smartsheet](https://smartsheet.redoc.ly/)                                                                          | Allows you to programmatically access and Smartsheet data and account information            | `OAuth`  | Yes   | No      |
@@ -358,7 +359,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Dropbox](https://www.dropbox.com/developers)         | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
 | [File.io](https://www.file.io)                        | Super simple file sharing, convenient, anonymous and secure               | No       | Yes   | Unknown |   |
 | [Filestack](https://www.filestack.com)                | Filestack File Uploader & File Upload API                                 | `apiKey` | Yes   | Unknown |   |
-| [FileUp](https://github.com/RealSinaSnp/FileUp)       | Temporary file hosting with upload API, expiration times, and view limits | No       | Yes   | Unknown |   |
+| [FileUp (⭐0)](https://github.com/RealSinaSnp/FileUp)  | Temporary file hosting with upload API, expiration times, and view limits | No       | Yes   | Unknown |   |
 | [GoFile](https://gofile.io/api)                       | Unlimited size file uploads for free                                      | `apiKey` | Yes   | Unknown |   |
 | [Google Drive](https://developers.google.com/drive/)  | File Sharing and Storage                                                  | `OAuth`  | Yes   | Unknown |   |
 | [Gyazo](https://gyazo.com/api/docs)                   | Save & Share screen captures instantly                                    | `apiKey` | Yes   | Unknown |   |
@@ -396,7 +397,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [1inch](https://1inch.io/api/)                                                                                        | API for querying decentralize exchange                                                           | No       | Yes   | Unknown |
 | [Alchemy Ethereum](https://docs.alchemy.com/alchemy/)                                                                 | Ethereum Node-as-a-Service Provider                                                              | `apiKey` | Yes   | Yes     |
 | [Alpha (Mossland)](https://alpha.moss.land/developers)                                                                | Korean crypto channel stance + RAG Q\&A + canonical entity/topic/event store                     | No       | Yes   | Yes     |
-| [Binance](https://github.com/binance/binance-spot-api-docs)                                                           | Exchange for Trading Cryptocurrencies based in China                                             | `apiKey` | Yes   | Unknown |
+| [Binance (⭐4.8k)](https://github.com/binance/binance-spot-api-docs)                                                   | Exchange for Trading Cryptocurrencies based in China                                             | `apiKey` | Yes   | Unknown |
 | [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public)                                                       | Get the list of all traded assets in the exchange                                                | No       | Yes   | Unknown |
 | [BitcoinAverage](https://apiv2.bitcoinaverage.com/)                                                                   | Digital Asset Price Data for the blockchain industry                                             | `apiKey` | Yes   | Unknown |
 | [BitcoinCharts](https://bitcoincharts.com/about/exchanges/)                                                           | Financial and Technical Data related to the Bitcoin Network                                      | No       | Yes   | Unknown |
@@ -436,6 +437,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Gemini](https://docs.gemini.com/rest-api/)                                                                           | Cryptocurrencies Exchange                                                                        | No       | Yes   | Unknown |
 | [Hirak Exchange Rates](https://rates.hirak.site/)                                                                     | Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits | `apiKey` | Yes   | Unknown |
 | [Huobi](https://huobiapi.github.io/docs/spot/v1/en/)                                                                  | Seychelles based cryptocurrency exchange                                                         | `apiKey` | Yes   | Unknown |
+| [Hyperliquid Market Data](https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest)    | Hyperliquid open interest, funding and cross-venue predicted rates per coin                      | `apiKey` | Yes   | Yes     |
 | [icy.tools](https://developers.icy.tools/)                                                                            | GraphQL based NFT API                                                                            | `apiKey` | Yes   | Unknown |
 | [Indodax (⭐168)](https://github.com/btcid/indodax-official-api-docs)                                                  | Trade your Bitcoin and other assets with rupiah                                                  | `apiKey` | Yes   | Unknown |
 | [INFURA Ethereum](https://infura.io/product/ethereum)                                                                 | Interaction with the Ethereum mainnet and several testnets                                       | `apiKey` | Yes   | Yes     |
@@ -631,7 +633,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Thunder Client](https://www.thunderclient.com/)                                                                                          | API testing tool                                                                                     | No              | Yes   | Yes     |
 | [Thunderbit](https://thunderbit.com/docs/introduction)                                                                                    | Extract web pages as Markdown or structured data for AI apps                                         | `apiKey`        | Yes   | Unknown |
 | [Tyk](https://tyk.io/open-source/)                                                                                                        | Api and service management platform                                                                  | `apiKey`        | Yes   | Yes     |
-| [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)                                                                  | Code compiler supporting 35+ languages mentioned at wandbox.org                                      | No              | Yes   | Unknown |
+| [Wandbox (⭐1.3k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)                                                          | Code compiler supporting 35+ languages mentioned at wandbox.org                                      | No              | Yes   | Unknown |
 | [WebScraping.AI](https://webscraping.ai/)                                                                                                 | Web Scraping API with built-in proxies and JS rendering                                              | `apiKey`        | Yes   | Yes     |
 | [ZenRows](https://www.zenrows.com/)                                                                                                       | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies  | `apiKey`        | Yes   | Unknown |
 
@@ -739,7 +741,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [justmeme.wtf](https://justmeme.wtf/api-docs)                                              | Free meme API with 2400+ templates, search, trending, and AI generation               | No       | Yes   | Yes     |
 | [Meme Maker](https://mememaker.github.io/API/)                                             | REST API for create your own meme                                                     | No       | Yes   | Unknown |
 | [Memesio](https://memesio.com/developers/api)                                              | Meme creation API with templates, editable captions and hosted share links            | No       | Yes   | No      |
-| [NaMoMemes](https://github.com/theIYD/NaMoMemes)                                           | Memes on Narendra Modi                                                                | No       | Yes   | Unknown |
+| [NaMoMemes (⭐28)](https://github.com/theIYD/NaMoMemes)                                     | Memes on Narendra Modi                                                                | No       | Yes   | Unknown |
 | [PotterDB](https://docs.potterdb.com/)                                                     | Harry Potter universe database with characters, spells, potions and more              | No       | Yes   | Yes     |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/)                                      | Get useless, but true facts                                                           | No       | Yes   | Unknown |
 | [TasteDive](https://tastedive.com/read/api)                                                | Content-based recommendations for movies, music, TV shows, books, games, and podcasts | `apiKey` | Yes   | No      |
@@ -850,7 +852,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Coffee](https://coffee.alexflipnote.dev/)                                             | Random pictures of coffee                                     | No       | Yes   | Unknown |
 | [Edamam nutrition](https://developer.edamam.com/edamam-docs-nutrition-api)             | Nutrition Analysis                                            | `apiKey` | Yes   | Unknown |
 | [Edamam recipes](https://developer.edamam.com/edamam-docs-recipe-api)                  | Recipe Search                                                 | `apiKey` | Yes   | Unknown |
-| [Foodish](https://github.com/surhud004/Foodish#readme)                                 | Random pictures of food dishes                                | No       | Yes   | Yes     |
+| [Foodish (⭐122)](https://github.com/surhud004/Foodish#readme)                          | Random pictures of food dishes                                | No       | Yes   | Yes     |
 | [Fruityvice](https://www.fruityvice.com)                                               | Data about all kinds of fruit                                 | No       | Yes   | Unknown |
 | [Kroger](https://developer.kroger.com/reference)                                       | Supermarket Data                                              | `apiKey` | Yes   | Unknown |
 | [LCBO](https://lcboapi.com/)                                                           | Alcohol                                                       | `apiKey` | Yes   | Unknown |
@@ -861,7 +863,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Rustybeer](https://rustybeer.herokuapp.com/)                                          | Beer brewing tools                                            | No       | Yes   | No      |
 | [Spoonacular](https://spoonacular.com/food-api)                                        | Recipes, Food Products, and Meal Planning                     | `apiKey` | Yes   | Unknown |
 | [Systembolaget](https://api-portal.systembolaget.se)                                   | Govornment owned liqour store in Sweden                       | `apiKey` | Yes   | Unknown |
-| [TacoFancy](https://github.com/evz/tacofancy-api)                                      | Community-driven taco database                                | No       | No    | Unknown |
+| [TacoFancy (⭐132)](https://github.com/evz/tacofancy-api)                               | Community-driven taco database                                | No       | No    | Unknown |
 | [Tasty](https://rapidapi.com/apidojo/api/tasty/)                                       | API to query data about recipe, plan, ingredients             | `apiKey` | Yes   | Unknown |
 | [The Report of the Week (⭐55)](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                                          | No       | Yes   | Unknown |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                 | Cocktail Recipes                                              | `apiKey` | Yes   | Yes     |
@@ -881,7 +883,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Animal Crossing: New Horizons](http://acnhapi.com/)                                               | API for critters, fossils, art, music, furniture and villagers                                               | No              | Yes   | Unknown |
 | [Astroworld](https://api.astroworldmc.com)                                                         | Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades | No              | Yes   | Yes     |
 | [Autochess VNG (⭐5)](https://github.com/didadadida93/autochess-vng-api)                            | Rest Api for Autochess VNG                                                                                   | No              | Yes   | Yes     |
-| [Barter.VG](https://github.com/bartervg/barter.vg/wiki)                                            | Provides information about Game, DLC, Bundles, Giveaways, Trading                                            | No              | Yes   | Yes     |
+| [Barter.VG (⭐20)](https://github.com/bartervg/barter.vg/wiki)                                      | Provides information about Game, DLC, Bundles, Giveaways, Trading                                            | No              | Yes   | Yes     |
 | [Battle.net](https://develop.battle.net/documentation/guides/getting-started)                      | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs                                   | `OAuth`         | Yes   | Yes     |
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2)                                | Board games, RPG and videogames                                                                              | No              | Yes   | No      |
 | [Brawl Stars](https://developer.brawlstars.com)                                                    | Brawl Stars Game Information                                                                                 | `apiKey`        | Yes   | Unknown |
@@ -919,7 +921,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Giant Bomb](https://www.giantbomb.com/api/documentation)                                          | Video Games                                                                                                  | `apiKey`        | Yes   | Unknown |
 | [GraphQL Pokemon (⭐189)](https://github.com/favware/graphql-pokemon)                               | GraphQL powered Pokemon API. Supports generations 1 through 8                                                | No              | Yes   | Yes     |
 | [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main)                                          | Guild Wars 2 Game Information                                                                                | `apiKey`        | Yes   | Unknown |
-| [GW2Spidy](https://github.com/rubensayshi/gw2spidy/wiki)                                           | GW2Spidy API, Items data on the Guild Wars 2 Trade Market                                                    | No              | Yes   | Unknown |
+| [GW2Spidy (⭐231)](https://github.com/rubensayshi/gw2spidy/wiki)                                    | GW2Spidy API, Items data on the Guild Wars 2 Trade Market                                                    | No              | Yes   | Unknown |
 | [Halo](https://developer.haloapi.com/)                                                             | Halo 5 and Halo Wars 2 Information                                                                           | `apiKey`        | Yes   | Unknown |
 | [Hearthstone](http://hearthstoneapi.com/)                                                          | Hearthstone Cards Information                                                                                | `X-Mashape-Key` | Yes   | Unknown |
 | [Humble Bundle](https://rapidapi.com/Ziggoto/api/humble-bundle)                                    | Humble Bundle's current bundles                                                                              | `apiKey`        | Yes   | Unknown |
@@ -1026,6 +1028,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [IP Address Details](https://ipinfo.io/)                                                                                  | Find geolocation with ip address                                                                    | No       | Yes   | Unknown |     |
 | [IP Vigilante](https://www.ipvigilante.com/)                                                                              | Free IP Geolocation API                                                                             | No       | Yes   | Unknown |     |
 | [ip-api](https://ip-api.com/docs)                                                                                         | Find location with IP address or domain                                                             | No       | No    | Unknown |     |
+| [IP-API.io](https://ip-api.io)                                                                                            | IP geolocation with VPN/proxy/Tor detection, reputation and risk score                              | `apiKey` | Yes   | Yes     |     |
 | [IP Geolocation](https://www.abstractapi.com/ip-geolocation-api)                                                          | Geolocate website visitors from their IPs                                                           | `apiKey` | Yes   | Yes     |     |
 | [IP2Location](https://www.ip2location.com/web-service/ip2location)                                                        | IP geolocation web service to get more than 55 parameters                                           | `apiKey` | Yes   | Unknown |     |
 | [IP2Proxy](https://www.ip2location.com/web-service/ip2proxy)                                                              | Detect proxy and VPN using IP address                                                               | `apiKey` | Yes   | Unknown |     |
@@ -1038,6 +1041,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Kakao Maps](https://apis.map.kakao.com)                                                                                  | Kakao Maps provide multiple APIs for Korean maps                                                    | `apiKey` | Yes   | Unknown |     |
 | [keycdn IP Location Finder](https://tools.keycdn.com/geo)                                                                 | Get the IP geolocation data through the simple REST API. All the responses are JSON encoded         | `apiKey` | Yes   | Unknown |     |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode)                                                                      | UK postcode lookup with lat/lon, district, ward, constituency                                       | `apiKey` | Yes   | Yes     |     |
+| [LatLng](https://www.latlng.work/docs)                                                                                    | Geocoding, reverse geocoding, places, and static maps                                               | No       | Yes   | Yes     |     |
 | [LocationIQ](https://locationiq.org/docs/)                                                                                | Provides forward/reverse geocoding and batch geocoding                                              | `apiKey` | Yes   | Yes     |     |
 | [Longdo Map](https://map.longdo.com/docs/)                                                                                | Interactive map with detailed places and information portal in Thailand                             | `apiKey` | Yes   | Yes     |     |
 | [Mapbox](https://docs.mapbox.com/)                                                                                        | Create/customize beautiful digital maps                                                             | `apiKey` | Yes   | Unknown |     |
@@ -1321,7 +1325,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [TasteDive](https://tastedive.com/read/api)                                                                      | Similar artist API (also works for movies and TV shows)                                              | `apiKey` | Yes   | Unknown |
 | [TheAudioDB](https://www.theaudiodb.com/api_guide.php)                                                           | Music                                                                                                | `apiKey` | Yes   | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/)                                                                    | Crowdsourced lyrics and music knowledge                                                              | `apiKey` | Yes   | Unknown |
-| [Verome](https://github.com/Kirazul/Verome-API)                                                                  | Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm | No       | Yes   | Unknown |
+| [Verome (⭐232)](https://github.com/Kirazul/Verome-API)                                                           | Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1465,14 +1469,15 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 ### Phone
 
-| API                                                                                                                   | Description                                                         | Auth     | HTTPS | CORS    |
-| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------ | :------- | :---- | :------ |
-| [Numlookup](https://numlookupapi.com)                                                                                 | Phone number validation and carrier lookup API with global coverage | `apiKey` | Yes   | Unknown |
-| [Numverify](https://numverify.com?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers) | Phone number validation                                             | `apiKey` | Yes   | Unknown |
-| [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API)                                         | Validate international phone numbers                                | `apiKey` | Yes   | Yes     |
-| [Phone Specification (⭐175)](https://github.com/azharimm/phone-specs-api)                                             | Rest Api for Phone specifications                                   | No       | Yes   | Yes     |
-| [Phone Validation](https://www.abstractapi.com/phone-validation-api)                                                  | Validate phone numbers globally                                     | `apiKey` | Yes   | Yes     |
-| [Veriphone](https://veriphone.io)                                                                                     | Phone number validation & carrier lookup                            | `apiKey` | Yes   | Yes     |
+| API                                                                                                                   | Description                                                                          | Auth     | HTTPS | CORS    |
+| :-------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :------- | :---- | :------ |
+| [Numlookup](https://numlookupapi.com)                                                                                 | Phone number validation and carrier lookup API with global coverage                  | `apiKey` | Yes   | Unknown |
+| [Numverify](https://numverify.com?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers) | Phone number validation                                                              | `apiKey` | Yes   | Unknown |
+| [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-API)                                         | Validate international phone numbers                                                 | `apiKey` | Yes   | Yes     |
+| [Phone Specification (⭐175)](https://github.com/azharimm/phone-specs-api)                                             | Rest Api for Phone specifications                                                    | No       | Yes   | Yes     |
+| [Phone Validation](https://www.abstractapi.com/phone-validation-api)                                                  | Validate phone numbers globally                                                      | `apiKey` | Yes   | Yes     |
+| [Veriphone](https://veriphone.io)                                                                                     | Phone number validation & carrier lookup                                             | `apiKey` | Yes   | Yes     |
+| [VeriRoute Intel](https://verirouteintel.com)                                                                         | CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers | `apiKey` | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)** <br > <br >
 
@@ -1599,7 +1604,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Mozilla http scanner (⭐1.9k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md) | Mozilla observatory http scanner                                                                     | No       | Yes   | Unknown |
 | [Mozilla tls scanner (⭐545)](https://github.com/mozilla/tls-observatory#api-endpoints)                      | Mozilla observatory tls scanner                                                                      | No       | Yes   | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog)                 | U.S. National Vulnerability Database                                                                 | No       | Yes   | Unknown |
-| [Passwordinator](https://github.com/fawazsullia/password-generator/)                                        | Generate random passwords of varying complexities                                                    | No       | Yes   | Yes     |
+| [Passwordinator (⭐38)](https://github.com/fawazsullia/password-generator/)                                  | Generate random passwords of varying complexities                                                    | No       | Yes   | Yes     |
 | [PhishStats](https://phishstats.info/)                                                                      | Phishing database                                                                                    | No       | Yes   | Unknown |
 | [Privacy.com](https://privacy.com/developer/docs)                                                           | Generate merchant-specific and one-time use credit card numbers that link back to your bank          | `apiKey` | Yes   | Unknown |
 | [Pulsedive](https://pulsedive.com/api/)                                                                     | Scan, search and collect threat intelligence data in real-time                                       | `apiKey` | Yes   | Unknown |

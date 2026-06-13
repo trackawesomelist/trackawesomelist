@@ -252,7 +252,7 @@ Work In Progress:
 
 ## Machine Learning
 
-*   [MGL (⭐644)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
+*   [MGL (⭐645)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐129)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -917,9 +917,10 @@ See also:
 
 ## Lisp parsers
 
-*   [Eclector (⭐26)](https://github.com/fstamour/breeze/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
-    *   *under active development*
+*   [Eclector (⭐129)](https://github.com/s-expressionists/Eclector/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
+    *   used in tools and libraries but still *under active development*
 *   [rewrite-cl (⭐19)](https://github.com/atgreen/rewrite-cl) - Read, modify, and write Common Lisp source code while preserving whitespace and comments. MIT. *Built with LLMs*.
+*   [cl-sourcery](https://sr.ht/~hajovonta/cl-sourcery/) - Intercepts all standard CL definition forms (defun, defmacro, defclass, defstruct, etc.) to capture and store the exact source as written — including whitespace, comments, and formatting. MIT. *Built with LLMs*.
 
 See also:
 

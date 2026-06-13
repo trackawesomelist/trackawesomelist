@@ -16,6 +16,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [SimpleDMS](https://simpledms.eu) - Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself. ([Source Code (⭐141)](https://github.com/simpledms/simpledms), [Clients](https://simpledms.eu/en/product/integrations)) `AGPL-3.0` `Docker`
 
+### Software / Note-taking & Editors
+
+*   [plumio](https://plumio.app/) - Markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more. ([Demo](https://demo.plumio.app/homepage), [Source Code (⭐124)](https://github.com/albertasaftei/plumio)) `AGPL-3.0` `Nodejs/Docker`
+
 ### Software / Software Development - Project Management
 
 *   [Ideon](https://www.theideon.com) - Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. ([Source Code (⭐462)](https://github.com/3xpyth0n/ideon)) `AGPL-3.0` `Docker`
@@ -28,7 +32,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Video Surveillance
 
-*   [Secluso](https://secluso.com) - Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. ([Source Code (⭐1.5k)](https://github.com/secluso/core)) `GPL-3.0` `Rust/deb`
+*   [Secluso](https://secluso.com) - Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. ([Source Code (⭐1.5k)](https://github.com/secluso/core)) `GPL-3.0` `Rust`
 
 ## [Jun 06, 2026](/content/2026/06/06/README.md)
 
@@ -103,7 +107,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Management
 
-*   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
+*   [Downtify](https://downtify.henriquesebastiao.com) `⚠` - Download Spotify music with album art and metadata. ([Source Code (⭐280)](https://github.com/henriquesebastiao/downtify)) `GPL-3.0` `Docker`
 
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
@@ -133,7 +137,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [GameAP](https://gameap.com/) - Game Administration Panel for managing game servers on Linux and Windows. ([Demo](https://demo.gameap.com/), [Source Code](https://github.com/gameap/gameap), [Clients](https://plugins.gameap.dev/)) `MIT` `Go/Docker`
+*   [GameAP](https://gameap.com/) - Game Administration Panel for managing game servers on Linux and Windows. ([Demo](https://demo.gameap.com/), [Source Code (⭐32)](https://github.com/gameap/gameap), [Clients](https://plugins.gameap.dev/)) `MIT` `Go/Docker`
 
 ## [May 11, 2026](/content/2026/05/11/README.md)
 
@@ -243,7 +247,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [Vane](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
+*   [Vane (⭐35k)](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 
 ## [Mar 17, 2026](/content/2026/03/17/README.md)
 
@@ -310,7 +314,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
+*   [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ([Source Code (⭐37)](https://github.com/rapidforge-io/rapidforge)) `Apache-2.0` `Go/Nodejs`
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
@@ -349,7 +353,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Generative Artificial Intelligence (GenAI)
 
-*   [LLM Harbor](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
+*   [LLM Harbor (⭐3.1k)](https://github.com/av/harbor) - Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. `Apache-2.0` `Docker/Shell`
 *   [Local Deep Research (⭐8.4k)](https://github.com/LearningCircuit/local-deep-research) - AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage. `MIT` `Docker/Python`
 *   [LocalAI](https://localai.io/) - Run your AI models locally and generate images and audio (alternative to OpenAI and Claude). ([Source Code (⭐47k)](https://github.com/mudler/LocalAI), [Clients](https://localai.io/gallery.html)) `MIT` `Docker/K8S`
 
@@ -607,7 +611,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [Saltcorn](https://saltcorn.com/) - No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications. ([Source Code](https://github.com/saltcorn/saltcorn)) `MIT` `Docker/Nodejs`
+*   [Saltcorn](https://saltcorn.com/) - No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications. ([Source Code (⭐2k)](https://github.com/saltcorn/saltcorn)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -1362,7 +1366,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [SQLPage](https://sql-page.com) - SQL-only dynamic website builder. ([Source Code](https://github.com/sqlpage/SQLPage)) `MIT` `Rust/Docker`
+*   [SQLPage](https://sql-page.com) - SQL-only dynamic website builder. ([Source Code (⭐2.5k)](https://github.com/sqlpage/SQLPage)) `MIT` `Rust/Docker`
 
 ### Software / Software Development - Project Management
 
@@ -1993,7 +1997,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Manufacturing
 
 *   [CNCjs](https://cnc.js.org/) - Web interface for CNC milling controllers running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.6k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
-*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
+*   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.8k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
 *   [Mainsail](https://docs.mainsail.xyz/) - Modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐2.2k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
 *   [Octoprint](https://octoprint.org/) - Snappy web interface for controlling consumer 3D printers. ([Source Code (⭐9k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
@@ -2838,7 +2842,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Learning and Courses
 
-*   [Gibbon](https://gibbonedu.org/) - Flexible school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
+*   [Gibbon](https://gibbonedu.org/) - Flexible school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code (⭐610)](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`
 
 ### Software / Note-taking & Editors
 
@@ -4696,7 +4700,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - Learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - Learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐425)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Miscellaneous
 
@@ -5224,7 +5228,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Inventory Management
 
-*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
+*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaires)) `AGPL-3.0` `Nodejs`
 
 ### Software / Media Management
 
