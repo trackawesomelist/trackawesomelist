@@ -6,6 +6,12 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 [ Daily / [Weekly](/content/raphamorim/awesome-canvas/week/README.md) / [Overview](/content/raphamorim/awesome-canvas/readme/README.md) ]
 
+## [Jun 14, 2026](/content/2026/06/14/README.md)
+
+### Libraries / To draw using canvas
+
+*   [textmode.js (⭐134)](https://github.com/humanbydefinition/textmode.js) is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
+
 ## [Jun 06, 2026](/content/2026/06/06/README.md)
 
 ### Libraries / To draw using canvas

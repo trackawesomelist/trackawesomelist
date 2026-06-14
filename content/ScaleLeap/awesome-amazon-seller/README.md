@@ -6,6 +6,12 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Jun 14, 2026](/content/2026/06/14/README.md)
+
+### Software and Tools
+
+*   [Calcrux FBA Profit Calculator](https://calcrux.com/tools/ecommerce/amazon-fba-profit-calculator) - Free multi-marketplace FBA profit + fee breakdown calculator. Covers inbound placement fees. No sign-up required.
+
 ## [Jun 13, 2026](/content/2026/06/13/README.md)
 
 ### Software and Tools

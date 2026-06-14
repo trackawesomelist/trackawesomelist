@@ -6,24 +6,30 @@
 
 [ Daily / [Weekly](/content/vitalets/awesome-smart-tv/week/README.md) / [Overview](/content/vitalets/awesome-smart-tv/readme/README.md) ]
 
+## [Jun 14, 2026](/content/2026/06/14/README.md)
+
+### Cross-platform tools / Official resources
+
+*   [Fluxcast (⭐91)](https://github.com/IlyaP358/fluxcast) - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
+
 ## [Apr 03, 2026](/content/2026/04/03/README.md)
 
 ### Cross-platform tools / Official resources
 
-*   [smartest-tv (⭐1)](https://github.com/Hybirdss/smartest-tv) - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
+*   [smartest-tv (⭐34)](https://github.com/Hybirdss/smartest-tv) - CLI and MCP server for playing Netflix, YouTube, and Spotify on any smart TV by name. Deep links content across LG, Samsung, Android TV, and Roku — say "Frieren S2E8" and it plays (Python).
 
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
 ### Samsung Tizen / Other
 
-*   \[TizenBrew] ([https://github.com/reisxd/TizenBrew (⭐1.3k)](https://github.com/reisxd/TizenBrew)) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
-*   \[TizenTube] ([https://github.com/reisxd/TizenTube (⭐1.6k)](https://github.com/reisxd/TizenTube)) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+*   \[TizenBrew] ([https://github.com/reisxd/TizenBrew (⭐1.5k)](https://github.com/reisxd/TizenBrew)) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+*   \[TizenTube] ([https://github.com/reisxd/TizenTube (⭐1.8k)](https://github.com/reisxd/TizenTube)) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 
 ## [Feb 03, 2021](/content/2021/02/03/README.md)
 
 ### Testing / Official resources
 
-*   [stb-tester (⭐190)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
+*   [stb-tester (⭐192)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
 
 ## [Dec 01, 2020](/content/2020/12/01/README.md)
 
@@ -51,20 +57,20 @@
 
 ### Misc / Official resources
 
-*   [docker-tizen-webos-sdk (⭐131)](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
+*   [docker-tizen-webos-sdk (⭐133)](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
 
 ## [Jun 30, 2020](/content/2020/06/30/README.md)
 
 ### Misc / Official resources
 
 *   [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
-*   [awesome-smarttv (⭐157)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
+*   [awesome-smarttv (⭐159)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
 
 ## [Jun 16, 2020](/content/2020/06/16/README.md)
 
 ### Navigation libraries / Official resources
 
-*   [js-spatial-navigation (⭐428)](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
+*   [js-spatial-navigation (⭐427)](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
 *   [react-js-spatial-navigation (⭐34)](https://github.com/dead/react-js-spatial-navigation) - A wrapper of js-spatial-navigation to react components.
 *   [react-key-navigation (⭐76)](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
 *   [react-spatial-navigation (⭐226)](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
@@ -79,13 +85,13 @@
 
 ### LG webOS / Third-party remote control libraries
 
-*   [PyWebOSTV (⭐310)](https://github.com/supersaiyanmode/PyWebOSTV) - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
+*   [PyWebOSTV (⭐313)](https://github.com/supersaiyanmode/PyWebOSTV) - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 
 ## [Jan 16, 2020](/content/2020/01/16/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsung-tv-control (⭐193)](https://github.com/Toxblh/samsung-tv-control) - Library for remote control Samsung TV in your Node.js
+*   [samsung-tv-control (⭐197)](https://github.com/Toxblh/samsung-tv-control) - Library for remote control Samsung TV in your Node.js
 
 ## [Oct 01, 2019](/content/2019/10/01/README.md)
 
@@ -103,7 +109,7 @@
 
 ### LG webOS / Third-party remote control libraries
 
-*   [homebridge-webos-tv (⭐700)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
+*   [homebridge-webos-tv (⭐698)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
 ## [Jan 09, 2019](/content/2019/01/09/README.md)
 
@@ -122,13 +128,13 @@
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [homebridge-samsungtv2016 (⭐56)](https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
-*   [homebridge-samsung-tizen (⭐680)](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
+*   [homebridge-samsung-tizen (⭐677)](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge (⭐25k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 
 ## [Sep 18, 2018](/content/2018/09/18/README.md)
 
 ### Cross-platform frameworks / Official resources
 
-*   [Mautilus Smart TV SDK (⭐100)](https://github.com/mautilus/sdk) - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
+*   [Mautilus Smart TV SDK (⭐102)](https://github.com/mautilus/sdk) - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
 *   [BBC TAL](https://bbc.github.io/tal/) - An open source library for building applications for Smart TV developed by BBC engineers.
 *   [PureQML TV (⭐34)](https://github.com/pureqml/qmlcore-tv) - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
 
@@ -189,7 +195,7 @@
 
 ### LG webOS / Third-party remote control libraries
 
-*   [lgtv2mqtt (⭐108)](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
+*   [lgtv2mqtt (⭐109)](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 
 ## [Aug 03, 2017](/content/2017/08/03/README.md)
 
@@ -202,23 +208,23 @@
 
 ### Samsung Tizen / Third-party remote control libraries
 
-*   [samsungctl (⭐739)](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
-*   [samsung-tv-remote (⭐56)](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
+*   [samsungctl (⭐742)](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (Python).
+*   [samsung-tv-remote (⭐58)](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (JavaScript).
 
 ### LG webOS / Official resources
 
 *   [webOS TV Developers Site](http://webostv.developer.lge.com) - WebOS TV apps development principles, tutorials, API documentation and packaging tools.
 *   [webOS TV IDE + SDK](http://webostv.developer.lge.com/sdk/download/download-sdk/) - IDE for apps development including a Command Line Interface and emulator.
-*   [Connect SDK](http://www.svlconnectsdk.com/) - Open source framework developed by LG that connects your mobile apps with multiple media device platforms. Currently supports 8 platforms. But seems [abandoned (⭐327)](https://github.com/ConnectSDK/Connect-SDK-Android/issues/364).
+*   [Connect SDK](http://www.svlconnectsdk.com/) - Open source framework developed by LG that connects your mobile apps with multiple media device platforms. Currently supports 8 platforms. But seems [abandoned (⭐330)](https://github.com/ConnectSDK/Connect-SDK-Android/issues/364).
 *   [webOS TV Developers Forum](http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV) - Ask questions, share information and learn about Smart TV app development with other developers.
 
 ### LG webOS / Third-party remote control libraries
 
-*   [lgtv2 (⭐342)](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
+*   [lgtv2 (⭐344)](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 *   [node-red-contrib-lgtv (⭐59)](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (JavaScript).
 *   [node-webos (⭐32)](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript).
-*   [pylgtv (⭐75)](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (Python).
-*   [LGWebOSRemote (⭐641)](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (Python).
+*   [pylgtv (⭐74)](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (Python).
+*   [LGWebOSRemote (⭐646)](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (Python).
 
 ### LG webOS / Videos
 

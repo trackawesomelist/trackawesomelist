@@ -12,7 +12,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python (⭐299k)](https://github.com/vinta/awesome-python).
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python (⭐302k)](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
@@ -115,6 +115,7 @@ Please take a quick gander at the [contribution guidelines (⭐1.8k)](https://gi
 *   [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     *   [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     *   [Some amazing examples](http://threejs.org/examples/)
+*   [textmode.js (⭐134)](https://github.com/humanbydefinition/textmode.js) is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
 *   [tsParticles](https://particles.matteobruni.it/) is a lightweight library for creating easily particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
 *   [Visualize (⭐351)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 *   [zDog (⭐11k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
