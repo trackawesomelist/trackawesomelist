@@ -16,7 +16,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests (⭐123k)](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -145,7 +145,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
         *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+        *   2 Arm-based Ampere A1 cores and 12 GB of memory usable as one VM or up to 2 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
@@ -618,7 +618,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Mozilla Observatory](https://observatory.mozilla.org/) - Find and fix security vulnerabilities in your site.
 *   [Otterwatch](https://otterwatch.dev/) - Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.
 *   [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐250)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (<https://github.com/unknownhad/AWSAttacks>). Full list is available via API
 *   [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
 *   [qualys.com](https://www.qualys.com/community-edition) - Find web app vulnerabilities, audit for OWASP Risks
 *   [SikkerKey](https://sikkerkey.com) - Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.
@@ -788,7 +788,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Simple Observability](https://simpleobservability.com) - Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.
 *   [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
 *   [skylight.io](https://www.skylight.io/) - Free for first 100,000 requests (Rails only)
-*   [stathat.com](https://www.stathat.com/) - Get started with ten stats for free, no expiration
 *   [statuscake.com](https://www.statuscake.com/) - Website monitoring, unlimited tests free with limitations
 *   [statusgator.com](https://statusgator.com/) - Status page monitoring, 3 monitors free
 *   [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
@@ -992,7 +991,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 *   [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 *   [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐19k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐20k)](https://github.com/comet-ml/opik/)
 *   [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
 *   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐29k)](https://github.com/langfuse/langfuse)
 *   [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
@@ -1001,8 +1000,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
 *   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
-*   [Othor AI](https://othor.ai/) - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource](https://github.com/othorai/othor.ai)
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.6k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
 *   [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
 *   [ReportGPT](https://ReportGPT.app) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 *   [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
@@ -1102,6 +1100,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 *   [Alwaysdata](https://www.alwaysdata.com/) - 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
 *   [Awardspace.com](https://www.awardspace.com) - Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
+*   [boomurl](https://boomurl.com) - Publish static sites (HTML/Markdown/images/PDF or a whole folder) to an instant HTTPS URL with no account; free tier shows a small banner. Custom domains supported.
 *   [Bubble](https://bubble.io/) - Visual programming to build web and mobile apps without code, free with Bubble branding.
 *   [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.

@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
+
+### Automation
+
+*   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### AI

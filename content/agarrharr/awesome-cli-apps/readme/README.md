@@ -235,7 +235,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [pgcli (⭐13k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 *   [sqlline (⭐655)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 *   [iredis (⭐2.7k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
-*   [usql (⭐10k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+*   [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 *   [rdsai-cli (⭐58)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 *   [squix (⭐238)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
 *   [pgxcli (⭐48)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
@@ -839,6 +839,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 *   [aye-chat (⭐64)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 *   [cmd-ai (⭐48)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 
 ## Other Resources
 

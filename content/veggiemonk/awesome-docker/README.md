@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veggiemonk/awesome-docker/week/README.md) / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Jun 15, 2026](/content/2026/06/15/README.md)
+
+### User Interfaces / Terminal
+
+*   [DockTUI](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
+
 ## [Jun 14, 2026](/content/2026/06/14/README.md)
 
 ### Running Containers / Deployment & Platforms

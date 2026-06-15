@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 [ [Daily](/content/Hyraze/collective-ai-tools/README.md) / Weekly / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
+
+### Prompts
+
+*   [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT. `#paid`
+
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
 ### Developer Tools
@@ -18,7 +24,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 *   [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) - Anthropic's terminal-native AI coding agent with agent skills, MCP, and extensible tool system. `#freemium`
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
-*   [Codex CLI (⭐87k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 *   [DeepSeek Coder](https://deepseekcoder.ai/) - Open-source code-focused LLM for AI-assisted development with state-of-the-art benchmarks. `#free` `#opensource`
 *   [Gemini CLI (⭐105k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`

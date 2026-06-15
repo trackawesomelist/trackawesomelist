@@ -413,7 +413,7 @@ Use these hashtags in search to filter out the tools
 *   [CoderPlan](https://coderplan.ai/) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, Grok. One-line config for Claude Code, Codex CLI, Gemini CLI. `#freemium`
 *   [Cline](https://cline.bot/) - AI-Powered Code assitant like Copilot in VS code. `#freemium`
 *   [CodeBuddy](https://codebuddy.cn/) - Tencent Cloud MCP ecosystem programming partner. `#free`
-*   [Codex CLI (⭐87k)](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
+*   [Codex CLI](https://github.com/openai/codex) - OpenAI's open-source terminal AI agent that runs locally with any model. `#free` `#opensource`
 *   [CodeGeeX](https://codegeex.cn/) - 13B parameter multilingual programming asst. `#free`
 *   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
 *   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. `#freemium`
@@ -926,6 +926,7 @@ Use these hashtags in search to filter out the tools
 *   [AIPRM](https://www.aiprm.com/) - Verified library for SEO and ChatGPT. `#free`
 *   [Geniea](https://geniea.com/) - Generated prompts for personal journeys. `#free`
 *   [PromptFolder](https://promptfolder.com/) - Allows users to create, save, and explore innovative prompts with features like variables, organization, and sharing. `#free`
+*   [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT. `#paid`
 *   [PromptHero](https://prompthero.com/) - #1 search engine for AI prompts. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**

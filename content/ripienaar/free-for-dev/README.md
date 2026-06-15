@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 15, 2026](/content/2026/06/15/README.md)
+
+### Web Hosting
+
+*   [boomurl](https://boomurl.com) - Publish static sites (HTML/Markdown/images/PDF or a whole folder) to an instant HTTPS URL with no account; free tier shows a small banner. Custom domains supported.
+
 ## [Jun 11, 2026](/content/2026/06/11/README.md)
 
 ### Data Visualization on Maps
@@ -931,10 +937,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
 *   [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
 
-### Generative AI
-
-*   [Othor AI](https://othor.ai/) - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource](https://github.com/othorai/othor.ai)
-
 ## [Dec 21, 2024](/content/2024/12/21/README.md)
 
 ### Artifact Repos
@@ -1045,7 +1047,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.6k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
 
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
@@ -1101,7 +1103,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐19k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐20k)](https://github.com/comet-ml/opik/)
 
 ### Low-code Platform
 
@@ -1659,7 +1661,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐250)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (<https://github.com/unknownhad/AWSAttacks>). Full list is available via API
 
 ### Other Free Resources
 
@@ -4665,7 +4667,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [loader.io](https://loader.io/) - Free load testing tools with limitations
 *   [pingbreak.com](https://pingbreak.com/) - Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
 *   [skylight.io](https://www.skylight.io/) - Free for first 100,000 requests (Rails only)
-*   [stathat.com](https://www.stathat.com/) - Get started with ten stats for free, no expiration
 *   [statuscake.com](https://www.statuscake.com/) - Website monitoring, unlimited tests free with limitations
 
 ### Crash and Exception Handling
@@ -5036,7 +5037,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
         *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+        *   2 Arm-based Ampere A1 cores and 12 GB of memory usable as one VM or up to 2 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB

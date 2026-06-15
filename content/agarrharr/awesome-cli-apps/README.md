@@ -13,6 +13,10 @@
 *   [OpenCode (⭐174k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 *   [Nanocoder (⭐2.1k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
+### AI / LLM Interaction
+
+*   [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
+
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
 ### Images / Emoji
@@ -1170,7 +1174,7 @@
 
 ### Development / Database
 
-*   [usql (⭐10k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+*   [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
 ## [May 09, 2021](/content/2021/05/09/README.md)
 
