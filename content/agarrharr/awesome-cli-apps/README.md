@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 15, 2026](/content/2026/06/15/README.md)
+
+### AI / Agents
+
+*   [OpenCode (⭐174k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+*   [Nanocoder (⭐2.1k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+
 ## [Jun 09, 2026](/content/2026/06/09/README.md)
 
 ### Images / Emoji
@@ -34,7 +41,7 @@
 
 ### AI / Agents
 
-*   [hcom (⭐300)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+*   [hcom (⭐336)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
@@ -52,26 +59,26 @@
 
 ### Utilities / Network Utilities
 
-*   [tldx (⭐1.8k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
+*   [tldx (⭐1.9k)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
 
 ## [May 25, 2026](/content/2026/05/25/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [gtasks (⭐151)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+*   [gtasks (⭐156)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 
 ### Productivity / Calendars
 
-*   [ical (⭐53)](https://github.com/BRO3886/ical) - Manage macOS Calendar.
-*   [rem (⭐103)](https://github.com/BRO3886/rem) - Manage macOS Reminders.
+*   [ical (⭐61)](https://github.com/BRO3886/ical) - Manage macOS Calendar.
+*   [rem (⭐120)](https://github.com/BRO3886/rem) - Manage macOS Reminders.
 
 ### Utilities / Calendars
 
-*   [amazon-orders (⭐146)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
+*   [amazon-orders (⭐150)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### Utilities / Science
 
-*   [birda (⭐23)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
+*   [birda (⭐25)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
@@ -87,13 +94,13 @@
 
 ### Files and Directories / Search
 
-*   [reflex (⭐57)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+*   [reflex (⭐60)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
 ### Utilities / Calendars
 
-*   [gittype (⭐1.1k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+*   [gittype (⭐1.4k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ## [May 10, 2026](/content/2026/05/10/README.md)
 
@@ -117,7 +124,7 @@
 
 ### AI / Agents
 
-*   [lean-ctx (⭐2.3k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+*   [lean-ctx (⭐2.7k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
@@ -129,7 +136,7 @@
 
 ### Development / HTTP Client
 
-*   [httptap (⭐498)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
+*   [httptap (⭐500)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ## [Apr 10, 2026](/content/2026/04/10/README.md)
 
@@ -207,7 +214,7 @@
 
 ### Development / Docker
 
-*   [kool (⭐720)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [kool (⭐721)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -223,7 +230,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [nomino (⭐711)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+*   [nomino (⭐710)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 
 ### Files and Directories / File Sync/Sharing
 
@@ -231,11 +238,11 @@
 
 ### Version Control / Git
 
-*   [lazygit (⭐78k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+*   [lazygit (⭐79k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
 ### Images / Emoji
 
-*   [freeze (⭐4.6k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+*   [freeze (⭐4.7k)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ## [Mar 16, 2026](/content/2026/03/16/README.md)
 
@@ -245,11 +252,11 @@
 
 ### Development / Devops
 
-*   [bencher (⭐846)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐852)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Development / Docker
 
-*   [decompose (⭐133)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Development / Npm
 
@@ -261,7 +268,7 @@
 
 ### Productivity / Testing
 
-*   [mynav (⭐243)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+*   [mynav (⭐246)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Productivity / Time Tracking
 
@@ -271,7 +278,7 @@
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [notesmd-cli (⭐1.5k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
-*   [rucola (⭐500)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐501)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 
 ### Utilities / Calendars
 
@@ -330,7 +337,7 @@
 
 ### Images / Emoji
 
-*   [optimizt (⭐175)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+*   [optimizt (⭐177)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 
 ### Screensavers / Image Conversion
 
@@ -339,14 +346,14 @@
 ### AI / Agents
 
 *   [greywall (⭐196)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐2.4k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐2.6k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐2.6k)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐79)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
 ### AI / LLM Interaction
 
 *   [aye-chat (⭐64)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
-*   [cmd-ai (⭐47)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+*   [cmd-ai (⭐48)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ### Other Resources / LLM Interaction
 
@@ -394,13 +401,13 @@
 
 ### Utilities / Science
 
-*   [periodic-table-cli (⭐295)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+*   [periodic-table-cli (⭐296)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Productivity / Testing
 
-*   [hns (⭐104)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+*   [hns (⭐107)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Utilities / Academia
 
@@ -426,7 +433,7 @@
 
 ### Development / Devops
 
-*   [updo (⭐989)](https://github.com/Owloops/updo) - Website monitoring tool.
+*   [updo (⭐994)](https://github.com/Owloops/updo) - Website monitoring tool.
 
 ## [Oct 29, 2025](/content/2025/10/29/README.md)
 
@@ -444,7 +451,7 @@
 
 ### Entertainment
 
-*   [mal-cli (⭐150)](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
+*   [mal-cli (⭐152)](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
 
 ### Entertainment / Music
 
@@ -452,7 +459,7 @@
 
 ### Entertainment / Books
 
-*   [hygg (⭐313)](https://github.com/kruserr/hygg) - Document reader.
+*   [hygg (⭐319)](https://github.com/kruserr/hygg) - Document reader.
 
 ### Development / Public localhost
 
@@ -460,7 +467,7 @@
 
 ### Development / Devops
 
-*   [telert (⭐284)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
+*   [telert (⭐285)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 
 ### Development / Testing
 
@@ -498,7 +505,7 @@
 
 ### Other Resources / LLM Interaction
 
-*   [x-cmd (⭐4.4k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐4.5k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## [Sep 24, 2025](/content/2025/09/24/README.md)
 
@@ -532,7 +539,7 @@
 
 *   [duf (⭐15k)](https://github.com/muesli/duf) - A better `df` alternative.
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
-*   [dutree (⭐872)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+*   [dutree (⭐873)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 
 ### Version Control / Git
 
@@ -584,13 +591,13 @@
 
 ### Just for Fun / Image Conversion
 
-*   [terminaltexteffects (⭐4k)](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
+*   [terminaltexteffects (⭐4.1k)](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
 
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### Productivity / Time Tracking
 
-*   [arttime (⭐1.3k)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+*   [arttime (⭐1.4k)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ## [Nov 14, 2024](/content/2024/11/14/README.md)
 
@@ -608,7 +615,7 @@
 
 ### Entertainment / Music
 
-*   [mpvc (⭐147)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
+*   [mpvc (⭐149)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
@@ -650,7 +657,7 @@
 
 ### Entertainment / Music
 
-*   [radio-active (⭐586)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+*   [radio-active (⭐587)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Productivity / Testing
 
@@ -704,11 +711,11 @@
 
 ### Utilities / Calendars
 
-*   [clevercli (⭐166)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+*   [clevercli (⭐165)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 
 ### Command Line Learning / Professional: Resume
 
-*   [yai (⭐866)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐868)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 
@@ -757,12 +764,12 @@
 ### Development / Chat
 
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐692)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐714)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [bcal (⭐694)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐715)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐388)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐720)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐367)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐41)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [add-gitignore (⭐722)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [is-up-cli (⭐366)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐40)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [diff2html-cli (⭐594)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
@@ -785,7 +792,7 @@
 
 *   [HTTPie (⭐38k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 *   [HTTP Prompt (⭐9.1k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐621)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [ain (⭐620)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Development / Testing
 
@@ -869,14 +876,14 @@
 
 ### Utilities / Internet Speedtest
 
-*   [speedtest-net (⭐622)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+*   [speedtest-net (⭐623)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 *   [speedtest-cli (⭐14k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 *   [bandwhich (⭐12k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Files and Directories / Directory Navigation
 
-*   [fz (⭐571)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+*   [fz (⭐572)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 
 ### Version Control / Git
 
@@ -922,7 +929,7 @@
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐222)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐224)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
@@ -950,7 +957,7 @@
 
 ### Entertainment / Music
 
-*   [dzr (⭐252)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐253)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
@@ -1007,7 +1014,7 @@
 
 ### Entertainment / Books
 
-*   [medium-cli (⭐733)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+*   [medium-cli (⭐732)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
 ### Development / Chat
 
@@ -1032,7 +1039,7 @@
 *   [git-stats (⭐6.6k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐13k)](https://github.com/jonas/tig) - Text-mode interface for git.
 *   [grv (⭐4.1k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
-*   [gitlab-cli (⭐267)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+*   [gitlab-cli (⭐266)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 *   [git-extras (⭐18k)](https://github.com/tj/git-extras) - Git utilities.
 *   [gita (⭐1.9k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
 *   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
@@ -1065,7 +1072,7 @@
 ### Graphics / Image Conversion
 
 *   [cli-mandelbrot (⭐105)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐249)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [lowcharts (⭐251)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## [Sep 02, 2021](/content/2021/09/02/README.md)
 
@@ -1097,7 +1104,7 @@
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐868)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐867)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Professional: Resume
 
@@ -1110,7 +1117,7 @@
 
 ### Files and Directories / Search
 
-*   [rare (⭐351)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐352)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [May 23, 2021](/content/2021/05/23/README.md)
 
@@ -1142,7 +1149,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [rename-cli (⭐172)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+*   [rename-cli (⭐173)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 
 ### Files and Directories / Disk Usage
 
@@ -1152,7 +1159,7 @@
 
 *   [unix-permissions (⭐143)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 *   [entr (⭐5.6k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
-*   [organize-cli (⭐368)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+*   [organize-cli (⭐370)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 
 ### Files and Directories / File Sync/Sharing
 
@@ -1187,7 +1194,7 @@
 
 ### Development / Docker
 
-*   [lstags (⭐344)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐342)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
@@ -1214,7 +1221,7 @@
 *   [yq (⭐2.9k)](https://github.com/kislyuk/yq) - YAML processor.
 *   [dasel (⭐8k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐92)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-*   [ramda-cli (⭐585)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+*   [ramda-cli (⭐584)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### Data Manipulation / JSON
 
@@ -1353,7 +1360,7 @@
 ### Data Manipulation / JSON
 
 *   [strip-json-comments-cli (⭐76)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐234)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [GROQ (⭐233)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [Nov 04, 2019](/content/2019/11/04/README.md)
 
@@ -1386,7 +1393,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [td-cli (⭐213)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐214)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
@@ -1425,7 +1432,7 @@
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐810)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐811)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [undollar (⭐205)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
@@ -1445,7 +1452,7 @@
 
 ### Development / Chat
 
-*   [foy (⭐291)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐292)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ## [Jul 07, 2019](/content/2019/07/07/README.md)
 
@@ -1513,7 +1520,7 @@
 
 ### Entertainment / Video
 
-*   [youtube-dl (⭐140k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
+*   [youtube-dl (⭐141k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
 *   [streamlink (⭐12k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 *   [mps-youtube (⭐8.7k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
@@ -1559,7 +1566,7 @@
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [idea (⭐274)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-*   [sncli (⭐424)](https://github.com/insanum/sncli) - Simplenote client.
+*   [sncli (⭐427)](https://github.com/insanum/sncli) - Simplenote client.
 *   [taskbook (⭐9.3k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Productivity / Finance
@@ -1681,7 +1688,7 @@
 
 *   [happyfinder (⭐335)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐44)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐64k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐65k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐81k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ## [Mar 02, 2019](/content/2019/03/02/README.md)
@@ -1746,7 +1753,7 @@
 
 ### Development / Mobile Development
 
-*   [deviceframe (⭐596)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+*   [deviceframe (⭐597)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
 ## [Jul 15, 2017](/content/2017/07/15/README.md)
 
@@ -1783,7 +1790,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐564)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐565)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [Apr 12, 2016](/content/2016/04/12/README.md)
 
@@ -1832,7 +1839,7 @@
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐4.2k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [gifsicle (⭐4.3k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 *   [ttygif (⭐4k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 *   [ttygif (⭐274)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
