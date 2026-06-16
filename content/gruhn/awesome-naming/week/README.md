@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
+
+### Other
+
+*   [Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) - Chinas controversial internet censorship system and a reference to the Great Wall of China.
+
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Data Structures and Algorithms
@@ -34,7 +40,7 @@ A curated list for when naming things is done right.
 ### Tools, Applications, Libraries, Frameworks
 
 *   [caffeinate](https://www.theapplegeek.co.uk/blog/caffeinate) - Terminal app to keep MacOS from "sleeping".
-*   [go-brrr (⭐26)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
+*   [go-brrr (⭐51)](https://github.com/molecule-man/go-brrr) - Pure Go implementation of the *br*otli compression algorithm . Also a reference to the [go brrr meme](https://en.wiktionary.org/wiki/go_brrr).
 
 ### Other
 
@@ -60,7 +66,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [bubblewrap (⭐7.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
+*   [bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tool forming a protective layer for your system.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -72,7 +78,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
+*   [corrosion](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally), but also a tool that "turns" C++ into Rust.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -142,7 +148,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux (⭐5.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
+*   [horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a person's soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
@@ -207,7 +213,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐94k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐95k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -304,7 +310,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [uppy (⭐31k)](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy](https://github.com/transloadit/uppy) - A dog-themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 

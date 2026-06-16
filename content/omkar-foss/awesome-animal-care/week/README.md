@@ -2,9 +2,15 @@
 
 List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 7 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 10 · 🏷️ Health and Social Science
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / Weekly / [Overview](/content/omkar-foss/awesome-animal-care/readme/README.md) ]
+
+## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
+
+### Common Resources for all animals / Welfare Organizations
+
+*   [International Fund for Animal Welfare (IFAW)](https://www.ifaw.org/international) - Global nonprofit that works to rescue, protect and advocate for animals in crisis, from wildlife conservation to ending illegal trade and responding to disasters.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 

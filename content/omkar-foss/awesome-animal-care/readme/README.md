@@ -2,13 +2,15 @@
 
 List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 7 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 10 · 🏷️ Health and Social Science
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / [Weekly](/content/omkar-foss/awesome-animal-care/week/README.md) / Overview ]
 
 ---
 
-[<img width="767" src="https://github.com/omkar-foss/awesome-animal-care/raw/main/images/banner.png"/>](https://omkar-foss.github.io/awesome-animal-care/)
+[<img width="767" src="https://github.com/omkar-foss/awesome-animal-care/raw/main/images/banner.jpg"/>](https://omkar-foss.github.io/awesome-animal-care/)
+
+Above picture shows an [African bush elephant](https://en.wikipedia.org/wiki/African_bush_elephant) in a zoo playing with a suspended ball provided for [enrichment](https://en.wikipedia.org/wiki/Behavioral_enrichment).
 
 # Awesome Animal Care [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -140,6 +142,7 @@ Goal of this project is simply to gather verified animal care content written by
 *   [International Bird Rescue](https://www.birdrescue.org/) - Leader in the rehabilitation of aquatic birds, specifically known for its expert response to man-made environmental disasters like oil spills.
 *   [International Companion Animal Coalition](https://www.icam-coalition.org/) - Coalition of global NGOs that creates standard frameworks for humane dog and cat population management.
 *   [International Cat Care](https://icatcare.org/) - Works to create a world where all cats are treated with care, compassion and an understanding of their unique needs.
+*   [International Fund for Animal Welfare (IFAW)](https://www.ifaw.org/international) - Global nonprofit that works to rescue, protect and advocate for animals in crisis, from wildlife conservation to ending illegal trade and responding to disasters.
 *   [People for the Ethical Treatement of Animals (PETA)](https://www.peta.org/) - International organization known for high-impact campaigns against the use of animals for food, clothing, research and entertainment.
 *   [People For Animals India (PFA India)](https://www.peopleforanimalsindia.org/) - India's largest animal welfare organization, founded by Maneka Gandhi, which runs a network of shelters and hospitals.
 *   [Pet Nutrition Alliance (PNA)](https://petnutritionalliance.org/) - Collaboration of veterinary organizations that provides objective nutritional tools for pet owners and veterinary teams.

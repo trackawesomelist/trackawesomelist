@@ -22,18 +22,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 *   [Plugin Manager](#plugin-manager)
 *   [LSP](#lsp)
-    *   [LSP Installer](#lsp-installer)
     *   [Diagnostics](#diagnostics)
 *   [Completion](#completion)
 *   [AI](#ai)
 *   [Programming Languages Support](#programming-languages-support)
     *   [Golang](#golang)
-    *   [YAML](#yaml)
     *   [Web Development](#web-development)
     *   [Markdown and LaTeX](#markdown-and-latex)
-    *   [PHP](#php)
-    *   [Powershell](#powershell)
-    *   [Assembly](#assembly)
 *   [Language](#language)
 *   [Syntax](#syntax)
 *   [Snippet](#snippet)
@@ -62,7 +57,6 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Terminal Integration](#terminal-integration)
 *   [Debugging](#debugging)
     *   [Quickfix](#quickfix)
-*   [Deployment](#deployment)
 *   [Test](#test)
 *   [Code Runner](#code-runner)
 *   [Neovim Lua Development](#neovim-lua-development)
@@ -70,11 +64,9 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Dependency Management](#dependency-management)
 *   [Git](#git)
     *   [GitHub](#github)
-    *   [GitLab](#gitlab)
 *   [Motion](#motion)
     *   [Tree-sitter Based](#tree-sitter-based)
 *   [Keybinding](#keybinding)
-*   [Mouse](#mouse)
 *   [Scrolling](#scrolling)
     *   [Scrollbar](#scrollbar)
 *   [Editing Support](#editing-support)
@@ -93,18 +85,14 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Toys](#toys)
 *   [Workflow](#workflow)
     *   [Stats Tracking](#stats-tracking)
-    *   [Automation](#automation)
 *   [Database](#database)
 *   [Pre-made Configuration](#pre-made-configuration)
 *   [External](#external)
     *   [Version Manager](#version-manager)
     *   [Plugin Template](#plugin-template)
-    *   [Remote Control](#remote-control)
     *   [OS-specific](#os-specific)
 *   [Wishlist](#wishlist)
 *   [UI](#ui)
-*   [Starter Templates](#starter-templates)
-*   [Vim](#vim)
 *   [Resource](#resource)
 
 ## Plugin Manager
@@ -219,10 +207,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [chojs23/ts-bridge (⭐38)](https://github.com/chojs23/ts-bridge) - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 *   [akioweh/lsp-document-highlight.nvim (⭐10)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 *   [nemanjamalesija/ts-expand-hover.nvim (⭐57)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
-
-### LSP Installer
-
-*   [mason-org/mason.nvim (⭐10k)](https://github.com/mason-org/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [mason-org/mason.nvim (⭐10k)](https://github.com/mason-org/mason.nvim) - Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Diagnostics
 
@@ -359,6 +344,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [AnsonH/copy-python-path.nvim (⭐3)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 *   [J-Cowsert/classlayout.nvim (⭐46)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 *   [awsum-lang/awsum-nvim (⭐3)](https://github.com/awsum-lang/awsum-nvim) - LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language.
+*   [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
+*   [mosheavni/yaml-companion.nvim (⭐17)](https://github.com/mosheavni/yaml-companion.nvim) - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
+*   [gbprod/phpactor.nvim (⭐96)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.9k)](https://github.com/phpactor/phpactor).
+*   [ta-tikoma/php.easy.nvim (⭐23)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+*   [TheLeoP/powershell.nvim (⭐77)](https://github.com/TheLeoP/powershell.nvim) - First class PowerShell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
+*   [Who5673/who5673-nasm (⭐6)](https://github.com/Who5673/who5673-nasm) - Helps people program Netwide Assembler language faster and more convenient using snippets.
+*   [sachinsenal0x64/hot.nvim (⭐28)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
 *   [simonwinther/cppman.nvim (⭐15)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 
 ### Golang
@@ -377,11 +369,6 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Yu-Leo/cmp-go-pkgs (⭐4)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
 *   [fredrikaverpil/godoc.nvim (⭐172)](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs.
 *   [sjclayton/goplexity.nvim (⭐4)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
-
-### YAML
-
-*   [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
-*   [mosheavni/yaml-companion.nvim (⭐17)](https://github.com/mosheavni/yaml-companion.nvim) - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
 
 ### Web Development
 
@@ -437,19 +424,6 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [Prgebish/sigil.nvim (⭐31)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 *   [satozawa/graft.nvim (⭐8)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 *   [kibi2/tirenvi.nvim (⭐36)](https://github.com/kibi2/tirenvi.nvim) - Edit Markdown and CSV tables with lossless round-trip.
-
-### PHP
-
-*   [gbprod/phpactor.nvim (⭐96)](https://github.com/gbprod/phpactor.nvim) - Lua version of [phpactor (⭐1.9k)](https://github.com/phpactor/phpactor).
-*   [ta-tikoma/php.easy.nvim (⭐23)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
-
-### Powershell
-
-*   [TheLeoP/powershell.nvim (⭐77)](https://github.com/TheLeoP/powershell.nvim) - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
-
-### Assembly
-
-*   [Who5673/who5673-nasm (⭐6)](https://github.com/Who5673/who5673-nasm) - Helps people program Netwide Assembler language faster and more convenient using snippets.
 
 <!--lint disable double-link -->
 
@@ -684,6 +658,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [mrjones2014/codesettings.nvim (⭐72)](https://github.com/mrjones2014/codesettings.nvim) - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 *   [josephschmitt/pj.nvim (⭐22)](https://github.com/josephschmitt/pj.nvim) - Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua).
 *   [martuscellifaria/ahoicpp.nvim (⭐5)](https://github.com/martuscellifaria/ahoicpp.nvim) - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
+*   [OscarCreator/rsync.nvim (⭐99)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 <!--lint disable double-link -->
 
@@ -1170,6 +1145,7 @@ then it is not supported:
 *   [Owen-Dechow/videre.nvim (⭐140)](https://github.com/Owen-Dechow/videre.nvim) - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
 *   [mahyarmirrashed/famous-quotes.nvim (⭐5)](https://github.com/mahyarmirrashed/famous-quotes.nvim) - Get famous quotes from history to display on startup.
 *   [iquzart/toggleword.nvim (⭐4)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
+*   [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 *   [piersolenski/brewfile.nvim (⭐20)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 *   [gpanders/nvim-moonwalk (⭐77)](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua anywhere in your Neovim configuration.
 *   [johannww/tts.nvim (⭐19)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
@@ -1183,6 +1159,7 @@ then it is not supported:
 *   [glyccogen/imprint.nvim (⭐16)](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 *   [emrearmagan/dockyard.nvim (⭐24)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 *   [ChuYanLon/telegram.nvim (⭐9)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
+*   [paulburgess1357/nvim-mcp (⭐57)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
 
 ### CSV Files
 
@@ -1282,17 +1259,6 @@ then it is not supported:
 *   [ashfinal/qfview.nvim (⭐55)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
 *   [niuiic/quickfix.nvim (⭐13)](https://github.com/niuiic/quickfix.nvim) - Extended functionality for quickfix, including store, restore, make, remove, etc.
 *   [stevearc/quicker.nvim (⭐982)](https://github.com/stevearc/quicker.nvim) - Improved quickfix UI and editable quickfix buffer.
-
-<!--lint disable double-link -->
-
-[**⬆ back to top**](#contents)
-
-<!--lint enable double-link -->
-
-## Deployment
-
-*   [OscarCreator/rsync.nvim (⭐99)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
-*   [sachinsenal0x64/hot.nvim (⭐28)](https://github.com/sachinsenal0x64/hot.nvim) - A hot reloader that works with any programming language.
 
 <!--lint disable double-link -->
 
@@ -1475,6 +1441,7 @@ then it is not supported:
 *   [spacedentist/resolve.nvim (⭐59)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 *   [jceb/jiejie.nvim (⭐69)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
 *   [chojs23/ec (⭐221)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
+*   [harrisoncramer/GitLab.nvim (⭐381)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 
 ### GitHub
 
@@ -1488,10 +1455,6 @@ then it is not supported:
 *   [cd-4/git-needy.nvim (⭐5)](https://github.com/cd-4/git-needy.nvim) - Keeps a tally of workflows that need to be reviewed in your statusbar.
 *   [claydugo/browsher.nvim (⭐16)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
 *   [gh-tui-tools/gh-review.nvim (⭐16)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
-
-### GitLab
-
-*   [harrisoncramer/GitLab.nvim (⭐381)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 
 <!--lint disable double-link -->
 
@@ -1566,15 +1529,6 @@ then it is not supported:
 *   [tris203/hawtkeys.nvim (⭐245)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 *   [mawkler/demicolon.nvim (⭐131)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.8k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 *   [nvim-mini/mini.nvim#mini.keymap (⭐9.2k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md) - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
-
-<!--lint disable double-link -->
-
-[**⬆ back to top**](#contents)
-
-<!--lint enable double-link -->
-
-## Mouse
-
 *   [notomo/gesture.nvim (⭐542)](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin.
 
 <!--lint disable double-link -->
@@ -1927,6 +1881,8 @@ then it is not supported:
 *   [ecthelionvi/NeoComposer.nvim (⭐415)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 *   [yagiziskirik/AirSupport.nvim (⭐10)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
 *   [emrearmagan/atlas.nvim (⭐112)](https://github.com/emrearmagan/atlas.nvim) - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
+*   [mateuszwieloch/automkdir.nvim (⭐32)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+*   [jghauser/mkdir.nvim (⭐234)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 ### Stats Tracking
 
@@ -1939,11 +1895,6 @@ then it is not supported:
 *   [ravsii/timers.nvim (⭐16)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 *   [Rtarun3606k/takatime (⭐94)](https://github.com/Rtarun3606k/takatime) - Privacy-first WakaTime alternative using Go and MongoDB.
 *   [taigrr/blast.nvim (⭐1)](https://github.com/taigrr/blast.nvim) - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
-
-### Automation
-
-*   [mateuszwieloch/automkdir.nvim (⭐32)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
-*   [jghauser/mkdir.nvim (⭐234)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 <!--lint disable double-link -->
 
@@ -1967,6 +1918,8 @@ then it is not supported:
 
 ## Pre-made Configuration
 
+*   [tokiory/neovim-boilerplate (⭐128)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐99)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 *   [abdellatif-temsamani/adev.nvim (⭐7)](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 *   [pgosar/CyberNvim (⭐378)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 *   [sontungexpt/stinvim (⭐51)](https://github.com/sontungexpt/stinvim) - Configuration for Full-Stack developers.
@@ -2031,10 +1984,6 @@ These tools are used externally to Neovim to enhance the experience.
 *   [DrKJeff16/nvim-plugin-boilerplate (⭐13)](https://github.com/DrKJeff16/nvim-plugin-boilerplate) - A documented template for new plugins generated by a script. Includes tests, CI utilities, etc.
 *   [chrisgrieser/nvim-pseudometa-plugin-template (⭐40)](https://github.com/chrisgrieser/nvim-pseudometa-plugin-template) - Template for new Neovim plugins.
 
-### Remote Control
-
-*   [paulburgess1357/nvim-mcp (⭐57)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through Neovim's msgpack-RPC socket.
-
 ### OS-specific
 
 *   [chrisgrieser/alfred-neovim-utilities (⭐43)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
@@ -2088,30 +2037,10 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist (⭐248)](ht
 
 <!--lint enable double-link -->
 
-## Starter Templates
-
-*   [tokiory/neovim-boilerplate (⭐128)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐99)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
-
-<!--lint disable double-link -->
-
-[**⬆ back to top**](#contents)
-
-<!--lint enable double-link -->
-
-## Vim
+## Resource
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 *   [akrawchyk/awesome-vim#tools (⭐2.1k)](https://github.com/akrawchyk/awesome-vim#tools) - A short list of Vim plugins and helpful guides.
-
-<!--lint disable double-link -->
-
-[**⬆ back to top**](#contents)
-
-<!--lint enable double-link -->
-
-## Resource
-
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 *   [Dotfyle](https://dotfyle.com) - A site for sharing and discovering Neovim configs and plugins.
 *   [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
