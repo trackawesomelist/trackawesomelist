@@ -8,6 +8,10 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
+### AI
+
+*   [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate art, music and SFX with AI, and publish playable visual novels. No coding required.
+
 ### Automation
 
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.

@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Jun 16, 2026](/content/2026/06/16/README.md)
+
+### AI
+
+*   [Open Agent SDK (⭐20)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
+
 ## [Jun 13, 2026](/content/2026/06/13/README.md)
 
 ### Quality / Barcode
@@ -3196,7 +3202,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Dependency Managers
 
-*   [Carthage (⭐15k)](https://github.com/Carthage/Carthage) - A new dependency manager.
+*   [Carthage](https://github.com/Carthage/Carthage) - A new dependency manager.
 *   [CocoaPods (⭐15k)](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
 
 ### Patterns

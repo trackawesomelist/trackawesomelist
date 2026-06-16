@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |    Updated    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :-----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1102   | June 13, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1103   | June 15, 2026 |
 
 In parternship with:
 
@@ -274,7 +274,7 @@ In parternship with:
 *Dependency manager software for Swift.*
 
 *   [Accio (⭐670)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
-*   [Carthage (⭐15k)](https://github.com/Carthage/Carthage) - A new dependency manager.
+*   [Carthage](https://github.com/Carthage/Carthage) - A new dependency manager.
 *   [CocoaPods (⭐15k)](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
 *   [Mint (⭐2.5k)](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
 *   [swift-package-manager (⭐10k)](https://github.com/swiftlang/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
@@ -338,6 +338,7 @@ In parternship with:
 *   [EdgeRunner (⭐36)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 *   [Espresso (⭐115)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 *   [Fazm (⭐258)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+*   [Open Agent SDK (⭐20)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 *   [OpenAI (⭐2.9k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ### Algorithm

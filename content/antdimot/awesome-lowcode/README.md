@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Jun 16, 2026](/content/2026/06/16/README.md)
+
+### AI
+
+*   [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate art, music and SFX with AI, and publish playable visual novels. No coding required.
+
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
 ### Automation
