@@ -411,6 +411,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [MeanderingProgrammer/render-markdown.nvim (⭐4.7k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown files directly.
 *   [ChuufMaster/markdown-toc (⭐18)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any Markdown file from any other Markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 *   [OXY2DEV/markview.nvim (⭐3.5k)](https://github.com/OXY2DEV/markview.nvim) - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
+*   [gunasekar/markview-smart-tables.nvim (⭐2)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 *   [Kicamon/markdown-table-mode.nvim (⭐102)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 *   [SCJangra/table-nvim (⭐79)](https://github.com/SCJangra/table-nvim) - A Markdown table editor that formats the table as you type.
 *   [timantipov/md-table-tidy.nvim (⭐23)](https://github.com/timantipov/md-table-tidy.nvim) - Simple Markdown tables formatting.
@@ -1145,7 +1146,7 @@ then it is not supported:
 *   [Owen-Dechow/videre.nvim (⭐140)](https://github.com/Owen-Dechow/videre.nvim) - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
 *   [mahyarmirrashed/famous-quotes.nvim (⭐5)](https://github.com/mahyarmirrashed/famous-quotes.nvim) - Get famous quotes from history to display on startup.
 *   [iquzart/toggleword.nvim (⭐4)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
-*   [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐11)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 *   [piersolenski/brewfile.nvim (⭐20)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 *   [gpanders/nvim-moonwalk (⭐77)](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua anywhere in your Neovim configuration.
 *   [johannww/tts.nvim (⭐19)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
@@ -1909,6 +1910,7 @@ then it is not supported:
 *   [tashikomaaa/neomongo.nvim (⭐7)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 *   [zerochae/dbab.nvim (⭐31)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
 *   [joryeugene/dadbod-grip.nvim (⭐153)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
+*   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 <!--lint disable double-link -->
 

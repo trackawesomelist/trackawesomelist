@@ -6,11 +6,21 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 17, 2026](/content/2026/06/17/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [gunasekar/markview-smart-tables.nvim (⭐2)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+
+### Database / Stats Tracking
+
+*   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+
 ## [Jun 16, 2026](/content/2026/06/16/README.md)
 
 ### Utility / Cursorline
 
-*   [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐11)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 

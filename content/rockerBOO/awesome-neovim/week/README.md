@@ -12,9 +12,17 @@ Collections of awesome neovim plugins.
 
 *   [simonwinther/cppman.nvim (⭐15)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [gunasekar/markview-smart-tables.nvim (⭐2)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+
 ### Utility / Cursorline
 
-*   [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐11)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+
+### Database / Stats Tracking
+
+*   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
