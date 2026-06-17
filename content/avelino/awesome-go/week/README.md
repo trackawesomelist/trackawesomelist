@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [confluence2md (⭐19)](https://github.com/gkoos/confluence2md) - Confluence to Markdown crawler and converter.
 
+### Financial
+
+*   [paystack-sdk-go (⭐1)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
+
 ### Testing Frameworks
 
 *   [assay (⭐2)](https://github.com/tushariitr-19/assay) - Framework-agnostic evaluation library for testing Go agents and MCP servers with deterministic checks, CI-ready exit codes, and zero-code YAML-based testing.
