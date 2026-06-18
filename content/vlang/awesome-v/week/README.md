@@ -8,6 +8,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
+### Command-line
+
+*   [fastgit (⭐0)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [musicc (⭐0)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
+
 ### Editor plugins
 
 *   [tree-sitter-v (⭐0)](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.

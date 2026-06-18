@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
+### AI / Diagnostics
+
+*   [BRONZowl/codux.nvim (⭐2)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
+
 ### Programming Languages Support / Diagnostics
 
 *   [simonwinther/cppman.nvim (⭐15)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.

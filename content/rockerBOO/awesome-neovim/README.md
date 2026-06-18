@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 18, 2026](/content/2026/06/18/README.md)
+
+### AI / Diagnostics
+
+*   [BRONZowl/codux.nvim (⭐2)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
+
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
