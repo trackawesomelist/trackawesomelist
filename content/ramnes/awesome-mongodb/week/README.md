@@ -12,6 +12,10 @@
 
 *   [mdbplyr (⭐1)](https://github.com/pbosetti/mdbplyr) - Build MongoDB queries and aggregations as if you were using `dplyr`, no more head-crushing JSON fights!
 
+### Tools / Administration
+
+*   [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
+
 ### Tools / Desktop
 
 *   [MQLens (⭐36)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
@@ -84,7 +88,7 @@
 
 ### Applications / Web
 
-*   [BookCars (⭐587)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+*   [BookCars (⭐600)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
@@ -431,7 +435,6 @@
 
 ### Tools / Administration
 
-*   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
 *   [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
 *   [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
 *   [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)

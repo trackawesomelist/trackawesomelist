@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Jun 18, 2026](/content/2026/06/18/README.md)
+
+### Tools / Administration
+
+*   [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
+
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Libraries / R
@@ -84,7 +90,7 @@
 
 ### Applications / Web
 
-*   [BookCars (⭐587)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+*   [BookCars (⭐600)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
 ## [Jun 12, 2025](/content/2025/06/12/README.md)
 
@@ -433,7 +439,6 @@
 
 ### Tools / Administration
 
-*   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
 *   [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
 *   [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
 *   [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)

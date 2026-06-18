@@ -273,7 +273,7 @@ Inspired by the [awesome (⭐476k)](https://github.com/sindresorhus/awesome) lis
 
 Services:
 
-*   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
+*   [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
 *   [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
 *   [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
 *   [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)
@@ -383,7 +383,7 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
-*   [BookCars (⭐587)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+*   [BookCars (⭐600)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 *   [CodeCombat (⭐8.5k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 *   [Countly (⭐5.9k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Errbit (⭐4.3k)](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.

@@ -1,24 +1,74 @@
 # Awesome List Updates on Jun 22 - Jun 28, 2026
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+
+### Platforms
+
+*   [ForestHub](https://foresthub.ai) - Edge AI agent platform; its open-source runtime [edge-agents (⭐81)](https://github.com/ForestHubAI/edge-agents) orchestrates AI agents on Linux edge gateways with MQTT as a first-class workflow transport, running offline with local SLMs alongside cloud LLMs.
+
+## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### FPS
+
+*   [4TAK (⭐2)](https://github.com/qbism/4TAK) - client and server based on q2pro-rerelease and q2pro
+*   [ericw-tools (⭐478)](https://github.com/ericwa/ericw-tools) - Quake/Hexen 2 Map compiling tools.
+*   [heavymetal (⭐1)](https://github.com/sp00nznet/heavymetal) - A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64.
+*   [lilium-arena (⭐8)](https://github.com/clover-moe/lilium-arena) - Lilium Arena - Compatible with Quake 3 Arena 1.32.
+*   [lilium-salvation (⭐4)](https://github.com/clover-moe/lilium-salvation) - An engine replacement for [Dark Salvation](https://mangledeyestudios.itch.io/dark-salvation)
+*   [lilium-voyager (⭐54)](https://github.com/clover-moe/lilium-voyager) - An engine replacement for Star Trek Voyager: Elite Force Holomatch (multiplayer).
+*   [mint-arena (⭐41)](https://github.com/clover-moe/mint-arena) - Spearmint Quake 3 and Team Arena game code.
+*   [mint-metal (⭐17)](https://github.com/zturtleman/mint-metal) - Incomplete (unusable for practical purposes) Heavy Metal F.A.K.K.² / American McGee's Alice game code for Spearmint.
+*   [Oblivion-Reconstructed (⭐2)](https://github.com/themuffinator/Oblivion-Reconstructed) - Reverse-engineered Oblivion Extension Pack source code for original Quake II.
+*   [openQ4 (⭐39)](https://github.com/themuffinator/openQ4) - The modern binary replacement for QUAKE 4.
+*   [openQ4-game (⭐3)](https://github.com/themuffinator/openQ4-game) - openQ4 game libraries
+*   [qk1](https://git.sr.ht/~ft/qk1) - Modernized Quake for Unix-like operating systems and 9front.
+*   [qk1 (⭐7)](https://github.com/qwx9/qk1) - quake 1 and quakeworld port for plan9.
+*   [q2tools-220 (⭐73)](https://github.com/qbism/q2tools-220) - Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes.
+*   [qfusion (⭐77)](https://github.com/Warsow/qfusion) - This is Warsow's fork of qfusion, the id Tech 2 derived game engine.
+*   [QL-SRP (⭐8)](https://github.com/themuffinator/QL-SRP) - Source Reconstruction Project for QUAKE LIVE \[WIP]
+*   [realice (⭐8)](https://github.com/FWGS/realice) - Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.
+*   [REBLIVION (⭐3)](https://github.com/themuffinator/REBLIVION) - Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.
+*   [spearmint (⭐270)](https://github.com/clover-moe/spearmint) - Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.
+*   [MadnessPatch (⭐322)](https://github.com/Wemino/MadnessPatch) - A patch that fixes various issues in the PC port of Alice: Madness Returns.
+*   [VorpalFix (⭐285)](https://github.com/Wemino/VorpalFix) - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
+*   [xash3d-fwgs (⭐2.6k)](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
+
+### Simulator
+
+*   [dxx-redux (⭐69)](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro.
+*   [forsaken-3ds (⭐2)](https://github.com/colbyshores/forsaken-3ds) - Nintendo 3DS port of Forsaken (1998)
+
+### Strategy
+
+*   [machines (⭐37)](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
+
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [ghq-gh-wiki-clone (⭐0)](https://github.com/shmokmt/ghq-gh-wiki-clone) - A ZSH plugin that, after `ghq get` / `ghq clone` fetches a repository, automatically clones its GitHub Wiki (when the wiki has pages) into a .wiki subdirectory of that repository.
+*   [safe-venv-auto (⭐22)](https://github.com/mavwolverine/zsh-safe-venv-auto) - A security-aware ZSH plugin that automatically activates and deactivates Python virtual environments as you navigate directories, with built-in protection against untrusted environments.
+*   [zaw-src-package-managers (⭐1)](https://github.com/GeneralD/zaw-src-package-managers) - Optional sources of [zaw (⭐586)](https://github.com/zsh-users/zaw) for several package managers: [rubygem](https://rubygems.org/) (ruby), [pypi](https://pypi.python.org/pypi) (python), [clib (⭐5.1k)](https://github.com/clibs/clib) (C), [appstore (⭐12k)](https://github.com/mas-cli/mas) (Mac App Store), [homebrew](https://brew.sh/) (Mac CUI App), [brewcask](https://caskroom.github.io/) (Mac GUI App)
+
+## [4. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Scripting / Embeddable Languages
 
-*   [cel-expr/cel-go (⭐3k)](https://github.com/cel-expr/cel-go) — Common Expression Language for Go ☆`3,002`
+*   [cel-expr/cel-go (⭐3k)](https://github.com/cel-expr/cel-go) — Common Expression Language for Go ☆`3,004`
 
-## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2026
 
 *   [The Fair Game: Auditing & debiasing AI algorithms over time](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/fair-game-auditing-debiasing-ai-algorithms-over-time/9E8408C67F7CE30505122DD1586D9FA2) - Jouarnal of Cambridge Forum on AI: Law and Governance
 
-## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -29,29 +79,33 @@
 
 *   [tree-sitter-v (⭐0)](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
 
-## [4. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Programming Languages
 
 *   [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
 
-## [5. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / R
 
 *   [mdbplyr (⭐1)](https://github.com/pbosetti/mdbplyr) - Build MongoDB queries and aggregations as if you were using `dplyr`, no more head-crushing JSON fights!
 
+### Tools / Administration
+
+*   [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
+
 ### Tools / Desktop
 
 *   [MQLens (⭐36)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
 
-## [6. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
 *   [postmortemthis (⭐0)](https://github.com/Softeria/postmortemthis) - Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Download Management Tools / Audio Record and Process
 
@@ -61,11 +115,15 @@
 
 *   [TrustTunnel](https://trusttunnel.org/) - A modern, open-source VPN protocol originally developed by AdGuard VPN. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TrustTunnel/TrustTunnel) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Menu Bar Tools
+
+*   [Agent Island (⭐1)](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tristan666666/agent-island) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Quality of Life Improvements
 
 *   [MaCursor (⭐45)](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/writronic/MaCursor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -193,56 +251,47 @@
 
 *   🎉 [Ogmo Editor (⭐579)](https://github.com/Ogmo-Editor-3/OgmoEditor3-CE) - Free, open source, project oriented tile map editor.
 
-## [9. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [12. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) - Chinas controversial internet censorship system and a reference to the Great Wall of China.
 
-## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
 *   [SafeStreets](https://safestreets.streetsandcommons.com) - A free, OpenStreetMap-based web platform providing address-level walkability and pedestrian-safety scores on a 15-minute-city framework (daily-needs reach, transit access, and walking comfort).
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Faved](https://faved.dev/) - Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ([Demo](https://demo.faved.dev/), [Source Code](https://github.com/denho/faved)) `MIT` `Docker`
 
-## [12. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [15. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Common Resources for all animals / Welfare Organizations
 
 *   [International Fund for Animal Welfare (IFAW)](https://www.ifaw.org/international) - Global nonprofit that works to rescue, protect and advocate for animals in crisis, from wildlife conservation to ending illegal trade and responding to disasters.
 
-## [13. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
-
-### Software / Frameworks
-
-*   [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
-
-## [14. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [16. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :free: [VNovels](https://vnovels.com) - A browser-based visual novel maker. You build branching, choice-based stories in a visual scene and graph editor, with an AI assistant that helps write scenes and can generate backgrounds, character art, music and sound. Publish playable visual novels, no coding required.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### C++ / General-Purpose Machine Learning
+
+*   [ols-regression-engine (⭐0)](https://github.com/VojtechNovakk/ols-regression-engine) - A low-level Linear Regression Engine utilizing the Ordinary Least Squares (OLS) method and QR decomposition.
 
 ### Python / Neural Networks
 
-*   [zij](https://github.com/junaidaliop/zij) - A canon of deep learning optimization algorithms.
+*   [zij (⭐2)](https://github.com/junaidaliop/zij) - A canon of deep learning optimization algorithms.
 
-## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Professional Development / Mathematics For Computer Science
-
-*   [Confessions of an IT Manager](https://assets.red-gate.com/community/books/confessions-of-an-it-manager-ebook.pdf) - Phil Factor (PDF)
-*   [Don't Just Roll the Dice](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf) - Neil Davidson (PDF)
-
-## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### People Investigations / GitHub
 
@@ -256,7 +305,7 @@
 
 *   [Subhunt (⭐1)](https://github.com/ahmadouniass/Subdomains-finder-subhunt) - Multi-source subdomain enumeration tool querying crt.sh Certificate Transparency logs, HackerTarget, and RapidDNS. Features HTTP/HTTPS liveness probing with status codes, alive/dead filtering, multi-format export (TXT/JSON/CSV), and a full CLI.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Embedded
 
@@ -281,19 +330,19 @@
 *   DNS
     *   [kweonminsung/bind9\_rndc\_rust (⭐1)](https://github.com/kweonminsung/bind9_rndc_rust) \[[rndc](https://crates.io/crates/rndc)] - BIND9 RNDC protocol implementation for Rust [![CI](https://github.com/kweonminsung/bind9_rndc_rust/actions/workflows/ci.yml/badge.svg)](https://github.com/kweonminsung/bind9_rndc_rust/actions/workflows/ci.yml)
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
 *   [Open Agent SDK (⭐20)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 
-## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [21. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
 *   [Train LLM From Scratch (⭐6.3k)](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 
-## [21. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [22. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Comparison
 
@@ -313,13 +362,13 @@
 
 *   [Eventum](https://eventum.run) - Data generation platform for producing synthetic event streams with complex correlations.
 
-## [22. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / System Utilities
 
-*   [yagcioglutoprak/dusty (⭐47)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`46`
+*   [yagcioglutoprak/dusty (⭐47)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`47`
 
-## [23. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [24. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Finance
 
@@ -337,7 +386,7 @@
 
 *   [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Caching
 
@@ -347,19 +396,19 @@
 
 *   [CrymbleUI (⭐34)](https://github.com/wolfgang371/crymbleui) - A nice and fast GUI framework for Crystal. Declarative DSL, Reactive State, Performant, Rich Widget Set including VirtualMatrix and RecursiveGrid
 
-## [25. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [26. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
 *   [Notty (⭐8)](https://github.com/ocaml-community/notty-community) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
-## [26. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [27. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -373,7 +422,7 @@
 
 *   [boomurl](https://boomurl.com) - Publish static sites (HTML/Markdown/images/PDF or a whole folder) to an instant HTTPS URL with no account; free tier shows a small banner. Custom domains supported.
 
-## [28. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [29. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
@@ -383,19 +432,19 @@
 
 *   [Kamod Hooks (⭐1)](https://github.com/kamod-ch/kamod-hooks) - Preact hooks library ported from [ahooks (⭐15k)](https://github.com/alibaba/hooks).
 
-## [29. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Respan](https://respan.ai/) - Full-stack AI engineering platform to trace agent workflows in production, evaluate output quality with custom graders, iterate on prompts without code changes, and route across 250+ models through one gateway. Formerly Keywords AI.
 
-## [30. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### User Interfaces / Terminal
 
 *   [DockTUI](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
 
-## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Data Integration Frameworks
 
@@ -417,19 +466,19 @@
 
 *   [picoloom (⭐81)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 
-## [32. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [33. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [envapt (⭐9)](https://github.com/materwelonDhruv/envapt) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
 
-## [33. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [34. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Hooks / Server-side
 
 *   [useApi (⭐0)](https://github.com/offload-project/inertiajs-use-api) - React hook for calling JSON API endpoints from Inertia.js apps, with optional piping into page props.
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -451,7 +500,7 @@
 
 *   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
-## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### AI / Agents
 
