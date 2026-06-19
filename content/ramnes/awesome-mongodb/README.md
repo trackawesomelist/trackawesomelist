@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Jun 19, 2026](/content/2026/06/19/README.md)
+
+### Libraries / JavaScript
+
+*   [Monarch ORM (⭐30)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
+*   [Typegoose (⭐2.3k)](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
+
 ## [Jun 18, 2026](/content/2026/06/18/README.md)
 
 ### Tools / Administration

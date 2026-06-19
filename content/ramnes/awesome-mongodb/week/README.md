@@ -8,6 +8,11 @@
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
+### Libraries / JavaScript
+
+*   [Monarch ORM (⭐30)](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference
+*   [Typegoose (⭐2.3k)](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
+
 ### Libraries / R
 
 *   [mdbplyr (⭐1)](https://github.com/pbosetti/mdbplyr) - Build MongoDB queries and aggregations as if you were using `dplyr`, no more head-crushing JSON fights!

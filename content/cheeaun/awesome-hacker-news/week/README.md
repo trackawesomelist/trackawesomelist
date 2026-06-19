@@ -6,6 +6,12 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 [ [Daily](/content/cheeaun/awesome-hacker-news/README.md) / Weekly / [Overview](/content/cheeaun/awesome-hacker-news/readme/README.md) ]
 
+## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
+
+### Android / Nevix
+
+*   [HackerFlow](https://hackerflow.app)
+
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
 ### Command Line / Nevix
@@ -31,7 +37,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### iOS / Nevix
 
-*   [Gem for Hacker News (⭐80)](https://github.com/Livinglist/Gem)
+*   [Gem for Hacker News (⭐82)](https://github.com/Livinglist/Gem)
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -253,7 +259,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Glider for Hacker News (⭐579)](https://github.com/Mosc/Glider)
+*   [Glider for Hacker News (⭐578)](https://github.com/Mosc/Glider)
 
 ### Resources / Nevix
 
@@ -370,7 +376,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 
 ### Android / Nevix
 
-*   [Hacker News client for Android (⭐228)](https://github.com/bishopmatthew/hackernews)
+*   [Hacker News client for Android (⭐227)](https://github.com/bishopmatthew/hackernews)
 *   [Hacker News](https://play.google.com/store/apps/details?id=com.hackernews.android)
 *   [HN-Android (⭐496)](https://github.com/manmal/hn-android/)
 *   [Void News - HackerNews Dark Bulletin](https://play.google.com/store/apps/details?id=com.polymath.voidnews)
@@ -444,7 +450,7 @@ Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resour
 *   [Hacker News ncurses CLI (⭐273)](https://github.com/andrewstuart/hn)
 *   [Hackernews CLI (⭐48)](https://github.com/mtharrison/hackernews)
 *   [Haxor-News (⭐4.1k)](https://github.com/donnemartin/haxor-news)
-*   [Pyhn (⭐384)](https://github.com/socketubs/pyhn)
+*   [Pyhn (⭐385)](https://github.com/socketubs/pyhn)
 
 ### Alfred workflows / Nevix
 

@@ -6,6 +6,19 @@ A curated list of tools and resources for Amazon sellers.
 
 [ Daily / [Weekly](/content/ScaleLeap/awesome-amazon-seller/week/README.md) / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Jun 19, 2026](/content/2026/06/19/README.md)
+
+### Software and Tools
+
+*   [Inventory Hero](https://www.inventoryhero.ai) - Automated inventory management for Amazon FBA that forecasts demand, drafts restocks, and works inside Claude via MCP.
+
+### Product Research and Pre-Launch
+
+*   [Amazon Product Opportunity Explorer](https://sell.amazon.com/tools/product-opportunity-explorer) - Official Amazon tool for exploring product opportunity niches and reviewing demand, competition, and search trends.
+*   [Amazon Revenue Calculator](https://sell.amazon.com/tools) - Official Amazon tool for estimating selling fees, fulfillment costs, and revenue by fulfillment method.
+*   [CPSC Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here) - U.S. Consumer Product Safety Commission tool that helps identify basic consumer product safety requirements.
+*   [USPTO Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) - Official USPTO search tool for U.S. patents and patent application publications.
+
 ## [Jun 14, 2026](/content/2026/06/14/README.md)
 
 ### Software and Tools
