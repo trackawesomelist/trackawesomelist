@@ -12,6 +12,8 @@ Actively maintained open-source game remakes.
 
 *   [4TAK (⭐2)](https://github.com/qbism/4TAK) - client and server based on q2pro-rerelease and q2pro
 *   [ericw-tools (⭐478)](https://github.com/ericwa/ericw-tools) - Quake/Hexen 2 Map compiling tools.
+*   [ew-progs](https://code.idtech.space/two-guys/ew-progs) - Eternal War: Shadows of Light's progs source code.
+*   [ew-engine](https://code.idtech.space/two-guys/ew-engine) - Eternal War: Shadows of Light's engine source code.
 *   [heavymetal (⭐1)](https://github.com/sp00nznet/heavymetal) - A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64.
 *   [lilium-arena (⭐8)](https://github.com/clover-moe/lilium-arena) - Lilium Arena - Compatible with Quake 3 Arena 1.32.
 *   [lilium-salvation (⭐4)](https://github.com/clover-moe/lilium-salvation) - An engine replacement for [Dark Salvation](https://mangledeyestudios.itch.io/dark-salvation)
@@ -19,28 +21,54 @@ Actively maintained open-source game remakes.
 *   [mint-arena (⭐41)](https://github.com/clover-moe/mint-arena) - Spearmint Quake 3 and Team Arena game code.
 *   [mint-metal (⭐17)](https://github.com/zturtleman/mint-metal) - Incomplete (unusable for practical purposes) Heavy Metal F.A.K.K.² / American McGee's Alice game code for Spearmint.
 *   [Oblivion-Reconstructed (⭐2)](https://github.com/themuffinator/Oblivion-Reconstructed) - Reverse-engineered Oblivion Extension Pack source code for original Quake II.
+*   [OmegA-engine (⭐31)](https://github.com/Bishop-333/OmegA-engine) - Modern OpenArena engine based on Quake3e
+*   [OmegA-mod (⭐27)](https://github.com/Bishop-333/OmegA-mod) - OmegA mod for OpenArena
 *   [openQ4 (⭐39)](https://github.com/themuffinator/openQ4) - The modern binary replacement for QUAKE 4.
 *   [openQ4-game (⭐3)](https://github.com/themuffinator/openQ4-game) - openQ4 game libraries
 *   [qk1](https://git.sr.ht/~ft/qk1) - Modernized Quake for Unix-like operating systems and 9front.
 *   [qk1 (⭐7)](https://github.com/qwx9/qk1) - quake 1 and quakeworld port for plan9.
 *   [q2tools-220 (⭐73)](https://github.com/qbism/q2tools-220) - Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes.
 *   [qfusion (⭐77)](https://github.com/Warsow/qfusion) - This is Warsow's fork of qfusion, the id Tech 2 derived game engine.
+*   [quake3-rust-edition (⭐5)](https://github.com/Oli97430/quake3-rust-edition) - id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.
 *   [QL-SRP (⭐8)](https://github.com/themuffinator/QL-SRP) - Source Reconstruction Project for QUAKE LIVE \[WIP]
 *   [realice (⭐8)](https://github.com/FWGS/realice) - Heavy Metal F.A.K.K. 2 / American McGee's Alice reverse engineered.
 *   [REBLIVION (⭐3)](https://github.com/themuffinator/REBLIVION) - Unofficial ported and enhanced Oblivion Extension Pack for Quake II: Rerelease.
 *   [spearmint (⭐270)](https://github.com/clover-moe/spearmint) - Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.
+*   [Tremulous110e (⭐0)](https://github.com/Artevilli/Tremulous110e) - Improved Tremulous 1.1.0 engine based on ioquake3
+*   [tremulous (⭐2)](https://github.com/justinl1996/tremulous) - Latest Tremulous based on GrangerHub/tremulous
 *   [MadnessPatch (⭐322)](https://github.com/Wemino/MadnessPatch) - A patch that fixes various issues in the PC port of Alice: Madness Returns.
 *   [VorpalFix (⭐285)](https://github.com/Wemino/VorpalFix) - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
 *   [xash3d-fwgs (⭐2.6k)](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
 
+### RPG
+
+*   [Amber (⭐10)](https://github.com/Pyrdacor/Amber) - Engine for the Amber trilogy
+*   [Ambermoon.net (⭐525)](https://github.com/Pyrdacor/Ambermoon.net) - Ambermoon rewrite in C#
+*   [Thirdeye (⭐18)](https://github.com/psi29a/thirdeye) - Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
+
 ### Simulator
 
 *   [dxx-redux (⭐69)](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro.
+*   [FLUF](https://codeberg.org/TheStarport/FLUF) - Freelancer Universal Framework
+*   [freelancer-retold](https://codeberg.org/TheStarport/freelancer-retold) - A campaign and gameplay rework for the 2003 game Freelancer.
 *   [forsaken-3ds (⭐2)](https://github.com/colbyshores/forsaken-3ds) - Nintendo 3DS port of Forsaken (1998)
 
 ### Strategy
 
+*   [1oom (⭐99)](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run.
+*   [Beyond-All-Reason (⭐4k)](https://github.com/beyond-all-reason/Beyond-All-Reason) - Open source RTS game built on top of the Recoil RTS Engine
+*   [Evolution-RTS (⭐150)](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine.
+*   [freeserf.net (⭐169)](https://github.com/Pyrdacor/freeserf.net) - Settlers 1 clone written in C#
+*   [galaxyofdrones (⭐2)](https://github.com/0wum0/galaxyofdrones) - An open source multiplayer space strategy game.
 *   [machines (⭐37)](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
+*   [Mindustry (⭐28k)](https://github.com/Anuken/Mindustry) - The automation tower defense RTS written in Java
+*   [Open-Realms-of-Stars (⭐171)](https://github.com/tuomount/Open-Realms-of-Stars) - 4X Strategy game.
+*   [Rotp-Fusion (⭐59)](https://github.com/BrokenRegistry/Rotp-Fusion) - Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.
+*   [rise-of-legions (⭐160)](https://github.com/BrokenGamesUG/rise-of-legions) - Rise of Legions is a hybrid of MOBA, tower defense and deckbuilding - with fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck and crush your enemies.
+*   [singularity (⭐0)](https://github.com/addictgamer/singularity-game-fork) - A simulation of a true AI. Survive, grow, and learn.
+*   [thinker (⭐142)](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
+*   [triplea (⭐1.5k)](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
+*   [Zero-K (⭐805)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 

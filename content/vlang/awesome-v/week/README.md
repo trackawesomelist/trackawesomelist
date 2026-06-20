@@ -11,6 +11,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command-line
 
 *   [fastgit (⭐0)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [musicc (⭐0)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
 
 ### Editor plugins

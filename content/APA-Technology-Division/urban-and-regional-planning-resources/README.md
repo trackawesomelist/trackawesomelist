@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Jun 20, 2026](/content/2026/06/20/README.md)
+
+### Other Resources / Other Technology Resource Aggregators
+
+*   [Data Center Policy Database](https://www.datacenterpolicy.com/database) - A searchable database of data center policies, useful for planners navigating the land rezoning, water and energy demands, and transparency issues that accompany data center siting in their jurisdictions.
+
 ## [Jun 16, 2026](/content/2026/06/16/README.md)
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
@@ -40,8 +46,8 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Folium](https://github.com/python-visualization/folium) - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
-*   [Linref](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects.
+*   [Folium (⭐7.4k)](https://github.com/python-visualization/folium) - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map.
+*   [Linref (⭐10)](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects.
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
@@ -75,7 +81,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Neatnet](https://github.com/uscuni/neatnet) - An open source library for simplifying the structure of street networks.
+*   [Neatnet (⭐152)](https://github.com/uscuni/neatnet) - An open source library for simplifying the structure of street networks.
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
@@ -91,7 +97,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
-*   [Tile2Net](https://github.com/VIDA-NYU/tile2net?tab=readme-ov-file) - An end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of [models](https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875).
+*   [Tile2Net (⭐221)](https://github.com/VIDA-NYU/tile2net?tab=readme-ov-file) - An end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of [models](https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875).
 
 ## [May 04, 2025](/content/2025/05/04/README.md)
 
@@ -334,13 +340,13 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Transportation
 
-*   [GTFS-flex](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+*   [GTFS-flex (⭐122)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐60)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
@@ -350,7 +356,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [ai-collection](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐9k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
@@ -403,11 +409,11 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Peartree](https://github.com/kuanb/peartree) - Helps explore GTFS data and their network characteristics.
+*   [Peartree (⭐208)](https://github.com/kuanb/peartree) - Helps explore GTFS data and their network characteristics.
 
 ### Planning Coding Resources / R
 
-*   [r5r](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐235)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 
 ### Educational and Informational Resources / Podcasts
 
@@ -559,9 +565,9 @@ Community list of data & technology resources concerning the built environment a
 *   [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 *   [UrbanSim (⭐538)](https://github.com/udst/urbansim) - A platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 *   [Pybikes (⭐603)](https://github.com/eskerda/pybikes) - Provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
-*   [Leafmap](https://github.com/giswqs/leafmap) - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
-*   [Prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
-*   [HerePy](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
+*   [Leafmap (⭐3.7k)](https://github.com/giswqs/leafmap) - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+*   [Prettymaps (⭐12k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
+*   [HerePy (⭐84)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
 *   [StreetTraffic (⭐28)](https://github.com/streettraffic/streettraffic) - A Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 *   [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 *   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
@@ -569,7 +575,7 @@ Community list of data & technology resources concerning the built environment a
 ### Planning Coding Resources / R
 
 *   [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
-*   [leafgl](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
+*   [leafgl (⭐288)](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
@@ -698,7 +704,7 @@ Community list of data & technology resources concerning the built environment a
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐268)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -740,7 +746,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
-*   [UrbanCanvas](https://urbansim.com/urbancanvas) - Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
+*   [UrbanCanvas](https://urbansim.com/urbancanvas) - Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim (⭐538)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -917,7 +923,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
+*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets (⭐215)](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 
 ## [Aug 06, 2021](/content/2021/08/06/README.md)
 
@@ -1110,11 +1116,11 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested parties to create a shared data specification for building and construction permit data.
+*   [BLDS (⭐41)](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested parties to create a shared data specification for building and construction permit data.
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐133)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## [May 25, 2021](/content/2021/05/25/README.md)
 
@@ -1127,7 +1133,7 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Built Environment
 
 *   [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) - The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States.
-*   [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains \~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+*   [USBuildingFootprints (⭐2.2k)](https://github.com/microsoft/USBuildingFootprints) - Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains \~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Public Data Resources / OpenStreetMap
 
@@ -1139,7 +1145,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies.
+*   [DTDL (⭐173)](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies.
 
 ### Planning Coding Resources / Other
 
@@ -1151,7 +1157,7 @@ Community list of data & technology resources concerning the built environment a
 *   [Chart.js](https://www.chartjs.org/) - Create simple (or advanced) visualizations of data for web and mobile. Additional Information: [GitHub (⭐67k)](https://github.com/chartjs/Chart.js).
 *   [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
 *   [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub (⭐10k)](https://github.com/Turfjs/turf).
-*   [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
+*   [GTFS-Js (⭐1)](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
 ## [May 21, 2021](/content/2021/05/21/README.md)
 
@@ -1171,7 +1177,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+*   [OSMnx (⭐5.7k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 
 ## [May 20, 2021](/content/2021/05/20/README.md)
 
@@ -1210,13 +1216,13 @@ Community list of data & technology resources concerning the built environment a
 *   [SharedStreets](https://www.sharedstreets.io) - Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐193)](https://github.com/sharedstreets/sharedstreets-ref-system)
 *   [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
 *   [shared-row (⭐19)](https://github.com/d-wasserman/shared-row) - A data specification designed to represent the full cross-section of the right-of-way, integrating pedestrian, bicycle, and roadway elements into a unified dataset.
-*   [GBFS](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
-*   [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
+*   [GBFS (⭐904)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐743)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [MTLFS (⭐11)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 ### Planning Coding Resources / Python
 
-*   [Geosnap](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
+*   [Geosnap (⭐274)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 
 ### Planning Coding Resources / R
 
@@ -1231,11 +1237,11 @@ Community list of data & technology resources concerning the built environment a
 ### Other Resources / Other GitHub Resource Lists
 
 *   [awesome-transit (⭐1.8k)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
-*   [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
-*   [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
+*   [micromobility-tools-and-resources (⭐33)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
+*   [awesome-sustainable-technology (⭐2.5k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 *   [awesome-gis (⭐5.4k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 *   [awesome-agriculture (⭐1.8k)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
-*   [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+*   [awesome-geojson (⭐2.5k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
 ### Other Resources / Other Technology Resource Aggregators
 

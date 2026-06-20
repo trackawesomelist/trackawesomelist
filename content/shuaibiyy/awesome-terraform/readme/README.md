@@ -390,6 +390,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
 *   [json2hcl (⭐521)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
 *   [k2tf (⭐1.2k)](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
+*   [Kapitan (⭐1.9k)](https://github.com/kapicorp/kapitan) - Generates Terraform/OpenTofu JSON and other infrastructure configuration from inventory-driven templates.
 *   [KICS (⭐2.6k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 *   [layerform (⭐1.2k)](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
 *   [library.tf](https://library.tf) - Library.tf is built and designed to not just provide you with all of the registry information for Terraform and OpenTofu but to provide all of the insights you need to make decisions. Quickly find modules or providers that are supported and maintained and not full of bugs.
@@ -456,7 +457,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraformize (⭐154)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint. :skull:
 *   [terraformsh (⭐69)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 *   [terragrunt-atlantis-config (⭐742)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
-*   [terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐9.7k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐379)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [terrahub (⭐225)](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
 *   [terramagic (⭐48)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !

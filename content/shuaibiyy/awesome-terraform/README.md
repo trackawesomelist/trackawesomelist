@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jun 20, 2026](/content/2026/06/20/README.md)
+
+### Tools / Community providers
+
+*   [Kapitan (⭐1.9k)](https://github.com/kapicorp/kapitan) - Generates Terraform/OpenTofu JSON and other infrastructure configuration from inventory-driven templates.
+
 ## [Jun 14, 2026](/content/2026/06/14/README.md)
 
 ### Providers / Community providers
@@ -1374,7 +1380,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 *   [terraform-provisioner (⭐13)](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
 *   [terraform-rake-tasks (⭐4)](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`. :skull:
-*   [terragrunt (⭐9.6k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐9.7k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐379)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [tfenv (⭐4.9k)](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 *   [tfscaffold (⭐281)](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.

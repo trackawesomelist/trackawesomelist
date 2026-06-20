@@ -6,6 +6,64 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 20, 2026](/content/2026/06/20/README.md)
+
+### Cryptocurrency
+
+- API: [btcnode.uk](https://btcnode.uk)
+
+  Description: Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [SiteIntel](https://siteintel.duckdns.org)
+
+  Description: Extract metadata, tech stack, emails, and screenshots from any URL
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Machine Learning
+
+- API: [GoldBean](https://goldbean-api.xyz/docs)
+
+  Description: OCR, Translation, NLP & ERNIE LLM via Baidu AI (free tier available)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Shopping
+
+- API: [BuyWhere](https://buywhere.ai)
+
+  Description: Real-time product catalog API for AI agents across merchants in 7 countries (SG, MY, TH, VN, PH, ID, US)
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Jun 13, 2026](/content/2026/06/13/README.md)
 
 - API: [Filestack](https://www.filestack.com/signup-start/)

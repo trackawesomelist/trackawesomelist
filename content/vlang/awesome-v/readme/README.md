@@ -92,6 +92,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [github-releases (⭐8)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 *   [HN-top (⭐24)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 *   [klonol (⭐20)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
+*   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [lsv (⭐72)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 *   [minimax-v (⭐8)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
 *   [mushroomtek (⭐1)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).

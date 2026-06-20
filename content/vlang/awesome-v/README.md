@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jun 20, 2026](/content/2026/06/20/README.md)
+
+### Command-line
+
+*   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
+
 ## [Jun 18, 2026](/content/2026/06/18/README.md)
 
 ### Command-line
