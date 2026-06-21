@@ -173,9 +173,11 @@ The dynamic scheme for elastic resources.
 
 *   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform=\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
-*   [Lago (⭐9.7k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+*   [Lago (⭐10k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
-*   [CGRateS (⭐500)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
+*   [StripeMeter (⭐22)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
+
+*   [CGRateS (⭐502)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ### Subscription Plans
 
@@ -237,6 +239,8 @@ The central repository of all available services, products, variants, options an
 
 Simulate a virtual invoice depending on the resource you plan to use.
 
+*   [Infracost (⭐12k)](https://github.com/infracost/infracost) - 💸 Cloud cost estimates from Terraform code, surfaced as a breakdown in the terminal or as a diff in pull requests before resources are provisioned. Infracost Inc. sells a hosted dashboard (Infracost Cloud) on top of the Apache-2.0 CLI.
+
 *   [Cloudorado](https://www.cloudorado.com) - 💸 A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit. Operated by Cloudorado as a commercial cloud-comparison product.
 
 *   [EC2Instances.info](https://ec2instances.info) - 💸 Easy Amazon EC2 Instance Comparison. Operated by Vantage as a free lead-gen surface for its commercial FinOps platform.
@@ -267,7 +271,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
-*   [Papers we love: Auctions and Bidding (⭐106k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐107k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 *   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
@@ -345,13 +349,13 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
 
-*   [Frappe Books (⭐4.6k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
+*   [Frappe Books (⭐4.7k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
 
 *   [Luca (⭐72)](https://github.com/brandon-rhodes/luca) - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
 *   [Go DB Ledger (⭐509)](https://github.com/darcys22/godbledger) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
-*   [Formance Ledger (⭐1.2k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
+*   [Formance Ledger (⭐1.3k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
 ### Software design and implementation
 
@@ -425,7 +429,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 *   [2017 Tax Software Developer's Guides](https://web.archive.org/web/20240227073911/https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐98)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐100)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 *   [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - List of countries requiring application of taxes on foreign provided online services.
 
@@ -471,15 +475,17 @@ Once issued, an invoice must be immutable.
 
 ### Generators
 
-*   [Manta (⭐5.4k)](https://github.com/hql287/Manta) - 🆓 Flexible invoicing desktop app with beautiful & customizable templates.
+*   [Invoice Builder (⭐446)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 
 *   [InvoicePlane (⭐3.1k)](https://github.com/InvoicePlane/InvoicePlane) - 🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
 
-*   [InvoiceGenerator (⭐180)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+*   [klirr (⭐131)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+
+*   [InvoiceGenerator (⭐181)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+
+*   [microinvoice (⭐147)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
 *   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
-
-*   [klirr (⭐129)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ### Extractors
 
@@ -491,11 +497,11 @@ Once issued, an invoice must be immutable.
 
 *   [EU eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+HUB) - European standard on electronic invoice.
 
-*   [Factur-X (⭐293)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐299)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
-*   [GOBL (⭐276)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
+*   [GOBL (⭐286)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
 ## Payments
 
@@ -518,6 +524,8 @@ Once issued, an invoice must be immutable.
 *   [Why was I charged?](https://wpchrg.wordpress.com) - Under a constant stream of user complaints about payments, WordPress created a dedicated subdomains to help customers understand unexpected transactions. The trick was to add this URL directly in the bank statement.
 
 *   [Hyperswitch (⭐43k)](https://github.com/juspay/hyperswitch) - 💸 Open-source backend for payment processing. Juspay sells Hyperswitch Cloud and a self-host Enterprise edition; the OSS is functionally complete with 90+ connectors, vault, routing, 3DS, and fraud orchestration.
+
+*   [Polar (⭐10k)](https://github.com/polarsource/polar) - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
 
 *   [moov](https://github.com/moov-io) - 🆓 Suite of Apache-2.0 libraries for financial technology, including [`moov-io/ach`](https://github.com/moov-io/ach), [`iso8583`](https://github.com/moov-io/iso8583), and [`watchman`](https://github.com/moov-io/watchman). No paid product on top.
 
@@ -551,7 +559,7 @@ The old-fashioned way of payment: by the way of banks.
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
 
-*   [Swift Codes Repository (⭐197)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
+*   [Swift Codes Repository (⭐196)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
 
 *   [EPC QR code](https://en.wikipedia.org/wiki/EPC_QR_code) - EU standard for QR codes used to transfer money between bank accounts via SEPA.
 
@@ -619,7 +627,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 *   [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-*   [Awesome Credit Modeling (⭐168)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐172)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Statistics
 

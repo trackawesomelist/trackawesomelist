@@ -6,6 +6,25 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
 
+## [Jun 21, 2026](/content/2026/06/21/README.md)
+
+### Pricing / Usage-based Pricing
+
+*   [StripeMeter (⭐22)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
+
+### Calculator / Market Research
+
+*   [Infracost (⭐12k)](https://github.com/infracost/infracost) - 💸 Cloud cost estimates from Terraform code, surfaced as a breakdown in the terminal or as a diff in pull requests before resources are provisioned. Infracost Inc. sells a hosted dashboard (Infracost Cloud) on top of the Apache-2.0 CLI.
+
+### Invoice / Generators
+
+*   [Invoice Builder (⭐446)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
+*   [microinvoice (⭐147)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
+
+### Payments / Electronic invoices
+
+*   [Polar (⭐10k)](https://github.com/polarsource/polar) - 💸 Open-source monetization platform to sell SaaS and digital products. Polar Software Inc. runs the hosted polar.sh service as the merchant of record, handling billing, sales tax and VAT remittance for a cut of each transaction; the self-hostable OSS ships the full stack (checkout, subscriptions, usage metering, license keys) on top of your own Stripe account.
+
 ## [May 22, 2026](/content/2026/05/22/README.md)
 
 ### Pricing
@@ -72,7 +91,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Formance Ledger (⭐1.2k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
+*   [Formance Ledger (⭐1.3k)](https://github.com/formancehq/ledger) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
 ### Accounting / Software design and implementation
 
@@ -81,7 +100,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [GOBL (⭐276)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
+*   [GOBL (⭐286)](https://github.com/invopop/gobl) - 💸 JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one. Invopop sells a managed e-invoicing SaaS implementation on top of the open spec.
 
 ### Business Intelligence / Tools
 
@@ -128,7 +147,7 @@
 
 ### Invoice / Generators
 
-*   [klirr (⭐129)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐131)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ## [Jun 07, 2025](/content/2025/06/07/README.md)
 
@@ -235,7 +254,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [CGRateS (⭐500)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
+*   [CGRateS (⭐502)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -353,7 +372,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐9.7k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+*   [Lago (⭐10k)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 ### Pricing / Subscription Plans
 
@@ -530,7 +549,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐168)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐172)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -565,7 +584,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐293)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐299)](https://github.com/akretion/factur-x) - 🆓 Python library to support the e-invoicing standard for France and Germany.
 
 ## [Sep 22, 2020](/content/2020/09/22/README.md)
 
@@ -580,7 +599,7 @@
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   🆓 A list of graphical accounting tools, all community-maintained OSS without paid editions: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐4.6k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
+*   [Frappe Books (⭐4.7k)](https://github.com/frappe/books) - 🆓 Free desktop book-keeping software for small-businesses and freelancers, with no paid edition.
 *   [Luca (⭐72)](https://github.com/brandon-rhodes/luca) - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
 ### Accounting / Software design and implementation
@@ -591,7 +610,7 @@
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐180)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
+*   [InvoiceGenerator (⭐181)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
 *   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
@@ -687,7 +706,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐106k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐107k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Payments / Bank Accounts
 
@@ -770,7 +789,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐197)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
+*   [Swift Codes Repository (⭐196)](https://github.com/PeterNotenboom/SwiftCodes) - 🆓 Static JSON dataset of SWIFT/BIC codes for banks worldwide, scraped from the site above. Last refreshed in 2019 but still the largest free reference; SWIFT codes change slowly so the data remains broadly usable.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
@@ -819,7 +838,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐98)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐100)](https://github.com/kdeldycke/vat-rates) - 🆓 Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 
@@ -831,7 +850,6 @@
 
 ### Invoice / Generators
 
-*   [Manta (⭐5.4k)](https://github.com/hql287/Manta) - 🆓 Flexible invoicing desktop app with beautiful & customizable templates.
 *   [InvoicePlane (⭐3.1k)](https://github.com/InvoicePlane/InvoicePlane) - 🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
 
 ### Payments / Electronic invoices
