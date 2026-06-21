@@ -12,8 +12,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Lastest](https://lastest.cloud) - Ship fast. Don't break things. AI-supported visual verification and tests you can actually trust. Free forever plan: 1 project, 500 runner-minutes/mo, 1 concurrent run, no credit card.
 
+### Security and PKI
+
+*   [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
+
 ### Monitoring
 
+*   [drumbeats.io](https://drumbeats.io/) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors with 1-min interval and unlimited team seats.
 *   [Prismix](https://prismix.dev) - Free REST API (GET /api/v1/statuses) returning real-time operational status for 75+ AI services including OpenAI, Anthropic, Gemini, Mistral, and more. No authentication required. \[Free tier available with Pro at $10/month]
 
 ### Web Hosting
@@ -133,10 +138,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
 *   [Trophy](https://trophy.so) - API infrastructure for building gamification features like achievements, streaks, points and leaderboards in web and mobile apps. Free for 100 monthly active users.
-
-### Testing
-
-*   *   [CheckAPI](https://checkapi.io) - API health monitoring with Silent Failure Detection — validates response body via JSON Path assertions and regex, not just HTTP status codes. Free plan includes 10 monitors, 5-minute intervals, all 5 alert channels (Email, Slack, Telegram, Discord, Webhook), and is free for commercial use with no time limit.
 
 ### Email
 
@@ -517,10 +518,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
-
-### Analytics, Events and Statistics
-
-*   [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
 
 ### Screenshot APIs
 
@@ -1262,10 +1259,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UI Bakery](https://uibakery.io) - Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
 
-### Analytics, Events and Statistics
-
-*   [MetricsWave](https://metricswave.com) - Privacy-friendly Google Analytics alternative for developers. Free plan allows 1M pageviews per month without credit card required.
-
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### Monitoring
@@ -1929,10 +1922,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Buildkite](https://buildkite.com) - CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free
     developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
-
-### Security and PKI
-
-*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open-source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
 
 ### Forms
 

@@ -8,6 +8,10 @@
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
+### Developer Tools / Developer Utilities
+
+*   [Tintpad (⭐2)](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sorkila/tintpad) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Download Management Tools / Audio Record and Process
 
 *   [Harbor (⭐134)](https://github.com/thsnkhn/harbor) - Open-source download manager for HTTP(S), magnet links, and `.torrent` files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/thsnkhn/harbor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -42,7 +46,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Gantry (⭐3)](https://github.com/getgantry/gantry) - Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getgantry/gantry) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Gantry (⭐41)](https://github.com/getgantry/gantry) - Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getgantry/gantry) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screenshot Tools
 
@@ -54,7 +58,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Fader (⭐2)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pantafive/fader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Fader (⭐28)](https://github.com/pantafive/fader) - Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pantafive/fader) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
 
@@ -67,7 +71,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Mole Widget (⭐8)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mole Widget (⭐32)](https://github.com/bsnkhua/mole-widget) - Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bsnkhua/mole-widget) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 
@@ -75,7 +79,7 @@
 
 ### QuickLook Plugins / System Related Tools
 
-*   [CSV Quick Look (⭐1)](https://github.com/adamorad/csv-quick-look) - Quick Look extension for CSV and TSV files with virtual scrolling, sorting, filtering, and dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adamorad/csv-quick-look) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [CSV Quick Look (⭐2)](https://github.com/adamorad/csv-quick-look) - Quick Look extension for CSV and TSV files with virtual scrolling, sorting, filtering, and dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adamorad/csv-quick-look) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 
@@ -99,11 +103,11 @@
 
 ### Reading and Writing Tools / RSS
 
-*   [Papr (⭐318)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Papr (⭐429)](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/papr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
 
-*   [Muxy (⭐1.7k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
+*   [Muxy (⭐1.8k)](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
 
 ### Translation Tools / Audio Record and Process
 
@@ -153,7 +157,7 @@
 
 ### Gaming Software / System Related Tools
 
-*   [Whisky (⭐127)](https://github.com/frankea/Whisky) - A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/frankea/Whisky)
+*   [Whisky (⭐184)](https://github.com/frankea/Whisky) - A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/frankea/Whisky)
 
 ## [Apr 27 - May 03, 2026](/content/2026/17/README.md)
 
@@ -177,11 +181,11 @@
 
 ### Security Tools / Audio Record and Process
 
-*   [MakLock (⭐66)](https://github.com/dutkiewiczmaciej/MakLock) - Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MakLock (⭐68)](https://github.com/dutkiewiczmaciej/MakLock) - Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
-*   [Clippy (⭐44)](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yarasaa/Clippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Clippy (⭐47)](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yarasaa/Clippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -251,7 +255,7 @@
 
 ### Design and Product / Screen Recording
 
-*   [OpenScreen (⭐38k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siddharthvaddem/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OpenScreen (⭐39k)](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/siddharthvaddem/openscreen) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
@@ -459,7 +463,7 @@
 
 ### Utilities / Cleanup and Uninstall
 
-*   [ClearDisk (⭐353)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClearDisk (⭐372)](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bysiber/cleardisk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
@@ -467,7 +471,7 @@
 
 ### Utilities / Window Management
 
-*   [Convoker (⭐16)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Convoker (⭐17)](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/varie-ai/convoker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### QuickLook Plugins / System Related Tools
 
@@ -528,7 +532,7 @@
 
 ### Input Methods / Audio Record and Process
 
-*   [LangSwitcher (⭐14)](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reg2005/langSwitcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LangSwitcher (⭐17)](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/reg2005/langSwitcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Voice-to-Text / Audio Record and Process
 
@@ -612,7 +616,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Stik (⭐205)](https://github.com/0xMassi/stik_app) - Quick-capture markdown notes app with hotkeys and AI semantic search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stik (⭐216)](https://github.com/0xMassi/stik_app) - Quick-capture markdown notes app with hotkeys and AI semantic search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/0xMassi/stik_app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
 
@@ -1294,7 +1298,7 @@
 ### Reading and Writing Tools / Text Editors
 
 *   [CodeEdit](https://www.codeedit.app/) - A lightweight, natively-built editor. Open source. Free forever. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CodeEditApp/CodeEdit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Neovim (⭐100k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Neovim (⭐101k)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Ebooks
 

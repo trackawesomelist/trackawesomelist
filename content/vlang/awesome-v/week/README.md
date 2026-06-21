@@ -11,6 +11,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command-line
 
 *   [fastgit (⭐0)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [httest (⭐0)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 *   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [musicc (⭐0)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
 
@@ -22,7 +23,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [netprint (⭐0)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [netprint (⭐1)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
 *   [salty (⭐0)](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
@@ -33,13 +34,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 
-*   [Mustela (⭐1)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
+*   [Mustela (⭐2)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
 ### Editors
 
-*   [vro (⭐4)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+*   [vro (⭐5)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ## [May 11 - May 17, 2026](/content/2026/19/README.md)
 

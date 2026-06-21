@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 21, 2026](/content/2026/06/21/README.md)
+
+### Development tools / Static analysis
+
+*   [dupehound (⭐57)](https://github.com/Rafaelpta/dupehound) \[[dupehound](https://crates.io/crates/dupehound)] - Duplicate-code detector that fingerprints function bodies (winnowing), so copies survive renaming. Repo slop score, duplication history chart, and a CI gate that points to the original function to reuse. Supports Rust and 11 other languages. [![CI](https://github.com/Rafaelpta/dupehound/actions/workflows/ci.yml/badge.svg)](https://github.com/Rafaelpta/dupehound/actions/workflows/ci.yml)
+
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Applications / Embedded
@@ -109,25 +115,25 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
-*   [microsoft/mxc (⭐408)](https://github.com/microsoft/mxc) - Sandboxed code execution system for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. Features multiple containment backends (ProcessContainer, Windows Sandbox, LXC, Bubblewrap, Seatbelt, MicroVM, Hyperlight, IsolationSession, WSLC) with JSON-based policy-driven sandboxing and TypeScript SDK. [![CI](https://github.com/microsoft/mxc/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/mxc/actions)
+*   [microsoft/mxc (⭐994)](https://github.com/microsoft/mxc) - Sandboxed code execution system for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. Features multiple containment backends (ProcessContainer, Windows Sandbox, LXC, Bubblewrap, Seatbelt, MicroVM, Hyperlight, IsolationSession, WSLC) with JSON-based policy-driven sandboxing and TypeScript SDK. [![CI](https://github.com/microsoft/mxc/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/mxc/actions)
 
 ## [Jun 04, 2026](/content/2026/06/04/README.md)
 
 ### Applications / Productivity
 
-*   [graykode/abtop (⭐2.5k)](https://github.com/graykode/abtop) \[[abtop](https://crates.io/crates/abtop)] - Terminal TUI for monitoring AI coding agent sessions (Claude Code, Codex CLI, OpenCode). Track token usage, context window %, rate limits, child processes, and orphan ports. Features tmux integration, 12 themes including colorblind-friendly options, and cross-platform support. [![CI](https://github.com/graykode/abtop/actions/workflows/ci.yml/badge.svg)](https://github.com/graykode/abtop/actions/workflows/ci.yml)
+*   [graykode/abtop (⭐3k)](https://github.com/graykode/abtop) \[[abtop](https://crates.io/crates/abtop)] - Terminal TUI for monitoring AI coding agent sessions (Claude Code, Codex CLI, OpenCode). Track token usage, context window %, rate limits, child processes, and orphan ports. Features tmux integration, 12 themes including colorblind-friendly options, and cross-platform support. [![CI](https://github.com/graykode/abtop/actions/workflows/ci.yml/badge.svg)](https://github.com/graykode/abtop/actions/workflows/ci.yml)
 
 ## [Jun 03, 2026](/content/2026/06/03/README.md)
 
 ### Applications / Text editors
 
-*   [manyougz/velotype (⭐354)](https://github.com/manyougz/velotype) - A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.
+*   [manyougz/velotype (⭐425)](https://github.com/manyougz/velotype) - A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.
 
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 
 ### Applications / Security tools
 
-*   [secluso (⭐1.5k)](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
+*   [secluso (⭐1.6k)](https://github.com/secluso/core) - A private Raspberry Pi home security camera that uses end-to-end encryption
 
 ## [May 29, 2026](/content/2026/05/29/README.md)
 
@@ -209,23 +215,23 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tinyhumansai/openhuman (⭐31k)](https://github.com/tinyhumansai/openhuman) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
+*   [tinyhumansai/openhuman (⭐33k)](https://github.com/tinyhumansai/openhuman) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
 
 ## [May 19, 2026](/content/2026/05/19/README.md)
 
 ### Applications / Embedded
 
-*   [infinition/waveshare-watch-rs (⭐326)](https://github.com/infinition/waveshare-watch-rs) - 100% Rust `no_std` smartwatch firmware for Waveshare ESP32-S3-Touch-AMOLED-2.06. Features QSPI 80 MHz DMA display, Embassy async runtime, event-driven power management with Always-On Display.
+*   [infinition/waveshare-watch-rs (⭐339)](https://github.com/infinition/waveshare-watch-rs) - 100% Rust `no_std` smartwatch firmware for Waveshare ESP32-S3-Touch-AMOLED-2.06. Features QSPI 80 MHz DMA display, Embassy async runtime, event-driven power management with Always-On Display.
 
 ### Libraries / Peripherals
 
-*   [esp-rs/esp-hal (⭐1.9k)](https://github.com/esp-rs/esp-hal) \[[esp-hal](https://crates.io/crates/esp-hal)] - Bare-metal `no_std` hardware abstraction layer for Espressif ESP32 devices (ESP32, ESP32-C2/C3/C5/C6/C61, ESP32-H2, ESP32-P4, ESP32-S2/S3). Provides safe Rust APIs for GPIO, I2C, SPI, UART, timers, DMA, and more. [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/esp-rs/esp-hal/ci.yml?labelColor=1C2C2E\&label=CI\&logo=github\&style=flat-square)](https://github.com/esp-rs/esp-hal/actions/workflows/ci.yml)
+*   [esp-rs/esp-hal (⭐2k)](https://github.com/esp-rs/esp-hal) \[[esp-hal](https://crates.io/crates/esp-hal)] - Bare-metal `no_std` hardware abstraction layer for Espressif ESP32 devices (ESP32, ESP32-C2/C3/C5/C6/C61, ESP32-H2, ESP32-P4, ESP32-S2/S3). Provides safe Rust APIs for GPIO, I2C, SPI, UART, timers, DMA, and more. [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/esp-rs/esp-hal/ci.yml?labelColor=1C2C2E\&label=CI\&logo=github\&style=flat-square)](https://github.com/esp-rs/esp-hal/actions/workflows/ci.yml)
 
 ## [May 18, 2026](/content/2026/05/18/README.md)
 
 ### Applications / Database
 
-*   [tokio-rs/toasty (⭐2.6k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
+*   [tokio-rs/toasty (⭐2.7k)](https://github.com/tokio-rs/toasty) \[[toasty](https://crates.io/crates/toasty)] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure. [![Crates.io](https://img.shields.io/crates/v/toasty.svg)](https://crates.io/crates/toasty)
 
 ## [May 16, 2026](/content/2026/05/16/README.md)
 
@@ -310,27 +316,27 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [awakenworks/awaken (⭐77)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
+*   [awakenworks/awaken (⭐81)](https://github.com/awakenworks/awaken) \[[awaken](https://crates.io/crates/awaken)] - AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 
 ## [May 02, 2026](/content/2026/05/02/README.md)
 
 ### Applications
 
-*   [DBX (⭐3.3k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
+*   [DBX (⭐6.1k)](https://github.com/t8y2/dbx) - A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more. [![CI](https://github.com/t8y2/dbx/actions/workflows/ci.yml/badge.svg)](https://github.com/t8y2/dbx/actions/workflows/ci.yml)
 
 ### Applications / Workflow Automation
 
-*   [cowork-forge (⭐61)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
+*   [cowork-forge (⭐70)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
 
 ### Libraries / Data processing
 
-*   [lakehq/sail (⭐2.8k)](https://github.com/lakehq/sail) - Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
+*   [lakehq/sail (⭐3k)](https://github.com/lakehq/sail) - Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 
 ## [May 01, 2026](/content/2026/05/01/README.md)
 
 ### Applications / Finance
 
-*   [Ashutosh0x/rust-finance (⭐353)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
+*   [Ashutosh0x/rust-finance (⭐361)](https://github.com/Ashutosh0x/rust-finance) - AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.
 
 ### Libraries / Parsing
 
@@ -394,6 +400,7 @@ A curated list of Rust code and resources.
 
 *   Binary
     *   [bincode](https://crates.io/crates/bincode) - A binary encoder/decoder
+    *   [bincode-next](https://crates.io/crates/bincode-next) - A binary encoder/decoder, successor of the now unmaintained bincode
     *   [jamesmunns/postcard (⭐1.4k)](https://github.com/jamesmunns/postcard) \[[postcard](https://crates.io/crates/postcard)] - Postcard is a #!\[no\_std] focused serializer and deserializer for Serde.
     *   [m4b/goblin (⭐1.5k)](https://github.com/m4b/goblin) \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
 
@@ -474,7 +481,7 @@ A curated list of Rust code and resources.
 
 ### Registries / Web programming
 
-*   [getnora-io/nora (⭐187)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
+*   [getnora-io/nora (⭐195)](https://github.com/getnora-io/nora) - A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.
 
 ## [Apr 12, 2026](/content/2026/04/12/README.md)
 
@@ -544,15 +551,15 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [fulsomenko/kanban (⭐114)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
+*   [fulsomenko/kanban (⭐127)](https://github.com/fulsomenko/kanban) \[[kanban-tui](https://crates.io/crates/kanban-tui)] - Terminal-based project management tool inspired by lazygit [![CI](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml/badge.svg)](https://github.com/fulsomenko/kanban/actions/workflows/ci.yml)
 
 ### Applications / System tools
 
-*   [macpow (⭐879)](https://github.com/k06a/macpow) - Real-time power consumption monitor TUI for Apple Silicon Macs (M1–M5+). Reads IOReport, SMC, IORegistry — no sudo required. [![CI](https://github.com/k06a/macpow/actions/workflows/ci.yml/badge.svg)](https://github.com/k06a/macpow/actions/workflows/ci.yml)[![crates.io](https://img.shields.io/crates/v/macpow.svg?logo=rust)](https://crates.io/crates/macpow)
+*   [macpow (⭐898)](https://github.com/k06a/macpow) - Real-time power consumption monitor TUI for Apple Silicon Macs (M1–M5+). Reads IOReport, SMC, IORegistry — no sudo required. [![CI](https://github.com/k06a/macpow/actions/workflows/ci.yml/badge.svg)](https://github.com/k06a/macpow/actions/workflows/ci.yml)[![crates.io](https://img.shields.io/crates/v/macpow.svg?logo=rust)](https://crates.io/crates/macpow)
 
 ### Applications / Text processing
 
-*   [micahkepe/jsongrep (⭐645)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
+*   [micahkepe/jsongrep (⭐647)](https://github.com/micahkepe/jsongrep) \[[jsongrep](https://crates.io/crates/jsongrep)] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.
 
 ## [Mar 28, 2026](/content/2026/03/28/README.md)
 
@@ -646,7 +653,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
-*   [voidzero-dev/vite-plus (⭐4.8k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
+*   [voidzero-dev/vite-plus (⭐5.1k)](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 
 ## [Mar 15, 2026](/content/2026/03/15/README.md)
 
@@ -932,7 +939,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [vortix (⭐426)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
+*   [vortix (⭐503)](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
 
 ### Applications / Utilities
 
@@ -2541,7 +2548,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.7k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐39k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐40k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
@@ -5043,7 +5050,7 @@ A curated list of Rust code and resources.
 *   AWS \[[aws](https://crates.io/keywords/aws)]
     *   [aws/aws-lambda-rust-runtime (⭐3.6k)](https://github.com/aws/aws-lambda-rust-runtime) \[[lambda\_runtime](https://crates.io/crates/lambda_runtime)] - Runtime for AWS Lambda [![build badge](https://github.com/aws/aws-lambda-rust-runtime/workflows/Rust/badge.svg)](https://github.com/aws/aws-lambda-rust-runtime/actions)
     *   [awslabs/aws-sdk-rust (⭐3.3k)](https://github.com/awslabs/aws-sdk-rust) - The new AWS SDK
-    *   [faiscadev/fakecloud (⭐311)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
+    *   [faiscadev/fakecloud (⭐413)](https://github.com/faiscadev/fakecloud) \[[fakecloud](https://crates.io/crates/fakecloud)] - Local AWS cloud emulator for development and testing. [![CI](https://github.com/faiscadev/fakecloud/workflows/CI/badge.svg?branch=main)](https://github.com/faiscadev/fakecloud/actions)
     *   [rusoto/rusoto (⭐2.7k)](https://github.com/rusoto/rusoto) - An AWS SDK for Rust
 
 ### Libraries / Command-line
@@ -5377,7 +5384,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐37k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐38k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/actions/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 

@@ -12,6 +12,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 *   [postmortemthis (⭐0)](https://github.com/Softeria/postmortemthis) - Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.
 
+### Development Tools & Utilities
+
+*   [Tintpad (⭐2)](https://github.com/sorkila/tintpad) - macOS menu bar launcher for the agentic-coding loop. One hotkey opens your terminal at the right repo with Gemini CLI (or Claude Code, Codex) already running. Frecency repo search, Safe/Default/YOLO run modes, git worktrees, headless background dispatch. Native Swift, local-only, free, open source.
+*   [EGC (⭐22)](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
+
 ### Non-Gemini CLI
 
 *   [NotFair (⭐2.9k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a `/notfair:gemini` cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, \~2.9k stars.

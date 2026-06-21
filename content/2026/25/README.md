@@ -1,12 +1,138 @@
 # Awesome List Updates on Jun 22 - Jun 28, 2026
 
-43 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Others / Third-party APIs
+
+*   [cl-oauth2](https://sr.ht/~hajovonta/cl-oauth2/) - OAuth 2.0 and OpenID Connect client library for Common Lisp. Supports authorization code (with PKCE), client credentials, device authorization, token refresh, JWT verification (RS256/ES256/HS256), OIDC discovery, and token caching. MIT.
+    *   *built with LLMs*
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / AI Gateway
+
+*   [agentgateway (⭐3.3k) (⭐3.3k)](https://github.com/agentgateway/agentgateway) - An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.
+
+### Projects / API Management
+
+*   [WSO2 API Manager (⭐988) (⭐988)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+### Projects / API Documentation
+
+*   [OpenAPI Explorer (⭐350) (⭐350)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐549) (⭐549)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Gateway
+
+*   [Envoy Gateway (⭐2.8k) (⭐2.8k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
+*   [Gloo Edge (⭐163) (⭐163)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+
+### Projects / API Testing
+
+*   API clients
+    *   [Bruno (⭐45k) (⭐45k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
+    *   [curl (⭐42k) (⭐42k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [curlie (⭐3.6k) (⭐3.7k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
+    *   [gRPC UI (⭐5.9k) (⭐5.9k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
+    *   [grpcurl (⭐12k) (⭐13k)](https://github.com/fullstorydev/grpcurl) - A command-line tool for interacting with gRPC servers, enabling inspection and invocation of RPC methods with support for server reflection and protocol buffer files.
+    *   [Hoppscotch (⭐79k) (⭐79k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
+    *   [HTTPie (⭐38k) (⭐38k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+    *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
+    *   [Insomnia (⭐39k) (⭐38k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
+    *   [posting (⭐12k) (⭐12k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+    *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
+    *   [Requestly (⭐6.7k) (⭐6.7k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
+    *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A tiny command-line REST client implemented as shell functions around curl, handy for quick API exploration from the terminal.
+    *   [SoapUI (⭐1.6k) (⭐1.7k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
+    *   [Wombat (⭐1.4k) (⭐1.4k)](https://github.com/rogchap/wombat) - A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.
+    *   [xh (⭐7.8k) (⭐7.9k)](https://github.com/ducaale/xh) - A fast, friendly CLI HTTP client that reimplements HTTPie's design with improved performance, HTTP/2 support, and built-in curl translation.
+    *   [Yaade (⭐1.9k) (⭐2k)](https://github.com/EsperoTech/yaade) - A self-hosted, collaborative API development environment designed for team sharing with multi-user support, persistent storage, and support for REST, WebSockets, and Markdown documentation.
+    *   [Yaak (⭐18k) (⭐19k)](https://github.com/mountain-loop/yaak) - A fast, privacy-first desktop API client for REST, GraphQL, WebSocket, Server-Sent Events, and gRPC with offline-first design, built with Tauri and React.
+
+### Projects / Data Integration
+
+*   [Apache SeaTunnel (⭐9.4k) (⭐9.4k)](https://github.com/apache/seatunnel) - High-performance, distributed data integration platform supporting batch and streaming synchronization across hundreds of connectors.
+*   [Conduit (⭐601) (⭐600)](https://github.com/ConduitIO/conduit) - Lightweight data integration tool written in Go that streams data between systems using built-in or standalone connectors, with Kafka Connect compatibility.
+*   [Estuary Flow (⭐938) (⭐938)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+
+### Projects / Data Mapping Solution
+
+*   [Kaoto (⭐108) (⭐108)](https://github.com/KaotoIO/kaoto) - Visual data mapper for Apache Camel with a drag-and-drop interface supporting XML, JSON, CSV, and XSLT transformations. Successor to AtlasMap.
+
+### Projects / Integration Platform as a Service
+
+*   [Camel K (⭐921) (⭐921)](https://github.com/apache/camel-k) - Lightweight Kubernetes-native integration platform built on Apache Camel that runs integration routes directly on Kubernetes and OpenShift as cloud-native serverless services.
+
+### Projects / Message Broker
+
+*   [LavinMQ (⭐969) (⭐969)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+### Projects / Schema Registry
+
+*   [Apicurio Registry (⭐816) (⭐814)](https://github.com/Apicurio/apicurio-registry) - Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.
+*   [Karapace (⭐620) (⭐619)](https://github.com/Aiven-Open/karapace) - Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐193k) (⭐193k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Stream Processing
+
+*   [ksqlDB (⭐305) (⭐305)](https://github.com/confluentinc/ksql) - Database purpose-built for stream processing applications on Kafka, queried with SQL.
+
+### Projects / Workflow Engine
+
+*   [Inngest (⭐5.5k) (⭐5.5k)](https://github.com/inngest/inngest) - Event-driven durable execution platform that runs reliable step functions inside your existing services.
+*   [LittleHorse (⭐381) (⭐379)](https://github.com/littlehorse-enterprises/littlehorse) - High-throughput, low-latency microservice orchestration engine built on Kafka Streams, with SDKs in multiple languages.
+*   [Temporal (⭐21k) (⭐21k)](https://github.com/temporalio/temporal) - Open-source workflow-as-code platform designed for building reliable, scalable, and fault-tolerant applications.
+
+### Resources / API Specification
+
+*   [Arazzo Specification (⭐443) (⭐440)](https://github.com/OAI/Arazzo-Specification) - A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.
+
+### Resources / Data Formats
+
+*   [YAML (⭐478) (⭐478)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+
+### Benchmarks & Datasets
+
+*   [Bento (⭐12)](https://github.com/LigandPro/Bento) — Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.
+
+### Preprocessing Tools
+
+*   [AutoZyme (⭐10)](https://github.com/ElliotXie/autozyme) — Autonomous agentic framework that speeds up bioinformatics software (e.g. Scanpy, Seurat) on CPUs while preserving the original results.
+
+### Molecular Generation
+
+*   [Matcha (⭐26)](https://github.com/LigandPro/Matcha) — Multi-stage Riemannian flow matching model for physically valid molecular docking with scoring, pose filtering, and benchmarks.
+
+### LLM for Biology
+
+*   [CASSIA (⭐98)](https://github.com/ElliotXie/CASSIA) — Multi-agent LLM for reference-free, interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, scoring, and reporting agents.
+
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Configuration Management Database
+
+*   [iTop](https://combodo.com/) - Complete ITIL web based service management tool. ([Source Code (⭐1.1k)](https://github.com/Combodo/iTop)) `AGPL-3.0` `PHP`
+
+### Software / Monitoring & Status Pages
+
+*   [cState](https://cstate.uncascade.com/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.9k)](https://github.com/cstate/cstate)) `MIT` `HTML`
+
+### External links / Websites
+
+*   [awesome-sysadmin.theravenhub.com](https://awesome-sysadmin.theravenhub.com/) - Alternative frontend to filter and search the list.
+
+## [5. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -64,19 +190,19 @@
 
 
 
-## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [Kapitan (⭐1.9k)](https://github.com/kapicorp/kapitan) - Generates Terraform/OpenTofu JSON and other infrastructure configuration from inventory-driven templates.
 
-## [3. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [7. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Text Editors
 
 *   [Markra](https://markra.app/) - Local-first WYSIWYG Markdown editor with native AI review. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/murongg/markra)
 
-## [4. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [8. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Applications
 
@@ -127,19 +253,19 @@
 
 *   [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
 
-## [5. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
+## [9. Awesome Hacker News](/content/cheeaun/awesome-hacker-news/week/README.md)
 
 ### Android / Nevix
 
 *   [HackerFlow](https://hackerflow.app)
 
-## [6. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [10. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / UI & End-to-End Testing
 
 *   [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
 
-## [7. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [11. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -152,19 +278,19 @@
 *   [CPSC Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here) - U.S. Consumer Product Safety Commission tool that helps identify basic consumer product safety requirements.
 *   [USPTO Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) - Official USPTO search tool for U.S. patents and patent application publications.
 
-## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Utilities
 
 *   [L5](https://l5lua.org/) - A lightweight creative coding library that ports Processing / p5.js into Lua.
 
-## [9. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [13. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Platforms
 
 *   [ForestHub](https://foresthub.ai) - Edge AI agent platform; its open-source runtime [edge-agents (⭐81)](https://github.com/ForestHubAI/edge-agents) orchestrates AI agents on Linux edge gateways with MQTT as a first-class workflow transport, running offline with local SLMs alongside cloud LLMs.
 
-## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [14. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
@@ -198,10 +324,17 @@
 *   [VorpalFix (⭐285)](https://github.com/Wemino/VorpalFix) - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
 *   [xash3d-fwgs (⭐2.6k)](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
 
+### Online
+
+*   [Netrek](https://sourceforge.net/projects/netrek/) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
+
 ### RPG
 
 *   [Amber (⭐10)](https://github.com/Pyrdacor/Amber) - Engine for the Amber trilogy
 *   [Ambermoon.net (⭐525)](https://github.com/Pyrdacor/Ambermoon.net) - Ambermoon rewrite in C#
+*   [Arianne RPG](https://sourceforge.net/projects/arianne/) - Arianne is an engine to develop multiplayer online games like Stendhal
+*   [castarook (⭐0)](https://github.com/SamoraCletus/castarook) - Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles blending strategy and role-playing elements in a living game world.
+*   [ChaosEsqueAnthology](https://sourceforge.net/projects/chaosesqueanthology/) - A free 3d game for PC that does not limit the player. Fight,Build,Gain
 *   [Thirdeye (⭐18)](https://github.com/psi29a/thirdeye) - Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
 
 ### Simulator
@@ -210,25 +343,65 @@
 *   [FLUF](https://codeberg.org/TheStarport/FLUF) - Freelancer Universal Framework
 *   [freelancer-retold](https://codeberg.org/TheStarport/freelancer-retold) - A campaign and gameplay rework for the 2003 game Freelancer.
 *   [forsaken-3ds (⭐2)](https://github.com/colbyshores/forsaken-3ds) - Nintendo 3DS port of Forsaken (1998)
+*   [Endless Sky (⭐7.4k)](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
 ### Strategy
 
+*   [aeon (⭐1)](https://github.com/lordbasilaiassistant-sudo/aeon) - Open-source browser god-game & civilization sim where every creature is a real, evolving neural network. Fusion of WorldBox (god sandbox) and Civ (deep progression) - lead a people in Survival or shape the world in Creative. Artificial life, genetic evolution, emergent societies.
 *   [1oom (⭐99)](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run.
+*   [Allure (⭐230)](https://github.com/LixieWulf/Allure) - A massive HJSON mod focusing around quick-action, immersive RTS gameplay. Lore package included.
 *   [Beyond-All-Reason (⭐4k)](https://github.com/beyond-all-reason/Beyond-All-Reason) - Open source RTS game built on top of the Recoil RTS Engine
+*   [CzechDraughts (⭐0)](https://github.com/david-soliar/CzechDraughts) - Cross-platform Czech Draughts (Česká Dáma) game implemented as a C# console application.
+*   [ChaosGame (⭐0)](https://github.com/0Mart00/ChaosGame) - chaotic 2D real-time strategy game built from scratch. Command units with random skills, unlock advanced tech trees, and survive the tactical onslaught.
+*   [durer-jatekok (⭐1)](https://github.com/a-gondolkodas-orome/durer-jatekok) - Online version of previous strategy games at Dürer Competition
+*   [Dune-II---The-Maker (⭐358)](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
+*   [Dune Legacy](https://sourceforge.net/projects/dunelegacy/) - Updated clone of Westood Studios' Dune2 which uses data files from the original game.
 *   [Evolution-RTS (⭐150)](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine.
+*   [EmperorReborn (⭐11)](https://github.com/azmawee/EmperorReborn) - Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.
 *   [freeserf.net (⭐169)](https://github.com/Pyrdacor/freeserf.net) - Settlers 1 clone written in C#
 *   [galaxyofdrones (⭐2)](https://github.com/0wum0/galaxyofdrones) - An open source multiplayer space strategy game.
+*   [GeneralsGameCode (⭐1.2k)](https://github.com/TheSuperHackers/GeneralsGameCode) - Command and Conquer: Generals - Zero Hour
+*   [grenzmark (⭐0)](https://github.com/JobbeDeluxe/grenzmark) - Grenzmark is a Godot 4 remake of the Settlers II, Return to the Roots and Widelands
+*   [green-turkiye (⭐0)](https://github.com/zsdani68-cell/green-turkiye) - Raise awareness of environmental pollution in Turkiye through this engaging strategy game designed to inspire action and promote sustainability.
+*   [grid-wars (⭐1)](https://github.com/loosecannons/grid-wars) - AI-generated TRON-themed 3D hex strategy game (three.js): single-player vs the MCP + online multiplayer. Untested — use at your own risk.
+*   [hex-tactics (⭐1)](https://github.com/CesarAugustusGroB/game-hex-tactics) - PIXI.js + React hex-grid tactical battle sandbox — procedural strategic/tactical worlds, a pure-function battle engine, 5 motion modes, and a defendHeight formation system.
+*   [invazion (⭐11)](https://github.com/Nadawoo/invazion) - Azimutant (formerly named "InvaZion") is a collaborative game inspired by Hordes.fr/Die2Nite.
+*   [JS.Hawkoniwa-Island (⭐2)](https://github.com/masaru-star/JS.Hakoniwa-Island) - A homemade island development game inspired by "箱庭諸島". Supports auto-save.
+*   [kiomet (⭐163)](https://github.com/SoftbearStudios/kiomet) - Kiomet.com real-time strategy game (repository commits may lag behind game updates)
 *   [machines (⭐37)](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
 *   [Mindustry (⭐28k)](https://github.com/Anuken/Mindustry) - The automation tower defense RTS written in Java
+*   [OpenRAG-Skill (⭐1)](https://github.com/Kiki276/OpenRAG-Skill) - Enable evidence-first retrieval augmented generation within Claude Code using prompt-only input and in-chat source material.
+*   [OpenLRR (⭐0)](https://github.com/vs49688/OpenLRR) - An open source re-implementation of LEGO Rock Raiders
+*   [OpenFrontIO (⭐2.3k)](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game
 *   [Open-Realms-of-Stars (⭐171)](https://github.com/tuomount/Open-Realms-of-Stars) - 4X Strategy game.
+*   [opensage-adk (⭐0)](https://github.com/luann8331/opensage-adk) - Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks
+*   [parabellum (⭐24)](https://github.com/andreapavoni/parabellum) - An attempt to build a #Travian 3.x clone written in #Rust.
+*   [permafrost-engine (⭐2.8k)](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C based on Everglory
+*   [Pillage-First-Ask-Questions-Later (⭐158)](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
+*   [Rescue Max!](https://sourceforge.net/projects/rescue/) - A 2D space real-time, action/strategy game. you are in control of a ship that you fly around space fighting enemies and making friends on your way. The main objective is to rescue people from planets and take them to star bases. its writen in java1.4.
 *   [Rotp-Fusion (⭐59)](https://github.com/BrokenRegistry/Rotp-Fusion) - Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.
 *   [rise-of-legions (⭐160)](https://github.com/BrokenGamesUG/rise-of-legions) - Rise of Legions is a hybrid of MOBA, tower defense and deckbuilding - with fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck and crush your enemies.
+*   [Scorched Earth Online War](https://sourceforge.net/projects/seow/) - Online War system for IL-2 Sturmovik and Iron Front in ArmA 2
+*   [Seven Kingdoms: Ambition](https://sourceforge.net/projects/seven-kingdoms-ambition/) - An enhanced version of 7K:AA (Seven Kingdoms: Ancient Adversaries).
 *   [singularity (⭐0)](https://github.com/addictgamer/singularity-game-fork) - A simulation of a true AI. Survive, grow, and learn.
+*   [terra-concordia-public (⭐0)](https://github.com/terraconcordiagame/terra-concordia-public) - Press kit, release notes & community resources for Terra Concordia — a digital eurogame by NCB Company.
+*   [TheOldWorld (⭐0)](https://github.com/Towhidul-Islam5797/TheOldWorld) - 2D Isometric RTS Game
 *   [thinker (⭐142)](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
+*   [Transarctica-2 (⭐2)](https://github.com/SembeiNorimaki/Transarctica-2) - Remake of the classic game Transarctica (In development)
 *   [triplea (⭐1.5k)](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
-*   [Zero-K (⭐805)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+*   [ufoai (⭐0)](https://github.com/gorsing/ufoai) - UFO:Alien Invasion
+*   [Ugh-Guys- (⭐1)](https://github.com/atxgreene/Ugh-Guys-) - A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world — Three.js + Vite, three factions, fog of war, pathfinding, and an AI opponent. 100% procedural, no external assets.
+*   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
+*   [vaultfront (⭐0)](https://github.com/VaultSparkStudios/vaultfront) - VaultFront is a browser RTS and a derived AGPL fork of OpenFrontIO, itself evolved from WarFront.io. Created with help from ChatGPT 5.4 and Codex.
+*   [vera20k (⭐6)](https://github.com/Yrvera/vera20k) - Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles.
+*   [wages-of-war (⭐0)](https://github.com/suhteevah/wages-of-war) - **A clean-room, open-source Rust reverse enginering of the *Wages of War: The Business of Battle* (1996) engine.**
+*   [war1 (⭐148)](https://github.com/acoto87/war1) - A remake of Warcraft: Orcs & Humans written in C
+*   [War8 (⭐0)](https://github.com/qFlavius/War8) - Turn-based abstract board game built with C++ and SFML, based on "Război în 8" from Nicolae Oprișiu’s "Olimpiada Jocurilor Raționale" ("The Olympiad of Rational Games", Chapter 10). Includes PvP, PvC, CvC, turn timer, HUD, leaderboard, themes, and Easy/Hard AI.
+*   [WarKingdoms (⭐240)](https://github.com/skyteks/WarKingdoms) - Unity RTS Prototype (Warcraft 3 Style)
+*   [WazzaP's Boss Generals Mod (⭐2)](https://github.com/ItsWazzaP/wazzaps-boss-generals) - The official repository of WazzaP's Boss Generals mod for C\&C Generals Zero Hour
+*   [Zero-K (⭐804)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -236,23 +409,24 @@
 *   [safe-venv-auto (⭐22)](https://github.com/mavwolverine/zsh-safe-venv-auto) - A security-aware ZSH plugin that automatically activates and deactivates Python virtual environments as you navigate directories, with built-in protection against untrusted environments.
 *   [zaw-src-package-managers (⭐1)](https://github.com/GeneralD/zaw-src-package-managers) - Optional sources of [zaw (⭐586)](https://github.com/zsh-users/zaw) for several package managers: [rubygem](https://rubygems.org/) (ruby), [pypi](https://pypi.python.org/pypi) (python), [clib (⭐5.1k)](https://github.com/clibs/clib) (C), [appstore (⭐12k)](https://github.com/mas-cli/mas) (Mac App Store), [homebrew](https://brew.sh/) (Mac CUI App), [brewcask](https://caskroom.github.io/) (Mac GUI App)
 
-## [12. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [16. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Scripting / Embeddable Languages
 
 *   [cel-expr/cel-go (⭐3k)](https://github.com/cel-expr/cel-go) — Common Expression Language for Go ☆`3,005`
 
-## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [17. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2026
 
 *   [The Fair Game: Auditing & debiasing AI algorithms over time](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/fair-game-auditing-debiasing-ai-algorithms-over-time/9E8408C67F7CE30505122DD1586D9FA2) - Jouarnal of Cambridge Forum on AI: Law and Governance
 
-## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [fastgit (⭐0)](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
+*   [httest (⭐0)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 *   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [musicc (⭐0)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
 
@@ -260,13 +434,13 @@
 
 *   [tree-sitter-v (⭐0)](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
 
-## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [19. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Programming Languages
 
 *   [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
 
-## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [20. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / JavaScript
 
@@ -285,17 +459,25 @@
 
 *   [MQLens (⭐36)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
 
-## [17. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [21. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Agent Orchestration & CLI Tools
 
 *   [postmortemthis (⭐0)](https://github.com/Softeria/postmortemthis) - Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.
 
+### Development Tools & Utilities
+
+*   [EGC (⭐22)](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
+
 ### Non-Gemini CLI
 
 *   [NotFair (⭐2.9k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a `/notfair:gemini` cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, \~2.9k stars.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Tintpad (⭐2)](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sorkila/tintpad) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Download Management Tools / Audio Record and Process
 
@@ -313,7 +495,7 @@
 
 *   [MaCursor (⭐45)](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/writronic/MaCursor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [19. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [23. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -441,13 +623,13 @@
 
 *   🎉 [Ogmo Editor (⭐579)](https://github.com/Ogmo-Editor-3/OgmoEditor3-CE) - Free, open source, project oriented tile map editor.
 
-## [20. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [24. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) - Chinas controversial internet censorship system and a reference to the Great Wall of China.
 
-## [21. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [25. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -457,19 +639,19 @@
 
 *   [Data Center Policy Database](https://www.datacenterpolicy.com/database) - A searchable database of data center policies, useful for planners navigating the land rezoning, water and energy demands, and transparency issues that accompany data center siting in their jurisdictions.
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Faved](https://faved.dev/) - Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ([Demo](https://demo.faved.dev/), [Source Code](https://github.com/denho/faved)) `MIT` `Docker`
 
-## [23. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [27. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Common Resources for all animals / Welfare Organizations
 
 *   [International Fund for Animal Welfare (IFAW)](https://www.ifaw.org/international) - Global nonprofit that works to rescue, protect and advocate for animals in crisis, from wildlife conservation to ending illegal trade and responding to disasters.
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -479,7 +661,7 @@
 
 *   [zij (⭐2)](https://github.com/junaidaliop/zij) - A canon of deep learning optimization algorithms.
 
-## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### People Investigations / GitHub
 
@@ -493,7 +675,7 @@
 
 *   [Subhunt (⭐1)](https://github.com/ahmadouniass/Subdomains-finder-subhunt) - Multi-source subdomain enumeration tool querying crt.sh Certificate Transparency logs, HackerTarget, and RapidDNS. Features HTTP/HTTPS liveness probing with status codes, alive/dead filtering, multi-format export (TXT/JSON/CSV), and a full CLI.
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Embedded
 
@@ -513,24 +695,28 @@
     *   [probe-rs/probe-rs (⭐2.8k)](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
     *   [Vaishnav-Sabari-Girish/ComChan (⭐122)](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
+### Development tools / Static analysis
+
+*   [dupehound (⭐57)](https://github.com/Rafaelpta/dupehound) \[[dupehound](https://crates.io/crates/dupehound)] - Duplicate-code detector that fingerprints function bodies (winnowing), so copies survive renaming. Repo slop score, duplication history chart, and a CI gate that points to the original function to reuse. Supports Rust and 11 other languages. [![CI](https://github.com/Rafaelpta/dupehound/actions/workflows/ci.yml/badge.svg)](https://github.com/Rafaelpta/dupehound/actions/workflows/ci.yml)
+
 ### Libraries / Network programming
 
 *   DNS
     *   [kweonminsung/bind9\_rndc\_rust (⭐1)](https://github.com/kweonminsung/bind9_rndc_rust) \[[rndc](https://crates.io/crates/rndc)] - BIND9 RNDC protocol implementation for Rust [![CI](https://github.com/kweonminsung/bind9_rndc_rust/actions/workflows/ci.yml/badge.svg)](https://github.com/kweonminsung/bind9_rndc_rust/actions/workflows/ci.yml)
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
 *   [Open Agent SDK (⭐20)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 
-## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [32. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
 *   [Train LLM From Scratch (⭐6.3k)](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 
-## [29. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [33. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Comparison
 
@@ -550,13 +736,13 @@
 
 *   [Eventum](https://eventum.run) - Data generation platform for producing synthetic event streams with complex correlations.
 
-## [30. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [34. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### System Tools / System Utilities
 
 *   [yagcioglutoprak/dusty (⭐47)](https://github.com/yagcioglutoprak/dusty) — Free, open-source macOS menu bar cleaner. ☆`44`
 
-## [31. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [35. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Finance
 
@@ -574,7 +760,7 @@
 
 *   [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
 
-## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Caching
 
@@ -584,13 +770,13 @@
 
 *   [CrymbleUI (⭐34)](https://github.com/wolfgang371/crymbleui) - A nice and fast GUI framework for Crystal. Declarative DSL, Reactive State, Performant, Rich Widget Set including VirtualMatrix and RecursiveGrid
 
-## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [37. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
 *   [Notty (⭐8)](https://github.com/ocaml-community/notty-community) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
-## [34. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -601,21 +787,26 @@
 
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
 *   [Lastest](https://lastest.cloud) - Ship fast. Don't break things. AI-supported visual verification and tests you can actually trust. Free forever plan: 1 project, 500 runner-minutes/mo, 1 concurrent run, no credit card.
 
+### Security and PKI
+
+*   [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
+
 ### Monitoring
 
+*   [drumbeats.io](https://drumbeats.io/) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors with 1-min interval and unlimited team seats.
 *   [Prismix](https://prismix.dev) - Free REST API (GET /api/v1/statuses) returning real-time operational status for 75+ AI services including OpenAI, Anthropic, Gemini, Mistral, and more. No authentication required. \[Free tier available with Pro at $10/month]
 
 ### Web Hosting
 
 *   [boomurl](https://boomurl.com) - Publish static sites (HTML/Markdown/images/PDF or a whole folder) to an instant HTTPS URL with no account; free tier shows a small banner. Custom domains supported.
 
-## [36. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [40. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
@@ -625,19 +816,19 @@
 
 *   [Kamod Hooks (⭐1)](https://github.com/kamod-ch/kamod-hooks) - Preact hooks library ported from [ahooks (⭐15k)](https://github.com/alibaba/hooks).
 
-## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [41. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Respan](https://respan.ai/) - Full-stack AI engineering platform to trace agent workflows in production, evaluate output quality with custom graders, iterate on prompts without code changes, and route across 250+ models through one gateway. Formerly Keywords AI.
 
-## [38. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [42. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### User Interfaces / Terminal
 
 *   [DockTUI](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
 
-## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Data Integration Frameworks
 
@@ -659,19 +850,19 @@
 
 *   [picoloom (⭐81)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 
-## [40. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [44. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [envapt (⭐9)](https://github.com/materwelonDhruv/envapt) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
 
-## [41. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [45. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Hooks / Server-side
 
 *   [useApi (⭐0)](https://github.com/offload-project/inertiajs-use-api) - React hook for calling JSON API endpoints from Inertia.js apps, with optional piping into page props.
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -693,7 +884,7 @@
 
 *   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
-## [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### AI / Agents
 

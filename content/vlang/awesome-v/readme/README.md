@@ -91,13 +91,14 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [fdup (⭐8)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 *   [github-releases (⭐8)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 *   [HN-top (⭐24)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
+*   [httest (⭐0)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 *   [klonol (⭐20)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 *   [lagger (⭐1)](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 *   [lsv (⭐72)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 *   [minimax-v (⭐8)](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
 *   [mushroomtek (⭐1)](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 *   [musicc (⭐0)](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
-*   [netprint (⭐0)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [netprint (⭐1)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
 *   [pfjson (⭐31)](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 *   [PhoneSnatchProof (⭐1)](https://github.com/tailsmails/PhoneSnatchProof) - An FS that encrypts your app data and keeps them on RAM (with a backup).
 *   [portctl (⭐13)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
@@ -135,7 +136,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vee (⭐60)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐60)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 *   [volt (⭐16)](https://github.com/Volt-Editor-Team/volt) - Aims to be a fully featured text editor written entirely in Vlang.
 *   [vPDF (⭐85)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
-*   [vro (⭐4)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+*   [vro (⭐5)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ### Games
 
@@ -207,7 +208,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [Heroku Buildpack for V (⭐2)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 *   [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 *   [Mantis (⭐42)](https://github.com/khalyomede/mantis) - A web framework written in V.
-*   [Mustela (⭐1)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
+*   [Mustela (⭐2)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 *   [rr-dl (⭐1)](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 *   [Tiniest Veb Server (⭐17)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 *   [v-admin-skeleton (⭐15)](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.

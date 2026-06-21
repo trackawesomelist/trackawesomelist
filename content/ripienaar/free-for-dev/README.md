@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 21, 2026](/content/2026/06/21/README.md)
+
+### Security and PKI
+
+*   [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
+
+### Monitoring
+
+*   [drumbeats.io](https://drumbeats.io/) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors with 1-min interval and unlimited team seats.
+
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Testing
@@ -156,12 +166,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Trophy](https://trophy.so) - API infrastructure for building gamification features like achievements, streaks, points and leaderboards in web and mobile apps. Free for 100 monthly active users.
-
-## [Apr 25, 2026](/content/2026/04/25/README.md)
-
-### Testing
-
-*   *   [CheckAPI](https://checkapi.io) - API health monitoring with Silent Failure Detection — validates response body via JSON Path assertions and regex, not just HTTP status codes. Free plan includes 10 monitors, 5-minute intervals, all 5 alert channels (Email, Slack, Telegram, Discord, Webhook), and is free for commercial use with no time limit.
 
 ## [Apr 24, 2026](/content/2026/04/24/README.md)
 
@@ -626,10 +630,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
-
-### Analytics, Events and Statistics
-
-*   [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
 
 ### Screenshot APIs
 
@@ -1498,10 +1498,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UI Bakery](https://uibakery.io) - Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
 
-### Analytics, Events and Statistics
-
-*   [MetricsWave](https://metricswave.com) - Privacy-friendly Google Analytics alternative for developers. Free plan allows 1M pageviews per month without credit card required.
-
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
 ### Messaging and Streaming
@@ -2294,10 +2290,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [Pumble](https://pumble.com) - Free team chat app. Unlimited users and message history, free forever.
-
-### Security and PKI
-
-*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open-source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
 
 ### Issue Tracking and Project Management
 

@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jun 21, 2026](/content/2026/06/21/README.md)
+
+### Command-line
+
+*   [httest (⭐0)](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
+
 ## [Jun 20, 2026](/content/2026/06/20/README.md)
 
 ### Command-line
@@ -29,7 +35,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [netprint (⭐0)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
+*   [netprint (⭐1)](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
 *   [salty (⭐0)](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
 
 ## [May 23, 2026](/content/2026/05/23/README.md)
@@ -42,13 +48,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 
-*   [Mustela (⭐1)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
+*   [Mustela (⭐2)](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 
 ## [May 17, 2026](/content/2026/05/17/README.md)
 
 ### Editors
 
-*   [vro (⭐4)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+*   [vro (⭐5)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ## [May 09, 2026](/content/2026/05/09/README.md)
 
