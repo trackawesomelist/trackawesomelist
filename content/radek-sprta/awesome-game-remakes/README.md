@@ -6,11 +6,13 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
-## [Jun 21, 2026](/content/2026/06/21/README.md)
+## [Jun 22, 2026](/content/2026/06/22/README.md)
 
 ### Online
 
-*   [Netrek](https://sourceforge.net/projects/netrek/) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
+*   [Netrek (⭐20)](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
+
+## [Jun 21, 2026](/content/2026/06/21/README.md)
 
 ### RPG
 

@@ -6,6 +6,21 @@ A curated list of Web Performance Optimization.
 
 [ [Daily](/content/davidsonfellipe/awesome-wpo/README.md) / Weekly / [Overview](/content/davidsonfellipe/awesome-wpo/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Bundle Analyzer / Meetups
+
+*   [bundle.js.org](https://bundle.js.org/) - Quick online npm package size checker.
+
+### Metrics Monitor / Meetups
+
+*   [Telescope (⭐286)](https://github.com/cloudflare/telescope) - Cross-browser web performance testing CLI and library built on Playwright; collects HAR, Web Vitals, resource timing, console logs, screenshots, and filmstrip across Chrome, Firefox, Safari, and Edge.
+
+### Minifiers / Meetups
+
+*   [Terser (⭐9.3k)](https://github.com/terser/terser) - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+*   [SWC](https://swc.rs/) - Fast JavaScript and TypeScript compiler and minifier; significantly faster than Babel/Terser for transpilation.
+
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
 ### Documentation
@@ -80,7 +95,7 @@ A curated list of Web Performance Optimization.
 
 ### Image Optimizers / Meetups
 
-*   [Imager (⭐727)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+*   [Imager (⭐728)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 
 ### Lazyloaders / Meetups
 
@@ -245,7 +260,7 @@ A curated list of Web Performance Optimization.
 
 ### Image Optimizers / Meetups
 
-*   [Optimizt (⭐175)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
+*   [Optimizt (⭐177)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 

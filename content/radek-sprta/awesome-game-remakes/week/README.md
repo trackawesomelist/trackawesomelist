@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ [Daily](/content/radek-sprta/awesome-game-remakes/README.md) / Weekly / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Online
+
+*   [Netrek (⭐20)](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### FPS
@@ -39,10 +45,6 @@ Actively maintained open-source game remakes.
 *   [MadnessPatch (⭐322)](https://github.com/Wemino/MadnessPatch) - A patch that fixes various issues in the PC port of Alice: Madness Returns.
 *   [VorpalFix (⭐285)](https://github.com/Wemino/VorpalFix) - A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice.
 *   [xash3d-fwgs (⭐2.6k)](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
-
-### Online
-
-*   [Netrek](https://sourceforge.net/projects/netrek/) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
 
 ### RPG
 

@@ -199,6 +199,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Bundlesize (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 *   [source-map-explorer (⭐3.9k)](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
 *   [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding an npm package to your frontend bundle.
+*   [bundle.js.org](https://bundle.js.org/) - Quick online npm package size checker.
 *   [Webpack bundle analyzer (⭐13k)](https://github.com/webpack/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 *   [Lasso-analyzer (⭐4)](https://github.com/pajaydev/lasso-analyzer) - Analyze and visualise project bundles created by Lasso.
@@ -294,7 +295,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Grunt-WebP (⭐117)](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
 *   [Gulp-WebP (⭐219)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 *   [Imageoptim](https://imageoptim.com/mac) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, and removes junk metadata and unnecessary color profiles.
-*   [Imager (⭐727)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+*   [Imager (⭐728)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 *   [Grunt-imageoptim (⭐476)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
 *   [ImageOptim-CLI (⭐3.5k)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 *   [Tapnesh-CLI (⭐21)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
@@ -308,7 +309,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 *   [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 *   [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
-*   [Optimizt (⭐175)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
+*   [Optimizt (⭐177)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 *   [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or Webpack plugins and render responsive image markup with an image component for multiple frameworks.
 *   [Adaptive Images](https://adaptive-images.com/) - Server-side PHP tool that detects screen size and automatically creates, caches, and delivers device-appropriate resized images from existing `<img>` markup.
 
@@ -346,6 +347,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [DareBoost](https://www.dareboost.com/en) - Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.
 *   [Perfume.js (⭐3.2k)](https://github.com/Zizzamia/perfume.js) - Tiny library to collect Core Web Vitals and other performance metrics from real users.
 *   [puppeteer-webperf (⭐1.9k)](https://github.com/addyosmani/puppeteer-webperf) - Collect web performance metrics in Puppeteer scripts.
+*   [Telescope (⭐286)](https://github.com/cloudflare/telescope) - Cross-browser web performance testing CLI and library built on Playwright; collects HAR, Web Vitals, resource timing, console logs, screenshots, and filmstrip across Chrome, Firefox, Safari, and Edge.
 *   [WebPageTest API Wrapper for Node.js (⭐1.6k)](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 *   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
@@ -364,6 +366,8 @@ Here's a quick overview of the categories covered in this collection:
 *   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 *   [Html-minifier (⭐138)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
+*   [Terser (⭐9.3k)](https://github.com/terser/terser) - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+*   [SWC](https://swc.rs/) - Fast JavaScript and TypeScript compiler and minifier; significantly faster than Babel/Terser for transpilation.
 *   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [Grunt-contrib-concat (⭐799)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 *   [Grunt-contrib-uglify (⭐1.5k)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
