@@ -8,6 +8,11 @@ Collections of awesome neovim plugins.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
+### LSP
+
+*   [hasansujon786/nvim-navbuddy (⭐75)](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
+*   [Zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/Zeioth/none-ls-autoload.nvim) - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
+
 ### Programming Languages Support / Diagnostics
 
 *   [clang-engineer/jvm-env.nvim (⭐1)](https://github.com/clang-engineer/jvm-env.nvim) - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
@@ -2382,10 +2387,6 @@ Collections of awesome neovim plugins.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
-### LSP
-
-*   [zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports built-in sources and external sources.
-
 ### AI / Diagnostics
 
 *   [Aaronik/GPTModels.nvim (⭐74)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
@@ -3404,10 +3405,6 @@ Collections of awesome neovim plugins.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
-### LSP
-
-*   [chrisgrieser/nvim-dr-lsp (⭐34)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
-
 ### Colorscheme / Markdown and LaTeX
 
 *   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - ***`[TS][LSP][Lua]`*** Theming using pywal, with a Base16 twist.
@@ -3572,10 +3569,6 @@ Collections of awesome neovim plugins.
 *   [lewis6991/satellite.nvim (⭐732)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
-
-### LSP
-
-*   [SmiteshP/nvim-navbuddy (⭐883)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ### Bars and Lines / Colorscheme Switchers
 

@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jun 22, 2026](/content/2026/06/22/README.md)
+
+### MCP servers
+
+*   [cl-tron-mcp (⭐7)](https://github.com/Alba-Intelligence/cl-tron-mcp) - MCP wrap around the Slime Swank library. Provides discoverable access to Swank commands, including control of the Swank debugging sessions and code hot-reload. Currently 90+ tools. Tested on SBCL and ECL.
+
 ## [Jun 21, 2026](/content/2026/06/21/README.md)
 
 ### Others / Third-party APIs

@@ -6,11 +6,17 @@
 
 [ Daily / [Weekly](/content/veggiemonk/awesome-docker/week/README.md) / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Jun 22, 2026](/content/2026/06/22/README.md)
+
+### Storage & Data / Reverse Proxy
+
+*   [resq (⭐0)](https://github.com/mashb1t/resq) - Restic-powered Docker backups for volumes, databases, and .env files, with or without stopping containers. Works with local, SSH, or any S3 compatible storage.
+
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
 ### User Interfaces / Terminal
 
-*   [DockTUI](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
+*   [DockTUI (⭐29)](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
 
 ## [Jun 14, 2026](/content/2026/06/14/README.md)
 
@@ -35,7 +41,7 @@
 
 *   [Moby (⭐72k)](https://github.com/moby/moby)
 *   [Docker Hub](https://hub.docker.com)
-*   [Docker Compose (⭐37k)](https://github.com/docker/compose/) - Define and run multi-container applications with Docker.
+*   [Docker Compose (⭐38k)](https://github.com/docker/compose/) - Define and run multi-container applications with Docker.
 *   [Docker Registry (⭐10k)](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
 
 ### Engine & Runtime
@@ -173,7 +179,7 @@
 
 ### Image Lifecycle / Registry
 
-*   [NORA (⭐187)](https://github.com/getnora-io/nora) - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
+*   [NORA (⭐195)](https://github.com/getnora-io/nora) - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
 
 ### Image Lifecycle / Image Scanning & SBOM
 
@@ -822,7 +828,7 @@
 
 ### Developer Workflow / Development Environment
 
-*   [coder (⭐13k)](https://github.com/coder/coder) - Remote development machines powered by Terraform or Docker.
+*   [coder (⭐14k)](https://github.com/coder/coder) - Remote development machines powered by Terraform or Docker.
 *   [dde (⭐45)](https://github.com/whatwedo/dde) - Local development environment toolset based on Docker.
 *   [DIP (⭐1.3k)](https://github.com/bibendi/dip) - CLI utility for straightforward provisioning and interacting with an application configured by docker-compose.
 *   [EnvCLI (⭐115)](https://github.com/EnvCLI/EnvCLI) - Replace your local installation of Node, Go, ... with project-specific docker containers.
@@ -872,7 +878,7 @@
 *   [Awesome Compose (⭐46k)](https://github.com/docker/awesome-compose) - Docker Compose samples.
 *   [Awesome Kubernetes (⭐16k)](https://github.com/ramitsurana/awesome-kubernetes)
 *   [Awesome Linux Container (⭐2.1k)](https://github.com/Friz-zy/awesome-linux-containers) more general about container than this repo.
-*   [Awesome Selfhosted (⭐297k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container.
+*   [Awesome Selfhosted (⭐300k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container.
 *   [Awesome Sysadmin (⭐34k)](https://github.com/n1trux/awesome-sysadmin)
 *   [ToolsOfTheTrade (⭐17k)](https://github.com/cjbarber/ToolsOfTheTrade) a list of SaaS and On premise applications
 
@@ -911,9 +917,7 @@
 
 ### Videos / Wrappers
 
-*   [Contributing to Docker by Andrew "Tianon" Page (InfoSiftr)](https://www.youtube.com/watch?v=1jwo8-1HYYg) (34:31)
 *   [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) (3:11:06)
-*   [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (40:23)
 *   [Docker Course](https://www.youtube.com/watch?v=UZpyvK6UGFo) (Spanish)
 *   [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (54:26)
 *   [Docker from scratch](https://www.youtube.com/playlist?list=PLLhEJK7fQIxD-btrjrqdEfQHbkZnQrmqE) (1:22:01)
@@ -924,7 +928,6 @@
 *   [Docker Swarm from scratch](https://www.youtube.com/playlist?list=PLLhEJK7fQIxAY4gZd1Wl-GsLvg-e9Ap1e) (1:41:28)
 *   [Extending Docker with Plugins](https://vimeo.com/110835013) (15:21)
 *   [From Local Docker Development to Production Deployments](https://www.youtube.com/watch?v=7CZFpHUPqXw)
-*   [Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)](https://www.youtube.com/watch?v=GaHzdqFithc) (42:04)
 *   [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) (3:09:00)
 *   [Logging on Docker: What You Need to Know](https://vimeo.com/123341629) (51:27)
 *   [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)

@@ -2611,6 +2611,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [got (⭐266)](https://github.com/ysmood/got) - An enjoyable golang test framework.
 *   [gotest.tools (⭐578)](https://github.com/gotestyourself/gotest.tools) - A collection of packages to augment the go testing package and support common patterns.
 *   [Hamcrest (⭐30)](https://github.com/rdrdr/hamcrest) - fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.
+*   [httper (⭐0)](https://github.com/gustofarbi/httper) - CLI runner for JetBrains .http files with scripting, assertions, gRPC, and load testing.
 *   [httpexpect (⭐2.7k)](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
 *   [is (⭐2k)](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 *   [jsonassert (⭐141)](https://github.com/kinbiko/jsonassert) - Package for verifying that your JSON payloads are serialized correctly.

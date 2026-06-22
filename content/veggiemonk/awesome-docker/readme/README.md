@@ -95,7 +95,7 @@ The goal of this repo is to index open-source projects, not to advertise for pro
 
 *   [Moby (⭐72k)](https://github.com/moby/moby)
 *   [Docker Hub](https://hub.docker.com)
-*   [Docker Compose (⭐37k)](https://github.com/docker/compose/) - Define and run multi-container applications with Docker.
+*   [Docker Compose (⭐38k)](https://github.com/docker/compose/) - Define and run multi-container applications with Docker.
 *   [Docker Registry][distribution] - The Docker toolset to pack, ship, store, and deliver content
 
 ## Engine & Runtime
@@ -183,7 +183,7 @@ Services to securely store your Docker images.
 *   [JFrog Artifactory](https://jfrog.com/artifactory/) - :yen: Artifact Repository Manager, can be used as private Docker Registry as well.
 *   [kontain.me (⭐243)](https://github.com/imjasonh/kontain.me) - On-demand container image registry that builds and serves images when they are pulled.
 *   [Kraken (⭐6.7k)](https://github.com/uber/kraken) - Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds.
-*   [NORA (⭐187)](https://github.com/getnora-io/nora) - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
+*   [NORA (⭐195)](https://github.com/getnora-io/nora) - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
 *   [nscr (⭐1)](https://github.com/jhstatewide/nscr) - A light-weight, self-contained container registry that's easy to run and maintain.
 *   [Quay.io](https://quay.io/) - :yen: Secure hosting for private Docker repositories.
 *   [Registryo (⭐15)](https://github.com/inmagik/registryo) - UI and token based authentication server for onpremise docker registry.
@@ -311,11 +311,12 @@ Container-aware reverse proxies, ingress, and TLS-terminating front-ends with au
 
 ## Storage & Data
 
-*   [Label Backup (⭐23)](https://github.com/resulgg/label-backup) - A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.
 *   [Docker Volume Backup (⭐3.7k)](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage.
+*   [Label Backup (⭐23)](https://github.com/resulgg/label-backup) - A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.
 *   [Netshare (⭐1.1k)](https://github.com/ContainX/docker-volume-netshare) Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin.
 *   [portworx](https://portworx.com) - :yen: Decentralized storage solution for persistent, shared and replicated volumes.
 *   [quobyte](https://www.quobyte.com/) - :yen: Fully fault-tolerant distributed file system with a docker volume driver.
+*   [resq (⭐0)](https://github.com/mashb1t/resq) - Restic-powered Docker backups for volumes, databases, and .env files, with or without stopping containers. Works with local, SSH, or any S3 compatible storage.
 *   [REX-Ray (⭐2.2k)](https://github.com/rexray/rexray) provides a vendor agnostic storage orchestration engine. The primary design goal is to provide persistent storage for Docker, Kubernetes, and Mesos.
 
 ## Observability
@@ -392,7 +393,7 @@ TUIs, CLI tools, and shell integrations for Docker.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - An interactive shell UI for managing Docker containers.
 *   [DockMate (⭐320)](https://github.com/shubh-io/dockmate) - Lightweight terminal-based Docker and Podman manager with a text-based user interface,.
 *   [DockSTARTer (⭐2.6k)](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
-*   [DockTUI](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
+*   [DockTUI (⭐29)](https://github.com/strmax195-hue/docktui) - Fast, zero-dependency terminal dashboard for Docker and Compose.
 *   [dprs (⭐39)](https://github.com/durableprogramming/dprs) - A developer-focused TUI for managing Docker containers with real-time log streaming and container management.
 *   [dry (⭐3.3k)](https://github.com/moncho/dry) - An interactive CLI for Docker containers.
 *   [easydocker (⭐114)](https://github.com/joao-zanutto/easydocker) - A Terminal UI highly inpired by k9s levaraging beatiful BubbleTea graphics.
@@ -470,7 +471,7 @@ Self-hosted CI engines, build accelerators, and hosted services that target Dock
 
 ### Development Environment
 
-*   [coder (⭐13k)](https://github.com/coder/coder) - Remote development machines powered by Terraform or Docker.
+*   [coder (⭐14k)](https://github.com/coder/coder) - Remote development machines powered by Terraform or Docker.
 *   [dde (⭐45)](https://github.com/whatwedo/dde) - Local development environment toolset based on Docker.
 *   [DIP (⭐1.3k)](https://github.com/bibendi/dip) - CLI utility for straightforward provisioning and interacting with an application configured by docker-compose.
 *   [EnvCLI (⭐115)](https://github.com/EnvCLI/EnvCLI) - Replace your local installation of Node, Go, ... with project-specific docker containers.
@@ -576,7 +577,7 @@ Tools and applications that are either installed inside containers or designed t
 *   [Awesome Compose (⭐46k)](https://github.com/docker/awesome-compose) - Docker Compose samples.
 *   [Awesome Kubernetes (⭐16k)](https://github.com/ramitsurana/awesome-kubernetes)
 *   [Awesome Linux Container (⭐2.1k)](https://github.com/Friz-zy/awesome-linux-containers) more general about container than this repo.
-*   [Awesome Selfhosted (⭐297k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container.
+*   [Awesome Selfhosted (⭐300k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container.
 *   [Awesome Sysadmin (⭐34k)](https://github.com/n1trux/awesome-sysadmin)
 *   [ToolsOfTheTrade (⭐17k)](https://github.com/cjbarber/ToolsOfTheTrade) a list of SaaS and On premise applications
 
@@ -619,9 +620,7 @@ Tools and applications that are either installed inside containers or designed t
 
 ## Videos
 
-*   [Contributing to Docker by Andrew "Tianon" Page (InfoSiftr)](https://www.youtube.com/watch?v=1jwo8-1HYYg) (34:31)
 *   [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) (3:11:06)
-*   [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (40:23)
 *   [Docker Course](https://www.youtube.com/watch?v=UZpyvK6UGFo) (Spanish)
 *   [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (54:26)
 *   [Docker from scratch](https://www.youtube.com/playlist?list=PLLhEJK7fQIxD-btrjrqdEfQHbkZnQrmqE) (1:22:01)
@@ -632,7 +631,6 @@ Tools and applications that are either installed inside containers or designed t
 *   [Docker Swarm from scratch](https://www.youtube.com/playlist?list=PLLhEJK7fQIxAY4gZd1Wl-GsLvg-e9Ap1e) (1:41:28)
 *   [Extending Docker with Plugins](https://vimeo.com/110835013) (15:21)
 *   [From Local Docker Development to Production Deployments](https://www.youtube.com/watch?v=7CZFpHUPqXw)
-*   [Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)](https://www.youtube.com/watch?v=GaHzdqFithc) (42:04)
 *   [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) (3:09:00)
 *   [Logging on Docker: What You Need to Know](https://vimeo.com/123341629) (51:27)
 *   [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)

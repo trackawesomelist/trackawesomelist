@@ -24,6 +24,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [minio (⭐1.7k)](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service).
 
+### Testing Frameworks
+
+*   [httper (⭐0)](https://github.com/gustofarbi/httper) - CLI runner for JetBrains .http files with scripting, assertions, gRPC, and load testing.
+
 ### Style Guides / Libraries for creating HTTP middlewares
 
 *   [enra/go-styleguide](https://codeberg.org/enra/go-styleguide)

@@ -8,6 +8,11 @@ Collections of awesome neovim plugins.
 
 ## [Jun 22, 2026](/content/2026/06/22/README.md)
 
+### LSP
+
+*   [hasansujon786/nvim-navbuddy (⭐75)](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
+*   [Zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/Zeioth/none-ls-autoload.nvim) - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
+
 ### Programming Languages Support / Diagnostics
 
 *   [clang-engineer/jvm-env.nvim (⭐1)](https://github.com/clang-engineer/jvm-env.nvim) - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
@@ -2814,10 +2819,6 @@ Collections of awesome neovim plugins.
 
 ## [May 21, 2024](/content/2024/05/21/README.md)
 
-### LSP
-
-*   [zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/zeioth/none-ls-autoload.nvim) - Auto-load/Auto-unload none-ls sources installed with mason. It supports built-in sources and external sources.
-
 ### Color / Markdown and LaTeX
 
 *   [rachartier/tiny-devicons-auto-colors.nvim (⭐131)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
@@ -4078,12 +4079,6 @@ Collections of awesome neovim plugins.
 
 *   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - ***`[TS][LSP][Lua]`*** Theming using pywal, with a Base16 twist.
 
-## [Jun 21, 2023](/content/2023/06/21/README.md)
-
-### LSP
-
-*   [chrisgrieser/nvim-dr-lsp (⭐34)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
-
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
 ### Formatting / Folding
@@ -4272,12 +4267,6 @@ Collections of awesome neovim plugins.
 ### Scrolling / Scrollbar
 
 *   [lewis6991/satellite.nvim (⭐732)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
-
-## [Apr 02, 2023](/content/2023/04/02/README.md)
-
-### LSP
-
-*   [SmiteshP/nvim-navbuddy (⭐883)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ## [Mar 31, 2023](/content/2023/03/31/README.md)
 
