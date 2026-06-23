@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 23, 2026](/content/2026/06/23/README.md)
+
+### SQL Query Builders
+
+*   [qrafter (⭐47)](https://github.com/SennovE/qrafter) - Type-safe SQL query builder with dialect-aware rendering, schema introspection, and migration generation.
+
 ## [Jun 22, 2026](/content/2026/06/22/README.md)
 
 ### Advanced Console UIs

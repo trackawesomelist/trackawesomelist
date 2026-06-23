@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Web Hosting
+
+*   [Revdoku](https://revdoku.com/) — Publish files, reports, custom microsites right from ChatGPT, Claude, Codex and other AI agents as public or password-protected websites. Free tier: 2GB storage, 2 live sites/apps, 1 database (25 MB), 3 AI connections, 1k files/bucket (100 MB/file), basic analytics.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Testing

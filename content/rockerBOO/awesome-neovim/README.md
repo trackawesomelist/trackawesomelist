@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 23, 2026](/content/2026/06/23/README.md)
+
+### Project / Markdown and LaTeX
+
+*   [zachyarbrough/anchor.nvim (⭐7)](https://github.com/zachyarbrough/anchor.nvim) - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
+
 ## [Jun 22, 2026](/content/2026/06/22/README.md)
 
 ### LSP

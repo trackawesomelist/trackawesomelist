@@ -17,6 +17,10 @@ Collections of awesome neovim plugins.
 
 *   [clang-engineer/jvm-env.nvim (⭐1)](https://github.com/clang-engineer/jvm-env.nvim) - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
 
+### Project / Markdown and LaTeX
+
+*   [zachyarbrough/anchor.nvim (⭐7)](https://github.com/zachyarbrough/anchor.nvim) - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### AI / Diagnostics

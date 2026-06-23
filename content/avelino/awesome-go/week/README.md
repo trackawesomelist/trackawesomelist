@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-sqlite (⭐852)](https://github.com/glebarez/go-sqlite) – A Pure Golang implemented SQLite driver without CGO.
 
+### SQL Query Builders
+
+*   [qrafter (⭐47)](https://github.com/SennovE/qrafter) - Type-safe SQL query builder with dialect-aware rendering, schema introspection, and migration generation.
+
 ### Search and Analytic Databases
 
 *   [skizze (⭐772)](https://github.com/skizzehq/skizze) - A probabilistic data structure service and storage.
