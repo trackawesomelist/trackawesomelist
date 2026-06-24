@@ -43,7 +43,7 @@ We use the *[Golang Bridge (⭐434)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐302k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐305k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -903,7 +903,7 @@ additional ordered map implementations.
 *   [patcher (⭐8)](https://github.com/Jacobbrewer1/patcher) - Powerful SQL Query builder that automatically generates SQL queries from structs.
 *   [qrafter (⭐47)](https://github.com/SennovE/qrafter) - Type-safe SQL query builder with dialect-aware rendering, schema introspection, and migration generation.
 *   [qry (⭐35)](https://github.com/HnH/qry) - Tool that generates constants from files with raw SQL queries.
-*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐15)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 *   [sg (⭐7)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 *   [sq (⭐201)](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
 *   [sqlc (⭐18k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
@@ -1684,7 +1684,7 @@ additional ordered map implementations.
 *   [go-log (⭐38)](https://github.com/siddontang/go-log) - Log lib supports level and multi handlers.
 *   [go-log (⭐42)](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 *   [go-logger (⭐288)](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
-*   [GoLogX (⭐2)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+*   [GoLogX (⭐4)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
 *   [gone/log (⭐51)](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library.
 *   [httpretty (⭐413)](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 *   [journald (⭐46)](https://github.com/ssgreg/journald) - Go implementation of systemd Journal's native API for logging.
@@ -2427,7 +2427,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [optimus-go (⭐369)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐289)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐75)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
-*   [pii-shield (⭐146)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+*   [pii-shield (⭐147)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 *   [procscope (⭐19)](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 *   [qrand (⭐18)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
@@ -3122,7 +3122,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [govalid (⭐115)](https://github.com/twharmon/govalid) - Fast, tag-based validation for structs.
 *   [govalidator (⭐6.2k)](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
 *   [govalidator (⭐1.3k)](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
-*   [govy (⭐45)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐46)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 *   [hvalid (⭐14)](https://github.com/lyonnee/hvalid) hvalid is a lightweight validation library written in Go language. It provides a custom validator interface and a series of common validation functions to help developers quickly implement data validation.
 *   [jio (⭐126)](https://github.com/faceair/jio) - jio is a json schema validator similar to [joi (⭐21k)](https://github.com/hapijs/joi).
 *   [ozzo-validation (⭐4.1k)](https://github.com/go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.

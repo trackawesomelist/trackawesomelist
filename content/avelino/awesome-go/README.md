@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### Security
+
+*   [pii-shield (⭐147)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
 ### SQL Query Builders
@@ -94,7 +100,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Logging
 
-*   [GoLogX (⭐2)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+*   [GoLogX (⭐4)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
 
 ### Security
 
@@ -102,7 +108,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [govy (⭐45)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐46)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 
 ## [Jun 08, 2026](/content/2026/06/08/README.md)
 
@@ -734,7 +740,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [leakhound (⭐16)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
-*   [pii-shield (⭐146)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 
 ### Testing Frameworks
 
@@ -792,7 +797,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐15)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Job Scheduler
 

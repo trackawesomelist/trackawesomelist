@@ -8,6 +8,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
+### Plugins and scripts / Godot 4
+
+*   [Juicee (⭐42)](https://github.com/Kelpekk/Juicee) - game-feel effects (screen shake, hit stop, camera effects and more) with a visual graph editor, inspector UI, and one-liner API. Inspired by Unity's FEEL.
+
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Zed (⭐179)](https://github.com/GDQuest/zed-gdscript) - Syntax highlighting, autocompletion, LSP (jump-to-definition, hover, references, linting), code formatting, and debugging. Supports 3.x and 4.x.
@@ -20,7 +24,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Modules / Godot 4
 
-*   [Tree3D (⭐313)](https://github.com/JekSun97/gdTree3D) - A plugin for procedural generation of 3D trees in real time for gaming projects.
+*   [Tree3D (⭐324)](https://github.com/JekSun97/gdTree3D) - A plugin for procedural generation of 3D trees in real time for gaming projects.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -48,7 +52,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [Signal Lens (⭐345)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
+*   [Signal Lens (⭐347)](https://github.com/yannlemos/signal-lens) - Visual debugger for signals. Click on a node in the remote scene tree and instantly view all its signals' connections and emissions in real-time.
 
 ## [Apr 13 - Apr 19, 2026](/content/2026/15/README.md)
 
@@ -103,7 +107,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Templates / Godot 4
 
 *   [COGITO](https://codeberg.org/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
-*   [Godot C# Template (⭐166)](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
+*   [Godot C# Template (⭐168)](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
 
 ### Plugins and scripts / Godot 4
 
@@ -149,8 +153,8 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Godot Doctor (⭐149)](https://github.com/codevogel/godot_doctor) - A powerful validation plugin for Godot that catches errors in scenes and resources before they reach runtime. Also supports type validation for `PackedScene`s.
 *   [godot-playfab (⭐168)](https://github.com/Structed/godot-playfab) - Use PlayFab as your game's cross-platform backend, with easy analytics.
 *   [Godot Torrent (⭐23)](https://github.com/NodotProject/godot-torrent) - A comprehensive BitTorrent GDExtension for Godot 4, providing full protocol functionality with native C++ performance.
-*   [GodotVMF (⭐380)](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
-*   [Netfox (⭐991)](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
+*   [GodotVMF (⭐384)](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
+*   [Netfox (⭐1k)](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
 *   [Nodot (⭐402)](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
 *   [PlayerConnect (⭐57)](https://github.com/rayzorite/PlayerConnect) - Bug/feedback reporting system for your Godot game. It uses a Discord webhook as a medium to send reports to your desired Discord channel.
 *   [Quill-IDE (⭐37)](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
@@ -208,7 +212,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 4
 
 *   [HCoroutines (⭐52)](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
-*   [ThemeGen (⭐241)](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
+*   [ThemeGen (⭐242)](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
@@ -226,7 +230,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [Event Audio (⭐68)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
+*   [Event Audio (⭐69)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -245,7 +249,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Templates / Godot 4
 
 *   [MechanicalFlower Godot Template (⭐65)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
-*   [Takin Godot Template (⭐472)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐477)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 ### Plugins and scripts / Godot 4
 
@@ -287,7 +291,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 4
 
 *   [Quest Manager (⭐177)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
-*   [Talo (⭐221)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
+*   [Talo (⭐227)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
@@ -330,14 +334,14 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [Godot XR Tools (⭐705)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+*   [Godot XR Tools (⭐707)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 *   [TerraBrush (⭐1.2k)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
 ### 2D / Godot 3
 
-*   [Starship Olympics (⭐523)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [Starship Olympics (⭐525)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 
 ### Plugins and scripts / Godot 4
 
@@ -376,7 +380,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 4
 
 *   [Maaack's Game Template Plugin (⭐1.5k)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
-*   [Maaack's Menus Template (⭐446)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
+*   [Maaack's Menus Template (⭐450)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐72)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
@@ -455,7 +459,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [SignalVisualizer (⭐657)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
+*   [SignalVisualizer (⭐661)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -561,7 +565,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [Scene Manager (⭐596)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
+*   [Scene Manager (⭐605)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 
 ### Plugins and scripts / Godot 3
 
@@ -581,7 +585,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 3
 
-*   [Godot FPS Template (⭐78)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐79)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ### Plugins and scripts / Godot 4
 
@@ -670,7 +674,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Demos / Godot 4
 
-*   [Godot Demo Projects (⭐8.9k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
+*   [Godot Demo Projects (⭐9k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
 *   [TPS Demo (⭐1.3k)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 
 ### Plugins and scripts / Godot 3
@@ -723,7 +727,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 4
 
-*   [Crystal Bit Godot Game Template (⭐918)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Crystal Bit Godot Game Template (⭐925)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 
 ### Plugins and scripts / Godot 3
 
@@ -781,7 +785,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Modules / Godot 3
 
-*   [Flash Module (⭐44)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐45)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 *   [GodotAIGym (⭐233)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
@@ -865,7 +869,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [godot-apple-id (⭐35)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [godotcord (⭐53)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-python (⭐2.1k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [Godot-Slicer (⭐124)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐2.2k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Godot-Slicer (⭐125)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐2.2k)](https://github.com/DavidArayan/ezy-slice) for Godot.
 *   [Goost (⭐497)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐19)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use PortAudio.
 
@@ -895,7 +899,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### 2D / Godot 4
 
 *   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
-*   [Unknown Horizons (⭐877)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
+*   [Unknown Horizons (⭐883)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 ### 2D / Godot 3
 
@@ -1035,7 +1039,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Emacs (⭐392)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐581)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Vim (⭐580)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
@@ -1077,7 +1081,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Syntax themes / Godot version unknown
 
-*   [base16-godot (⭐41)](https://github.com/Calinou/base16-godot) - All [base16 (⭐932)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐41)](https://github.com/Calinou/base16-godot) - All [base16 (⭐938)](https://github.com/chriskempson/base16) themes.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 

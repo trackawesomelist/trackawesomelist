@@ -24,6 +24,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [skizze (⭐772)](https://github.com/skizzehq/skizze) - A probabilistic data structure service and storage.
 
+### Security
+
+*   [pii-shield (⭐147)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+
 ### Server Applications
 
 *   [minio (⭐1.7k)](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service).
@@ -75,7 +79,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Logging
 
-*   [GoLogX (⭐2)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
+*   [GoLogX (⭐4)](https://github.com/AyoubTadlaoui/GoLogX) - Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.
 
 ### Security
 
@@ -87,7 +91,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [govy (⭐45)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
+*   [govy (⭐46)](https://github.com/nobl9/govy) - strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 
 ### Webhooks Server / Libraries for creating HTTP middlewares
 
@@ -599,7 +603,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [leakhound (⭐16)](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
-*   [pii-shield (⭐146)](https://github.com/aragossa/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 *   [pm (⭐1)](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 
 ### Testing Frameworks
@@ -642,7 +645,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### SQL Query Builders
 
-*   [relica (⭐13)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
+*   [relica (⭐15)](https://github.com/coregx/relica) - Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.
 
 ### Generators
 

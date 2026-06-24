@@ -12,6 +12,7 @@ Collections of awesome neovim plugins.
 
 *   [hasansujon786/nvim-navbuddy (⭐75)](https://github.com/hasansujon786/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
 *   [Zeioth/none-ls-autoload.nvim (⭐27)](https://github.com/Zeioth/none-ls-autoload.nvim) - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
+*   [Crysthamus/nvim-file-operations (⭐7)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 
 ### Programming Languages Support / Diagnostics
 
@@ -55,7 +56,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [negativo/nx-nvim (⭐3)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+*   [negativo/nx-nvim (⭐4)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 
 ### Neovim Lua Development / Quickfix
 

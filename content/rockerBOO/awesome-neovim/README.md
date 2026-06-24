@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### LSP
+
+*   [Crysthamus/nvim-file-operations (⭐7)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
+
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
 ### Project / Markdown and LaTeX
@@ -81,7 +87,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [negativo/nx-nvim (⭐3)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+*   [negativo/nx-nvim (⭐4)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 
 ### UI / OS-specific
 

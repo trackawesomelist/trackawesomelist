@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### Software / Bookmarks and Link Sharing
+
+*   [Faved](https://faved.to/) - Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ([Demo](https://demo.faved.to/), [Source Code (⭐1.1k)](https://github.com/denho/faved)) `MIT` `Docker`
+
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -21,12 +27,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Task Management & To-do Lists
 
 *   [Focus Flow (⭐36)](https://github.com/francesco-gaglione/focus_flow_cloud) - Complete ecosystem for time management using the Pomodoro technique. `MIT` `Docker/K8S`
-
-## [Jun 16, 2026](/content/2026/06/16/README.md)
-
-### Software / Bookmarks and Link Sharing
-
-*   [Faved](https://faved.dev/) - Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ([Demo](https://demo.faved.dev/), [Source Code (⭐1.1k)](https://github.com/denho/faved)) `MIT` `Docker`
 
 ## [Jun 13, 2026](/content/2026/06/13/README.md)
 

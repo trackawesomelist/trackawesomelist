@@ -207,6 +207,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [akioweh/lsp-document-highlight.nvim (⭐10)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 *   [nemanjamalesija/ts-expand-hover.nvim (⭐58)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 *   [mason-org/mason.nvim (⭐10k)](https://github.com/mason-org/mason.nvim) - Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [Crysthamus/nvim-file-operations (⭐7)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 
 ### Diagnostics
 
@@ -1321,7 +1322,7 @@ then it is not supported:
 *   [ok97465/ipybridge.nvim (⭐11)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 *   [wsdjeg/code-runner.nvim (⭐5)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 *   [mikeboiko/nvim-flow (⭐6)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
-*   [negativo/nx-nvim (⭐3)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+*   [negativo/nx-nvim (⭐4)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 
 <!--lint disable double-link -->
 

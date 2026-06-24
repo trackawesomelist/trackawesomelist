@@ -6,6 +6,12 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### Software Development
+
+*   [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture) \[44:09]
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Software Development
