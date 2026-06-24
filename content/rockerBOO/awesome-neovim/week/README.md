@@ -22,6 +22,10 @@ Collections of awesome neovim plugins.
 
 *   [zachyarbrough/anchor.nvim (⭐7)](https://github.com/zachyarbrough/anchor.nvim) - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
 
+### Git / GitHub
+
+*   [justinmk/guh.nvim (⭐124)](https://github.com/justinmk/guh.nvim) - View any GitHub object, including CI logs.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### AI / Diagnostics

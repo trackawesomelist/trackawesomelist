@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [pii-shield (⭐147)](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
 
+### Web Frameworks
+
+*   [togo (⭐0)](https://github.com/togo-framework/togo) - Full-stack framework that ships your Go backend and React frontend as a single binary; a Laravel-artisan-grade CLI.
+
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
 ### SQL Query Builders

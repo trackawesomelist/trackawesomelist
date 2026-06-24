@@ -373,7 +373,8 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [thinker (⭐142)](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
 *   [Transarctica-2 (⭐2)](https://github.com/SembeiNorimaki/Transarctica-2) - Remake of the classic game Transarctica (In development)
 *   [triplea (⭐1.5k)](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
-*   [ufoai (⭐0)](https://github.com/gorsing/ufoai) - UFO:Alien Invasion
+*   [Tribal Trouble (⭐39)](https://github.com/Tribal-Trouble/tribaltrouble) - Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.
+*   [ufoai (⭐0)](https://github.com/gorsing/ufoai) - UFO: Alien Invasion
 *   [Ugh-Guys- (⭐1)](https://github.com/atxgreene/Ugh-Guys-) - A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world — Three.js + Vite, three factions, fog of war, pathfinding, and an AI opponent. 100% procedural, no external assets.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
 *   [VanillaConquer (⭐449)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.

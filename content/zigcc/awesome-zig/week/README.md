@@ -8,23 +8,31 @@ A collaborative list of awesome Zig libraries and resources.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
+### Fundamentals / Package and Version Manager
+
+*   [indaco/malt (⭐120)](https://github.com/indaco/malt) - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post\_install and a themeable TUI and CLI.
+
 ### Fundamentals / Utility
 
 *   [mtxr/claude-switch (⭐3)](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
+
+### Data & Science / Large Language Model
+
+*   [ddalcu/mlx-serve (⭐176)](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon (MLX + GGUF) with OpenAI- and Anthropic-compatible APIs; ships MLX Core, a macOS menu-bar app. MIT.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
 ### Language Essentials / String Processing
 
-*   [shaik-abdul-thouhid/ezi-code (⭐0)](https://github.com/shaik-abdul-thouhid/ezi-code) - A comprehensive Unicode library for Zig covering UTF-8/16/32 encoding, normalization (NFC/NFD/NFKC/NFKD), segmentation (grapheme/word/sentence/line), casing, BiDi, collation (UCA/DUCET), and character properties. No dependencies.
+*   [shaik-abdul-thouhid/ezi-code (⭐1)](https://github.com/shaik-abdul-thouhid/ezi-code) - A comprehensive Unicode library for Zig covering UTF-8/16/32 encoding, normalization (NFC/NFD/NFKC/NFKD), segmentation (grapheme/word/sentence/line), casing, BiDi, collation (UCA/DUCET), and character properties. No dependencies.
 
 ### Language Essentials / File Format Processing
 
-*   [shaik-abdul-thouhid/ezi-gex (⭐0)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
+*   [shaik-abdul-thouhid/ezi-gex (⭐3)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 
 ### Network & Web / Web3 Framework
 
-*   [cryptuon/zig-evm (⭐6)](https://github.com/cryptuon/zig-evm) - A high-performance, embeddable EVM with wave-based parallel transaction execution, work-stealing thread pool, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). Targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.
+*   [cryptuon/zig-evm (⭐7)](https://github.com/cryptuon/zig-evm) - A high-performance, embeddable EVM with wave-based parallel transaction execution, work-stealing thread pool, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). Targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -49,15 +57,15 @@ A collaborative list of awesome Zig libraries and resources.
 ### Data & Science / Large Language Model
 
 *   [SMC17/faiss-zig (⭐1)](https://github.com/SMC17/faiss-zig) - Pure-Zig vector similarity search; Flat + HNSW + IVFFlat + IVFPQ. AGPL-3.0.
-*   [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; \~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
-*   [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
+*   [SMC17/safetensors-zig (⭐1)](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; \~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
+*   [SMC17/tokenizers-zig (⭐1)](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 *   [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Network & Web / Web Framework
 
-*   [llllOllOOll/spider (⭐32)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
+*   [llllOllOOll/spider (⭐38)](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 
 ### Multimedia & Graphics / GUI
 
@@ -277,7 +285,7 @@ A collaborative list of awesome Zig libraries and resources.
 
 ### Data & Science / Machine Learning Framework
 
-*   [zml (⭐3.6k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
+*   [zml (⭐3.7k)](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 *   [SilasMarvin/dnns-from-scratch-in-zig (⭐80)](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
 
 ### Multimedia & Graphics / Graphics Library

@@ -6,6 +6,47 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### Government
+
+- API: [eCourtsIndia](https://ecourtsindia.com/api)
+
+  Description: Indian court case status, judgments, and hearing schedule API
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [OpenMercantil](https://openmercantil.es/api/documentacion)
+
+  Description: Spanish company public data and BORME event timelines
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Security
+
+- API: [Domain Intelligence](https://oti-labs.com/domain-intelligence-api)
+
+  Description: DNS, WHOIS/RDAP, SSL, subdomain enumeration, and email security in one parallel call
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
 ## [Jun 20, 2026](/content/2026/06/20/README.md)
 
 ### Cryptocurrency

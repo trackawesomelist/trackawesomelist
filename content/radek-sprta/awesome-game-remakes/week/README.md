@@ -12,6 +12,10 @@ Actively maintained open-source game remakes.
 
 *   [Netrek (⭐20)](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
 
+### Strategy
+
+*   [Tribal Trouble (⭐39)](https://github.com/Tribal-Trouble/tribaltrouble) - Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### FPS
@@ -107,7 +111,7 @@ Actively maintained open-source game remakes.
 *   [thinker (⭐142)](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
 *   [Transarctica-2 (⭐2)](https://github.com/SembeiNorimaki/Transarctica-2) - Remake of the classic game Transarctica (In development)
 *   [triplea (⭐1.5k)](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
-*   [ufoai (⭐0)](https://github.com/gorsing/ufoai) - UFO:Alien Invasion
+*   [ufoai (⭐0)](https://github.com/gorsing/ufoai) - UFO: Alien Invasion
 *   [Ugh-Guys- (⭐1)](https://github.com/atxgreene/Ugh-Guys-) - A browser-based, StarCraft-style asymmetric RTS set in a mythic pre-flood world — Three.js + Vite, three factions, fog of war, pathfinding, and an AI opponent. 100% procedural, no external assets.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
 *   [vaultfront (⭐0)](https://github.com/VaultSparkStudios/vaultfront) - VaultFront is a browser RTS and a derived AGPL fork of OpenFrontIO, itself evolved from WarFront.io. Created with help from ChatGPT 5.4 and Codex.

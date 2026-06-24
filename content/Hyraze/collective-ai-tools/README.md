@@ -6,6 +6,12 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 [ Daily / [Weekly](/content/Hyraze/collective-ai-tools/week/README.md) / [Overview](/content/Hyraze/collective-ai-tools/readme/README.md) ]
 
+## [Jun 24, 2026](/content/2026/06/24/README.md)
+
+### Marketing
+
+*   [Sparkiz.ai](https://sparkiz.ai) - Turn a product link into a ready-to-launch AI video ad (avatars, voiceover, captions) in 60 seconds. `#freemium`
+
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Finance

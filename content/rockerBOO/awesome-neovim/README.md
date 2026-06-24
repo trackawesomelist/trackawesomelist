@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [Crysthamus/nvim-file-operations (⭐7)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 
+### Git / GitHub
+
+*   [justinmk/guh.nvim (⭐124)](https://github.com/justinmk/guh.nvim) - View any GitHub object, including CI logs.
+
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
 ### Project / Markdown and LaTeX

@@ -773,6 +773,7 @@ Use these hashtags in search to filter out the tools
 *   [Qimi](https://qimi.ai/) - Game industry ad production and placement. `#free`
 *   [SE Visible (visible.seranking.com)](https://visible.seranking.com/) - AI brand visibility tracker for search/LLM result coverage. `#paid`
 *   [Socialmon](https://www.socialmon.ai/) - Find viral marketing examples and trends across topics and industries. `#paid`
+*   [Sparkiz.ai](https://sparkiz.ai) - Turn a product link into a ready-to-launch AI video ad (avatars, voiceover, captions) in 60 seconds. `#freemium`
 *   [TikTokalyzer](https://tiktokalyzer.ai/) - TikTok analytics and insights for content performance and trends. `#paid`
 *   [Virbo](https://virbo.wondershare.com/) - digital human customization for personal IP. \`\`
 *   [We-Connect](https://we-connect.io/) - LinkedIn outreach automation with multi-touch sequences and post remixing. `#paid`
