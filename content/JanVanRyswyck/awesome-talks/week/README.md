@@ -10,7 +10,11 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture) \[44:09]
+*   [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture 2026) \[44:09]
+
+### Methodologies
+
+*   [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (Al Agents Montreal) \[01:20:45]
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 

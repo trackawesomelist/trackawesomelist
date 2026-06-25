@@ -12,6 +12,10 @@
 
 *   [ytm-player (⭐411)](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 
+### Productivity / Note Taking, Lists, Task Management
+
+*   [epiq (⭐252)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### AI / Agents
@@ -53,7 +57,7 @@
 
 ### AI / Agents
 
-*   [hcom (⭐336)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+*   [hcom (⭐357)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 
 ## [Jun 01 - Jun 07, 2026](/content/2026/22/README.md)
 

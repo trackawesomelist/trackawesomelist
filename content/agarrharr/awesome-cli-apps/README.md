@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 25, 2026](/content/2026/06/25/README.md)
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [epiq (⭐252)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
 ### Entertainment / Music
@@ -51,7 +57,7 @@
 
 ### AI / Agents
 
-*   [hcom (⭐336)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+*   [hcom (⭐357)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 
 ## [Jun 01, 2026](/content/2026/06/01/README.md)
 

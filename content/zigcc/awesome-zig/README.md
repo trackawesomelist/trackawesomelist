@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jun 25, 2026](/content/2026/06/25/README.md)
+
+### Data & Science / Large Language Model
+
+*   [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
+
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
 ### Fundamentals / Package and Version Manager

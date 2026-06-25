@@ -1,24 +1,59 @@
 # Awesome List Updates on Jun 25, 2026
 
-5 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Methodologies
+
+*   [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (Al Agents Montreal) \[01:20:45]
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Data & Science / Large Language Model
+
+*   [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Educational
+
+*   [Better Simple](https://www.better-simple.com/blog/django/) - Articles from Tim Schilling about Django development, best practices, and the Django ecosystem.
+
+## [4. Awesome List](/content/sindresorhus/awesome/README.md)
+
+### Platforms
+
+*   Linux
+    *   [Containers (⭐2.1k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
+    *   [eBPF (⭐5.1k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+    *   [Arch-based Projects (⭐578)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+    *   [AppImage (⭐586)](https://github.com/AppImageCommunity/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+    *   [Omarchy (⭐377)](https://github.com/aorumbayev/awesome-omarchy#readme) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
+
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [epiq (⭐252)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Google Dorks Tools
 
 *   [AtDork (⭐17)](https://github.com/amnottdevv/atdork) - Professional OSINT dorking tool featuring adaptive delay, circuit breaker, and automatic backend fallback to avoid IP bans and rate limits.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
 *   [sqlex (⭐27)](https://github.com/go-sqlex/sqlex) - Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.
 
-## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### 🔥 Premium Resources | Follow
 
@@ -28,7 +63,7 @@
 
 *   [Doloffer Guide](https://github.com/vsouza/awesome-ios/blob/master/README.md/github.com/Doloffer-g/guide) - DolOffer Official Affiliate & Creator Resources
 
-## [4. Awesome Terminals](/content/cdleon/awesome-terminals/README.md)
+## [9. Awesome Terminals](/content/cdleon/awesome-terminals/README.md)
 
 ### Tools / Node
 
@@ -39,7 +74,7 @@
 
 *   [rustnet (⭐4.5k)](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
 
-## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [10. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 
