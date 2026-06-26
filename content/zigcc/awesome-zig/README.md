@@ -6,6 +6,12 @@ A collaborative list of awesome Zig libraries and resources.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Jun 26, 2026](/content/2026/06/26/README.md)
+
+### Language Essentials / File Format Processing
+
+*   [zoptia/zoptia0regex (⭐0)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
+
 ## [Jun 25, 2026](/content/2026/06/25/README.md)
 
 ### Data & Science / Large Language Model

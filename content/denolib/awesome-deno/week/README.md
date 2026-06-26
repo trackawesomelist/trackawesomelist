@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Modules / Utils
+
+*   [csv-pipe (⭐9)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Modules / Utils
@@ -542,10 +548,6 @@ Curated list of awesome things related to Deno
 ### Modules / Static site generator
 
 *   [lume (⭐2.3k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
-
-### Showcases / XML
-
-*   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 

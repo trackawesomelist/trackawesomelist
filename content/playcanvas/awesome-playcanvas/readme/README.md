@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 447 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 462 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -43,11 +43,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [PlayCanvas Engine (⭐16k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
-*   [PlayCanvas React (⭐501)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐97)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas React (⭐509)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐98)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
-*   [Texture Tool (⭐13)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐779)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [Texture Tool (⭐14)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐780)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
@@ -80,8 +80,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Extensions and Utilities
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
-*   [Kinematic Character Controller (⭐6)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
-*   [playcanvas-ar (⭐254)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARToolkit.
+*   [Kinematic Character Controller (⭐8)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
+*   [playcanvas-ar (⭐255)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARToolkit.
 *   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 *   [playcanvas-p2.js (⭐24)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-rest-api-tools (⭐30)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
@@ -250,14 +250,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
 *   [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 *   [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
-*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 *   [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 *   [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
 *   [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 *   [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 *   [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
+*   [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 *   [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
-*   [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f\&tab=-1) - Exterior views for residential property listings.
 *   [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 *   [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 *   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
@@ -306,5 +305,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐447)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐464)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

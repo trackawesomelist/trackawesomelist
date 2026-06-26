@@ -15,6 +15,7 @@ Actively maintained open-source game remakes.
 ### Strategy
 
 *   [Tribal Trouble (⭐39)](https://github.com/Tribal-Trouble/tribaltrouble) - Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license.
+*   [Wages of War (⭐0)](https://github.com/suhteevah/wages-of-war) - A clean-room, open-source Rust reverse enginering of the Wages of War: The Business of Battle (1996) engine.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -116,7 +117,6 @@ Actively maintained open-source game remakes.
 *   [Unvanquished (⭐1.1k)](https://github.com/Unvanquished/Unvanquished) - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
 *   [vaultfront (⭐0)](https://github.com/VaultSparkStudios/vaultfront) - VaultFront is a browser RTS and a derived AGPL fork of OpenFrontIO, itself evolved from WarFront.io. Created with help from ChatGPT 5.4 and Codex.
 *   [vera20k (⭐6)](https://github.com/Yrvera/vera20k) - Red Alert 2: Yuri's Revenge — rebuilt from scratch in Rust for large multiplayer battles.
-*   [wages-of-war (⭐0)](https://github.com/suhteevah/wages-of-war) - **A clean-room, open-source Rust reverse enginering of the *Wages of War: The Business of Battle* (1996) engine.**
 *   [war1 (⭐148)](https://github.com/acoto87/war1) - A remake of Warcraft: Orcs & Humans written in C
 *   [War8 (⭐0)](https://github.com/qFlavius/War8) - Turn-based abstract board game built with C++ and SFML, based on "Război în 8" from Nicolae Oprișiu’s "Olimpiada Jocurilor Raționale" ("The Olympiad of Rational Games", Chapter 10). Includes PvP, PvC, CvC, turn timer, HUD, leaderboard, themes, and Easy/Hard AI.
 *   [WarKingdoms (⭐240)](https://github.com/skyteks/WarKingdoms) - Unity RTS Prototype (Warcraft 3 Style)

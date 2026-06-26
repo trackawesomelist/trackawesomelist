@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Providers / Community providers
+
+*   [terraform-provider-coolify (⭐3)](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Tools / Community providers

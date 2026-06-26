@@ -16,6 +16,10 @@ A collaborative list of awesome Zig libraries and resources.
 
 *   [mtxr/claude-switch (⭐3)](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
 
+### Language Essentials / File Format Processing
+
+*   [zoptia/zoptia0regex (⭐0)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
+
 ### Data & Science / Large Language Model
 
 *   [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.

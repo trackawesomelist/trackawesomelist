@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Plugins
+
+*   💼 [tw-fade (⭐49)](https://github.com/petekp/tw-fade) - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
+
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
 ### Tools
@@ -16,7 +22,7 @@
 
 ### Plugins
 
-*   💼 [tailwind-hitslop (⭐1)](https://github.com/Jubstaaa/tailwind-hitslop) - Adds `hit-slop` utilities to invisibly expand touch targets, like React Native's `hitSlop`.
+*   💼 [tailwind-hitslop (⭐6)](https://github.com/Jubstaaa/tailwind-hitslop) - Adds `hit-slop` utilities to invisibly expand touch targets, like React Native's `hitSlop`.
 
 ## [Apr 20 - Apr 26, 2026](/content/2026/16/README.md)
 
@@ -34,7 +40,7 @@
 
 ### Tools
 
-*   🔼 [Tailwind to Inline styles converter (⭐96)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
+*   🔼 [Tailwind to Inline styles converter (⭐98)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
 
 ## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
 
@@ -60,14 +66,14 @@
 *   💙📁 [Catalyst](https://tailwindcss.com/plus/ui-kit) - Beautiful, accessible application UI kit for React.
 *   🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 *   🧩 [Ripple UI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
-*   🧩 [Xtend UI (⭐450)](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
+*   🧩 [Xtend UI (⭐451)](https://github.com/xtendui/xtendui) - Tailwind CSS components with advanced interactions and animations.
 *   📚 [Date picker (⭐148)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 *   📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 
 ### Plugins
 
-*   💼 [Bootstrap grid (⭐188)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
-*   💼 [Dot & grid backgrounds (⭐37)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+*   💼 [Bootstrap grid (⭐187)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+*   💼 [Dot & grid backgrounds (⭐38)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 *   💼 [px to viewport (⭐9)](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
@@ -92,7 +98,7 @@
 
 ### IDE extensions
 
-*   [Editor support for VS2022 (⭐145)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
+*   [Editor support for VS2022 (⭐147)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -126,7 +132,7 @@
 
 ### UI libraries, components & templates
 
-*   📁 [Astro Template Dante (⭐497)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+*   📁 [Astro Template Dante (⭐499)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -141,7 +147,7 @@
 
 ### Plugins
 
-*   🧩 [Debug screens (⭐676)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
+*   🧩 [Debug screens (⭐675)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -159,7 +165,7 @@
 
 ### UI libraries, components & templates
 
-*   📁 [Astro Template Cactus (⭐1.6k)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐1.7k)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -173,7 +179,7 @@
 
 ### IDE extensions
 
-*   [LSP support for Emacs (⭐223)](https://github.com/merrickluo/lsp-tailwindcss) - Provides IntelliSense in Emacs.
+*   [LSP support for Emacs (⭐222)](https://github.com/merrickluo/lsp-tailwindcss) - Provides IntelliSense in Emacs.
 
 ### Tools
 
@@ -199,7 +205,7 @@
 
 ### UI libraries, components & templates
 
-*   📁 [Flowbite Admin Dashboard (⭐2.8k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+*   📁 [Flowbite Admin Dashboard (⭐2.9k)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -211,7 +217,7 @@
 
 ### Plugins
 
-*   🎨 [Themer (⭐312)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨 [Themer (⭐313)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -286,14 +292,14 @@
 ### Useful links
 
 *   💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
-*   💙 [Repository (⭐95k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+*   💙 [Repository (⭐96k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
 *   💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 *   [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 
 ### Tools
 
 *   🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
-*   🔼 [RustyWind (⭐617)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+*   🔼 [RustyWind (⭐616)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 
 ### UI libraries, components & templates

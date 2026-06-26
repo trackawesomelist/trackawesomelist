@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jun 26, 2026](/content/2026/06/26/README.md)
+
+### Command-line
+
+*   [newfolder (⭐0)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
+
 ## [Jun 21, 2026](/content/2026/06/21/README.md)
 
 ### Command-line

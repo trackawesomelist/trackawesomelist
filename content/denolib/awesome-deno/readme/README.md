@@ -194,6 +194,7 @@ This list is a collection of the best Deno modules and resources.
 *   [colors (⭐7)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 *   [computed\_types (⭐360)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [croner (⭐2.6k)](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+*   [csv-pipe (⭐9)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
 *   [deno-config (⭐6)](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
 *   [deno\_kv\_fs (⭐17)](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
 *   [denon (⭐1.1k)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
@@ -275,7 +276,6 @@ This list is a collection of the best Deno modules and resources.
 *   [GitHub Profile Trophy (⭐6.6k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 *   [ShopSavvy Deno Deploy (⭐0)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 *   [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
-*   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
