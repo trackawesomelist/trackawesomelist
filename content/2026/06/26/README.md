@@ -1,42 +1,62 @@
 # Awesome List Updates on Jun 26, 2026
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
+
+### Data Structures / Text-Based User Interfaces
+
+*   [HashSmith (⭐104)](https://github.com/bluuewhale/hash-smith) - Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
+
+### PDF / Text-Based User Interfaces
+
+*   [jquick-pdf (⭐224)](https://github.com/paohaijiao/jquick-pdf) - Generates PDFs from HTML-like templates and ECharts-style charts using iText 7, without a browser dependency.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Markup language
+
+*   [bruits/satteri (⭐560)](https://github.com/bruits/satteri) \[[satteri](https://crates.io/crates/satteri)] - High-performance Markdown and MDX processing. Parses and compiles in Rust, runs plugins in JavaScript. Includes CommonMark parser with MDX extensions, MDAST/HAST tree operations, and NAPI bindings for JavaScript interop.
+
+## [3. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ### Frameworks
 
 *   [rust-norion (⭐12)](https://github.com/yanghao1143/rust-norion) - Rust prototype for building agent runtime control layers with memory gates, model routing policy, audit evidence, and self-evolution loop tooling.
 
-## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+## [4. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ### Language Essentials / File Format Processing
 
 *   [zoptia/zoptia0regex (⭐0)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
 
-## [3. Awesome V](/content/vlang/awesome-v/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
 *   [newfolder (⭐0)](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Advanced Console UIs
+
+*   [go-tui (⭐366)](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework with templ-like templates, flexbox layout, and a language server for editor support.
 
 ### Utilities
 
 *   [gh-image (⭐103)](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads images to GitHub issues, PRs, and READMEs from the command line, producing user-attachments URLs that respect repository visibility.
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [csv-pipe (⭐9)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screen Recording
 
@@ -50,7 +70,7 @@
 
 *   [Pesty (⭐2)](https://github.com/momenbasel/pesty) - Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/momenbasel/pesty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Native App](https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App")
 
-## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [9. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Next-Generation Codecs AV1 VVC
 
@@ -86,25 +106,25 @@
 
 *   [VTM Decoder VLC Plugin (⭐24)](https://github.com/InterDigitalInc/VTMDecoder_VLCPlugin) - VVC (H.266) video decoder plugin for VLC Media Player based on a multithreaded VTM decoder implementation. Includes TS demux plugin with VVC stream format support. Enables VVC playback in VLC with configurable threading and hurry-up mode.
 
-## [8. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Strategy
 
 *   [Wages of War (⭐0)](https://github.com/suhteevah/wages-of-war) - A clean-room, open-source Rust reverse enginering of the Wages of War: The Business of Battle (1996) engine.
 
-## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables
 
 *   [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 
-## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼 [tw-fade (⭐49)](https://github.com/petekp/tw-fade) - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
 
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Community providers
 

@@ -6,6 +6,16 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Jun 26, 2026](/content/2026/06/26/README.md)
+
+### Data Structures / Text-Based User Interfaces
+
+*   [HashSmith (⭐104)](https://github.com/bluuewhale/hash-smith) - Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
+
+### PDF / Text-Based User Interfaces
+
+*   [jquick-pdf (⭐224)](https://github.com/paohaijiao/jquick-pdf) - Generates PDFs from HTML-like templates and ECharts-style charts using iText 7, without a browser dependency.
+
 ## [Jun 21, 2026](/content/2026/06/21/README.md)
 
 ### Artificial Intelligence
@@ -588,7 +598,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐525)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐526)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
 ### Distribution / Text-Based User Interfaces
 
@@ -699,7 +709,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [Svix (⭐3.2k)](https://github.com/svix/svix-webhooks/tree/main/java) - Library for the Svix API to send webhooks and verify signatures.
+*   [Svix (⭐3.3k)](https://github.com/svix/svix-webhooks/tree/main/java) - Library for the Svix API to send webhooks and verify signatures.
 
 ### Monitoring / Text-Based User Interfaces
 
