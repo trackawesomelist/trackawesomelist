@@ -260,7 +260,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [updo (⭐994)](https://github.com/Owloops/updo) - Website monitoring tool.
 *   [cronboard (⭐1.4k)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 *   [s3m (⭐56)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
-*   [bencher (⭐852)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐860)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
@@ -269,8 +269,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
-*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-*   [kool (⭐721)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [decompose (⭐135)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐722)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -365,7 +365,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [nb (⭐8.2k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 *   [notesmd-cli (⭐1.5k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 *   [journalot (⭐92)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
-*   [rucola (⭐501)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐505)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐948)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 *   [kanban (⭐127)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 *   [gtasks (⭐156)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
@@ -413,7 +413,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [alex (⭐5.1k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 *   [clevercli (⭐165)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 *   [OctoType (⭐97)](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
-*   [gittype (⭐1.4k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+*   [gittype (⭐1.5k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 *   [amazon-orders (⭐150)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
@@ -744,7 +744,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### GitHub
 
-*   [CLI GitHub (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+*   [gh](https://cli.github.com) - Official client (see [extensions (⭐427)](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+*   [cli-github (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 *   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
 *   [git-labelmaker (⭐576)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
@@ -823,7 +824,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### Agents
 
 *   [greywall (⭐244)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐2.6k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐2.7k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐358)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐88)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 *   [Shep (⭐210)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.

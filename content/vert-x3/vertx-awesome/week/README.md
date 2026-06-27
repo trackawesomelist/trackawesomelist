@@ -6,7 +6,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 [ [Daily](/content/vert-x3/vertx-awesome/README.md) / Weekly / [Overview](/content/vert-x3/vertx-awesome/readme/README.md) ]
 
-## [May 25 - May 31, 2026](/content/2026/21/README.md)
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Microservices
 
@@ -16,7 +16,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Game development
 
-*   [Orbital](https://github.com/tfkfan/orbital) - Vert.x based reactive distributed game server and battle-royale multiplayers development tool. Orbital contains basic extensible matchmaker, game/game room management, websocket integration and game lifecycle management features. Closest to "Colyseus" game engine competitor. [Docs](https://tfkfan.github.io/orbital).
+*   [Orbital (⭐24)](https://github.com/tfkfan/orbital) - Vert.x based reactive distributed game server and battle-royale multiplayers development tool. Orbital contains basic extensible matchmaker, game/game room management, websocket integration and game lifecycle management features. Closest to "Colyseus" game engine competitor. [Docs](https://tfkfan.github.io/orbital).
 
 ## [Nov 04 - Nov 10, 2024](/content/2024/45/README.md)
 
@@ -38,19 +38,19 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Microservices
 
-*   [SmallRye Fault Tolerance (⭐111)](https://github.com/smallrye/smallrye-fault-tolerance) - SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of [Vert.x](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html) and [Mutiny](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/reference/asynchronous.html#async-types).
+*   [SmallRye Fault Tolerance (⭐112)](https://github.com/smallrye/smallrye-fault-tolerance) - SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of [Vert.x](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html) and [Mutiny](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/reference/asynchronous.html#async-types).
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth SQL](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
+*   [Vert.x Auth SQL (⭐174)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
 ### Web Frameworks
 
-*   [vertx-rest (⭐48)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
+*   [vertx-rest (⭐49)](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -73,10 +73,10 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Authentication Authorisation
 
-*   [Vert.x Auth JWT](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
-*   [Vert.x Auth htdigest](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
-*   [Vert.x Auth OAuth2](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
-*   [Vert.x Auth htpasswd](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
+*   [Vert.x Auth JWT (⭐174)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation based on JSON Web Tokens.
+*   [Vert.x Auth htdigest (⭐174)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
+*   [Vert.x Auth OAuth2 (⭐174)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
+*   [Vert.x Auth htpasswd (⭐174)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -88,7 +88,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Utilities
 
-*   [Vert.x JsonPath (⭐11)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
+*   [Vert.x JsonPath (⭐12)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
@@ -100,7 +100,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Build tools
 
-*   [Vert.x Maven plugin (⭐80)](https://github.com/reactiverse/vertx-maven-plugin)
+*   [Vert.x Maven plugin (⭐81)](https://github.com/reactiverse/vertx-maven-plugin)
 
 ### Middleware
 
@@ -112,12 +112,12 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Examples
 
-*   [Knative (⭐5k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐153)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
+*   [Knative (⭐5.1k)](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x (⭐154)](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
 
 ### Utilities
 
 *   [Chime (⭐29)](https://github.com/LisiLisenok/Chime) - Time scheduler working on Vert.x event bus allowing for scheduling with *cron-style* and *interval* timers.
-*   [Vert.x Scheduler (⭐13)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
+*   [Vert.x Scheduler (⭐14)](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
 
 ### Presentations
 
@@ -145,7 +145,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Web Frameworks
 
-*   [SCX](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
+*   [SCX (⭐4)](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
@@ -153,9 +153,10 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 *   NoSQL Databases
     *   [MongoDB (⭐63)](https://github.com/vert-x3/vertx-mongo-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - An asynchronous client for interacting with a MongoDB database.
-    *   [Redis (⭐139)](https://github.com/vert-x3/vertx-redis-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous API to interact with Redis.
+    *   [Redis (⭐140)](https://github.com/vert-x3/vertx-redis-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous API to interact with Redis.
     *   [Cassandra (⭐34)](https://github.com/vert-x3/vertx-cassandra-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Vert.x client allowing applications to interact with a Cassandra service.
-    *   [Cassandra (⭐39)](https://github.com/englishtown/vertx-cassandra) - Asynchronous API to interact with Cassandra and Cassandra Mapping.
+    *   [Cassandra (⭐40)](https://github.com/englishtown/vertx-cassandra) - Asynchronous API to interact with Cassandra and Cassandra Mapping.
+    *   [Neo4j Java Driver Vert.x (⭐0)](https://github.com/romanbsd/neo4j-java-driver-vertx) - Vert.x wrapper around the Neo4j Java Driver.
     *   [OrientDB (⭐7)](https://github.com/cstamas/vertx-orientdb) - Non-blocking OrientDB server integration.
     *   [Bitsy (⭐1)](https://github.com/cstamas/vertx-bitsy) - Non-blocking Bitsy Graph server integration.
     *   [MarkLogic (⭐2)](https://github.com/etourdot/vertx-marklogic) - Asynchronous client for Marklogic Database Server.
@@ -163,7 +164,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
     *   [DGraph (⭐1)](https://github.com/aesteve/vertx-dgraph-client) - An example on how to build a Vert.x gRPC compliant client. Here targeting [dgraph](https://docs.dgraph.io)
     *   [RxFirestore (⭐9)](https://github.com/pjgg/rxfirestore) - Non-blocking Firestore SDK written in a reactive way.
     *   [MongoDB (⭐0)](https://github.com/imrafaelmerino/vertx-mongo-effect) - Pure functional and reactive MongoDB client on top of [Vert.x Effect (⭐0)](https://github.com/imrafaelmerino/vertx-mongo-effect). Full support for retry, fallback and recovery operations.
-    *   [Aerospike (⭐31)](https://github.com/dream11/vertx-aerospike-client) - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's (⭐245)](https://github.com/aerospike/aerospike-client-java) async commands internally and handles the result on the Vert.x Context.
+    *   [Aerospike (⭐32)](https://github.com/dream11/vertx-aerospike-client) - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's (⭐245)](https://github.com/aerospike/aerospike-client-java) async commands internally and handles the result on the Vert.x Context.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -176,14 +177,14 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Database Clients
 
 *   Relational Databases
-    *   [Reactive SQL Client (⭐910)](https://github.com/eclipse-vertx/vertx-sql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
-    *   [JDBC (⭐130)](https://github.com/vert-x3/vertx-jdbc-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
-    *   [MySQL / PostgreSQL (⭐120)](https://github.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
+    *   [Reactive SQL Client (⭐911)](https://github.com/eclipse-vertx/vertx-sql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
+    *   [JDBC (⭐131)](https://github.com/vert-x3/vertx-jdbc-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
+    *   [MySQL / PostgreSQL (⭐121)](https://github.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
     *   [PostgreSQL (⭐75)](https://github.com/vietj/reactive-pg-client) - Reactive PostgreSQL Client.
     *   [database (⭐43)](https://github.com/susom/database) - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
-    *   [jOOQ (⭐390)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
-    *   [jOOQx](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
-    *   [Exposed Vert.x SQL Client (⭐9)](https://github.com/huanshankeji/exposed-vertx-sql-client) - Kotlin's [Exposed (⭐9.2k)](https://github.com/JetBrains/Exposed) on top of [Vert.x Reactive SQL Client (⭐910)](https://github.com/eclipse-vertx/vertx-sql-client).
+    *   [jOOQ (⭐391)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
+    *   [jOOQx (⭐34)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
+    *   [Exposed Vert.x SQL Client (⭐10)](https://github.com/huanshankeji/exposed-vertx-sql-client) - Kotlin's [Exposed (⭐9.3k)](https://github.com/JetBrains/Exposed) on top of [Vert.x Reactive SQL Client (⭐911)](https://github.com/eclipse-vertx/vertx-sql-client).
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
@@ -203,24 +204,23 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 *   Messaging
     *   [AMQP 1.0 (⭐8)](https://github.com/vert-x3/vertx-amqp-bridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Interact with AMQP 1.0 servers using the Vert.x Producer and Consumer APIs.
-    *   [MQTT (⭐211)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
-    *   [RabbitMQ (⭐75)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
-    *   [Kafka Client (⭐89)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
+    *   [MQTT (⭐214)](https://github.com/vert-x3/vertx-mqtt) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Provides two different components: an MQTT server for handling all the MQTT communication and messages exchanges with clients and an MQTT client for sending and receiving messages against an MQTT broker.
+    *   [RabbitMQ (⭐76)](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
+    *   [Kafka Client (⭐90)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
     *   [kafka (⭐31)](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
-    *   [SaltStack (⭐2)](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
     *   [STOMP (⭐36)](https://github.com/vert-x3/vertx-stomp) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
     *   [ZeroMQ (⭐13)](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
     *   [Azure ServiceBus (⭐0)](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/products/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
-    *   [AMQP 1.0 - Kafka bridge (⭐333)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
-    *   [Vert.x Kafka Client (⭐89)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
+    *   [AMQP 1.0 - Kafka bridge (⭐335)](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
+    *   [Vert.x Kafka Client (⭐90)](https://github.com/vert-x3/vertx-kafka-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
     *   [The White Rabbit (⭐130)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
-    *   [WAMP Broker](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
+    *   [WAMP Broker (⭐2)](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Build tools
 
-*   [Vert.x Codegen Gradle plugin](https://github.com/bulivlad/vertx-codegen-plugin) - A Gradle plugin to facilitate the codegen usage for Vert.x Java projects.
+*   [Vert.x Codegen Gradle plugin (⭐9)](https://github.com/bulivlad/vertx-codegen-plugin) - A Gradle plugin to facilitate the codegen usage for Vert.x Java projects.
 
 ### Middleware
 
@@ -241,7 +241,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Web Frameworks
 
 *   [Vert.x Web (⭐1.1k)](https://github.com/vert-x3/vertx-web)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Full featured web toolkit for Vert.x.
-*   [Cloudopt Next (⭐349)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
+*   [Cloudopt Next (⭐350)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 
 ### Authentication Authorisation
 
@@ -254,15 +254,15 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 *   [Java (⭐15k)](https://github.com/eclipse/vert.x) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x main repository (including the Java API).
 *   [JavaScript (⭐35)](https://github.com/vert-x3/vertx-lang-js) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
 *   [Ruby (⭐15)](https://github.com/vert-x3/vertx-lang-ruby) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ruby support.
-*   [Scala (⭐123)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
-*   [Kotlin (⭐298)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
+*   [Scala (⭐124)](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
+*   [Kotlin (⭐301)](https://github.com/vert-x3/vertx-lang-kotlin) - <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
 
 ### Reactive
 
 *   [Reactive Streams (⭐50)](https://github.com/vert-x3/vertx-reactive-streams) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Streams.
-*   [Vert.x Rx (⭐153)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
+*   [Vert.x Rx (⭐154)](https://github.com/vert-x3/vertx-rx) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Reactive Extensions.
 *   [Vert.x Sync (⭐99)](https://github.com/vert-x3/vertx-sync) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x fiber support.
-*   [Kotlin coroutines (⭐298)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
+*   [Kotlin coroutines (⭐301)](https://github.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x support for Kotlin coroutines.
 
 ### Vert.x Event Bus Clients
 
@@ -270,7 +270,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Cluster Managers
 
-*   [Hazelcast Cluster Manager (⭐81)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
+*   [Hazelcast Cluster Manager (⭐82)](https://github.com/vert-x3/vertx-hazelcast) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Hazelcast cluster manager.
 *   [Ignite Cluster Manager (⭐34)](https://github.com/vert-x3/vertx-ignite) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ignite cluster manager.
 *   [Zookeeper Cluster Manager (⭐75)](https://github.com/vert-x3/vertx-zookeeper) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 *   [Infinispan Cluster Manager (⭐16)](https://github.com/vert-x3/vertx-infinispan) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Infinispan cluster manager.
@@ -278,20 +278,20 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Cloud Support
 
 *   [OpenShift DIY cartridge (⭐1)](https://github.com/vert-x3/vertx-openshift-diy-quickstart) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift DIY Cartridge using Vert.x.
-*   [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift Vert.x Cartridge using Vert.x.
+*   [OpenShift Vert.x cartridge (⭐20)](https://github.com/vert-x3/vertx-openshift-cartridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift Vert.x Cartridge using Vert.x.
 
 ### Microservices
 
-*   [Service Discovery (⭐119)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
-*   [Circuit Breaker (⭐65)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
-*   [Service Discovery - Consul (⭐119)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Docker links (⭐119)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Kubernetes (⭐119)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
-*   [Service Discovery - Redis backend (⭐119)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
+*   [Service Discovery (⭐120)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
+*   [Circuit Breaker (⭐67)](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
+*   [Service Discovery - Consul (⭐120)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Docker links (⭐120)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Kubernetes (⭐120)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
+*   [Service Discovery - Redis backend (⭐120)](https://github.com/vert-x3/vertx-service-discovery) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
 
 ### Service Factory
 
-*   [Service Factory (⭐22)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
+*   [Service Factory (⭐23)](https://github.com/vert-x3/vertx-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
 *   [Maven Service Factory (⭐13)](https://github.com/vert-x3/vertx-maven-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Maven Vert.x Service Factory.
 *   [HTTP Service Factory (⭐9)](https://github.com/vert-x3/vertx-http-service-factory) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x HTTP Service Factory.
 
@@ -307,7 +307,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Distribution
 
-*   [Vert.x Stack (⭐122)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
+*   [Vert.x Stack (⭐123)](https://github.com/vert-x3/vertx-stack) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x + the endorsed modules.
 
 ### Examples
 
@@ -327,7 +327,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Utilities
 
-*   [Vert.x CronUtils (⭐25)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
+*   [Vert.x CronUtils (⭐26)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
 
@@ -345,7 +345,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Cloud Support
 
-*   [AWS SDK (⭐50)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
+*   [AWS SDK (⭐51)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -373,13 +373,13 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Language Support
 
-*   [EcmaScript (⭐892)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
+*   [EcmaScript (⭐891)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
 ### Dependency Injection
 
-*   [QBit (⭐708)](https://github.com/advantageous/qbit) - QBit works with Spring DI and Spring Boot (and of course Vert.x). Allows you to use QBit, Vert.x, Spring DI and Spring Boot in the same application.
+*   [QBit (⭐707)](https://github.com/advantageous/qbit) - QBit works with Spring DI and Spring Boot (and of course Vert.x). Allows you to use QBit, Vert.x, Spring DI and Spring Boot in the same application.
 
 ### Integration
 
@@ -388,7 +388,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 *   Push Notifications
     *   [Onesignal (⭐15)](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
 *   CNCF CloudEvents
-    *   [CloudEvents.io Java SDK (⭐438)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐438)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+    *   [CloudEvents.io Java SDK (⭐441)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐441)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
 
 ### Config
 
@@ -420,7 +420,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Web Frameworks
 
-*   [Vert.x Vaadin (⭐44)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
+*   [Vert.x Vaadin (⭐45)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -444,7 +444,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Web Frameworks
 
-*   [Atmosphere Vert.x (⭐43)](https://github.com/Atmosphere/atmosphere-vertx) - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
+*   [Atmosphere Vert.x (⭐44)](https://github.com/Atmosphere/atmosphere-vertx) - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
 
 ### Middleware
 
@@ -452,24 +452,24 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Miscellaneous
 
-*   [GDH (⭐33)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
+*   [GDH (⭐34)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
 
 ### Examples
 
 *   [Vert.x Music Store (⭐69)](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava.
-*   [Vert.x PostgreSQL Starter (⭐34)](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
+*   [Vert.x PostgreSQL Starter (⭐36)](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
 
 ### Miscellaneous
 
-*   [Vert.x Boot (⭐43)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
+*   [Vert.x Boot (⭐45)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 
 ### Web Frameworks
 
-*   [REST.VertX (⭐167)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
+*   [REST.VertX (⭐168)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
 
 ## [Dec 11 - Dec 17, 2017](/content/2017/50/README.md)
 
@@ -486,8 +486,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Integration
 
 *   Mail
-    *   [SMTP](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
-    *   [vertx-smtp-server (⭐5)](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
+    *   [SMTP (⭐39)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
@@ -509,7 +508,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Utilities
 
-*   [Vert.x GraphQL Utils (⭐23)](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
+*   [Vert.x GraphQL Utils (⭐25)](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
 
 ## [Aug 28 - Sep 03, 2017](/content/2017/35/README.md)
 
@@ -527,7 +526,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Examples
 
-*   [Crabzilla](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
+*   [Crabzilla (⭐75)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
 ## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
 
@@ -540,8 +539,8 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Integration
 
 *   Server-Sent Events
-    *   [jEaSSE (⭐67)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
-    *   [vertx-sse (⭐49)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
+    *   [jEaSSE (⭐68)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+    *   [vertx-sse (⭐50)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
@@ -622,7 +621,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 *   [Vert.x Todo-Backend implementation (⭐5)](https://github.com/aesteve/todo-backend-vertx) - Pure Java 8 implementation of the Todo MVC backend. Uses a Vert.x LocalMap for storage.
 *   [Kotlin Todo-Backend implementation (⭐7)](https://github.com/aesteve/vertx-kotlin-todomvc) - Kotlin implementation of the Todo MVC backend.
 *   [Scala Todo-Backend implementation (⭐1)](https://github.com/aesteve/vertx-scala-todomvc) - Scala implementation of the Todo MVC backend.
-*   [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
+*   [Grooveex Todo-Backend implementation (⭐1)](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
 
@@ -654,7 +653,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐134)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [Jul 25 - Jul 31, 2016](/content/2016/30/README.md)
 
@@ -667,16 +666,16 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Microservices
 
-*   [Vert.x GraphQL Service Discovery (⭐52)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) service discovery and querying for your Vert.x microservices.
+*   [Vert.x GraphQL Service Discovery (⭐53)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) service discovery and querying for your Vert.x microservices.
 
 ## [Jul 11 - Jul 17, 2016](/content/2016/28/README.md)
 
 ### Web Frameworks
 
-*   [Vert.x Jersey (⭐154)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://eclipse-ee4j.github.io/jersey/) resources in Vert.x.
+*   [Vert.x Jersey (⭐155)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://eclipse-ee4j.github.io/jersey/) resources in Vert.x.
 *   [Handlers (⭐11)](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 *   [vertx-rest-storage (⭐19)](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
-*   [Jubilee](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
+*   [Jubilee (⭐326)](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
 
 ### Database Clients
 
@@ -692,7 +691,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 *   Metrics
     *   [Hawkular metrics (⭐5)](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
     *   [DropWizard metrics (⭐34)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
-    *   [Micrometer metrics (⭐54)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
+    *   [Micrometer metrics (⭐55)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
     *   [OpenTsDb Metrics (⭐11)](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
     *   [Bosun Monitoring (⭐3)](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -711,8 +710,8 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Vert.x Event Bus Clients
 
 *   [C++11 (⭐17)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
-*   [Java (⭐19)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
-*   [Java (⭐22)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
+*   [Java (⭐20)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
+*   [Java (⭐23)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
 *   [CLI (⭐2)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 
 ### Cluster Managers
@@ -729,9 +728,9 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Dependency Injection
 
-*   [Vert.x Guice (⭐62)](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
-*   [Vert.x HK2 (⭐31)](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
-*   [Spring Vert.x Extension](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
+*   [Vert.x Guice (⭐63)](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
+*   [Vert.x HK2 (⭐32)](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
+*   [Spring Vert.x Extension (⭐50)](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
 *   [Vert.x Beans (⭐26)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
 
 ### Miscellaneous
@@ -740,7 +739,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Examples
 
-*   [Vert.x feeds (⭐131)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
+*   [Vert.x feeds (⭐132)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
 *   [Example using event bus and service proxies to connect vertx and node (⭐46)](https://github.com/advantageous/vertx-node-ec2-eventbus-example) - Step by step example with wiki description showing how to connect Vert.x and Node using event bus and service proxies.
 
 ### Deployment
@@ -749,7 +748,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Utilities
 
-*   [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
+*   [Vert.x POJO config (⭐3)](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 
 ## [Jun 27 - Jul 03, 2016](/content/2016/26/README.md)
 
@@ -771,13 +770,13 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ### Miscellaneous
 
-*   [Vert.x Child Process (⭐55)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
+*   [Vert.x Child Process (⭐57)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 
 ## [Oct 19 - Oct 25, 2015](/content/2015/42/README.md)
 
 ### Development Tools
 
-*   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+*   [Vert.x Hot (⭐49)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
 ## [Sep 07 - Sep 13, 2015](/content/2015/36/README.md)
 

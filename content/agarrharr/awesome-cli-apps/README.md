@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 27, 2026](/content/2026/06/27/README.md)
+
+### Version Control / GitHub
+
+*   [gh](https://cli.github.com) - Official client (see [extensions (⭐427)](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+*   [cli-github (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+
 ## [Jun 25, 2026](/content/2026/06/25/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management
@@ -116,7 +123,7 @@
 
 ### Utilities / Calendars
 
-*   [gittype (⭐1.4k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+*   [gittype (⭐1.5k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ## [May 10, 2026](/content/2026/05/10/README.md)
 
@@ -230,7 +237,7 @@
 
 ### Development / Docker
 
-*   [kool (⭐721)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [kool (⭐722)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -268,11 +275,11 @@
 
 ### Development / Devops
 
-*   [bencher (⭐852)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐860)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Development / Docker
 
-*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [decompose (⭐135)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Development / Npm
 
@@ -294,7 +301,7 @@
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [notesmd-cli (⭐1.5k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
-*   [rucola (⭐501)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐505)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 
 ### Utilities / Calendars
 
@@ -362,7 +369,7 @@
 ### AI / Agents
 
 *   [greywall (⭐244)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐2.6k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐2.7k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐358)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐88)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
@@ -1062,7 +1069,6 @@
 
 ### Version Control / GitHub
 
-*   [CLI GitHub (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 *   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
 *   [git-labelmaker (⭐576)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 

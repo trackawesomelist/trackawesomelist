@@ -6,6 +6,12 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 [ [Daily](/content/awesome-mqtt/awesome-mqtt/README.md) / Weekly / [Overview](/content/awesome-mqtt/awesome-mqtt/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Tools
+
+*   [mqttkit (⭐4)](https://github.com/keyp-dev/mqttkit) - Elysia-style application framework for MQTT on Bun and TypeScript. Compose broker adapters, ordered middleware, typed topic routes, MQTT 5 RPC, and AsyncAPI 3.0 docs with `new MqttApp().use(...)`.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Platforms
@@ -87,7 +93,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### Tools
 
-*   [mockd (⭐124)](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
+*   [mockd (⭐126)](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
@@ -230,7 +236,7 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 *   [MQTTInspector (⭐69)](https://github.com/ckrey/MQTTInspector) - A general MQTT testing app for iOS (iPhone and iPad).
 *   [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm) - A Google Chrome application, which connects to a MQTT broker and is able to subscribe and publish to MQTT topics.
 *   [MQTT Explorer](https://mqtt-explorer.com/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
-*   [MQTT TUI (⭐674)](https://github.com/EdJoPaTo/mqttui) - Simple lightweight terminal based MQTT monitor and publisher.
+*   [MQTT TUI (⭐686)](https://github.com/EdJoPaTo/mqttui) - Simple lightweight terminal based MQTT monitor and publisher.
 *   [Python MQTT Client Shell (⭐56)](https://github.com/bapowell/python-mqtt-client-shell) - Text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 *   [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
 *   [Wireshark-MQTT (⭐94)](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.

@@ -16,6 +16,11 @@
 
 *   [epiq (⭐252)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 
+### Version Control / GitHub
+
+*   [gh](https://cli.github.com) - Official client (see [extensions (⭐427)](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+*   [cli-github (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### AI / Agents
@@ -96,7 +101,7 @@
 
 ### Utilities / Calendars
 
-*   [gittype (⭐1.4k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+*   [gittype (⭐1.5k)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ### Utilities / Security
 
@@ -188,12 +193,12 @@
 
 ### Development / Devops
 
-*   [bencher (⭐852)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+*   [bencher (⭐860)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Development / Docker
 
-*   [decompose (⭐132)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-*   [kool (⭐721)](https://github.com/kool-dev/kool) - Web development with containers made easy.
+*   [decompose (⭐135)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+*   [kool (⭐722)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Development / Npm
 
@@ -215,7 +220,7 @@
 ### Productivity / Note Taking, Lists, Task Management
 
 *   [notesmd-cli (⭐1.5k)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
-*   [rucola (⭐501)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+*   [rucola (⭐505)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐948)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Productivity / Finance
@@ -298,7 +303,7 @@
 ### AI / Agents
 
 *   [greywall (⭐244)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
-*   [agent-of-empires (⭐2.6k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+*   [agent-of-empires (⭐2.7k)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 *   [agent-deck (⭐358)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 *   [Sugar (⭐88)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
@@ -971,7 +976,6 @@
 
 ### Version Control / GitHub
 
-*   [CLI GitHub (⭐454)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 *   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
 *   [git-labelmaker (⭐576)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 

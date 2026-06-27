@@ -14,11 +14,15 @@
 
 ### Design and Product / Screen Recording
 
-*   [Screenpipe (⭐19k)](https://github.com/screenpipe/screenpipe) - Local screen and microphone recorder with AI search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/screenpipe/screenpipe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Screenpipe (⭐20k)](https://github.com/screenpipe/screenpipe) - Local screen and microphone recorder with AI search. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/screenpipe/screenpipe) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### AI Tools / Other Tools
 
 *   [Claude Usage (⭐2)](https://github.com/Bread-bang/claude-usage) - Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Bread-bang/claude-usage) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Voice-to-Text / Audio Record and Process
+
+*   [VoxFlow (⭐5)](https://github.com/xingbofeng/VoxFlow) - Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xingbofeng/VoxFlow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -695,7 +699,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [Cocoa-Way (⭐943)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cocoa-Way (⭐962)](https://github.com/J-x-Z/cocoa-way) - Wayland compositor for running Linux GUI apps without a virtual machine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/J-x-Z/cocoa-way) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -906,7 +910,7 @@
 
 ### Utilities / Productivity
 
-*   [Better Launchpad (⭐18)](https://github.com/rewhex/better-launchpad) - Customizable app launcher with fast search.
+*   [Better Launchpad (⭐17)](https://github.com/rewhex/better-launchpad) - Customizable app launcher with fast search.
 *   [MacPacker](https://macpacker.app) - Archive manager that supports previewing and extracting archive files [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sarensw/macpacker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SuperCorners](https://supercorners.vercel.app/) - Turn Hot Corners into custom workflow triggers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/daniyalmaster693/SuperCorners) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SwiftBiu](https://swiftbiu.com/) - Text productivity tool with a customizable action bar and AI extensions. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
@@ -950,7 +954,7 @@
 
 ### Reading and Writing Tools / Ebooks
 
-*   [Readest (⭐21k)](https://github.com/readest/readest) - Open-source ebook reader with a clean interface and powerful reading tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/readest/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Readest (⭐22k)](https://github.com/readest/readest) - Open-source ebook reader with a clean interface and powerful reading tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/readest/readest) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / RSS
 
@@ -1097,7 +1101,7 @@
 
 ### Utilities / Audio Record and Process
 
-*   [DNS Easy Switcher (⭐348)](https://github.com/glinford/dns-easy-switcher) - Menu bar tool for switching DNS providers or custom resolvers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/glinford/dns-easy-switcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DNS Easy Switcher (⭐349)](https://github.com/glinford/dns-easy-switcher) - Menu bar tool for switching DNS providers or custom resolvers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/glinford/dns-easy-switcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 
@@ -1111,7 +1115,7 @@
 
 ### Design and Product / Design Tools
 
-*   [Nugget (⭐575)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Nugget (⭐579)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Productivity
 
@@ -1148,7 +1152,7 @@
 
 ### Terminal Apps / Databases
 
-*   [Ghostty (⭐56k)](https://github.com/ghostty-org/ghostty) - Fast GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Ghostty (⭐57k)](https://github.com/ghostty-org/ghostty) - Fast GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Wave (⭐21k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wavetermdev/waveterm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
@@ -1308,7 +1312,7 @@
 
 ### Communication / File Sharing
 
-*   [NearDrop (⭐6.1k)](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/localsend/localsend) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [NearDrop (⭐6.2k)](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/localsend/localsend) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Cleanup and Uninstall
 
@@ -1824,7 +1828,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Jellyfin (⭐53k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Jellyfin (⭐54k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 
@@ -1954,7 +1958,7 @@
 
 ### Audio and Video Tools / Audio Record and Process
 
-*   [Stargate DAW (⭐849)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Stargate DAW (⭐853)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
 
@@ -2228,7 +2232,7 @@
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐949)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐951)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/martpie/museeks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nukeop/nuclear) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -2594,7 +2598,7 @@
 
 ### Developer Tools / Databases
 
-*   [redis-pro (⭐681)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [redis-pro (⭐680)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
@@ -3311,7 +3315,7 @@
 *   [Carol (⭐133)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AnaghSharma/Carol) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hydrogen-music/hydrogen)
 *   [Kodi](https://kodi.tv/) - Open-source media center for video, music, pictures, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xbmc/xbmc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [LosslessCut (⭐41k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
+*   [LosslessCut (⭐42k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
 *   [LyricsX (⭐5.2k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ddddxxx/LyricsX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/metadatics/id554883654?platform=mac)
 *   [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mixxxdj/mixxx)
@@ -3804,7 +3808,7 @@
 
 ### Utilities / System Related Tools
 
-*   [KeepingYouAwake (⭐6.6k)](https://github.com/newmarcel/KeepingYouAwake) - Caffeine alternative with dark mode support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
+*   [KeepingYouAwake (⭐6.7k)](https://github.com/newmarcel/KeepingYouAwake) - Caffeine alternative with dark mode support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/newmarcel/KeepingYouAwake)
 
 ## [Mar 26 - Apr 01, 2018](/content/2018/13/README.md)
 

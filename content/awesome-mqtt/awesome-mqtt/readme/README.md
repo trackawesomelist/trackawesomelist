@@ -143,7 +143,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 *   [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) - The Eclipse IoT-Testware is a collection of conformance test suites for IoT protocols enriched with additional tools for fuzzing and performance testing.
 *   [LabOverWire](https://laboverwire.com/features) - Visual diagram editor for designing MQTT topologies, built with Rust (WASM) and TypeScript. Features live in-browser simulation, code generation, and AsyncAPI export.
 *   [Mer-cli (⭐13)](https://github.com/iotmertech/iot-data-generator) - A high-performance IoT data generator written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads with Handlebars templates.
-*   [mockd (⭐124)](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
+*   [mockd (⭐126)](https://github.com/getmockd/mockd) - Multi-protocol mock server with a built-in MQTT broker supporting QoS 0-2, retained messages, topic patterns, and device simulation for IoT development and testing.
 *   [moxy (⭐23)](https://github.com/jvermillard/moxy) - A Golang MQTT proxy providing useful output traces to monitor and troubleshoot your MQTT communications.
 *   [MQTT Board (⭐102)](https://github.com/flespi-software/MQTT-Board) - Open-source diagnostic-oriented MQTT client tool.
 *   [mqtt-admin (⭐129)](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
@@ -165,9 +165,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/awe
 *   [MQTT.fx](https://mqttfx.jensd.de/) - MQTT Client written in Java based on Eclipse Paho. Supports scripting.
 *   [mqttcli (⭐123)](https://github.com/shirou/mqttcli) - MQTT Client for shell scripting.
 *   [MQTTInspector (⭐69)](https://github.com/ckrey/MQTTInspector) - A general MQTT testing app for iOS (iPhone and iPad).
+*   [mqttkit (⭐4)](https://github.com/keyp-dev/mqttkit) - Elysia-style application framework for MQTT on Bun and TypeScript. Compose broker adapters, ordered middleware, typed topic routes, MQTT 5 RPC, and AsyncAPI 3.0 docs with `new MqttApp().use(...)`.
 *   [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm) - A Google Chrome application, which connects to a MQTT broker and is able to subscribe and publish to MQTT topics.
 *   [MQTT Explorer](https://mqtt-explorer.com/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
-*   [MQTT TUI (⭐674)](https://github.com/EdJoPaTo/mqttui) - Simple lightweight terminal based MQTT monitor and publisher.
+*   [MQTT TUI (⭐686)](https://github.com/EdJoPaTo/mqttui) - Simple lightweight terminal based MQTT monitor and publisher.
 *   [Python MQTT Client Shell (⭐56)](https://github.com/bapowell/python-mqtt-client-shell) - Text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 *   [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
 *   [Wireshark-MQTT (⭐94)](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
