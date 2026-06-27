@@ -89,11 +89,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VoxFlow (⭐5)](https://github.com/xingbofeng/VoxFlow) - Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xingbofeng/VoxFlow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
+
+##### Downloaders
+
+*   [Tako Manga Downloader (⭐2)](https://github.com/oovz/Tako) - Browser sidepanel extension for manga/manhua/manhwa downloading with various site supports. \[中文/日本語/English]
+
+#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Blockchain
+
+*   [pactus (⭐236)](https://github.com/pactus-project/pactus) - A full-node implementation of the Pactus blockchain in Go.
 
 ##### Networking
 
 *   [nethawk (⭐3)](https://github.com/Flowtriq/nethawk) - Terminal UI for real-time network traffic capture, analysis, and attack detection with JSON output mode.
+
+#### [9. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Testing & Quality / Browser Automation
+
+*   [mxschmitt/playwright-go (⭐3.4k)](https://github.com/mxschmitt/playwright-go) — Browser automation for Chromium, Firefox, WebKit ☆`3,389`
+
+##### Web Development / Routers
+
+*   [claygod/Bxog (⭐103)](https://github.com/claygod/Bxog) — Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer). ☆`103`
 
 ### [Jun 26, 2026](/content/2026/06/26/README.md)
 
@@ -377,8 +397,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 46. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source](https://github.com/CodyReichert/awesome-cl) ⭐ 2.9K 📝 06&#x2F;22) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 47. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source](https://github.com/vlang/awesome-v) ⭐ 2.1K 📝 06&#x2F;26) - A curated list of awesome V frameworks, libraries, software and resources.
 48. [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source](https://github.com/krzemienski/awesome-video) ⭐ 1.9K 📝 06&#x2F;26) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
-49. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source](https://github.com/HQarroum/awesome-iot) ⭐ 4K 📝 06&#x2F;16) - 🤖 A curated list of awesome Internet of Things projects and resources.
-50. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 7.9K 📝 06&#x2F;09) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+49. [Awesome Acg](/content/soruly/awesome-acg/README.md) - ([Source](https://github.com/soruly/awesome-acg) ⭐ 1.5K 📝 06&#x2F;27) - A curated list of awesome technologies related to Anime, Comic and Games
+50. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source](https://github.com/HQarroum/awesome-iot) ⭐ 4K 📝 06&#x2F;16) - 🤖 A curated list of awesome Internet of Things projects and resources.
 
 ## All Tracked List
 
@@ -467,7 +487,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Computer Science
 
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1.3K, 📝 23&#x2F;02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
-- [Awesome Ai](/content/abordage/awesome-ai/README.md) - ([Source ⭐ 7, 📝 06&#x2F;11 ](https://github.com/abordage/awesome-ai)) - Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. Automatically curated and continuously updated with rich metadata and categorization.
+- [Awesome Ai](/content/abordage/awesome-ai/README.md) - ([Source ⭐ 8, 📝 06&#x2F;11 ](https://github.com/abordage/awesome-ai)) - Comprehensive collection of AI/ML tools, frameworks, libraries, and resources. Automatically curated and continuously updated with rich metadata and categorization.
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 6K, 📝 06&#x2F;03 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 4.1K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Cern](/content/CERN/awesome-cern/README.md) - ([Source ⭐ 109, 📝 03&#x2F;31 ](https://github.com/CERN/awesome-cern)) - A curated list of awesome open source frameworks, libraries and software developed by CERN for the world
@@ -810,7 +830,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 5.8K, 📝 05&#x2F;02 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 4.5K, 📝 23&#x2F;07&#x2F;20 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 24&#x2F;09&#x2F;08 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas
-- [Awesome Acg](/content/soruly/awesome-acg/README.md) - ([Source ⭐ 1.5K, 📝 05&#x2F;12 ](https://github.com/soruly/awesome-acg)) - A curated list of awesome technologies related to Anime, Comic and Games
+- [Awesome Acg](/content/soruly/awesome-acg/README.md) - ([Source ⭐ 1.5K, 📝 06&#x2F;27 ](https://github.com/soruly/awesome-acg)) - A curated list of awesome technologies related to Anime, Comic and Games
 - [Awesome ad Free](/content/johnjago/awesome-ad-free/README.md) - ([Source ⭐ 334, 📝 22&#x2F;06&#x2F;12 ](https://github.com/johnjago/awesome-ad-free)) - Curated list of ad-free alternatives to popular services on the web
 - [Awesome Ads](/content/cenoura/awesome-ads/README.md) - ([Source ⭐ 75, 📝 20&#x2F;10&#x2F;12 ](https://github.com/cenoura/awesome-ads)) - A curated list of awesome advertising content, resources and libraries.
 - [Awesome Age](/content/FiloSottile/awesome-age/README.md) - ([Source ⭐ 588, 📝 06&#x2F;21 ](https://github.com/FiloSottile/awesome-age)) - A collection of projects and resources in the age file encryption ecosystem.
@@ -1009,7 +1029,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 433, 📝 04&#x2F;05 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
 - [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 106K, 📝 06&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 12, 📝 06&#x2F;21 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
+- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 14, 📝 06&#x2F;21 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 5.1K, 📝 05&#x2F;02 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 66K, 📝 02&#x2F;08 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED
@@ -1063,7 +1083,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 02&#x2F;08 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
 - [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 176K, 📝 06&#x2F;27 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 4, 📝 06&#x2F;22 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 4, 📝 06&#x2F;27 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
