@@ -6,6 +6,157 @@ A collective list of free APIs
 
 [ Daily / [Weekly](/content/public-apis/public-apis/week/README.md) / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jun 28, 2026](/content/2026/06/28/README.md)
+
+### Business
+
+- API: [Meirra](https://meirra.com/api)
+
+  Description: SEO monitoring, email verification, lead generation, and marketing analytics
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Cryptocurrency
+
+- API: [Block Lottos](https://blocklottos.com/openapi.json)
+
+  Description: On-chain lottery, draw history, jackpot and advertising endpoints
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Mexc](https://www.mexc.com/api-docs)
+
+  Description: Cryptocurrency info, place order
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Currency Exchange
+
+- API: [TaxID](https://www.taxid.dev/docs)
+
+  Description: EU VAT number validation with company name and address lookup across all 27 member states
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [Webclaw](https://webclaw.io/docs/api)
+
+  Description: Web content extraction for LLMs with scrape, crawl, search, and summarize
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Documents & Productivity
+
+- API: [PDFFleet](https://pdffleet.com)
+
+  Description: HTML and URL to PDF API with templates and a free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [PolyDoc](https://polydoc.tech)
+
+  Description: HTML/URL to PDF and screenshots, plus Factur-X/ZUGFeRD e-invoices; free tier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Finance
+
+- API: [Edgrapi](https://edgrapi.com)
+
+  Description: Clean SEC EDGAR company financials, ratios, filings and 10-K/10-Q sections as normalized JSON
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+- API: [StockFit](https://api.stockfit.io/docs)
+
+  Description: SEC filings, financial statements, earnings, ETF holdings and ownership data
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Machine Learning
+
+- API: [Not Human Search](https://nothumansearch.ai/openapi.yaml)
+
+  Description: AI tool discovery with agentic scoring for 8,600+ tools and MCP servers
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Tracking
+
+- API: [Mapbox](https://docs.mapbox.com/api/)
+
+  Description: Maps, directions, geocoding
+
+  Auth: apiKey
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Jun 24, 2026](/content/2026/06/24/README.md)
 
 ### Government
@@ -4890,17 +5041,6 @@ A collective list of free APIs
 - API: [FishWatch](https://www.fishwatch.gov/developers)
 
   Description: Information and pictures about individual fish species
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [PlaceKitten](https://placekitten.com/)
-
-  Description: Placeholder Kitten pictures
 
   Auth: No
 

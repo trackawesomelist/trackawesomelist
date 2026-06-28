@@ -6,6 +6,12 @@ A curated list of tools and resources for Amazon sellers.
 
 [ [Daily](/content/ScaleLeap/awesome-amazon-seller/README.md) / Weekly / [Overview](/content/ScaleLeap/awesome-amazon-seller/readme/README.md) ]
 
+## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
+
+### Software and Tools
+
+*   [BuyWhere](https://buywhere.ai) - Real-time product search, price comparison, and deal discovery across Amazon, Best Buy, Walmart, and Target via MCP. 150M+ products, 88K+ merchants. Free API and CLI. [github (⭐3)](https://github.com/BuyWhere/buywhere-mcp)
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Software and Tools
