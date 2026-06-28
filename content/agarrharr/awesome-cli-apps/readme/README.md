@@ -197,6 +197,7 @@ Inspired by the [awesome (⭐476k)](https://github.com/sindresorhus/awesome) lis
 *   [diff2html-cli (⭐594)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 *   [mk (⭐134)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 *   [dotenv-diff (⭐51)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+*   [ota (⭐55)](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 
 ### Text Editors
 
@@ -208,6 +209,7 @@ Inspired by the [awesome (⭐476k)](https://github.com/sindresorhus/awesome) lis
 *   [o (⭐681)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 *   [helix (⭐45k)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 *   [Prosaic (⭐16)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+*   [Microsoft Edit (⭐14k)](https://github.com/microsoft/edit) - Simple editor.
 
 ### Frontend Development
 
@@ -332,13 +334,14 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [terjira (⭐904)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐14)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐7.1k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐7.2k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 *   [fjira (⭐267)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 *   [OverTime (⭐416)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 *   [CookCLI (⭐1.3k)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 *   [hns (⭐107)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 *   [mynav (⭐246)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 *   [linear-tui (⭐34)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
+*   [jiratui (⭐1.6k)](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 
 ### Time Tracking
 
@@ -429,8 +432,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Terminal Sharing Utilities
 
 *   [gotty (⭐19k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
-*   [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 *   [warp (⭐1.6k)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+*   [upterm (⭐1.2k)](https://github.com/owenthereal/upterm) - Instant terminal sharing.
 
 ### SSH
 
@@ -555,7 +558,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Command Line Learning
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-*   [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
+*   [explainshell](https://explainshell.com) - Type a snippet to see the help text for each argument.
 *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.8k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 *   [The Fuck (⭐97k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -605,7 +608,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Text
 
-*   [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
+*   [figlet](https://www.figlet.org) - Creates large text out of ASCII characters.
 *   [stegcloak (⭐3.8k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ## Files and Directories
@@ -835,7 +838,7 @@ Inclusion criteria are less strict for this fast-moving field.
 *   [lean-ctx (⭐2.7k)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 *   [hcom (⭐357)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 *   [toktrack (⭐161)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
-*   [OpenCode (⭐174k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+*   [OpenCode (⭐180k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 *   [Nanocoder (⭐2.1k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction

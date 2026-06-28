@@ -6,6 +6,32 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 28, 2026](/content/2026/06/28/README.md)
+
+### Development / Chat
+
+*   [ota (⭐55)](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+
+### Development / Text Editors
+
+*   [Microsoft Edit (⭐14k)](https://github.com/microsoft/edit) - Simple editor.
+
+### Productivity / Testing
+
+*   [jiratui (⭐1.6k)](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
+
+### Utilities / Terminal Sharing Utilities
+
+*   [upterm (⭐1.2k)](https://github.com/owenthereal/upterm) - Instant terminal sharing.
+
+### Command Line Learning / Professional: Resume
+
+*   [explainshell](https://explainshell.com) - Type a snippet to see the help text for each argument.
+
+### Data Manipulation / Text
+
+*   [figlet](https://www.figlet.org) - Creates large text out of ASCII characters.
+
 ## [Jun 27, 2026](/content/2026/06/27/README.md)
 
 ### Version Control / GitHub
@@ -29,7 +55,7 @@
 
 ### AI / Agents
 
-*   [OpenCode (⭐174k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+*   [OpenCode (⭐180k)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 *   [Nanocoder (⭐2.1k)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### AI / LLM Interaction
@@ -1025,10 +1051,6 @@
 
 *   [tiptop (⭐2.1k)](https://github.com/nschloe/tiptop) - System monitor.
 
-### Command Line Learning / Professional: Resume
-
-*   [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
-
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
@@ -1519,10 +1541,6 @@
 
 *   [mpv](https://mpv.io) - Superior video player.
 
-### Utilities / Terminal Sharing Utilities
-
-*   [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
-
 ### Files and Directories / Files
 
 *   [bat (⭐59k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
@@ -1582,7 +1600,7 @@
 *   [terjira (⭐904)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐14)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐7.1k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐7.2k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 *   [OverTime (⭐416)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Productivity / Note Taking, Lists, Task Management
@@ -1680,10 +1698,6 @@
 
 *   [fx (⭐21k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 *   [vj (⭐99)](https://github.com/busyloop/vj) - Makes JSON human readable.
-
-### Data Manipulation / Text
-
-*   [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## [Mar 06, 2019](/content/2019/03/06/README.md)
 
