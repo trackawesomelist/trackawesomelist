@@ -45,14 +45,15 @@ Terminal Emulators
 *   [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 *   [Hyper (⭐45k)](https://github.com/zeit/hyper) - A terminal built on web technologies.
 *   [kermit (⭐153)](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
-*   [Kitty (⭐33k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+*   [Kitty (⭐34k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 *   [kiro (⭐1)](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 *   [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 *   [Mosh (⭐14k)](https://github.com/mobile-shell/mosh) - Mobile Shell.
 *   [Notty (⭐2.3k)](https://github.com/withoutboats/notty) - **\[DEPRECATED]** A new kind of terminal.
+*   [OdyTTY (⭐18)](https://github.com/ghreprimand/odytty) - A GPU-rendered terminal emulator for Linux (Rust/wgpu) with a theme builder, 100 themes, bloom/CRT/retro effects, and live in-app config. <https://odytty.unfinished-works.com/>
 *   [QTerminal (⭐702)](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
 *   [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
-*   [Rio (⭐6.9k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐7k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [ROXTerm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal, based on the same VTE library.
 *   [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
 *   [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE.
@@ -68,6 +69,7 @@ Terminal Emulators
 *   [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 *   [Wayst (⭐340)](https://github.com/91861/wayst) - A simple terminal emulator.
 *   [Wezterm (⭐27k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. <https://wezfurlong.org/wezterm/>
+*   [WinkTerm (⭐15)](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
 *   [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 *   [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 *   [yaft (⭐678)](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
@@ -92,14 +94,16 @@ Terminal Emulators
 *   [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 *   [Hyper (⭐45k)](https://github.com/zeit/hyper) - A terminal built on web technologies.
 *   [iTerm2 (⭐18k)](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-*   [Kitty (⭐33k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+*   [jebi (⭐14)](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
+*   [Kitty (⭐34k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 *   [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 *   [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 *   [Mosh (⭐14k)](https://github.com/mobile-shell/mosh) - Mobile Shell.
 *   [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
-*   [Rio (⭐6.9k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐7k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [Tabby (⭐72k)](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) <https://tabby.sh/>
 *   [Termbar (⭐30)](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
+*   [TermCanvas (⭐7)](https://github.com/lout33/termcanvas) - macOS desktop app that arranges tmux-backed terminal sessions as draggable nodes on an infinite canvas for steering multiple AI coding agents.
 *   [Terminal Workspace (⭐1)](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 *   [Terminology (⭐732)](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. <https://www.enlightenment.org/about-terminology>
 *   [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
@@ -107,6 +111,7 @@ Terminal Emulators
 *   [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 *   [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 *   [Wezterm (⭐27k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. <https://wezfurlong.org/wezterm/>
+*   [WinkTerm (⭐15)](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
 *   [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 *   [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
@@ -115,6 +120,7 @@ Terminal Emulators
 *   [AnderShell 3000 (⭐339)](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS <https://crt.no/>
 *   [electerm (⭐14k)](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). <https://electerm.org/>
 *   [jQuery Terminal Emulator (⭐3.2k)](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
+*   [WinkTerm (⭐15)](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
 *   [Xterm.js (⭐21k)](https://github.com/xtermjs/xterm.js) - A terminal for the web. <https://xtermjs.org/>
 
 ### Windows
@@ -135,7 +141,7 @@ Terminal Emulators
 *   [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 *   [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 *   [Mosh (⭐14k)](https://github.com/mobile-shell/mosh) - Mobile Shell.
-*   [Rio (⭐6.9k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐7k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 *   [Tabby (⭐72k)](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) <https://tabby.sh/>
 *   [Terminology (⭐732)](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
@@ -199,7 +205,7 @@ Terminal Emulators
 *   [progress (⭐8.8k)](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
 *   [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
 *   [smenu (⭐2.5k)](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
-*   [tmux (⭐46k)](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+*   [tmux (⭐47k)](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 *   [xhyve (⭐6.4k)](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
 *   [ttyd (⭐12k)](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
 *   [vifm (⭐3.2k)](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi\[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. [https://github.com/vifm/vifm (⭐3.2k)](https://github.com/vifm/vifm)
@@ -343,6 +349,7 @@ Terminal Emulators
 *   [linkchecker (⭐1.4k)](https://github.com/wummel/linkchecker) - check links in web documents or full websites. <http://wummel.github.io/linkchecker/>
 *   [mycli (⭐12k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. <http://mycli.net>
 *   [outrun (⭐3.1k)](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
+*   [passtui (⭐12)](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
 *   [present (⭐4.3k)](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. <https://present.readthedocs.io/en/latest/>
 *   [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
 *   [ranger (⭐17k)](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console <https://ranger.github.io/>
@@ -379,7 +386,7 @@ Terminal Emulators
 *   [bandwhich (⭐12k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 *   [bat (⭐59k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 *   [br (⭐13k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees <https://dystroy.org/broot>
-*   [btm (⭐13k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom/nightly/>
+*   [btm (⭐14k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom/nightly/>
 *   [choose (⭐2.2k)](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 *   [coreutils (⭐24k)](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
 *   [delta (⭐31k)](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -403,7 +410,7 @@ Terminal Emulators
 *   [mcfly (⭐7.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 *   [pastel (⭐6.4k)](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
-*   [procs (⭐6.2k)](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
+*   [procs (⭐6.1k)](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
 *   [rg (⭐65k)](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
 *   [rq (⭐2.3k)](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
 *   [rustnet (⭐4.5k)](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.

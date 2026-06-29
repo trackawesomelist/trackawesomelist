@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Monitoring
+
+*   [UptimeRobot](https://uptimerobot.com/) - Free uptime monitoring for hobby projects. Includes 50 monitors with 5-minute check intervals, supports HTTP, ping, port, and keyword monitoring.
+
+### Analytics, Events and Statistics
+
+*   [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### APIs, Data, and ML
@@ -2248,6 +2258,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   Cloud Build - 120 build-minutes per day
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     *   [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification - 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
+    *   [Google Gemini API](https://ai.google.dev/) - Get free access to Gemini 1.5 Pro and Gemini 1.5 Flash models. The free tier offers 15 requests per minute, 1,500 requests per day, and 1 million tokens per minute.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ### Messaging and Streaming
@@ -4211,10 +4222,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Security and PKI
 
 *   [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
-
-### Management System
-
-*   [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 

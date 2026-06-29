@@ -6,6 +6,12 @@ Terminal Emulators
 
 [ [Daily](/content/cdleon/awesome-terminals/README.md) / Weekly / [Overview](/content/cdleon/awesome-terminals/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Tools / Python
+
+*   [passtui (⭐12)](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Tools / Node
@@ -213,7 +219,7 @@ Terminal Emulators
 ### Tools / Rust
 
 *   [br (⭐13k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees <https://dystroy.org/broot>
-*   [btm (⭐13k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom/nightly/>
+*   [btm (⭐14k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom/nightly/>
 *   [choose (⭐2.2k)](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 *   [delta (⭐31k)](https://github.com/dandavison/delta) - A viewer for git and diff output
 *   [dog (⭐6.7k)](https://github.com/ogham/dog) - A command-line DNS client. <https://dns.lookup.dog/>
@@ -456,7 +462,7 @@ Terminal Emulators
 *   [dust (⭐12k)](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
 *   [fd (⭐43k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 *   [grex (⭐8.1k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
-*   [procs (⭐6.2k)](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
+*   [procs (⭐6.1k)](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
 *   [sd (⭐7.2k)](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
 *   [tldr (⭐6.3k)](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 *   [tokei (⭐15k)](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -645,7 +651,7 @@ Terminal Emulators
 *   [mptun (⭐1.2k)](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
 *   [progress (⭐8.8k)](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
 *   [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
-*   [tmux (⭐46k)](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+*   [tmux (⭐47k)](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 *   [xhyve (⭐6.4k)](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
 *   [zstd (⭐27k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm <http://www.zstd.net>
 
