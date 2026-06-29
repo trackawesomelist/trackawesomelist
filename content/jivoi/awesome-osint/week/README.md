@@ -6,6 +6,28 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Speciality Search Engines
+
+*   [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit: WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation (VPN, proxy, datacenter, Tor), returning two independent 0–100 Privacy & Trust scores. No signup, runs client-side.
+
+### Social Media Tools / TikTok
+
+*   [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
+
+### Company Research / GitHub
+
+*   [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
+
+### Video Search and Other Video Tools / GitHub
+
+*   [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Google Dorks Tools
@@ -1964,7 +1986,7 @@
 
 ### Other Tools / GitHub
 
-*   [sn0int (⭐2.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 

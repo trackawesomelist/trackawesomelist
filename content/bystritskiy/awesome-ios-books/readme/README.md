@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 676 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 685 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -12,9 +12,9 @@
 
 > Directory of iOS books
 
-|                                                                           Awesome                                                                           | Books | Last updated |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  108  | May 12, 2026 |
+|                                                                           Awesome                                                                           | Books |  Last updated |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  127  | June 29, 2026 |
 
 ## How to Use
 
@@ -68,6 +68,8 @@
 *   [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 *   [*Full Stack iOS Development with Swift and Vapor* by Hem Dutt](https://www.amazon.com/Full-Stack-iOS-Development-Swift-Vapor/dp/1501522574)
 *   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
+*   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
+*   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
 
 ## Objective-C
 
@@ -95,17 +97,20 @@
 *   [*Swift in Depth* by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
 *   [*Classic Computer Science Problems in Swift* by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 *   [*Swift Gems* by Natalia Panferova](https://books.nilcoalescing.com/swift-gems)
+*   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
 
 ## Functional Swift
 
 *   [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
 *   [*Functional Swift* by Chris Eidhof, Florian Kugler, Wouter Swierstra](https://www.objc.io/books/functional-swift)
+*   [*A Functional Programming Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsfpkick/a-functional-programming-kickstart/)
 
 ## UI
 
 *   [*Auto Layout by Tutorials* by Libranner Santos, Jayven Nhan](https://www.raywenderlich.com/books/auto-layout-by-tutorials/v1.0)
 *   [*Modern Auto Layout* by Keith Harrison](https://gum.co/albook)
 *   [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
+*   [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
 
 ## SwiftUI
 
@@ -113,6 +118,7 @@
 *   [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 *   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
+*   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
 *   [*SwiftUI Views Quick Start (FREE)* by Mark Moeykens](https://www.bigmountainstudio.com/free-swiftui-book)
 *   [*SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-views-book)
 *   [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
@@ -125,6 +131,7 @@
 *   [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
 *   [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 *   [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
+*   [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
 
 ## Architecture
 
@@ -136,10 +143,13 @@
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 *   [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 *   [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
+*   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
 
 ## Multithreading
 
 *   [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
+*   [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
+*   [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
 
 ## Data Structures and Algorithms
 
@@ -156,6 +166,7 @@
 *   [*Build iOS Database Apps with Swift and SQLite* by Kevin Languedoc](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 *   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
+*   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
 
 ## ARKit
 
@@ -168,10 +179,13 @@
 *   [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 *   [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
 *   [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
+*   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
 
 ## Metal
 
 *   [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
+*   [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
+*   [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
 
 ## Catalyst
 
@@ -197,10 +211,13 @@
 *   [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 *   [*Test-Driven iOS Development with Swift 4* by Dr. Dominik Hauser](https://www.amazon.com/gp/product/B076PJQY34/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
 *   [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
+*   [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
+*   [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
 
 ## watchOS
 
 *   [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
+*   [*Hacking with watchOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwwatchos)
 
 ## tvOS
 
@@ -208,6 +225,9 @@
 *   [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
 
 ## macOS
+
+*   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
+*   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 
 ## Server Side Swift
 
@@ -233,12 +253,12 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios (⭐52k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐53k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide (⭐676)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐683)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

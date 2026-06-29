@@ -44,6 +44,7 @@ Happy hacking and hunting 🧙‍♂️
     *   [Twitter](#-twitter)
     *   [Facebook](#-facebook)
     *   [Instagram](#-instagram)
+    *   [TikTok](#-tiktok)
     *   [Pinterest](#-pinterest)
     *   [Reddit](#-reddit)
     *   [VKontakte](#-vkontakte)
@@ -240,6 +241,7 @@ Thanks to our main contributors
 *   [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.
 *   [OCCRP Aleph](https://aleph.occrp.org/)
 *   [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+*   [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit: WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation (VPN, proxy, datacenter, Tor), returning two independent 0–100 Privacy & Trust scores. No signup, runs client-side.
 *   [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 *   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 *   [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
@@ -508,6 +510,10 @@ Thanks to our main contributors
 *   [Osintgram (⭐13k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 *   [Osintgraph (⭐754)](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.
 *   [Toutatis (⭐4k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+
+### [↑](#-table-of-contents) TikTok
+
+*   [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
 
@@ -849,6 +855,7 @@ Thanks to our main contributors
 *   [Ezilon](http://www.ezilon.com)
 *   [Factiva](https://global.factiva.com)
 *   [Forbes Global 2000](http://www.forbes.com/global2000/)
+*   [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
 *   [Glassdoor](https://www.glassdoor.com)
 *   [globalEdge](http://globaledge.msu.edu)
 *   [GoodFirms](https://www.goodfirms.co/)
@@ -1094,6 +1101,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
+*   [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 *   [Bing Videos](http://www.bing.com/?scope=video)
 *   [Clarify](http://clarify.io)
 *   [Clip Blast](http://www.clipblast.com)
@@ -1224,6 +1232,7 @@ Thanks to our main contributors
 *   [SatIntel (⭐889)](https://github.com/ANG13T/SatIntel)
 *   [Scribble Maps](http://scribblemaps.com)
 *   [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+*   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 *   [SOAR](https://soar.earth/)
 *   [StoryMaps](http://storymaps.arcgis.com/en)
 *   [SunCalc](https://www.suncalc.org/)
@@ -1675,7 +1684,7 @@ Thanks to our main contributors
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 *   [SerpScan (⭐69)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 *   [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
-*   [sn0int (⭐2.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 *   [SpiderFoot (⭐18k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 *   [SpiderSuite (⭐961)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.

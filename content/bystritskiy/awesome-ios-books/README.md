@@ -2,9 +2,72 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 676 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 685 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Jun 29, 2026](/content/2026/06/29/README.md)
+
+### iOS
+
+*   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
+*   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+
+### Swift
+
+*   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
+
+### Functional Swift
+
+*   [*A Functional Programming Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsfpkick/a-functional-programming-kickstart/)
+
+### UI
+
+*   [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
+
+### SwiftUI
+
+*   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
+
+### Combine
+
+*   [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
+
+### Architecture
+
+*   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+
+### Multithreading
+
+*   [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
+*   [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
+
+### Database
+
+*   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+
+### Machine Learning
+
+*   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
+
+### Metal
+
+*   [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
+*   [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
+
+### Testing
+
+*   [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
+*   [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
+
+### watchOS
+
+*   [*Hacking with watchOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwwatchos)
+
+### macOS
+
+*   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
+*   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
@@ -373,7 +436,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐676)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐683)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Dec 19, 2019](/content/2019/12/19/README.md)
@@ -582,5 +645,5 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐52k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐53k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)

@@ -12,6 +12,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [UptimeRobot](https://uptimerobot.com/) - Free uptime monitoring for hobby projects. Includes 50 monitors with 5-minute check intervals, supports HTTP, ping, port, and keyword monitoring.
 
+### Forms
+
+*   [Jotform.com](https://jotform.com/) - Create online forms for free, collect submissions, accept payments, automate workflows, and get documents signed with built-in e-signatures. Free plan includes 5 forms, 100 monthly submissions, 10 e-sign documents, 10 payment submissions, and more.
+
+### Generative AI
+
+*   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.3k)](https://github.com/latitude-dev/latitude-llm)
+
 ### Analytics, Events and Statistics
 
 *   [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
