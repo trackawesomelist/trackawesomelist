@@ -268,7 +268,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 *   [lstags (⭐342)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [lazydocker (⭐52k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 *   [ctop (⭐18k)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 *   [decompose (⭐135)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
@@ -353,6 +353,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [arttime (⭐1.4k)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 *   [Tock (⭐435)](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 *   [Helm (⭐134)](https://github.com/0xjuanma/helm) - Minimalistic timer.
+*   [Focusd (⭐34)](https://github.com/0xarchit/Focusd) - \[Windows] A local, privacy-first screen time monitor.
 
 ### Note Taking, Lists, Task Management
 
@@ -566,7 +567,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [Wat (⭐508)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐413)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐868)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 *   [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jun 30, 2026](/content/2026/06/30/README.md)
+
+### Productivity / Time Tracking
+
+*   [Focusd (⭐34)](https://github.com/0xarchit/Focusd) - \[Windows] A local, privacy-first screen time monitor.
+
 ## [Jun 28, 2026](/content/2026/06/28/README.md)
 
 ### Development / Chat
@@ -764,7 +770,7 @@
 
 ### Command Line Learning / Professional: Resume
 
-*   [yai (⭐868)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐867)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 
@@ -1240,7 +1246,7 @@
 
 *   [lstags (⭐342)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐4k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐51k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [lazydocker (⭐52k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐152)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Professional: Resume
