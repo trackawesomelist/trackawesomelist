@@ -2,7 +2,7 @@
 
 A curated list of dotfiles resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/webpro/awesome-dotfiles/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) · ⭐ 10K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/webpro/awesome-dotfiles/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) · ⭐ 11K · 🏷️ Development Environment
 
 [ [Daily](/content/webpro/awesome-dotfiles/README.md) / [Weekly](/content/webpro/awesome-dotfiles/week/README.md) / Overview ]
 
@@ -222,7 +222,7 @@ work.
 
 [16]: https://code.tutsplus.com/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449t
 
-[17]: http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/
+[17]: https://blog.smalleycreative.com/using-git-and-github-to-manage-your-dotfiles/
 
 [18]: https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/
 
@@ -382,7 +382,7 @@ work.
 
 [96]: https://github.com/ellipsis/ellipsis
 
-[97]: https://github.com/tversteeg/emplace
+[97]: https://web.archive.org/web/20260430004416/https://github.com/tversteeg/emplace
 
 [98]: https://github.com/holman/dotfiles
 

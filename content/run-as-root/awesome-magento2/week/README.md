@@ -17,6 +17,51 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 *   [magento2-withdrawl (⭐22)](https://github.com/Zwernemann/magento2-withdrawl) - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 *   [module-blog (⭐13)](https://github.com/mage-os-lab/module-blog) - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
 
+### Podcasts / Other
+
+*   [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+*   [Talk Commerce](https://talk-commerce.com/podcasts/) - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+*   [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
+
+### Newsletters / Other
+
+*   [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
+*   [Mage Dispatch](https://www.magedispatch.com/) - Community-driven newsletter collecting links the Magento community should know about.
+*   [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
+*   [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
+
+### Community / Other
+
+*   [Dutchento](https://www.dutchento.org/) - The Magento community in the Netherlands.
+*   [ExtDN](https://extdn.org/) - A network of leading Magento extension developers committed to quality and best practices.
+*   [Firegento](https://firegento.com/) - A group of Magento enthusiasts developing open-source modules and organizing hackathons.
+*   [Mage-OS Association](https://mage-os.org/) - The community alliance ensuring the accessibility, longevity, and success of Magento Open Source.
+*   [Magento Association](https://www.magentoassociation.org/home) - The open and powerful Magento ecosystem association.
+*   [Magento Stack Exchange](https://magento.stackexchange.com/) - Q\&A site for users and developers of the Magento e-Commerce platform.
+*   [OpenGento](https://opengento.fr/) - The Magento community in France.
+*   [Reddit r/Magento](https://www.reddit.com/r/Magento/) - Magento community on Reddit — questions, news, and discussion.
+
+### List of trustworthy Extension Developers / Other
+
+*   [Hyva Themes](https://www.hyva.io/) - Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
+*   [integer\_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
+*   [run-as-root](https://www.run-as-root.sh/) - German Magento agency and open-source contributor; maintainer of awesome-magento2 and multiple community extensions.
+*   [Smile.io](https://smile.io/) - Loyalty and rewards platform with Magento 2 integration (formerly Sweet Tooth).
+
+### Influencing People / Other
+
+*   [Andreas von Studnitz](https://github.com/avstudnitz) - Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer\_net.
+*   [David Lambauer](https://www.davidlambauer.de) - Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
+*   [Fabrizio Balliano](https://fabrizioballiano.com) - Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
+*   [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
+*   [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
+*   [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
+*   [Sanne Bolkenstein](https://www.hyva.io/about) - Commercial Director and Partner at Hyva Themes; chairs Mage-OS Netherlands.
+*   [Sergej Derzap](https://amasty.com) - Treasurer of the Magento Association; CEO and CPO of Amasty, one of the largest Magento 2 extension vendors; 18+ years in the ecosystem.
+*   [Vinai Kopp](https://mage2.tv/) - President of Mage-OS; Technical Director at Hyva Themes; 3x Magento Master; creator of Mage2Katas; lead of the Mage-OS Technical Working Group.
+*   [Willem Poortman](https://wpoortman.nl) - Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
+*   [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
+
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Open Source Extensions / CMS
@@ -101,24 +146,9 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Influencing People / Other
 
-*   [Alan Storm](https://alanstorm.com/) - Prolific Magento tech writer and creator of Pestle.
-*   [Alessandro Ronchi](https://github.com/aleron75) - Co-founder of ExtDN; maintainer of Mageres.
-*   [Anna Völkl](https://github.com/avoelkl) - integer\_net; regular speaker and language-pack contributor.
-*   [Ben Marks](https://twitter.com/benmarks) - Former Magento Evangelist; long-time community advocate.
-*   [David Alger](https://davidalger.com/) - Creator of Warden; long-time Magento infrastructure voice.
-*   [Fabian Schmengler](https://github.com/schmengler) - integer\_net; frequent conference speaker on Magento 2 architecture.
-*   [Ivan Chepurnyi](https://github.com/EcomDev) - Long-time core contributor; speaker.
-*   [Jisse Reitsma](https://github.com/jreitsma) - Founder of Yireo; trainer and book author.
-*   [Kalen Jordan](http://magetalk.com/) - Co-host of MageTalk podcast.
-*   [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento; educator on YouTube.
-*   [Mathias Elle](https://github.com/MathiasElle) - Author of the Magento Log Viewer VS Code extension.
-*   [Max Pronko](https://github.com/maxpronko) - Trainer; runs the DevChannel YouTube series.
-*   [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; open-source contributor.
-*   [Phillip Jackson](http://magetalk.com/) - Co-host of MageTalk podcast.
-*   [Riccardo Tempesta](https://github.com/rpanarin) - MageSpecialist; creator of MSP\_DevTools.
-*   [Roma Glushko](https://github.com/roma-glushko) - Maintains magento2-dev-plus-exam notes and the Tango CLI.
-*   [Sander Mangel](https://github.com/sandermangel) - Organiser of MageUnconference NL; language-pack co-maintainer.
-*   [Vinai Kopp](https://github.com/Vinai) - Trainer and author of Mage2Katas; deep Magento 2 internals expertise.
+*   [Alessandro Ronchi](https://github.com/aleron75) - Mage-OS Documentation Working Group member; maintainer of Mageres; co-founder of ExtDN; Engineering Manager at Hyva Themes.
+*   [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+*   [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -175,7 +205,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### List of trustworthy Extension Developers / Other
 
-*   [CustomGento](https://www.customgento.com/extensions/) - Magento extension vendor.
+*   [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -438,12 +468,6 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 *   [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 
-## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
-
-### List of trustworthy Extension Developers / Other
-
-*   [MagePal](https://packagist.org/packages/magepal/) - MagePal's Magento extensions on Packagist.
-
 ## [Jan 22 - Jan 28, 2018](/content/2018/4/README.md)
 
 ### Open Source Extensions / Localization
@@ -462,11 +486,6 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 *   [it\_IT (⭐15)](https://github.com/mageplaza/magento-2-italian-language-pack) - Italian Language Package.
 
-### List of trustworthy Extension Developers / Other
-
-*   [FireBear Studio](https://firebearstudio.com/) - Magento extension vendor.
-*   [The Extension Lab](https://github.com/theextensionlab/) - The Extension Lab on GitHub.
-
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
 ### Open Source Extensions / Localization
@@ -478,10 +497,6 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 ### Open Source Extensions / Infrastructure
 
 *   [Fastly Extension (⭐156)](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
-
-### List of trustworthy Extension Developers / Other
-
-*   [Unirgy](http://www.unirgy.com/) - Magento extension vendor.
 
 ## [Aug 07 - Aug 13, 2017](/content/2017/32/README.md)
 
@@ -580,22 +595,10 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### List of trustworthy Extension Developers / Other
 
-*   [Aheadworks](https://www.aheadworks.com/) - Magento extension vendor.
-*   [Altima](https://shop.altima.net.au/) - Magento extension vendor.
-*   [Blue Jalappeno](http://bluejalappeno.com/) - Magento extension vendor.
-*   [Dotmailer](https://www.dotmailer.com/) - Email marketing platform with Magento integration.
-*   [Ebizmarts](https://ebizmarts.com/) - Magento extension vendor.
-*   [Fooman](http://store.fooman.co.nz/) - Magento extension vendor.
-*   [Genmato](https://genmato.com/) - Magento extension vendor.
-*   [Integer-net](https://www.integer-net.com/solr-magento/) - Magento extension vendor (Solr integration and more).
-*   [Magemail](https://magemail.co/) - Email marketing for Magento.
-*   [Modulwerft](https://www.modulwerft.com/) - Magento extension vendor.
-*   [Paradox Labs](https://www.paradoxlabs.com/) - Magento extension vendor.
-*   [ProxiBlue](https://www.proxiblue.com.au/) - Magento extension vendor.
-*   [Rocket Web](http://rocketweb.com/) - Magento extension vendor.
-*   [Sweet Tooth](https://www.sweettoothrewards.com/) - Loyalty and rewards platform with Magento integration.
-*   [WebShopApps](http://webshopapps.com/eu/) - Magento extension vendor.
-*   [Yireo](https://www.yireo.com/) - Magento extension vendor and training provider.
+*   [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
+*   [Paradox Labs](https://www.paradoxlabs.com/) - Magento 2 extensions for subscriptions, tokenized payments, and customer account management.
+*   [ProxiBlue](https://www.proxiblue.com.au/) - Australian Magento 2 extension vendor specializing in promotions and dynamic categories.
+*   [Yireo](https://www.yireo.com/) - Dutch Magento 2 extension vendor and training provider; Hyva and GraphQL specialist; ExtDN member.
 
 ### Other Magento 2 related Awesome Lists / Other
 

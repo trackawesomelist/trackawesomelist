@@ -6,6 +6,16 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jun 30, 2026](/content/2026/06/30/README.md)
+
+### Analytics
+
+*   [Zoho Apptics](https://zoho.com/apptics) - Unified, simplified, and actionable product analytics.
+
+### CI/CD
+
+*   [RunMyJob](https://runmyjob.io/) - Cloud runners for GitHub Actions and GitLab CI.
+
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
 ### Monitoring

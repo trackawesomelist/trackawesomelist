@@ -6,6 +6,15 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
 
 [ [Daily](/content/kimtth/awesome-azure-openai-llm/README.md) / Weekly / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### 1\. App & Agent
+
+*   **Agent Protocols**
+    *   [A2A](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#a2a)
+    *   [Computer use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#computer-use)
+    *   [Model Context Protocol (MCP)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-context-protocol-mcp)
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### 2\. Azure OpenAI & Copilot
@@ -31,15 +40,11 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
 
 ### 1\. App & Agent
 
-*   **Agent Protocols**
-    *   [MCP](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-context-protocol-mcp)
-    *   [A2A](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#a2a)
-    *   [Computer use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#computer-use)
 *   **Coding & Research**
     *   [Coding](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#coding)
-    *   [Skill](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#skill) / [Harness](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#harness)
-    *   [Domain-Specific Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#domain-specific-agents)
     *   [Deep Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#deep-research)
+    *   [Domain-Specific Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#domain-specific-agents)
+    *   [Skill](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#skill) / [Harness](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#harness)
 
 ### 3\. Research & Survey
 
@@ -52,6 +57,8 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Survey on Large Language Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#survey-on-large-language-models)
     *   [Additional Topics: A Survey of LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#additional-topics-a-survey-of-llms)
     *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-research-ranked-by-cite-count-150)
+    *   [LLM Materials in Japanese](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-materials-in-japanese)
+    *   [LLM Materials in Korean](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-materials-in-korean)
     *   [Build an LLMs from Scratch](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#build-an-llms-from-scratch-picogpt-and-lit-gpt)
     *   [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#business-use-cases)
 
@@ -89,16 +96,19 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Vector Database & Embedding](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#vector-database--embedding)
 *   **Application**
     *   [Top Agent Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#top-agent-frameworks)
-    *   [Orchestration Framework](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#orchestration-framework)
-    *   [Frameworks / SDKs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#frameworks--sdks)
-    *   [Apps / Ready-to-use Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#apps--ready-to-use-agents)
-    *   [**Popular LLM Applications** (Ranked by GitHub star count ≥1000)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#popular-llm-applications-ranked-by-github-star-count-1000)
-    *   [No Code & User Interface](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#no-code--user-interface)
-    *   [Personal AI assistant & desktop](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#personal-ai-assistant--desktop)
-    *   [Caching](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#caching)
-    *   [Data Processing](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#data-processing)
-    *   [Gateway](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#gateway)
+    *   [Additional Agent Framework](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#additional-agent-framework)
+    *   [Cache](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#cache)
+    *   [Data & Analytics Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#data--analytics-agents)
+    *   [Data Processing & OCR](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#data-processing--ocr)
+    *   [Desktop AI assistant](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#desktop-ai-assistant)
     *   [Memory](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#memory)
+    *   [Model Gateway](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-gateway)
+    *   [Model Serving & Local Runtimes](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-serving--local-runtimes)
+    *   [Observability & LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#observability--llmops)
+    *   [**Popular LLM Applications** (GitHub Stars >= 1000)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#popular-llm-applications-github-stars--1000)
+    *   [SDKs, Integration & ML Libraries](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#sdks-integration--ml-libraries)
+    *   [Training & Fine-tuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#training--fine-tuning)
+    *   [UI & No-Code Tool](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#ui--no-code-tool)
 
 ### 2\. Azure OpenAI & Copilot
 
