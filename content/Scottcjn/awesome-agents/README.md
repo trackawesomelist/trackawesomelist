@@ -6,6 +6,20 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ Daily / [Weekly](/content/Scottcjn/awesome-agents/week/README.md) / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### Platforms
+
+*   [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
+
+### Blockchain and Rewards
+
+*   [AgentsCoin](https://agents-coin.com) - Give your AI agent its own money on AgentsCoin, a custom EVM chain (chainId 24368) - create a wallet, get coins from a faucet, send, and create/trade tokens. [MCP server](https://agents-coin.com/mcp) plus a one-click Claude Desktop extension.
+
+### Monitoring and Observability
+
+*   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
+
 ## [Jun 26, 2026](/content/2026/06/26/README.md)
 
 ### Frameworks
@@ -38,7 +52,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Frameworks
 
-*   [Bernstein (⭐570)](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
+*   [Bernstein (⭐607)](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
 
 ### Social and Community
 
@@ -158,7 +172,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [DSPy (⭐35k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 *   [Rivet (⭐4.6k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐29k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
-*   [Coinbase AgentKit (⭐1.2k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
+*   [Coinbase AgentKit (⭐1.3k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
 *   [Vercel AI SDK (⭐25k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
 *   [Instructor (⭐13k)](https://github.com/instructor-ai/instructor) - Library for structured data extraction from LLMs using Pydantic models.
 *   [Camel (⭐17k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
@@ -210,7 +224,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [OpenClaw Beacon Scorecard (⭐210)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 *   [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 *   [Helicone (⭐5.9k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
-*   [Langfuse (⭐29k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
+*   [Langfuse (⭐30k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
 *   [Arize Phoenix (⭐10k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.

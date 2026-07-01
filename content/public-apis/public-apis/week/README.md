@@ -6,6 +6,80 @@ A collective list of free APIs
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Currency Exchange
+
+- API: [Exchangerate.dev](https://exchangerate.dev/docs)
+
+  Description: Live & historical FX, 168 pairs back to 1999, Frankfurter-compatible, free 10k/mo
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [OpenQR](https://openqr.uk/api)
+
+  Description: Generate QR codes and manage dynamic (editable) QR codes with scan analytics
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Environment
+
+- API: [Solematica](https://www.solematica.it/sviluppatori)
+
+  Description: Compare Italian solar (photovoltaic) installer offers, energy prices (PUN/ARERA) and satellite roof data
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: No
+
+
+
+### Finance
+
+- API: [Goldprice.dev](https://goldprice.dev/docs)
+
+  Description: Cross-validated gold, silver & copper spot, futures & 30-year history in 13 currencies
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+  : 
+
+
+
+### Open Data
+
+- API: [Pan Africa Data](https://panafricadata.com)
+
+  Description: Macroeconomic and subnational income distribution data for all 54 African countries
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Business
@@ -825,7 +899,7 @@ A collective list of free APIs
   CORS: Unknown
 
 
-- API: [Foodish (⭐122)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐124)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -1472,7 +1546,7 @@ A collective list of free APIs
 
   HTTPS: Yes
 
-  CORS: Yes
+  CORS: No
 
 
 
@@ -2071,7 +2145,7 @@ A collective list of free APIs
 
 ### Music
 
-- API: [Verome (⭐232)](https://github.com/Kirazul/Verome-API)
+- API: [Verome (⭐222)](https://github.com/Kirazul/Verome-API)
 
   Description: Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm
 
@@ -7958,7 +8032,7 @@ A collective list of free APIs
   CORS: No
 
 
-- API: [Movebank (⭐185)](https://github.com/movebank/movebank-api-doc)
+- API: [Movebank (⭐186)](https://github.com/movebank/movebank-api-doc)
 
   Description: Movement and Migration data of animals
 

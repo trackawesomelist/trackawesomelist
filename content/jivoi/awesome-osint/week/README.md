@@ -20,6 +20,10 @@
 
 *   [Fylings](https://www.fylings.com) - Free company-intelligence platform for Africa: search and verify companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official source and a last-verified date on every record.
 
+### Domain and IP Research / GitHub
+
+*   [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
+
 ### Video Search and Other Video Tools / GitHub
 
 *   [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.

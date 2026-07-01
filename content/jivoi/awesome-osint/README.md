@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### Domain and IP Research / GitHub
+
+*   [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
+
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
 ### Speciality Search Engines

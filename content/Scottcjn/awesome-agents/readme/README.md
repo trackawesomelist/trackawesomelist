@@ -58,6 +58,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Letta (⭐24k)](https://github.com/letta-ai/letta) - Framework for creating stateful LLM agents with long-term memory (formerly MemGPT).
 *   [Bolt.new](https://bolt.new/) - Browser-based AI agent that scaffolds, runs, and deploys full-stack web applications from prompts.
 *   [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that runs and orchestrates terminal coding agents (Claude Code, Codex CLI, OpenClaw, Hermes) on a remote machine.
+*   [Skales](https://skales.app) - Local-first desktop AI agent that runs goals autonomously in the background, with multi-agent teams, desktop and browser automation, and 15+ providers or fully offline via Ollama.
 
 ## Frameworks
 
@@ -77,7 +78,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [DSPy (⭐35k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 *   [Rivet (⭐4.6k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐29k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
-*   [Coinbase AgentKit (⭐1.2k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
+*   [Coinbase AgentKit (⭐1.3k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
 *   [Vercel AI SDK (⭐25k)](https://github.com/vercel/ai) - TypeScript toolkit for building AI-powered applications with streaming, tool calling, and agent support.
 *   [Instructor (⭐13k)](https://github.com/instructor-ai/instructor) - Library for structured data extraction from LLMs using Pydantic models.
 *   [Camel (⭐17k)](https://github.com/camel-ai/camel) - Communicative agents framework for exploring multi-agent cooperation and competition.
@@ -86,7 +87,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Mastra (⭐25k)](https://github.com/mastra-ai/mastra) - TypeScript framework for building AI applications with agents, workflows, and RAG.
 *   [rust-norion (⭐12)](https://github.com/yanghao1143/rust-norion) - Rust prototype for building agent runtime control layers with memory gates, model routing policy, audit evidence, and self-evolution loop tooling.
 *   [Agno (⭐41k)](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
-*   [Bernstein (⭐570)](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
+*   [Bernstein (⭐607)](https://github.com/sipyourdrink-ltd/bernstein) - Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees with deterministic scheduling, quality gates, and an HMAC-chained audit log.
 
 ## Agent-to-Agent Protocols
 
@@ -154,17 +155,19 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [SingularityNET](https://github.com/singnet) - Decentralized marketplace for AI services where agents can buy and sell algorithms.
 *   [dPaPay](https://dpapay.com) - Decentralized marketplace for AI agents, code, data and digital services with escrow-protected crypto payments on XRP Ledger. List agents, prompts, workflows. Instant settlement, \~$350 free volume, no platform lock-in.
 *   [Ocean Protocol](https://github.com/oceanprotocol) - Decentralized data exchange protocol enabling AI agents to access and monetize data.
+*   [AgentsCoin](https://agents-coin.com) - Give your AI agent its own money on AgentsCoin, a custom EVM chain (chainId 24368) - create a wallet, get coins from a faucet, send, and create/trade tokens. [MCP server](https://agents-coin.com/mcp) plus a one-click Claude Desktop extension.
 
 ## Monitoring and Observability
 
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
 *   [agenttrace (⭐74)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+*   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
 *   [OpenClaw Beacon Scorecard (⭐210)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 *   [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
 *   [LangSmith](https://smith.langchain.com/) - LangChain's platform for debugging, testing, evaluating, and monitoring LLM applications and agents.
 *   [Helicone (⭐5.9k)](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and improving AI applications.
-*   [Langfuse (⭐29k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
+*   [Langfuse (⭐30k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
 *   [Arize Phoenix (⭐10k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.

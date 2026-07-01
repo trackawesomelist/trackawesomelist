@@ -650,6 +650,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [Simple IoT (⭐21)](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
 
+*   [MarkerOn (⭐115)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+
 ### Commercial Products
 
 *   [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -821,6 +823,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 *   [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
 *   [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 *   [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
+*   [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 
 ### Interactive Experiences
 
@@ -1538,6 +1541,7 @@ Tooltips / popovers
 *   [swrv (⭐2.3k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 *   [vue-vroom (⭐11)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 *   [tanstack-query (⭐50k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [@stitchapi/vue (⭐5)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 #### i18n
 
@@ -1567,7 +1571,7 @@ Tooltips / popovers
 *   [v-bucket (⭐44)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [harlem (⭐515)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [exome (⭐278)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐279)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 *   [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
 
 ##### Mobx
@@ -1718,7 +1722,8 @@ Payment utilities.
 
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
-*   [Vite (⭐81k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [ILUMINATY (⭐2)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
+*   [Vite (⭐82k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [Create Vue (⭐4.4k)](https://github.com/vuejs/create-vue)
 *   [vuesion (⭐2.9k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.

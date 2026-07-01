@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [MarkerOn (⭐115)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
+
+### Components & Libraries / Utilities
+
+*   [@stitchapi/vue (⭐5)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
+
+### Components & Libraries / Scaffold
+
+*   [ILUMINATY (⭐2)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
+
 ## [Jun 27, 2026](/content/2026/06/27/README.md)
 
 ### Projects Using Vue.js / Open Source
@@ -711,7 +729,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vite (⭐81k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐82k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## [May 07, 2024](/content/2024/05/07/README.md)
 
@@ -830,7 +848,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐278)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐279)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
