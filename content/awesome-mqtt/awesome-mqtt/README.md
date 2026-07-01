@@ -8,6 +8,10 @@ Curated list of MQTT brokers, clients, tools, resources and more.
 
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
+### Rust
+
+*   [mqtt-typed-client (⭐9)](https://github.com/holovskyi/mqtt-typed-client) - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
+
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [mqtt-dashboard (⭐9)](https://github.com/jmischler72/mqtt-dashboard) - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics

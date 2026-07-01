@@ -12,9 +12,9 @@
 
 > Directory of iOS books
 
-|                                                                           Awesome                                                                           | Books |  Last updated |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  127  | June 29, 2026 |
+|                                                                           Awesome                                                                           | Books | Last updated |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  136  | July 1, 2026 |
 
 ## How to Use
 
@@ -70,6 +70,7 @@
 *   [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
 *   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
 *   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 
 ## Objective-C
 
@@ -98,6 +99,7 @@
 *   [*Classic Computer Science Problems in Swift* by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 *   [*Swift Gems* by Natalia Panferova](https://books.nilcoalescing.com/swift-gems)
 *   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
+*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 
 ## Functional Swift
 
@@ -118,9 +120,13 @@
 *   [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 *   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
+*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
+*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
 *   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
+*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
 *   [*SwiftUI Views Quick Start (FREE)* by Mark Moeykens](https://www.bigmountainstudio.com/free-swiftui-book)
 *   [*SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-views-book)
+*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
 *   [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
 *   [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
 *   [*SwiftUI Fundamentals* by Natalia Panferova](https://books.nilcoalescing.com/swiftui-fundamentals)
@@ -144,6 +150,7 @@
 *   [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 *   [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
 *   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 
 ## Multithreading
 
@@ -167,6 +174,7 @@
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 *   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 *   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
 
 ## ARKit
 
@@ -228,6 +236,7 @@
 
 *   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
+*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
 
 ## Server Side Swift
 

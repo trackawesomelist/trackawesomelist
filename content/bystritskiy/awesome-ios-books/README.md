@@ -6,6 +6,35 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### iOS
+
+*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
+
+### Swift
+
+*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
+
+### SwiftUI
+
+*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
+*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
+*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
+*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
+
+### Architecture
+
+*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
+
+### Database
+
+*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
+
+### macOS
+
+*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
+
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
 ### iOS

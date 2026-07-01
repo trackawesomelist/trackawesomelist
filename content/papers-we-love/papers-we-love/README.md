@@ -2,9 +2,15 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 93K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 107K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/papers-we-love/papers-we-love/week/README.md) / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [Bell System Technical Journal, 1922-1983](https://archive.org/details/bstj-archives)
 
 ## [May 05, 2025](/content/2025/05/05/README.md)
 
@@ -16,7 +22,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [eugeneyan/applied-ml GitHub repository (⭐28k)](https://github.com/eugeneyan/applied-ml)
+*   [eugeneyan/applied-ml GitHub repository (⭐30k)](https://github.com/eugeneyan/applied-ml)
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -36,12 +42,6 @@ Papers from the computer science community to read and discuss.
 ### Info / How To Read a Paper
 
 *   [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
-
-## [Jun 18, 2020](/content/2020/06/18/README.md)
-
-### Info / Other Good Places to Find Papers
-
-*   [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 
 ## [Sep 10, 2019](/content/2019/09/10/README.md)
 
@@ -111,7 +111,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.7k)](https://github.com/mmcgrana/services-engineering)
 
 ## [Apr 09, 2014](/content/2014/04/09/README.md)
 

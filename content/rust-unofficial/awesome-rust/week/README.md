@@ -10,12 +10,30 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
+*   [Goldziher/scythe (⭐51)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   [NoKV-Lab/NoKV (⭐439)](https://github.com/NoKV-Lab/NoKV) - AI-native distributed filesystem. [![Rust](https://github.com/NoKV-Lab/NoKV/workflows/Rust/badge.svg)](https://github.com/NoKV-Lab/NoKV/actions/workflows/rust.yml)
 *   [VelesDB (⭐72)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
 
 ### Applications / Productivity
 
 *   [tover0314-w/opentypeless (⭐295)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
+
+### Applications / Text processing
+
+*   [Goldziher/uncomment](https://github.com/Goldziher/uncomment) \[[uncomment](https://crates.io/crates/uncomment)] - Blazingly fast CLI to remove comments from code using tree-sitter grammars.
+
+### Libraries / Artificial Intelligence
+
+*   [xberg-io/liter-llm (⭐221)](https://github.com/xberg-io/liter-llm) \[[liter-llm](https://crates.io/crates/liter-llm)] - Universal LLM API client for 142+ providers with a unified interface, streaming, and native bindings for 11 languages.
+
+### Libraries / Parsing
+
+*   [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) \[[tree-sitter-language-pack](https://crates.io/crates/tree-sitter-language-pack)] - Pre-built tree-sitter grammars for 300+ languages with a unified parser API and bindings for 14 languages.
+
+### Libraries / Text processing
+
+*   [xberg-io/html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
+*   [xberg-io/xberg (⭐8.6k)](https://github.com/xberg-io/xberg) \[[xberg](https://crates.io/crates/xberg)] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -169,7 +187,7 @@ A curated list of Rust code and resources.
 ### Libraries / Parsing
 
 *   [firecrawl/pdf-inspector (⭐1.5k)](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF classification and text extraction.
-*   [run-llama/liteparse (⭐10k)](https://github.com/run-llama/liteparse) \[[liteparse](https://crates.io/crates/liteparse)] - Fast and light PDF parsing library with spatial text extraction, bounding boxes, flexible OCR (Tesseract/HTTP servers), and multi-language bindings (Rust, Node.js, Python, WASM). Built on PDFium with CLI tool `lit`. [![CI](https://github.com/run-llama/liteparse/actions/workflows/ci.yml/badge.svg)](https://github.com/run-llama/liteparse/actions/workflows/ci.yml)
+*   [run-llama/liteparse (⭐11k)](https://github.com/run-llama/liteparse) \[[liteparse](https://crates.io/crates/liteparse)] - Fast and light PDF parsing library with spatial text extraction, bounding boxes, flexible OCR (Tesseract/HTTP servers), and multi-language bindings (Rust, Node.js, Python, WASM). Built on PDFium with CLI tool `lit`. [![CI](https://github.com/run-llama/liteparse/actions/workflows/ci.yml/badge.svg)](https://github.com/run-llama/liteparse/actions/workflows/ci.yml)
 
 ### Resources / Web programming
 
@@ -213,20 +231,20 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [muvon/octomind (⭐75)](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
+*   [muvon/octomind](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
 
 ### Applications / Utilities
 
-*   [splashboard (⭐191)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
+*   [splashboard (⭐199)](https://github.com/unhappychoice/splashboard) \[[splashboard](https://crates.io/crates/splashboard)] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards [![CI](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/unhappychoice/splashboard/actions/workflows/ci.yml)
 
 ### Development tools / Workflow Automation
 
-*   [reflex-search/reflex](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
+*   [reflex-search/reflex (⭐63)](https://github.com/reflex-search/reflex) \[[reflex-search](https://crates.io/crates/reflex-search)] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.
 
 ### Development tools / FFI
 
 *   C
-    *   [gtk-rs/gir (⭐269)](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
+    *   [gtk-rs/gir](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
     *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
     *   [Sean1708/rusty-cheddar (⭐187)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
 
@@ -236,7 +254,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [rust-random/rand (⭐2k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
+*   [rust-random/rand](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
 
 ### Libraries / Data streaming
 
@@ -244,7 +262,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Geospatial
 
-*   [georust/geojson (⭐339)](https://github.com/georust/geojson) \[[geojson](https://crates.io/crates/geojson)] - Library for serializing and deserializing the GeoJSON vector GIS file format.
+*   [georust/geojson (⭐340)](https://github.com/georust/geojson) \[[geojson](https://crates.io/crates/geojson)] - Library for serializing and deserializing the GeoJSON vector GIS file format.
 
 ### Libraries / GUI
 
@@ -311,7 +329,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Caching
 
-*   [salsa-rs/salsa (⭐2.9k)](https://github.com/salsa-rs/salsa) \[[salsa](https://crates.io/crates/salsa)] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system. [![Test](https://github.com/salsa-rs/salsa/workflows/Test/badge.svg)](https://github.com/salsa-rs/salsa/actions?query=workflow%3ATest)
+*   [salsa-rs/salsa](https://github.com/salsa-rs/salsa) \[[salsa](https://crates.io/crates/salsa)] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system. [![Test](https://github.com/salsa-rs/salsa/workflows/Test/badge.svg)](https://github.com/salsa-rs/salsa/actions?query=workflow%3ATest)
 
 ### Libraries / Data processing
 
@@ -319,7 +337,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Parsing
 
-*   [oxc-project/oxc (⭐22k)](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
@@ -377,7 +395,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [s00d/switchshuttle (⭐123)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
+*   [s00d/switchshuttle (⭐124)](https://github.com/s00d/switchshuttle) - Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).
 
 ### Applications / Security tools
 
@@ -556,7 +574,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [anylinuxfs-gui (⭐127)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
+*   [anylinuxfs-gui (⭐145)](https://github.com/fenio/anylinuxfs-gui) - GUI application for anylinuxfs
 
 ### Applications / Text editors
 
@@ -732,7 +750,7 @@ A curated list of Rust code and resources.
 ### Libraries / Artificial Intelligence
 
 *   [katanemo/plano (⭐6.6k)](https://github.com/katanemo/plano) - The AI-native proxy server and data plane for agentic apps.
-*   [openai/codex (⭐91k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
+*   [openai/codex (⭐95k)](https://github.com/openai/codex) - Codex CLI is a coding agent from OpenAI that runs locally.
 
 ## [Feb 16 - Feb 22, 2026](/content/2026/7/README.md)
 
@@ -767,10 +785,6 @@ A curated list of Rust code and resources.
 ### Libraries / Data processing
 
 *   [ironcalc/IronCalc (⭐4k)](https://github.com/ironcalc/IronCalc) \[[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
-
-### Libraries / Text processing
-
-*   [kreuzberg-dev/kreuzberg (⭐8.6k)](https://github.com/kreuzberg-dev/kreuzberg) \[[kreuzberg](https://crates.io/crates/kreuzberg)] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -1783,7 +1797,7 @@ A curated list of Rust code and resources.
 
 *   Science
     *   [Axect/Peroxide (⭐708)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs (⭐242)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐187)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐118)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐80)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
@@ -3889,6 +3903,7 @@ A curated list of Rust code and resources.
 *   Miscellaneous
     *   [cargonauts (⭐180)](https://github.com/cargonauts-rs/cargonauts) - A web framework intended for building maintainable, well-factored web apps.
     *   [edezhic/prest (⭐66)](https://github.com/edezhic/prest) \[[prest](https://crates.io/crates/prest)] - Progressive RESTful framework aimed to simplify fullstack development
+    *   [Goldziher/spikard (⭐104)](https://github.com/Goldziher/spikard) \[[spikard](https://crates.io/crates/spikard)] - Multi-language web toolkit with a Rust core and bindings for Python, TypeScript, Ruby, and PHP.
     *   [hominee/dyer (⭐127)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [osohq/oso (⭐3.5k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
     *   [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) \[[soup](https://crates.io/crates/soup)] - A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
@@ -3904,6 +3919,7 @@ A curated list of Rust code and resources.
     *   [utkarshkukreti/select.rs (⭐1k)](https://github.com/utkarshkukreti/select.rs) \[[select](https://crates.io/crates/select)] - A library to extract useful data from HTML documents, suitable for web scraping.
     *   [Utoipa (⭐3.9k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
     *   [Utoipauto (⭐194)](https://github.com/ProbablyClem/utoipauto) - Rust Macros to automate the addition of Paths/Schemas to Utoipa [![crates.io](https://img.shields.io/crates/v/utoipauto.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipauto)
+    *   [xberg-io/crawlberg (⭐118)](https://github.com/xberg-io/crawlberg) \[[crawlberg](https://crates.io/crates/crawlberg)] - High-performance web crawling and scraping engine with HTML-to-Markdown conversion, headless-Chrome fallback, and bindings for 11 languages.
 
 ### Resources / Web programming
 
@@ -4071,7 +4087,7 @@ A curated list of Rust code and resources.
 *   CoAP
     *   [Covertness/coap-rs (⭐236)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard (⭐1.3k)](https://github.com/fussybeaver/bollard) - Docker daemon API
+    *   [fussybeaver/bollard](https://github.com/fussybeaver/bollard) - Docker daemon API
 
 ### Libraries / Parsing
 

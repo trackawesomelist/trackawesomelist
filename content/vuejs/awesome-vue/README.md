@@ -16,6 +16,10 @@
 
 *   [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 
+### Components & Libraries / UI Components
+
+*   [custom-highlight (⭐1)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
+
 ### Components & Libraries / Utilities
 
 *   [@stitchapi/vue (⭐5)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.

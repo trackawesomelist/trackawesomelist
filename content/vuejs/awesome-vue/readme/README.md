@@ -1246,6 +1246,7 @@ Tooltips / popovers
 *   [vue-awesome-button (⭐1)](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 *   [vuehex (⭐6)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 *   [vue3-icon-picker (⭐9)](https://github.com/noeGnh/vue3-icon-picker) Icon picker component for Vue 3.
+*   [custom-highlight (⭐1)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 #### Tabs
 

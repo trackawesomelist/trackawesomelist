@@ -6,17 +6,379 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Jul 01, 2026](/content/2026/07/01/README.md)
+
+### Admin Interface
+
+*   [RailsAdmin](https://github.com/railsadminteam/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
+
+### AI and LLMs
+
+*   [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+*   [openai-ruby (⭐438)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
+*   [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
+*   Model Context Protocol (MCP)
+    *   [ruby-sdk (⭐856)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
+
+### API Builder and Discovery
+
+*   [Blueprinter (⭐1.3k)](https://github.com/procore-oss/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Her (⭐2.1k)](https://github.com/remi/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
+*   [Roar (⭐1.8k)](https://github.com/trailblazer/roar) - Resource-Oriented Architectures in Ruby.
+
+### Authentication and OAuth
+
+*   [Oath (⭐372)](https://github.com/halogenandtoast/oath) - A very simple and extensible user authentication library for rails (formerly Monban).
+*   [warden (⭐2.5k)](https://github.com/wardencommunity/warden) - General Rack Authentication Framework.
+
+### Authorization
+
+*   [Pundit (⭐8.5k)](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
+*   [Rabarber (⭐191)](https://github.com/enjaku4/rabarber) - Simple role-based authorization for Rails with multi-tenancy support.
+
+### Automation
+
+*   [Huginn (⭐49k)](https://github.com/huginn/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Neovim (⭐366)](https://github.com/neovim/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+
+### Breadcrumbs
+
+*   [loaf (⭐405)](https://github.com/piotrmurach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+
+### Business logic
+
+*   [Dentaku (⭐960)](https://github.com/rubysolo/dentaku) - A parser and evaluator for mathematical and logical formulas, safely evaluating user-supplied expressions at runtime.
+
+### Caching
+
+*   [Dalli](https://github.com/petergoldstein/dalli) - A high performance pure Ruby client for accessing memcached servers.
+
+### CLI Builder
+
+*   [TTY (⭐2.5k)](https://github.com/piotrmurach/tty) - Toolbox for developing CLI clients.
+
+### CLI Utilities
+
+*   [Pastel (⭐670)](https://github.com/piotrmurach/pastel) - Terminal output styling with intuitive and clean API.
+
+### Cloud
+
+*   [browse-everything](https://github.com/samvera/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [humidifier (⭐56)](https://github.com/kddnewton/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
+
+### Code Analysis and Metrics
+
+*   [Pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes.
+*   [rails\_best\_practices (⭐4.2k)](https://github.com/flyerhzm/rails_best_practices) - A code metric tool for rails projects.
+*   [rubydex](https://github.com/Shopify/rubydex) - A high-performance static analysis suite for Ruby, built in Rust with Ruby APIs.
+*   [SimpleCov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
+
+### Code Formatting
+
+*   [RuboCop (⭐13k)](https://github.com/rubocop/rubocop) - A static code analyzer, based on the community Ruby style guide.
+    *   [Rubocop Rails (⭐875)](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐739)](https://github.com/rubocop/rubocop-performance) - A RuboCop extension focused on code performance checks.
+*   [Standard](https://github.com/standardrb/standard) - Ruby Style Guide, with linter & automatic code fixer
+
+### Code Highlighting
+
+*   [pygments.rb (⭐579)](https://github.com/pygments/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [Rouge (⭐3.4k)](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+
+### Coding Style Guides
+
+*   [fast-ruby](https://github.com/fastruby/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [Rails style guide (⭐6.5k)](https://github.com/rubocop/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
+*   [RSpec style guide (⭐3.5k)](https://github.com/betterspecs/betterspecs) - Better Specs { rspec guidelines with ruby }.
+*   [Ruby style guide (⭐17k)](https://github.com/rubocop/ruby-style-guide) - Community-driven Ruby coding style.
+
+### Configuration
+
+*   [Econfig (⭐65)](https://github.com/varvet/econfig) - Flexible configuration for Rails applications.
+*   [RailsConfig](https://github.com/rubyconfig/config) - Multi-environment yaml settings for Rails3.
+
+### Core Extensions
+
+*   [Finishing Moves](https://github.com/BattleBrisket/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Hanami::Utils](https://github.com/hanami/hanami-utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   Hash
+    *   [Hashie (⭐3k)](https://github.com/hashie/hashie) - A collection of tools that extend Hashes and make them more useful.
+
+### Country Data
+
+*   [Carmen](https://github.com/carmen-ruby/carmen) - A repository of geographic regions.
+*   [Countries (⭐2.4k)](https://github.com/countries/countries) - All sorts of useful information about every country packaged as pretty little country objects.
+
+### Cryptocurrencies and Blockchains
+
+*   [Blockchain Lite](https://github.com/rubycocos/blockchain) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+
+### Data Processing and ETL
+
+*   [CSV Reader (⭐176)](https://github.com/rubycocos/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+
+### Database Tools
+
+*   [Scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails.
+
+### Date and Time Processing
+
+*   [ice\_cube (⭐2.5k)](https://github.com/ice-cube-ruby/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
+
+### Debugging Tools
+
+*   [did\_you\_mean (⭐1.9k)](https://github.com/ruby/did_you_mean) - Adds class, method & attribute suggestions to error messages.
+*   [pry-rails (⭐1.4k)](https://github.com/pry/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
+*   [tracer](https://github.com/ruby/tracer) - A Ruby tracing tool for following method calls, line execution, and object allocations via TracePoint.
+
+### Developer Tooling
+
+*   Language Servers
+    *   [Fuzzy Ruby Server](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
+    *   [Ruby LSP (⭐2k)](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby with support for pull diagnostics, formatting, and more.
+    *   [Solargraph (⭐2k)](https://github.com/castwide/solargraph) - A Ruby language server providing IntelliSense, code completion, and inline documentation.
+*   Editor Extensions
+    *   [Ruby LSP (VS Code)](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) - VS Code extension providing a rich Ruby development experience powered by Ruby LSP.
+    *   [VSCode RuboCop](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
+    *   [VSCode Standard](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
+    *   [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) - VS Code extension for the debug gem with DAP support.
+*   Developer Experience
+    *   [debug (⭐1.3k)](https://github.com/ruby/debug) - The official Ruby debugger with Debug Adapter Protocol (DAP) support.
+    *   [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
+    *   [ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
+
+### DevOps Tools
+
+*   [Einhorn](https://github.com/contribsys/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+
+### Documentation
+
+*   [Hanna](https://github.com/jeremyevans/hanna) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+
+### E-Commerce and Payments
+
+*   [Pay (⭐2.2k)](https://github.com/pay-rails/pay) - A payments engine for Rails, supporting Stripe, Braintree, Paddle, and Lemon Squeezy.
+*   [PayPal Server SDK (⭐6)](https://github.com/paypal/PayPal-Ruby-Server-SDK) - PayPal's official Ruby SDK for the PayPal Server APIs (Orders and Payments).
+
+### Ebook
+
+*   [bookpub (⭐13)](https://github.com/worlduniting/bookpub) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+
+### Email
+
+*   [Postal (⭐17k)](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+
+### Encryption
+
+*   [bcrypt-ruby (⭐2k)](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
+*   [RbNaCl (⭐985)](https://github.com/RubyCrypto/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+
+### Environment Management
+
+*   [rbenv](https://github.com/rbenv/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+*   [ruby-build (⭐4k)](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
+*   [rv](https://rv.dev) - A fast Ruby version and toolchain manager written in Rust.
+
+### Error Handling
+
+*   [Better Errors](https://github.com/BetterErrors/better_errors) - Better error page for Rack apps.
+
+### Feature Flippers and A/B Testing
+
+*   [flipper (⭐4k)](https://github.com/flippercloud/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [Unleash (⭐62)](https://github.com/Unleash/unleash-ruby-sdk) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+
+### File Upload
+
+*   [Shrine (⭐3.3k)](https://github.com/shrinerb/shrine) - Toolkit for handling file uploads in Ruby.
+
+### Form Builder
+
+*   [bootstrap\_form (⭐1.6k)](https://github.com/bootstrap-ruby/bootstrap_form) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+*   [Formtastic (⭐5.2k)](https://github.com/formtastic/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
+*   [Rapidfire (⭐328)](https://github.com/codemancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Reform (⭐2.5k)](https://github.com/trailblazer/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
+
+### Game Development and Graphics
+
+*   [Mittsu (⭐539)](https://github.com/danini-the-panini/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+
+### Git Tools
+
+*   [Overcommit (⭐4k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
+
+### GraphQL
+
+*   [graphql-client (⭐77)](https://github.com/github-community-projects/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+
+### HTML/XML Parsing
+
+*   [HappyMapper (⭐152)](https://github.com/mvz/happymapper) - Object to XML mapping library, using Nokogiri.
+*   [HTML::Pipeline (⭐2.3k)](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities.
+
+### Image Processing
+
+*   [ruby-vips (⭐904)](https://github.com/libvips/ruby-vips) - A binding for the libvips image processing library.
+
+### Implementations/Compilers
+
+*   [TruffleRuby (⭐3.2k)](https://github.com/truffleruby/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+
+### Internationalization
+
+*   [i18n (⭐1k)](https://github.com/ruby-i18n/i18n) - Ruby Internationalization and localization solution.
+*   [r18n](https://github.com/r18n/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+
+### Machine Learning
+
+*   [TensorFlow (⭐383)](https://github.com/ankane/tensorflow-ruby) - The end-to-end machine learning platform for Ruby.
+
+### Music and Sound
+
+*   [Sonic Pi (⭐12k)](https://github.com/sonic-pi-net/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+
+### Networking
+
+*   [RubyDNS (⭐727)](https://github.com/socketry/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+
+### Optimizations
+
+*   [bootsnap (⭐2.7k)](https://github.com/rails/bootsnap) - Boot large Ruby/Rails apps faster.
+*   [fast\_underscore (⭐37)](https://github.com/kddnewton/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+
+### ORM/ODM
+
+*   [NoBrainer (⭐386)](https://github.com/NoBrainerORM/nobrainer/) - A RethinkDB ORM for Ruby
+
+### ORM/ODM Extensions
+
+*   Social
+    *   [Merit (⭐1.5k)](https://github.com/tute/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
+    *   [PublicActivity (⭐3k)](https://github.com/public-activity/public_activity) - Provides easy activity tracking for your ActiveRecord, Mongoid 3 and MongoMapper models in Rails 3 and 4. Similar to Github's Public Activity.
+    *   [Simple Feed (⭐335)](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
+    *   [Unread (⭐742)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
+*   Sorting
+    *   [ActsAsList (⭐2.1k)](https://github.com/brendon/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [positioning (⭐414)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
+    *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
+
+### PDF
+
+*   [Squid (⭐221)](https://github.com/claudiob/squid) - Squid · A Ruby library to plot charts in PDF files
+
+### Performance Monitoring
+
+*   [Instrumental (⭐59)](https://github.com/Instrumental/instrumental_agent-ruby) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
+*   [New Relic](https://github.com/newrelic/newrelic-ruby-agent) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+
+### Processes
+
+*   [childprocess (⭐597)](https://github.com/enkessler/childprocess) - Cross-platform ruby library for managing child processes.
+
+### Profiler and Optimization
+
+*   [Derailed Benchmarks (⭐3.1k)](https://github.com/zombocom/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
+*   [Rbkit (⭐354)](https://github.com/codemancers/rbkit) - profiler for Ruby. With a GUI.
+*   [test-prof (⭐2k)](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
+
+### Queues and Messaging
+
+*   [Que (⭐2.3k)](https://github.com/que-rb/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+*   [Shoryuken (⭐2.1k)](https://github.com/ruby-shoryuken/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+
+### RSS
+
+*   [feedparser (⭐168)](https://github.com/rubycocos/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [Stringer (⭐4.1k)](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
+
+### Serverless
+
+*   [Jets (⭐2.6k)](https://github.com/rubyonjets/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
+
+### Scheduling
+
+*   [Sidekiq-Cron (⭐1.9k)](https://github.com/sidekiq-cron/sidekiq-cron) - A scheduling add-on for Sidekiq.
+
+### Scientific
+
+*   Bindings
+    *   [PyCall (⭐1.1k)](https://github.com/red-data-tools/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐811)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+*   Data analysis/structures
+    *   [daru (⭐1.1k)](https://github.com/SciRuby/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+    *   [Daru::View (⭐98)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐421)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+
+### Search
+
+*   [Mongoid Search (⭐315)](https://github.com/mongoid/mongoid_search) - Simple full text search implementation for Mongoid.
+
+### Security
+
+*   [Rack::Attack (⭐5.7k)](https://github.com/rack/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [SecureHeaders (⭐3.2k)](https://github.com/github/secure_headers) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
+
+### Services and Apps
+
+*   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/OctoLinker) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
+
+### State Machines
+
+*   [FiniteMachine (⭐804)](https://github.com/piotrmurach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
+
+### Third-party APIs
+
+*   [Notion Ruby Client](https://github.com/phacks/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Restforce (⭐823)](https://github.com/restforce/restforce) - A Ruby client for the Salesforce REST api.
+*   [Slack Notifier](https://github.com/slack-notifier/slack-notifier) - A simple wrapper for posting to Slack channels.
+*   [twitter (⭐4.6k)](https://github.com/sferik/twitter-ruby) - A Ruby interface to the Twitter API.
+*   [Yt (⭐754)](https://github.com/claudiob/yt) - An object-oriented Ruby client for YouTube API V3.
+*   [x-cli (⭐5.6k)](https://github.com/sferik/x-cli) - A command-line power tool for X/Twitter.
+
+### Type Signatures and Type Checking
+
+*   [RBS (⭐2.2k)](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
+*   [rbs-inline (⭐352)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
+*   [Sord (⭐334)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
+*   [Spoom](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
+*   [Steep](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
+*   [Tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
+*   [Typeprof (⭐827)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
+*   Runtime Typing
+    *   [dry-types (⭐897)](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
+    *   [Literal](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
+
+### Video
+
+*   [Video Transcoding (⭐2.5k)](https://github.com/lisamelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+
+### View components
+
+*   [Phlex (⭐1.5k)](https://github.com/yippee-fun/phlex) - A framework for building object-oriented views in Ruby.
+*   [ViewComponent](https://github.com/ViewComponent/view_component) - View components for Rails.
+
+### View helpers
+
+*   [Bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby.
+*   [render\_async (⭐1.1k)](https://github.com/nikolalsvk/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
+
+### WebSocket
+
+*   [CableReady (⭐771)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [StimulusReflex (⭐2.3k)](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
+
 ## [May 20, 2026](/content/2026/05/20/README.md)
 
 ### Mobile Development
 
-*   [fastlane-plugin-pgyer](https://github.com/PGYER/fastlane-plugin-pgyer) - Distribute iOS, Android and HarmonyOS apps to PGYER beta testing service from your Fastlane lane.
+*   [fastlane-plugin-pgyer (⭐66)](https://github.com/PGYER/fastlane-plugin-pgyer) - Distribute iOS, Android and HarmonyOS apps to PGYER beta testing service from your Fastlane lane.
 
 ## [May 08, 2026](/content/2026/05/08/README.md)
 
 ### Assets
 
-*   [Bundlebun (⭐82)](https://github.com/yaroslav/bundlebun) - bundles Bun, the all-in-one JavaScript runtime, package manager, and build tool, directly into your Ruby gem bundle.
+*   [Bundlebun (⭐96)](https://github.com/yaroslav/bundlebun) - bundles Bun, the all-in-one JavaScript runtime, package manager, and build tool, directly into your Ruby gem bundle.
 
 ## [Mar 18, 2026](/content/2026/03/18/README.md)
 
@@ -55,16 +417,12 @@
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### Authorization
-
-*   [Rabarber (⭐200)](https://github.com/brownboxdev/rabarber) - Simple role-based authorization for Rails with multi-tenancy support.
-
 ### Boilerplates & UI Kits
 
 *   [Jumpstart](https://jumpstartrails.com/) - The Ruby on Rails SaaS template to save you months of development time.
 *   [Rails Blocks](https://railsblocks.com) - Delightful UI components for your Rails app that use Tailwind CSS & Stimulus controllers.
 *   [Speedrail (⭐290)](https://github.com/ryanckulp/speedrail) - A free Rails 8 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc.
-*   [Wheel (⭐264)](https://github.com/bigbinary/wheel) - Rails application template to build Rails applications faster.
+*   [Wheel (⭐265)](https://github.com/bigbinary/wheel) - Rails application template to build Rails applications faster.
 
 ### Date and Time Processing
 
@@ -76,7 +434,7 @@
 
 ### Search
 
-*   [typesense-ruby (⭐114)](https://github.com/typesense/typesense-ruby) - Ruby client for Typesense, a fast, typo-tolerant search engine.
+*   [typesense-ruby (⭐117)](https://github.com/typesense/typesense-ruby) - Ruby client for Typesense, a fast, typo-tolerant search engine.
 
 ## [May 20, 2025](/content/2025/05/20/README.md)
 
@@ -88,29 +446,29 @@
 
 ### Configuration
 
-*   [AnywayConfig (⭐887)](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications, supporting multiple sources (yml, secrets) and environments.
+*   [AnywayConfig (⭐910)](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications, supporting multiple sources (yml, secrets) and environments.
 
 ## [Mar 17, 2025](/content/2025/03/17/README.md)
 
 ### Admin Interface
 
-*   [Madmin (⭐751)](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
+*   [Madmin (⭐759)](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
 
 ## [Dec 14, 2024](/content/2024/12/14/README.md)
 
 ### Markdown Processors
 
-*   [ZMediumToMarkdown (⭐50)](https://github.com/ZhgChgLi/ZMediumToMarkdown) - A powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
+*   [ZMediumToMarkdown (⭐54)](https://github.com/ZhgChgLi/ZMediumToMarkdown) - A powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
 
 ### Networking
 
-*   [PacketFu (⭐392)](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
+*   [PacketFu (⭐393)](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
 
 ## [Nov 26, 2024](/content/2024/11/26/README.md)
 
 ### Documentation
 
-*   [AnnotateRb (⭐593)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
+*   [AnnotateRb (⭐607)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
@@ -136,25 +494,25 @@
 
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
-### Machine Learning
+### AI and LLMs
 
 *   [langchain.rb (⭐2k)](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 
 ### Pagination
 
-*   [activerecord\_cursor\_paginate (⭐156)](https://github.com/healthie/activerecord_cursor_paginate) - Cursor-based pagination for ActiveRecord.
+*   [activerecord\_cursor\_paginate (⭐157)](https://github.com/healthie/activerecord_cursor_paginate) - Cursor-based pagination for ActiveRecord.
 
 ## [Aug 22, 2024](/content/2024/08/22/README.md)
 
 ### Database Drivers
 
-*   [Trilogy (⭐770)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
+*   [Trilogy](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### File System Listener
 
-*   [Retest (⭐221)](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+*   [Retest (⭐220)](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
 
 ## [May 24, 2024](/content/2024/05/24/README.md)
 
@@ -163,7 +521,7 @@
 *   [Gemfast (⭐74)](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
 *   [Gem in a box (⭐1.5k)](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
 *   [Gemirro (⭐154)](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
-*   [Gemstash (⭐788)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+*   [Gemstash (⭐794)](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
 
 ## [May 20, 2024](/content/2024/05/20/README.md)
 
@@ -198,20 +556,20 @@
     *   [acts\_as\_archival (⭐129)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
     *   [ActsAsParanoid (⭐1.5k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
     *   [Audited (⭐3.5k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
-    *   [Destroyed At (⭐346)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+    *   [Destroyed At (⭐345)](https://github.com/DavyJonesLocker/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
     *   [Discard (⭐2.4k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
     *   [Logidze (⭐1.7k)](https://github.com/palkan/logidze) - Database changes log for Rails.
     *   [marginalia (⭐1.8k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
-    *   [mongoid-history (⭐392)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
-    *   [PaperTrail (⭐7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
-    *   [Paranoia (⭐2.9k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
+    *   [mongoid-history (⭐392)](https://github.com/mongoid/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
+    *   [PaperTrail (⭐7k)](https://github.com/paper-trail-gem/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
+    *   [Paranoia (⭐2.9k)](https://github.com/rubysherpas/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
     *   [PermenantRecords (⭐273)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### Admin Interface
 
-*   [Hot Glue (⭐242)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
+*   [Hot Glue (⭐241)](https://github.com/hot-glue-for-rails/hot-glue/) - Hot Glue takes a different approach to building both admin and user dashboards. It is a code generation tool like the Rails scaffold generator but with significantly more features. Instead of providing a lot of configuration options, Hot Glue can generate your code. Good for lists & CRUD views for both admin and user-facing dashboards.
 
 ### Optimizations
 
@@ -227,7 +585,7 @@
 
 ### IRB
 
-*   [KatakataIrb (⭐94)](https://github.com/tompng/katakata_irb) - IRB with Kata(型 Type) completion.
+*   [KatakataIrb (⭐93)](https://github.com/tompng/katakata_irb) - IRB with Kata(型 Type) completion.
 
 ### Natural Language Processing
 
@@ -247,7 +605,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐471)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐487)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
@@ -264,7 +622,7 @@
 
 ### Error Handling
 
-*   [Sentry Ruby (⭐988)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
+*   [Sentry Ruby (⭐989)](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
 
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
@@ -272,17 +630,13 @@
 
 *   [Online Migrations (⭐739)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
-### Feature Flippers and A/B Testing
-
-*   [Unleash (⭐62)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
-
 ### PDF
 
 *   [Grim (⭐231)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 
 ## [Apr 21, 2023](/content/2023/04/21/README.md)
 
-### Machine Learning
+### AI and LLMs
 
 *   [ruby-openai (⭐3.2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
@@ -290,7 +644,7 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐628)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐631)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
@@ -302,10 +656,6 @@
 
 *   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
 
-### Third-party APIs
-
-*   [Notion Ruby Client (⭐131)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
-
 ## [Mar 16, 2023](/content/2023/03/16/README.md)
 
 ### Video
@@ -316,7 +666,7 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐624)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐638)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
@@ -342,23 +692,16 @@
 
 *   [Lowkiq (⭐142)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
-## [Dec 22, 2022](/content/2022/12/22/README.md)
-
-### View components
-
-*   [Phlex (⭐1.5k)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
-
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
 ### Social Networking
 
-*   [Retrospring (⭐284)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐285)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
     *   [Ferrum (⭐2k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
-    *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
     *   [Selenium WebDriver (⭐34k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
@@ -366,7 +709,7 @@
 
 ### Game Development and Graphics
 
-*   [Taylor (⭐142)](https://github.com/HellRok/Taylor) - Taylor is a game engine built using mruby and raylib.
+*   [Taylor (⭐146)](https://github.com/HellRok/Taylor) - Taylor is a game engine built using mruby and raylib.
 
 ## [Oct 18, 2022](/content/2022/10/18/README.md)
 
@@ -394,7 +737,7 @@
 
 ### GUI
 
-*   [FXRuby (⭐269)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
+*   [FXRuby (⭐270)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 
 ### Third-party APIs
 
@@ -404,16 +747,16 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐353)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐354)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [Jun 16, 2022](/content/2022/06/16/README.md)
 
 ### Security
 
 *   [Fingerprinter (⭐258)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐976)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐661)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐6.6k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [haiti (⭐986)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐662)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐6.7k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [Apr 21, 2022](/content/2022/04/21/README.md)
@@ -428,18 +771,12 @@
 
 *   [Ougai (⭐277)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
 
-## [Mar 11, 2022](/content/2022/03/11/README.md)
-
-### Code Formatting
-
-*   [Standard (⭐2.9k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
-
 ## [Feb 14, 2022](/content/2022/02/14/README.md)
 
 ### Date and Time Processing
 
-*   [montrose (⭐856)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐959)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐855)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐960)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [Feb 12, 2022](/content/2022/02/12/README.md)
 
@@ -457,41 +794,39 @@
 
 *   OAuth:
     *   [Doorkeeper (⭐5.5k)](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
-    *   [OAuth2 (⭐2.2k)](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
+    *   [OAuth2](https://github.com/ruby-oauth/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
     *   [Rodauth-Oauth](https://gitlab.com/honeyryderchuck/rodauth-oauth) - A rodauth OAuth and OpenID provider plugin.
 
 ### Breadcrumbs
 
 *   [Breadcrumbs on Rails (⭐954)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-*   [Gretel (⭐890)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
-*   [loaf (⭐405)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+*   [Gretel (⭐891)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 *   [Simple Navigation (⭐887)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
 *   [ActiveInteraction (⭐2.1k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
 *   [Interactor (⭐3.5k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐880)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [Light Service (⭐882)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 *   [Surrounded (⭐256)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐619)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [Waterfall (⭐618)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 *   [wisper (⭐3.3k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
 
-*   [Docile (⭐423)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
+*   [Docile (⭐435)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
 *   [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 
 ### Decorators
 
 *   [Decent Exposure (⭐1.8k)](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
-*   [Responders (⭐2k)](https://github.com/heartcombo/responders) - A set of Rails responders to dry up your application.
+*   [Responders (⭐2.1k)](https://github.com/heartcombo/responders) - A set of Rails responders to dry up your application.
 
 ### Discover
 
 *   [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 *   [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
-*   [Open Source Rails](https://www.opensourcerails.org/) - A gallery of the best open source rack and Ruby on Rails web applications.
 *   [Ruby Bookmarks (⭐2.3k)](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 *   [RubyDaily](http://rubydaily.org) - Community driven news.
 *   [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
@@ -516,15 +851,13 @@
 *   [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
 *   [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 *   [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
-*   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 *   [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 *   [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
 
 ### View components
 
 *   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
-*   [Komponent (⭐423)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐3.6k)](https://github.com/github/view_component) - View components for Rails.
+*   [Komponent (⭐422)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
 
 ### View helpers
 
@@ -549,9 +882,9 @@
 ### ORM/ODM Extensions
 
 *   Misc
-    *   [arel\_extensions (⭐144)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
+    *   [arel\_extensions (⭐143)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
     *   [ActiveRecord::Turntable (⭐208)](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
-    *   [ActiveValidators (⭐301)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+    *   [ActiveValidators (⭐302)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
     *   [DeepPluck (⭐459)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
     *   [Enumerize (⭐1.8k)](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
     *   [Goldiloader (⭐1.7k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
@@ -569,9 +902,8 @@
     *   [Berkshelf (⭐1.1k)](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
     *   [CocoaPods (⭐15k)](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-    *   [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
-    *   [Homebrew-cask (⭐22k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-    *   [Homebrew (⭐48k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
+    *   [Homebrew-cask (⭐22k)](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
+    *   [Homebrew (⭐49k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## [Nov 05, 2021](/content/2021/11/05/README.md)
@@ -584,7 +916,7 @@
 
 ### Core Extensions
 
-*   [Bitwise (⭐49)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
+*   [Bitwise (⭐50)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 
 ### Email
 
@@ -608,7 +940,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐837)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐839)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [Sep 01, 2021](/content/2021/09/01/README.md)
 
@@ -626,10 +958,6 @@
 
 *   [Vite Ruby (⭐1.6k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
-### Automation
-
-*   [Neovim (⭐366)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
-
 ### Data Processing and ETL
 
 *   [attr-gather (⭐43)](https://github.com/ianks/attr-gather) - A gem for creating workflows that "enhance" entities with extra attributes. At a high level, attr-gather provides a process to fetch information from many data sources (such as third party APIs, legacy databases, etc.) in a fully parallelized fashion.
@@ -642,7 +970,7 @@
 
 ### Authentication and OAuth
 
-*   [Devise (⭐24k)](https://github.com/heartcombo/devise) - A flexible authentication solution for Rails based on Warden.
+*   [Devise](https://github.com/heartcombo/devise) - A flexible authentication solution for Rails based on Warden.
 
 ### Data Visualization
 
@@ -650,11 +978,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐461)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐462)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐871)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐872)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -682,7 +1010,7 @@
 ### Cryptocurrencies and Blockchains
 
 *   [Ciri (⭐127)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
-*   [MoneyTree (⭐185)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
+*   [MoneyTree (⭐184)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 
 ### Markdown Processors
 
@@ -696,16 +1024,11 @@
 
 ### Automation
 
-*   [Runbook (⭐761)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
-
-### Game Development and Graphics
-
-*   [Mittsu (⭐539)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Runbook (⭐766)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Machine Learning
 
-*   [TensorFlow (⭐383)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐829)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [Torch.rb (⭐835)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [Mar 23, 2021](/content/2021/03/23/README.md)
 
@@ -723,19 +1046,19 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐388)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐386)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [Feb 10, 2021](/content/2021/02/10/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐402)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐403)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [Jan 19, 2021](/content/2021/01/19/README.md)
 
 ### CRM
 
-*   [Hitobito](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐472)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [Jan 10, 2021](/content/2021/01/10/README.md)
 
@@ -751,23 +1074,23 @@
 
 ### CMS
 
-*   [Storytime (⭐748)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
+*   [Storytime (⭐747)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
 
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐256)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
-    *   [Bitfields (⭐224)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
+    *   [ActiveFlag (⭐257)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [Bitfields (⭐226)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
 
-*   [Bridgetown (⭐1.3k)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
+*   [Bridgetown (⭐1.4k)](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
 
 ## [Oct 16, 2020](/content/2020/10/16/README.md)
 
 ### Machine Learning
 
-*   [rumale (⭐908)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐909)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
@@ -788,27 +1111,21 @@
 *   [Rpush (⭐2.2k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
 *   [webpush (⭐404)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
-## [Sep 07, 2020](/content/2020/09/07/README.md)
-
-### Debugging Tools
-
-*   [tapping\_device (⭐447)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
-
 ## [Sep 06, 2020](/content/2020/09/06/README.md)
 
 ### API Builder and Discovery
 
-*   [Acts\_As\_Api (⭐502)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Acts\_As\_Api (⭐501)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 
 ### Authorization
 
-*   [Consul (⭐333)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐334)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ## [Sep 02, 2020](/content/2020/09/02/README.md)
 
 ### Error Handling
 
-*   [Rollbar (⭐478)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐481)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
@@ -818,17 +1135,13 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐944)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐957)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [Aug 17, 2020](/content/2020/08/17/README.md)
 
-### API Builder and Discovery
-
-*   [Blueprinter (⭐1.3k)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
-
 ### GUI
 
-*   [Glimmer (⭐829)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐837)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
@@ -850,42 +1163,29 @@
 
 *   [Falcon (⭐3k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
-## [Jun 04, 2020](/content/2020/06/04/README.md)
-
-### Web Frameworks
-
-*   [Pakyow](https://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
-
 ## [May 17, 2020](/content/2020/05/17/README.md)
 
 ### Scheduling
 
-*   [que-scheduler (⭐115)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
+*   [que-scheduler (⭐114)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
 ## [May 10, 2020](/content/2020/05/10/README.md)
 
 ### CLI Utilities
 
-*   [Tabulo (⭐247)](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
-
-## [May 09, 2020](/content/2020/05/09/README.md)
-
-### WebSocket
-
-*   [CableReady (⭐771)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
-*   [StimulusReflex (⭐2.3k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
+*   [Tabulo (⭐248)](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
 
 ## [May 05, 2020](/content/2020/05/05/README.md)
 
 ### Date and Time Processing
 
-*   [holidays (⭐873)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐877)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [May 04, 2020](/content/2020/05/04/README.md)
 
 ### E-Commerce and Payments
 
-*   [credit\_card\_validations (⭐263)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+*   [credit\_card\_validations (⭐265)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 
 ### Security
 
@@ -895,7 +1195,7 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐856)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐870)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
@@ -909,7 +1209,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐864)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐865)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -923,36 +1223,21 @@
 
 *   [git\_curate (⭐432)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 
-### Optimizations
-
-*   [fast\_underscore (⭐37)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
-
 ## [Apr 20, 2020](/content/2020/04/20/README.md)
 
 ### Profiler and Optimization
 
 *   [stackprof (⭐2.2k)](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
-*   [test-prof (⭐2k)](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
-### Data Processing and ETL
-
-*   [CSV Reader (⭐176)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
-
 ### E-Commerce and Payments
 
-*   [Workarea (⭐327)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐326)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐677)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
-
-## [Feb 03, 2020](/content/2020/02/03/README.md)
-
-### Documentation
-
-*   [Documentation (⭐213)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
+*   [Ruby 2D (⭐680)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [Jan 31, 2020](/content/2020/01/31/README.md)
 
@@ -961,13 +1246,6 @@
 *   [RQRCode (⭐2k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
-
-### Code Formatting
-
-*   [RuboCop (⭐13k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐865)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐843)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐727)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
@@ -978,19 +1256,11 @@
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐536)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
-
-### Form Builder
-
-*   [Rapidfire (⭐328)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [working\_hours (⭐537)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Scientific
 
 *   [Red Data Tools](https://github.com/red-data-tools) - Data processing tools for Ruby.
-
-### Third-party APIs
-
-*   [Buffer (⭐56)](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 
 ## [Dec 02, 2019](/content/2019/12/02/README.md)
 
@@ -1008,7 +1278,7 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐835)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐837)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [Nov 03, 2019](/content/2019/11/03/README.md)
 
@@ -1038,19 +1308,15 @@
 
 ### Database Tools
 
-*   [Rein (⭐671)](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
+*   [Rein (⭐670)](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
 
 ## [Jul 28, 2019](/content/2019/07/28/README.md)
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐486)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐483)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [Jul 25, 2019](/content/2019/07/25/README.md)
-
-### Cloud
-
-*   [humidifier (⭐57)](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ### CMS
 
@@ -1062,11 +1328,11 @@
 
 ### Web Servers
 
-*   [Agoo (⭐927)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐928)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [Jun 28, 2019](/content/2019/06/28/README.md)
 
-### Code Analysis and Metrics
+### Type Signatures and Type Checking
 
 *   [Sorbet (⭐3.8k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
@@ -1075,18 +1341,6 @@
 ### Profiler and Optimization
 
 *   [rbspy (⭐2.6k)](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
-
-## [May 23, 2019](/content/2019/05/23/README.md)
-
-### E-Commerce and Payments
-
-*   [SquareConnect (⭐40)](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
-
-## [May 15, 2019](/content/2019/05/15/README.md)
-
-### View helpers
-
-*   [render\_async (⭐1.1k)](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
 
 ## [May 08, 2019](/content/2019/05/08/README.md)
 
@@ -1102,14 +1356,13 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐992)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐991)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [Apr 19, 2019](/content/2019/04/19/README.md)
 
 ### Music and Sound
 
 *   [Maestro (⭐121)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
-*   [Sonic Pi (⭐12k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [Apr 15, 2019](/content/2019/04/15/README.md)
 
@@ -1117,17 +1370,11 @@
 
 *   [Uru](https://bitbucket.org/jonforums/uru) - Uru is a lightweight, multi-platform command line tool that helps you use the multiple rubies on your 32/64-bit Linux, OS X, or Windows systems.
 
-## [Apr 02, 2019](/content/2019/04/02/README.md)
-
-### Debugging Tools
-
-*   [pry-rails (⭐1.4k)](https://github.com/rweng/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
-
 ## [Mar 20, 2019](/content/2019/03/20/README.md)
 
 ### Date and Time Processing
 
-*   [timezone (⭐363)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐375)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ## [Mar 19, 2019](/content/2019/03/19/README.md)
 
@@ -1147,43 +1394,27 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐584)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐585)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
-*   [Decidim (⭐1.7k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.8k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
 ## [Mar 04, 2019](/content/2019/03/04/README.md)
 
 ### DevOps Tools
 
-*   [Sunzi (⭐452)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
+*   [Sunzi (⭐453)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 
 ### Machine Learning
 
-*   [AI4R (⭐720)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [AI4R (⭐721)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
 *   [ruby-fann (⭐506)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐6.2k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 *   [Procodile (⭐612)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
-
-### Scientific
-
-*   Bindings
-    *   [PyCall (⭐1.1k)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐811)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
-
-## [Feb 28, 2019](/content/2019/02/28/README.md)
-
-### Serverless
-
-*   [Jets (⭐2.6k)](https://github.com/tongueroo/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
-
-### Scheduling
-
-*   [Sidekiq-Cron (⭐1.9k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
 
 ## [Feb 25, 2019](/content/2019/02/25/README.md)
 
@@ -1223,7 +1454,7 @@
 
 ### Networking
 
-*   [Dnsruby (⭐205)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐206)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
@@ -1232,10 +1463,6 @@
 ### Queues and Messaging
 
 *   [Sidekiq](https://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
-
-### Serverless
-
-*   [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 
 ### Social Networking
 
@@ -1260,7 +1487,7 @@
 
 *   Utilities
     *   [algorithms (⭐2.7k)](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
-    *   [jaro\_winkler (⭐222)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
+    *   [jaro\_winkler (⭐223)](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
     *   [primes-utils (⭐3)](https://github.com/jzakiya/primes-utils) - A Rubygem which provides a suite of extremely fast utility methods for testing and generating primes.
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
 
@@ -1286,7 +1513,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐172)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐173)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [Oct 26, 2018](/content/2018/10/26/README.md)
 
@@ -1303,33 +1530,21 @@
 ### Measurements
 
 *   [Measured (⭐383)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐543)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Ruby Units (⭐544)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [Oct 22, 2018](/content/2018/10/22/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐979)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐982)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
 *   [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) - Complexity analysis tool with a rich web front-end.
 
-### Encryption
-
-*   [bcrypt-ruby (⭐2k)](https://github.com/codahale/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
-
-### Implementations/Compilers
-
-*   [TruffleRuby (⭐3.2k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
-
 ### Music and Sound
 
 *   [Coltrane (⭐2.4k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
-
-### ORM/ODM
-
-*   [MongoModel (⭐39)](https://github.com/spohlenz/mongomodel) - Ruby ODM for interfacing with MongoDB databases.
 
 ## [Oct 21, 2018](/content/2018/10/21/README.md)
 
@@ -1346,18 +1561,13 @@
 
 *   [Itamae (⭐1.1k)](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.
 
-### Email
-
-*   [Postal (⭐16k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
-
 ### Internationalization
 
 *   [rails-i18n (⭐4k)](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
 
 ### Optimizations
 
-*   [bootsnap (⭐2.7k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐617)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐616)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
@@ -1368,7 +1578,7 @@
 
 ### Logging
 
-*   [Syslogger (⭐114)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+*   [Syslogger (⭐113)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
 
 ## [Oct 15, 2018](/content/2018/10/15/README.md)
 
@@ -1390,7 +1600,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐473)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐474)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [Sep 20, 2018](/content/2018/09/20/README.md)
 
@@ -1403,16 +1613,6 @@
 ### CLI Builder
 
 *   [Terrapin (⭐284)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
-
-### Debugging Tools
-
-*   [did\_you\_mean (⭐1.9k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
-
-## [Sep 06, 2018](/content/2018/09/06/README.md)
-
-### File Upload
-
-*   [PaperClip (⭐9k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
 ## [Jun 19, 2018](/content/2018/06/19/README.md)
 
@@ -1444,17 +1644,11 @@
 
 *   [Listen (⭐2k)](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 
-## [Jan 17, 2018](/content/2018/01/17/README.md)
-
-### Image Processing
-
-*   [ruby-vips (⭐890)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
-
 ## [Jan 02, 2018](/content/2018/01/02/README.md)
 
 ### Internationalization
 
-*   [Tolk (⭐609)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
+*   [Tolk (⭐608)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 
 ## [Dec 28, 2017](/content/2017/12/28/README.md)
 
@@ -1468,16 +1662,11 @@
 
 *   [Danger (⭐5.7k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 
-### Cryptocurrencies and Blockchains
-
-*   [Blockchain Lite (⭐238)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
-
 ## [Dec 07, 2017](/content/2017/12/07/README.md)
 
 ### Email
 
 *   [Gibbon (⭐1.1k)](https://github.com/amro/gibbon) - API wrapper for the Mailchimp e-mail marketing platform.
-*   [Griddler (⭐1.4k)](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails.
 
 ### View helpers
 
@@ -1506,14 +1695,14 @@
 ### Captchas and anti-spam
 
 *   [Invisible Captcha (⭐1.2k)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
-*   [Rakismet (⭐352)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
+*   [Rakismet (⭐353)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐2k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐190)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐192)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
 *   [forkoff (⭐74)](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-*   [Parallel (⭐4.2k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
+*   [Parallel (⭐4.3k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ### Diff
 
@@ -1521,17 +1710,13 @@
 *   [gemdiff (⭐124)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 *   [JsonCompare (⭐59)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
-### File Upload
-
-*   [Shrine (⭐3.3k)](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
-
 ### File System Listener
 
-*   [Guard (⭐6.4k)](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
+*   [Guard (⭐6.5k)](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐771)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐772)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
@@ -1544,7 +1729,7 @@
 
 ### Queues and Messaging
 
-*   [Karafka (⭐2.2k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+*   [Karafka (⭐2.3k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
 
 ### Web Frameworks
 
@@ -1562,25 +1747,16 @@
 
 *   [Betty (⭐2.6k)](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 
-### Coding Style Guides
-
-*   [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
-
 ### Documentation
 
 *   [Gollum (⭐14k)](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 
-### Networking
-
-*   [RubyDNS (⭐727)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
-
 ### State Machines
 
-*   [MicroMachine (⭐525)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
+*   [MicroMachine (⭐524)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 
 ### View helpers
 
-*   [Bh (⭐832)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 *   [gon (⭐3.1k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
@@ -1588,13 +1764,13 @@
 
 ### Documentation
 
-*   [RDoc (⭐910)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐919)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ## [Sep 25, 2017](/content/2017/09/25/README.md)
 
 ### Authorization
 
-*   [Petergate (⭐193)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
+*   [Petergate (⭐192)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 
 ### CLI Utilities
 
@@ -1604,7 +1780,7 @@
 
 ### File Upload
 
-*   [attache (⭐203)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
+*   [attache (⭐202)](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 
 ## [Aug 23, 2017](/content/2017/08/23/README.md)
 
@@ -1615,7 +1791,6 @@
 ### Form Builder
 
 *   [Cocoon (⭐3.1k)](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple\_form or default forms.
-*   [Reform (⭐2.5k)](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 
 ## [Aug 22, 2017](/content/2017/08/22/README.md)
 
@@ -1623,10 +1798,8 @@
 
 *   [Asset Sync (⭐1.9k)](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
 *   [Autoprefixer (⭐1.2k)](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
-*   [Bourbon (⭐9k)](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
-*   [bower-rails (⭐1.5k)](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 *   [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-*   [Torba (⭐166)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+*   [Torba (⭐165)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 
 ### Profiler and Optimization
 
@@ -1649,7 +1822,6 @@
 ### GraphQL
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
-*   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 *   [graphql-guard (⭐466)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.4k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
@@ -1663,10 +1835,6 @@
 
 *   [Chamber (⭐204)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
-### Third-party APIs
-
-*   [Restforce (⭐823)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
-
 ## [Jun 15, 2017](/content/2017/06/15/README.md)
 
 ### Mobile Development
@@ -1677,25 +1845,13 @@
 
 ### Web Servers
 
-*   [Iodine (⭐964)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
-
-## [May 29, 2017](/content/2017/05/29/README.md)
-
-### RSS
-
-*   [feedparser (⭐168)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [Iodine (⭐971)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [Apr 25, 2017](/content/2017/04/25/README.md)
 
 ### E-Commerce and Payments
 
 *   [Conekta (⭐33)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
-
-## [Apr 24, 2017](/content/2017/04/24/README.md)
-
-### Authentication and OAuth
-
-*   [Monban (⭐371)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ## [Apr 16, 2017](/content/2017/04/16/README.md)
 
@@ -1716,7 +1872,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐867)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐870)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [Feb 15, 2017](/content/2017/02/15/README.md)
 
@@ -1738,15 +1894,13 @@
 
 ### CLI Utilities
 
-*   [formatador (⭐447)](https://github.com/geemus/formatador) - STDOUT text formatting.
+*   [formatador (⭐459)](https://github.com/geemus/formatador) - STDOUT text formatting.
 *   [Ru (⭐402)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Tmuxinator (⭐14k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐855)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐578)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
-*   [Rouge (⭐3.4k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+*   [CodeRay (⭐867)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 
 ### Database Tools
 
@@ -1759,30 +1913,20 @@
 ### Feature Flippers and A/B Testing
 
 *   [Motorhead (⭐182)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
-*   [flipper (⭐3.9k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.9k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.7k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
-*   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ### Search
 
 *   [scoped\_search (⭐266)](https://github.com/wvanbergen/scoped_search) - Adds a scope supporting search queries and autocompletion against existing fields on ActiveRecord models and associations.
 
-### Video
-
-*   [Video Transcoding (⭐2.5k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
-
 ## [Jan 16, 2017](/content/2017/01/16/README.md)
 
 ### Web Frameworks
 
-*   [Camping (⭐982)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐983)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [Jan 13, 2017](/content/2017/01/13/README.md)
-
-### Encryption
-
-*   [RbNaCl (⭐987)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
@@ -1806,12 +1950,6 @@
 ### Coding Style Guides
 
 *   [Fundamental Ruby (⭐478)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
-
-## [Nov 22, 2016](/content/2016/11/22/README.md)
-
-### CMS
-
-*   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
 ## [Oct 27, 2016](/content/2016/10/27/README.md)
 
@@ -1865,17 +2003,13 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐447)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐446)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [May 23, 2016](/content/2016/05/23/README.md)
 
 ### Authentication and OAuth
 
 *   [Rodauth (⭐1.9k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
-
-### Documentation
-
-*   [Hanna (⭐44)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [Apr 21, 2016](/content/2016/04/21/README.md)
 
@@ -1893,11 +2027,7 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐778)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
-
-### Caching
-
-*   [Readthis (⭐501)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [AccessGranted (⭐779)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Queues and Messaging
 
@@ -1907,11 +2037,11 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐446)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐447)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐1k)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐1.1k)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## [Apr 07, 2016](/content/2016/04/07/README.md)
 
@@ -1956,12 +2086,6 @@
 
 *   [Scientist (⭐7.7k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
-## [Feb 03, 2016](/content/2016/02/03/README.md)
-
-### Database Tools
-
-*   [Scenic (⭐3.6k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
-
 ## [Feb 02, 2016](/content/2016/02/02/README.md)
 
 ### State Machines
@@ -1978,17 +2102,9 @@
 
 ### SEO
 
-*   [prerender\_rails (⭐357)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [Jan 25, 2016](/content/2016/01/25/README.md)
-
-### Core Extensions
-
-*   [Hanami::Utils (⭐173)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
-
-### ORM/ODM
-
-*   [Hanami::Model (⭐448)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### Web Frameworks
 
@@ -2000,12 +2116,6 @@
 
 *   [Photish (⭐151)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
-## [Dec 18, 2015](/content/2015/12/18/README.md)
-
-### Cloud
-
-*   [browse-everything (⭐115)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
-
 ## [Dec 11, 2015](/content/2015/12/11/README.md)
 
 ### API Builder and Discovery
@@ -2016,19 +2126,13 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐615)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐614)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [Nov 21, 2015](/content/2015/11/21/README.md)
 
 ### CLI Utilities
 
 *   [Paint (⭐384)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
-
-## [Nov 16, 2015](/content/2015/11/16/README.md)
-
-### Third-party APIs
-
-*   [Slack Notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
 ## [Nov 11, 2015](/content/2015/11/11/README.md)
 
@@ -2038,14 +2142,8 @@
 
 ### IRB
 
-*   [irbtools (⭐924)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [irbtools (⭐925)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 *   [Pry (⭐6.8k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
-
-## [Nov 10, 2015](/content/2015/11/10/README.md)
-
-### Caching
-
-*   [Kashmir (⭐264)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 
 ## [Nov 08, 2015](/content/2015/11/08/README.md)
 
@@ -2059,14 +2157,6 @@
 *   [elastics (⭐101)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
 ## [Nov 07, 2015](/content/2015/11/07/README.md)
-
-### API Builder and Discovery
-
-*   [Her (⭐2.1k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
-
-### CLI Utilities
-
-*   [Pastel (⭐667)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -2107,10 +2197,6 @@
 
 *   [JWT (⭐3.7k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 
-### Configuration
-
-*   [RailsConfig (⭐2.2k)](https://github.com/railsconfig/config) - Multi-environment yaml settings for Rails3.
-
 ### DevOps Tools
 
 *   [Backup (⭐4.9k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
@@ -2124,10 +2210,6 @@
 ### E-Commerce and Payments
 
 *   [Active Merchant (⭐4.6k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
-
-### Ebook
-
-*   [Bookshop (⭐13)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -2149,29 +2231,17 @@
 
 *   [Pusher (⭐667)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
-## [Oct 27, 2015](/content/2015/10/27/README.md)
-
-### ORM/ODM
-
-*   [NoBrainer (⭐387)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
-
 ## [Oct 26, 2015](/content/2015/10/26/README.md)
 
 ### PDF
 
-*   [CombinePDF (⭐782)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐784)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ## [Oct 21, 2015](/content/2015/10/21/README.md)
 
 ### Code Analysis and Metrics
 
 *   [Traceroute (⭐905)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
-
-## [Oct 20, 2015](/content/2015/10/20/README.md)
-
-### Core Extensions
-
-*   [Finishing Moves (⭐206)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [Oct 12, 2015](/content/2015/10/12/README.md)
 
@@ -2183,7 +2253,7 @@
 
 ### CLI Builder
 
-*   [Rake (⭐2.4k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
+*   [Rake (⭐2.5k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 
 ### Database Tools
 
@@ -2217,10 +2287,6 @@
 
 *   [rspec\_api\_documentation (⭐1.5k)](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
 
-### PDF
-
-*   [Squid (⭐221)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
-
 ## [Aug 25, 2015](/content/2015/08/25/README.md)
 
 ### Mobile Development
@@ -2243,17 +2309,6 @@
 ### Documentation
 
 *   [Hologram (⭐2.2k)](https://github.com/trulia/hologram) - A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
-
-### Git Tools
-
-*   [Overcommit (⭐4k)](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
-
-### Scientific
-
-*   Data analysis/structures
-    *   [daru (⭐1.1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐98)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐421)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [Aug 10, 2015](/content/2015/08/10/README.md)
 
@@ -2313,19 +2368,13 @@
 
 ### CLI Builder
 
-*   [Commander (⭐823)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
-
-## [May 07, 2015](/content/2015/05/07/README.md)
-
-### Profiler and Optimization
-
-*   [Derailed Benchmarks (⭐3.1k)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
+*   [Commander (⭐822)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [May 04, 2015](/content/2015/05/04/README.md)
 
 ### DevOps Tools
 
-*   [Ruby-LXC (⭐138)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
+*   [Ruby-LXC (⭐137)](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 
 ## [Apr 20, 2015](/content/2015/04/20/README.md)
 
@@ -2343,15 +2392,11 @@
 
 ### Email
 
-*   [Sup (⭐960)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐966)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐911)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
-
-### RSS
-
-*   [Stringer (⭐4.1k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+*   [Ox (⭐910)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ## [Apr 10, 2015](/content/2015/04/10/README.md)
 
@@ -2379,10 +2424,6 @@
 
 *   [Lol DBA (⭐1.6k)](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 
-### Performance Monitoring
-
-*   [Instrumental (⭐59)](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
-
 ### Third-party APIs
 
 *   [Slack ruby gem (⭐242)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
@@ -2397,15 +2438,7 @@
 
 ### Cloud
 
-*   [AWS SDK for Ruby (⭐3.6k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
-
-### DevOps Tools
-
-*   [Einhorn (⭐1.6k)](https://github.com/stripe/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
-
-### HTML/XML Parsing
-
-*   [HTML::Pipeline (⭐2.3k)](https://github.com/jch/html-pipeline) - HTML processing filters and utilities.
+*   [AWS SDK for Ruby (⭐3.7k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 
 ## [Mar 28, 2015](/content/2015/03/28/README.md)
 
@@ -2423,13 +2456,7 @@
 
 ### Database Drivers
 
-*   [Neography (⭐604)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
-
-## [Mar 25, 2015](/content/2015/03/25/README.md)
-
-### Security
-
-*   [Rack::Attack (⭐5.7k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [Neography (⭐603)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 
 ## [Mar 24, 2015](/content/2015/03/24/README.md)
 
@@ -2439,18 +2466,6 @@
 *   [MRuby (⭐5.6k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
 *   [Opal (⭐4.9k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3.1k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
-
-## [Mar 23, 2015](/content/2015/03/23/README.md)
-
-### Queues and Messaging
-
-*   [Shoryuken (⭐2.1k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
-
-## [Mar 07, 2015](/content/2015/03/07/README.md)
-
-### Coding Style Guides
-
-*   [fast-ruby (⭐5.7k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ## [Mar 02, 2015](/content/2015/03/02/README.md)
 
@@ -2470,7 +2485,6 @@
 
 *   [Bootstrappers (⭐313)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
 *   [Hobo (⭐102)](https://github.com/Hobo/hobo) - The web app builder for Rails.
-*   [orats (⭐659)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 *   [Raygun (⭐212)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 *   [Suspenders (⭐4k)](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
@@ -2481,19 +2495,15 @@
 
 ### Third-party APIs
 
-*   [gmail (⭐419)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+*   [gmail (⭐422)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 
 ## [Feb 09, 2015](/content/2015/02/09/README.md)
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐591)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐593)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [Feb 06, 2015](/content/2015/02/06/README.md)
-
-### Database Tools
-
-*   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 
 ### Scheduling
 
@@ -2504,13 +2514,13 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐556)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐559)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [Feb 02, 2015](/content/2015/02/02/README.md)
 
 ### Database Tools
 
-*   [Upsert (⭐648)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐646)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -2518,13 +2528,9 @@
 
 ## [Jan 29, 2015](/content/2015/01/29/README.md)
 
-### Code Analysis and Metrics
-
-*   [Pronto (⭐2.7k)](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
-
 ### Database Drivers
 
-*   [SQL Server (⭐981)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐982)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 
@@ -2536,24 +2542,20 @@
 
 *   [ginatra (⭐524)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 
-### Profiler and Optimization
-
-*   [Rbkit (⭐354)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
-
 ## [Jan 25, 2015](/content/2015/01/25/README.md)
 
 ### CRM
 
-*   [Fat Free CRM (⭐3.6k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
+*   [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 
 ## [Jan 17, 2015](/content/2015/01/17/README.md)
 
 ### ORM/ODM Extensions
 
 *   Import
-    *   [ActiveRecord Import (⭐4.1k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐808)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
-    *   [data\_miner (⭐304)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
+    *   [ActiveRecord Import (⭐4.2k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
+    *   [bulk\_insert (⭐809)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [data\_miner (⭐305)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐244)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [Jan 14, 2015](/content/2015/01/14/README.md)
@@ -2566,19 +2568,9 @@
 
 ### Money
 
-*   [Monetize (⭐450)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
-
-## [Jan 12, 2015](/content/2015/01/12/README.md)
-
-### DevOps Tools
-
-*   [Centurion (⭐1.8k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
+*   [Monetize (⭐447)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ## [Jan 11, 2015](/content/2015/01/11/README.md)
-
-### Automation
-
-*   [Huginn (⭐49k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### ORM/ODM
 
@@ -2600,37 +2592,17 @@
 
 *   [Blanket (⭐459)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 
-## [Dec 26, 2014](/content/2014/12/26/README.md)
-
-### WebSocket
-
-*   [Slanger (⭐1.7k)](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
-
-## [Dec 25, 2014](/content/2014/12/25/README.md)
-
-### Authentication and OAuth
-
-*   [warden (⭐2.5k)](https://github.com/hassox/warden) - General Rack Authentication Framework.
-
 ## [Dec 21, 2014](/content/2014/12/21/README.md)
 
 ### Natural Language Processing
 
-*   [Text (⭐585)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
-
-### Queues and Messaging
-
-*   [Que (⭐2.3k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
-
-### Web Servers
-
-*   [TorqueBox (⭐465)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
+*   [Text (⭐597)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ## [Dec 10, 2014](/content/2014/12/10/README.md)
 
 ### Security
 
-*   [bundler-audit (⭐2.7k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+*   [bundler-audit (⭐2.8k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
 ## [Dec 06, 2014](/content/2014/12/06/README.md)
 
@@ -2638,27 +2610,22 @@
 
 *   Extra
     *   [Appraisal (⭐1.3k)](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
-    *   [CQL (⭐26)](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
-    *   [cuke\_modeler (⭐22)](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
+    *   [CQL (⭐27)](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
+    *   [cuke\_modeler (⭐23)](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
     *   [gitarro (⭐15)](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
-    *   [Knapsack (⭐547)](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
-    *   [mutant (⭐2.1k)](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
+    *   [Knapsack (⭐549)](https://github.com/KnapsackPro/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+    *   [mutant (⭐2.2k)](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
     *   [Parallel Tests (⭐3.5k)](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
     *   [power\_assert (⭐1)](https://github.com/k-tsj/power_assert) - Power Assert for Ruby.
-    *   [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
-    *   [rspec-tracer (⭐169)](https://github.com/avmnu-sng/rspec-tracer) - Specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter for RSpec
-    *   [Spring (⭐2.8k)](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
+    *   [rspec-tracer (⭐174)](https://github.com/avmnu-sng/rspec-tracer) - Specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter for RSpec
+    *   [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
     *   [timecop (⭐3.4k)](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
-    *   [Turbo Tests (⭐209)](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like `parallel_tests` but with incremental summarized output.
+    *   [Turbo Tests (⭐208)](https://github.com/serpapi/turbo_tests) - Run RSpec tests on multiple cores. Like `parallel_tests` but with incremental summarized output.
     *   [vcr (⭐6.1k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
     *   [Wraith (⭐0)](https://github.com/BBC-News/wraith) - A responsive screenshot comparison tool.
     *   [Zapata (⭐411)](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
 
 ## [Dec 03, 2014](/content/2014/12/03/README.md)
-
-### Date and Time Processing
-
-*   [ice\_cube (⭐2.5k)](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
 
 ### Image Processing
 
@@ -2710,10 +2677,6 @@
 *   [FastGettext (⭐409)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 *   [Globalize (⭐2.2k)](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 
-### Security
-
-*   [SecureHeaders (⭐3.2k)](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
-
 ### Social Networking
 
 *   [Mailboxer (⭐1.6k)](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
@@ -2732,32 +2695,18 @@
 
 ### ORM/ODM Extensions
 
-*   Social
-    *   [Merit (⭐1.5k)](https://github.com/merit-gem/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
-    *   [PublicActivity (⭐3k)](https://github.com/chaps-io/public_activity) - Provides easy activity tracking for your ActiveRecord, Mongoid 3 and MongoMapper models in Rails 3 and 4. Similar to Github's Public Activity.
-    *   [Simple Feed (⭐335)](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
-    *   [Unread (⭐742)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
-*   Sorting
-    *   [ActsAsList (⭐2.1k)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
-    *   [positioning (⭐408)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
-    *   [ranked-model (⭐1.1k)](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 *   Tree
-    *   [ActsAsTree (⭐586)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
-    *   [ActsAsRecursiveTree (⭐86)](https://github.com/1and1/acts_as_recursive_tree) - ActsAsTree but recursive.
+    *   [ActsAsTree (⭐597)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
+    *   [ActsAsRecursiveTree (⭐84)](https://github.com/1and1/acts_as_recursive_tree) - ActsAsTree but recursive.
     *   [Ancestry (⭐3.9k)](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
     *   [Awesome Nested Set (⭐2.4k)](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
-    *   [Closure Tree (⭐1.9k)](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
+    *   [Closure Tree (⭐1.9k)](https://github.com/ClosureTree/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
     *   [Mongoid Tree (⭐300)](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
 
 ### Search
 
-*   [Mongoid Search (⭐316)](https://github.com/mauriciozaffari/mongoid_search) - Simple full text search implementation for Mongoid.
-*   [SearchCop (⭐835)](https://github.com/mrkamel/search_cop) - Extends your ActiveRecord models to support fulltext search engine like queries via simple query strings and hash-based queries.
-*   [textacular (⭐955)](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named\_scope methods making searching easy and fun!
-
-### State Machines
-
-*   [FiniteMachine (⭐804)](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
+*   [SearchCop (⭐838)](https://github.com/mrkamel/search_cop) - Extends your ActiveRecord models to support fulltext search engine like queries via simple query strings and hash-based queries.
+*   [textacular (⭐956)](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named\_scope methods making searching easy and fun!
 
 ## [Nov 20, 2014](/content/2014/11/20/README.md)
 
@@ -2803,10 +2752,10 @@
 
 *   Numerical arrays
     *   [NMatrix (⭐478)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐458)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [Numo::NArray (⭐469)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
 *   [SciRuby (⭐1k)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐925)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+    *   [IRuby (⭐926)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
     *   [statsample (⭐100)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐14)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐24)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
@@ -2814,18 +2763,18 @@
     *   [minimization (⭐16)](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
 *   Specific
     *   [BioRuby (⭐381)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
-    *   [bloomfilter-rb (⭐477)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+    *   [bloomfilter-rb (⭐478)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
     *   [decisiontree (⭐1.5k)](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
 
 ## [Oct 27, 2014](/content/2014/10/27/README.md)
 
 ### Database Drivers
 
-*   [SQLite3 (⭐839)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐841)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐58k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Video
 
@@ -2836,7 +2785,6 @@
 ### Admin Interface
 
 *   [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
-*   [RailsAdmin (⭐8k)](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
 
 ### Analytics
 
@@ -2848,9 +2796,8 @@
 
 *   [ActiveModel::Serializers (⭐5.3k)](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 *   [jbuilder (⭐4.4k)](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL.
-*   [Pliny (⭐807)](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
+*   [Pliny (⭐808)](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
 *   [rabl (⭐3.6k)](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
-*   [Roar (⭐1.8k)](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
 
 ### Assets
 
@@ -2860,22 +2807,16 @@
 
 *   [Authlogic (⭐4.3k)](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
 
-### Authorization
-
-*   [Pundit (⭐8.5k)](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
-
 ### Caching
 
 *   [Action caching for Action Pack (⭐265)](https://github.com/rails/actionpack-action_caching) - Action caching for Action Pack.
-*   [Dalli (⭐3.1k)](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers.
 
 ### CLI Builder
 
 *   [GLI (⭐1.3k)](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
-*   [Main (⭐265)](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
+*   [Main (⭐264)](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 *   [Slop (⭐1.1k)](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
 *   [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
-*   [TTY (⭐2.5k)](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
 
 ### CMS
 
@@ -2885,14 +2826,7 @@
 ### Code Analysis and Metrics
 
 *   [MetricFu (⭐625)](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
-*   [rails\_best\_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 *   [Reek (⭐4.1k)](https://github.com/troessner/reek) - Code smell detector for Ruby.
-
-### Coding Style Guides
-
-*   [Rails style guide (⭐6.5k)](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
-*   [RSpec style guide (⭐3.5k)](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }.
-*   [Ruby style guide (⭐17k)](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
 
 ### Concurrency and Parallelism
 
@@ -2902,21 +2836,13 @@
 
 *   [Configatron (⭐594)](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 *   [Configus (⭐63)](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
-*   [dotenv (⭐6.7k)](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
-*   [Econfig (⭐65)](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
+*   [dotenv (⭐6.8k)](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
 *   [Figaro (⭐3.7k)](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 *   [Global (⭐283)](https://github.com/railsware/global) - Provides accessor methods for your configuration data.
 
-### Core Extensions
-
-*   Hash
-    *   [Hashie (⭐3k)](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
-
 ### Country Data
 
-*   [Carmen (⭐1.2k)](https://github.com/jim/carmen) - A repository of geographic regions.
-*   [Countries (⭐2.3k)](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as pretty little country objects.
-*   [i18n\_data (⭐226)](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
+*   [i18n\_data (⭐228)](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
 *   [normalize\_country (⭐70)](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
 
 ### Database Drivers
@@ -2937,7 +2863,7 @@
 *   [Chronic (⭐3.3k)](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
 *   [groupdate (⭐3.9k)](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 *   [time\_diff (⭐146)](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
-*   [TZinfo (⭐375)](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
+*   [TZinfo (⭐384)](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 *   [validates\_timeliness (⭐1.6k)](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 *   [yymmdd (⭐77)](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
 
@@ -2958,7 +2884,6 @@
 
 ### E-Commerce and Payments
 
-*   [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 *   [ROR Ecommerce (⭐1.2k)](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
 *   [Spree (⭐15k)](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
 *   [stripe-ruby (⭐2.1k)](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
@@ -2980,28 +2905,20 @@
 *   [chruby (⭐2.9k)](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, \~90 LOC.
 *   [fry (⭐62)](https://github.com/terlar/fry) - Simple ruby version manager for fish.
 *   [gem\_home (⭐117)](https://github.com/postmodern/gem_home) - A tool for changing your $GEM\_HOME.
-*   [rbenv (⭐17k)](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
-*   [ruby-build (⭐4k)](https://github.com/sstephenson/ruby-build) - Compile and install Ruby.
 *   [ruby-install (⭐2k)](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
 *   [RVM](https://rvm.io) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
 ### Error Handling
 
-*   [Airbrake (⭐974)](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks).
-*   [Better Errors (⭐6.9k)](https://github.com/charliesome/better_errors) - Better error page for Rack apps.
+*   [Airbrake (⭐986)](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks).
 *   [Exception Notification (⭐2.2k)](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
-*   [Nesty (⭐119)](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
+*   [Nesty (⭐120)](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
 
 ### File Upload
 
 *   [CarrierWave (⭐8.8k)](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 *   [DragonFly (⭐2.1k)](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!.
 *   [rack-secure-upload (⭐74)](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely.
-
-### Form Builder
-
-*   [Formtastic (⭐5.2k)](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
-*   [Rails Bootstrap Forms (⭐1.6k)](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 
 ### Game Development and Graphics
 
@@ -3024,17 +2941,13 @@
 *   [qtbindings (⭐336)](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
 *   [Shoes](http://shoesrb.com) - Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
 
-### HTML/XML Parsing
-
-*   [HappyMapper (⭐152)](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri.
-
 ### HTTP Clients and tools
 
 *   [Faraday (⭐5.9k)](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
-*   [Http Client (⭐707)](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
+*   [Http Client (⭐708)](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
 *   [httparty (⭐5.9k)](https://github.com/jnunemaker/httparty) - Makes http fun again!
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Sawyer (⭐251)](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
+*   [Sawyer (⭐264)](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
 *   [Typhoeus (⭐4.1k)](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 
 ### Image Processing
@@ -3046,7 +2959,6 @@
 ### Internationalization
 
 *   [i18n-tasks (⭐2.2k)](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
-*   [i18n (⭐1k)](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution.
 *   [twitter-cldr-rb (⭐691)](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
 ### Logging
@@ -3056,10 +2968,6 @@
 *   [Scrolls (⭐159)](https://github.com/asenchi/scrolls) - Simple logging.
 *   [Yell (⭐0)](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
-### Machine Learning
-
-*   [PredictionIO Ruby SDK (⭐191)](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
-
 ### Markdown Processors
 
 *   [kramdown (⭐1.8k)](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
@@ -3068,8 +2976,8 @@
 
 ### Money
 
-*   [eu\_central\_bank (⭐223)](https://github.com/RubyMoney/eu_central_bank) - A gem that calculates the exchange rate using published rates from European Central Bank.
-*   [Money (⭐2.9k)](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
+*   [eu\_central\_bank (⭐224)](https://github.com/RubyMoney/eu_central_bank) - A gem that calculates the exchange rate using published rates from European Central Bank.
+*   [Money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 
 ### Natural Language Processing
 
@@ -3090,13 +2998,9 @@
 *   [Prawn (⭐4.8k)](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
 *   [Wicked Pdf (⭐3.6k)](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 
-### Performance Monitoring
-
-*   [New Relic (⭐1.2k)](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
-
 ### Process Management and Monitoring
 
-*   [Bluepill (⭐418)](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
+*   [Bluepill (⭐417)](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
 *   [God (⭐2.2k)](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 
 ### Processes
@@ -3138,7 +3042,7 @@
 
 *   [diaspora\* (⭐14k)](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network.
 *   [Discourse (⭐47k)](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-*   [Social Shares (⭐327)](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
+*   [Social Shares (⭐328)](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
 
 ### State Machines
 
@@ -3155,7 +3059,7 @@
 
 ### Template Engine
 
-*   [Curly (⭐592)](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
+*   [Curly (⭐593)](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
 *   [Haml (⭐3.8k)](https://github.com/haml/haml) - HTML Abstraction Markup Language.
 *   [Liquid (⭐12k)](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
 *   [Mustache (⭐3.1k)](https://github.com/mustache/mustache) - Logic-less Ruby templates.
@@ -3165,19 +3069,19 @@
 ### Testing
 
 *   Frameworks
-    *   [RSpec (⭐93)](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby.
+    *   [RSpec (⭐106)](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby.
         *   Formatters
             *   [Emoji-RSpec (⭐172)](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
             *   [Fuubar (⭐962)](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter.
             *   [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
-    *   [Aruba (⭐964)](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
-    *   [Bacon (⭐426)](https://github.com/chneukirchen/bacon) - A small RSpec clone.
+    *   [Aruba (⭐965)](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
+    *   [Bacon (⭐425)](https://github.com/leahneukirchen/bacon) - A small RSpec clone.
     *   [Capybara (⭐10k)](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
-    *   [Cucumber (⭐3.4k)](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
+    *   [Cucumber](https://github.com/cucumber/cucumber-ruby) - BDD that talks to domain experts first and code second.
     *   [Cutest (⭐152)](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
     *   [Fix (⭐48)](https://github.com/fixrb/fix) - Specing framework for Ruby.
     *   [Howitzer (⭐259)](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
-    *   [minitest (⭐3.4k)](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+    *   [minitest (⭐3.4k)](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
     *   [Mocha (⭐1.3k)](https://github.com/freerange/mocha) - Mocha is a mocking and stubbing library for Ruby.
     *   [RR (⭐326)](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
     *   [shoulda-matchers (⭐3.6k)](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
@@ -3187,27 +3091,20 @@
 *   Mock
     *   [ActiveMocker (⭐504)](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
     *   [DnsMock (⭐65)](https://github.com/mocktools/ruby-dns-mock) - Ruby DNS mock. Mimic any DNS records for your test environment and even more.
-    *   [DuckRails (⭐1.7k)](https://github.com/iridakos/duckrails) - Tool for mocking API endpoints quickly & dynamically.
     *   [SmtpMock (⭐64)](https://github.com/mocktools/ruby-smtp-mock) - Ruby SMTP mock. Mimic any SMTP server behaviour for your test environment with fake SMTP server.
     *   [TestXml (⭐30)](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
-    *   [WebMock (⭐4.1k)](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
+    *   [WebMock (⭐4k)](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
 
 ### Third-party APIs
 
 *   [flickr (⭐21)](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
 *   [gitlab (⭐1.1k)](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
-*   [hipchat-rb (⭐334)](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
-*   [instagram-ruby-gem (⭐1.4k)](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 *   [itunes\_store\_transporter (⭐121)](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
-*   [linkedin (⭐764)](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+*   [linkedin (⭐770)](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
 *   [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
-*   [ruby-gmail (⭐786)](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
 *   [ruby-trello (⭐717)](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
-*   [soundcloud-ruby (⭐7)](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
-*   [t (⭐5.5k)](https://github.com/sferik/t) - A command-line power tool for Twitter.
+*   [soundcloud-ruby (⭐8)](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
 *   [tweetstream (⭐1.1k)](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
-*   [twitter (⭐4.6k)](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
-*   [Yt (⭐755)](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
 
 ### Web Crawling
 
@@ -3238,7 +3135,7 @@
 
 ### Performance Monitoring
 
-*   [Skylight (⭐318)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
+*   [Skylight (⭐320)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
 ## [Oct 14, 2014](/content/2014/10/14/README.md)
 
@@ -3278,15 +3175,14 @@
 
 ### Code Analysis and Metrics
 
-*   [Brakeman (⭐7.2k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Flay (⭐760)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-*   [Flog (⭐961)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+*   [Brakeman (⭐7.3k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
+*   [Flay (⭐761)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+*   [Flog (⭐965)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 *   [Rubycritic (⭐3.5k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
-*   [SimpleCov (⭐4.9k)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
 ### Core Extensions
 
-*   [ActiveSupport (⭐58k)](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
+*   [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
 *   [Ruby Facets (⭐805)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
 ### Dashboards
@@ -3296,7 +3192,7 @@
 ### Data Visualization
 
 *   [RailRoady (⭐1.7k)](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
-*   [Rails Erd (⭐4.1k)](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
+*   [Rails Erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 
 ### Database Tools
 
@@ -3310,7 +3206,7 @@
 
 *   [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 *   [Mina (⭐4.4k)](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
-*   [Rubber (⭐1.5k)](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
+*   [Rubber (⭐1.4k)](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
 
 ### Email
 
@@ -3326,24 +3222,16 @@
 *   [Patron (⭐547)](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 *   [Savon (⭐2.1k)](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 
-### Internationalization
-
-*   [r18n (⭐512)](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
-
 ### Logging
 
-*   [HttpLog (⭐827)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
-*   [Logging (⭐533)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
+*   [HttpLog (⭐826)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+*   [Logging (⭐532)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 *   [Lograge (⭐3.6k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
 ### PDF
 
-*   [Kitabu (⭐686)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
-*   [RGhost (⭐187)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
-
-### Processes
-
-*   [childprocess (⭐585)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+*   [Kitabu (⭐688)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+*   [RGhost (⭐186)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 
 ### Robotics
 
@@ -3353,7 +3241,7 @@
 
 *   [Feed normalizer (⭐134)](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
 *   [Feedjira (⭐2.1k)](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
-*   [Simple rss (⭐227)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+*   [Simple rss (⭐228)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 
 ### Search
 
@@ -3366,9 +3254,8 @@
     *   [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library.
     *   [factory\_bot (⭐8.2k)](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
     *   [Fake Person (⭐116)](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
-    *   [faker (⭐12k)](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
+    *   [faker (⭐12k)](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
     *   [ffaker (⭐1.6k)](https://github.com/ffaker/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
-    *   [Forgery (⭐787)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 
 ### Third-party APIs
 

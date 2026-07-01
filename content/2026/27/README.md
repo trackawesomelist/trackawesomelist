@@ -1,12 +1,399 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2026
 
-27 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [1. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [Bell System Technical Journal, 1922-1983](https://archive.org/details/bstj-archives)
+
+## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Community / Blogs
+
+*   [JMeter Basics](https://thatsabug.com/tags/jmeter-series/) - By João Farias.
+
+## [3. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+
+### Admin Interface
+
+*   [RailsAdmin](https://github.com/railsadminteam/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
+
+### AI and LLMs
+
+*   [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+*   [openai-ruby (⭐438)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
+*   [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
+*   Model Context Protocol (MCP)
+    *   [ruby-sdk (⭐856)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
+
+### API Builder and Discovery
+
+*   [Blueprinter (⭐1.3k)](https://github.com/procore-oss/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Her (⭐2.1k)](https://github.com/remi/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
+*   [Roar (⭐1.8k)](https://github.com/trailblazer/roar) - Resource-Oriented Architectures in Ruby.
+
+### Authentication and OAuth
+
+*   [Oath (⭐372)](https://github.com/halogenandtoast/oath) - A very simple and extensible user authentication library for rails (formerly Monban).
+*   [warden (⭐2.5k)](https://github.com/wardencommunity/warden) - General Rack Authentication Framework.
+
+### Authorization
+
+*   [Pundit (⭐8.5k)](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
+*   [Rabarber (⭐191)](https://github.com/enjaku4/rabarber) - Simple role-based authorization for Rails with multi-tenancy support.
+
+### Automation
+
+*   [Huginn (⭐49k)](https://github.com/huginn/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Neovim (⭐366)](https://github.com/neovim/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+
+### Breadcrumbs
+
+*   [loaf (⭐405)](https://github.com/piotrmurach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+
+### Business logic
+
+*   [Dentaku (⭐960)](https://github.com/rubysolo/dentaku) - A parser and evaluator for mathematical and logical formulas, safely evaluating user-supplied expressions at runtime.
+
+### Caching
+
+*   [Dalli](https://github.com/petergoldstein/dalli) - A high performance pure Ruby client for accessing memcached servers.
+
+### CLI Builder
+
+*   [TTY (⭐2.5k)](https://github.com/piotrmurach/tty) - Toolbox for developing CLI clients.
+
+### CLI Utilities
+
+*   [Pastel (⭐670)](https://github.com/piotrmurach/pastel) - Terminal output styling with intuitive and clean API.
+
+### Cloud
+
+*   [browse-everything](https://github.com/samvera/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [humidifier (⭐56)](https://github.com/kddnewton/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
+
+### Code Analysis and Metrics
+
+*   [Pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes.
+*   [rails\_best\_practices (⭐4.2k)](https://github.com/flyerhzm/rails_best_practices) - A code metric tool for rails projects.
+*   [rubydex](https://github.com/Shopify/rubydex) - A high-performance static analysis suite for Ruby, built in Rust with Ruby APIs.
+*   [SimpleCov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
+
+### Code Formatting
+
+*   [RuboCop (⭐13k)](https://github.com/rubocop/rubocop) - A static code analyzer, based on the community Ruby style guide.
+    *   [Rubocop Rails (⭐875)](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐739)](https://github.com/rubocop/rubocop-performance) - A RuboCop extension focused on code performance checks.
+*   [Standard](https://github.com/standardrb/standard) - Ruby Style Guide, with linter & automatic code fixer
+
+### Code Highlighting
+
+*   [pygments.rb (⭐579)](https://github.com/pygments/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [Rouge (⭐3.4k)](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+
+### Coding Style Guides
+
+*   [fast-ruby](https://github.com/fastruby/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [Rails style guide (⭐6.5k)](https://github.com/rubocop/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
+*   [RSpec style guide (⭐3.5k)](https://github.com/betterspecs/betterspecs) - Better Specs { rspec guidelines with ruby }.
+*   [Ruby style guide (⭐17k)](https://github.com/rubocop/ruby-style-guide) - Community-driven Ruby coding style.
+
+### Configuration
+
+*   [Econfig (⭐65)](https://github.com/varvet/econfig) - Flexible configuration for Rails applications.
+*   [RailsConfig](https://github.com/rubyconfig/config) - Multi-environment yaml settings for Rails3.
+
+### Core Extensions
+
+*   [Finishing Moves](https://github.com/BattleBrisket/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Hanami::Utils](https://github.com/hanami/hanami-utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   Hash
+    *   [Hashie (⭐3k)](https://github.com/hashie/hashie) - A collection of tools that extend Hashes and make them more useful.
+
+### Country Data
+
+*   [Carmen](https://github.com/carmen-ruby/carmen) - A repository of geographic regions.
+*   [Countries (⭐2.4k)](https://github.com/countries/countries) - All sorts of useful information about every country packaged as pretty little country objects.
+
+### Cryptocurrencies and Blockchains
+
+*   [Blockchain Lite](https://github.com/rubycocos/blockchain) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+
+### Data Processing and ETL
+
+*   [CSV Reader (⭐176)](https://github.com/rubycocos/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+
+### Database Tools
+
+*   [Scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails.
+
+### Date and Time Processing
+
+*   [ice\_cube (⭐2.5k)](https://github.com/ice-cube-ruby/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
+
+### Debugging Tools
+
+*   [did\_you\_mean (⭐1.9k)](https://github.com/ruby/did_you_mean) - Adds class, method & attribute suggestions to error messages.
+*   [pry-rails (⭐1.4k)](https://github.com/pry/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
+*   [tracer](https://github.com/ruby/tracer) - A Ruby tracing tool for following method calls, line execution, and object allocations via TracePoint.
+
+### Developer Tooling
+
+*   Language Servers
+    *   [Fuzzy Ruby Server](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
+    *   [Ruby LSP (⭐2k)](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby with support for pull diagnostics, formatting, and more.
+    *   [Solargraph (⭐2k)](https://github.com/castwide/solargraph) - A Ruby language server providing IntelliSense, code completion, and inline documentation.
+*   Editor Extensions
+    *   [Ruby LSP (VS Code)](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) - VS Code extension providing a rich Ruby development experience powered by Ruby LSP.
+    *   [VSCode RuboCop](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
+    *   [VSCode Standard](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
+    *   [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) - VS Code extension for the debug gem with DAP support.
+*   Developer Experience
+    *   [debug (⭐1.3k)](https://github.com/ruby/debug) - The official Ruby debugger with Debug Adapter Protocol (DAP) support.
+    *   [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
+    *   [ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
+
+### DevOps Tools
+
+*   [Einhorn](https://github.com/contribsys/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+
+### Documentation
+
+*   [Hanna](https://github.com/jeremyevans/hanna) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+
+### E-Commerce and Payments
+
+*   [Pay (⭐2.2k)](https://github.com/pay-rails/pay) - A payments engine for Rails, supporting Stripe, Braintree, Paddle, and Lemon Squeezy.
+*   [PayPal Server SDK (⭐6)](https://github.com/paypal/PayPal-Ruby-Server-SDK) - PayPal's official Ruby SDK for the PayPal Server APIs (Orders and Payments).
+
+### Ebook
+
+*   [bookpub (⭐13)](https://github.com/worlduniting/bookpub) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+
+### Email
+
+*   [Postal (⭐17k)](https://github.com/postalserver/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+
+### Encryption
+
+*   [bcrypt-ruby (⭐2k)](https://github.com/bcrypt-ruby/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
+*   [RbNaCl (⭐985)](https://github.com/RubyCrypto/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+
+### Environment Management
+
+*   [rbenv](https://github.com/rbenv/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+*   [ruby-build (⭐4k)](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
+*   [rv](https://rv.dev) - A fast Ruby version and toolchain manager written in Rust.
+
+### Error Handling
+
+*   [Better Errors](https://github.com/BetterErrors/better_errors) - Better error page for Rack apps.
+
+### Feature Flippers and A/B Testing
+
+*   [flipper (⭐4k)](https://github.com/flippercloud/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [Unleash (⭐62)](https://github.com/Unleash/unleash-ruby-sdk) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+
+### File Upload
+
+*   [Shrine (⭐3.3k)](https://github.com/shrinerb/shrine) - Toolkit for handling file uploads in Ruby.
+
+### Form Builder
+
+*   [bootstrap\_form (⭐1.6k)](https://github.com/bootstrap-ruby/bootstrap_form) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+*   [Formtastic (⭐5.2k)](https://github.com/formtastic/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
+*   [Rapidfire (⭐328)](https://github.com/codemancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Reform (⭐2.5k)](https://github.com/trailblazer/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
+
+### Game Development and Graphics
+
+*   [Mittsu (⭐539)](https://github.com/danini-the-panini/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+
+### Git Tools
+
+*   [Overcommit (⭐4k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
+
+### GraphQL
+
+*   [graphql-client (⭐77)](https://github.com/github-community-projects/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+
+### HTML/XML Parsing
+
+*   [HappyMapper (⭐152)](https://github.com/mvz/happymapper) - Object to XML mapping library, using Nokogiri.
+*   [HTML::Pipeline (⭐2.3k)](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities.
+
+### Image Processing
+
+*   [ruby-vips (⭐904)](https://github.com/libvips/ruby-vips) - A binding for the libvips image processing library.
+
+### Implementations/Compilers
+
+*   [TruffleRuby (⭐3.2k)](https://github.com/truffleruby/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+
+### Internationalization
+
+*   [i18n (⭐1k)](https://github.com/ruby-i18n/i18n) - Ruby Internationalization and localization solution.
+*   [r18n](https://github.com/r18n/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+
+### Machine Learning
+
+*   [TensorFlow (⭐383)](https://github.com/ankane/tensorflow-ruby) - The end-to-end machine learning platform for Ruby.
+
+### Music and Sound
+
+*   [Sonic Pi (⭐12k)](https://github.com/sonic-pi-net/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+
+### Networking
+
+*   [RubyDNS (⭐727)](https://github.com/socketry/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+
+### Optimizations
+
+*   [bootsnap (⭐2.7k)](https://github.com/rails/bootsnap) - Boot large Ruby/Rails apps faster.
+*   [fast\_underscore (⭐37)](https://github.com/kddnewton/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+
+### ORM/ODM
+
+*   [NoBrainer (⭐386)](https://github.com/NoBrainerORM/nobrainer/) - A RethinkDB ORM for Ruby
+
+### ORM/ODM Extensions
+
+*   Social
+    *   [Merit (⭐1.5k)](https://github.com/tute/merit) - Adds reputation behavior to Rails apps in the form of Badges, Points, and Rankings for ActiveRecord or Mongoid.
+    *   [PublicActivity (⭐3k)](https://github.com/public-activity/public_activity) - Provides easy activity tracking for your ActiveRecord, Mongoid 3 and MongoMapper models in Rails 3 and 4. Similar to Github's Public Activity.
+    *   [Simple Feed (⭐335)](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
+    *   [Unread (⭐742)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
+*   Sorting
+    *   [ActsAsList (⭐2.1k)](https://github.com/brendon/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [positioning (⭐414)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
+    *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
+
+### PDF
+
+*   [Squid (⭐221)](https://github.com/claudiob/squid) - Squid · A Ruby library to plot charts in PDF files
+
+### Performance Monitoring
+
+*   [Instrumental (⭐59)](https://github.com/Instrumental/instrumental_agent-ruby) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
+*   [New Relic](https://github.com/newrelic/newrelic-ruby-agent) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+
+### Processes
+
+*   [childprocess (⭐597)](https://github.com/enkessler/childprocess) - Cross-platform ruby library for managing child processes.
+
+### Profiler and Optimization
+
+*   [Derailed Benchmarks (⭐3.1k)](https://github.com/zombocom/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
+*   [Rbkit (⭐354)](https://github.com/codemancers/rbkit) - profiler for Ruby. With a GUI.
+*   [test-prof (⭐2k)](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
+
+### Queues and Messaging
+
+*   [Que (⭐2.3k)](https://github.com/que-rb/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+*   [Shoryuken (⭐2.1k)](https://github.com/ruby-shoryuken/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+
+### RSS
+
+*   [feedparser (⭐168)](https://github.com/rubycocos/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [Stringer (⭐4.1k)](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
+
+### Serverless
+
+*   [Jets (⭐2.6k)](https://github.com/rubyonjets/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
+
+### Scheduling
+
+*   [Sidekiq-Cron (⭐1.9k)](https://github.com/sidekiq-cron/sidekiq-cron) - A scheduling add-on for Sidekiq.
+
+### Scientific
+
+*   Bindings
+    *   [PyCall (⭐1.1k)](https://github.com/red-data-tools/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐811)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+*   Data analysis/structures
+    *   [daru (⭐1.1k)](https://github.com/SciRuby/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+    *   [Daru::View (⭐98)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐421)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+
+### Search
+
+*   [Mongoid Search (⭐315)](https://github.com/mongoid/mongoid_search) - Simple full text search implementation for Mongoid.
+
+### Security
+
+*   [Rack::Attack (⭐5.7k)](https://github.com/rack/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [SecureHeaders (⭐3.2k)](https://github.com/github/secure_headers) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
+
+### Services and Apps
+
+*   [OctoLinker (⭐5.4k)](https://github.com/OctoLinker/OctoLinker) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
+
+### State Machines
+
+*   [FiniteMachine (⭐804)](https://github.com/piotrmurach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
+
+### Third-party APIs
+
+*   [Notion Ruby Client](https://github.com/phacks/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Restforce (⭐823)](https://github.com/restforce/restforce) - A Ruby client for the Salesforce REST api.
+*   [Slack Notifier](https://github.com/slack-notifier/slack-notifier) - A simple wrapper for posting to Slack channels.
+*   [twitter (⭐4.6k)](https://github.com/sferik/twitter-ruby) - A Ruby interface to the Twitter API.
+*   [Yt (⭐754)](https://github.com/claudiob/yt) - An object-oriented Ruby client for YouTube API V3.
+*   [x-cli (⭐5.6k)](https://github.com/sferik/x-cli) - A command-line power tool for X/Twitter.
+
+### Type Signatures and Type Checking
+
+*   [RBS (⭐2.2k)](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
+*   [rbs-inline (⭐352)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
+*   [Sord (⭐334)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
+*   [Spoom](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
+*   [Steep](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
+*   [Tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
+*   [Typeprof (⭐827)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
+*   Runtime Typing
+    *   [dry-types (⭐897)](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
+    *   [Literal](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
+
+### Video
+
+*   [Video Transcoding (⭐2.5k)](https://github.com/lisamelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+
+### View components
+
+*   [Phlex (⭐1.5k)](https://github.com/yippee-fun/phlex) - A framework for building object-oriented views in Ruby.
+*   [ViewComponent](https://github.com/ViewComponent/view_component) - View components for Rails.
+
+### View helpers
+
+*   [Bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby.
+*   [render\_async (⭐1.1k)](https://github.com/nikolalsvk/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
+
+### WebSocket
+
+*   [CableReady (⭐771)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [StimulusReflex (⭐2.3k)](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
+
+## [4. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+
+### Commands & Extensions
+
+*   [xberg-io plugins (⭐7)](https://github.com/xberg-io/plugins) - A suite of Gemini CLI extensions from Kreuzberg, Inc.: document extraction (xberg — 97+ formats with OCR), web crawling (crawlberg), HTML→Markdown, a universal LLM client for 143 providers (liter-llm), and code intelligence for 300+ languages (tree-sitter-language-pack). Install via `gemini extensions install`.
+
+### MCP Servers
+
+*   [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (including Gemini CLI) to the Unity Editor and runtime, with 100+ built-in tools.
+*   [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+*   [Unreal-MCP (⭐8)](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+*   [GameDev-MCP-Server (⭐6)](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
+
+## [5. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Platforms
 
@@ -20,7 +407,7 @@
 
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -128,7 +515,7 @@
 
 *   [YAML (⭐482) (⭐478)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Currency Exchange
 
@@ -202,13 +589,17 @@
 
 
 
-## [4. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [8. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+
+### Rust
+
+*   [mqtt-typed-client (⭐9)](https://github.com/holovskyi/mqtt-typed-client) - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [mqtt-dashboard (⭐9)](https://github.com/jmischler72/mqtt-dashboard) - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -218,7 +609,7 @@
 
 *   [Snipo (⭐62)](https://github.com/MohamedElashri/snipo) - Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. ([Demo](https://snipo.melashri.dev/)) `AGPL-3.0` `Go/Docker`
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -228,6 +619,10 @@
 
 *   [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 
+### Components & Libraries / UI Components
+
+*   [custom-highlight (⭐1)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
+
 ### Components & Libraries / Utilities
 
 *   [@stitchapi/vue (⭐5)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
@@ -236,7 +631,7 @@
 
 *   [ILUMINATY (⭐2)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 1\. App & Agent
 
@@ -245,13 +640,13 @@
     *   [Computer use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#computer-use)
     *   [Model Context Protocol (MCP)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-context-protocol-mcp)
 
-## [8. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [12. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Network
 
 *   [zora (⭐0)](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Project / Markdown and LaTeX
 
@@ -261,7 +656,7 @@
 
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -276,7 +671,7 @@
 
 *   [Complete Zsh Terminal Customization Guide (⭐0)](https://github.com/mostafa447/zsh-guide) - A comprehensive guide to transform your terminal with Zsh, Oh My Zsh, and Powerlevel10k theme — covering both DNF-based and APT-based distros
 
-## [11. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [15. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
@@ -286,7 +681,7 @@
 
 *   [emplace](https://web.archive.org/web/20260430004416/https://github.com/tversteeg/emplace)
 
-## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Projects
 
@@ -295,7 +690,7 @@
 *   [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
 *   [Sign Zero](https://sign-zero.vercel.app/) - Lightweight demo app exploring authentication and signing flows.
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -305,37 +700,37 @@
 
 *   [RunMyJob](https://runmyjob.io/) - Cloud runners for GitHub Actions and GitLab CI.
 
-## [14. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [18. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Plasma desktop / Extensions
 
 *   [KDoit (⭐1)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 
-## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [19. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [NanoBot AI Chat Robot (⭐0)](https://github.com/samartzidis/NanoBot) - Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.
 
-## [16. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [20. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Time Tracking
 
 *   [Focusd (⭐34)](https://github.com/0xarchit/Focusd) - \[Windows] A local, privacy-first screen time monitor.
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Wicket
 
 *   [Patterns.dev](https://www.patterns.dev) - Lydia Hallie, Addy Osmani (HTML)
 
-## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -351,7 +746,12 @@
 
 ### Domain and IP Research / GitHub
 
+*   [CrawlGraph](https://crawlgraph.com) - Maps who links to any domain using the open Common Crawl hyperlink graph. Free, no-signup referring-domain and competitor link-footprint lookups for domain research.
 *   [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
+
+### Image Analysis / GitHub
+
+*   [ChronoVerify](https://chronoverify.com) - API and free web tool that reads EXIF and XMP, validates C2PA Content Credentials against official trust lists, and runs classical pixel forensics, returning one typed verdict for any image.
 
 ### Video Search and Other Video Tools / GitHub
 
@@ -361,10 +761,11 @@
 
 *   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
+*   [Goldziher/scythe (⭐51)](https://github.com/Goldziher/scythe) - Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.
 *   [NoKV-Lab/NoKV (⭐439)](https://github.com/NoKV-Lab/NoKV) - AI-native distributed filesystem. [![Rust](https://github.com/NoKV-Lab/NoKV/workflows/Rust/badge.svg)](https://github.com/NoKV-Lab/NoKV/actions/workflows/rust.yml)
 *   [VelesDB (⭐72)](https://github.com/cyberlife-coder/VelesDB) \[[velesdb-core](https://crates.io/crates/velesdb-core)] - Embeddable, local-first database whose tri-engine fuses vector search, a property graph, and a columnar store behind one query language (VelesQL), in a single binary. Ships an in-core agentic-memory SDK — semantic / episodic / procedural — with cross-session `why()` recall that traverses the graph to surface linked facts vector search alone misses.
 
@@ -372,7 +773,24 @@
 
 *   [tover0314-w/opentypeless (⭐295)](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app built with Tauri and Rust.
 
-## [21. Awesome Python](/content/vinta/awesome-python/week/README.md)
+### Applications / Text processing
+
+*   [Goldziher/uncomment](https://github.com/Goldziher/uncomment) \[[uncomment](https://crates.io/crates/uncomment)] - Blazingly fast CLI to remove comments from code using tree-sitter grammars.
+
+### Libraries / Artificial Intelligence
+
+*   [xberg-io/liter-llm (⭐221)](https://github.com/xberg-io/liter-llm) \[[liter-llm](https://crates.io/crates/liter-llm)] - Universal LLM API client for 142+ providers with a unified interface, streaming, and native bindings for 11 languages.
+
+### Libraries / Parsing
+
+*   [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) \[[tree-sitter-language-pack](https://crates.io/crates/tree-sitter-language-pack)] - Pre-built tree-sitter grammars for 300+ languages with a unified parser API and bindings for 14 languages.
+
+### Libraries / Text processing
+
+*   [xberg-io/html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
+*   [xberg-io/xberg (⭐8.6k)](https://github.com/xberg-io/xberg) \[[xberg](https://crates.io/crates/xberg)] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.
+
+## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Machine Learning
 
@@ -390,7 +808,7 @@
     *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
     *   [pywebview (⭐5.9k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
-## [22. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [26. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Search
 
@@ -446,16 +864,18 @@
 *   [Willem Poortman](https://wpoortman.nl) - Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
 *   [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
 
-## [23. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [27. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
 *   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
 *   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 
 ### Swift
 
 *   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
+*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 
 ### Functional Swift
 
@@ -467,7 +887,11 @@
 
 ### SwiftUI
 
+*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
+*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
 *   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
+*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
+*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
 
 ### Combine
 
@@ -476,6 +900,7 @@
 ### Architecture
 
 *   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 
 ### Multithreading
 
@@ -485,6 +910,7 @@
 ### Database
 
 *   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
 
 ### Machine Learning
 
@@ -508,15 +934,24 @@
 
 *   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
+*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
 
-## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
 *   [llm-box (⭐2)](https://github.com/alib8b8/llm-box) - Terminal-based AI workflow engine with YAML-driven pipelines, 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, etc.), and a TUI for workflow management.
 *   [skillreaper (⭐31)](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### Mock
+
+*   [fabricator](https://github.com/Goldziher/fabricator) - Type-safe factories for generating mock and fake data in Go, inspired by factory\_boy and interface-forge.
+
+### Utilities
+
+*   [go-utils](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
+
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -530,7 +965,15 @@
 
 *   [Vesta (⭐1)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Knocket](https://trtc.io/solutions/knocket) - Free-forever live chat widget you add with one script tag, plus a shareable contact page and a unified Telegram/email inbox. No ads, no seat limits.
+
+### Security and PKI
+
+*   [HimitsuShell](https://himitsushell.com) - A shell script DRM compiler that converts shell scripts into obfuscated binaries using an embedded shell interpreter and anti-debugging (alternative to shc). Free unlimited web edition.
 
 ### Monitoring
 
@@ -548,7 +991,7 @@
 
 *   [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
 
-## [27. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
+## [31. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
 
 ### Tools / Python
 

@@ -12,10 +12,12 @@
 
 *   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
 *   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 
 ### Swift
 
 *   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
+*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 
 ### Functional Swift
 
@@ -27,7 +29,11 @@
 
 ### SwiftUI
 
+*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
+*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
 *   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
+*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
+*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
 
 ### Combine
 
@@ -36,6 +42,7 @@
 ### Architecture
 
 *   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 
 ### Multithreading
 
@@ -45,6 +52,7 @@
 ### Database
 
 *   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
 
 ### Machine Learning
 
@@ -68,6 +76,7 @@
 
 *   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
+*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 
