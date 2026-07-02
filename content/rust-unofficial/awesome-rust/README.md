@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 02, 2026](/content/2026/07/02/README.md)
+
+### Applications / Productivity
+
+*   [ogulcancelik/herdr (⭐10k)](https://github.com/ogulcancelik/herdr) - Terminal multiplexer designed for AI coding agents. Run multiple agents in one terminal with real terminal views, agent state detection (blocked/working/done), workspaces, tabs, and persistent sessions. Single Rust binary with detach/reattach support.
+
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
 ### Applications / Database
@@ -22,7 +28,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Parsing
 
-*   [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) \[[tree-sitter-language-pack](https://crates.io/crates/tree-sitter-language-pack)] - Pre-built tree-sitter grammars for 300+ languages with a unified parser API and bindings for 14 languages.
+*   [xberg-io/tree-sitter-language-pack (⭐415)](https://github.com/xberg-io/tree-sitter-language-pack) \[[tree-sitter-language-pack](https://crates.io/crates/tree-sitter-language-pack)] - Pre-built tree-sitter grammars for 300+ languages with a unified parser API and bindings for 14 languages.
 
 ### Libraries / Text processing
 
@@ -86,7 +92,7 @@ A curated list of Rust code and resources.
 ### Development tools / Embedded
 
 *   Development Tools
-    *   [probe-rs/probe-rs (⭐2.8k)](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
+    *   [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
     *   [Vaishnav-Sabari-Girish/ComChan (⭐150)](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
 ### Libraries / Network programming
@@ -297,7 +303,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Cryptography
 
-*   [rust-random/rand](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
+*   [rust-random/rand (⭐2.1k)](https://github.com/rust-random/rand) \[[rand](https://crates.io/crates/rand)] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes. [![Test Status](https://github.com/rust-random/rand/actions/workflows/test.yml/badge.svg?event=push)](https://github.com/rust-random/rand/actions)
 
 ## [May 15, 2026](/content/2026/05/15/README.md)
 
@@ -312,7 +318,7 @@ A curated list of Rust code and resources.
 ### Development tools / FFI
 
 *   C
-    *   [gtk-rs/gir](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
+    *   [gtk-rs/gir (⭐271)](https://github.com/gtk-rs/gir) - Code generator for creating safe Rust bindings from GObject-based C libraries.
     *   [mozilla/cbindgen (⭐2.9k)](https://github.com/mozilla/cbindgen) - generates C header files from Rust source files. Used in Gecko for WebRender
     *   [Sean1708/rusty-cheddar (⭐187)](https://github.com/Sean1708/rusty-cheddar) - generates C header files from Rust source files
 
@@ -396,7 +402,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Parsing
 
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
+*   [oxc-project/oxc (⭐22k)](https://github.com/oxc-project/oxc) \[[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push\&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
 
 ## [Apr 30, 2026](/content/2026/04/30/README.md)
 
@@ -406,13 +412,13 @@ A curated list of Rust code and resources.
 
 ### Libraries / Caching
 
-*   [salsa-rs/salsa](https://github.com/salsa-rs/salsa) \[[salsa](https://crates.io/crates/salsa)] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system. [![Test](https://github.com/salsa-rs/salsa/workflows/Test/badge.svg)](https://github.com/salsa-rs/salsa/actions?query=workflow%3ATest)
+*   [salsa-rs/salsa (⭐2.9k)](https://github.com/salsa-rs/salsa) \[[salsa](https://crates.io/crates/salsa)] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system. [![Test](https://github.com/salsa-rs/salsa/workflows/Test/badge.svg)](https://github.com/salsa-rs/salsa/actions?query=workflow%3ATest)
 
 ## [Apr 29, 2026](/content/2026/04/29/README.md)
 
 ### Applications / Games
 
-*   [garkimasera/gaia-maker (⭐65)](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
+*   [garkimasera/gaia-maker (⭐67)](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
 
 ### Development tools / Workflow Automation
 
@@ -729,7 +735,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [pydantic/monty (⭐7.7k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
+*   [pydantic/monty (⭐7.8k)](https://github.com/pydantic/monty) - A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support [![CI](https://github.com/pydantic/monty/actions/workflows/ci.yml/badge.svg)](https://github.com/pydantic/monty/actions/workflows/ci.yml)
 
 ## [Mar 13, 2026](/content/2026/03/13/README.md)
 
@@ -4288,7 +4294,7 @@ A curated list of Rust code and resources.
     *   [housleyjk/ws-rs (⭐1.5k)](https://github.com/housleyjk/ws-rs) - lightweight, event-driven WebSockets
     *   [iddm/urlshortener-rs (⭐56)](https://github.com/iddm/urlshortener-rs) - A very simple urlshortener library. [![CI](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/iddm/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
     *   [ratchet (⭐59)](https://github.com/graphform/ratchet) \[[ratchet\_rs](https://crates.io/crates/ratchet_rs)] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
-    *   [rerun-io/ewebsock (⭐296)](https://github.com/rerun-io/ewebsock) \[[ewebsock](https://crates.io/crates/ewebsock)] - Simple WebSocket library for Rust that compiles to both native and web (WASM). Supports sending and receiving text/binary messages with an async-friendly API. [![unsafe forbidden](https://img.shields.io/badge/unsafe-forbidden-success.svg)](https://github.com/rust-secure-code/safety-dance/)
+    *   [rerun-io/ewebsock (⭐295)](https://github.com/rerun-io/ewebsock) \[[ewebsock](https://crates.io/crates/ewebsock)] - Simple WebSocket library for Rust that compiles to both native and web (WASM). Supports sending and receiving text/binary messages with an async-friendly API. [![unsafe forbidden](https://img.shields.io/badge/unsafe-forbidden-success.svg)](https://github.com/rust-secure-code/safety-dance/)
     *   [rust-websocket (⭐1.6k)](https://github.com/websockets-rs/rust-websocket) - A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐2.4k)](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation.
     *   [vi/websocat (⭐8.6k)](https://github.com/vi/websocat) - CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.

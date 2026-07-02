@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 02, 2026](/content/2026/07/02/README.md)
+
+### Debugging
+
+*   [Multiplayer](https://www.multiplayer.app) - Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
+
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
 
 ### Analytics

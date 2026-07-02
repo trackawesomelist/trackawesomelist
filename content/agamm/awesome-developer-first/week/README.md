@@ -16,6 +16,10 @@ A curated list of awesome developer-first tools products.
 
 *   [RunMyJob](https://runmyjob.io/) - Cloud runners for GitHub Actions and GitLab CI.
 
+### Debugging
+
+*   [Multiplayer](https://www.multiplayer.app) - Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
+
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
 ### Monitoring

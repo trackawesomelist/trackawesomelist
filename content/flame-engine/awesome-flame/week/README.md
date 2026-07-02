@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Plugins & Libraries
+
+*   [fuse (⭐3)](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Open Source / Strategy
