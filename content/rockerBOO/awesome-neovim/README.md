@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 02, 2026](/content/2026/07/02/README.md)
+
+### Programming Languages Support / Markdown and LaTeX
+
+*   [dominic-righthere/markdown-pipetable.nvim (⭐3)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+
 ## [Jun 30, 2026](/content/2026/06/30/README.md)
 
 ### Project / Markdown and LaTeX

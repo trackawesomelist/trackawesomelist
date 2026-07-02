@@ -22,7 +22,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the KD
 
 *   [Applications](#applications)
 *   [Customization](#customization)
-*   [Documentation](#documentation)
+*   [Documentation](#documentation-and-resources)
 *   [Articles](#articles)
 *   [Communities](#communities)
 
@@ -141,12 +141,13 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 *   [Dynamic Wallpaper Engine (⭐384)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 *   [Hoppla (⭐72)](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 *   [Kvantum (⭐2k)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-*   [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-*   [Places Widget (⭐13)](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
-*   [Window AppMenu Applet (⭐416)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
-*   [Window Title Applet (⭐243)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+*   [Places Widget (⭐13)](https://github.com/dfaust/plasma-applet-places-widget) - **Plasma 5** widget that gives access to user places.
+*   [Window AppMenu Applet (⭐416)](https://github.com/psifidotos/applet-window-appmenu) - **Plasma 5** applet in order to show the window appmenu.
+*   [Window Title Applet (⭐243)](https://github.com/psifidotos/applet-window-title/) - **Plasma 5** applet that shows the current window title and icon in your panels.
 *   [Karousel (⭐1k)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 *   [KDoit (⭐1)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
+*   [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
+*   [Latte Dock NG (⭐24)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 
 #### KCM Modules and Systems
 
@@ -156,17 +157,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-*   [Adapta KDE (⭐460)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-*   [Arc KDE (⭐938)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-*   [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
+*   [Adapta KDE (⭐460)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
+*   [Arc KDE (⭐938)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
+*   [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (**Plasma 5**).
 *   [Canta (⭐78)](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
 *   [ChromeOS (⭐193)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
-*   [Darkine KDE (⭐46)](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
+*   [Darkine KDE (⭐46)](https://github.com/Rokin05/darkine-kde) - Theme for KDE **Plasma 5** desktop, SDDM and more.
 *   [Fluent (⭐234)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
-*   [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
+*   [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 *   [Hello (⭐216)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 *   [Layan (⭐519)](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
-*   [Materia KDE (⭐667)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+*   [Materia KDE (⭐667)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 *   [McMojave (⭐259)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
 *   [Orchis (⭐320)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
 *   [Qogir (⭐191)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
@@ -209,7 +210,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Display Manager
 
-*   [Chili (⭐223)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
+*   [Chili (⭐223)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE **Plasma 5**.
 *   [Delicious (⭐116)](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 *   [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 

@@ -15,6 +15,28 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Computer use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#computer-use)
     *   [Model Context Protocol (MCP)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-context-protocol-mcp)
 
+### 3\. Research & Survey
+
+*   **Landscape**
+    *   [Large Language Model Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-landscape)
+    *   [Large Language Model Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-collection)
+    *   [Foundation Model Providers](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#foundation-model-providers)
+    *   [Domain-Specific and Specialized LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#domain-specific-and-specialized-llms)
+*   **Training & Optimization**
+    *   [Large Language Model Training and Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-training-and-optimization)
+    *   [Architecture and Inference Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#architecture-and-inference-patterns)
+    *   [Post-training and Fine-Tuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#post-training-and-fine-tuning)
+*   **Impact & Products**
+    *   [AI Adoption, Impact, and Society](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#ai-adoption-impact-and-society)
+    *   [OpenAI Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#openai-products)
+    *   [Anthropic AI Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#anthropic-ai-products)
+    *   [Google AI Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#google-ai-products)
+*   **Survey & Reference**
+    *   [Survey and Reference](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#survey-and-reference)
+    *   [Additional Topics: A Survey of LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#additional-topics-a-survey-of-llms)
+    *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/x_llm_papers.md)
+    *   [Learning Resources, Implementations, and Regional Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#learning-resources-implementations-and-regional-materials)
+
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
 ### 2\. Azure OpenAI & Copilot
@@ -46,22 +68,6 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Domain-Specific Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#domain-specific-agents)
     *   [Skill](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#skill) / [Harness](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#harness)
 
-### 3\. Research & Survey
-
-*   **Challenges**
-    *   [Context Constraints](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#context-constraints)
-    *   [Trustworthy, Safe and Secure LLM](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#trustworthy-safe-and-secure-llm)
-    *   [Large Language Model's Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-is-abilities)
-    *   [Reasoning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#reasoning)
-*   **Survey & Build**
-    *   [Survey on Large Language Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#survey-on-large-language-models)
-    *   [Additional Topics: A Survey of LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#additional-topics-a-survey-of-llms)
-    *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-research-ranked-by-cite-count-150)
-    *   [LLM Materials in Japanese](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-materials-in-japanese)
-    *   [LLM Materials in Korean](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#llm-materials-in-korean)
-    *   [Build an LLMs from Scratch](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#build-an-llms-from-scratch-picogpt-and-lit-gpt)
-    *   [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#business-use-cases)
-
 ### 5\. Best Practices
 
 *   **RAG**
@@ -73,16 +79,7 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Agent Design Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#agent-design-patterns)
     *   [Agent Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#agent-research)
     *   [**Agent Research** (Ranked by cite count >=100)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#agent-research-ranked-by-cite-count-100)
-    *   [Reflection, Tool Use, Planning and Multi-agent collaboration](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#reflection-tool-use-planning-and-multi-agent-collaboration)
     *   [Tool Use: LLM to Master APIs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#tool-use)
-
-## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
-
-### 3\. Research & Survey
-
-*   **Finetuning**
-    *   [Pre-training and Post-training](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#finetuning)
-    *   [Other Techniques and LLM Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#other-techniques-and-llm-patterns)
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -90,7 +87,6 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
 
 *   **RAG**
     *   [RAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#rag-retrieval-augmented-generation)
-    *   [Advanced RAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#advanced-rag)
     *   [GraphRAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#graphrag)
     *   [RAG Application](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#rag-application)
     *   [Vector Database & Embedding](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#vector-database--embedding)
@@ -105,7 +101,7 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
     *   [Model Gateway](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-gateway)
     *   [Model Serving & Local Runtimes](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#model-serving--local-runtimes)
     *   [Observability & LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#observability--llmops)
-    *   [**Popular LLM Applications** (GitHub Stars >= 1000)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#popular-llm-applications-github-stars--1000)
+    *   [**Popular LLM Applications** (GitHub Stars >= 1000)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/x_llm_apps.md)
     *   [SDKs, Integration & ML Libraries](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#sdks-integration--ml-libraries)
     *   [Training & Fine-tuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#training--fine-tuning)
     *   [UI & No-Code Tool](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/applications.md#ui--no-code-tool)
@@ -120,20 +116,8 @@ A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents
 
 ### 3\. Research & Survey
 
-*   **Landscape**
-    *   [Large Language Model: Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-landscape)
-    *   [Comparison](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-comparison)
-    *   [Evolutionary Tree](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#evolutionary-tree-of-large-language-models)
-    *   [LLM Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#large-language-model-collection)
 *   **Prompting**
     *   [Prompt Engineering and Visual Prompts](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#prompt-engineering-and-visual-prompts)
-*   **Products & Impact**
-    *   [OpenAI Roadmap](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#openai-roadmap)
-    *   [OpenAI Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#openai-models)
-    *   [OpenAI Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#openai-products)
-    *   [Anthropic Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#anthropic-ai-products)
-    *   [Google AI Products](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#google-ai-products)
-    *   [AGI Discussion and Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#agi-discussion-and-social-impact)
 
 ### 4\. Tools, Datasets, and Evaluation
 

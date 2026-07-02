@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
+### Programming Languages Support / Markdown and LaTeX
+
+*   [dominic-righthere/markdown-pipetable.nvim (⭐3)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
+
 ### Project / Markdown and LaTeX
 
 *   [Rimkomatic/vimtagger.nvim (⭐5)](https://github.com/Rimkomatic/vimtagger.nvim) - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
