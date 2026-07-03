@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [openinfer-project/openinfer (⭐501)](https://github.com/openinfer-project/openinfer) - LLM inference engine in pure Rust + CUDA with no PyTorch and no Python runtime — OpenAI-compatible API, paged KV cache, CUDA Graph, serving models from Qwen3 to the trillion-parameter Kimi-K2.
+
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### Applications / Productivity
@@ -20,7 +26,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [Goldziher/uncomment](https://github.com/Goldziher/uncomment) \[[uncomment](https://crates.io/crates/uncomment)] - Blazingly fast CLI to remove comments from code using tree-sitter grammars.
+*   [Goldziher/uncomment (⭐49)](https://github.com/Goldziher/uncomment) \[[uncomment](https://crates.io/crates/uncomment)] - Blazingly fast CLI to remove comments from code using tree-sitter grammars.
 
 ### Libraries / Artificial Intelligence
 
@@ -77,22 +83,22 @@ A curated list of Rust code and resources.
 
 ### Applications / Embedded
 
-*   [rtic-rs/rtic (⭐2.3k)](https://github.com/rtic-rs/rtic) \[[rtic](https://crates.io/crates/rtic)] - Real-Time Interrupt-driven Concurrency framework for building embedded real-time systems.
+*   [rtic-rs/rtic (⭐2.4k)](https://github.com/rtic-rs/rtic) \[[rtic](https://crates.io/crates/rtic)] - Real-Time Interrupt-driven Concurrency framework for building embedded real-time systems.
 
 ### Applications / Utilities
 
-*   [YueMiyuki/Risuko (⭐76)](https://github.com/YueMiyuki/Risuko) - A full-featured download manager. [![Release-Badge](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml/badge.svg)](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml)
+*   [YueMiyuki/Risuko (⭐81)](https://github.com/YueMiyuki/Risuko) - A full-featured download manager. [![Release-Badge](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml/badge.svg)](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml)
 
 ## [Jun 16, 2026](/content/2026/06/16/README.md)
 
 ### Applications / Productivity
 
-*   [fkiene/llmtrim (⭐68)](https://github.com/fkiene/llmtrim) \[[llmtrim](https://crates.io/crates/llmtrim)] - Local proxy that compresses LLM API requests to cut input and output tokens without changing the answers. Sits between AI tools and the provider via HTTPS\_PROXY; works with Claude Code, Codex, and more. [![CI](https://github.com/fkiene/llmtrim/actions/workflows/ci.yml/badge.svg)](https://github.com/fkiene/llmtrim/actions/workflows/ci.yml)
+*   [fkiene/llmtrim](https://github.com/fkiene/llmtrim) \[[llmtrim](https://crates.io/crates/llmtrim)] - Local proxy that compresses LLM API requests to cut input and output tokens without changing the answers. Sits between AI tools and the provider via HTTPS\_PROXY; works with Claude Code, Codex, and more. [![CI](https://github.com/fkiene/llmtrim/actions/workflows/ci.yml/badge.svg)](https://github.com/fkiene/llmtrim/actions/workflows/ci.yml)
 
 ### Development tools / Embedded
 
 *   Development Tools
-    *   [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
+    *   [probe-rs/probe-rs (⭐2.8k)](https://github.com/probe-rs/probe-rs) \[[probe-rs-tools](https://crates.io/crates/probe-rs-tools)] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.
     *   [Vaishnav-Sabari-Girish/ComChan (⭐150)](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
 ### Libraries / Network programming
@@ -111,7 +117,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [harehare/mq (⭐924)](https://github.com/harehare/mq) - A command-line tool and library for processing Markdown using a jq-like syntax [![build badge](https://github.com/harehare/mq/actions/workflows/ci.yml/badge.svg)](https://github.com/harehare/mq/actions/workflows/ci.yml)
+*   [harehare/mq](https://github.com/harehare/mq) - A command-line tool and library for processing Markdown using a jq-like syntax [![build badge](https://github.com/harehare/mq/actions/workflows/ci.yml/badge.svg)](https://github.com/harehare/mq/actions/workflows/ci.yml)
 
 ## [Jun 11, 2026](/content/2026/06/11/README.md)
 
@@ -299,7 +305,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [muvon/octomind](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
+*   [muvon/octomind (⭐82)](https://github.com/muvon/octomind) - Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.
 
 ### Libraries / Cryptography
 
@@ -516,7 +522,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text editors
 
-*   [SoloMD (⭐376)](https://github.com/zhitongblog/solomd) - A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.
+*   [SoloMD (⭐415)](https://github.com/zhitongblog/solomd) - A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.
 
 ## [Apr 14, 2026](/content/2026/04/14/README.md)
 
@@ -721,7 +727,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [louis-e/arnis (⭐16k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+*   [louis-e/arnis (⭐17k)](https://github.com/louis-e/arnis) - Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data [![CI](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
 
 ### Development tools / Workflow Automation
 
@@ -900,7 +906,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Image processing
 
-*   [visioncortex/vtracer (⭐6.2k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
+*   [visioncortex/vtracer (⭐6.3k)](https://github.com/visioncortex/vtracer) \[[vtracer](https://crates.io/crates/vtracer)] - A raster to vector graphics converter (jpg/png to svg).
 
 ### Applications / System tools
 
@@ -1019,7 +1025,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [tambourine-voice (⭐364)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
+*   [tambourine-voice (⭐368)](https://github.com/kstonekuan/tambourine-voice) - personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.
 
 ## [Feb 09, 2026](/content/2026/02/09/README.md)
 
@@ -2128,7 +2134,7 @@ A curated list of Rust code and resources.
 
 *   Science
     *   [Axect/Peroxide (⭐708)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
-    *   [cool-japan/scirs](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
+    *   [cool-japan/scirs (⭐265)](https://github.com/cool-japan/scirs) - Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.
     *   [cpmech/russell (⭐187)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
     *   [Nonanti/mathcore (⭐118)](https://github.com/Nonanti/mathcore) - Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic [![crates.io](https://img.shields.io/crates/v/mathcore.svg)](https://crates.io/crates/mathcore)
     *   [Ryan-D-Gast/differential-equations (⭐80)](https://github.com/Ryan-D-Gast/differential-equations) - A high-performance library for numerically solving differential equations
@@ -4690,7 +4696,7 @@ A curated list of Rust code and resources.
 *   CoAP
     *   [Covertness/coap-rs (⭐236)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard](https://github.com/fussybeaver/bollard) - Docker daemon API
+    *   [fussybeaver/bollard (⭐1.3k)](https://github.com/fussybeaver/bollard) - Docker daemon API
 
 ### Libraries / Parsing
 
@@ -5748,7 +5754,7 @@ A curated list of Rust code and resources.
 *   [Cargo](https://crates.io/) - the Rust package manager
     *   [cargo-all-features (⭐187)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
     *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - A utility to compare micro-benchmarks
-    *   [cargo-bins/cargo-binstall (⭐2.7k)](https://github.com/cargo-bins/cargo-binstall) \[[cargo-binstall](https://crates.io/crates/cargo-binstall)] - A fast binary installer for Rust crates, fetching pre-built artifacts instead of compiling from source [![CI](https://github.com/cargo-bins/cargo-binstall/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-bins/cargo-binstall/actions)
+    *   [cargo-bins/cargo-binstall (⭐2.8k)](https://github.com/cargo-bins/cargo-binstall) \[[cargo-binstall](https://crates.io/crates/cargo-binstall)] - A fast binary installer for Rust crates, fetching pre-built artifacts instead of compiling from source [![CI](https://github.com/cargo-bins/cargo-binstall/actions/workflows/ci.yml/badge.svg)](https://github.com/cargo-bins/cargo-binstall/actions)
     *   [cargo-bitbake](https://crates.io/crates/cargo-bitbake) - A cargo extension that can generate BitBake recipes utilizing the classes from meta-rust
     *   [cargo-cache](https://crates.io/crates/cargo-cache) - inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
     *   [cargo-check](https://crates.io/crates/cargo-check) - A wrapper around `cargo rustc -- -Zno-trans` which can be helpful for running a faster compile if you only need correctness checks

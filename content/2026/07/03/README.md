@@ -1,12 +1,60 @@
-# Track Awesome Claude Code Updates Weekly
+# Awesome List Updates on Jul 03, 2026
 
-A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 41K · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / Weekly / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
-## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Command-line
+
+*   [anyside](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
+
+### Scientific computing
+
+*   [vnm (⭐3)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+### Configuration
+
+*   [ucl.cr (⭐1)](https://github.com/jbox-web/ucl.cr) - Bindings to [libucl (⭐1.7k)](https://github.com/vstakhov/libucl), load, dump and validate UCL/JSON configuration
+
+### Framework Components
+
+*   [rbacr (⭐2)](https://github.com/systatum/rbacr) - Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic
+
+### TUI
+
+*   [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
+
+## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
+
+### Formatting
+
+*   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [openinfer-project/openinfer (⭐501)](https://github.com/openinfer-project/openinfer) - LLM inference engine in pure Rust + CUDA with no PyTorch and no Python runtime — OpenAI-compatible API, paged KV cache, CUDA Graph, serving models from Qwen3 to the trillion-parameter Kimi-K2.
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Photo Galleries
+
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+### Developer Workflow / CI/CD
+
+*   [Self Hosted Runner (⭐114)](https://github.com/youssefbrr/self-hosted-runner) - Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.
+
+## [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Start Here
 
@@ -162,3 +210,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 *   [Ctxlint (⭐7)](https://github.com/ctxlint/Ctxlint) by [ctxlint](https://github.com/ctxlint) - A CLI linter for AI agent context files that catches stale references, dead commands, and hardcoded secrets, with a modular tested rule set.\ <img src="https://img.shields.io/github/created-at/ctxlint/Ctxlint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ctxlint/Ctxlint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ctxlint/Ctxlint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ctxlint/Ctxlint?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Schliff (⭐4)](https://github.com/Zandereins/schliff) by [Zandereins](https://github.com/Zandereins) - Deterministic quality scorer for AI agent instruction files — 8-dimension scoring with security, multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), anti-gaming detection, zero dependencies\ <img src="https://img.shields.io/github/created-at/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Upkeep](https://github.com/wei18/Upkeep) by [wei18](https://github.com/wei18) - Upkeep — an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.\ <img src="https://img.shields.io/github/created-at/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+---
+
+- Next: [Jul 02, 2026](/content/2026/07/02/README.md)

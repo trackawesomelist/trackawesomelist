@@ -2,15 +2,21 @@
 
 Awesome list of Fortran libs
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rabbiabram/awesome-fortran/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rabbiabram/awesome-fortran](https://github.com/rabbiabram/awesome-fortran) · ⭐ 402 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rabbiabram/awesome-fortran/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rabbiabram/awesome-fortran](https://github.com/rabbiabram/awesome-fortran) · ⭐ 411 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/rabbiabram/awesome-fortran/week/README.md) / [Overview](/content/rabbiabram/awesome-fortran/readme/README.md) ]
+
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### Formatting
+
+*   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
 ## [Feb 24, 2026](/content/2026/02/24/README.md)
 
 ### Computational Fluid Dynamics
 
-*   [MFC (⭐318)](https://github.com/MFlowCode/MFC) - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+*   [MFC (⭐381)](https://github.com/MFlowCode/MFC) - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 
 ## [May 12, 2020](/content/2020/05/12/README.md)
 
@@ -18,7 +24,7 @@ Awesome list of Fortran libs
 
 *   [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 *   [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
-*   [gtk-fortran (⭐285)](https://github.com/vmagnin/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+*   [gtk-fortran (⭐289)](https://github.com/vmagnin/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 *   [PGPLOT](https://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
 
 ### Math Libs
@@ -36,7 +42,7 @@ Awesome list of Fortran libs
 
 ### Functional Libraries
 
-*   [Functional Fortran (⭐434)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
+*   [Functional Fortran (⭐437)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
 ## [Mar 28, 2019](/content/2019/03/28/README.md)
 
@@ -48,13 +54,13 @@ Awesome list of Fortran libs
 
 ### Web
 
-*   [Fortran Machine (⭐812)](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
+*   [Fortran Machine](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
 
 ## [Nov 30, 2016](/content/2016/11/30/README.md)
 
 ### Graphics Libraries
 
-*   [VTKFortran (⭐152)](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
+*   [VTKFortran (⭐157)](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ### XML Manipulation
 
@@ -62,7 +68,7 @@ Awesome list of Fortran libs
 
 ### Date and time manipulation
 
-*   [datetime-fortran (⭐149)](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
+*   [datetime-fortran (⭐151)](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
 
 ### Testing
 
@@ -71,7 +77,7 @@ Awesome list of Fortran libs
 
 ### Portability enabling
 
-*   [PENF (⭐43)](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
+*   [PENF (⭐42)](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
 
 ### Docker
 
@@ -91,7 +97,7 @@ Awesome list of Fortran libs
 
 ### Encoding-Decoding
 
-*   [BeFoR64 (⭐23)](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+*   [BeFoR64 (⭐22)](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ### Command-Line parsing
 
@@ -100,7 +106,7 @@ Awesome list of Fortran libs
 
 ### Compiling and building
 
-*   [FoBiS (⭐141)](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+*   [FoBiS (⭐144)](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ### Preprocessor
 
@@ -109,11 +115,11 @@ Awesome list of Fortran libs
 
 ### Automatic documentation
 
-*   [FORD (⭐42)](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
+*   [FORD (⭐40)](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
 
 ### Computational Fluid Dynamics
 
-*   [OFF (⭐146)](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
+*   [OFF (⭐150)](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
 
 ### Fortran Websites
 
@@ -133,8 +139,8 @@ Awesome list of Fortran libs
 
 ### Math Libs
 
-*   [netCDF (⭐266)](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
-*   [OpenBLAS (⭐7.3k)](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+*   [netCDF (⭐269)](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+*   [OpenBLAS (⭐7.5k)](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 
 ## [Jul 16, 2014](/content/2014/07/16/README.md)
 
@@ -146,9 +152,9 @@ Awesome list of Fortran libs
 
 ### JSON Manipulation
 
-*   [FSON (⭐66)](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
-*   [json-fortran (⭐375)](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
+*   [FSON (⭐62)](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
+*   [json-fortran (⭐377)](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
 ### XML Manipulation
 
-*   [fox (⭐64)](https://github.com/andreww/fox) - Fortran XML library
+*   [fox](https://github.com/andreww/fox) - Fortran XML library

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### Software / Photo Galleries
+
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### Software / Miscellaneous
@@ -1670,10 +1676,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Manufacturing
 
 *   [Manyfold](https://manyfold.app) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. ([Source Code (⭐2k)](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
-
-### Software / Photo Galleries
-
-*   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
 ## [May 06, 2024](/content/2024/05/06/README.md)
 
@@ -3964,7 +3966,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.5k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 
 ### Software / Document Management - E-books
 

@@ -20,6 +20,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Snipo (⭐62)](https://github.com/MohamedElashri/snipo) - Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. ([Demo](https://snipo.melashri.dev/)) `AGPL-3.0` `Go/Docker`
 
+### Software / Photo Galleries
+
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -1574,10 +1578,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Money, Budgeting & Management
 
 *   [Bigcapital](https://bigcapital.app/) - Financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐3.7k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
-
-### Software / Photo Galleries
-
-*   [Ente](https://ente.io/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente-io/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
 ## [May 06 - May 12, 2024](/content/2024/19/README.md)
 
@@ -3670,7 +3670,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code](https://github.com/securitybunker/databunker)) `MIT` `Docker`
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.5k)](https://github.com/securitybunker/databunker)) `MIT` `Docker`
 
 ### Software / Document Management - E-books
 
