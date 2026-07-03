@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### APIs, Data, and ML
+
+*   [Proxmint GeoIP](https://proxmint.com/tools/ip-lookup) — Free IP → country/city/ASN JSON API, no key, CORS-open. MaxMind GeoLite2.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
+
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### APIs, Data, and ML
@@ -1109,7 +1119,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.7k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.8k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 

@@ -820,12 +820,12 @@ additional ordered map implementations.
 *   [pebble (⭐5.9k)](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go.
 *   [piladb (⭐205)](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 *   [pogreb (⭐1.3k)](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
-*   [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
+*   [prometheus (⭐65k)](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 *   [pudge (⭐370)](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
 *   [redka (⭐4.6k)](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite.
 *   [rosedb (⭐4.9k)](https://github.com/roseduan/rosedb) - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
 *   [rotom (⭐42)](https://github.com/xgzlucario/rotom) - A tiny Redis server built with Golang, compatible with RESP protocols.
-*   [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
+*   [rqlite (⭐18k)](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
 *   [tempdb (⭐19)](https://github.com/rafaeljesus/tempdb) - Key-value store for temporary items.
 *   [tidb (⭐40k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 *   [tiedot (⭐2.7k)](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
@@ -877,7 +877,7 @@ additional ordered map implementations.
 *   [pg\_timetable (⭐1.4k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
 *   [pgrwl (⭐177)](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 *   [pgweb (⭐9.4k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
-*   [pgxcli](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
+*   [pgxcli (⭐63)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
 *   [prep (⭐36)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
 *   [pREST (⭐4.5k)](https://github.com/prest/prest) - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 *   [rdb (⭐613)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
@@ -1267,7 +1267,7 @@ additional ordered map implementations.
 *   [ofxgo (⭐151)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
 *   [orderbook (⭐550)](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
 *   [payme (⭐90)](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments.
-*   [paystack-sdk-go (⭐1)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
+*   [paystack-sdk-go (⭐2)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
 *   [swift](https://code.pfad.fr/swift/) - Offline validity check of IBAN (International Bank Account Number) and retrieval of BIC (for some countries).
 *   [techan (⭐904)](https://github.com/sdcoffey/techan) - Technical analysis library with advanced market analysis and trading strategies.
 *   [ticker (⭐6.1k)](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
@@ -1385,7 +1385,7 @@ additional ordered map implementations.
 *   [osm (⭐463)](https://github.com/paulmach/osm) - Library for reading, writing and working with OpenStreetMap data and APIs.
 *   [pbf (⭐55)](https://github.com/maguro/pbf) - OpenStreetMap PBF golang encoder/decoder.
 *   [S2 geojson (⭐37)](https://github.com/pantrif/s2-geojson) - Convert geojson to s2 cells & demonstrating some S2 geometry features on map.
-*   [S2 geometry](https://github.com/golang/geo) - S2 geometry library in Go.
+*   [S2 geometry (⭐1.8k)](https://github.com/golang/geo) - S2 geometry library in Go.
 *   [simplefeatures (⭐172)](https://github.com/peterstace/simplefeatures) - simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them.
 *   [Tile38 (⭐9.7k)](https://github.com/tidwall/tile38) - Geolocation DB with spatial index and realtime geofencing.
 *   [Web-Mercator-Projection (⭐10)](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
@@ -2209,6 +2209,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [hedge (⭐285)](https://github.com/bhope/hedge) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
 *   [heimdall (⭐2.8k)](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
 *   [httpretry (⭐57)](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
+*   [impersonate-http (⭐0)](https://github.com/North-web-dev/impersonate-http) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
 *   [pester (⭐656)](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
 *   [req (⭐4.8k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 *   [request (⭐296)](https://github.com/monaco-io/request) - HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency.
@@ -2395,7 +2396,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *   [acmetool (⭐2.1k)](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 *   [acopw-go](https://sr.ht/~jamesponddotco/acopw-go/) - Small cryptographically secure password generator package for Go.
-*   [acra](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
 *   [aes-ctr-drbg (⭐7)](https://github.com/sixafter/aes-ctr-drbg) - A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
 *   [age (⭐23k)](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 *   [argon2-hashing (⭐25)](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
@@ -2952,7 +2953,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [generate (⭐31)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [gh-image (⭐103)](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads images to GitHub issues, PRs, and READMEs from the command line, producing user-attachments URLs that respect repository visibility.
 *   [ghokin (⭐55)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐1k)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [git-tools (⭐32)](https://github.com/kazhuravlev/git-tools) - Tool to help manage git tags.
 *   [gitbatch (⭐1.6k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐132)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.

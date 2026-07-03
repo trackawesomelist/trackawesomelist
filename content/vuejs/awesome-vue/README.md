@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### Components & Libraries / UI Components
+
+*   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
+
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
 ### Projects Using Vue.js / Open Source

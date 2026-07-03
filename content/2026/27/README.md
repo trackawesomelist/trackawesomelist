@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2026
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### Gems / Other external resources
+
+*   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -16,7 +22,7 @@
 
 *   [vnm (⭐3)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
@@ -30,19 +36,19 @@
 
 *   [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
-## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [4. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Formatting
 
 *   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
-## [4. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Developer Workflow / CI/CD
 
 *   [Self Hosted Runner (⭐114)](https://github.com/youssefbrr/self-hosted-runner) - Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.
 
-## [5. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [6. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Start Here
 
@@ -199,13 +205,13 @@
 *   [Schliff (⭐4)](https://github.com/Zandereins/schliff) by [Zandereins](https://github.com/Zandereins) - Deterministic quality scorer for AI agent instruction files — 8-dimension scoring with security, multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), anti-gaming detection, zero dependencies\ <img src="https://img.shields.io/github/created-at/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Upkeep](https://github.com/wei18/Upkeep) by [wei18](https://github.com/wei18) - Upkeep — an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.\ <img src="https://img.shields.io/github/created-at/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [6. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [7. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Plugins & Libraries
 
 *   [fuse (⭐3)](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
-## [7. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [8. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Audio & Speech
 
@@ -220,19 +226,19 @@
 
 *   [Image 2](https://image2.to/) - AI image and video generator for creating, editing, and transforming visuals from prompts. `#freemium`
 
-## [8. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Bell System Technical Journal, 1922-1983](https://archive.org/details/bstj-archives)
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [JMeter Basics](https://thatsabug.com/tags/jmeter-series/) - By João Farias.
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -240,11 +246,12 @@
 
 ### AI and LLMs
 
-*   [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+*   [anthropic-sdk-ruby (⭐353)](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
 *   [openai-ruby (⭐438)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
 *   [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
 *   Model Context Protocol (MCP)
     *   [ruby-sdk (⭐856)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
+    *   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for better agentic Rails development, runtime-level tools for your agent to talk to your running app.
 
 ### API Builder and Discovery
 
@@ -277,7 +284,7 @@
 
 ### Caching
 
-*   [Dalli](https://github.com/petergoldstein/dalli) - A high performance pure Ruby client for accessing memcached servers.
+*   [Dalli (⭐3.1k)](https://github.com/petergoldstein/dalli) - A high performance pure Ruby client for accessing memcached servers.
 
 ### CLI Builder
 
@@ -289,23 +296,23 @@
 
 ### Cloud
 
-*   [browse-everything](https://github.com/samvera/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [browse-everything (⭐115)](https://github.com/samvera/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 *   [humidifier (⭐56)](https://github.com/kddnewton/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ### Code Analysis and Metrics
 
-*   [Pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes.
+*   [Pronto (⭐2.7k)](https://github.com/prontolabs/pronto) - Quick automated code review of your changes.
 *   [rails\_best\_practices (⭐4.2k)](https://github.com/flyerhzm/rails_best_practices) - A code metric tool for rails projects.
-*   [rubydex](https://github.com/Shopify/rubydex) - A high-performance static analysis suite for Ruby, built in Rust with Ruby APIs.
-*   [SimpleCov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
+*   [rubydex (⭐275)](https://github.com/Shopify/rubydex) - A high-performance static analysis suite for Ruby, built in Rust with Ruby APIs.
+*   [SimpleCov (⭐4.9k)](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
 ### Code Formatting
 
 *   [RuboCop (⭐13k)](https://github.com/rubocop/rubocop) - A static code analyzer, based on the community Ruby style guide.
     *   [Rubocop Rails (⭐875)](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Rspec (⭐856)](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
     *   [Rubocop Performance (⭐739)](https://github.com/rubocop/rubocop-performance) - A RuboCop extension focused on code performance checks.
-*   [Standard](https://github.com/standardrb/standard) - Ruby Style Guide, with linter & automatic code fixer
+*   [Standard (⭐2.9k)](https://github.com/standardrb/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ### Code Highlighting
 
@@ -314,7 +321,7 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby](https://github.com/fastruby/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.7k)](https://github.com/fastruby/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 *   [Rails style guide (⭐6.5k)](https://github.com/rubocop/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
 *   [RSpec style guide (⭐3.5k)](https://github.com/betterspecs/betterspecs) - Better Specs { rspec guidelines with ruby }.
 *   [Ruby style guide (⭐17k)](https://github.com/rubocop/ruby-style-guide) - Community-driven Ruby coding style.
@@ -333,12 +340,12 @@
 
 ### Country Data
 
-*   [Carmen](https://github.com/carmen-ruby/carmen) - A repository of geographic regions.
+*   [Carmen (⭐1.2k)](https://github.com/carmen-ruby/carmen) - A repository of geographic regions.
 *   [Countries (⭐2.4k)](https://github.com/countries/countries) - All sorts of useful information about every country packaged as pretty little country objects.
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite](https://github.com/rubycocos/blockchain) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐238)](https://github.com/rubycocos/blockchain) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ### Data Processing and ETL
 
@@ -361,22 +368,22 @@
 ### Developer Tooling
 
 *   Language Servers
-    *   [Fuzzy Ruby Server](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
+    *   [Fuzzy Ruby Server (⭐235)](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
     *   [Ruby LSP (⭐2k)](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby with support for pull diagnostics, formatting, and more.
     *   [Solargraph (⭐2k)](https://github.com/castwide/solargraph) - A Ruby language server providing IntelliSense, code completion, and inline documentation.
 *   Editor Extensions
     *   [Ruby LSP (VS Code)](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) - VS Code extension providing a rich Ruby development experience powered by Ruby LSP.
-    *   [VSCode RuboCop](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
-    *   [VSCode Standard](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
+    *   [VSCode RuboCop (⭐74)](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
+    *   [VSCode Standard (⭐123)](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
     *   [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) - VS Code extension for the debug gem with DAP support.
 *   Developer Experience
     *   [debug (⭐1.3k)](https://github.com/ruby/debug) - The official Ruby debugger with Debug Adapter Protocol (DAP) support.
-    *   [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
-    *   [ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
+    *   [ruby-lsp-rails (⭐683)](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
+    *   [ruby-lsp-rspec (⭐218)](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
 
 ### DevOps Tools
 
-*   [Einhorn](https://github.com/contribsys/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+*   [Einhorn (⭐1.6k)](https://github.com/contribsys/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
 
 ### Documentation
 
@@ -402,13 +409,13 @@
 
 ### Environment Management
 
-*   [rbenv](https://github.com/rbenv/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+*   [rbenv (⭐17k)](https://github.com/rbenv/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 *   [ruby-build (⭐4k)](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
 *   [rv](https://rv.dev) - A fast Ruby version and toolchain manager written in Rust.
 
 ### Error Handling
 
-*   [Better Errors](https://github.com/BetterErrors/better_errors) - Better error page for Rack apps.
+*   [Better Errors (⭐6.9k)](https://github.com/BetterErrors/better_errors) - Better error page for Rack apps.
 
 ### Feature Flippers and A/B Testing
 
@@ -454,7 +461,7 @@
 ### Internationalization
 
 *   [i18n (⭐1k)](https://github.com/ruby-i18n/i18n) - Ruby Internationalization and localization solution.
-*   [r18n](https://github.com/r18n/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+*   [r18n (⭐512)](https://github.com/r18n/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 
 ### Machine Learning
 
@@ -486,7 +493,7 @@
     *   [Unread (⭐742)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
 *   Sorting
     *   [ActsAsList (⭐2.1k)](https://github.com/brendon/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
-    *   [positioning (⭐414)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
+    *   [positioning (⭐416)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
     *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 
 ### PDF
@@ -496,7 +503,7 @@
 ### Performance Monitoring
 
 *   [Instrumental (⭐59)](https://github.com/Instrumental/instrumental_agent-ruby) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
-*   [New Relic](https://github.com/newrelic/newrelic-ruby-agent) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+*   [New Relic (⭐1.2k)](https://github.com/newrelic/newrelic-ruby-agent) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 
 ### Processes
 
@@ -533,7 +540,7 @@
     *   [ruby-opencv (⭐811)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 *   Data analysis/structures
     *   [daru (⭐1.1k)](https://github.com/SciRuby/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐98)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Daru::View](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
     *   [Rgl (⭐421)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ### Search
@@ -555,9 +562,9 @@
 
 ### Third-party APIs
 
-*   [Notion Ruby Client](https://github.com/phacks/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐131)](https://github.com/phacks/notion-ruby-client) - A Ruby wrapper for the Notion API.
 *   [Restforce (⭐823)](https://github.com/restforce/restforce) - A Ruby client for the Salesforce REST api.
-*   [Slack Notifier](https://github.com/slack-notifier/slack-notifier) - A simple wrapper for posting to Slack channels.
+*   [Slack Notifier (⭐1.5k)](https://github.com/slack-notifier/slack-notifier) - A simple wrapper for posting to Slack channels.
 *   [twitter (⭐4.6k)](https://github.com/sferik/twitter-ruby) - A Ruby interface to the Twitter API.
 *   [Yt (⭐754)](https://github.com/claudiob/yt) - An object-oriented Ruby client for YouTube API V3.
 *   [x-cli (⭐5.6k)](https://github.com/sferik/x-cli) - A command-line power tool for X/Twitter.
@@ -567,13 +574,13 @@
 *   [RBS (⭐2.2k)](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
 *   [rbs-inline (⭐352)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
 *   [Sord (⭐334)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
-*   [Spoom](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
-*   [Steep](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
-*   [Tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
+*   [Spoom (⭐264)](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
+*   [Steep (⭐1.5k)](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
+*   [Tapioca (⭐867)](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
 *   [Typeprof (⭐827)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
 *   Runtime Typing
     *   [dry-types (⭐897)](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
-    *   [Literal](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
+    *   [Literal (⭐339)](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
 
 ### Video
 
@@ -582,11 +589,11 @@
 ### View components
 
 *   [Phlex (⭐1.5k)](https://github.com/yippee-fun/phlex) - A framework for building object-oriented views in Ruby.
-*   [ViewComponent](https://github.com/ViewComponent/view_component) - View components for Rails.
+*   [ViewComponent (⭐3.6k)](https://github.com/ViewComponent/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [Bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby.
+*   [Bh (⭐832)](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby.
 *   [render\_async (⭐1.1k)](https://github.com/nikolalsvk/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
 
 ### WebSocket
@@ -594,7 +601,7 @@
 *   [CableReady (⭐771)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.3k)](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
-## [11. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
+## [12. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/week/README.md)
 
 ### Commands & Extensions
 
@@ -607,7 +614,7 @@
 *   [Unreal-MCP (⭐8)](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 *   [GameDev-MCP-Server (⭐6)](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
 
-## [12. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
+## [13. Awesome Agents](/content/Scottcjn/awesome-agents/week/README.md)
 
 ### Platforms
 
@@ -621,7 +628,7 @@
 
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / AI Gateway
 
@@ -729,7 +736,7 @@
 
 *   [YAML (⭐482) (⭐478)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [14. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Currency Exchange
 
@@ -803,7 +810,7 @@
 
 
 
-## [15. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [16. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Rust
 
@@ -813,7 +820,7 @@
 
 *   [mqtt-dashboard (⭐9)](https://github.com/jmischler72/mqtt-dashboard) - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -831,7 +838,7 @@
 
 *   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -843,6 +850,7 @@
 
 ### Components & Libraries / UI Components
 
+*   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
 *   [custom-highlight (⭐1)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 ### Components & Libraries / Utilities
@@ -853,7 +861,7 @@
 
 *   [ILUMINATY (⭐2)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 
-## [18. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [19. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### 1\. App & Agent
 
@@ -885,13 +893,13 @@
     *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/x_llm_papers.md)
     *   [Learning Resources, Implementations, and Regional Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#learning-resources-implementations-and-regional-materials)
 
-## [19. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [20. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Network & Web / Network
 
 *   [zora (⭐0)](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
 
@@ -905,7 +913,7 @@
 
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -920,7 +928,7 @@
 
 *   [Complete Zsh Terminal Customization Guide (⭐0)](https://github.com/mostafa447/zsh-guide) - A comprehensive guide to transform your terminal with Zsh, Oh My Zsh, and Powerlevel10k theme — covering both DNF-based and APT-based distros
 
-## [22. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [23. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
@@ -930,7 +938,7 @@
 
 *   [emplace](https://web.archive.org/web/20260430004416/https://github.com/tversteeg/emplace)
 
-## [23. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [24. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Projects
 
@@ -939,7 +947,7 @@
 *   [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
 *   [Sign Zero](https://sign-zero.vercel.app/) - Lightweight demo app exploring authentication and signing flows.
 
-## [24. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -953,26 +961,26 @@
 
 *   [Multiplayer](https://www.multiplayer.app) - Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
 
-## [25. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [26. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Plasma desktop / Extensions
 
 *   [KDoit (⭐1)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 *   [Latte Dock NG (⭐24)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 
-## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [NanoBot AI Chat Robot (⭐0)](https://github.com/samartzidis/NanoBot) - Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.
 
-## [27. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [28. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
 
-## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [29. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Time Tracking
 
@@ -982,13 +990,13 @@
 
 *   [elio (⭐668)](https://github.com/elio-fm/elio) - Snappy, batteries-included file manager.
 
-## [29. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [30. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Wicket
 
 *   [Patterns.dev](https://www.patterns.dev) - Lydia Hallie, Addy Osmani (HTML)
 
-## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -1019,7 +1027,7 @@
 
 *   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -1050,7 +1058,7 @@
 *   [xberg-io/html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
 *   [xberg-io/xberg (⭐8.6k)](https://github.com/xberg-io/xberg) \[[xberg](https://crates.io/crates/xberg)] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.
 
-## [32. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [33. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Projects / Machine Learning
 
@@ -1068,7 +1076,7 @@
     *   [nicegui (⭐16k)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
     *   [pywebview (⭐5.9k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
-## [33. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [34. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Open Source Extensions / Search
 
@@ -1124,7 +1132,7 @@
 *   [Willem Poortman](https://wpoortman.nl) - Senior Developer at Hyva Themes; creator of the Magewire framework for server-side Magento 2 components.
 *   [Willem Wigman](https://www.hyva.io/blog/author/willemwigman) - Founder and CEO of Hyva Themes; creator of the Hyva frontend framework for Magento 2; released Hyva as open source in November 2025.
 
-## [34. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [35. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -1196,7 +1204,7 @@
 *   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 *   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
 
-## [35. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1207,6 +1215,10 @@
 
 *   [silentjson (⭐26)](https://github.com/GenshIv/silentjson) - Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.
 
+### HTTP Clients
+
+*   [impersonate-http (⭐0)](https://github.com/North-web-dev/impersonate-http) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
+
 ### Mock
 
 *   [fabricator (⭐28)](https://github.com/Goldziher/fabricator) - Type-safe factories for generating mock and fake data in Go, inspired by factory\_boy and interface-forge.
@@ -1215,7 +1227,7 @@
 
 *   [go-utils (⭐57)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
 
-## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -1229,11 +1241,12 @@
 
 *   [Vesta (⭐1)](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vestaterm/Vesta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
+*   [Proxmint GeoIP](https://proxmint.com/tools/ip-lookup) — Free IP → country/city/ASN JSON API, no key, CORS-open. MaxMind GeoLite2.
 
 ### Tools for Teams and Collaboration
 
@@ -1255,11 +1268,15 @@
 
 *   [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource (⭐4.3k)](https://github.com/latitude-dev/latitude-llm)
 
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
+
 ### Analytics, Events and Statistics
 
 *   [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
 
-## [38. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
+## [39. Awesome Terminals](/content/cdleon/awesome-terminals/week/README.md)
 
 ### Tools / Python
 

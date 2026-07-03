@@ -1193,6 +1193,7 @@ Tooltips / popovers
 
 *   [vue-pdf-embed (⭐1k)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 *   [@tato30/vue-pdf (⭐686)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
 
 #### Tree
 

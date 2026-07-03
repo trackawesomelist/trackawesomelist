@@ -16,7 +16,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests (⭐123k)](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests (⭐128k)](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -297,6 +297,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [ip-api](https://ip-api.com) - IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 *   [IP.City](https://ip.city) - 100 Free IP geolocation requests per day
 *   [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
+*   [Proxmint GeoIP](https://proxmint.com/tools/ip-lookup) — Free IP → country/city/ASN JSON API, no key, CORS-open. MaxMind GeoLite2.
 *   [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
 *   [ipaddress.sh](https://ipaddress.sh) - Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
 *   [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
@@ -1012,7 +1013,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
 *   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.7k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐4.8k)](https://github.com/pollinations/pollinations)
 *   [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
 *   [ReportGPT](https://ReportGPT.app) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 *   [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
@@ -1218,6 +1219,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Hamachi](https://www.vpn.net/) - LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
 *   [Hookdeck](https://hookdeck.com/pricing) - Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 *   [localhost.run](https://localhost.run/) - Expose locally running servers over a tunnel to a public URL.
+*   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
 *   [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐22k)](https://github.com/localtunnel/localtunnel).
 *   [LocalXpose](https://localxpose.io) - Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
 *   [ngrok.com](https://ngrok.com/) - Expose locally running servers over a tunnel to a public URL.

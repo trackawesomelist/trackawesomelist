@@ -18,6 +18,7 @@
 
 ### Components & Libraries / UI Components
 
+*   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
 *   [custom-highlight (⭐1)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 ### Components & Libraries / Utilities

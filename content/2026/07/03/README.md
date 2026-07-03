@@ -1,12 +1,40 @@
 # Awesome List Updates on Jul 03, 2026
 
-7 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### HTTP Clients
+
+*   [impersonate-http (⭐0)](https://github.com/North-web-dev/impersonate-http) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [Proxmint GeoIP](https://proxmint.com/tools/ip-lookup) — Free IP → country/city/ASN JSON API, no key, CORS-open. MaxMind GeoLite2.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
+
+## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### Gems / Other external resources
+
+*   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
+
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
@@ -16,7 +44,7 @@
 
 *   [vnm (⭐3)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
@@ -30,31 +58,31 @@
 
 *   [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
-## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
+## [7. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
 ### Formatting
 
 *   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
 *   [openinfer-project/openinfer (⭐501)](https://github.com/openinfer-project/openinfer) - LLM inference engine in pure Rust + CUDA with no PyTorch and no Python runtime — OpenAI-compatible API, paged KV cache, CUDA Graph, serving models from Qwen3 to the trillion-parameter Kimi-K2.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo Galleries
 
 *   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Developer Workflow / CI/CD
 
 *   [Self Hosted Runner (⭐114)](https://github.com/youssefbrr/self-hosted-runner) - Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.
 
-## [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+## [11. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ### Start Here
 

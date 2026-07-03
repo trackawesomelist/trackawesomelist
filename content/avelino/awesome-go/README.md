@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 03, 2026](/content/2026/07/03/README.md)
+
+### HTTP Clients
+
+*   [impersonate-http (⭐0)](https://github.com/North-web-dev/impersonate-http) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
+
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### JSON
@@ -112,7 +118,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Financial
 
-*   [paystack-sdk-go (⭐1)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
+*   [paystack-sdk-go (⭐2)](https://github.com/samaasi/paystack-sdk-go) - A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.
 
 ### Testing Frameworks
 
@@ -411,7 +417,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [pgxcli](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
+*   [pgxcli (⭐63)](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
 
 ### Game Development
 
@@ -4879,9 +4885,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [moss (⭐1k)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [piladb (⭐205)](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 *   [pogreb (⭐1.3k)](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
-*   [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
+*   [prometheus (⭐65k)](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 *   [rosedb (⭐4.9k)](https://github.com/roseduan/rosedb) - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
-*   [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
+*   [rqlite (⭐18k)](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
 *   [tempdb (⭐19)](https://github.com/rafaeljesus/tempdb) - Key-value store for temporary items.
 *   [tidb (⭐40k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 *   [tiedot (⭐2.7k)](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
@@ -5170,7 +5176,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [osm (⭐463)](https://github.com/paulmach/osm) - Library for reading, writing and working with OpenStreetMap data and APIs.
 *   [pbf (⭐55)](https://github.com/maguro/pbf) - OpenStreetMap PBF golang encoder/decoder.
 *   [S2 geojson (⭐37)](https://github.com/pantrif/s2-geojson) - Convert geojson to s2 cells & demonstrating some S2 geometry features on map.
-*   [S2 geometry](https://github.com/golang/geo) - S2 geometry library in Go.
+*   [S2 geometry (⭐1.8k)](https://github.com/golang/geo) - S2 geometry library in Go.
 *   [simplefeatures (⭐172)](https://github.com/peterstace/simplefeatures) - simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them.
 *   [Tile38 (⭐9.7k)](https://github.com/tidwall/tile38) - Geolocation DB with spatial index and realtime geofencing.
 *   [WGS84 (⭐141)](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
@@ -5817,7 +5823,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Security
 
 *   [acmetool (⭐2.1k)](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
-*   [acra](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [acra (⭐1.5k)](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
 *   [age (⭐23k)](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 *   [argon2-hashing (⭐25)](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 *   [BadActor (⭐326)](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
@@ -6047,7 +6053,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fzf (⭐81k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐31)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐55)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐1k)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [go-actuator (⭐3)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 *   [go-astitodo (⭐66)](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 *   [go-bind-plugin (⭐181)](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
