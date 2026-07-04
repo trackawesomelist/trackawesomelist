@@ -19,6 +19,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 ### Monitoring and Observability
 
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
+*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -60,7 +61,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Monitoring and Observability
 
-*   [agenttrace (⭐74)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+*   [agenttrace (⭐93)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 *   [BrowserTrace (⭐4)](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
 ## [May 04 - May 10, 2026](/content/2026/18/README.md)

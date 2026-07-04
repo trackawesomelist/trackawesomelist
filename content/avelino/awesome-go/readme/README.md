@@ -1753,7 +1753,7 @@ additional ordered map implementations.
 *   [bayesian (⭐813)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 *   [born (⭐102)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 *   [catboost-cgo (⭐25)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
-*   [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐747)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [datatrax (⭐9)](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -1763,7 +1763,7 @@ additional ordered map implementations.
 *   [go-deep (⭐558)](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 *   [go-fann (⭐118)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
-*   [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+*   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 *   [gobrain (⭐567)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐42)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐223)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
@@ -2719,7 +2719,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [htree (⭐4)](https://github.com/bobg/htree) - Traverse, navigate, filter, and otherwise process trees of [html.Node](https://pkg.go.dev/golang.org/x/net/html#Node) objects.
 *   [mdsmith (⭐8)](https://github.com/jeduden/mdsmith) - fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.
 *   [mxj (⭐629)](https://github.com/clbanning/mxj) - Encode / decode XML as JSON or map\[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
-*   [picoloom](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
+*   [picoloom (⭐81)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 *   [toml (⭐5k)](https://github.com/BurntSushi/toml) - TOML configuration format (encoder/decoder with reflection).
 
 ### Parsers/Encoders/Decoders
@@ -3632,6 +3632,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Layli](https://layli.app) - Draw pretty layout diagrams as code.
 *   [Leaps (⭐756)](https://github.com/jeffail/leaps) - Pair programming service using Operational Transforms.
 *   [lgo (⭐2.5k)](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
+*   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 *   [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 *   [LiteIDE (⭐7.8k)](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 *   [mac-cleanup-go (⭐422)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.

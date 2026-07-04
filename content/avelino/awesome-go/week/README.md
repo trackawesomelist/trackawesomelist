@@ -29,6 +29,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-utils (⭐57)](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
 
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### Blockchain
@@ -102,7 +106,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Markup Languages
 
-*   [picoloom](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
+*   [picoloom (⭐81)](https://github.com/alnah/picoloom) - Markdown-to-PDF converter with CLI and Go library APIs.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -4878,7 +4882,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Machine Learning
 
 *   [bayesian (⭐813)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
-*   [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+*   [CloudForest (⭐747)](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 *   [ddt (⭐42)](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 *   [eaopt (⭐906)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 *   [evoli (⭐33)](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
@@ -4887,7 +4891,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-deep (⭐558)](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 *   [go-fann (⭐118)](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
 *   [go-galib (⭐202)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
-*   [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+*   [go-pr (⭐68)](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 *   [gobrain (⭐567)](https://github.com/goml/gobrain) - Neural Networks written in go.
 *   [godist (⭐42)](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 *   [goga (⭐223)](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.

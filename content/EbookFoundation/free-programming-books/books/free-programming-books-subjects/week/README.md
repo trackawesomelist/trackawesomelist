@@ -2,9 +2,15 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 390K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 391K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
+
+## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
+
+### Game Development
+
+*   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -161,7 +167,7 @@
 
 ### 0 - Meta-Lists
 
-*   [Build your own X (⭐516k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐522k)](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Data Science
 
@@ -177,8 +183,8 @@
 
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐830)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐830)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐836)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐836)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 
 ### Prompt Engineering / Mathematics For Computer Science
 
@@ -374,7 +380,7 @@
 
 ### Programming / Mathematics For Computer Science
 
-*   [The Super Programmer (⭐138)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
+*   [The Super Programmer (⭐139)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -732,7 +738,7 @@
 
 ### Professional Development / Mathematics For Computer Science
 
-*   [How to Stand Out as a Software Engineer](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐8)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ### Quantum Computing / Mathematics For Computer Science
 
@@ -1055,7 +1061,7 @@
 
 ### Machine Learning
 
-*   [Machine Learning for Beginners (⭐87k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐88k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 *   [Probabilistic Machine Learning - An Introduction (⭐5.6k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 
 ### Mathematics / Mathematics For Computer Science
@@ -1626,7 +1632,7 @@
 
 ### Artificial Intelligence
 
-*   [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
+*   [Introduction to Autonomous Robots (⭐3.3k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 
 ### Cellular Automata
 
@@ -1683,7 +1689,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐456)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐455)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 
@@ -1888,7 +1894,7 @@
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐451)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions / Mathematics For Computer Science

@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 04, 2026](/content/2026/07/04/README.md)
+
+### AI / Diagnostics
+
+*   [ctchen222/openspec.nvim (⭐2)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
+
+### Note Taking / Cursorline
+
+*   [jjuchara/obsidian-tasks.nvim (⭐2)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
+
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
@@ -67,23 +77,23 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [BRONZowl/codux.nvim (⭐2)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
+*   [BRONZowl/codux.nvim (⭐9)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
 
 ## [Jun 17, 2026](/content/2026/06/17/README.md)
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [gunasekar/markview-smart-tables.nvim (⭐2)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐4)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 
 ### Database / Stats Tracking
 
-*   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+*   [clang-engineer/dadbod-vertica.nvim (⭐1)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 ## [Jun 16, 2026](/content/2026/06/16/README.md)
 
 ### Utility / Cursorline
 
-*   [leblocks/toggle.nvim (⭐11)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐12)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 
 ## [Jun 15, 2026](/content/2026/06/15/README.md)
 
@@ -1400,7 +1410,7 @@ Collections of awesome neovim plugins.
 ### AI / Diagnostics
 
 *   [Exafunction/windsurf.nvim (⭐1.3k)](https://github.com/Exafunction/windsurf.nvim) - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
-*   [Flemma-Dev/flemma.nvim (⭐55)](https://github.com/Flemma-Dev/flemma.nvim) - A first-class AI workspace.
+*   [Flemma-Dev/flemma.nvim (⭐55)](https://github.com/Flemma-Dev/flemma.nvim) - Turn messy inputs (meeting transcripts, briefs, PDFs, email threads) into polished documents, iterate over many turns, and get a second opinion from a different model on the same draft, stored in a `.chat` file.
 
 ### Pre-made Configuration / Stats Tracking
 

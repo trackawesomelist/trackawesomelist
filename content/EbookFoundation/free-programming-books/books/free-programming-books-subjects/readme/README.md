@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 390K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 391K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / Overview ]
 
@@ -70,7 +70,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 *   [Bento](https://www.bento.io)
 *   [Bitsavers.org](http://bitsavers.trailing-edge.com)
-*   [Build your own X (⭐516k)](https://github.com/codecrafters-io/build-your-own-x)
+*   [Build your own X (⭐522k)](https://github.com/codecrafters-io/build-your-own-x)
 *   [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 *   [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 *   [dBooks - Free download open books](https://www.dbooks.org)
@@ -163,7 +163,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - Tiago Monteiro (HTML)
 *   [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) - Jay Alammar, Maarten Grootendorst (DeepLearning.AI)
 *   [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1) (HTML)
-*   [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
+*   [Introduction to Autonomous Robots (⭐3.3k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 *   [Large Language Models from Scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI) - freeCodeCamp (YouTube)
 *   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 *   [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
@@ -334,8 +334,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐456)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐455)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
+*   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game AI Pro](https://www.gameaipro.com) - Steve Rabin
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -446,7 +447,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 *   [Machine Learning](https://www.intechopen.com/books/machine_learning)
 *   [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google (HTML)
-*   [Machine Learning for Beginners (⭐87k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐88k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 *   [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 *   [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
 *   [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
@@ -697,8 +698,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 *   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 *   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐830)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐830)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐836)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐836)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
 *   [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
 *   [The Web Development Glossary (⭐6)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 *   [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
@@ -808,7 +809,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Don't Just Roll the Dice](https://assets.red-gate.com/community/books/DJRTD_eBook.pdf) - Neil Davidson (PDF)
 *   [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 *   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
-*   [How to Stand Out as a Software Engineer](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐8)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 *   [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 *   [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 *   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *( :construction: in process)*
@@ -831,7 +832,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
-*   [The Super Programmer (⭐138)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
+*   [The Super Programmer (⭐139)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
 *   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML) (CC BY-NC-SA)
 
 ### Programming Paradigms
@@ -841,7 +842,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐451)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Prompt Engineering

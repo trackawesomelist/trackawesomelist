@@ -269,8 +269,9 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 ## AI
 
 *   [cursortab/cursortab.nvim (⭐215)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
+*   [ctchen222/openspec.nvim (⭐2)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
 *   [carlos-algms/agentic.nvim (⭐526)](https://github.com/carlos-algms/agentic.nvim) - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
-*   [BRONZowl/codux.nvim (⭐2)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
+*   [BRONZowl/codux.nvim (⭐9)](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
 *   [0xble/dotagent.nvim (⭐8)](https://github.com/0xble/dotagent.nvim) - Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories.
 *   [blob42/codegpt-ng.nvim (⭐9)](https://github.com/blob42/codegpt-ng.nvim) - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 *   [ray-x/copilot-agent.nvim (⭐14)](https://github.com/ray-x/copilot-agent.nvim) - GitHub Copilot agent runtime with native tool execution, session persistence, and fine-grained permissions.
@@ -298,7 +299,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [milanglacier/yarepl.nvim#aider-extensions (⭐252)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 *   [Davidyz/VectorCode (⭐869)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
 *   [dlants/magenta.nvim (⭐449)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
-*   [Flemma-Dev/flemma.nvim (⭐55)](https://github.com/Flemma-Dev/flemma.nvim) - A first-class AI workspace.
+*   [Flemma-Dev/flemma.nvim (⭐55)](https://github.com/Flemma-Dev/flemma.nvim) - Turn messy inputs (meeting transcripts, briefs, PDFs, email threads) into polished documents, iterate over many turns, and get a second opinion from a different model on the same draft, stored in a `.chat` file.
 *   [heilgar/nochat.nvim (⭐11)](https://github.com/heilgar/nochat.nvim) - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
 *   [julwrites/llm-nvim (⭐8)](https://github.com/julwrites/llm-nvim) - Comprehensive integration with the [LLM (⭐12k)](https://github.com/simonw/llm) tool.
 *   [azorng/goose.nvim (⭐311)](https://github.com/azorng/goose.nvim) - Seamless integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
@@ -414,7 +415,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 *   [MeanderingProgrammer/render-markdown.nvim (⭐4.7k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown files directly.
 *   [ChuufMaster/markdown-toc (⭐18)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any Markdown file from any other Markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 *   [OXY2DEV/markview.nvim (⭐3.5k)](https://github.com/OXY2DEV/markview.nvim) - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
-*   [gunasekar/markview-smart-tables.nvim (⭐2)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
+*   [gunasekar/markview-smart-tables.nvim (⭐4)](https://github.com/gunasekar/markview-smart-tables.nvim) - Auto-fit and word-wrap wide Markdown tables in `markview.nvim`.
 *   [Kicamon/markdown-table-mode.nvim (⭐104)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 *   [SCJangra/table-nvim (⭐80)](https://github.com/SCJangra/table-nvim) - A Markdown table editor that formats the table as you type.
 *   [timantipov/md-table-tidy.nvim (⭐22)](https://github.com/timantipov/md-table-tidy.nvim) - Simple Markdown tables formatting.
@@ -1085,6 +1086,7 @@ then it is not supported:
 *   [zk-org/zk-nvim (⭐834)](https://github.com/zk-org/zk-nvim) -  Provides integration with `zk`, a plain text note-taking assistant.
 *   [chrsm/impulse.nvim (⭐100)](https://github.com/chrsm/impulse.nvim) - Read Notion.so notes.
 *   [obsidian-nvim/obsidian.nvim (⭐2k)](https://github.com/obsidian-nvim/obsidian.nvim) - Plugin for Obsidian, written in Lua.
+*   [jjuchara/obsidian-tasks.nvim (⭐2)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 *   [IlyasYOY/obs.nvim (⭐90)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 *   [jghauser/papis.nvim (⭐182)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 *   [Ostralyan/scribe.nvim (⭐26)](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
@@ -1152,7 +1154,7 @@ then it is not supported:
 *   [Owen-Dechow/videre.nvim (⭐256)](https://github.com/Owen-Dechow/videre.nvim) - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
 *   [mahyarmirrashed/famous-quotes.nvim (⭐5)](https://github.com/mahyarmirrashed/famous-quotes.nvim) - Get famous quotes from history to display on startup.
 *   [iquzart/toggleword.nvim (⭐4)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
-*   [leblocks/toggle.nvim (⭐11)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
+*   [leblocks/toggle.nvim (⭐12)](https://github.com/leblocks/toggle.nvim) - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
 *   [piersolenski/brewfile.nvim (⭐20)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 *   [gpanders/nvim-moonwalk (⭐77)](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua anywhere in your configuration.
 *   [johannww/tts.nvim (⭐19)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
@@ -1919,7 +1921,7 @@ then it is not supported:
 *   [tashikomaaa/neomongo.nvim (⭐7)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 *   [zerochae/dbab.nvim (⭐31)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
 *   [joryeugene/dadbod-grip.nvim (⭐155)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
-*   [clang-engineer/dadbod-vertica.nvim (⭐0)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+*   [clang-engineer/dadbod-vertica.nvim (⭐1)](https://github.com/clang-engineer/dadbod-vertica.nvim) - Vertica adapter for [vim-dadbod (⭐4.4k)](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 
 <!--lint disable double-link -->
 

@@ -161,7 +161,7 @@ AI agents are autonomous software entities that perceive their environment, make
 
 *Tools for monitoring, debugging, and evaluating AI agent performance.*
 
-*   [agenttrace (⭐74)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+*   [agenttrace (⭐93)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
 *   [OpenClaw Beacon Scorecard (⭐210)](https://github.com/Scottcjn/beacon-skill) - Liveness and capability scoring system for agents participating in the Beacon discovery network.
 *   [Not Human Search](https://nothumansearch.ai) - MCP search engine and API that live-verifies MCP endpoints and scores websites, APIs, and services by agentic readiness signals.
@@ -170,6 +170,7 @@ AI agents are autonomous software entities that perceive their environment, make
 *   [Langfuse (⭐30k)](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing, evaluations, prompt management, and metrics.
 *   [Arize Phoenix (⭐10k)](https://github.com/Arize-ai/phoenix) - Open-source AI observability tool for monitoring and evaluating LLM applications in real time.
 *   [Braintrust](https://www.braintrust.dev/) - End-to-end platform for evaluating, testing, and shipping AI products with confidence.
+*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 *   [Weights & Biases (⭐11k)](https://github.com/wandb/wandb) - Platform for experiment tracking, model management, and ML pipeline observability.
 *   [Portkey (⭐12k)](https://github.com/Portkey-AI/gateway) - AI gateway for routing, monitoring, and managing requests across 200+ LLM providers.
 *   [AgentOps (⭐5.7k)](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.

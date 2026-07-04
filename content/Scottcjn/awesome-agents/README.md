@@ -6,6 +6,12 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ Daily / [Weekly](/content/Scottcjn/awesome-agents/week/README.md) / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Jul 04, 2026](/content/2026/07/04/README.md)
+
+### Monitoring and Observability
+
+*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
 ### Platforms
@@ -60,7 +66,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Monitoring and Observability
 
-*   [agenttrace (⭐74)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+*   [agenttrace (⭐93)](https://github.com/luoyuctl/agenttrace) - TUI for monitoring AI coding agent sessions, with token, cost, latency, tool-failure, anomaly, diff, and CI gate views across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 *   [BrowserTrace (⭐4)](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
 
 ## [May 01, 2026](/content/2026/05/01/README.md)
