@@ -30,7 +30,48 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
-#### [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### AI / Diagnostics
+
+*   [ctchen222/openspec.nvim (⭐2)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
+
+##### Note Taking / Cursorline
+
+*   [jjuchara/obsidian-tasks.nvim (⭐2)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
+
+#### [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+##### NixOS Modules / Zig
+
+*   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
+*   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
+
+#### [5. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Other Software / Libraries for creating HTTP middlewares
+
+*   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
+
+#### [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Cryptography
+
+*   [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. \[Apache2]
+
+#### [7. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+
+##### Monitoring and Observability
+
+*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+
+#### [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+##### Database
+
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
+
+#### [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -42,40 +83,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [gentoo (⭐39)](https://github.com/gentoo/zsh-completion) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
 *   [pnpm-completions (⭐27)](https://github.com/michakfromparis/zsh-pnpm-completions) - Tab completions for `pnpm` with `package.json` script completion, live npm registry search, workspace support, and optional command aliases.
 
-#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-##### AI / Diagnostics
+*   [modern-dark-pro-capsule (⭐0)](https://github.com/dvigo/modern-dark-pro-capsule-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [modern-dark-pro (⭐0)](https://github.com/dvigo/modern-dark-pro-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme inspired by VS Code and JetBrains color palettes. Includes ZSH execution timer, remote sync status, and developer icons.
 
-*   [ctchen222/openspec.nvim (⭐2)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
+#### [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-##### Note Taking / Cursorline
+##### Software / Wikis
 
-*   [jjuchara/obsidian-tasks.nvim (⭐2)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
-
-#### [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-##### NixOS Modules / Zig
-
-*   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
-*   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
-
-#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Other Software / Libraries for creating HTTP middlewares
-
-*   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
-
-#### [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Cryptography
-
-*   [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. \[Apache2]
-
-#### [8. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
-
-##### Monitoring and Observability
-
-*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+*   [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
 
 ### [Jul 03, 2026](/content/2026/07/03/README.md)
 
@@ -87,25 +104,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Self Hosted Runner (⭐114)](https://github.com/youssefbrr/self-hosted-runner) - Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.
 
-#### [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Photo Galleries
-
-*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
-
-#### [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Artificial Intelligence
 
 *   [openinfer-project/openinfer (⭐501)](https://github.com/openinfer-project/openinfer) - LLM inference engine in pure Rust + CUDA with no PyTorch and no Python runtime — OpenAI-compatible API, paged KV cache, CUDA Graph, serving models from Qwen3 to the trillion-parameter Kimi-K2.
 
-#### [4. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
+#### [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
 ##### Formatting
 
 *   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
-#### [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Configuration
 
@@ -119,7 +130,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
-#### [6. Awesome V](/content/vlang/awesome-v/README.md)
+#### [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Command-line
 
@@ -129,7 +140,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vnm (⭐3)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 
-#### [7. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [6. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Start Here
 
@@ -286,19 +297,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Schliff (⭐4)](https://github.com/Zandereins/schliff) by [Zandereins](https://github.com/Zandereins) - Deterministic quality scorer for AI agent instruction files — 8-dimension scoring with security, multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), anti-gaming detection, zero dependencies\ <img src="https://img.shields.io/github/created-at/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Upkeep](https://github.com/wei18/Upkeep) by [wei18](https://github.com/wei18) - Upkeep — an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.\ <img src="https://img.shields.io/github/created-at/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-#### [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+#### [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ##### Gems / Other external resources
 
 *   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
 
-#### [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Components & Libraries / UI Components
 
 *   [@jasy/vue (⭐21)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
 
-#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -308,11 +319,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [localtonet](https://localtonet.com/) - Multi-protocol tunneling for HTTP, TLS, TCP, UDP, File Server (Default, SFTP, WebDAV), and Proxy Tunnel (HTTP, SOCKS5, Shadowsocks, VLESS). Free plan: 1 tunnel, 1GB/month bandwidth, 30 min timeout (excl. HTTP Tunnels).
 
-#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### HTTP Clients
 
 *   [impersonate-http (⭐0)](https://github.com/North-web-dev/impersonate-http) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
+
+#### [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Photo Galleries
+
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
 ### [Jul 02, 2026](/content/2026/07/02/README.md)
 
@@ -357,19 +374,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [fuse (⭐3)](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
-#### [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Miscellaneous
-
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
-
-#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Productivity
 
 *   [ogulcancelik/herdr (⭐10k)](https://github.com/ogulcancelik/herdr) - Terminal multiplexer designed for AI coding agents. Run multiple agents in one terminal with real terminal views, agent state detection (blocked/working/done), workspaces, tabs, and persistent sessions. Single Rust binary with detach/reattach support.
 
-#### [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### 3\. Research & Survey
 
@@ -394,23 +405,29 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/x_llm_papers.md)
     *   [Learning Resources, Implementations, and Regional Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#learning-resources-implementations-and-regional-materials)
 
-#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / Markdown and LaTeX
 
 *   [dominic-righthere/markdown-pipetable.nvim (⭐3)](https://github.com/dominic-righthere/markdown-pipetable.nvim) - Interactive, fit-to-width inline Markdown table editor with cell navigation, visual selection, row/column operations, and CSV/TSV conversion.
 
-#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
 *   [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
 
-#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### JSON
 
 *   [silentjson (⭐26)](https://github.com/GenshIv/silentjson) - Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.
+
+#### [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Miscellaneous
+
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 
 ---
 
@@ -419,7 +436,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 445K 📝 07&#x2F;01) - A collective list of free APIs
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 300K 📝 07&#x2F;03) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 300K 📝 07&#x2F;04) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 391K 📝 06&#x2F;30) - :books: Freely available programming books
 4. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
 5. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 305K 📝 06&#x2F;29) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -525,7 +542,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Books
 
 - [Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md) - ([Source ⭐ 283, 📝 19&#x2F;12&#x2F;06 ](https://github.com/TalAter/awesome-book-authoring)) - :books: A collection of awesome resources for technical book authors
-- [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 685, 📝 07&#x2F;01 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
+- [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 685, 📝 07&#x2F;04 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
 - [ElixirBooks](/content/sger/ElixirBooks/README.md) - ([Source ⭐ 1.2K, 📝 22&#x2F;08&#x2F;14 ](https://github.com/sger/ElixirBooks)) - List of Elixir books
 - [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 391K, 📝 06&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 - [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 19K, 📝 02&#x2F;27 ](https://github.com/dariubs/GoBooks)) - List of Golang books
@@ -1008,7 +1025,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;19 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 920, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 300K, 📝 07&#x2F;03 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 300K, 📝 07&#x2F;04 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;20 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!

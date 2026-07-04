@@ -22,6 +22,8 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [modern-dark-pro-capsule (⭐0)](https://github.com/dvigo/modern-dark-pro-capsule-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [modern-dark-pro (⭐0)](https://github.com/dvigo/modern-dark-pro-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme inspired by VS Code and JetBrains color palettes. Includes ZSH execution timer, remote sync status, and developer icons.
 *   [n1ghtfall (⭐0)](https://github.com/reorientate/n1ghtfall) - Dark theme with decorators for current directory and user\@hostname.
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -76,10 +78,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [ghq-worktree (⭐1)](https://github.com/liquidcatmofu/zsh-ghq-worktree) - Integrates `ghq`, [fzf (⭐81k)](https://github.com/junegunn/fzf), and `git worktree` to minimize context-switching cost in multi-repository development.
 *   [popular.zsh (⭐7)](https://github.com/sajjadRabiee/popular-zsh) - Lets you bookmark, template, and re-run your most-used ZSH commands with `padd`, `p`, and `pls`. Supports AES-256-CBC encrypted secret placeholders, history capture via `paddh`, tab completion, and export/import including direct import from a GitHub repository.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [soda-pop (⭐0)](https://github.com/im-adnan/soda-pop.zsh-theme) - A fast, customizable, highly visual, and pure-shell asynchronous `git` prompt theme. It combines an informative git status, an execution tracker, and a rich bubblegum/soda-pop aesthetic with precise color mapping optimized for both light and dark modes.
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
 

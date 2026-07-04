@@ -860,7 +860,11 @@
 
 ### Software / Photo Galleries
 
-*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
+### Software / Wikis
+
+*   [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -961,6 +965,8 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [modern-dark-pro-capsule (⭐0)](https://github.com/dvigo/modern-dark-pro-capsule-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [modern-dark-pro (⭐0)](https://github.com/dvigo/modern-dark-pro-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme inspired by VS Code and JetBrains color palettes. Includes ZSH execution timer, remote sync status, and developer icons.
 *   [n1ghtfall (⭐0)](https://github.com/reorientate/n1ghtfall) - Dark theme with decorators for current directory and user\@hostname.
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1212,6 +1218,7 @@
 
 *   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
 *   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
 
 ### Machine Learning
 

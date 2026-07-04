@@ -1,37 +1,49 @@
 # Awesome List Updates on Jul 04, 2026
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Wikis
+
+*   [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Database
+
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
+
+## [3. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ### Monitoring and Observability
 
 *   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
 *   [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. \[Apache2]
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
 *   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
 *   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
@@ -41,7 +53,7 @@
 
 *   [jjuchara/obsidian-tasks.nvim (⭐2)](https://github.com/jjuchara/obsidian-tasks.nvim) - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -53,13 +65,18 @@
 *   [gentoo (⭐39)](https://github.com/gentoo/zsh-completion) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
 *   [pnpm-completions (⭐27)](https://github.com/michakfromparis/zsh-pnpm-completions) - Tab completions for `pnpm` with `package.json` script completion, live npm registry search, workspace support, and optional command aliases.
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [modern-dark-pro-capsule (⭐0)](https://github.com/dvigo/modern-dark-pro-capsule-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [modern-dark-pro (⭐0)](https://github.com/dvigo/modern-dark-pro-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme inspired by VS Code and JetBrains color palettes. Includes ZSH execution timer, remote sync status, and developer icons.
+
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Game Development
 
 *   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
-## [8. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [10. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Agent Orchestration & CLI Tools
 

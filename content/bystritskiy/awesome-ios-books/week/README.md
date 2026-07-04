@@ -53,6 +53,7 @@
 
 *   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
 *   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
 
 ### Machine Learning
 
@@ -407,7 +408,7 @@
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
-### How to Use
+### How to Find a Book
 
 *   Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 *   Go through our *Content Menu*

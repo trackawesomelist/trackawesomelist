@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Jul 04, 2026](/content/2026/07/04/README.md)
+
+### Database
+
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
+
 ## [Jul 01, 2026](/content/2026/07/01/README.md)
 
 ### iOS
@@ -501,7 +507,7 @@
 
 ## [Oct 07, 2019](/content/2019/10/07/README.md)
 
-### How to Use
+### How to Find a Book
 
 *   Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 *   Go through our *Content Menu*

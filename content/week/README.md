@@ -378,86 +378,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 
-#### [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
-
-##### iOS
-
-*   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
-*   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
-*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
-
-##### Swift
-
-*   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
-*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
-
-##### Functional Swift
-
-*   [*A Functional Programming Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsfpkick/a-functional-programming-kickstart/)
-
-##### UI
-
-*   [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
-
-##### SwiftUI
-
-*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
-*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
-*   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
-*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
-*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
-
-##### Combine
-
-*   [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
-
-##### Architecture
-
-*   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
-*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
-
-##### Multithreading
-
-*   [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
-*   [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
-
-##### Database
-
-*   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
-*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
-
-##### Machine Learning
-
-*   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
-
-##### Metal
-
-*   [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
-*   [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
-
-##### Testing
-
-*   [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
-*   [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
-
-##### watchOS
-
-*   [*Hacking with watchOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwwatchos)
-
-##### macOS
-
-*   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
-*   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
-*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
-
-#### [16. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+#### [15. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ##### Plasma desktop / Extensions
 
 *   [KDoit (⭐1)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 *   [Latte Dock NG (⭐24)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 
-#### [17. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+#### [16. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
 
 ##### Audio & Speech
 
@@ -472,7 +400,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Image 2](https://image2.to/) - AI image and video generator for creating, editing, and transforming visuals from prompts. `#freemium`
 
-#### [18. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [17. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Analytics
 
@@ -486,7 +414,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Multiplayer](https://www.multiplayer.app) - Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
 
-#### [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Productivity / Time Tracking
 
@@ -496,43 +424,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [elio (⭐668)](https://github.com/elio-fm/elio) - Snappy, batteries-included file manager.
 
-#### [20. Awesome Terminals](/content/cdleon/awesome-terminals/README.md)
+#### [19. Awesome Terminals](/content/cdleon/awesome-terminals/README.md)
 
 ##### Tools / Python
 
 *   [passtui (⭐12)](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
 
-#### [21. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+#### [20. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ##### Plugins & Libraries
 
 *   [fuse (⭐3)](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
-#### [22. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+#### [21. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ##### Developer Workflow / CI/CD
 
 *   [Self Hosted Runner (⭐114)](https://github.com/youssefbrr/self-hosted-runner) - Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.
 
-#### [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Miscellaneous
-
-*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
-
-##### Software / Money, Budgeting & Management
-
-*   [Budget Board](https://budgetboard.net/) - Simple app for tracking monthly spending and working towards financial goals. ([Source Code (⭐842)](https://github.com/teelur/budget-board)) `GPL-3.0` `Docker`
-
-##### Software / Pastebins
-
-*   [Snipo (⭐62)](https://github.com/MohamedElashri/snipo) - Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. ([Demo](https://snipo.melashri.dev/)) `AGPL-3.0` `Go/Docker`
-
-##### Software / Photo Galleries
-
-*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
-
-#### [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [22. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Database
 
@@ -563,13 +473,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [xberg-io/html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) \[[html-to-markdown-rs](https://crates.io/crates/html-to-markdown-rs)] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.
 *   [xberg-io/xberg (⭐8.6k)](https://github.com/xberg-io/xberg) \[[xberg](https://crates.io/crates/xberg)] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.
 
-#### [25. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
+#### [23. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
 ##### Formatting
 
 *   [ffmt (⭐6)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
-#### [26. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [24. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Configuration
 
@@ -583,7 +493,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
-#### [27. Awesome V](/content/vlang/awesome-v/README.md)
+#### [25. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Command-line
 
@@ -593,7 +503,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vnm (⭐3)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 
-#### [28. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [26. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Start Here
 
@@ -750,7 +660,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Schliff (⭐4)](https://github.com/Zandereins/schliff) by [Zandereins](https://github.com/Zandereins) - Deterministic quality scorer for AI agent instruction files — 8-dimension scoring with security, multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), anti-gaming detection, zero dependencies\ <img src="https://img.shields.io/github/created-at/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/Zandereins/schliff?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Upkeep](https://github.com/wei18/Upkeep) by [wei18](https://github.com/wei18) - Upkeep — an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/skill + reusable CI workflow.\ <img src="https://img.shields.io/github/created-at/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/wei18/Upkeep?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-#### [29. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [27. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### 1\. App & Agent
 
@@ -782,13 +692,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [**LLM Research** (Ranked by cite count ≥150)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/x_llm_papers.md)
     *   [Learning Resources, Implementations, and Regional Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/models_research.md#learning-resources-implementations-and-regional-materials)
 
-#### [30. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+#### [28. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ##### Gems / Other external resources
 
 *   [tidewave (⭐475)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
 
-#### [31. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [29. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Projects Using Vue.js / Open Source
 
@@ -811,7 +721,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ILUMINATY (⭐2)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 
-#### [32. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [30. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Admin Interface
 
@@ -1174,7 +1084,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [CableReady (⭐771)](https://github.com/stimulusreflex/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.3k)](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
-#### [33. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+#### [31. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ##### Agent Orchestration & CLI Tools
 
@@ -1191,35 +1101,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Unreal-MCP (⭐8)](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 *   [GameDev-MCP-Server (⭐6)](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
 
-#### [34. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Game Development
 
 *   [AI Workflow for Game Designers (⭐0)](https://github.com/eremes81/game-design-ai-practice-en) - Minsoo Lee
 
-#### [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [better-chmod (⭐0)](https://github.com/Balzabu/zsh-better-chmod) - Adds a `bchmod` command (and an optional `chmod` replacement) that accepts symbolic and octal permission formats with input validation and colored output.
-*   [ctrl-z (⭐0)](https://github.com/Zile995/zsh-ctrl-z) - Enhances the default CTRL+Z behavior using [fzf (⭐81k)](https://github.com/junegunn/fzf). It allows you to visually browse, resume, or terminate suspended background jobs directly from your terminal prompt.
-*   [warp-claude-tab (⭐0)](https://github.com/akexorcist/zsh-warp-claude-tab) - A ZSH plugin and Claude Code agent skill to open a new [Warp](https://www.warp.dev/) terminal tab with a pre-loaded Claude Code session — ideal for handing off tasks between sessions without copy-pasting.
-
-##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [gem (⭐1)](https://github.com/MenkeTechnologies/zsh-gem-completion) - All the functionality of the OMZ gem completion but it also allows `gem install <tab>` to complete remote gems from output of `gem search`.
-*   [gentoo (⭐39)](https://github.com/gentoo/zsh-completion) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
-*   [pnpm-completions (⭐27)](https://github.com/michakfromparis/zsh-pnpm-completions) - Tab completions for `pnpm` with `package.json` script completion, live npm registry search, workspace support, and optional command aliases.
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [n1ghtfall (⭐0)](https://github.com/reorientate/n1ghtfall) - Dark theme with decorators for current directory and user\@hostname.
-
-##### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [Complete Zsh Terminal Customization Guide (⭐0)](https://github.com/mostafa447/zsh-guide) - A comprehensive guide to transform your terminal with Zsh, Oh My Zsh, and Powerlevel10k theme — covering both DNF-based and APT-based distros
-
-#### [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### AI / Diagnostics
 
@@ -1241,7 +1129,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 
-#### [37. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [34. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -1276,14 +1164,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
 
-#### [38. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [35. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### NixOS Modules / Zig
 
 *   [Nixvim (⭐2.9k)](https://github.com/nix-community/nixvim) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
 *   [nvf (⭐1.6k)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
 
-#### [39. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [36. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -1310,13 +1198,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LightCMS (⭐20)](https://github.com/jonradoff/lightcms) - Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.
 
-#### [40. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [37. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Cryptography
 
 *   [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. \[Apache2]
 
-#### [41. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
+#### [38. Awesome Agents](/content/Scottcjn/awesome-agents/README.md)
 
 ##### Platforms
 
@@ -1331,6 +1219,125 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
 *   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
+#### [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+##### iOS
+
+*   [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
+*   [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
+*   [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
+
+##### Swift
+
+*   [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
+*   [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
+
+##### Functional Swift
+
+*   [*A Functional Programming Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsfpkick/a-functional-programming-kickstart/)
+
+##### UI
+
+*   [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
+
+##### SwiftUI
+
+*   [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
+*   [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
+*   [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
+*   [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
+*   [*Advanced SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/advanced-views)
+
+##### Combine
+
+*   [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
+
+##### Architecture
+
+*   [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+*   [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
+
+##### Multithreading
+
+*   [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
+*   [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
+
+##### Database
+
+*   [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+*   [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
+*   [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
+
+##### Machine Learning
+
+*   [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
+
+##### Metal
+
+*   [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
+*   [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
+
+##### Testing
+
+*   [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
+*   [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
+
+##### watchOS
+
+*   [*Hacking with watchOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwwatchos)
+
+##### macOS
+
+*   [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
+*   [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
+*   [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
+
+#### [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [better-chmod (⭐0)](https://github.com/Balzabu/zsh-better-chmod) - Adds a `bchmod` command (and an optional `chmod` replacement) that accepts symbolic and octal permission formats with input validation and colored output.
+*   [ctrl-z (⭐0)](https://github.com/Zile995/zsh-ctrl-z) - Enhances the default CTRL+Z behavior using [fzf (⭐81k)](https://github.com/junegunn/fzf). It allows you to visually browse, resume, or terminate suspended background jobs directly from your terminal prompt.
+*   [warp-claude-tab (⭐0)](https://github.com/akexorcist/zsh-warp-claude-tab) - A ZSH plugin and Claude Code agent skill to open a new [Warp](https://www.warp.dev/) terminal tab with a pre-loaded Claude Code session — ideal for handing off tasks between sessions without copy-pasting.
+
+##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [gem (⭐1)](https://github.com/MenkeTechnologies/zsh-gem-completion) - All the functionality of the OMZ gem completion but it also allows `gem install <tab>` to complete remote gems from output of `gem search`.
+*   [gentoo (⭐39)](https://github.com/gentoo/zsh-completion) - Provides ZSH completion support to various Gentoo tools that lack completion scripts upstream.
+*   [pnpm-completions (⭐27)](https://github.com/michakfromparis/zsh-pnpm-completions) - Tab completions for `pnpm` with `package.json` script completion, live npm registry search, workspace support, and optional command aliases.
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [modern-dark-pro-capsule (⭐0)](https://github.com/dvigo/modern-dark-pro-capsule-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [modern-dark-pro (⭐0)](https://github.com/dvigo/modern-dark-pro-ohmyzsh) - Premium, modern, and dark-mode-optimized ZSH theme inspired by VS Code and JetBrains color palettes. Includes ZSH execution timer, remote sync status, and developer icons.
+*   [n1ghtfall (⭐0)](https://github.com/reorientate/n1ghtfall) - Dark theme with decorators for current directory and user\@hostname.
+
+##### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [Complete Zsh Terminal Customization Guide (⭐0)](https://github.com/mostafa447/zsh-guide) - A comprehensive guide to transform your terminal with Zsh, Oh My Zsh, and Powerlevel10k theme — covering both DNF-based and APT-based distros
+
+#### [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Miscellaneous
+
+*   [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. ([Source Code (⭐42)](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
+
+##### Software / Money, Budgeting & Management
+
+*   [Budget Board](https://budgetboard.net/) - Simple app for tracking monthly spending and working towards financial goals. ([Source Code (⭐842)](https://github.com/teelur/budget-board)) `GPL-3.0` `Docker`
+
+##### Software / Pastebins
+
+*   [Snipo (⭐62)](https://github.com/MohamedElashri/snipo) - Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. ([Demo](https://snipo.melashri.dev/)) `AGPL-3.0` `Go/Docker`
+
+##### Software / Photo Galleries
+
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+
+##### Software / Wikis
+
+*   [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+
 ---
 
 - Next: [Jun 29 - Jul 05, 2026](&#x2F;content&#x2F;2026&#x2F;26&#x2F;README.md)
@@ -1338,7 +1345,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source](https://github.com/public-apis/public-apis) ⭐ 445K 📝 07&#x2F;01) - A collective list of free APIs
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 300K 📝 07&#x2F;03) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 300K 📝 07&#x2F;04) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source](https://github.com/EbookFoundation/free-programming-books) ⭐ 391K 📝 06&#x2F;30) - :books: Freely available programming books
 4. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source](https://github.com/sindresorhus/awesome) ⭐ 478K 📝 06&#x2F;25) - 😎 Awesome lists about all kinds of interesting topics
 5. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source](https://github.com/vinta/awesome-python) ⭐ 305K 📝 06&#x2F;29) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -1444,7 +1451,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Books
 
 - [Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md) - ([Source ⭐ 283, 📝 19&#x2F;12&#x2F;06 ](https://github.com/TalAter/awesome-book-authoring)) - :books: A collection of awesome resources for technical book authors
-- [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 685, 📝 07&#x2F;01 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
+- [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 685, 📝 07&#x2F;04 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
 - [ElixirBooks](/content/sger/ElixirBooks/README.md) - ([Source ⭐ 1.2K, 📝 22&#x2F;08&#x2F;14 ](https://github.com/sger/ElixirBooks)) - List of Elixir books
 - [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 391K, 📝 06&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 - [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 19K, 📝 02&#x2F;27 ](https://github.com/dariubs/GoBooks)) - List of Golang books
@@ -1927,7 +1934,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.5K, 📝 02&#x2F;19 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 920, 📝 25&#x2F;11&#x2F;24 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.5K, 📝 25&#x2F;11&#x2F;24 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 300K, 📝 07&#x2F;03 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 300K, 📝 07&#x2F;04 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;20 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 25&#x2F;12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!

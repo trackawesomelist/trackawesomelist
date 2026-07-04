@@ -6,11 +6,17 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 04, 2026](/content/2026/07/04/README.md)
+
+### Software / Wikis
+
+*   [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+
 ## [Jul 03, 2026](/content/2026/07/03/README.md)
 
 ### Software / Photo Galleries
 
-*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
+*   [Ente](https://ente.com/) - An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ([Source Code (⭐27k)](https://github.com/ente/ente)) `AGPL-3.0` `Docker/Nodejs/Go`
 
 ## [Jul 02, 2026](/content/2026/07/02/README.md)
 
@@ -115,7 +121,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Learning and Courses
 
-*   [Helium](https://www.heliumedu.com) - Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ([Demo](https://app.heliumedu.com), [Source Code](https://github.com/HeliumEdu/platform)) `MIT` `Python/Docker`
+*   [Helium](https://www.heliumedu.com) - Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ([Demo](https://app.heliumedu.com), [Source Code (⭐5)](https://github.com/HeliumEdu/platform)) `MIT` `Python/Docker`
 
 ### Software / Media Management
 
@@ -1380,10 +1386,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the home user. ([Demo](https://demo.homebox.software/), [Source Code (⭐6.4k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
 
-### Software / Wikis
-
-*   [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐21k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
-
 ## [Nov 27, 2024](/content/2024/11/27/README.md)
 
 ### Software / Analytics
@@ -1862,7 +1864,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Internet of Things (IoT)
 
-*   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐24k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
+*   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐25k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
