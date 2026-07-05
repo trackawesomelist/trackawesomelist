@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 05, 2026](/content/2026/07/05/README.md)
+
+### File Handling
+
+*   [gopdfrab (⭐1)](https://github.com/voidrab/gopdfrab) - PDF/A processing for Go.
+
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
 ### Other Software / Libraries for creating HTTP middlewares
@@ -735,7 +741,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [CrunchyCleaner (⭐73)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
+*   [CrunchyCleaner (⭐74)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux.
 
 ## [Mar 20, 2026](/content/2026/03/20/README.md)
 

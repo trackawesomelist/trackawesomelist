@@ -6,6 +6,21 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Jul 05, 2026](/content/2026/07/05/README.md)
+
+### Projects / AI and Agents
+
+*   Data Layer
+    *   [entroly (⭐416)](https://github.com/juyterman1000/entroly) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
+    *   [instructor (⭐13k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
+    *   [llama-index (⭐50k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
+    *   [mem0 (⭐59k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
+    *   [outlines (⭐14k)](https://github.com/dottxt-ai/outlines) - Structured text generation for LLMs with JSON schema, regex, and grammar-constrained decoding.
+
+### Projects / HTML Manipulation
+
+*   [html-to-markdown (⭐790)](https://github.com/xberg-io/html-to-markdown) - A fast, CommonMark-compliant HTML to Markdown converter with a Rust core, tolerant of malformed HTML.
+
 ## [Jun 29, 2026](/content/2026/06/29/README.md)
 
 ### Projects / Machine Learning
@@ -174,7 +189,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
     *   [TradingAgents (⭐88k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Speech
     *   [openai-whisper (⭐104k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
-    *   [funasr (⭐18k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.
+    *   [funasr (⭐19k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.
     *   [vibevoice (⭐50k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
     *   [voxcpm (⭐32k)](https://github.com/OpenBMB/VoxCPM) - A tokenizer-free text-to-speech foundation model for multilingual speech generation and voice cloning.
 
@@ -200,7 +215,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### Projects / HTTP Clients
 
-*   [httptap (⭐500)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
+*   [httptap (⭐508)](https://github.com/ozeranskii/httptap) - Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.
 
 ## [Apr 07, 2026](/content/2026/04/07/README.md)
 
@@ -231,16 +246,6 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 ### Projects / Logging
 
 *   [logfmter (⭐106)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
-
-## [Mar 25, 2026](/content/2026/03/25/README.md)
-
-### Projects / AI and Agents
-
-*   Data Layer
-    *   [instructor (⭐13k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
-    *   [llama-index (⭐50k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
-    *   [mem0 (⭐59k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
-    *   [outlines (⭐14k)](https://github.com/dottxt-ai/outlines) - Structured text generation for LLMs with JSON schema, regex, and grammar-constrained decoding.
 
 ## [Mar 23, 2026](/content/2026/03/23/README.md)
 
@@ -812,7 +817,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 *   General
     *   [docling (⭐62k)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
-    *   [kreuzberg (⭐8.6k)](https://github.com/xberg-io/xberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+    *   [xberg (⭐8.6k)](https://github.com/xberg-io/xberg) - High-performance document intelligence library with a Rust core, extracting text, tables, and metadata from 97+ formats including PDF, Office, images (with OCR), HTML, email, and archives.
     *   [pyelftools (⭐2.3k)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
     *   [tablib (⭐4.8k)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 
@@ -826,7 +831,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources
 
 ### Projects / Penetration Testing
 
-*   [sherlock (⭐85k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [sherlock (⭐86k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Projects / Hardware
 

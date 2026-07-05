@@ -12,6 +12,14 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 
 *   [Voqusa](https://www.voqusa.com/) - Turns TikTok, YouTube, Instagram and other social videos into accurate transcripts and subtitles in seconds, no signup required. `#freemium` `#transcription`
 
+### Dating
+
+*   [Egirls.ai](https://egirls.ai/) - AI companion platform for adults: chat with NSFW AI characters that remember you, create your own characters, generate images and video, make voice calls, and talk live with 3D AI VTubers. `#freemium`
+
+### Developer Tools
+
+*   [agent-qa (⭐152)](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, and regression detection. `#opensource`
+
 ### Image Editing
 
 *   [igly.ai](https://igly.ai/) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill. `#freemium`
@@ -292,7 +300,7 @@ AI tools platform with 800+ curated tools, built-in workspace tools for develope
 *   [Solo](https://soloist.ai/) - Free AI website creation and domain hosting. `#free`
 *   [Tabby](https://tabbyml.com/) - Self-hosted Rust-based Copilot alternative. `#free`
 *   [Trae](https://trae.ai/) - AI-native IDE with Builder patterns. `#free`
-*   [Twinny](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
+*   [Twinny (⭐3.6k)](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 *   [Warp](https://www.warp.dev/) - Parallel agent operation for fast completion. `#paid`
 *   [Windsurf (Codeium)](https://codeium.com/windsurf)%20AI%20Tool) - Multi-step collaborative Cascade technology. `#free`
 
