@@ -2,7 +2,7 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / [Weekly](/content/woop/awesome-quantified-self/week/README.md) / Overview ]
 
@@ -69,6 +69,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 *   [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 *   [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
+*   [Smart Runner](https://runnerapp.pro/) - Privacy-respecting on-device running and marathon training coach with adaptive plans (iOS & Apple Watch).
 
 ### Places & Travel
 
@@ -90,7 +91,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 *   [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 *   [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack\&hl=en) - Multi-purpose tracker (Android).
-*   [BiomarkerDash (⭐20)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐25)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - Sync selected Apple Health data to a private backend API (iOS).
+*   [Bloodboy (⭐17)](https://github.com/ashugaev/bloodboy-biomarkers-tracker) - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
+*   [LogZero](https://logzero.app) - Private tracker for mood, food, weight, meds, and exercise with a local correlation engine that surfaces relationships between metrics; on-device, no account (iOS).
 
 ### Automation
 
@@ -106,6 +110,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
 *   [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
 *   [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
+*   [Garmin AI Notifier (⭐0)](https://github.com/deep0410/garmin-ai-notifier) - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
 
 ### Diet
 
@@ -117,6 +122,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 *   [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
 *   [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
+*   [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
+*   [Intermittent Fasting: IF24](https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344) - Free intermittent fasting timer with live metabolic phases; private and offline (iOS).
+*   [MealThinker](https://mealthinker.com) - AI meal planner that suggests meals based on your preferences, dietary needs, and kitchen inventory, with automatic nutrition tracking (Web & iOS).
 
 ### Goals
 
@@ -139,10 +147,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
 *   [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 *   [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
+*   [HabitIt](https://habitit.app) - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
+*   [OpenHabitTracker](https://openhabittracker.net) - Free, open source habit tracker with notes and tasks (Web, Windows, Linux, Android, iOS, macOS).
 
 ### Health
 
 *   [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
+*   [Folicle](https://folicle.app/) - Hair-growth tracker with aligned scalp photos, a numeric Hair Score over time, and dermatologist-ready exports; non-diagnostic (iOS, Android).
+*   [FixFirst](https://fixfirst.health) - Free tool that analyzes uploaded blood-test PDFs and ranks health priorities using age- and sex-adjusted thresholds; no account required (Web).
 
 ### Heart
 
@@ -168,13 +180,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 *   [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 *   [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
+*   [MirrorNotes](https://mirrornotes.org) - Private AI journaling with on-device mood tracking, daily reflection prompts, and "Ask your journal" queries. AI (Gemma 3) runs locally, so no data leaves your device (iOS).
 *   [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
+*   [DailyVox](https://getdailyvox.com) - Voice journal that tracks mood and surfaces patterns on-device, building a private "Digital Twin" from your spoken entries. No account or cloud; free and open source (iOS).
 
 ### Sleep
 
 *   [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 *   [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 *   [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
+*   [CPAP Clarity](https://cpapclarity.com) - Analyzes CPAP and sleep data in your browser and explains it in plain language, with no upload and no account (Web).
+*   [AirwayLab (⭐22)](https://github.com/airwaylab-app/airwaylab) - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
 
 ### Tally
 
@@ -199,13 +215,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 *   [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
-*   [Firefly III (⭐20k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐24k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 *   [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
 *   [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
+*   [ezBookkeeping (⭐5.2k)](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance and bookkeeping app.
 
 ## Devices and Wearables
 
@@ -222,6 +239,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 *   [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
 *   [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
+*   [Polar](https://www.polar.com/) - Heart rate monitors and fitness, sleep, and recovery tracking wearables.
 
 ## Research and Analysis
 
@@ -234,20 +252,28 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Wellness FX](https://www.wellnessfx.com/) - Blood analysis and health checkup.
 *   [Human API](http://humanapi.co/) - Health data integration platform.
 *   [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
+*   [DNA Claude Analysis (⭐46)](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code. Analyzes raw DNA data from 23andMe, AncestryDNA, and others across 17 categories including health risks, pharmacogenomics, nutrition, and longevity.
 
 ## Open Source Projects
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Flow Dashboard (⭐1.7k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
-*   [Timeliner (⭐3.6k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐367)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
-*   [Me API (⭐832)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+*   [Timelinize (⭐3.5k)](https://github.com/timelinize/timelinize) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐373)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [Me API (⭐841)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 *   [Memacs (⭐1.1k)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
-*   [HumanProgrammingInterface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+*   [HumanProgrammingInterface (⭐1.6k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 *   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
-*   [Chronicle (⭐168)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
-*   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
-*   [Datasette (⭐10k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [ble-scale-sync (⭐118)](https://github.com/KristianP26/ble-scale-sync) - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+*   [Chronicle (⭐197)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [QS-Schema (⭐3)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+*   [Screenpipe (⭐20k)](https://github.com/screenpipe/screenpipe) - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+*   [Datasette (⭐11k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [GoldenCheetah](https://www.goldencheetah.org/) - FOSS software to import and analyse fitness data locally on Linux, MacOS and Windows.
+*   [Longevity World Cup (⭐21)](https://github.com/nopara73/LongevityWorldCup) - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+*   [shenas (⭐0)](https://github.com/shenas-org/shenas) - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
+*   [lifeos-cli (⭐10)](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for personal workflows, habits, and timelogs.
+*   [GitStory (⭐177)](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
+*   [PGIS (⭐1)](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 
 ## License
 

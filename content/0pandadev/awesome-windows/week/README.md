@@ -2,9 +2,15 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.5K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 2.6K · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
+
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### CAD
+
+*   [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -16,13 +22,13 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Command Line Tools
 
-*   [Cinema (⭐33)](https://github.com/marm00/cinema) - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Cinema (⭐34)](https://github.com/marm00/cinema) - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [May 25 - May 31, 2026](/content/2026/21/README.md)
 
 ### Command Line Tools
 
-*   [Fastfetch (⭐23k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Fastfetch (⭐24k)](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [winfetch (⭐1.8k)](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/lptstr/winfetch)
 
 ## [May 18 - May 24, 2026](/content/2026/20/README.md)
@@ -51,7 +57,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Command Line Tools
 
-*   [gitty (⭐24)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [gitty (⭐23)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Customization
 
@@ -61,7 +67,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Security
 
-*   [Certificate Ripper (⭐913)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
+*   [Certificate Ripper (⭐915)](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Hakky54/certificate-ripper)
 
 ### System Utilities
 
@@ -91,7 +97,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Video Utilities
 
-*   [Screenbox (⭐3.8k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/huynhsontung/Screenbox)
+*   [Screenbox (⭐3.9k)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/huynhsontung/Screenbox)
 
 ## [Mar 23 - Mar 29, 2026](/content/2026/12/README.md)
 
@@ -106,7 +112,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Text Editors
 
-*   [Inkwell (⭐219)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
+*   [Inkwell (⭐231)](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, focus mode, and diff viewer. Built with Tauri v2.
 *   [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
@@ -187,7 +193,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [CrunchyCleaner (⭐73)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
+*   [CrunchyCleaner (⭐74)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Knuspii/CrunchyCleaner)
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
@@ -197,7 +203,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Security
 
-*   [cppcryptfs (⭐930)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
+*   [cppcryptfs (⭐935)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
@@ -225,7 +231,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [EyeRest (⭐21)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+*   [EyeRest (⭐25)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/necdetsanli/EyeRest)
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
@@ -256,7 +262,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [Servy (⭐1.8k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+*   [Servy (⭐1.9k)](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 
 ### Text Editors
 
@@ -266,28 +272,28 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Communication
 
-*   [Unigram (⭐5.2k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
+*   [Unigram (⭐5.3k)](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/UnigramDev/Unigram)
 
 ### Customization
 
-*   [OpenShell (⭐9k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [OpenShell (⭐9.1k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Productivity
 
-*   [Saga Reader (⭐540)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
+*   [Saga Reader (⭐532)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
 ### System Utilities
 
-*   [scrcpy (⭐143k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [scrcpy (⭐145k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Command Line Tools
 
-*   [gallery-dl (⭐18k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [yt-dlp (⭐169k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [gallery-dl (⭐19k)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [yt-dlp (⭐173k)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### File Management
 
@@ -375,7 +381,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Productivity
 
-*   [STranslate (⭐7.1k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [STranslate (⭐7.4k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
@@ -402,12 +408,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
 *   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
 *   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
-*   [Sunshine (⭐38k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Sunshine (⭐39k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
 
 ### Screenshot
 
-*   [Capter (⭐230)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Capter (⭐232)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/flameshot-org/flameshot)
 *   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 
@@ -426,8 +432,8 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Window Management
 
-*   [AltSnap (⭐4.9k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [FancyZones (⭐134k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [AltSnap (⭐5k)](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [FancyZones (⭐136k)](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [GlazeWM (⭐12k)](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
@@ -447,11 +453,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Communication
 
 *   [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/legcord/legcord)
-*   [Equicord (⭐1.5k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Equicord (⭐1.6k)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Databases Clients
 
-*   [Another Redis Desktop Manager (⭐34k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/qishibo/AnotherRedisDesktopManager)
+*   [Another Redis Desktop Manager (⭐35k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 ### Email
 
@@ -471,7 +477,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Vaultwarden (⭐62k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
+*   [Vaultwarden (⭐63k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden)
 
 ### Terminal
 
@@ -509,13 +515,13 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Command Line Tools
 
-*   [btop4win (⭐1.8k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [btop4win (⭐1.9k)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Scoop (⭐24k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Customization
 
 *   [TranslucentTB (⭐20k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [YASB (⭐5k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐5.2k)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Databases Clients
 
@@ -523,7 +529,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Game Stores
 
-*   [Gale (⭐657)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐685)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### IDEs
 
@@ -556,7 +562,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Version Control
 
-*   [GitLight (⭐925)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐928)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -828,7 +834,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
 *   [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://download.filezilla-project.org/client/)
 *   [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
-*   [fselect (⭐4.5k)](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
+*   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
 *   [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
 *   [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 

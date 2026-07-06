@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 06, 2026](/content/2026/07/06/README.md)
+
+### LSP / Diagnostics
+
+*   [tumillanino/semgrep.nvim (⭐2)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
+
+### Code Runner / Quickfix
+
+*   [lewistg/pesto.nvim (⭐1)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
+
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
 ### AI / Diagnostics
@@ -3601,7 +3611,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Markdown and LaTeX
 
-*   [IndianBoy42/tree-sitter-just (⭐192)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐34k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐192)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐35k)](https://github.com/casey/just).
 
 ### Snippet / Markdown and LaTeX
 
@@ -4870,7 +4880,7 @@ Collections of awesome neovim plugins.
 
 *   [brendalf/mix.nvim (⭐28)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐250)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
-*   [gennaro-tedesco/nvim-jqx (⭐338)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
+*   [gennaro-tedesco/nvim-jqx (⭐339)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 
 ### Programming Languages Support / Golang
 

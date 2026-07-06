@@ -2,9 +2,75 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
+
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Applications and Platforms / Fitness
+
+*   [Smart Runner](https://runnerapp.pro/) - Privacy-respecting on-device running and marathon training coach with adaptive plans (iOS & Apple Watch).
+
+### Applications and Platforms / Aggregators & Dashboards
+
+*   [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - Sync selected Apple Health data to a private backend API (iOS).
+*   [Bloodboy (⭐17)](https://github.com/ashugaev/bloodboy-biomarkers-tracker) - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
+*   [LogZero](https://logzero.app) - Private tracker for mood, food, weight, meds, and exercise with a local correlation engine that surfaces relationships between metrics; on-device, no account (iOS).
+
+### Applications and Platforms / Data Collection
+
+*   [Garmin AI Notifier (⭐0)](https://github.com/deep0410/garmin-ai-notifier) - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
+
+### Applications and Platforms / Diet
+
+*   [Tract](https://tract.health) - AI gut-health coach with food, symptom, and bowel-movement tracking for IBD, IBS, and elimination diets.
+*   [Intermittent Fasting: IF24](https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344) - Free intermittent fasting timer with live metabolic phases; private and offline (iOS).
+*   [MealThinker](https://mealthinker.com) - AI meal planner that suggests meals based on your preferences, dietary needs, and kitchen inventory, with automatic nutrition tracking (Web & iOS).
+
+### Applications and Platforms / Habits
+
+*   [HabitIt](https://habitit.app) - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
+*   [OpenHabitTracker](https://openhabittracker.net) - Free, open source habit tracker with notes and tasks (Web, Windows, Linux, Android, iOS, macOS).
+
+### Applications and Platforms / Health
+
+*   [Folicle](https://folicle.app/) - Hair-growth tracker with aligned scalp photos, a numeric Hair Score over time, and dermatologist-ready exports; non-diagnostic (iOS, Android).
+*   [FixFirst](https://fixfirst.health) - Free tool that analyzes uploaded blood-test PDFs and ranks health priorities using age- and sex-adjusted thresholds; no account required (Web).
+
+### Applications and Platforms / Mood
+
+*   [MirrorNotes](https://mirrornotes.org) - Private AI journaling with on-device mood tracking, daily reflection prompts, and "Ask your journal" queries. AI (Gemma 3) runs locally, so no data leaves your device (iOS).
+*   [DailyVox](https://getdailyvox.com) - Voice journal that tracks mood and surfaces patterns on-device, building a private "Digital Twin" from your spoken entries. No account or cloud; free and open source (iOS).
+
+### Applications and Platforms / Sleep
+
+*   [CPAP Clarity](https://cpapclarity.com) - Analyzes CPAP and sleep data in your browser and explains it in plain language, with no upload and no account (Web).
+*   [AirwayLab (⭐22)](https://github.com/airwaylab-app/airwaylab) - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
+
+### Applications and Platforms / Wealth
+
+*   [ezBookkeeping (⭐5.2k)](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance and bookkeeping app.
+
+### Devices and Wearables / Wealth
+
+*   [Polar](https://www.polar.com/) - Heart rate monitors and fitness, sleep, and recovery tracking wearables.
+
+### Research and Analysis / Wealth
+
+*   [DNA Claude Analysis (⭐46)](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code. Analyzes raw DNA data from 23andMe, AncestryDNA, and others across 17 categories including health risks, pharmacogenomics, nutrition, and longevity.
+
+### Open Source Projects / Wealth
+
+*   [Timelinize (⭐3.5k)](https://github.com/timelinize/timelinize) - A data aggregation and and timeline visualization tool.
+*   [ble-scale-sync (⭐118)](https://github.com/KristianP26/ble-scale-sync) - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+*   [Screenpipe (⭐20k)](https://github.com/screenpipe/screenpipe) - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+*   [GoldenCheetah](https://www.goldencheetah.org/) - FOSS software to import and analyse fitness data locally on Linux, MacOS and Windows.
+*   [Longevity World Cup (⭐21)](https://github.com/nopara73/LongevityWorldCup) - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+*   [shenas (⭐0)](https://github.com/shenas-org/shenas) - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
+*   [lifeos-cli (⭐10)](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for personal workflows, habits, and timelogs.
+*   [GitStory (⭐177)](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
+*   [PGIS (⭐1)](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -22,7 +88,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [HumanProgrammingInterface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+*   [HumanProgrammingInterface (⭐1.6k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
@@ -42,9 +108,9 @@
 ### Open Source Projects / Wealth
 
 *   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
-*   [Chronicle (⭐168)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
-*   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
-*   [Datasette (⭐10k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [Chronicle (⭐197)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [QS-Schema (⭐3)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+*   [Datasette (⭐11k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -58,19 +124,18 @@
 
 ### Open Source Projects / Wealth
 
-*   [Me API (⭐832)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+*   [Me API (⭐841)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 *   [Memacs (⭐1.1k)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐20)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐25)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
-*   [Timeliner (⭐3.6k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐367)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [TimelineBuilder (⭐373)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -90,7 +155,7 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐20k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐24k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -294,12 +359,6 @@
 
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and tells you exactly how many seconds you spent in each document, website and app (Mac).
 
-## [May 29 - Jun 04, 2017](/content/2017/22/README.md)
-
-### Open Source Projects / Wealth
-
-*   [Flow Dashboard (⭐1.7k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
-
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
 ### Applications and Platforms / Time
@@ -382,7 +441,7 @@
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [Nov 14 - Nov 20, 2016](/content/2016/46/README.md)
 

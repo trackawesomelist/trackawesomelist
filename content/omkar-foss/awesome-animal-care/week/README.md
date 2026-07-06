@@ -2,9 +2,32 @@
 
 List of curated, practical information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 10 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/omkar-foss/awesome-animal-care/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 omkar-foss/awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) · ⭐ 13 · 🏷️ Health and Social Science
 
 [ [Daily](/content/omkar-foss/awesome-animal-care/README.md) / Weekly / [Overview](/content/omkar-foss/awesome-animal-care/readme/README.md) ]
+
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Hamsters / Hamster Books
+
+*   [Hamster Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/hamster-care-guide.pdf) - Practical handbook focusing on step-by-step beginner socialization and safe handling techniques.
+*   [How to Care for Syrian Hamsters - Ginger Clarke](https://hamstercareguide.com/assets/Gingers_Guide_English.pdf) - Comprehensive and in-depth guide on how to care for Syrian hamsters.
+
+### Hamsters / Hamster Care & Treatment
+
+*   [Hamster Care Sheet - Pet Advocacy Network](https://petadvocacy.org/wp-content/uploads/2022/01/Hamster-Care-Sheet.pdf) - Quick reference about basic care for hamsters.
+*   [Hamsters (Advice & Welfare) - Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/hamsters) - Comprehensive, expert-vetted guidance from the RSPCA on hamster care.
+
+### Hamster Behaviour & Training / Hamster Care & Treatment
+
+*   [Understanding Hamster Behaviour - Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/hamsters/behaviour) - Handy checklist for a happy & healthy hamster.
+*   [Hamsters Behaviour & Taming - Rachel Got Hamsters](https://www.rachelgothamsters.com/hamster-behavior) - Tried & tested tips from a hamster caretaker.
+
+### Hamster Behaviour & Training / Hamster Diet & Nutrition
+
+*   [Hamster Nutritional Requriements - The Hamingway](https://www.thehamingway.com/foodmix/guide/nutritional-requirements) - Comprehensive, detailed guide about macro & micro nutrient diet requirements for hamsters.
+*   [What Can Hamsters Eat - PetMD](https://www.petmd.com/exotic/what-can-hamsters-eat) - Quick list of food items that hamsters can & cannot eat.
+*   [Hamster Diet - Elmbrook Humane Society (EBHS)](https://ebhs.org/wp-content/uploads/2021/07/Hamster-Diet-final.pdf) - Practical guide for hamster diet.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
