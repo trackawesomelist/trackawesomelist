@@ -269,7 +269,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### File Format Processing
 
-*   [ziglibs/known-folders (⭐316)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐318)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [tiehuis/zig-regex (⭐252)](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
 *   [shaik-abdul-thouhid/ezi-gex (⭐3)](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 *   [zoptia/zoptia0regex (⭐0)](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via \~30k differential tests.
@@ -302,6 +302,8 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [Arwalk/zig-protobuf (⭐413)](https://github.com/Arwalk/zig-protobuf) - A protobuf 3 implementation for Zig.
 *   [mattnite/protobuf](https://github.com/mattnite/protobuf) - A pure-Zig Protocol Buffers library with a standalone .proto parser, build-time code generator, and transport-agnostic RPC stub generation. Supports proto2 and proto3.
 *   [nDimensional/zig-flatbuffers (⭐11)](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
+*   [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
+*   [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 
 ### Date, Time and Timezones
 
@@ -564,6 +566,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [BanchouBoo/algae (⭐7)](https://github.com/BanchouBoo/algae) - Zig math library focused on game development.
 *   [JungerBoyo/zmath (⭐2)](https://github.com/JungerBoyo/zmath) - Simple linear algebra library written in Zig.
 *   [pblischak/zprob (⭐19)](https://github.com/pblischak/zprob) - A Zig Library for Probability Distributions.
+*   [MASS4/MEGA4/Math-3D](https://gitlab.com/mass4org/mega4/math-3d) - Multi-precision 3D math library (f16/f32/f64) with vectors, matrices, quaternions, rays, and 2D collision primitives.
 
 ### Scientific Computation
 
@@ -631,6 +634,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [Avokadoen/zig\_vulkan (⭐60)](https://github.com/Avokadoen/zig_vulkan) - Voxel ray tracing using Vulkan compute.
 *   [akhildevelops/cudaz (⭐138)](https://github.com/akhildevelops/cudaz) - Cuda wrapper for interacting with GPUs in Zig.
 *   [e253/zig-ocl (⭐1)](https://github.com/e253/zig-ocl) - Static Zig Build of the OpenCL ICD Loader from Khronos Group.
+*   [MASS4/MEGA4/GPU](https://gitlab.com/mass4org/mega4/gpu) - Minimal window + GPU device platform layer for Zig built on `SDL3`'s GPU API (`Vulkan`/`Metal`/`D3D12`).
 
 ### Graphics Library
 
@@ -724,6 +728,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 *   [Avokadoen/ecez\_vulkan (⭐4)](https://github.com/Avokadoen/ecez_vulkan) - A scene editor built on [ecez (⭐35)](https://github.com/Avokadoen/ecez) and Vulkan.
 *   [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
 *   [deckarep/CosmicInvaders (⭐9)](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
+*   [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
 
 ### Audio Processing
 
@@ -778,7 +783,7 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 *   [pulseaudio (⭐26)](https://github.com/andrewrk/pulseaudio) - Library pulseaudio with the build system replaced by Zig.
 *   [libchromaprint (⭐14)](https://github.com/andrewrk/libchromaprint) - Library chromaprint with the build system replaced by Zig.
 *   [libxlsxwriter (⭐1.7k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files, build system replaced by Zig.
-*   [raylib (⭐33k)](https://github.com/raysan5/raylib/) - A simple and easy-to-use library to enjoy videogames programming.
+*   [raylib (⭐34k)](https://github.com/raysan5/raylib/) - A simple and easy-to-use library to enjoy videogames programming.
 *   [openssl (⭐27)](https://github.com/kassane/openssl-zig) - TLS/SSL and crypto library (uses Zig Build).
 *   [wolfssl (⭐10)](https://github.com/kassane/wolfssl) - Library WolfSSL Using Zig Build.
 *   [fmt (⭐1)](https://github.com/kassane/fmt) - A modern formatting library (uses Zig build-system).

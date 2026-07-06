@@ -6,6 +6,16 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 [ [Daily](/content/sirredbeard/Awesome-WSL/README.md) / Weekly / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
 
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### 6\. WSLC
+
+*   [WSL Container is now available for public preview](https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/) - Microsoft announcement and preview details for WSL Containers.
+
+### WSL Tools / WSL Utilities
+
+*   [Porthole (⭐3)](https://github.com/celloza/porthole) - A native Windows desktop dashboard for WSL Containers with tray-hosted backend operations. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
 ### WSL Tools / Terminals
@@ -172,7 +182,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
-### 8\. Installation
+### 9\. Installation
 
 *   [WSL1 Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install) - Microsoft's official guide for WSL.
 
@@ -311,7 +321,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [wsl2-ssh-pageant (⭐370)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [wsl2-ssh-pageant (⭐371)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
 *   [WinCryptSSHAgent (⭐581)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
@@ -377,7 +387,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   [The new Windows subsystem for Linux architecture: a deep dive](https://www.youtube.com/watch?v=lwhMThePdIo) - WSL2 presentation at Microsoft Build 2019
 *   [WSL2-Linux-Kernel (⭐10k)](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2.
 
-### 8\. Installation
+### 9\. Installation
 
 *   [Windows Server Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-on-server) - Microsoft's official guide for Windows Server.
 
@@ -454,7 +464,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 
 ## [Aug 06 - Aug 12, 2018](/content/2018/32/README.md)
 
-### 7\. Details
+### 8\. Details
 
 *   [Windows Subsystem for Linux Overview](https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/) at MSDN.
 *   [WSL File System Support](https://blogs.msdn.microsoft.com/wsl/2016/06/15/wsl-file-system-support/) at MSDN.
@@ -466,7 +476,7 @@ Awesome list dedicated to Windows Subsystem for Linux
 *   [Windows Subsystem for Linux - Update](https://www.youtube.com/watch?v=PP_T_m0UV9E) from Microsoft Developer YouTube channel.
 *   [Windows for Linux Nerds](https://blog.jessfraz.com/post/windows-for-linux-nerds/) from Microsoft developer Jessie Frazelle.
 
-### 8\. Installation
+### 9\. Installation
 
 *   [Windows-Subsystem-For-Linux-Setup (⭐624)](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup) - A basic guide for how to get setup with the WSL feature that is included with Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
