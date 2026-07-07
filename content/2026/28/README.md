@@ -1,12 +1,198 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2026
 
-20 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Command-line
+
+*   [vsnap (⭐0)](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### CLOS extensions
+
+*   ⭐ [closer-mop](https://codeberg.org/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat](https://directory.fsf.org/wiki/License:Expat).
+
+### Caching (serialization) / Third-party APIs
+
+*   [cl-marshal (⭐65)](https://github.com/wlbr/cl-marshal) - Simple and fast serialization of all kinds of Common Lisp data structures. MIT.
+    *   Only minimal changes required to make your CLOS objects serializable.
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [gitl (⭐0)](https://github.com/akomyagin/gitl) - AI review of git commit ranges with risk scoring (low/medium/high), changelog generation, and multi-repo activity digest. GitHub Action included.
+
+## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
+
+### Projects / Computer Vision
+
+*   [fiftyone (⭐11k)](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models.
+
+## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+
+### [Capgo plugins](https://capgo.app/) / Core & Updates
+
+*   [Capacitor Patch (⭐3)](https://github.com/Cap-go/capacitor-patch) - Apply vetted Capgo patches during cap sync and cap update.
+*   [Capacitor+ (⭐18)](https://github.com/Cap-go/capacitor-plus) - Always-synced Capacitor fork with community fixes and faster releases.
+
+### [Capgo plugins](https://capgo.app/) / Device & Sensors
+
+*   [Device Info (⭐3)](https://github.com/Cap-go/capacitor-device-info) - Read CPU, memory, GPU, storage, and onboard sensor metrics.
+*   [Persistent UUID (⭐2)](https://github.com/Cap-go/capacitor-persistent-uuid) - Persist an app UUID across reinstalls and updates.
+*   [Proximity (⭐4)](https://github.com/Cap-go/capacitor-proximity) - Monitor proximity sensor state in mobile apps.
+
+### [Capgo plugins](https://capgo.app/) / Camera & Media
+
+*   [Asset Cache (⭐4)](https://github.com/Cap-go/capacitor-asset-cache) - Transparently cache large images and videos locally.
+
+### [Capgo plugins](https://capgo.app/) / Storage & Files
+
+*   [File Sharer (⭐2)](https://github.com/Cap-go/capacitor-file-sharer) - Share and save files on Android, iOS, and Web.
+
+### [Capgo plugins](https://capgo.app/) / Location & Navigation
+
+*   [Mock Location Detector (⭐3)](https://github.com/Cap-go/capacitor-mock-location-detector) - Detect simulated GPS locations and spoofing developer tools.
+
+### [Capgo plugins](https://capgo.app/) / Authentication & Security
+
+*   [Device Integrity (⭐0)](https://github.com/Cap-go/capacitor-device-integrity) - Check Widevine, Play Integrity, App Attest, and DeviceCheck signals.
+*   [Passkey (⭐3)](https://github.com/Cap-go/capacitor-passkey) - WebAuthn-compatible passkey shim for native apps.
+*   [reCAPTCHA (⭐2)](https://github.com/Cap-go/capacitor-recaptcha) - Generate reCAPTCHA and reCAPTCHA Enterprise tokens.
+*   [SSL Pinning (⭐3)](https://github.com/Cap-go/capacitor-ssl-pinning) - Pin HTTPS certificates through CapacitorHttp on Android and iOS.
+*   [Verisoul (⭐2)](https://github.com/Cap-go/capacitor-verisoul) - Fraud prevention sessions for Capacitor apps.
+
+### [Capgo plugins](https://capgo.app/) / UI & Display
+
+*   [Native Navigation (⭐23)](https://github.com/Cap-go/capacitor-native-navigation) - Native navbar, tabbar, safe-area handling, and WebView transitions.
+*   [Native Loader (⭐3)](https://github.com/Cap-go/capacitor-native-loader) - Native animated loaders, transparent overlays, Lottie assets, and WebView resizing.
+*   [Pretty Toast (⭐4)](https://github.com/Cap-go/capacitor-pretty-toast) - Native-first toast notifications for Capacitor and the web.
+*   [Privacy Screen (⭐4)](https://github.com/Cap-go/capacitor-privacy-screen) - Hide app content in screenshots and app switcher previews.
+*   [Date Picker (⭐2)](https://github.com/Cap-go/capacitor-date-picker) - Native date, time, date-time, year-month, and range pickers.
+*   [Sheets (⭐4)](https://github.com/Cap-go/capacitor-sheets) - Framework-agnostic sheets, drawers, dialogs, and overlay primitives.
+
+### [Capgo plugins](https://capgo.app/) / Purchases & Payments
+
+*   [Stripe Identity (⭐2)](https://github.com/Cap-go/capacitor-stripe-identity) - Verify identities with Stripe Identity.
+*   [Stripe Pay (⭐3)](https://github.com/Cap-go/capacitor-stripe-pay) - Payment Sheet, Apple Pay, and Google Pay for Stripe.
+*   [Stripe Terminal (⭐4)](https://github.com/Cap-go/capacitor-stripe-terminal) - In-person Stripe Terminal payments.
+
+### [Capgo plugins](https://capgo.app/) / Communication & Messaging
+
+*   [Incoming Call Kit (⭐3)](https://github.com/Cap-go/capacitor-incoming-call-kit) - Native incoming call UI with Android full-screen notifications and iOS CallKit.
+*   [MQTT (⭐3)](https://github.com/Cap-go/capacitor-mqtt) - Connect to MQTT brokers on Android and iOS.
+
+### [Capgo plugins](https://capgo.app/) / Analytics & Tracking
+
+*   [AppsFlyer (⭐3)](https://github.com/Cap-go/capacitor-appsflyer) - Attribution, analytics, and deep links for AppsFlyer.
+*   [Contentsquare (⭐4)](https://github.com/Cap-go/capacitor-contentsquare) - Mobile analytics SDK integration for Capacitor apps.
+*   [Facebook Analytics (⭐2)](https://github.com/Cap-go/capacitor-facebook-analytics) - Meta/Facebook App Events analytics for Capacitor apps.
+*   [Install Referrer (⭐4)](https://github.com/Cap-go/capacitor-install-referrer) - Attribution via Google Play Install Referrer and Apple AdServices.
+*   [RudderStack (⭐2)](https://github.com/Cap-go/capacitor-rudderstack) - Analytics, identity, and event tracking for RudderStack.
+
+### [Capgo plugins](https://capgo.app/) / Contacts & Health
+
+*   [Calendar (⭐2)](https://github.com/Cap-go/capacitor-calendar) - Manage calendar events on iOS and Android.
+
+### [Capgo plugins](https://capgo.app/) / Android Specific
+
+*   [Android SMS Retriever (⭐2)](https://github.com/Cap-go/capacitor-android-sms-retriever) - SMS Retriever and Phone Number Hint APIs on Android.
+
+### [Capgo plugins](https://capgo.app/) / Platform Integrations
+
+*   [Auto (⭐3)](https://github.com/Cap-go/capacitor-auto) - CarPlay and Android Auto communication.
+*   [Intune (⭐2)](https://github.com/Cap-go/capacitor-intune) - Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.
+*   [Widget Kit (⭐6)](https://github.com/Cap-go/capacitor-widget-kit) - Build iOS widgets, Live Activities, and shared App Group integrations.
+
+### [Capgo plugins](https://capgo.app/) / Firebase
+
+*   [App Check (⭐6)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md) - Firebase App Check for Capacitor.
+
+### [Capgo plugins](https://capgo.app/) / Utilities
+
+*   [Background Task (⭐2)](https://github.com/Cap-go/capacitor-background-task) - Periodic background fetch tasks on iOS and Android.
+*   [Network Diagnostics (⭐3)](https://github.com/Cap-go/capacitor-network-diagnostics) - Run native network diagnostics from Capacitor.
+*   [WebView Crash (⭐2)](https://github.com/Cap-go/capacitor-webview-crash) - Detect recovered WebView crashes.
+
+### [Capgo plugins](https://capgo.app/) / Specialized Hardware
+
+*   [UWB (⭐3)](https://github.com/Cap-go/capacitor-uwb) - Ultra-Wideband ranging on iOS and Android.
+*   [Zebra DataWedge (⭐2)](https://github.com/Cap-go/capacitor-zebra-datawedge) - Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.
+
+### Other plugins / Specialized Hardware
+
+*   [capacitor-thermal-state (⭐4)](https://github.com/isaforge/capacitor-thermal-state) - Monitor device thermal state (overheating detection) on iOS and Android.
+
+### Helpers / Incompatible
+
+*   [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
+
+### Learning / Crash Courses
+
+*   [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
+
+### Freelancers / Case study
+
+*   [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
+*   [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
+*   [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
+
+## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### AI
+
+*   [VibeKit.bot](https://vibekit.bot) - Build, host, and keep improving an app entirely from your phone. Each app gets a persistent AI coding agent that ships to a live domain, with BYOK for Claude/OpenAI or pay-as-you-go — driven from your phone or CLI.
+
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / UI Components
+
+*   [markstream-vue (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
+
+## [8. Awesome Git](/content/dictcp/awesome-git/week/README.md)
+
+### Client
+
+*   [Rebased (⭐4.6k)](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
+*   [gitj (Git Journey) (⭐1)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
+
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Swift
+
+*   [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
+
+### SwiftUI
+
+*   [*The Mystery of the Mutating Mannequin* by Daniel H Steinberg](https://pragprog.com/titles/d-dsflow/the-mystery-of-the-mutating-mannequin/)
+
+### Multithreading
+
+*   [*The Curious Case of the Async Cafe* by Daniel H Steinberg](https://pragprog.com/titles/d-dsasync/the-curious-case-of-the-async-cafe/)
+
+### Database
+
+*   [*Build Mobile Apps with SwiftUI and Firebase* by Sullivan De Carli](https://link.springer.com/book/10.1007/978-1-4842-9452-9)
+
+### Game Development
+
+*   [*Apple Game Frameworks and Technologies* by Tammy Coron](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
+
+### Testing
+
+*   [*Test-Driven Development in Swift* by Gio Lodi](https://link.springer.com/book/10.1007/979-8-8688-2637-5)
+
+### watchOS
+
+*   [*watchOS With SwiftUI by Tutorials* by Scott Grosch](https://www.kodeco.com/books/watchos-with-swiftui-by-tutorials)
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -45,31 +231,32 @@
 
 *   [OSINT-BIBLE (⭐582)](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 
-## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
+*   [Verified Supplement Evidence (⭐0)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
-## [3. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [12. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### CAD
 
 *   [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Geographical / Spatial
 
 *   [PyCanopy](https://github.com/pranav-walimbe) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
 *   [typed\_env\_config (⭐2)](https://github.com/systatum/typed_env_config) - Load type-safe configuration from YAML/dotenv with ENV overrides
 
-## [6. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [15. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Build
 
@@ -79,7 +266,7 @@
 
 *   [OfficeFloor (⭐67)](https://github.com/officefloor/OfficeFloor) - Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -93,7 +280,7 @@
 
 *   [mikwielgus/undoredo (⭐116)](https://github.com/mikwielgus/undoredo) \[[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no\_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -102,6 +289,7 @@
 ### AI Tools / Other Tools
 
 *   [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mm7894215/TokenTracker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Prevail](https://prevail.sh) - Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/fru-dev3/prevail-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -111,7 +299,7 @@
 
 *   [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wox-launcher/Wox) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Fitness
 
@@ -177,19 +365,19 @@
 *   [GitStory (⭐177)](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 *   [PGIS (⭐1)](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / URL Shorteners
 
 *   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [AlphaAI](https://alphai.io/developers) - Financial news API and MCP server. Every article gets per-ticker impact analysis, a category, and a 1-10 relevance score, and SEC Form 4 insider filings are turned into scored events. The free tier includes 20 requests per minute and 100 requests per day on both REST and MCP, no card required.
 
-## [12. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [21. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Hamsters / Hamster Books
 
@@ -212,13 +400,13 @@
 *   [What Can Hamsters Eat - PetMD](https://www.petmd.com/exotic/what-can-hamsters-eat) - Quick list of food items that hamsters can & cannot eat.
 *   [Hamster Diet - Elmbrook Humane Society (EBHS)](https://ebhs.org/wp-content/uploads/2021/07/Hamster-Diet-final.pdf) - Practical guide for hamster diet.
 
-## [13. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [22. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### More resources
 
 *   [AI Web Design Codex (⭐4)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP / Diagnostics
 
@@ -228,7 +416,7 @@
 
 *   [lewistg/pesto.nvim (⭐1)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
-## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [24. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
@@ -250,7 +438,7 @@
 
 *   [SchemaCrawler](https://www.schemacrawler.com/) - Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.
 
-## [16. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [25. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Skills
 
@@ -263,7 +451,7 @@
 *   [Claude Code Observability Stack (⭐456)](https://github.com/ColeMurray/claude-code-otel) by [Cole Murray](https://github.com/ColeMurray) - A Dockerized OpenTelemetry-to-Grafana observability stack for Claude Code that implements Anthropic's observability guidance, surfacing session activity, performance, token usage, and cost in prebuilt dashboards.\ <img src="https://img.shields.io/github/created-at/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Multi-Agent Observability (⭐1.5k)](https://github.com/disler/claude-code-hooks-multi-agent-observability) by [disler](https://github.com/disler) - A real-time dashboard that captures Claude Code hook events across concurrent agents — tracing every tool call, task handoff, and lifecycle event through a Bun/SQLite/WebSocket/Vue stack, with session tracking and live filtering.\ <img src="https://img.shields.io/github/created-at/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [17. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [26. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
@@ -282,7 +470,7 @@
 
 *   [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
 
-## [18. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [27. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Integration Software / Firmwares for ESP based Devices
 
@@ -292,7 +480,7 @@
 
 *   [Feezal (⭐10)](https://github.com/feezal/feezal) - Dashboard editor powered by Web Components and MQTT
 
-## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Note Taking, Lists, Task Management
 
@@ -306,7 +494,7 @@
 
 *   [gitfetch (⭐389)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
-## [20. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [29. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 6\. WSLC
 

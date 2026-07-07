@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 579 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 581 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -56,11 +56,12 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-*   [PraisonAI (⭐8.2k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐8.4k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 *   [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
 *   [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+*   [VibeKit.bot](https://vibekit.bot) - Build, host, and keep improving an app entirely from your phone. Each app gets a persistent AI coding agent that ships to a live domain, with BYOK for Claude/OpenAI or pay-as-you-go — driven from your phone or CLI.
 *   [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate art, music and SFX with AI, and publish playable visual novels. No coding required.
 *   [Voiceflow](https://www.voiceflow.com/) - Build, launch, and scale advanced AI agents for support, lead generation, and beyond.
 *   [Oinone (⭐2.5k)](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Built for complex enterprise scenarios, self-hostable. Open source (Java+TS, AGPL-3.0).
@@ -78,7 +79,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
 *   [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 *   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
-*   [Overloop CLI (⭐4)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [Overloop CLI (⭐5)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 *   [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 *   [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
 *   [Reflect](https://reflect.run/) - Automated regression tests without a line of code.

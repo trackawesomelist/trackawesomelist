@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 07, 2026](/content/2026/07/07/README.md)
+
+### Components & Libraries / UI Components
+
+*   [markstream-vue (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
+
 ## [Jul 03, 2026](/content/2026/07/03/README.md)
 
 ### Components & Libraries / UI Components
@@ -1298,7 +1304,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐27k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐28k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 
 ### Components & Libraries / Frameworks
 
@@ -1441,7 +1447,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dashy (⭐25k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐26k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Components & Libraries / Frameworks
 
@@ -2801,7 +2807,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐4.9k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐5k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [Mar 12, 2020](/content/2020/03/12/README.md)
 
@@ -3225,7 +3231,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐381)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐383)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 
@@ -3404,7 +3410,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐28k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [Wiki.js (⭐29k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 
 ## [Oct 06, 2017](/content/2017/10/06/README.md)
 

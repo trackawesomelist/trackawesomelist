@@ -11,6 +11,7 @@
 ### Datasets / Book Deals (Affiliated)
 
 *   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
+*   [Verified Supplement Evidence (⭐0)](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 

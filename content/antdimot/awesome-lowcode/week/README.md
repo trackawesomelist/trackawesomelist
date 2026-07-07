@@ -2,9 +2,15 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 579 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 581 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### AI
+
+*   [VibeKit.bot](https://vibekit.bot) - Build, host, and keep improving an app entirely from your phone. Each app gets a persistent AI coding agent that ships to a live domain, with BYOK for Claude/OpenAI or pay-as-you-go — driven from your phone or CLI.
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -66,7 +72,7 @@ A collection of Awesome low-code development platform (LCDP).
 ### Automation
 
 *   [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
-*   [Overloop CLI (⭐4)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+*   [Overloop CLI (⭐5)](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -106,7 +112,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [PraisonAI (⭐8.2k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
+*   [PraisonAI (⭐8.4k)](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 
 ### Automation
 

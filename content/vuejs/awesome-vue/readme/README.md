@@ -530,7 +530,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [vuejs-extension-pack vscode (⭐37)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
-*   [Wiki.js (⭐28k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [Wiki.js (⭐29k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 
 *   [peregrine-cms (⭐52)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 
@@ -544,7 +544,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
 
-*   [Socialhome (⭐381)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐383)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 *   [chrome-ribbon-reminder (⭐14)](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 
@@ -580,7 +580,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [Akaunting (⭐9.9k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
-*   [MQTTX (⭐4.9k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐5k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 *   [Pychat (⭐244)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
@@ -598,7 +598,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [Antares SQL (⭐2.6k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
-*   [Bagisto (⭐27k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐28k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 
 *   [GrandNode 2.0 (⭐1.3k)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
@@ -612,7 +612,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *   [Materio Free Vuetify VueJS Laravel Admin Template (⭐231)](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 
-*   [Dashy (⭐25k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐26k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 *   [FAIRshare (⭐79)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
@@ -1188,6 +1188,7 @@ Tooltips / popovers
 *   [@f3ve/vue-markdown-it (⭐36)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 *   [Vue Markdown (⭐5)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 *   [markdown-design (⭐4)](https://github.com/ZeroOneJs/markdown-design) - An out-of-the-box Vue 3 Markdown component with real-time rendering, featuring TOC generation, full-text search, and more.
+*   [markstream-vue (⭐2.6k)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 
 #### PDF
 

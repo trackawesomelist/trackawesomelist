@@ -165,14 +165,15 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
     *   [pydantic-ai (⭐18k)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
     *   [TradingAgents (⭐88k)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 *   Data Layer
-    *   [entroly (⭐416)](https://github.com/juyterman1000/entroly) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
+    *   [entroly (⭐419)](https://github.com/juyterman1000/entroly) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
     *   [instructor (⭐13k)](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
     *   [llama-index (⭐50k)](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
     *   [mem0 (⭐59k)](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
     *   [outlines (⭐14k)](https://github.com/dottxt-ai/outlines) - Structured text generation for LLMs with JSON schema, regex, and grammar-constrained decoding.
 *   Pre-trained Models and Inference
     *   [diffusers (⭐34k)](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
-    *   [LiteLLM (⭐51k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
+    *   [LiteLLM (⭐53k)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
+    *   [liter-llm (⭐221)](https://github.com/xberg-io/liter-llm) - A universal LLM API client with a Rust core, calling 142+ providers through a single OpenAI-compatible interface, with a built-in proxy and MCP server.
     *   [mlx-lm (⭐6.1k)](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
     *   [sglang (⭐30k)](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
     *   [transformers (⭐162k)](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
@@ -206,8 +207,8 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 *   [mindsdb (⭐39k)](https://github.com/mindsdb/minds) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 *   [pgmpy (⭐3.3k)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 *   [scikit-learn (⭐66k)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-*   *   [scikit-lego (⭐1.4k)](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
-*   [spark.ml (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
+*   [scikit-lego (⭐1.4k)](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
+*   [spark.ml (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
 *   [TabGAN (⭐570)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.
 *   [timesfm (⭐26k)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting.
 *   [xgboost (⭐29k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
@@ -230,6 +231,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 *Libraries for Computer Vision.*
 
 *   [easyocr (⭐30k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
+*   [fiftyone (⭐11k)](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models.
 *   [kornia (⭐11k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 *   [opencv (⭐5.3k)](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library.
 *   [pytesseract (⭐6.4k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
@@ -391,6 +393,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 *   Frameworks
     *   [browser-use (⭐100k)](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
     *   [crawl4ai (⭐69k)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
+    *   [crawlberg (⭐118)](https://github.com/xberg-io/crawlberg) - A high-performance web crawling engine with a Rust core, headless-browser fallback, and built-in robots.txt and sitemap parsing.
     *   [mechanicalsoup (⭐4.9k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
     *   [scrapy (⭐63k)](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
 *   Content Extraction
@@ -762,7 +765,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
     *   [dask (⭐14k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
     *   [luigi (⭐19k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [mpi4py (⭐916)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
-    *   [pyspark (⭐43k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
+    *   [pyspark (⭐44k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     *   [joblib (⭐4.4k)](https://github.com/joblib/joblib) - A set of tools to provide lightweight pipelining in Python.
     *   [ray (⭐43k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 

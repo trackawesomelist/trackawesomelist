@@ -6,6 +6,36 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Jul 07, 2026](/content/2026/07/07/README.md)
+
+### Swift
+
+*   [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
+
+### SwiftUI
+
+*   [*The Mystery of the Mutating Mannequin* by Daniel H Steinberg](https://pragprog.com/titles/d-dsflow/the-mystery-of-the-mutating-mannequin/)
+
+### Multithreading
+
+*   [*The Curious Case of the Async Cafe* by Daniel H Steinberg](https://pragprog.com/titles/d-dsasync/the-curious-case-of-the-async-cafe/)
+
+### Database
+
+*   [*Build Mobile Apps with SwiftUI and Firebase* by Sullivan De Carli](https://link.springer.com/book/10.1007/978-1-4842-9452-9)
+
+### Game Development
+
+*   [*Apple Game Frameworks and Technologies* by Tammy Coron](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
+
+### Testing
+
+*   [*Test-Driven Development in Swift* by Gio Lodi](https://link.springer.com/book/10.1007/979-8-8688-2637-5)
+
+### watchOS
+
+*   [*watchOS With SwiftUI by Tutorials* by Scott Grosch](https://www.kodeco.com/books/watchos-with-swiftui-by-tutorials)
+
 ## [Jul 04, 2026](/content/2026/07/04/README.md)
 
 ### Database
