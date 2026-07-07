@@ -185,7 +185,7 @@ Inspired by the [awesome (⭐481k)](https://github.com/sindresorhus/awesome) lis
 *   [mklicense (⭐203)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 *   [foy (⭐290)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
-*   [just (⭐34k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐35k)](https://github.com/casey/just) - Modern `make`-like command runner.
 *   [bcal (⭐695)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 *   [bitwise (⭐715)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐385)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
@@ -327,7 +327,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
-*   [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [doing (⭐1.3k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐47)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [NeoMutt](https://neomutt.org) - Email client.
@@ -335,7 +335,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [ipt (⭐14)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐7.2k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-*   [fjira (⭐267)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐271)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 *   [OverTime (⭐416)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 *   [CookCLI (⭐1.3k)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 *   [hns (⭐108)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
@@ -371,9 +371,10 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [journalot (⭐92)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 *   [rucola (⭐505)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 *   [kanban.bash (⭐948)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
-*   [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐138)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 *   [gtasks (⭐160)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 *   [epiq (⭐252)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+*   [feeling (⭐24)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Finance
 
@@ -412,7 +413,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [aria2 (⭐41k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 *   [bitly-client (⭐50)](https://github.com/specious/bitly-client) - Bitly client.
 *   [deadlink (⭐175)](https://github.com/nschloe/deadlink) - Find dead links in files.
-*   [crawley (⭐341)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 *   [kill-tabs (⭐392)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐5.1k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 *   [clevercli (⭐164)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
@@ -497,14 +498,14 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [grip (⭐6.8k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.9k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 *   [glow (⭐26k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
-*   [gtree (⭐335)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐356)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 *   [Jimmy (⭐457)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 *   [mq (⭐955)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### Security
 
 *   [pass](https://www.passwordstore.org) - Password manager.
-*   [gopass (⭐6.9k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
+*   [gopass (⭐7k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 *   [xiringuito (⭐1.2k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 *   [hasha-cli (⭐82)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 *   [ots (⭐1.8k)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
@@ -595,12 +596,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [strip-json-comments-cli (⭐76)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 *   [GROQ (⭐233)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 *   [gron (⭐14k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
-*   [config-file-validator (⭐507)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐509)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
 
 *   [dyff (⭐1.9k)](https://github.com/homeport/dyff) - YAML diff tool.
-*   [config-file-validator (⭐507)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐509)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Columns
 
@@ -650,7 +651,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [chokidar-cli (⭐874)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 *   [file-type-cli (⭐87)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-*   [bat (⭐59k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [bat (⭐60k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 *   [unix-permissions (⭐142)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 *   [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 *   [webtorrent-cli (⭐1.4k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
@@ -708,7 +709,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [ripgrep (⭐66k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐81k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐4.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [fd (⭐43k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐44k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 *   [broot (⭐13k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 *   [rare (⭐352)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 *   [skim (⭐6.9k)](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
@@ -745,7 +746,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [bash-git-prompt (⭐6.9k)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 *   [gitui (⭐22k)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 *   [ggc (⭐283)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
-*   [AI Git Narrator (⭐117)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
+*   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 *   [gibr (⭐110)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### GitHub

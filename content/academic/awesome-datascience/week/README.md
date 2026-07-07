@@ -2,9 +2,15 @@
 
 :memo: An awesome Data Science repository to learn and apply for real world problems.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/academic/awesome-datascience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ⭐ 29K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/academic/awesome-datascience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ⭐ 30K · 🏷️ Computer Science
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
+
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -17,7 +23,7 @@
 
 ### Tutorials
 
-*   [Train LLM From Scratch (⭐6.3k)](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
+*   [Train LLM From Scratch (⭐8.1k)](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -43,7 +49,7 @@
 
 ### Tools
 
-*   [ai-evaluation (⭐106)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
+*   [ai-evaluation (⭐110)](https://github.com/future-agi/ai-evaluation) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 
 ### Research & Knowledge Retrieval
 
@@ -135,7 +141,7 @@
 
 *   [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.
 *   [Japan Neighborhoods](https://japanneighborhoods.com) - English dataset of Tokyo crime statistics across 5,078 neighborhoods × 7 years (36,222 records, 2018-2024), sourced from Tokyo Metropolitan Police open data. Includes interactive crime map, safety grading, and cost-of-living index. CC BY licensed.
-*   [ZipCheckup (⭐2)](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
+*   [ZipCheckup (⭐3)](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 
 ## [Apr 06 - Apr 12, 2026](/content/2026/14/README.md)
 
@@ -184,11 +190,11 @@
 
 ### Research & Knowledge Retrieval
 
-*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐30)](https://github.com/connerlambden/bgpt-mcp)
+*   [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub (⭐35)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [FirstData (⭐165)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
+*   [FirstData (⭐169)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 
 ## [Mar 09 - Mar 15, 2026](/content/2026/10/README.md)
 
@@ -227,7 +233,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [jSciPy (⭐21)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
+*   [jSciPy (⭐23)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
 
 ### Books / Visualization Tools
 
@@ -251,7 +257,7 @@
 
 ### Frameworks
 
-*   [ADK-Rust (⭐459)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
+*   [ADK-Rust (⭐532)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
 ## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
 
@@ -363,7 +369,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐694)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐698)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -488,8 +494,8 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [XGBoost (⭐28k)](https://github.com/dmlc/xgboost)
-*   [LightGBM (⭐18k)](https://github.com/microsoft/LightGBM)
+*   [XGBoost (⭐29k)](https://github.com/dmlc/xgboost)
+*   [LightGBM (⭐19k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐9k)](https://github.com/catboost/catboost)
 *   [JAX (⭐36k)](https://github.com/google/jax)
 
@@ -577,7 +583,7 @@
 
 *   [Yolov3 (⭐11k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐58k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐58k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐59k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -822,9 +828,9 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐8.2k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐616)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐689)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐8.3k)](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐617)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐691)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.3k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
@@ -1066,7 +1072,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyToune (⭐578)](https://github.com/GRAAL-Research/poutyne)
+*   [PyToune (⭐579)](https://github.com/GRAAL-Research/poutyne)
 *   [skorch (⭐6.2k)](https://github.com/skorch-dev/skorch)
 *   [pytorch\_geometric (⭐24k)](https://github.com/pyg-team/pytorch_geometric)
 *   [pyro (⭐9k)](https://github.com/pyro-ppl/pyro)
@@ -1181,9 +1187,9 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [awesome-dataviz (⭐4.3k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐76k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐695)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [awesome-dataviz (⭐4.4k)](https://github.com/javierluraschi/awesome-dataviz)
+*   [awesome-datasets (⭐77k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐694)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐99)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
@@ -1527,19 +1533,19 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐517)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐518)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
 *   [Public Git Archive (⭐348)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
-*   [Covid-19 Google (⭐119)](https://github.com/google-research/open-covid-19-data)
+*   [Covid-19 Google (⭐118)](https://github.com/google-research/open-covid-19-data)
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
+*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐34k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐73k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐11k)](https://github.com/jnv/lists)
 *   [awesome-python (⭐305k)](https://github.com/vinta/awesome-python)
@@ -1555,7 +1561,7 @@
 *   [Awesome Fraud Detection Papers (⭐1.8k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 *   [Awesome Gradient Boosting Papers (⭐1.1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 *   [Awesome Computer Vision Models (⭐543)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐707)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Monte Carlo Tree Search (⭐713)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 

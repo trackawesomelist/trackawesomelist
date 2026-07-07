@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jul 07, 2026](/content/2026/07/07/README.md)
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [feeling (⭐24)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
+
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
 ### Files and Directories / File Sync/Sharing
@@ -243,7 +249,7 @@
 
 ### Productivity / Note Taking, Lists, Task Management
 
-*   [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+*   [kanban (⭐138)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ## [Mar 30, 2026](/content/2026/03/30/README.md)
 
@@ -559,7 +565,7 @@
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐507)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐509)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -568,7 +574,7 @@
 ### Version Control / Git
 
 *   [ggc (⭐283)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
-*   [AI Git Narrator (⭐117)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
+*   [AI Git Narrator (⭐119)](https://github.com/pmusolino/AI-Git-Narrator) - \[macOS]: Generate commit messages with AI.
 
 ### Images / Image Conversion
 
@@ -732,7 +738,7 @@
 
 ### Productivity / Testing
 
-*   [fjira (⭐267)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐271)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ## [Aug 16, 2023](/content/2023/08/16/README.md)
 
@@ -798,7 +804,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐335)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐356)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [May 05, 2023](/content/2023/05/05/README.md)
 
@@ -973,7 +979,7 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐341)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐340)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
@@ -1145,7 +1151,7 @@
 ### Utilities / Security
 
 *   [pass](https://www.passwordstore.org) - Password manager.
-*   [gopass (⭐6.9k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
+*   [gopass (⭐7k)](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 *   [xiringuito (⭐1.2k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 *   [ots (⭐1.8k)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
@@ -1254,7 +1260,7 @@
 
 ### Development / Chat
 
-*   [just (⭐34k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐35k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ## [Mar 25, 2021](/content/2021/03/25/README.md)
 
@@ -1453,7 +1459,7 @@
 
 ### Files and Directories / Search
 
-*   [fd (⭐43k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐44k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [Jul 30, 2019](/content/2019/07/30/README.md)
 
@@ -1565,7 +1571,7 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐59k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [bat (⭐60k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 
 ## [May 07, 2019](/content/2019/05/07/README.md)
 
@@ -1616,7 +1622,7 @@
 
 ### Productivity / Testing
 
-*   [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [doing (⭐1.3k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐47)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [terjira (⭐907)](https://github.com/keepcosmos/terjira) - Jira client.

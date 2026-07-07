@@ -1,30 +1,75 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2026
 
-18 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [Phind](https://phindai.org/) - AI search engine optimized for developers and technical questions.
+
+### Data Breach Search Engines
+
+*   [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
+
+### Social Media Tools / Twitter
+
+*   [TweetMap (⭐12)](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
+
+### Company Research / GitHub
+
+*   [Section 16 Deadline Calculator (⭐0)](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
+
+### Domain and IP Research / GitHub
+
+*   [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning; look up the exposure findings on record for a given domain.
+*   [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
+
+### Web History and Website Capture / GitHub
+
+*   [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
+
+### VPN Services / GitHub
+
+*   [OffShore.cat](https://offshore.cat/?page=vpn) - list of vpns for the privacy conscious
+
+### Social Network Analysis / GitHub
+
+*   [ORA-LITE](https://www.cmu.edu/casos-center/research/tools/)
+
+### Related Awesome Lists / GitHub
+
+*   [OSINT-BIBLE (⭐582)](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
+
+## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
+
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### CAD
 
 *   [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Geographical / Spatial
 
 *   [PyCanopy](https://github.com/pranav-walimbe) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
 *   [typed\_env\_config (⭐2)](https://github.com/systatum/typed_env_config) - Load type-safe configuration from YAML/dotenv with ENV overrides
 
-## [4. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Build
 
@@ -34,7 +79,7 @@
 
 *   [OfficeFloor (⭐67)](https://github.com/officefloor/OfficeFloor) - Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -48,7 +93,15 @@
 
 *   [mikwielgus/undoredo (⭐116)](https://github.com/mikwielgus/undoredo) \[[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no\_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Terminal Apps / Databases
+
+*   [tty7 (⭐24)](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/l0ng-ai/tty7) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### AI Tools / Other Tools
+
+*   [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mm7894215/TokenTracker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
 
@@ -58,7 +111,7 @@
 
 *   [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wox-launcher/Wox) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Fitness
 
@@ -124,19 +177,19 @@
 *   [GitStory (⭐177)](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 *   [PGIS (⭐1)](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / URL Shorteners
 
 *   [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐882)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code (⭐882)](https://github.com/SinTan1729/chhoto-url), [Clients (⭐882)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [AlphaAI](https://alphai.io/developers) - Financial news API and MCP server. Every article gets per-ticker impact analysis, a category, and a 1-10 relevance score, and SEC Form 4 insider filings are turned into scored events. The free tier includes 20 requests per minute and 100 requests per day on both REST and MCP, no card required.
 
-## [10. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
+## [12. Awesome Animal Care](/content/omkar-foss/awesome-animal-care/week/README.md)
 
 ### Hamsters / Hamster Books
 
@@ -159,13 +212,13 @@
 *   [What Can Hamsters Eat - PetMD](https://www.petmd.com/exotic/what-can-hamsters-eat) - Quick list of food items that hamsters can & cannot eat.
 *   [Hamster Diet - Elmbrook Humane Society (EBHS)](https://ebhs.org/wp-content/uploads/2021/07/Hamster-Diet-final.pdf) - Practical guide for hamster diet.
 
-## [11. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [13. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### More resources
 
 *   [AI Web Design Codex (⭐4)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### LSP / Diagnostics
 
@@ -175,7 +228,7 @@
 
 *   [lewistg/pesto.nvim (⭐1)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 
-## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
@@ -197,7 +250,7 @@
 
 *   [SchemaCrawler](https://www.schemacrawler.com/) - Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.
 
-## [14. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
+## [16. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/week/README.md)
 
 ### Skills
 
@@ -210,7 +263,7 @@
 *   [Claude Code Observability Stack (⭐456)](https://github.com/ColeMurray/claude-code-otel) by [Cole Murray](https://github.com/ColeMurray) - A Dockerized OpenTelemetry-to-Grafana observability stack for Claude Code that implements Anthropic's observability guidance, surfacing session activity, performance, token usage, and cost in prebuilt dashboards.\ <img src="https://img.shields.io/github/created-at/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/ColeMurray/claude-code-otel?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 *   [Multi-Agent Observability (⭐1.5k)](https://github.com/disler/claude-code-hooks-multi-agent-observability) by [disler](https://github.com/disler) - A real-time dashboard that captures Claude Code hook events across concurrent agents — tracing every tool call, task handoff, and lifecycle event through a Bun/SQLite/WebSocket/Vue stack, with session tracking and live filtering.\ <img src="https://img.shields.io/github/created-at/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">  <img src="https://img.shields.io/github/last-commit/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">  <img src="https://img.shields.io/github/license/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">  <img src="https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## [15. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [17. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Language Essentials / File Format Processing
 
@@ -229,7 +282,7 @@
 
 *   [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
 
-## [16. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
+## [18. Awesome Mqtt](/content/awesome-mqtt/awesome-mqtt/week/README.md)
 
 ### Smart Home Integration Software / Firmwares for ESP based Devices
 
@@ -239,7 +292,11 @@
 
 *   [Feezal (⭐10)](https://github.com/feezal/feezal) - Dashboard editor powered by Web Components and MQTT
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Productivity / Note Taking, Lists, Task Management
+
+*   [feeling (⭐24)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Files and Directories / File Sync/Sharing
 
@@ -249,7 +306,7 @@
 
 *   [gitfetch (⭐389)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
-## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [20. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 6\. WSLC
 
