@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 08, 2026](/content/2026/07/08/README.md)
+
+### APIs, Data, and ML
+
+*   [DocPenny](https://docpenny.com) - HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.
+
 ## [Jul 06, 2026](/content/2026/07/06/README.md)
 
 ### APIs, Data, and ML
@@ -290,7 +296,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Feature Toggles Management Platforms
 
-*   [Rollgate](https://rollgate.io) - Feature flag management with scheduled releases, instant rollback, and A/B testing. 13 SDKs included. Free plan up to 500K API requests/month, unlimited flags, 3 team members, no credit card required.
+*   [Rollgate](https://rollgate.io) - EU-hosted feature flag management with scheduled releases, instant rollback, and A/B testing. 12 SDKs included. Free plan up to 500K API requests/month, unlimited flags, 3 team members, no credit card required.
 
 ## [Apr 09, 2026](/content/2026/04/09/README.md)
 

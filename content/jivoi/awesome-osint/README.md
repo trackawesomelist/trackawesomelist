@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jul 08, 2026](/content/2026/07/08/README.md)
+
+### Social Media Tools / TikTok
+
+*   [TikTok Tools](https://omar-thing.site) - TikTok user finder, you can find any tiktok user region & info, watch stories, reposts, highlights, and other tools for tiktok
+
+### Domain and IP Research / GitHub
+
+*   [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, DKIM discovery, SPF/DMARC analysis and blacklist checks with plain-English results, no signup.
+
+### Threat Intelligence / GitHub
+
+*   [ThreatLens (⭐3)](https://github.com/AbdaullahAG/Threat_Intel_Project) - Professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across multiple free APIs with automated log parsing and color-coded reporting.
+
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
 ### General Search
@@ -116,7 +130,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
+*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 3M+ threat actor username records and discover where they operate online and post.
 
 ## [Jun 02, 2026](/content/2026/06/02/README.md)
 
@@ -568,7 +582,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.
 *   [PhishingSecLists (⭐82)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 
 ### Live Cyber Threat Maps

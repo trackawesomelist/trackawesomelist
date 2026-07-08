@@ -302,7 +302,7 @@ Thanks to our main contributors
 *   [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 *   [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 *   [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
-*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## [↑](#-live-cyberthreat-maps) Live Cyber Threat Maps
 
@@ -514,6 +514,7 @@ Thanks to our main contributors
 
 ### [↑](#-table-of-contents) TikTok
 
+*   [TikTok Tools](https://omar-thing.site) - TikTok user finder, you can find any tiktok user region & info, watch stories, reposts, highlights, and other tools for tiktok
 *   [TikTokStalker](https://tiktok.einzzcookie.org) - Lookup much info about TikTok stuff
 
 ### [↑](#-table-of-contents) Pinterest
@@ -939,6 +940,7 @@ Thanks to our main contributors
 *   [Dedicated or Not](http://dedicatedornot.com)
 *   [digga](https://digga.dev) - Free and open-source domain and infrastructure research toolkit combining DNS, RDAP, WHOIS, passive subdomain discovery, IP and ASN data, email authentication checks, and TLS certificate inspection. No account required.
 *   [DNS History](https://completedns.com/dns-history/)
+*   [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, DKIM discovery, SPF/DMARC analysis and blacklist checks with plain-English results, no signup.
 *   [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
 *   [DNSStuff](http://www.dnsstuff.com)
 *   [DNSViz](http://dnsviz.net)
@@ -1699,7 +1701,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
-*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
+*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 3M+ threat actor username records and discover where they operate online and post.
 
 <!---->
 
@@ -1715,7 +1717,8 @@ Thanks to our main contributors
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
 *   [Taranis AI (⭐1.2k)](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
-*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [ThreatLens (⭐3)](https://github.com/AbdaullahAG/Threat_Intel_Project) - Professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across multiple free APIs with automated log parsing and color-coded reporting.
 *   [VoidAccess (⭐274)](https://github.com/KatrielMoses/voidaccess) - Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.
 *   [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 

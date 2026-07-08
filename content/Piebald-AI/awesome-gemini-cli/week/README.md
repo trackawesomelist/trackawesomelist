@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ [Daily](/content/Piebald-AI/awesome-gemini-cli/README.md) / Weekly / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Commands & Extensions
+
+*   [llm-box (⭐2)](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes (fetch\_url, execute, file I/O, HTTP, JSON parsing, template rendering, LLM calls), 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Agent Orchestration & CLI Tools
@@ -31,7 +37,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### MCP Servers
 
-*   [Lusha (⭐3)](https://github.com/lusha-oss/lusha-mcp-plugin) - B2B prospecting and data enrichment: find and enrich contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Remote MCP server bundled with 4 prospecting skills and OAuth sign-in. Works with Gemini CLI (`gemini extensions install`) and Antigravity (`agy plugin install`).
+*   [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - B2B prospecting and data enrichment: find and enrich contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Remote MCP server bundled with 4 prospecting skills and OAuth sign-in. Works with Gemini CLI (`gemini extensions install`) and Antigravity (`agy plugin install`).
 
 ## [Jun 22 - Jun 28, 2026](/content/2026/25/README.md)
 
@@ -41,12 +47,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Development Tools & Utilities
 
-*   [Tintpad (⭐2)](https://github.com/sorkila/tintpad) - macOS menu bar launcher for the agentic-coding loop. One hotkey opens your terminal at the right repo with Gemini CLI (or Claude Code, Codex) already running. Frecency repo search, Safe/Default/YOLO run modes, git worktrees, headless background dispatch. Native Swift, local-only, free, open source.
-*   [EGC (⭐22)](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
+*   [Tintpad (⭐3)](https://github.com/sorkila/tintpad) - macOS menu bar launcher for the agentic-coding loop. One hotkey opens your terminal at the right repo with Gemini CLI (or Claude Code, Codex) already running. Frecency repo search, Safe/Default/YOLO run modes, git worktrees, headless background dispatch. Native Swift, local-only, free, open source.
+*   [EGC (⭐32)](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
 
 ### Non-Gemini CLI
 
-*   [NotFair (⭐2.9k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a `/notfair:gemini` cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, \~2.9k stars.
+*   [NotFair (⭐3.1k)](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a `/notfair:gemini` cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, \~2.9k stars.
 
 ## [Jun 15 - Jun 21, 2026](/content/2026/24/README.md)
 
@@ -345,7 +351,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Official
 
-*   [Gemini CLI (⭐105k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
+*   [Gemini CLI (⭐106k)](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
 *   [Gemini CLI cookbook (⭐17k)](https://github.com/google-gemini/cookbook) - Official collection of examples and guides demonstrating best practices for using the Gemini API. Essential resource for developers getting started.
 
 ### Forks
@@ -354,7 +360,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Commands & Extensions
 
-*   [GeminiCLI\_Slash\_Listen (⭐22)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
+*   [GeminiCLI\_Slash\_Listen (⭐21)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
 *   [gemini-cli-custom-slash-commands (⭐167)](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.
 *   [gemini-flow (⭐385)](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
 
@@ -367,7 +373,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ### API Bridges & Proxies
 
 *   [geminicli2api (⭐588)](https://github.com/gzzhongqi/geminicli2api) - Powerful FastAPI proxy that transforms Gemini CLI into standard API endpoints, enabling integration with any OpenAI-compatible tool or service.
-*   [gemini-openai-proxy (⭐54)](https://github.com/Brioch/gemini-openai-proxy) - Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.
+*   [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Universal compatibility layer serving Gemini 2.5 Pro/Flash through OpenAI protocol. Works instantly with existing tools like LangChain, llama.cpp, and VS Code extensions.
 
 ### MCP Servers
 
@@ -380,7 +386,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### Frameworks
 
-*   [gemini-code-flow (⭐157)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
+*   [gemini-code-flow (⭐156)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 
 ### Documentation & Examples
 
@@ -399,8 +405,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ### API Bridges & Proxies
 
-*   [gemini-cli-openai (⭐883)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
-*   [gemini-cli-proxy (⭐148)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
+*   [gemini-cli-openai (⭐890)](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
+*   [gemini-cli-proxy (⭐147)](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
 *   [gemini-cli-mcp-openai-bridge (⭐137)](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 
 ### MCP Servers

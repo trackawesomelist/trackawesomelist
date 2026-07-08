@@ -20,6 +20,10 @@
 
 *   [TweetMap (⭐12)](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets)
 
+### Social Media Tools / TikTok
+
+*   [TikTok Tools](https://omar-thing.site) - TikTok user finder, you can find any tiktok user region & info, watch stories, reposts, highlights, and other tools for tiktok
+
 ### Company Research / GitHub
 
 *   [Section 16 Deadline Calculator (⭐0)](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
@@ -27,6 +31,7 @@
 ### Domain and IP Research / GitHub
 
 *   [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning; look up the exposure findings on record for a given domain.
+*   [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, DKIM discovery, SPF/DMARC analysis and blacklist checks with plain-English results, no signup.
 *   [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
 
 ### Web History and Website Capture / GitHub
@@ -40,6 +45,10 @@
 ### Social Network Analysis / GitHub
 
 *   [ORA-LITE](https://www.cmu.edu/casos-center/research/tools/)
+
+### Threat Intelligence / GitHub
+
+*   [ThreatLens (⭐3)](https://github.com/AbdaullahAG/Threat_Intel_Project) - Professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across multiple free APIs with automated log parsing and color-coded reporting.
 
 ### Related Awesome Lists / GitHub
 
@@ -112,7 +121,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 2M+ threat actor username records and discover where they operate online and post.
+*   [Threat Actor Usernames](https://threatactorusernames.com/) -  search through 3M+ threat actor username records and discover where they operate online and post.
 
 ## [Jun 08 - Jun 14, 2026](/content/2026/23/README.md)
 
@@ -534,7 +543,7 @@
 
 ### Threat Intelligence / GitHub
 
-*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+*   [Threat Actor Usernames Scrape (⭐224)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.
 *   [PhishingSecLists (⭐82)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 
 ### Live Cyber Threat Maps
