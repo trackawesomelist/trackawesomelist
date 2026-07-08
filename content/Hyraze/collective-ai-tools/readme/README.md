@@ -439,7 +439,7 @@ Use these hashtags in search to filter out the tools
 *   [Fitten Code](https://code.fitten.com/) - Jittor framework high-speed completion tool. \`\`
 *   [Fronty](https://fronty.com/) - Converts image/screenshots to HTML/CSS. \`\`
 *   [Genie](https://genie.ai/) - Simulating human engineer cognitive processes. \`\`
-*   [Gemini CLI (⭐105k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
+*   [Gemini CLI (⭐106k)](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 *   [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
 *   [Groq](https://groq.com/) - Ultra-fast LLM inference API with free tier for Llama, Mixtral, and Gemma models. `#freemium`
 *   [HeyCLI](https://heycli.com/) - Natural language execution for Linux terminals. \`\`
@@ -698,6 +698,7 @@ Use these hashtags in search to filter out the tools
 *   [Nano Banana](https://nanobanana.im/) - Transform any image with simple text prompts. Nano-banana's advanced model delivers consistent character editing and scene preservation that surpasses Flux Kontext. Experience the future of AI image editing. `#freemium`
 *   [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B\&W images. `#freemium`
 *   [Photoroom](https://www.photoroom.com/) - Fast enterprise-level image editing templates. `#free`
+*   [PhotosStyle](https://www.photosstyle.com/art) - Online AI photo style converter for turning images into anime, sketches, line art, oil paintings, cartoons, and other creative styles. `#freemium`
 *   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
 *   [remove.bg](https://remove.bg/) - Online background remover (5 seconds)1. `#free`
 *   [Skybox AI](https://skybox.blockadelabs.com/) - 360° virtual world panorama generation. \`\`
@@ -1064,6 +1065,7 @@ Use these hashtags in search to filter out the tools
 ## Travel
 
 *   [Famxplor](https://famxplor.com/) - Find activities for your family vacations worldwide. `#paid`
+*   [MonkeyEatingMango](https://monkeyeatingmango.com/) - Your complete trip, planned in minutes with routes, attractions, budgets, and food guide. `#free`
 *   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
 *   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
 *   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`

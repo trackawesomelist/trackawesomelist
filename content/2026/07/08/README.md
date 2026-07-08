@@ -1,12 +1,59 @@
 # Awesome List Updates on Jul 08, 2026
 
-4 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Collective Ai Tools](/content/Hyraze/collective-ai-tools/README.md)
+
+### Image Editing
+
+*   [PhotosStyle](https://www.photosstyle.com/art) - Online AI photo style converter for turning images into anime, sketches, line art, oil paintings, cartoons, and other creative styles. `#freemium`
+
+### Travel
+
+*   [MonkeyEatingMango](https://monkeyeatingmango.com/) - Your complete trip, planned in minutes with routes, attractions, budgets, and food guide. `#free`
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Fundamentals / Utility
+
+*   [copyleftdev/whatthediff (⭐0)](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
+
+### Language Essentials / Command Line and Argument Parser
+
+*   [muhammad-fiaz/args.zig (⭐14)](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
+
+### Network & Web / Network
+
+*   [muhammad-fiaz/httpx.zig (⭐63)](https://github.com/muhammad-fiaz/httpx.zig) - Production-ready HTTP/1.x/2/3 client and server runtime for Zig with proxy support, concurrency, and protocol primitives.
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Robotics
+
+*   [FusionCore (⭐275)](https://github.com/manankharwar/fusioncore) - ROS 2 UKF sensor fusion library fusing GPS, IMU, and wheel odometry with adaptive noise and outlier rejection for robust outdoor localization. \[Apache2]
+
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Projects / AI and Agents
+
+*   Speech
+    *   [funasr (⭐19k)](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.
+    *   [openai-whisper (⭐104k)](https://github.com/openai/whisper) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
+    *   [SenseVoice (⭐8.8k)](https://github.com/FunAudioLLM/SenseVoice) - A multilingual speech understanding model for speech recognition, language identification, emotion recognition, and audio event detection.
+    *   [vibevoice (⭐50k)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
+    *   [voxcpm (⭐32k)](https://github.com/OpenBMB/VoxCPM) - A tokenizer-free text-to-speech foundation model for multilingual speech generation and voice cloning.
+
+## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+
+### Front-ends / Meet Magento
+
+*   [MageObsidian (⭐1)](https://github.com/mage-obsidian/module-modern-frontend) - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / TikTok
 
@@ -20,13 +67,13 @@
 
 *   [ThreatLens (⭐3)](https://github.com/AbdaullahAG/Threat_Intel_Project) - Professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across multiple free APIs with automated log parsing and color-coded reporting.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [DocPenny](https://docpenny.com) - HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.
 
-## [3. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
@@ -50,7 +97,7 @@
 *   [Full Stack Developer Roadmap](https://www.geeksforgeeks.org/blogs/full-stack-developer-roadmap/) - Article mapping a full-stack learning path across frontend, backend, databases, version control, and projects. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 *   [SQL Roadmap](https://www.geeksforgeeks.org/blogs/sql-roadmap/) - Article covering a structured SQL learning path from fundamentals to advanced querying and database skills. <img alt="Year 2025" src="https://img.shields.io/badge/Year-2025-green"> <img alt="Blog article" src="https://img.shields.io/badge/Blog-Article-0A66C2">
 
-## [4. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [9. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### Commands & Extensions
 
