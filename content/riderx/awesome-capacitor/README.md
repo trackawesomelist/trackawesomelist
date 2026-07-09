@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Jul 09, 2026](/content/2026/07/09/README.md)
+
+### Tools / Incompatible
+
+*   [Capstart (⭐26)](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
+
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
 ### [Capgo plugins](https://capgo.app/) / Core & Updates

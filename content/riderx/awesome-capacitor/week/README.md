@@ -100,6 +100,10 @@
 
 *   [capacitor-thermal-state (⭐4)](https://github.com/isaforge/capacitor-thermal-state) - Monitor device thermal state (overheating detection) on iOS and Android.
 
+### Tools / Incompatible
+
+*   [Capstart (⭐26)](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
+
 ### Helpers / Incompatible
 
 *   [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.

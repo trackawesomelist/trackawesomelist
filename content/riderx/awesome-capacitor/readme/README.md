@@ -505,6 +505,7 @@ This list will be upgraded soon
 *   [Capgo Skills](https://capgo.app/skills/) - Check your Capacitor app compatibility and skills.
 *   [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 *   [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
+*   [Capstart (⭐26)](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
 *   [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
 
 ## Helpers
