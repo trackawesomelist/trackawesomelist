@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 10, 2026](/content/2026/07/10/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Zeitio](https://zeitio.com/) - Time tracking and invoicing for freelancers and small teams. Free plan includes 1 user, 3 active projects and 3 invoices per month.
+
 ## [Jul 08, 2026](/content/2026/07/08/README.md)
 
 ### APIs, Data, and ML
@@ -78,7 +84,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐1.2k)](https://github.com/future-agi/future-agi)
+*   [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource (⭐1.4k)](https://github.com/future-agi/future-agi)
 
 ## [Jun 23, 2026](/content/2026/06/23/README.md)
 
