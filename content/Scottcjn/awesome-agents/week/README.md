@@ -6,6 +6,12 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 [ [Daily](/content/Scottcjn/awesome-agents/README.md) / Weekly / [Overview](/content/Scottcjn/awesome-agents/readme/README.md) ]
 
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Platforms
+
+*   [Hivekeep (⭐31)](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord and Matrix, in a single Bun and SQLite container.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Platforms
@@ -19,7 +25,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 ### Monitoring and Observability
 
 *   [ax (agent telemetry) (⭐71)](https://github.com/Necmttn/ax) - Local-first telemetry graph for coding agents, with read-only MCP queries for sessions, tool calls, skills, and costs across Claude Code, Codex, Cursor, OpenCode, and Pi.
-*   [Future AGI (⭐1.2k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+*   [Future AGI (⭐1.4k)](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 ## [Jun 29 - Jul 05, 2026](/content/2026/26/README.md)
 
@@ -147,9 +153,9 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 
 ### Frameworks
 
-*   [LangChain (⭐140k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
-*   [LlamaIndex (⭐50k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
-*   [CrewAI (⭐54k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
+*   [LangChain (⭐141k)](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with chains, agents, and retrieval.
+*   [LlamaIndex (⭐51k)](https://github.com/run-llama/llama_index) - Data framework for connecting custom data sources to large language models.
+*   [CrewAI (⭐55k)](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing autonomous AI agents that work together as a crew.
 *   [Autogen (⭐59k)](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational AI systems.
 *   [Semantic Kernel (⭐28k)](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs into apps with planners, plugins, and agent patterns.
 *   [Phidata (⭐41k)](https://github.com/phidatahq/phidata) - Toolkit for building AI assistants with memory, knowledge, and tool use.
@@ -157,8 +163,8 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [Pydantic AI (⭐18k)](https://github.com/pydantic/pydantic-ai) - Production-grade type-safe agent framework from the creators of Pydantic.
 *   [Swarm (⭐22k)](https://github.com/openai/swarm) - OpenAI's experimental lightweight multi-agent orchestration framework.
 *   [Smolagents (⭐28k)](https://github.com/huggingface/smolagents) - Hugging Face's minimalist library for building powerful agents in a few lines of code.
-*   [LangGraph (⭐36k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
-*   [DSPy (⭐35k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
+*   [LangGraph (⭐37k)](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs using graph-based workflows.
+*   [DSPy (⭐36k)](https://github.com/stanfordnlp/dspy) - Stanford's framework for programming with foundation models through declarative modules rather than prompting.
 *   [Rivet (⭐4.6k)](https://github.com/Ironclad/rivet) - Visual programming environment for building complex AI agent workflows with a node-based editor.
 *   [Composio (⭐29k)](https://github.com/ComposioHQ/composio) - Platform providing 250+ tool integrations for AI agents across popular frameworks.
 *   [Coinbase AgentKit (⭐1.3k)](https://github.com/coinbase/agentkit) - Toolkit for building AI agents with onchain capabilities and wallet management.
@@ -230,7 +236,7 @@ A curated list of AI agent platforms, frameworks, protocols, tools, and resource
 *   [Anthropic Python (⭐3.7k)](https://github.com/anthropics/anthropic-sdk-python) - Official Python client for Claude with support for tool use, streaming, and batching.
 *   [Google GenAI (⭐2.3k)](https://github.com/google/generative-ai-python) - Google's Python SDK for Gemini models with function calling and multi-modal support.
 *   [Ollama Python (⭐10k)](https://github.com/ollama/ollama-python) - Python library for running and interacting with local LLMs via the Ollama runtime.
-*   [LiteLLM (⭐51k)](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
+*   [LiteLLM (⭐53k)](https://github.com/BerriAI/litellm) - Unified interface to call 100+ LLM APIs using the OpenAI format with load balancing and spend tracking.
 *   [Marvin (⭐6.2k)](https://github.com/prefecthq/marvin) - Lightweight AI engineering toolkit for building natural language interfaces and AI functions.
 
 ### Standards and Specifications

@@ -6,6 +6,23 @@
 
 [ [Daily](/content/thibmaek/awesome-raspberry-pi/README.md) / Weekly / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Jul 13 - Jul 19, 2026](/content/2026/28/README.md)
+
+### Tools
+
+*   [PiPulse (⭐1)](https://github.com/techtiki21/PiPulse) - Monitor Raspberry Pi at all times without SSH.
+
+### Projects
+
+*   [DCS-BIOS (⭐420)](https://github.com/DCS-Skunkworks/dcs-bios) - Exports DCS World cockpit data (switches, lights, displays) over serial/UDP to Arduino, ESP32, or Raspberry Pi for physical panel builds.
+*   [RustChain (⭐454)](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.
+*   [Secluso (⭐1.6k)](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+
+### Tutorials / iOS
+
+*   [RasRobot 4WD TB6612FNG checklist (⭐0)](https://github.com/willoc2023/rasrobot-tb6612fng-4wd) - Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.
+*   [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/raspberry-pi) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### Projects
@@ -53,7 +70,7 @@
 
 ### Tools
 
-*   [Rpi MQTT Monitor (⭐303)](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
+*   [Rpi MQTT Monitor (⭐311)](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
 
 ### Projects
 
@@ -73,7 +90,7 @@
 
 ### Projects
 
-*   [ble-scale-sync (⭐110)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
+*   [ble-scale-sync (⭐118)](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 
 ## [Feb 09 - Feb 15, 2026](/content/2026/6/README.md)
 
@@ -85,7 +102,7 @@
 
 ### Projects
 
-*   [BotWave (⭐133)](https://github.com/dpipstudio/botwave/) - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [BotWave (⭐135)](https://github.com/dpipstudio/botwave/) - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -338,7 +355,7 @@
 
 ### Projects
 
-*   [Haven (⭐790)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
+*   [Haven (⭐794)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
