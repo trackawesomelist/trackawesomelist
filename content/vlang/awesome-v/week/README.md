@@ -10,6 +10,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
+*   [gatevay (⭐0)](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
+*   [pixviper (⭐0)](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
 *   [vsnap (⭐0)](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
 
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)

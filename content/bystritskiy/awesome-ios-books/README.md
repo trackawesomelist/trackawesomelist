@@ -6,6 +6,58 @@
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
 
+## [Jul 11, 2026](/content/2026/07/11/README.md)
+
+### iOS
+
+*   [*Beginning iPhone Development with SwiftUI* by Wallace Wang](https://link.springer.com/book/10.1007/978-1-4842-9541-0)
+*   [*Getting Started with WidgetKit* by Sagun Raj Lage, Prakshapan Shrestha](https://link.springer.com/book/10.1007/978-1-4842-7042-4)
+*   [*iOS 18 App Development Essentials* by Neil Smyth](https://pragprog.com/titles/d-nsios18/ios-18-app-development-essentials/)
+
+### Swift
+
+*   [*Swift Cookbook: Proven Recipes for Developing Robust iOS Applications with Swift 5.9* by Keith Moon, Chris Barker, Daniel Bolella, Nathan Lawlor](https://www.packtpub.com/en-us/product/swift-cookbook-third-edition-9781803239583)
+*   [*Swift Apprentice: Fundamentals* by Alexis Gallagher, Ehab Amer, Matt Galloway, Eli Ganim, Ray Fix](https://www.kodeco.com/books/swift-apprentice-fundamentals/v2.0)
+
+### SwiftUI
+
+*   [*An iOS Developer's Guide to SwiftUI* by Michele Fadda](https://www.packtpub.com/en-us/product/an-ios-developers-guide-to-swiftui-9781801813624)
+
+### Combine
+
+*   [*Combine: Asynchronous Programming with Swift* by Kodeco Team, Shai Mishali, Florent Pillet, Marin Todorov](https://www.kodeco.com/books/combine-asynchronous-programming-with-swift/v4.0)
+*   [*Asynchronous Programming with SwiftUI and Combine* by Peter Friese](https://link.springer.com/book/10.1007/978-1-4842-8572-5)
+
+### Multithreading
+
+*   [*Modern Concurrency on Apple Platforms* by Andrés Ibañez Kautsch](https://link.springer.com/book/10.1007/978-1-4842-8695-1)
+
+### Data Structures and Algorithms
+
+*   [*Data Structures & Algorithms in Swift* by Vincent Ngo, Kelvin Lau](https://www.kodeco.com/books/data-structures-algorithms-in-swift/v5.0)
+
+### Database
+
+*   [*App Development Using iOS iCloud* by Shantanu Baruah, Shaurya Baruah](https://link.springer.com/book/10.1007/979-8-8688-0944-6)
+
+### ARKit
+
+*   [*Mastering ARKit* by Jayven Nhan](https://link.springer.com/book/10.1007/979-8-8688-0847-0)
+*   [*Apple Vision Pro for Creators* by John Ray](https://www.informit.com/store/apple-vision-pro-for-creators-a-beginners-guide-to-9780138360221)
+
+### Metal
+
+*   [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
+
+### macOS
+
+*   [*Hacking with macOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwmacos)
+
+### 🇷🇺 Russian books
+
+*   [*Swift? Не вопрос. Создай свое приложение* - Антон Разгуляев](https://www.litres.ru/book/anton-razgulyaev-33353260/swift-ne-vopros-sozday-svoe-prilozhenie-71730088/)
+*   [*Head First. Изучаем Swift* - Мэннинг Д., Баттфилд-Эддисон П.](https://www.piter.com/collection/head-first-oreilly/product/head-first-izuchaem-swift)
+
 ## [Jul 07, 2026](/content/2026/07/07/README.md)
 
 ### Swift
@@ -285,7 +337,6 @@
 ### iOS
 
 *   [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
-*   [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643)
 
 ## [Mar 20, 2021](/content/2021/03/20/README.md)
 
@@ -322,12 +373,6 @@
 ### Catalyst
 
 *   [*Catalyst by Tutorials* By Marin Bencevic, Andy Pereira and Nick Bonatsakis](https://www.raywenderlich.com/books/catalyst-by-tutorials/v2.0)
-
-## [Mar 13, 2021](/content/2021/03/13/README.md)
-
-### Swift
-
-*   [*Swift Cookbook* by Keith Moon, Chris Barker](https://www.packtpub.com/product/swift-cookbook-second-edition/9781839211195)
 
 ## [Mar 12, 2021](/content/2021/03/12/README.md)
 
@@ -501,7 +546,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐683)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐690)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Dec 19, 2019](/content/2019/12/19/README.md)
@@ -528,12 +573,6 @@
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
-
-## [Oct 10, 2019](/content/2019/10/10/README.md)
-
-### Combine
-
-*   [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 
 ## [Oct 07, 2019](/content/2019/10/07/README.md)
 
@@ -622,12 +661,6 @@
 
 *   [*ARKit by Tutorials* by Chris Language, Namrata Bandekar, Antonio Bello, Tammy Coron](https://store.raywenderlich.com/products/arkit-by-tutorials)
 
-## [May 16, 2019](/content/2019/05/16/README.md)
-
-### Metal
-
-*   [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
-
 ## [May 14, 2019](/content/2019/05/14/README.md)
 
 ### Functional Swift
@@ -637,10 +670,6 @@
 ### Architecture
 
 *   [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
-
-### Data Structures and Algorithms
-
-*   [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
 
 ### Database
 
@@ -671,12 +700,6 @@
 ### Swift
 
 *   [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
-
-## [May 05, 2019](/content/2019/05/05/README.md)
-
-### Swift
-
-*   [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
 
 ## [May 04, 2019](/content/2019/05/04/README.md)
 

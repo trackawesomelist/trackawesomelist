@@ -21,6 +21,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [superlog.sh](https://superlog.sh/) - Open-source OpenTelemetry observability (traces, logs, and metrics) with AI-agent incident investigation. The free tier includes 1M spans, 5M logs, and 10M metric points per month with 30-day retention, no credit card required. Fully open-source and self-hostable.
 
+### Forms
+
+*   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
+
 ## [Jul 06 - Jul 12, 2026](/content/2026/27/README.md)
 
 ### APIs, Data, and ML
@@ -3895,10 +3899,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Testing
 
 *   [websitepulse.com](https://www.websitepulse.com/tools/) - Various free network and server tools.
-
-### Docker Related
-
-*   [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive, fun playground to learn Docker.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 

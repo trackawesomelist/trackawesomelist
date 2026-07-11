@@ -2,7 +2,7 @@
 
 A curated list of awesome TikZ documentations, libraries and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xiaohanyu/awesome-tikz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) · ⭐ 1.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xiaohanyu/awesome-tikz/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/xiaohanyu/awesome-tikz/README.md) / [Weekly](/content/xiaohanyu/awesome-tikz/week/README.md) / Overview ]
 
@@ -32,7 +32,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-*   [SourceForge (⭐1.1k)](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
+*   [SourceForge (⭐1.3k)](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
 *   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -51,28 +51,29 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 ## Gallery
 
 *   [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
-*   [walmes/Tikz (⭐444)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
-*   [MartinThoma/LaTeX-examples (⭐1.6k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
+*   [walmes/Tikz (⭐483)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
+*   [MartinThoma/LaTeX-examples (⭐1.7k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
 *   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
 *   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
-*   [PetarV-/TikZ (⭐1.2k)](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
-*   [alemelis/tikz\_drawings (⭐54)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
-*   [LatexDiagrams (⭐190)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
-*   [tikz-network (⭐326)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+*   [PetarV-/TikZ (⭐1.4k)](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+*   [alemelis/tikz\_drawings (⭐58)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
+*   [LatexDiagrams (⭐208)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+*   [tikz-network (⭐362)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 *   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
+*   [OpenTikZ (⭐170)](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
 ## Tools
 
 *   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
-*   [ktikz (⭐350)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
+*   [ktikz (⭐394)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 *   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
-*   [itikz (⭐62)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
-*   [matlab2tikz (⭐1.6k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
-*   [matplotlib2tikz (⭐2.4k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
-*   [PlotNeuralNet (⭐22k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-*   [awesome-latex-drawing (⭐1.3k)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
-*   [sane\_tikz (⭐375)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
-*   [quiver (⭐2.4k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+*   [itikz (⭐63)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
+*   [matlab2tikz (⭐1.7k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+*   [matplotlib2tikz (⭐2.6k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+*   [PlotNeuralNet (⭐25k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+*   [awesome-latex-drawing (⭐2k)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+*   [sane\_tikz (⭐428)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
+*   [quiver (⭐3.6k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
 *   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
 
 ## Libraries

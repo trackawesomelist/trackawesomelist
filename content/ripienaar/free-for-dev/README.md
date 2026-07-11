@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 11, 2026](/content/2026/07/11/README.md)
+
+### Forms
+
+*   [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
+
 ## [Jul 10, 2026](/content/2026/07/10/README.md)
 
 ### Tools for Teams and Collaboration
@@ -4656,12 +4662,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Testing
 
 *   [websitepulse.com](https://www.websitepulse.com/tools/) - Various free network and server tools.
-
-## [Jan 07, 2020](/content/2020/01/07/README.md)
-
-### Docker Related
-
-*   [Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive, fun playground to learn Docker.
 
 ## [Jan 05, 2020](/content/2020/01/05/README.md)
 
